@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4747-l4816
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY
+    HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES
+    TO FLOWER; lines 4747-4816
+  start: '4747'
+  end: '4816'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A withered tree bursts into bloom, and the Daimio rewards and names the
+    good old man Hana-Saka-Jijii. The envious neighbor tries to imitate him by using
+    ashes from the burned mortar, falsely claims to be the true Hana-Saka-Jijii, fails
+    to make a dead tree bloom, and is imprisoned as an impostor. The good old man
+    becomes prosperous and lives happily.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A withered tree at once bursts into full bloom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Daimio rejoices, calls the old man down from the tree, gives him a cup
+    of sake, rewards him with silver, gold, and precious things, and orders that he
+    be known as Hana-Saka-Jijii.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wicked neighbor hears of the good old man’s fortune and is filled with
+    envy and jealousy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The neighbor recalls earlier failures and decides to imitate the old man by
+    sprinkling ashes on withered trees.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The neighbor gathers ashes remaining in the fireplace from the burning of
+    the wonderful mortar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The neighbor publicly calls out that he can make withered or dead trees blossom.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Daimio hears the cry at his palace and has retainers bring the claimant
+    before him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Daimio notices that the claimant is not like the old man seen before and
+    questions whether he is the man named Hana-Saka-Jijii.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The envious neighbor lies, claiming to be the true Hana-Saka-Jijii and saying
+    the earlier old man was only his disciple.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: In the garden, before the Daimio and his Court, the neighbor scatters ashes
+    over a dead tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The dead tree produces neither flowers nor buds despite repeated sprinkling
+    with ashes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Ashes blow into the Daimio’s eyes; he becomes angry and orders the false Hana-Saka-Jijii
+    arrested and imprisoned as an impostor.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The wicked old man is never freed from imprisonment, while the good old man
+    becomes rich and prosperous and lives a long happy life.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Good old man / Hana-Saka-Jijii
+  description: The old man whose action is followed by the withered tree blooming;
+    the Daimio names him Hana-Saka-Jijii, rewards him, and sends him home with honor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Daimio
+  description: A lord who witnesses or hears of the tree-blossoming claim, rewards
+    and names the good old man, questions the later claimant, and orders the impostor
+    imprisoned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Wicked neighbor / envious neighbor / false Hana-Saka-Jijii
+  description: The neighbor who envies the good old man, gathers ashes, falsely claims
+    to be the true Hana-Saka-Jijii, fails to make a tree blossom, and is imprisoned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Daimio’s retainers and Court
+  description: The retainers bring the claimant before the Daimio and later arrest
+    him; the Court follows the Daimio into the garden.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Shiro
+  description: A named figure said to have found the treasure of gold coins for the
+    good old man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: honored tree-blossoming elder
+  assigned_to:
+  - fig:1
+  basis: The withered tree blooms, and the Daimio gives the old man the name Hana-Saka-Jijii,
+    rewards him, and honors him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruler, patron, name-giver, and judge
+  assigned_to:
+  - fig:2
+  basis: The Daimio rewards and names the good old man, summons the later claimant,
+    questions him, and orders imprisonment after the failed demonstration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: envious imitator and impostor
+  assigned_to:
+  - fig:3
+  basis: The neighbor envies the good old man, imitates his ash-sprinkling, lies about
+    his identity, and is punished as an impostor.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: attendants and enforcers
+  assigned_to:
+  - fig:4
+  basis: The retainers bring in the claimant and arrest him; the Court accompanies
+    the Daimio to the garden.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: finder of treasure
+  assigned_to:
+  - fig:5
+  basis: The passage says Shiro had found the treasure of gold coins for the good
+    old man.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: withered or dead tree
+  literal_form: A withered tree that bursts into bloom, and a later dead tree that
+    does not flower or bud.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: ashes from the fireplace
+  literal_form: Ashes remaining in the fireplace from the burning of the wonderful
+    mortar, carried and scattered over a dead tree.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: sake cup
+  literal_form: A wine cup filled with the best sake given by the Daimio to the old
+    man.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gold and silver reward or treasure
+  literal_form: Silver, gold, precious things, and treasure of gold coins associated
+    with the old man’s prosperity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Withered tree blooms and elder is rewarded
+  summary: The withered tree bursts into full bloom; the Daimio rejoices, gives the
+    old man sake and valuables, names him Hana-Saka-Jijii, and sends him home with
+    honor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Neighbor forms an imitation plan
+  summary: The wicked neighbor hears of the old man’s fortune, feels envy, decides
+    to imitate ash-sprinkling, gathers ashes from the fireplace, and proclaims that
+    he can make dead trees blossom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: False identity before the Daimio
+  summary: The Daimio questions the claimant because he does not resemble the earlier
+    old man; the neighbor lies that he is the true Hana-Saka-Jijii and that the earlier
+    man was his disciple.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Failed tree-blossoming demonstration and arrest
+  summary: In the garden, the neighbor scatters ashes over a dead tree, but no flower
+    or bud appears; ashes blow into the Daimio’s eyes, and the Daimio orders the impostor
+    imprisoned.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Final fortunes
+  summary: The wicked old man remains imprisoned, while the good old man becomes wealthy
+    through Shiro’s found treasure and the Daimio’s rewards, living long and happily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: withered or dead tree made to blossom
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  - seasonal_cycle
+  basis: The passage centers on a withered tree bursting into bloom and on a later
+    failed attempt to make a dead tree blossom by the same apparent method.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a magical flowering of a tree, not an explicit cosmological
+    resurrection or seasonal doctrine.
+- id: motif:2
+  label: envious imitator fails to reproduce a wonder
+  taxonomy_refs: []
+  basis: The neighbor envies the good old man, imitates his ash-sprinkling, falsely
+    claims superior identity, and fails to produce flowers or buds.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names this social imitation-and-failure
+    pattern.
+- id: motif:3
+  label: impostor exposed and punished
+  taxonomy_refs: []
+  basis: The neighbor’s false claim to be Hana-Saka-Jijii is tested by performance,
+    fails, and leads to arrest and permanent imprisonment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The punishment is ordered by the Daimio; the passage does not present
+    it as divine judgment.
+- id: motif:4
+  label: good elder rewarded while wicked neighbor is punished
+  taxonomy_refs: []
+  basis: The good old man receives honor, riches, and long happiness, while the wicked
+    neighbor is imprisoned for his evil deeds.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a moral plot pattern; no closer available taxonomy reference is
+    directly supported by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4747-4755
+  quote_or_summary: A withered tree blooms; the Daimio rejoices, gives the old man
+    sake and valuable rewards, names him Hana-Saka-Jijii, and sends him home with
+    honor.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+- id: ev:2
+  type: summary
+  locator: 4757-4766
+  quote_or_summary: The wicked neighbor hears of the good old man’s fortune, becomes
+    envious, recalls earlier failures, decides to imitate ash-sprinkling, and gathers
+    ashes from the fireplace where the wonderful mortar had burned.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+- id: ev:3
+  type: summary
+  locator: 4767-4779
+  quote_or_summary: The neighbor goes out calling that he can make withered or dead
+    trees blossom; the Daimio hears at his palace and sends retainers to bring him
+    in.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+- id: ev:4
+  type: summary
+  locator: 4781-4797
+  quote_or_summary: The Daimio questions the claimant because he does not resemble
+    the earlier old man; the neighbor lies that he is the true Hana-Saka-Jijii and
+    that the earlier visitor was his disciple.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+- id: ev:5
+  type: summary
+  locator: 4798-4809
+  quote_or_summary: In the garden the neighbor scatters ashes over a dead tree, but
+    no bloom or bud appears; after repeated attempts, ashes blow into the Daimio’s
+    eyes, and he orders the false Hana-Saka-Jijii arrested and imprisoned as an impostor.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+- id: ev:6
+  type: summary
+  locator: 4810-4816
+  quote_or_summary: The wicked old man remains imprisoned as punishment; the good
+    old man becomes rich from Shiro’s found gold coins and the Daimio’s gold and silver,
+    and lives long, happy, loved, and respected.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are literal
+    plot-pattern identifications; taxonomy links are limited because the passage does
+    not explicitly state broader cosmological meanings. No comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations, roles, symbols, scenes, and candidate motifs cite supplied-passage evidence only.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4747-l4816
+  passage_sha256=e117825251b03687f5a329e0362e1b8b8c19da0ced599ef8c5889f07ad0cafe2
+

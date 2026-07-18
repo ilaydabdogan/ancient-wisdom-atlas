@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l14645-l14664
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: THE  MASNA  VI. / MOSES  AND  PHARAOH. / THE  MASNAVL / MOSES  AND  PHARAOH.;
+    lines 14645-14664
+  start: '14645'
+  end: '14664'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: you are, as it were, the foam, and I the mighty ocean beneath it
+  summary: A king tells an intercessor that the plea for an offender is actually the
+    king's own action through the intercessor. He invokes a Qur'anic citation and
+    uses a foam-and-ocean image. The offender is released but later shows no gratitude
+    to his protector, prompting people to question him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he would gladly pardon the offender even if the offender
+    had acted like a demon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he cannot refuse the addressee's entreaties because they
+    are the same as his own.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the entreaties are made by himself through the addressee's
+    mouth and identifies himself as the real actor while calling the addressee his
+    agent.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker invokes the text, 'You shot not when you shot,' and compares the
+    addressee to foam and himself to the mighty ocean beneath it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says the mercy shown to the offender by the addressee is really
+    shown by the king.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The offender is released and goes his way.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After release, the offender shows no gratitude to his protector, omits greeting
+    him, and refuses to recognize the favor received from him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: People notice the offender's behavior and question him about the cause of
+    his ingratitude to his benefactor.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the king / speaker
+  description: The speaker who says he is the real actor, the source of mercy, and
+    the king.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the addressee / protector
+  description: The person whose entreaties are accepted, who is described as the king's
+    agent, and whom the offender later fails to greet or recognize as benefactor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the offender
+  description: The person for whom pardon is discussed, who is released, and who later
+    shows no gratitude to his protector.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: people
+  description: Unspecified people who remark on the offender's behavior and question
+    him about his ingratitude.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pardoning king
+  assigned_to:
+  - fig:1
+  basis: The speaker says he would pardon the offender and calls himself the king.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: real actor and source of mercy
+  assigned_to:
+  - fig:1
+  basis: The speaker says the entreaties and mercy are really his own actions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: intercessory agent and protector
+  assigned_to:
+  - fig:2
+  basis: The addressee makes entreaties for the offender, is called the king's agent,
+    and is later called the offender's protector and benefactor.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: pardoned offender and ungrateful recipient
+  assigned_to:
+  - fig:3
+  basis: The offender is released but later shows no gratitude and refuses to recognize
+    the favor received.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: public questioners
+  assigned_to:
+  - fig:4
+  basis: People remark on the offender's behavior and question him about it.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: foam
+  literal_form: foam
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mighty ocean beneath the foam
+  literal_form: mighty ocean beneath it
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: The king explains agency behind intercession
+  summary: The king tells the addressee that the plea for the offender is actually
+    the king's own plea through the addressee, and he uses a Qur'anic citation and
+    a foam-ocean image to explain the relation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The released offender shows ingratitude
+  summary: The offender is released, then fails to acknowledge his protector or the
+    favor received, causing people to question him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: higher actor working through a human agent
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker says the addressee's entreaties are actually his own, made through
+    the addressee's mouth, and compares the addressee to foam over the ocean.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the relation as king and agent; the annihilation/union
+    taxonomy reference is tentative and should be reviewed.
+- id: motif:2
+  label: pardon of an offender through intercession
+  taxonomy_refs:
+  - divine_judgment
+  basis: The king says he would pardon the offender because he cannot refuse the entreaties,
+    and the offender is released.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses a royal pardon scene; any divine-judgment reading depends
+    on surrounding context not included here.
+- id: motif:3
+  label: ingratitude after receiving deliverance
+  taxonomy_refs: []
+  basis: After release, the offender does not greet his protector and refuses to recognize
+    the favor received, prompting public questioning.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif.
+- id: motif:4
+  label: didactic scriptural citation on agency
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker cites 'You shot not when you shot' to explain that the apparent
+    human action is really the action of another actor.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad; the exact doctrinal significance
+    requires human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects its teaching on delegated agency to the cited
+    Qur'anic phrase 'You shot not when you shot.'
+  claim_level: same_function
+  target: Koran viii.17
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison supported by the passage's own citation only;
+    it does not establish broader historical or doctrinal claims beyond the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14645-14651
+  quote_or_summary: The speaker says he would pardon the offender, cannot refuse the
+    addressee's entreaties, and is the real actor acting through the addressee's mouth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14651-14654
+  quote_or_summary: "'You shot not when you shot'; the addressee is described as foam
+    and the speaker as the mighty ocean beneath it."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:3
+  type: summary
+  locator: lines 14654-14656
+  quote_or_summary: The speaker says the mercy shown to the offender is really shown
+    by him, the king.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 14656-14660
+  quote_or_summary: The offender is released, but shows no gratitude to his protector,
+    does not greet him, and refuses to recognize the favor received.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 14660-14664
+  quote_or_summary: People remark on the offender's behavior and question him about
+    his ingratitude to his benefactor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: citation
+  locator: footnote in supplied passage
+  quote_or_summary: The supplied passage identifies the cited text as Koran viii.17.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied excerpt. Motif taxonomy
+    assignments involving annihilation/union, divine judgment, and wisdom are interpretive
+    and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l14645-l14664
+  passage_sha256=1b8d241a7c9cae14c956e489672eb7e46f0eb073f1c7ae5b70db2bd888112315
+

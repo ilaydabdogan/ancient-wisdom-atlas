@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3110-l3124
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MOUSE AND THE BULL / THE HARE AND THE HOUND / THE TOWN MOUSE AND THE
+    COUNTRY MOUSE / THE LION AND THE BULL; lines 3110-3124
+  start: '3110'
+  end: '3124'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The net is spread in vain in sight of the bird.
+  summary: A Lion tries to lure a Bull to his den by claiming to be sacrificing a
+    sheep and inviting the Bull to dine. The Bull notices cooking implements but no
+    sheep, leaves, and explains that the preparations show that the intended victim
+    is a bull, not a sheep. The fable ends with a maxim about a visible net failing
+    to catch a bird.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Lion sees a fine fat Bull pasturing among a herd of cattle and seeks a way
+    to get him into his clutches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The Lion sends word that he is sacrificing a sheep and invites the Bull to
+    dine with him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bull accepts the invitation and arrives at the Lion’s den.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the den, the Bull sees many saucepans and spits but no sheep.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bull turns away and walks off quietly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Lion calls after the Bull and asks the reason for his departure.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Bull says that the preparations show the intended victim is a bull rather
+    than a sheep.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The closing maxim says that a net is spread in vain when it is in sight of
+    the bird.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A Lion who sees the Bull, plans to get him into his clutches, claims
+    to be sacrificing a sheep, and invites the Bull to dine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Bull
+  description: A fine fat Bull who is invited to the Lion’s den, notices the absence
+    of the sheep and the presence of cooking implements, and leaves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Sheep
+  description: An animal the Lion claims to be sacrificing; no sheep is seen at the
+    den.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Bird
+  description: A bird mentioned only in the closing maxim about a visible net.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive predator-host
+  assigned_to:
+  - fig:1
+  basis: The Lion seeks to get the Bull into his clutches and uses an invitation based
+    on a claimed sheep sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cautious intended victim-guest
+  assigned_to:
+  - fig:2
+  basis: The Bull is invited to the den, infers from the preparations that he is the
+    intended victim, and leaves.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: claimed sacrificial animal
+  assigned_to:
+  - fig:3
+  basis: The Lion says he is sacrificing a sheep, but the Bull sees no sign of one.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: proverbial creature avoiding visible trap
+  assigned_to:
+  - fig:4
+  basis: The maxim states that a visible net is spread in vain before a bird.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Lion’s den
+  literal_form: den
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Cooking and roasting implements
+  literal_form: saucepans and spits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Absent sheep
+  literal_form: claimed sheep sacrifice with no sheep present
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Visible net
+  literal_form: net spread in sight of a bird
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lion’s deceptive invitation
+  summary: The Lion sees the Bull among cattle, wants to seize him, and sends an invitation
+    by claiming to be sacrificing a sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Bull inspects the den and leaves
+  summary: The Bull comes to the Lion’s den, sees saucepans and spits but no sheep,
+    and quietly departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanation and maxim
+  summary: The Lion asks why the Bull leaves, and the Bull explains that the preparations
+    show that a bull, not a sheep, was meant as the victim. The closing maxim compares
+    the failed trap to a net visible to a bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Visible trap avoided through prudence
+  taxonomy_refs:
+  - wisdom
+  basis: The Bull notices evidence inconsistent with the Lion’s stated invitation
+    and leaves; the maxim explicitly says a visible net is spread in vain before a
+    bird.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy link to wisdom is based on practical discernment in a fable,
+    not on esoteric or divine wisdom.
+- id: motif:2
+  label: False hospitality as predatory lure
+  taxonomy_refs: []
+  basis: The Lion invites the Bull to dine while seeking to get him into his clutches.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader historical or cross-cultural claim is made from this passage
+    alone.
+- id: motif:3
+  label: Purported sacrifice conceals intended victim
+  taxonomy_refs:
+  - sacrifice
+  basis: The Lion claims to be sacrificing a sheep, but the Bull concludes from the
+    preparations that the intended victim is a bull.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The sacrifice is a claimed pretext in an animal fable; the passage does
+    not describe an enacted sacred rite.
+comparison_claims:
+- id: claim:1
+  claim: 'The fable’s failed lure has the same function as the closing proverbial
+    image of a net visible to a bird: a trap fails when the intended victim can see
+    its signs.'
+  claim_level: same_function
+  target: visible net / bird proverb in the closing maxim
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the passage’s own maxim,
+    not evidence of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: citation
+  locator: '3110'
+  quote_or_summary: 'Title: “THE LION AND THE BULL.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: summary
+  locator: 3112-3115
+  quote_or_summary: The Lion sees a fine fat Bull among cattle, seeks a means to get
+    him into his clutches, claims to be sacrificing a sheep, and invites the Bull
+    to dine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3115-3118
+  quote_or_summary: The Bull arrives at the Lion’s den and sees “a great array of
+    saucepans and spits, but no sign of a sheep,” then leaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:4
+  type: quote
+  locator: 3118-3122
+  quote_or_summary: The Lion asks why the Bull is leaving; the Bull says the preparations
+    show “the victim was to be a Bull and not a sheep.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:5
+  type: quote
+  locator: '3124'
+  quote_or_summary: "“The net is spread in vain in sight of the bird.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal plot extraction is straightforward. Motif labels are passage-level
+    candidates and should be reviewed, especially the optional taxonomy link to sacrifice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text was used; although the locator label names multiple fables, the supplied passage contains only “THE LION AND THE BULL.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3110-l3124
+  passage_sha256=6b3f42ee4576f547bb9eb21a8d8a36b4ef7cf834ffcb23adcabeb515478a1214
+

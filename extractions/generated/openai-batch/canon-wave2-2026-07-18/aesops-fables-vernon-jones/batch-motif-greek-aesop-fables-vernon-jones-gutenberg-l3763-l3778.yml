@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3763-l3778
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE KINGDOM OF THE LION / THE ASS AND HIS DRIVER / THE LION AND THE HARE
+    / THE WOLVES AND THE DOGS; lines 3763-3778
+  start: '3763'
+  end: '3778'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Traitors richly deserve their fate.
+  summary: The wolves urge the dogs to stop being enemies, abandon their service to
+    mankind, and surrender the flocks. The dogs are persuaded and enter the wolves'
+    den, where the wolves kill them. The moral says traitors deserve their fate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wolves speak to the dogs and ask why they should continue as enemies.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolves say the dogs are very like them and that the main difference is
+    training.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolves describe themselves as free and the dogs as enslaved to mankind,
+    beaten, collared, compelled to guard flocks and herds, and fed bones.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The wolves ask the dogs to hand over the flocks and promise that all will
+    feast together.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The dogs are persuaded by the wolves' words and accompany the wolves into
+    their den.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Once the dogs are inside the den, the wolves attack them and tear them to
+    pieces.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The concluding moral calls the destroyed dogs traitors and says they richly
+    deserve their fate.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wolves
+  description: A group of wolves who address the dogs, propose an end to enmity, lead
+    them into the den, and kill them there.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dogs
+  description: A group of dogs described as serving mankind by guarding flocks and
+    herds; they are persuaded by the wolves, enter the den, and are killed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mankind
+  description: Humans described in the wolves' speech as masters who beat the dogs,
+    collar them, make them guard flocks and herds, and feed them bones.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: persuasive enemies
+  assigned_to:
+  - fig:1
+  basis: The wolves address the dogs as former enemies and argue for abandoning that
+    enmity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: predatory killers
+  assigned_to:
+  - fig:1
+  basis: The wolves attack the dogs once they are inside the den and tear them to
+    pieces.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: guardians of flocks and herds
+  assigned_to:
+  - fig:2
+  basis: The wolves say mankind compels the dogs to keep watch over flocks and herds.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: persuaded traitors and victims
+  assigned_to:
+  - fig:2
+  basis: The dogs accept the wolves' persuasion, enter the den, are killed, and the
+    moral calls them traitors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: human masters
+  assigned_to:
+  - fig:3
+  basis: The wolves' speech describes mankind as controlling the dogs' labor and food.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wolves' den
+  literal_form: den
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: heavy collars
+  literal_form: heavy collars round the dogs' necks
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bones
+  literal_form: bones given to the dogs to eat
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: flocks and herds
+  literal_form: flocks and herds guarded by the dogs and demanded by the wolves
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Wolves propose alliance and defection
+  summary: The wolves tell the dogs that their enmity is unnecessary, contrast wolf
+    freedom with dog service to mankind, and ask the dogs to surrender the flocks
+    so all may feast together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dogs enter the den
+  summary: The dogs are persuaded by the wolves and accompany them into the wolves'
+    den.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attack and moral coda
+  summary: The wolves attack the dogs inside the den and tear them apart; the passage
+    ends with a moral about traitors deserving their fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deceptive alliance with an enemy
+  taxonomy_refs: []
+  basis: The wolves persuade the dogs to abandon enmity and join them, but kill them
+    after the dogs enter the den.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Plain fable motif; no supplied taxonomy reference is an exact fit.
+- id: motif:2
+  label: traitor punished by destruction
+  taxonomy_refs: []
+  basis: The dogs are persuaded to go over to the wolves and are killed; the moral
+    explicitly states that traitors deserve their fate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The text labels the dogs as traitors in the moral; the details of any
+    actual handover of the flocks are not narrated.
+- id: motif:3
+  label: appeal to oppression as temptation
+  taxonomy_refs: []
+  basis: The wolves use claims about the dogs' mistreatment by mankind as part of
+    their persuasion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The mistreatment is reported within the wolves' persuasive speech; the
+    passage does not separately verify it outside that speech.
+- id: motif:4
+  label: fatal entry into predator's den
+  taxonomy_refs: []
+  basis: The dogs accompany the wolves into the den, and only after they are well
+    inside do the wolves attack them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern in the fable, not mapped to a supplied
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3763-3772
+  quote_or_summary: The wolves tell the dogs they should no longer be enemies, claim
+    they are alike except for training, describe the dogs as oppressed by mankind,
+    and ask them to hand over the flocks so all can feast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 3773-3775
+  quote_or_summary: The dogs are persuaded by the wolves' words and accompany them
+    into their den.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation/paraphrase permitted.
+- id: ev:3
+  type: quote
+  locator: 3775-3776
+  quote_or_summary: Once the dogs are inside, the wolves set upon them and tear them
+    to pieces.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation/paraphrase permitted.
+- id: ev:4
+  type: quote
+  locator: '3778'
+  quote_or_summary: Traitors richly deserve their fate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to supplied taxonomy refs. No comparison claims are asserted because the
+    passage itself gives no explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The passage locator label names several fables, but the supplied passage text contains only THE WOLVES AND THE DOGS.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3763-l3778
+  passage_sha256=25f2e7db3222930d1260e43eb34f4ba55f034ed7303f0bfc42a8e98f5116dd77
+

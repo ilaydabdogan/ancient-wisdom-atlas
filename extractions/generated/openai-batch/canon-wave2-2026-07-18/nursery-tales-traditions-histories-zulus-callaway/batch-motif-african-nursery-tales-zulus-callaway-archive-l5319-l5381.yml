@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5319-l5381
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: USIKULUMI. / IZINGANEKWANE. / UZEMBENI. / UZEMBENI;46; lines 5319-5381
+  start: '5319'
+  end: '5381'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Uzembeni as a great woman with two daughters. She
+    devours the people of her country, eating men together with game and boiling human
+    and animal flesh together, until no other people remain. Her two daughters are
+    noted for their beauty. When no men remain, Uzembeni catches one daughter, tears
+    off one cheek, boils and eats it, but finds the flesh bitter and no longer wants
+    to finish eating her.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uzembeni is described as a great woman.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Uzembeni has two daughters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Uzembeni devours the men of the country where she lives until they are destroyed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Uzembeni eats men and game, kills man together with deer, and boils human
+    flesh and deer flesh together.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the people are consumed, only Uzembeni and her two daughters remain.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Uzembeni’s daughters are known among the tribes for their beauty.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Because there are no more men, Uzembeni catches one daughter, tears off one
+    cheek, boils it, and eats it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The daughter’s flesh is bitter, and Uzembeni no longer wants to eat the daughter
+    up.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A footnote glosses Uzembeni as “Axe-bearer,” and gives Uzwanide as an alternate
+    name meaning “Long-toe.”
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Uzembeni
+  description: A great woman, also glossed in the footnote as “Axe-bearer,” who has
+    two daughters and devours people and game.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Uzembeni’s two daughters
+  description: Two daughters of Uzembeni, famous among the tribes for their beauty
+    and left with her after other people are consumed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: One daughter of Uzembeni
+  description: One of Uzembeni’s daughters, caught by her mother; one cheek is torn
+    off, boiled, and eaten, but her flesh is bitter.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Men or people of the country
+  description: The people among whom Uzembeni lives; they are devoured and destroyed
+    by her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Game or deer
+  description: Animals killed and eaten with men; their flesh is boiled together with
+    human flesh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: destroyer and devourer
+  assigned_to:
+  - fig:1
+  basis: Uzembeni devours the men of the country and eats men and game until the people
+    are destroyed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: Uzembeni is said to have two daughters.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: daughters or children
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage identifies two daughters of Uzembeni, including one whom she
+    later attacks.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: renowned beauties
+  assigned_to:
+  - fig:2
+  basis: The daughters are described as celebrated among the tribes because of their
+    beauty.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: attacked child-victim
+  assigned_to:
+  - fig:3
+  basis: One daughter is caught by Uzembeni, has her cheek torn off, and is partially
+    eaten.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: consumed human victims
+  assigned_to:
+  - fig:4
+  basis: The men or people of the country are devoured and destroyed by Uzembeni.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: animal prey
+  assigned_to:
+  - fig:5
+  basis: Game or deer are killed and eaten with men.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: boiled human and animal flesh
+  literal_form: Human flesh and deer flesh boiled together
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: torn cheek of the daughter
+  literal_form: One cheek torn from Uzembeni’s daughter, then boiled and eaten
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: bitter kin-flesh
+  literal_form: The daughter’s flesh, tasted by Uzembeni and found bitter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Uzembeni destroys the country’s people
+  summary: Uzembeni, a great woman with two daughters, devours the men of the country,
+    kills men with game, and boils human and animal flesh together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Uzembeni and her daughters remain
+  summary: When the people have been consumed, Uzembeni and her two daughters are
+    left; the daughters are famous for beauty among the tribes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Uzembeni tastes her daughter’s flesh
+  summary: With no men left to eat, Uzembeni catches one daughter, removes a cheek,
+    boils and eats it, but finds the flesh bitter and does not want to finish eating
+    her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: cannibal destroyer consumes a community
+  taxonomy_refs: []
+  basis: Uzembeni devours the men of her country and destroys the people, while also
+    eating game.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the opening portion of the tale; no broader outcome
+    is present in this excerpt.
+- id: motif:2
+  label: mother turns cannibal appetite toward her child
+  taxonomy_refs: []
+  basis: After all other people are gone, Uzembeni catches one daughter, removes and
+    eats part of her cheek, and considers eating her up.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The excerpt ends before the full narrative consequence of this act is
+    shown.
+- id: motif:3
+  label: beautiful sister pair left after devastation
+  taxonomy_refs:
+  - sibling_pair
+  basis: Uzembeni’s two daughters remain after other people are consumed, and they
+    are known among the tribes for their beauty.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies the daughters as a pair of sisters, but this excerpt
+    does not yet show them acting together as a developed sibling-pair motif.
+- id: motif:4
+  label: kin-flesh rejected as bitter
+  taxonomy_refs: []
+  basis: Uzembeni eats part of her daughter but finds the flesh bitter and no longer
+    wishes to eat her up.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The meaning or later narrative function of the bitterness is not supplied
+    in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5319-5381, opening English translation
+  quote_or_summary: Uzembeni is introduced as a great woman who has two daughters.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: Uzembeni devours the men of the country where she lives until
+    she destroys them all.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: Uzembeni eats men and game, kills man together with deer, and
+    boils the flesh of man and deer together.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: When the people are utterly consumed, only Uzembeni and her two
+    daughters are left.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: Uzembeni’s daughters are celebrated among the tribes because of
+    their beauty.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: Because no men remain, Uzembeni catches one daughter, tears off
+    her cheek on one side, boils it, and eats it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 5319-5381, English translation
+  quote_or_summary: The daughter’s flesh is bitter, so Uzembeni no longer wants to
+    eat her up.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:8
+  type: note
+  locator: 5319-5381, footnote 46
+  quote_or_summary: The footnote glosses Uzembeni as “Axe-bearer,” and Uzwanide as
+    “Long-toe.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; brief quotation from footnote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is supported by the English translation in the supplied
+    excerpt. Motif labels are passage-level candidates only. No comparison claims
+    are made because the passage itself does not explicitly support comparison to
+    another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied line range and metadata were used. The excerpt appears to stop mid-sentence after “she won-” in the scanned text, but the English translation within the supplied passage gives enough context to summarize the scene through Uzembeni’s rejection of the bitter flesh.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5319-l5381
+  passage_sha256=fb960ada6f05ea4773c5da0599f7d66ab63473f4bea6dfd520544a26137c276a
+

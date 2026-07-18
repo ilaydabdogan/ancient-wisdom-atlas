@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l915-l949
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MISER / THE HUNTER AND THE WOODMAN / THE HORSE AND THE ASS / THE FOX
+    AND THE GRAPES; lines 915-949
+  start: '915'
+  end: '949'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"I thought those Grapes were ripe, but I see now they are quite sour."'
+  summary: A hungry fox sees grapes hanging high on a trellised vine, tries unsuccessfully
+    to reach them by jumping, gives up, walks away appearing unconcerned, and says
+    the grapes are sour.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains headings for several fables and then the heading 'THE
+    FOX AND THE GRAPES.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hungry fox sees fine bunches of grapes hanging from a vine trained along
+    a high trellis.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fox tries to reach the grapes by jumping as high as possible into the
+    air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The attempt fails because the grapes are just out of reach, and the fox gives
+    up trying.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The fox walks away with an appearance of dignity and unconcern and says that
+    the grapes are sour.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: A hungry fox who sees grapes, tries to reach them, fails, walks away,
+    and speaks about them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Hungry seeker of food
+  assigned_to:
+  - fig:1
+  basis: The fox is described as hungry, sees grapes, and tries to reach them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Self-justifying speaker after failure
+  assigned_to:
+  - fig:1
+  basis: After failing to reach the grapes, the fox walks away and says they are sour.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Grapes
+  literal_form: Fine bunches of grapes hanging from a vine; later called sour by the
+    fox.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: High trellis
+  literal_form: A vine trained along a high trellis, placing the grapes out of reach.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fox sees grapes
+  summary: A hungry fox notices fine bunches of grapes hanging from a vine on a high
+    trellis.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Failed attempt to reach grapes
+  summary: The fox jumps as high as he can, but the grapes remain out of reach, so
+    the attempt is vain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Withdrawal and sour-grapes remark
+  summary: The fox gives up, walks away appearing dignified and unconcerned, and says
+    the grapes are sour.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Devaluing an unattainable desired object
+  taxonomy_refs: []
+  basis: The fox desires the grapes, cannot reach them, then explains his withdrawal
+    by saying they are sour.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif is inferred from
+    the sequence of failed desire followed by dismissive speech.
+- id: motif:2
+  label: Failed animal attempt to obtain elevated food
+  taxonomy_refs: []
+  basis: An animal figure tries to obtain food hanging above him and fails because
+    it is out of reach.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a surface plot pattern rather than a mapped taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 915-949
+  quote_or_summary: The supplied range lists multiple fable headings, including 'THE
+    FOX AND THE GRAPES,' before the narrated fable text.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 915-949, 'THE FOX AND THE GRAPES' segment
+  quote_or_summary: A hungry fox sees fine bunches of grapes hanging from a vine trained
+    along a high trellis.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 915-949, 'THE FOX AND THE GRAPES' segment
+  quote_or_summary: The fox tries to reach the grapes by "jumping as high as he could
+    into the air."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote used.
+- id: ev:4
+  type: summary
+  locator: lines 915-949, 'THE FOX AND THE GRAPES' segment
+  quote_or_summary: The effort is vain because the grapes are just out of reach; the
+    fox gives up and walks away with dignity and unconcern.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 915-949, 'THE FOX AND THE GRAPES' segment
+  quote_or_summary: '"I thought those Grapes were ripe, but I see now they are quite
+    sour."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The narrated action is brief and explicit. No comparison claims are made
+    because the passage itself provides no comparative evidence. Taxonomy references
+    were left empty because no supplied motif family or symbol reference is directly
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l915-l949
+  passage_sha256=7ac547377711bae1998889206887d48bd0557a73e723a66022ad854242542ea3
+

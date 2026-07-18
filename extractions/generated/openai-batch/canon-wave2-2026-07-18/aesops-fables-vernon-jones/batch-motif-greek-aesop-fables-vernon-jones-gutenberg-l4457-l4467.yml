@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4457-l4467
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE EAGLE AND THE BEETLE / THE FOWLER AND THE LARK / THE FISHERMAN PIPING
+    / THE WEASEL AND THE MAN; lines 4457-4467
+  start: '4457'
+  end: '4467'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man catches a weasel that has been sneaking around his house and prepares
+    to drown it in a tub of water. The weasel pleads for its life, claiming it has
+    been useful by clearing the house of mice and lizards. The man acknowledges some
+    usefulness but accuses the weasel of killing fowls and stealing meat, concluding
+    that it does more harm than good and must die.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man catches a weasel that has been sneaking about the house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The man is about to drown the weasel in a tub of water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The weasel begs for its life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The weasel says it has been useful by clearing the house of mice and lizards.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man grants that the weasel has not been altogether useless.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man accuses the weasel of killing fowls and stealing meat.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man concludes that the weasel does more harm than good and says it shall
+    die.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: Human figure who catches the weasel, plans to drown it, hears its plea,
+    and decides it must die.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Weasel
+  description: Animal caught sneaking about the house; it pleads for life, claims
+    usefulness against mice and lizards, and is accused of killing fowls and stealing
+    meat.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mice and lizards
+  description: Creatures said by the weasel to have formerly infested the house and
+    to have been cleared by it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fowls
+  description: Birds that the man says were killed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: householder or owner addressed by animal
+  assigned_to:
+  - fig:1
+  basis: The weasel refers to the house as the man’s house.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: captor and judge
+  assigned_to:
+  - fig:1
+  basis: The man catches the weasel, intends to drown it, evaluates its plea, and
+    declares that it shall die.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: supplicant for life
+  assigned_to:
+  - fig:2
+  basis: The weasel begs hard for its life when the man is about to drown it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: accused harmful intruder
+  assigned_to:
+  - fig:2
+  basis: The weasel is described as sneaking about the house and is accused of killing
+    fowls and stealing meat.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: household pests allegedly removed
+  assigned_to:
+  - fig:3
+  basis: The weasel says the mice and lizards used to infest the house and that it
+    cleared them away.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: animals allegedly killed
+  assigned_to:
+  - fig:4
+  basis: The man asks who killed the fowls while rejecting the weasel’s plea.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water as means of drowning
+  literal_form: tub of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: household space
+  literal_form: house
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stolen food
+  literal_form: meat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Capture and threatened drowning
+  summary: A man catches a weasel that has been sneaking about the house and is about
+    to drown it in a tub of water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Weasel’s plea for gratitude
+  summary: The weasel begs for its life and argues that it has helped the man by clearing
+    the house of mice and lizards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Judgment of greater harm
+  summary: The man acknowledges some usefulness but accuses the weasel of killing
+    fowls and stealing meat, concluding that it does more harm than good and must
+    die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: plea for mercy based on past usefulness
+  taxonomy_refs: []
+  basis: The threatened weasel begs for its life and cites its service in clearing
+    the house of mice and lizards.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as argument within a fable; it does not state
+    a separate explicit moral in the supplied excerpt.
+- id: motif:2
+  label: benefits outweighed by greater harms
+  taxonomy_refs:
+  - wisdom
+  basis: The man grants that the weasel has done some good but rejects the plea because
+    it has killed fowls and stolen meat, saying it does more harm than good.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The link to the broad taxonomy family “wisdom” is interpretive; the literal
+    passage only records the man’s practical judgment.
+- id: motif:3
+  label: domestic predator punished despite useful predation on pests
+  taxonomy_refs: []
+  basis: The weasel claims to have removed mice and lizards from the house, but the
+    man treats its killing of fowls and theft of meat as decisive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a named taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '4457'
+  quote_or_summary: 'Title supplied in passage: “THE WEASEL AND THE MAN.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; short title quoted.
+- id: ev:2
+  type: summary
+  locator: 4459-4461
+  quote_or_summary: A man catches a weasel sneaking about the house and is about to
+    drown it in a tub of water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 4461-4464
+  quote_or_summary: The weasel begs for life and says it has been useful by clearing
+    the man’s house of mice and lizards.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 4464-4467
+  quote_or_summary: The man says the weasel was not altogether useless but accuses
+    it of killing fowls and stealing meat, concluding that it does more harm than
+    good and must die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are passage-level generalizations; only the broad “wisdom” taxonomy reference
+    is included cautiously. No comparison claims are made because the passage itself
+    does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage text and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4457-l4467
+  passage_sha256=d0344271f88a914f6ac6fddd94d5d1a8d81b617a5696e837dd65f7100585864b
+

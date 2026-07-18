@@ -1,0 +1,574 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25746-l25863
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  409 / THE  CODE  OF  HAMMURAPI  411 / THE  CODE  OF  HAMMURAPI  413
+    / THE  CODE  OF  HAMMURAPI  415; lines 25746-25863
+  start: '25746'
+  end: '25863'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Selected laws from the Code of Hammurapi regulate repayment of loans in
+    grain or sesame, failed crops, negligent dike or canal maintenance causing water
+    damage, unauthorized grazing by shepherds, cutting a tree in an orchard without
+    consent, and the start of a provision about giving a field to a gardener to plant
+    a garden.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A debtor who lacks money to repay must give grain or sesame to the merchant
+    at market value fixed by the king for the loan and its interest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a cultivator has not secured a crop of grain or sesame in his field, his
+    contract is not made void.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man who neglects to strengthen his dike and whose dike breaks, allowing
+    water to carry away a meadow, must restore the grain he caused to be lost.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the man responsible for the dike break cannot restore the grain, he and
+    his goods are to be sold, and the people whose grain was carried away share the
+    proceeds.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A man who opens a canal for irrigation and neglects it, causing water to carry
+    away an adjacent field, must measure out grain on the basis of the adjacent fields.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A man who opens the waters and causes water to overflow his neighbor's field
+    must pay ten GUR of grain per GAN.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A shepherd who pastures sheep on a field without agreement or the owner's
+    consent owes the field owner twenty GUR of grain per GAN beyond the owner's harvest
+    of the field.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If a shepherd turns sheep into a field after the sheep have gone up from the
+    meadow and been closed within the gate, he must keep the field and at harvest
+    measure out sixty GUR of grain per GAN to the field owner.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A man who cuts down a tree in another man's orchard without the orchard owner's
+    consent must pay one half mina of silver.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage begins a provision in which a man gives a field to a gardener
+    to plant a garden, and the gardener plants the garden.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: merchant
+  description: Recipient of repayment for a loan and its interest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: debtor without money
+  description: Person who lacks money to return and must repay in grain or sesame.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: king
+  description: Authority by whom the market value for grain or sesame repayment is
+    fixed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: cultivator
+  description: Person who has not secured a crop of grain or sesame in his field.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: negligent dike owner
+  description: Man who neglects to strengthen his dike and whose dike breaks, causing
+    water damage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: people of the meadow
+  description: People whose grain was carried away by water from the broken dike.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: canal or water opener
+  description: Man who opens a canal or waters and causes damage to an adjacent or
+    neighboring field.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: field owner or neighbor
+  description: Owner of a field affected by overflow or unauthorized grazing.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: shepherd
+  description: Person who pastures or turns sheep into a field without the required
+    agreement or consent.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: orchard owner
+  description: Owner whose orchard contains the tree cut without consent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: tree-cutter
+  description: Man who cuts down a tree in another man's orchard without consent.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: gardener
+  description: Person given a field to plant a garden and who plants the garden.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:13
+  name_or_label: field giver
+  description: Man who gives a field to a gardener to plant a garden.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: creditor merchant
+  assigned_to:
+  - fig:1
+  basis: The merchant receives repayment of a loan and its interest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: debtor repaying in kind
+  assigned_to:
+  - fig:2
+  basis: The debtor lacks money and must repay with grain or sesame.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal price-fixing authority
+  assigned_to:
+  - fig:3
+  basis: The market value is stated to be fixed by the king.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: cultivator bound by contract
+  assigned_to:
+  - fig:4
+  basis: The cultivator's failure to secure a crop does not void his contract.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: negligent water-control actor
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The dike owner or canal/water opener causes field damage through neglect
+    or overflow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: affected agricultural owners or community
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Their meadow grain or field is damaged by water or unauthorized use.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:7
+  label: property owner granting or withholding consent
+  assigned_to:
+  - fig:8
+  - fig:10
+  - fig:13
+  basis: Field, orchard, or field-giving ownership determines consent and compensation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:8
+  label: unauthorized grazing shepherd
+  assigned_to:
+  - fig:9
+  basis: The shepherd pastures sheep on a field without agreement or turns sheep into
+    a field.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: unauthorized tree-cutter
+  assigned_to:
+  - fig:11
+  basis: The man cuts down a tree in another man's orchard without consent.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: gardener planter
+  assigned_to:
+  - fig:12
+  basis: The gardener receives a field to plant a garden and plants it.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: grain and sesame
+  literal_form: grain or sesame used as crop, repayment, or compensation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: water from a dike, canal, or opened waters that carries away or overflows
+    fields
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: dike and canal
+  literal_form: agricultural water-control structures
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: field, meadow, orchard, and garden
+  literal_form: agricultural land or planted property
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:10
+  - fig:12
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: sheep
+  literal_form: sheep pastured by a shepherd on grass or in a field
+  associated_figures:
+  - fig:9
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: tree
+  literal_form: tree cut down in a man's orchard
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: silver and money
+  literal_form: money for repayment or silver penalty
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: loan repayment and failed crop contract
+  summary: A debtor lacking money must repay a merchant with grain or sesame at royal
+    market value, while a cultivator's failure to obtain a crop does not void his
+    contract.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: broken dike and meadow loss
+  summary: A negligent dike owner whose broken dike lets water carry away a meadow
+    must restore the lost grain, or else he and his goods are sold and the affected
+    people share the proceeds.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: irrigation overflow and field compensation
+  summary: A man who opens or neglects waters so that an adjacent or neighboring field
+    is carried away or overflowed must compensate in grain according to specified
+    measures.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: unauthorized shepherd grazing
+  summary: A shepherd who pastures sheep on a field without consent or turns sheep
+    into a field must compensate the field owner in grain, with different amounts
+    specified for different circumstances.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: tree cut without orchard owner's consent
+  summary: A man who cuts down a tree in another man's orchard without consent must
+    pay a silver penalty.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: field given for garden planting
+  summary: The passage begins a rule about a man giving a field to a gardener to plant
+    a garden, and the gardener planting it.
+  figure_refs:
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: repayment in agricultural produce
+  taxonomy_refs: []
+  basis: The law permits repayment of loan and interest in grain or sesame when the
+    debtor lacks money.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-economic pattern, not a mythic motif.
+- id: motif:2
+  label: negligent water management causing agricultural loss
+  taxonomy_refs: []
+  basis: Dike, canal, and opened-water provisions assign liability when water damages
+    meadows or fields.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage treats practical legal liability; no symbolic or mythological
+    water reading is stated.
+- id: motif:3
+  label: unauthorized use of another's field by livestock
+  taxonomy_refs: []
+  basis: The shepherd provisions regulate sheep pasturing without agreement or consent
+    and require grain compensation.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a legal motif of property violation and restitution, not a narrative
+    episode.
+- id: motif:4
+  label: unauthorized tree cutting punished by silver payment
+  taxonomy_refs: []
+  basis: The law sets a silver penalty for cutting a tree in another man's orchard
+    without consent.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not indicate a sacred-tree motif; the tree is treated
+    as orchard property.
+- id: motif:5
+  label: agricultural property entrusted for cultivation
+  taxonomy_refs: []
+  basis: The passage begins a rule in which a field is given to a gardener to plant
+    a garden.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The provision is incomplete in the supplied passage, so the legal outcome
+    is not available here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25746-25763; §§51-52
+  quote_or_summary: If a debtor lacks money, he gives grain or sesame to the merchant
+    at royal market value for loan and interest; if a cultivator secures no crop,
+    his contract is not void.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:2
+  type: summary
+  locator: lines 25764-25777; §§53-54
+  quote_or_summary: A man who neglects his dike and causes water to carry away a meadow
+    must restore lost grain; if unable, he and his goods are sold and the affected
+    people share the proceeds.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:3
+  type: summary
+  locator: lines 25778-25785; §55
+  quote_or_summary: A man who opens an irrigation canal and neglects it, causing water
+    to carry away an adjacent field, must measure out grain according to the adjacent
+    fields.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:4
+  type: summary
+  locator: lines 25816-25820; §56
+  quote_or_summary: A man who opens the waters and causes overflow in his neighbor's
+    field must pay ten GUR of grain per GAN.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:5
+  type: summary
+  locator: lines 25821-25848; §§57-58
+  quote_or_summary: A shepherd who pastures sheep without agreement or consent must
+    compensate the owner; a shepherd who turns sheep into a field after meadow/gate
+    conditions must keep it and pay sixty GUR per GAN at harvest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:6
+  type: summary
+  locator: lines 25849-25853; §59
+  quote_or_summary: A man cutting down a tree in another man's orchard without the
+    owner's consent must pay one half mina of silver.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+- id: ev:7
+  type: summary
+  locator: lines 25854-25863; §60 begins
+  quote_or_summary: A man gives a field to a gardener to plant a garden, and the gardener
+    plants it; the supplied passage cuts off before the full rule is given.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied rather than extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal legal provisions are clear. Motif candidates are framed as legal
+    patterns rather than mythological motifs. No comparison claims are made because
+    the passage itself does not support comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available mythological taxonomy motif family was applied. The available symbol refs 'water' and 'tree' are used only for literal water and tree references in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25746-l25863
+  passage_sha256=c423eaa378f93a5922ae094d19808fd50dbd448c7fc74d6dba800279250913d5
+

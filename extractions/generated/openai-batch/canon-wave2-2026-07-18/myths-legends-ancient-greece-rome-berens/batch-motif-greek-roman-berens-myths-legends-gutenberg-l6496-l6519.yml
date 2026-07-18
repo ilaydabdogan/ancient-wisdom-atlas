@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6496-l6519
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PANATHENAEA. / DAPHNEPHORIA. / ROMAN FESTIVALS. / SATURNALIA.; lines 6496-6519
+  start: '6496'
+  end: '6519'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Roman Saturnalia as a December festival honoring
+    Saturn after the harvest, marked by public rejoicing, cessation of ordinary labor
+    and business, gifts, masquerade, jokes, and temporary suspension or reversal of
+    social distinctions between masters and slaves. It adds that modern Carnival appears
+    to be a survival of Saturnalia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Saturnalia is described as a national festival held in December in honor of
+    Saturn after the ingathering of the harvest, lasting several days.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The festival involved universal rejoicing, cessation from labor, merry-making,
+    school holidays, exchange of presents among friends, closure of law-courts, and
+    suspension of business.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People from the surrounding country came to Rome for the festival wearing
+    many kinds of masquerade dress.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Practical jokes were exchanged in good humor, and the passage describes exultation
+    and unrestrained hilarity among all classes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Social distinctions were temporarily suspended or even reversed during the
+    festival.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Masters waited upon their slaves at banquets that the masters provided, while
+    the slaves wore the garments of their masters.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that modern Carnival appears to be a survival of ancient
+    Saturnalia.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Saturn
+  description: The deity in whose honor the Saturnalia was held.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: School children
+  description: Children who had holidays during the Saturnalia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Friends
+  description: Friends who sent presents to each other during the festival.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Crowds from the surrounding country
+  description: People who flocked to Rome for the festival in varied masquerade dress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Masters
+  description: Masters who waited upon their slaves at banquets provided for them.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Slaves
+  description: Slaves who were served at banquets and dressed in the garments of their
+    masters.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine honoree
+  assigned_to:
+  - fig:1
+  basis: The festival is held in December in honor of Saturn.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: festival participants
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage lists groups taking part in holidays, gift exchange, masquerade,
+    and banquet customs during Saturnalia.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: gift exchangers
+  assigned_to:
+  - fig:3
+  basis: Friends sent presents to each other during the festival.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: temporary servers in social reversal
+  assigned_to:
+  - fig:5
+  basis: Masters waited upon their slaves at banquets.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: temporary recipients of reversed status
+  assigned_to:
+  - fig:6
+  basis: Slaves were served by masters and dressed in their masters' garments.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: harvest
+  literal_form: ingathering of the harvest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: presents
+  literal_form: presents sent between friends
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: masquerade dress
+  literal_form: every variety of masquerade dress
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: banquets
+  literal_form: banquets provided by masters for slaves
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: masters' garments
+  literal_form: garments of their masters worn by slaves
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: December harvest festival honoring Saturn
+  summary: Saturnalia is introduced as a several-day national festival held in December
+    in honor of Saturn after the harvest was gathered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Holiday cessation and gift exchange
+  summary: Ordinary work, school, courts, and business stop while people rejoice and
+    friends exchange presents.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Masquerade merrymaking in Rome
+  summary: Crowds come from the surrounding country to Rome in varied masquerade dress,
+    exchange practical jokes, and join in public hilarity.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Master-slave banquet reversal
+  summary: Social distinctions are temporarily suspended or reversed, with masters
+    serving slaves at banquets and slaves wearing masters' garments.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Harvest-timed divine festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The festival occurs in December after the ingathering of the harvest and
+    honors Saturn.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes a historical festival rather than a mythic narrative;
+    the seasonal-cycle classification is based on timing after harvest.
+- id: motif:2
+  label: Temporary cessation of ordinary institutions
+  taxonomy_refs: []
+  basis: Labor ceases, school children have holidays, law-courts close, and no business
+    is transacted.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to institutional suspension.
+- id: motif:3
+  label: Festival gift-giving
+  taxonomy_refs: []
+  basis: Friends send presents to one another during the festival.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes social gift exchange, not a clearly stated sacrificial
+    or divine exchange.
+- id: motif:4
+  label: Masquerade and licensed joking
+  taxonomy_refs: []
+  basis: Festival-goers wear varied masquerade dress, and practical jokes are given
+    and received with good humor.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to masquerade or ritual
+    joking.
+- id: motif:5
+  label: Temporary social inversion
+  taxonomy_refs: []
+  basis: Social distinctions are suspended or reversed; masters serve slaves at banquets
+    and slaves wear masters' garments.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a festival custom, not as a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that modern Carnival appears to be a survival of ancient
+    Saturnalia.
+  claim_level: historical_contact
+  target: modern Carnival
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an assertion within the supplied passage; the passage gives
+    no additional evidence for transmission, regional variation, or specific Carnival
+    practices.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6500-6502
+  quote_or_summary: "“The Saturnalia, a national festival held in December in honour
+    of Saturn,” was celebrated after the harvest and lasted several days."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 6504-6506
+  quote_or_summary: The passage describes rejoicing, cessation from labor, school
+    holidays, presents between friends, closed law-courts, and no business transacted.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 6508-6511
+  quote_or_summary: Crowds from the surrounding country flocked to Rome in varied
+    masquerade dress; jokes, exultation, and general hilarity filled the festival.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:4
+  type: quote
+  locator: lines 6511-6515
+  quote_or_summary: "“Social distinctions were for a time suspended, or even reversed”;
+    masters waited on slaves at banquets, and slaves wore masters' garments."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:5
+  type: quote
+  locator: lines 6517-6518
+  quote_or_summary: "“There appears little doubt that the modern Carnival is a survival
+    of the ancient Saturnalia.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain; source metadata allows full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The festival description is explicit. Motif labels are passage-based, but
+    only seasonal_cycle has a direct supplied taxonomy fit. The Carnival comparison
+    is included because the passage itself makes the survival claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy references beyond those supplied were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6496-l6519
+  passage_sha256=7786a3a5f114c7a637e8f1fd16b482680202321dcda0167dca57220abe0b846c
+

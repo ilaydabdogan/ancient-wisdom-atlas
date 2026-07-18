@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l224-l264
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD WOMAN AND THE DOCTOR / THE MOON AND HER MOTHER / MERCURY AND THE
+    WOODMAN / THE ASS, THE FOX, AND THE LION; lines 224-264
+  start: '224'
+  end: '264'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is a contents-list excerpt. It names G. K. Chesterton,
+    gives a CONTENTS heading, and lists fable titles, including THE OLD WOMAN AND
+    THE DOCTOR, THE MOON AND HER MOTHER, MERCURY AND THE WOODMAN, and THE ASS, THE
+    FOX, AND THE LION. No narrative episodes are included in the provided excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt includes the name G. K. Chesterton before the contents heading.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contains a CONTENTS heading followed by a list of fable titles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title THE OLD WOMAN AND THE DOCTOR names an old woman and a doctor.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The title THE MOON AND HER MOTHER names the Moon and identifies a mother relationship.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The title MERCURY AND THE WOODMAN names Mercury and a woodman.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The title THE ASS, THE FOX, AND THE LION names three animal figures together.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Old Woman
+  description: A title-named figure in THE OLD WOMAN AND THE DOCTOR; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Doctor
+  description: A title-named figure in THE OLD WOMAN AND THE DOCTOR; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Moon
+  description: A title-named entity in THE MOON AND HER MOTHER; no narrative action
+    is supplied in the excerpt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Mother
+  description: A title-named kinship figure in THE MOON AND HER MOTHER, identified
+    as the Moon's mother by the wording of the title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mercury
+  description: A title-named figure in MERCURY AND THE WOODMAN; no narrative action
+    is supplied in the excerpt.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Woodman
+  description: A title-named occupational figure in MERCURY AND THE WOODMAN; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Ass
+  description: An animal figure named in THE ASS, THE FOX, AND THE LION; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Fox
+  description: An animal figure named in THE ASS, THE FOX, AND THE LION; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Lion
+  description: An animal figure named in THE ASS, THE FOX, AND THE LION; no narrative
+    action is supplied in the excerpt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: old woman named in title
+  assigned_to:
+  - fig:1
+  basis: The title explicitly names an old woman.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: doctor named in title
+  assigned_to:
+  - fig:2
+  basis: The title explicitly names a doctor.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: celestial title entity
+  assigned_to:
+  - fig:3
+  basis: The title explicitly names the Moon.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: mother figure named by kinship term
+  assigned_to:
+  - fig:4
+  basis: The title refers to the Moon's mother.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: proper-name title figure
+  assigned_to:
+  - fig:5
+  basis: The title explicitly names Mercury.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: woodman named by occupation
+  assigned_to:
+  - fig:6
+  basis: The title explicitly names a woodman.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: animal figure named in title
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The title lists an ass, a fox, and a lion.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: the Moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Contents-list title sequence
+  summary: The excerpt presents a contents list of fable titles rather than a narrative
+    scene; the named figures are supplied only by titles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mother-child relationship named in a title
+  taxonomy_refs: []
+  basis: The title THE MOON AND HER MOTHER explicitly links the Moon with a mother
+    figure.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the title is present; the excerpt does not provide a mythic episode,
+    divine status, or narrative function.
+- id: motif:2
+  label: animal triad named in a title
+  taxonomy_refs: []
+  basis: The title THE ASS, THE FOX, AND THE LION lists three animal figures together.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The title supplies no action or relationship beyond co-listing the animals.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 224-264
+  quote_or_summary: G. K. CHESTERTON
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 224-264
+  quote_or_summary: CONTENTS
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: 224-264
+  quote_or_summary: THE OLD WOMAN AND THE DOCTOR
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: 224-264
+  quote_or_summary: THE MOON AND HER MOTHER
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: 224-264
+  quote_or_summary: MERCURY AND THE WOODMAN
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+- id: ev:6
+  type: quote
+  locator: 224-264
+  quote_or_summary: THE ASS, THE FOX, AND THE LION
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public-domain source text; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is high-confidence because it relies on explicit title
+    wording. Motif candidates are low-confidence because the supplied passage contains
+    only contents titles and no narrative episodes. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction is limited to the provided passage text and source metadata. No taxonomy motif refs were assigned because the excerpt does not provide enough narrative evidence.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l224-l264
+  passage_sha256=659c415b1041001206e1d54dbe56592f14ce2527b23aec6e063366ef5c844bba
+

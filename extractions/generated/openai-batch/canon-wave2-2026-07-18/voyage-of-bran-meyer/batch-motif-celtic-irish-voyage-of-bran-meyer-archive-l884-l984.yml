@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l884-l984
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: KUNO  MEYER. / THE  VOYAGE  OF  BRAN  SON  OF  FEBAL / IMRAM    BRAIN  5
+    / IMRAM    BRAIN; lines 884-984
+  start: '884'
+  end: '984'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a wondrous, beautiful land with flowering vegetation,
+    birds that call at appointed times, brightness of many colors, music, and freedom
+    from grief, death, disease, and other afflictions. It also describes named places
+    or regions with sea-washed crystals and dragonstones, wealth and wine, metal chariots,
+    and brightly colored steeds.
+  language: Old/Middle Irish and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tree with blossoms is described in the land.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Birds call or sing at appointed times or every hour.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Brightness or shining objects of many colors are associated with soft or pleasant
+    plains, joy, and music.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The described land is said to lack lamentation, treachery, harshness, grief,
+    gloom, death, sickness, and weakness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A wondrous land is described as lovely in aspect, a fair country, and marked
+    by incomparable haze.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Aircthech is associated with dragonstones and crystals, while the sea washes
+    waves against the land and crystal-like spray or hair drops from a wave's mane.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ciuin contains wealth and treasures, sweet music, and the best wine.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Golden chariots in Mag Ráin rise with the tide toward the sun, and silver
+    and bronze chariots are named in relation to Mag Mon.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Steeds of yellow-golden, crimson, and heaven-blue hue are present on the sward,
+    with some described as wool-backed.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Birds
+  description: Birds associated with the flowering tree; they call or sing at appointed
+    times.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Steeds
+  description: Yellow-golden, crimson, and heaven-blue steeds on the sward, including
+    wool-backed steeds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: callers or singers marking time
+  assigned_to:
+  - fig:1
+  basis: The birds are described as calling at the hours or every appointed time.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: colored steeds of the wondrous plain
+  assigned_to:
+  - fig:2
+  basis: The steeds are described by color and placement on the sward.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flowering tree
+  literal_form: tree with blossoms
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: time-calling birds
+  literal_form: birds calling or singing every hour
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sorrowless deathless land
+  literal_form: land without grief, gloom, death, sickness, weakness, lamentation,
+    treachery, or harshness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wondrous fair country
+  literal_form: beautiful land with lovely aspects and incomparable haze
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sea wave and tide
+  literal_form: sea washing waves against land; tide rising toward the sun
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: dragonstones and crystals
+  literal_form: dragonstones and crystals dropping at Aircthech; crystal-like spray
+    or hair
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: treasure, music, and wine
+  literal_form: wealth, treasures of every hue, sweet music, and best wine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: metal chariots
+  literal_form: golden, silver, and bronze chariots
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: colored steeds
+  literal_form: yellow-golden, crimson, and heaven-blue wool-backed steeds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Flowering musical land without affliction
+  summary: The land contains a flowering tree and birds that call at the hours; it
+    is characterized by brightness, joy, music, and the absence of grief, death, sickness,
+    and related afflictions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Aircthech at the sea
+  summary: Aircthech is described with dragonstones and crystals while waves of the
+    sea wash against the land and crystal-like spray is evoked.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Ciuin of treasures, music, and wine
+  summary: Ciuin is described as a fresh and beautiful place containing wealth, treasures,
+    sweet music, and fine wine.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Chariots and steeds in named plains
+  summary: Mag Ráin and Mag Mon are associated with golden, silver, and bronze chariots,
+    and the surrounding sward holds brightly colored steeds.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deathless sorrowless otherworld land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage presents a wondrous named land or set of regions with beauty,
+    music, treasures, wine, and explicit absence of grief, gloom, death, sickness,
+    and weakness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The excerpt describes the land and its qualities rather than a full journey
+    episode; the afterlife-map classification is based on the deathless and otherworldly
+    attributes rather than an explicit statement about the dead.
+- id: motif:2
+  label: catalogue of marvelous regions and objects
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage names places such as Aircthech, Ciuin, Mag Ráin, and Mag Mon
+    and catalogs marvelous features including crystals, dragonstones, treasures, wine,
+    metal chariots, and colored steeds.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage is descriptive; it does not include the traveler’s action
+    or quest sequence within this line range.
+- id: motif:3
+  label: flowering tree with singing birds
+  taxonomy_refs: []
+  basis: A tree with blossoms is paired with birds that call or sing at appointed
+    hours.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The tree is not explicitly identified as an axis mundi or sacred tree
+    in the passage.
+- id: motif:4
+  label: metal chariots and many-colored steeds
+  taxonomy_refs: []
+  basis: The passage presents golden, silver, and bronze chariots together with yellow-golden,
+    crimson, and heaven-blue steeds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a visual catalogue but does not explain the ritual or
+    narrative function of the chariots and steeds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 884-984, stanza 7
+  quote_or_summary: A flowering tree is present, and birds call or sing at the hours
+    or every appointed time.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 884-984, stanza 8
+  quote_or_summary: Shining objects or brightness of every color are described across
+    pleasant plains; joy and music are said to be customary.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 884-984, stanzas 9-10
+  quote_or_summary: The land is described as without lamentation, treachery, harshness,
+    grief, gloom, death, sickness, or weakness.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 884-984, stanza 11
+  quote_or_summary: "“A beauty of a wondrous land,” with lovely aspects, a fair country,
+    and incomparable haze."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; concise quotation.
+- id: ev:5
+  type: summary
+  locator: lines 884-984, stanza 12
+  quote_or_summary: Aircthech is described with dragonstones and crystals; the sea
+    washes waves against the land, and crystal-like hair or spray drops from a wave’s
+    mane.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 884-984, stanza 13
+  quote_or_summary: Ciuin contains wealth and treasures of every hue, with sweet music
+    and drinking of the best wine.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 884-984, stanza 14
+  quote_or_summary: Golden chariots in Mag Ráin rise with the tide toward the sun;
+    silver chariots are in Mag Mon, and bronze chariots are also described.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 884-984, stanza 15
+  quote_or_summary: Steeds on the sward are described as yellow-golden, crimson, and
+    heaven-blue, including wool-backed steeds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: lines 884-984, footnotes to stanzas 11-15
+  quote_or_summary: Glosses identify Aircthech as “Bountiful Land,” Ciuin as “Gentle
+    Land,” Mag Ráin as “Plain of the Sea,” and Mag Mon as “Plain of Sports.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; concise quotation from notes.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage mixes Irish text, English translation, editorial notes, and OCR
+    artifacts. Literal features are clear in the English stanzas and partly recoverable
+    from the Irish stanzas, but motif assignments remain provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added; comparison_claims is empty because the passage itself does not explicitly compare these motifs to another tradition or corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l884-l984
+  passage_sha256=c824bed303f4411c07be3a19ff5433e86be1a2e468645eb8493a61119aff0008
+

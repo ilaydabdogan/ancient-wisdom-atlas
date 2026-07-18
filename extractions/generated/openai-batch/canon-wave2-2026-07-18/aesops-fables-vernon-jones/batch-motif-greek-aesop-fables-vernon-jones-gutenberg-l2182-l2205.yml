@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2182-l2205
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLIVE-TREE AND THE FIG-TREE / THE LION AND THE BOAR / THE WALNUT-TREE
+    / THE MAN AND THE LION; lines 2182-2205
+  start: '2182'
+  end: '2205'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: There are two sides to every question.
+  summary: The supplied passage contains two fables. In the first, a fruit-bearing
+    walnut-tree is harmed by passers-by who strike it to obtain its nuts, and the
+    tree complains that those who enjoy its fruit repay it with blows. In the second,
+    a man and a lion dispute which is stronger; the man cites a statue of a man strangling
+    a lion, but the lion replies that lion-made statues would show the opposite outcome.
+    The passage ends with the moral that every question has two sides.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A walnut-tree grows by the roadside and bears a plentiful yearly crop of nuts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Passers-by strike the walnut-tree's branches with sticks and stones to bring
+    down the fruit, and the tree suffers severely.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The walnut-tree speaks and complains that people who enjoy its fruit repay
+    it with insults and blows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A man and a lion are companions on a journey and each boasts of superiority
+    in strength and courage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At a cross-road, the man and the lion encounter a statue depicting a man strangling
+    a lion.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The man points to the statue as evidence that men are stronger than lions.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The lion replies that the statue represents only the human view, and says
+    that lion-made statues would usually show the man underneath.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The stated moral is that there are two sides to every question.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Walnut-tree
+  description: A roadside tree that bears nuts, is struck by passers-by, suffers,
+    and speaks a complaint.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Passers-by
+  description: Unspecified people who pass the walnut-tree and pelt its branches with
+    sticks and stones to get the fruit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Man
+  description: A journeying companion of the lion who boasts of human strength and
+    cites a statue as proof.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lion
+  description: A journeying companion of the man who disputes the man's use of the
+    statue and proposes an opposite lion-made representation.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: fruit-bearer harmed by beneficiaries
+  assigned_to:
+  - fig:1
+  basis: The tree produces nuts but is struck by those who take and enjoy its fruit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fruit-takers who injure the tree
+  assigned_to:
+  - fig:2
+  basis: The passers-by use sticks and stones to bring down the tree's fruit.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: boasting rivals in strength and courage
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The man and lion each claim superiority in strength and courage while traveling
+    together.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: claimant using an image as proof
+  assigned_to:
+  - fig:3
+  basis: The man points to the statue and says it proves men are stronger.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: counter-speaker challenging a one-sided image
+  assigned_to:
+  - fig:4
+  basis: The lion says the statue is only the human view and imagines lion-made statues
+    reversing the positions.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: roadside walnut-tree
+  literal_form: fruit-bearing walnut-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: nuts or fruit
+  literal_form: plentiful crop of nuts / fruit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sticks and stones
+  literal_form: sticks and stones used to pelt branches
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cross-road
+  literal_form: cross-road where the travelers encounter the statue
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: statue of man strangling lion
+  literal_form: statue of a Man strangling a Lion
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Walnut-tree harmed for its fruit
+  summary: A roadside walnut-tree bears nuts; passers-by strike its branches with
+    sticks and stones to obtain the fruit, and the tree complains about being repaid
+    with blows by those who enjoy its fruit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Man and lion dispute the meaning of a statue
+  summary: A man and a lion argue over superiority in strength and courage. At a cross-road
+    they see a statue of a man strangling a lion; the man treats it as proof of human
+    superiority, while the lion says it is only the human view and that lion-made
+    statues would reverse the outcome.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: benefactor harmed by those who benefit
+  taxonomy_refs: []
+  basis: The walnut-tree provides fruit, but those who take the fruit injure the tree
+    with sticks and stones, prompting its complaint.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Descriptive motif label only; no supplied motif-family taxonomy reference
+    directly matches this fable pattern.
+- id: motif:2
+  label: one-sided representation challenged by reversed viewpoint
+  taxonomy_refs:
+  - wisdom
+  basis: The man treats a statue as proof of human superiority, but the lion counters
+    that the image reflects only the maker's side and imagines lion-made statues with
+    the man underneath; the stated moral emphasizes two sides to every question.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad and is supported mainly by the
+    explicit moral instruction rather than by a narrower supplied motif category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2182-2205, THE WALNUT-TREE section
+  quote_or_summary: A walnut-tree grows by the roadside and bears a plentiful yearly
+    crop of nuts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 2182-2205, THE WALNUT-TREE section
+  quote_or_summary: Everyone passing by pelts the tree's branches with sticks and
+    stones to bring down the fruit, causing the tree severe suffering.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 2182-2205, THE WALNUT-TREE section
+  quote_or_summary: '"the very persons who enjoy my fruit should thus reward me with
+    insults and blows."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 2182-2205, THE MAN AND THE LION section
+  quote_or_summary: A man and a lion travel together, boast about their prowess, and
+    each claims superiority in strength and courage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2182-2205, THE MAN AND THE LION section
+  quote_or_summary: At a cross-road they see a statue of a man strangling a lion,
+    and the man points to it as proof that humans are stronger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 2182-2205, THE MAN AND THE LION section
+  quote_or_summary: '"If we Lions could make statues, you may be sure that in most
+    of them you would see the Man underneath."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: 2182-2205, THE MAN AND THE LION moral
+  quote_or_summary: '"There are two sides to every question."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are descriptive and use only one broad supplied taxonomy reference. No cross-text
+    or historical comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage locator label mentions additional fables, but the supplied passage_text includes only THE WALNUT-TREE and THE MAN AND THE LION; extraction does not infer content from omitted titles.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2182-l2205
+  passage_sha256=1b3b409264e0cfff7ee0e44293a1c2b785f1f55714fec40dad3e221b354dd1ae
+

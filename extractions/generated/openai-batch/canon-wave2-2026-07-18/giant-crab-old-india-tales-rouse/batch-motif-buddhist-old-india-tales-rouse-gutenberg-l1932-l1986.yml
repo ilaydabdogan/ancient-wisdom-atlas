@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1932-l1986
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: UNION IS STRENGTH / SILENCE IS GOLDEN / THE GREAT YELLOW KING AND HIS PORTER
+    / THE QUAIL AND THE FALCON; lines 1932-1986
+  start: '1932'
+  end: '1986'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young quail leaves the ploughed farm where it usually feeds and is caught
+    by a falcon near the forest. The quail persuades the falcon that it could not
+    be caught on its own ground, returns to a ploughed field, dodges behind a clod,
+    and the pursuing falcon strikes the clod and dies. The narrator closes with practical
+    morals about staying with familiar conditions and not risking what is already
+    held.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young quail lives on a farm and feeds on seeds, weeds, worms, and other
+    things turned up by the farmer's plough.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quail leaves the farm and lands at the edge of the forest to look for
+    food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A falcon is flying above the tree-tops and searching for quails.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The falcon swoops down and catches the quail in its claws.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The captured quail cries and says it was foolish to be away from its own place.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The quail says the falcon could not catch it on its own ground, defined as
+    a ploughed field full of clods.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The falcon rejects the idea that clods will help the quail and allows the
+    quail to try, saying it will follow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The quail returns to the farm, chooses a large clod, perches on it, and calls
+    to the falcon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The falcon swoops at the quail; the quail dodges over the clod, and the falcon
+    strikes the clod and dies.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator states morals about remaining with what one is used to and about
+    the proverb that a bird in the hand is worth two in the bush.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Young Quail / Quailie
+  description: A young farm-dwelling quail that feeds behind the plough, leaves for
+    the forest edge, is caught by the falcon, and escapes by using a clod in the ploughed
+    field.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Falcon
+  description: A falcon flying above the tree-tops, searching for quails; it catches
+    the quail, follows it back to the field, and dies when it strikes a clod.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Farmer / ploughman
+  description: A human figure whose ploughing turns up food that the quail eats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: farm-dwelling prey
+  assigned_to:
+  - fig:1
+  basis: The quail lives on the farm, feeds there, and is later seized by the falcon.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: aerial predator
+  assigned_to:
+  - fig:2
+  basis: The falcon flies above the tree-tops searching for quails and catches the
+    quail with a swoop.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ploughman who exposes food
+  assigned_to:
+  - fig:3
+  basis: The farmer's plough turns up food that the quail eats.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: terrain-using escapee
+  assigned_to:
+  - fig:1
+  basis: The quail returns to a ploughed field, uses a large clod, and dodges the
+    falcon's attack.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: pursuer killed in attack
+  assigned_to:
+  - fig:2
+  basis: The falcon follows the quail, swoops at it, strikes the clod, and dies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: ploughed field and clods
+  literal_form: A ploughed field full of clods, especially the large clod on which
+    the quail perches and behind which it dodges.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: farm and forest edge
+  literal_form: The farm where the quail lives and the forest edge where it goes and
+    is caught.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Quail feeding behind the plough
+  summary: The young quail lives on a farm and feeds on what the farmer's plough turns
+    up.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure to the forest edge and capture
+  summary: The quail leaves the farm for the forest edge, where the falcon sees it,
+    swoops down, and catches it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Argument about own ground
+  summary: While captured, the quail says it would be safe on its own ground, a ploughed
+    field full of clods; the falcon challenges this claim and agrees to follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Dodge behind the clod
+  summary: The quail returns to the farm, perches on a large clod, dodges the falcon's
+    attack, and the falcon dies by striking the clod.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Narrator's closing moral
+  summary: The narrator states that it is better for most people to stay with what
+    they are used to and invokes the proverb about a bird in the hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Familiar ground as protection
+  taxonomy_refs:
+  - wisdom
+  basis: The quail says it cannot be caught on its own ploughed ground, and the outcome
+    shows the field's clods enabling escape.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a practical animal-fable motif; no broader cosmological or ritual
+    frame is present in the passage.
+- id: motif:2
+  label: Weak prey defeats stronger predator by using terrain
+  taxonomy_refs:
+  - wisdom
+  basis: The small quail avoids the falcon's swoop by dodging around a clod, causing
+    the falcon to collide with it and die.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the action as practical cleverness rather than magic
+    or divine intervention.
+- id: motif:3
+  label: Leaving one's accustomed place brings danger
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: The quail leaves the farm for the forest edge, is captured, and the narrator
+    closes by saying it is better for most people to stick to what they are used to.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The departure is an animal-fable action, not necessarily the larger mythic
+    'departure' pattern.
+- id: motif:4
+  label: Predator loses secured prey through overchallenge
+  taxonomy_refs:
+  - wisdom
+  basis: The falcon has already caught the quail but accepts the quail's challenge,
+    follows it, and is killed; the narrator relates this to the proverb about a bird
+    in the hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage supports a proverbial reading but does not establish an external
+    tale-type relationship.
+comparison_claims:
+- id: claim:1
+  claim: The tale functions as a wisdom animal-fable pattern in which animal behavior
+    is used to state practical morals.
+  claim_level: same_function
+  target: wisdom animal-fable / proverbial moral pattern
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself supports functional comparison to a moralizing pattern,
+    but it gives no evidence for historical contact, common inheritance, or a specific
+    external analogue.
+- id: claim:2
+  claim: The closing proverb aligns the falcon's loss with the pattern of risking
+    a secure gain for a doubtful greater gain.
+  claim_level: same_function
+  target: 'proverbial pattern: ''a bird in the hand is worth two in the bush'''
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The wording occurs in the passage, but no claim is made here about
+    the proverb's origin or transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1932-1942
+  quote_or_summary: The title introduces 'The Quail and the Falcon'; the quail lives
+    on a farm and eats what the farmer's plough turns up.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1943-1951
+  quote_or_summary: The quail leaves the farm, flies to the forest bordering it, lands
+    where the forest begins, and looks for food.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1952-1959
+  quote_or_summary: A falcon flying above the tree-tops searches for quails, sees
+    the quail, swoops down, and catches it in its claws.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1960-1970
+  quote_or_summary: The captured quail cries that it was foolish to be away from home
+    and tells the falcon it could not be caught on its own ground, a ploughed field
+    full of clods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1971-1977
+  quote_or_summary: The falcon dismisses the usefulness of clods and tells the quail
+    to try; the quail flies back to the farm, chooses a large clod, perches on it,
+    and calls to the falcon.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1978-1983
+  quote_or_summary: The falcon swoops at the quail; the quail dodges over the clod,
+    and the falcon strikes the clod so hard that it dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1984-1986
+  quote_or_summary: The narrator concludes that most people are better off sticking
+    to what they are used to and invokes the proverb that a bird in the hand is worth
+    two in the bush.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and morals are explicit. Motif labels are conservative
+    and based on the passage, but taxonomy alignment remains broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external tale-type or historical comparison was inferred.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1932-l1986
+  passage_sha256=7be07ab8f44d825a0660c016dccc6f6f6ab46300688e625acfdafd18f77b9fe6
+

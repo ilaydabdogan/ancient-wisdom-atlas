@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2672-l2709
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXXIII / XXXIV / XXXVI / XXXVII; lines 2672-2709
+  start: '2672'
+  end: '2709'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker urges filling a golden goblet with wine before death and the
+    Vale of Silence. He asks a cypress tree to shade his dust after death, calls for
+    bitter tears to cleanse him for the road between Earth and Heaven, contrasts the
+    zealot’s self-regard with grief, and declares that only an unsullied heart may
+    reflect the Lady’s grace. The Lady’s curling locks wound like snakes, her red
+    lips can heal like a bezoar, and her perfume leads Hafiz to tear his robe and
+    lay it beneath her feet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker commands someone to arise and fill a golden goblet until wine
+    overflows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says a grimmer cup-bearer will throw dust into the skull’s empty
+    cup.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says humans must come to the Vale of Silence.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker addresses a cypress tree and asks it to cast its shadow over the
+    dust of his desire after he has passed into dust.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker calls for bitter tears to flow and wash him clean.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A road is described as lying between Earth and Heaven, and those set upon
+    it say purity is required before lifting one’s eyes to the pure.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says no tainted eye shall gaze upon the Lady’s face and only an
+    unsullied heart may reflect her grace.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Lady’s curling locks are compared to snakes that wound the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Lady’s red lips are said to hold the power of the bezoar and to heal the
+    wounded speaker.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When perfume blows from the Lady, Hafiz is told to tear his robe like a rose
+    and cast the rags beneath her feet.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The lyric voice urging wine, reflecting on death, cleansing, and the
+    Lady.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: grimmer Cup-bearer
+  description: A figure who will throw dust into the skull’s pale empty cup.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cypress-tree
+  description: A tree addressed as the green home of Love’s sweet choir and asked
+    to shade the speaker’s dust.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Zealot
+  description: A person who, seeing only himself, sees only sin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Lady / mistress
+  description: A female beloved whose face, grace, curling locks, red lips, perfume,
+    and passing feet are described.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Hafiz
+  description: Named figure told to tear his robe like a rose and cast rags beneath
+    the mistress’s feet.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: mortality-aware exhorter
+  assigned_to:
+  - fig:1
+  basis: The speaker urges wine before death and the Vale of Silence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: devotee of the Lady
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The speaker praises the Lady’s grace and Hafiz is instructed to cast rags
+    beneath her feet.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: death-associated cup-bearer
+  assigned_to:
+  - fig:2
+  basis: The grimmer Cup-bearer is linked with dust being thrown into the skull’s
+    empty cup.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: posthumous sheltering tree
+  assigned_to:
+  - fig:3
+  basis: The cypress is asked to cast shadow over the speaker’s dust after death.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: self-regarding moral critic
+  assigned_to:
+  - fig:4
+  basis: The Zealot is described as seeing only himself and therefore only sin.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: pure beloved
+  assigned_to:
+  - fig:5
+  basis: The Lady’s face and grace may be approached only by a pure gaze or unsullied
+    heart.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: wounding and healing beloved
+  assigned_to:
+  - fig:5
+  basis: Her locks wound like snakes, while her red lips have healing power.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: ritualized self-humbler
+  assigned_to:
+  - fig:6
+  basis: Hafiz is instructed to tear his robe and place the rags under the mistress’s
+    feet.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: golden goblet and overflowing wine
+  literal_form: golden goblet filled until wine of pleasure overflows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: skull as empty cup
+  literal_form: skull’s pale empty cup receiving dust
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Vale of Silence
+  literal_form: Vale of Silence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: goblet’s fire
+  literal_form: fire associated with the goblet consuming the fleeting harvest of
+    Earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: cypress tree
+  literal_form: Cypress-tree, green home of Love’s sweet choir
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: cleansing tears
+  literal_form: bitter tears washing the speaker clean
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: road between Earth and Heaven
+  literal_form: road that lies between Earth and Heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: unsullied heart as mirror
+  literal_form: glass of an unsullied heart reflecting the Lady’s grace
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: snake-like curls
+  literal_form: curling locks compared to snakes from herbage
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: bezoar-like red lips
+  literal_form: red lips holding the power of the bezoar
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: torn robe and rags beneath feet
+  literal_form: robe torn in two and rags cast beneath the mistress’s feet
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wine before death
+  summary: The speaker urges the filling of a golden goblet before the grimmer Cup-bearer
+    brings dust to the skull’s empty cup and before the journey to the Vale of Silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cypress shade over dust
+  summary: The speaker reflects that earthly riches do not last and asks the cypress
+    tree to shade his dust after he has passed into dust.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Purification on the road between Earth and Heaven
+  summary: The speaker asks tears to wash him clean, cites the need for purity on
+    the road between Earth and Heaven, and contrasts this with the Zealot’s self-regarding
+    vision of sin.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pure vision of the Lady
+  summary: The passage states that no tainted eye may see the Lady’s face and only
+    an unsullied heart may reflect her grace.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Wounding locks and healing lips
+  summary: The Lady’s curls are compared to snakes that wound the speaker, while her
+    red lips are described as having bezoar-like healing power.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Hafiz lays torn rags before the mistress
+  summary: When the Lady’s perfume blows, Hafiz is instructed to tear his robe and
+    cast the rags beneath her feet to adorn the place she passes through.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wine in the face of mortality
+  taxonomy_refs: []
+  basis: The speaker urges filling the goblet with wine before the grimmer Cup-bearer
+    and the Vale of Silence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names wine or carpe-diem imagery.
+- id: motif:2
+  label: death and passage into dust
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage repeatedly links the speaker’s future with dust, the skull’s
+    empty cup, and the Vale of Silence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes death and dissolution more clearly than rebirth.
+- id: motif:3
+  label: purification before ascent or vision
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: Tears wash the speaker clean before the road between Earth and Heaven and
+    before lifting eyes to the pure.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the road between Earth and Heaven but does not narrate
+    a completed ascent.
+- id: motif:4
+  label: divine or idealized beloved as object of pure vision
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Lady’s face and grace are accessible only to an unsullied heart, and
+    the devotee humbles himself beneath her passing feet.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage calls her Lady and mistress; the divine dimension is suggested
+    by purity and grace but not explicitly stated.
+- id: motif:5
+  label: wounding and healing beloved
+  taxonomy_refs: []
+  basis: The Lady’s snake-like curls wound the speaker, while her lips have healing
+    power.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly names this lyric pattern.
+- id: motif:6
+  label: humbling self-offering before the beloved
+  taxonomy_refs:
+  - sacrifice
+  basis: Hafiz is instructed to tear his robe and cast the rags beneath the mistress’s
+    feet.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The action is devotional and self-humbling, but the passage does not call
+    it a sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2672-2676
+  quote_or_summary: "“Arise! and fill a golden goblet up / Until the wine of pleasure
+    overflow,” before a “grimmer Cup-bearer” throws dust into the skull’s empty cup."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2677-2679
+  quote_or_summary: "“Yea, to the Vale of Silence we must come” before the flagon
+    and Heaven’s dome echo."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 2680-2686
+  quote_or_summary: Earthly riches are not abiding; the goblet’s fire is asked to
+    consume Earth’s fleeting harvest, and the cypress tree is asked to shade the speaker’s
+    dust after death.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2687-2693
+  quote_or_summary: The speaker asks bitter tears to wash him clean; those on the
+    road between Earth and Heaven require purity; the Zealot is described as seeing
+    only himself and sin.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2694-2696
+  quote_or_summary: No tainted eye may gaze on the Lady’s face, and only an unsullied
+    heart may reflect her perfect grace.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 2697-2701
+  quote_or_summary: The Lady’s curling locks are likened to snakes that wound the
+    speaker, while her red lips are said to hold the power of the bezoar and heal
+    him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 2702-2709
+  quote_or_summary: When sweet perfume blows from the Lady, Hafiz is told to tear
+    his robe like a rose and cast the rags beneath her feet to adorn the place where
+    she passes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are cautious because several lyric patterns do not map directly to
+    the available motif-family list. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. The passage label in metadata covers multiple poem numbers, but the provided passage itself is headed XXXVII.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2672-l2709
+  passage_sha256=8d4247f6a03b4b005c074f62a6787f24e9fe612288189d571906dc52870c0204
+

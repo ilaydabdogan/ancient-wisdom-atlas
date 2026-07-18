@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l15955-l16002
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / IJMBADHLANYANA  AND  THE  CANNIBAL. / CANNIBALS. / AMAZIMU.;
+    lines 15955-16002
+  start: '15955'
+  end: '16002'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"the Amazimu deserted other men and went to live in the mountains"'
+  summary: The excerpt identifies Amazimu as cannibals. It says they were originally
+    men, separated from other people, moved to the mountains, and wished to eat men
+    during a severe famine when food could not be obtained. The supplied line range
+    also includes editorial footnotes about praise-names and Umbadhlanyana, but the
+    main extractable narrative content here concerns the Amazimu.
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading glosses Amazimu as cannibals.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Amazimu deserted other men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the Amazimu went to live in the mountains.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that at first the Amazimu were men.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The country is described as desolate and affected by a great famine.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Men are described as being in want, with no place where they could obtain
+    food.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the Amazimu wished to eat men because of the severity of
+    the famine.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Amazimu
+  description: A group identified as cannibals; said to have been men at first, to
+    have deserted other men, to live in the mountains, and to wish to eat men during
+    famine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: other men / people
+  description: The human community from whom the Amazimu separated; men are also described
+    as being in want during famine and as the intended objects of eating.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: cannibal group
+  assigned_to:
+  - fig:1
+  basis: The heading glosses Amazimu as cannibals, and the passage says they wished
+    to eat men.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: mountain-dwelling separated group
+  assigned_to:
+  - fig:1
+  basis: The passage says the Amazimu deserted other men and went to live in the mountains.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human community and potential victims
+  assigned_to:
+  - fig:2
+  basis: The passage names other men as those deserted by the Amazimu and men as those
+    the Amazimu wished to eat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain dwelling
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Withdrawal to the mountains
+  summary: The Amazimu are said to have deserted other men and gone to live in the
+    mountains; the passage also states they were originally men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Famine and desire to eat men
+  summary: In a desolate country during a great famine, people lacked food, and the
+    Amazimu wished to eat men because of the famine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Origin account of cannibal Amazimu as former humans
+  taxonomy_refs: []
+  basis: The passage identifies the Amazimu as cannibals and states that at first
+    they were men before separating from other men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe a supernatural transformation; the motif
+    label is limited to the stated former-human condition and later cannibal identity.
+- id: motif:2
+  label: Famine-driven cannibalism
+  taxonomy_refs: []
+  basis: The passage links the Amazimu's wish to eat men directly to a severe famine
+    and lack of obtainable food.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt states desire or intent to eat men, not a completed act in
+    this passage.
+- id: motif:3
+  label: Withdrawal from society to the mountains
+  taxonomy_refs:
+  - departure
+  basis: The Amazimu are said to have deserted other men and gone to live in the mountains.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is broad; the passage does not
+    frame this as a hero's departure or quest.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15955-15958
+  quote_or_summary: '"AMAZIMU. (cannibals.)"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 15959-15966
+  quote_or_summary: '"the Amazimu deserted other men and went to live in the mountains"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 15966-15968
+  quote_or_summary: '"at first the Amazimu were men"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 15968-15972
+  quote_or_summary: The country was desolate and there was a great famine.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15970-15982
+  quote_or_summary: Because the famine was severe and people could not obtain food,
+    the Amazimu wished to eat men.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core extraction is based on explicit English translation in the passage.
+    Motif taxonomy mapping is cautious because the excerpt is short and does not describe
+    a full narrative episode. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The footnotes in the supplied line range mention praise-names and a speculative editorial comparison involving Umbadhlanyana and Uthlakanyana, but they are not used here to infer motifs for the Amazimu passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l15955-l16002
+  passage_sha256=9c115fe27e83f4f62fff254f955c466a744ac59dfeb7a050c1c91bf820db77b9
+

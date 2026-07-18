@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4159-l4175
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE GRASSHOPPER / THE FARMER, HIS BOY, AND THE ROOKS / THE ASS
+    AND THE DOG / THE ASS CARRYING THE IMAGE; lines 4159-4175
+  start: '4159'
+  end: '4175'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man loads an Image onto an Ass to take it to a temple. People along the
+    road uncover and bow out of reverence for the Image, but the Ass thinks the honor
+    is for himself, becomes conceited, and refuses to move. The driver beats him and
+    says that people do not worship an Ass. The stated moral warns against taking
+    credit due to others.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man puts an Image on the back of an Ass to take it to a temple in the town.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The movement occurs along a road toward a temple in the town.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: People met along the road uncover and bow their heads out of reverence for
+    the Image.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Ass thinks the people's gestures are acts of respect toward himself.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Ass becomes conceited and refuses to proceed, protesting against the load
+    he carries.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The driver strikes the Ass with a stick when the Ass refuses to move.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The driver tells the Ass that men are not paying worship to an Ass.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The moral states that rude shocks await those who take credit due to others.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: certain man
+  description: The man who puts the Image on the Ass for transport to a temple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ass
+  description: The animal carrying the Image; it mistakes reverence for the Image
+    as respect for itself and later refuses to move.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: people along the road
+  description: People met on the road who uncover and bow their heads in reverence
+    for the Image.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: driver
+  description: The Ass's driver, who strikes the obstinate Ass and verbally corrects
+    its misunderstanding. The passage does not explicitly state whether this driver
+    is the same person as the certain man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: transporter of the Image
+  assigned_to:
+  - fig:1
+  basis: He places the Image on the Ass to take it to a temple.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: load-bearing animal
+  assigned_to:
+  - fig:2
+  basis: The Image is placed on the Ass's back and carried as a load.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: mistaken recipient of honor
+  assigned_to:
+  - fig:2
+  basis: The Ass thinks the bows given in reverence to the Image are signs of respect
+    for himself.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: reverent passers-by
+  assigned_to:
+  - fig:3
+  basis: They uncover and bow their heads out of reverence for the Image.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: correcting driver
+  assigned_to:
+  - fig:4
+  basis: The driver strikes the Ass and says that men are not worshipping an Ass.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: revered Image
+  literal_form: An Image carried on the Ass's back to a temple.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: gestures of reverence
+  literal_form: People uncover and bow their heads before the Image.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: driver's stick
+  literal_form: A stick used by the driver to strike the Ass.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Image loaded for temple transport
+  summary: A man places an Image on the back of an Ass to take it to a town temple.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Public reverence and misunderstanding
+  summary: People encountered on the road bow out of reverence for the Image, while
+    the Ass interprets the honor as directed toward himself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Refusal and correction
+  summary: The conceited Ass stops and refuses to go farther; the driver strikes him
+    and says the worship is not for an Ass.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: borrowed honor mistaken for personal worth
+  taxonomy_refs:
+  - wisdom
+  basis: The Ass mistakes reverence shown to the Image for respect toward himself,
+    and the moral warns against taking credit due to others.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The motif label is an analytical summary of the fable's stated moral;
+    no historical or cross-textual relationship is asserted.
+- id: motif:2
+  label: conceit corrected by harsh rebuke
+  taxonomy_refs:
+  - wisdom
+  basis: After becoming conceited and refusing to proceed, the Ass is struck by the
+    driver and told that men are not worshipping an Ass.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a passage-level motif candidate based on the narrative sequence;
+    the text's explicit moral emphasizes misattributed credit rather than punishment
+    as an independent theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '4159'
+  quote_or_summary: Title identifies the fable as “THE ASS CARRYING THE IMAGE.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: 4161-4163
+  quote_or_summary: A man puts an Image on the back of his Ass to take it to a town
+    temple.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: 4163-4165
+  quote_or_summary: People met on the road uncover and bow their heads out of reverence
+    for the Image.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: 4165-4169
+  quote_or_summary: The Ass thinks the honor is for himself, becomes conceited, stops,
+    and refuses to proceed because of the load.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: 4169-4173
+  quote_or_summary: The driver hits the Ass with his stick and says, “do you suppose
+    it's come to this, that men pay worship to an Ass?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:6
+  type: quote
+  locator: 4174-4175
+  quote_or_summary: "“Rude shocks await those who take to themselves the credit that
+    is due to others.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to the fable's internal narrative and stated moral. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include Image, bowing, temple, or stick. The available motif family “wisdom” is used cautiously for the moralizing fable pattern.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4159-l4175
+  passage_sha256=403fcda5ca0b3421a9af2998bcd74787d09790922fbb6b49f4ee51b12918092f
+

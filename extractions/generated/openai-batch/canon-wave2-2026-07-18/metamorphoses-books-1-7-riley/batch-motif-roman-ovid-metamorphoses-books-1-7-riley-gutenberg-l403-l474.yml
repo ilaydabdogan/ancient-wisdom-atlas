@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l403-l474
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK V. / BOOK VI. / BOOK VII. / INTRODUCTION.; lines 403-474
+  start: '403'
+  end: '474'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an introductory biographical account of Ovid: his birth,
+    education, turn from law to poetry, marriages, social and literary circle, imperial
+    displeasure, exile to Tomi, death in banishment, possible reasons for the exile,
+    and a list of his writings.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ovid is described as born at Sulmo around ninety miles from Rome in 43 B.C.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ovid's father brought him to Rome at an early age for education under distinguished
+    masters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After his education at home, Ovid visited Athens with the poet Macer, then
+    visited cities of Asia Minor and spent nearly a year in Sicily.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ovid's father discouraged poetry and urged him toward the legal profession.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ovid spent time in the forum and held minor offices, but later abandoned the
+    law courts for poetry.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Ovid associated with several named poets and admired them strongly.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ovid was married three times; the passage distinguishes his third wife as
+    a Fabian woman and friend of Empress Livia.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Around A.D. 8, Augustus ordered Ovid to withdraw from Rome and live at Tomi
+    on the shore of the Euxine sea.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ovid left behind a wife to whom he was devoted and entered an exile from which
+    he never returned.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The exact reason for Ovid's banishment is described as unclear, though the
+    passage reports conjectures involving a displeasing composition and scandals in
+    Augustus's family.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage lists Ovid's writings, including the Metamorphoses in fifteen
+    books.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: P. Ovidius Naso / Ovid
+  description: Roman poet who is the subject of the introduction; born at Sulmo, educated
+    in Rome, turned from law to poetry, exiled to Tomi, and died in banishment.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Ovid's father
+  description: Member of an old equestrian family who brought Ovid to Rome for education
+    and urged him toward law rather than poetry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Augustus
+  description: Emperor whose displeasure Ovid incurred and who ordered Ovid to withdraw
+    from Rome and dwell at Tomi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Ovid's third wife
+  description: A lady of the Fabian house, friend of Empress Livia, and the wife whom
+    Ovid left behind when exiled.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Ovid's life, education, career, relationships, exile,
+    death, and writings.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: role:2
+  label: father directing education and career
+  assigned_to:
+  - fig:2
+  basis: The father takes Ovid to Rome for education and discourages poetry in favor
+    of law.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: imperial authority ordering exile
+  assigned_to:
+  - fig:3
+  basis: Augustus orders Ovid to withdraw from Rome and live at Tomi after incurring
+    imperial displeasure.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: poet choosing poetry over law
+  assigned_to:
+  - fig:1
+  basis: Ovid abandons the law courts and devotes himself to poetry despite his father's
+    objections.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: exile
+  assigned_to:
+  - fig:1
+  basis: Ovid is sent away from Rome to Tomi and never returns.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: beloved wife left behind
+  assigned_to:
+  - fig:4
+  basis: The passage says Ovid left behind a wife to whom he was devotedly attached
+    when he obeyed the exile order.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Education and early travels
+  summary: Ovid is born at Sulmo, brought to Rome for education, then travels to Athens,
+    Asia Minor, and Sicily after completing his education at home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Career pressure and poetic choice
+  summary: Ovid's father discourages poetry and urges law; Ovid spends time in public
+    legal and state life but ultimately chooses poetry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Exile from Rome to Tomi
+  summary: After incurring Augustus's displeasure, Ovid is ordered to leave Rome for
+    Tomi, leaves his wife behind, never returns, and dies in banishment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Unclear cause of banishment
+  summary: The passage states that Ovid's banishment had no clear exact reason, while
+    reporting conjectures involving an immoral composition and scandals associated
+    with Augustus's daughter and granddaughter.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: forced exile from the civic center
+  taxonomy_refs:
+  - departure
+  basis: Ovid is ordered by Augustus to withdraw from Rome and dwell in Tomi.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a biographical introduction rather than a mythic narrative; the
+    taxonomy reference is a broad thematic fit only.
+- id: motif:2
+  label: departure without return
+  taxonomy_refs:
+  - departure
+  basis: Ovid obeys the exile edict and enters an exile from which he is said never
+    to return.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage explicitly negates return; no separate return motif is present.
+- id: motif:3
+  label: beloved left behind during exile
+  taxonomy_refs:
+  - divine_beloved
+  basis: Ovid leaves behind a wife to whom he is devotedly attached when he goes into
+    exile.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The wife is not described as divine; the taxonomy fit is weak and should
+    be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 407-413
+  quote_or_summary: Ovid is introduced as born at Sulmo in 43 B.C.; his father belonged
+    to an old equestrian family and brought him to Rome for education.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 414-418
+  quote_or_summary: After education at home, Ovid visited Athens with Macer, then
+    Asia Minor and Sicily.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 420-429
+  quote_or_summary: Ovid inclined toward poetry, but his father discouraged it and
+    urged him toward law; Ovid complied for a time by spending time in the forum.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 429-435
+  quote_or_summary: Ovid held minor offices but found public duties incompatible with
+    his health and inclinations; he resolved to abandon law courts for poetry.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 435-442
+  quote_or_summary: Ovid sought the society of distinguished poets and is said to
+    have associated with Macer, Propertius, Ponticus, Bassus, Æmilius Macer, and Horace.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 444-453
+  quote_or_summary: Ovid was married three times; the third wife was of the Fabian
+    house, a friend of Livia, and worthy of Ovid's lasting love.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 455-465
+  quote_or_summary: Around A.D. 8, Augustus ordered Ovid to leave Rome for Tomi on
+    the Euxine shore; Ovid left his wife, never returned from exile, and died at Tomi
+    in A.D. 18.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 467-474
+  quote_or_summary: The exact cause of exile is unclear; conjectures connect it with
+    a displeasing composition and scandals involving Julia and Augustus's granddaughter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 476-481
+  quote_or_summary: The passage lists Ovid's writings, including the Amores, Heroic
+    Epistles, Ars Amatoria, Remedia Amoris, Metamorphoses, Fasti, Tristia, Epistles,
+    and minor poems.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is introductory biography rather than a mythic episode, so literal
+    biographical extraction is clearer than motif assignment. Motif candidates are
+    broad and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support an explicit comparative mythology connection.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l403-l474
+  passage_sha256=22ed35eca4a2cf5f95ae7887227430fcafaf536f0b9a4ea51ba0c27f9f04ebf4
+

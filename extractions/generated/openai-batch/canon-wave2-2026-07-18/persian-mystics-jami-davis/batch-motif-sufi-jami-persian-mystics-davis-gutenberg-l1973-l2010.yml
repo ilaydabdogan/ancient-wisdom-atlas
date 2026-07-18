@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1973-l2010
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: SELF-SACRIFICE / GALLANTRY AND HUMOUR / FIFTH GARDEN / A LOVERS' DIALOGUE;
+    lines 1973-2010
+  start: '1973'
+  end: '2010'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    Choose a love wherewith on the day of reckoning
+        Thou mayest abide in the eternal abode.
+  summary: A maiden and a youth declare mutual love. The girl expresses a wish for
+    physical intimacy. The youth says he shares the desire, but refuses because he
+    fears that a non-pious friendship will become enmity on the day of resurrection.
+    He departs while reciting lines urging the heart to abandon transient love and
+    choose a love that endures at reckoning.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The maiden invokes God, described as worshipped openly and secretly by men
+    and fairies, and swears that no one in the world is dearer to her than the youth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youth addresses the maiden as one who resides in his heart and says that
+    his soul and body belong to her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The youth says that a heart which does not turn toward the maiden must be
+    stone rather than a heart.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrative says the girl wishes that she and the youth would put their
+    hands around each other's waists and eat sugar from each other's lips.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youth replies that his desire is the same, but cites God Most High saying
+    that intimate friends on the day of resurrection will become enemies to one another
+    except the pious.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The youth says he does not want the edifice of their love to be impaired or
+    their friendship turned into enmity on the morning of resurrection.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After speaking, the youth departs and recites lines telling the heart to abandon
+    a two-day love and choose a love that can abide on the day of reckoning in the
+    eternal abode.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Maiden / girl
+  description: Female speaker who swears by God that the youth is dearer to her than
+    anyone and who wishes for mutual physical intimacy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Youth
+  description: Male speaker who returns the declaration of love, says his desire is
+    the same, cites the resurrection warning, and departs after reciting admonitory
+    verses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: God / God Most High
+  description: Divine figure invoked in the maiden's oath and cited by the youth as
+    the authority for the statement about intimate friends on the day of resurrection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: Oath-making lover
+  assigned_to:
+  - fig:1
+  basis: The maiden swears by God that no one is dearer to her than the youth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Mutual human lovers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the girl and the youth express desire and affection for one another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Renouncing lover and moral admonisher
+  assigned_to:
+  - fig:2
+  basis: The youth refuses to act on mutual desire because of resurrection reckoning
+    and recites verses urging abandonment of transient love.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Divine authority
+  assigned_to:
+  - fig:3
+  basis: God is invoked in the oath and cited as the source of the teaching about
+    friends at resurrection.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Heart
+  literal_form: heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Stone heart
+  literal_form: a heart imagined as stone
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Mutual embrace and sweetness from lips
+  literal_form: hands around each other's waists and sugar from each other's lips
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Day of resurrection / day of reckoning
+  literal_form: eschatological day named as resurrection and reckoning
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Eternal abode
+  literal_form: eternal abode
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Edifice of love
+  literal_form: love described as an edifice that could be impaired
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Declarations of love
+  summary: The maiden swears by God that the youth is dearest to her, and the youth
+    answers that his soul and body belong to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Desire checked by resurrection warning
+  summary: The girl expresses a wish for intimate contact. The youth says he shares
+    the desire but cites a divine warning that non-pious friendships become enmity
+    at resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure with admonitory verse
+  summary: The youth departs while reciting lines that tell the heart to abandon transient
+    love and choose a love that can remain at reckoning in the eternal abode.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Renunciation of immediate sensual love for enduring spiritual safety
+  taxonomy_refs:
+  - sacrifice
+  basis: The youth refuses a mutually desired intimacy and urges abandonment of a
+    short-lived love for one that can endure the day of reckoning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents renunciation and self-denial rather than ritual sacrifice
+    or bodily death; the taxonomy link is functional and should be reviewed.
+- id: motif:2
+  label: Friendship or love tested at resurrection and reckoning
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The youth cites God Most High that intimate friends will become enemies on
+    the day of resurrection except the pious, and the poem names the day of reckoning
+    and eternal abode.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage invokes eschatological judgment but does not narrate an actual
+    judgment scene.
+- id: motif:3
+  label: Pious love that endures beyond transient worldly love
+  taxonomy_refs:
+  - resurrection
+  basis: The youth contrasts a 'love of two days' with a love that can abide at the
+    day of reckoning in the eternal abode.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The object of the enduring love is not explicitly identified in the passage;
+    it may be spiritual or pious love, but the text does not name it directly as divine
+    beloved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1977-1981
+  quote_or_summary: '"By God, who openly and secretly / Is worshipped by men and fairies,
+    / I swear that of all whom I see in the world / No one is dearer to me than thou."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain; supplied Project Gutenberg-derived text.
+- id: ev:2
+  type: quote
+  locator: lines 1983-1988
+  quote_or_summary: '"O thou who sawest me, and residest in my heart, / Soul and body,
+    all now belong to thee"; the youth adds that a heart not turning to her must be
+    stone.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain; supplied Project Gutenberg-derived text.
+- id: ev:3
+  type: summary
+  locator: lines 1990-1994
+  quote_or_summary: The girl says her only wish is mutual embrace and sweetness from
+    each other's lips; the youth replies that his desire is the same.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain; supplied Project Gutenberg-derived text.
+- id: ev:4
+  type: summary
+  locator: lines 1994-2002
+  quote_or_summary: The youth cites God Most High that intimate friends will become
+    enemies on the day of resurrection except the pious, and says he does not want
+    their love impaired or turned into enmity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain; supplied Project Gutenberg-derived text.
+- id: ev:5
+  type: quote
+  locator: lines 2002-2008
+  quote_or_summary: 'After speaking, the youth departs reciting: "O heart, abandon
+    this love of two days... Choose a love wherewith on the day of reckoning / Thou
+    mayest abide in the eternal abode."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain; supplied Project Gutenberg-derived text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif taxonomy assignments
+    are cautious because the passage is a moralized Sufi love dialogue rather than
+    an explicit mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Sub-line evidence locators are approximate within the supplied line range. No external sources or comparisons were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1973-l2010
+  passage_sha256=58f66b0ce4202409c8a1e1aca1f88bbf048bcf00a59aaa59e884efdc07a541a7
+

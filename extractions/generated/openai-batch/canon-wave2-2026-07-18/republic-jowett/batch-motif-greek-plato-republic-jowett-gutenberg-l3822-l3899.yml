@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l3822-l3899
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 3822-3899
+  start: '3822'
+  end: '3899'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage analyzes the education of rulers: philosophy is presented
+    as a conversion of the soul from darkness and becoming toward light and being.
+    Arithmetic and geometry are described as disciplines that raise the mind beyond
+    sensory confusion toward abstract truth, true being, and the idea of good, while
+    also having lesser military uses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rulers are described as needing richness in virtue and wisdom, and philosophy
+    is called the best preparation for governing a state.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks how rulers can be created and frames the change as a movement
+    from darkness to light and as conversion of the soul from night to day and from
+    becoming to being.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gymnastic and music are described as earlier branches of education that do
+    not accomplish the desired elevation of the soul; number or calculation is proposed
+    as the remaining primary science.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Number is said to have military applications, including ordering ranks, but
+    the passage emphasizes a higher use as a conductor to thought and being.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Sensory examples such as three fingers and relative greatness and smallness
+    are used to show how perception produces contrasts that prompt the mind to use
+    number.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Number is described as elevating the mind from generation toward contemplation
+    of being and as dealing with abstract truth rather than visible objects.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Arithmetic is described as sharpening the wits and as a severe discipline
+    that tests and improves general ability.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Geometry is introduced as a second branch of education and is said to assist
+    contemplation of the idea of good and true being.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: Glaucon replies that geometry would double the skill of a general, but the
+    passage treats this as a lesser use compared with philosophical contemplation.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: Palamedes and Agamemnon are mentioned in an example about counting, military
+    ranks, and the incompetence of a general unable to count.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: rulers / guardians
+  description: Citizens who may bear rule if rich in virtue and wisdom; the guardian
+    is described as needing to be both soldier and philosopher.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: philosopher
+  description: A person associated with the life of philosophy and with pursuing arithmetic
+    and related studies for abstract truth rather than retail or merely practical
+    use.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Glaucon
+  description: Named interlocutor who replies that geometry would double a general’s
+    skill.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Palamedes
+  description: A figure in tragedy described as saying that he invented number and
+    counted and ordered the ranks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Agamemnon
+  description: A general used in a hypothetical example about the absurdity of being
+    unable to count his feet.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: virtuous and wise ruler
+  assigned_to:
+  - fig:1
+  basis: The passage says those rich in virtue and wisdom may bear rule.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: guardian as soldier and philosopher
+  assigned_to:
+  - fig:1
+  basis: The guardian is said to be a soldier as well as a philosopher.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: philosophical learner
+  assigned_to:
+  - fig:2
+  basis: The passage says philosophy is the best preparation for government and that
+    arithmetic should be pursued in the spirit of a philosopher.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: interlocutor
+  assigned_to:
+  - fig:3
+  basis: Glaucon is named as replying to the discussion of geometry.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: mythic or tragic inventor of number
+  assigned_to:
+  - fig:4
+  basis: Palamedes is described as saying in tragedy that he invented number and ordered
+    ranks.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: exemplary general dependent on counting
+  assigned_to:
+  - fig:5
+  basis: Agamemnon is used as an example of a general whose inability to count would
+    be ridiculous.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: darkness to light
+  literal_form: darkness, light, night, day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: upward elevation of the soul
+  literal_form: soul drawn upwards; mind raised; looking upwards
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: number and calculation
+  literal_form: number, calculation, unit, one
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: contrasting perceptions
+  literal_form: three fingers; great and small; one and plurality; visible and intelligible
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: foam and flux of generation
+  literal_form: foam and flux of generation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: geometry
+  literal_form: geometry; squaring, subtending, apposing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: idea of good and true being
+  literal_form: idea of good; true being; eternal existence
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Philosophical conversion of future rulers
+  summary: The passage frames the creation of rulers as a philosophical conversion
+    from darkness to light, from night to day, and from becoming to being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arithmetic as ascent from sensory confusion
+  summary: Number and calculation are proposed as a primary science that moves the
+    mind from sensory contrasts and practical uses toward thought, being, and abstract
+    truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Geometry as contemplation of true being
+  summary: Geometry is introduced as a second educational discipline whose higher
+    purpose is to compel the mind toward the idea of good, true being, knowledge,
+    and elevation of the soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ascent from darkness and generation toward being
+  taxonomy_refs:
+  - ascent
+  basis: The passage repeatedly describes philosophical education as movement from
+    darkness to light, drawing the soul upwards, raising the mind from generation,
+    and turning it upward to eternal existence.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The ascent is philosophical and pedagogical rather than a narrated mythic
+    journey.
+- id: motif:2
+  label: wisdom as preparation for rulership
+  taxonomy_refs:
+  - wisdom
+  basis: Rulers are to be rich in virtue and wisdom; philosophy, arithmetic, and geometry
+    prepare the guardian for governing and for contemplation of truth and the good.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is analytical and educational, not a mythic narrative of a
+    culture hero or divine teacher.
+- id: motif:3
+  label: dualities that stimulate understanding
+  taxonomy_refs:
+  - duality
+  basis: The passage uses contrasts such as darkness/light, night/day, becoming/being,
+    visible/intelligible, great/small, and one/plurality as prompts for reflection.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The dualities function as philosophical distinctions rather than personified
+    or cosmological oppositions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3822-3827
+  quote_or_summary: Rulers should be rich in virtue and wisdom; the life of philosophy
+    is said to be better than political ambition and the best preparation for government.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3828-3833
+  quote_or_summary: The passage asks for the way “from darkness to light” and describes
+    philosophy as “the conversion of a soul from night to day, from becoming to being,”
+    with training that draws the soul upwards.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 3833-3841
+  quote_or_summary: Gymnastic and music are judged insufficient for the desired education;
+    number or calculation is proposed as the universal or primary science, including
+    for war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3841-3852
+  quote_or_summary: Palamedes is mentioned as claiming to have invented number and
+    ordered ranks; Agamemnon is used in a hypothetical example of a general unable
+    to count, and soldiers are said to need counting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3852-3869
+  quote_or_summary: Number is called a conductor to thought and being; sensory examples
+    of three fingers and of great and small show how contrast and relation lead the
+    mind toward number and the distinction between visible and intelligible.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 3870-3881
+  quote_or_summary: Number has “an elevating effect”; it “raises the mind out of the
+    foam and flux of generation to the contemplation of being,” and should be pursued
+    for abstract truth rather than merely retail or practical use.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 3882-3887
+  quote_or_summary: Arithmetic is said to sharpen the wits; geometry is introduced
+    as the second branch of education, and Glaucon says it would double the skill
+    of a general.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: quote
+  locator: lines 3887-3899
+  quote_or_summary: Geometry assists “the contemplation of the idea of good” and compels
+    the mind to look at “true being”; its object is knowledge, and it should “elevate
+    the soul” and “raise up what has fallen down.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical analysis with strong ascent, wisdom, and duality
+    imagery. Motif identification is limited by the absence of a mythic narrative
+    and by the passage’s abstract pedagogical context. No explicit comparative claim
+    is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to supplied available motif families and symbols; no external comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l3822-l3899
+  passage_sha256=f05be1a3a5bcb01b6803bc078e4df32bd609d17df4f552b99502c7d998ff8d20
+

@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l15222-l15240
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: INCIPIT. / TITLE I. / VIII. / XIII.; lines 15222-15240
+  start: '15222'
+  end: '15240'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: the Pit of the Serpent and the worms
+  summary: Perceval defeats an opposing knight in mounted combat, refuses to kill
+    him immediately after he begs mercy, and instead has him carried into a dark deep
+    pit associated with the Serpent and many worms. The damsel thanks Perceval, returns
+    to her castle, and is thereafter secure from knights because of Perceval's severe
+    justice.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Perceval and the opposing knight ride toward one another and strike one another
+    in the breast with spears.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Perceval strikes the knight hard enough to overthrow him over the croup of
+    his horse, and the fall breaks a major bone of the knight's leg so that he cannot
+    move.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Perceval dismounts and comes to the fallen knight, who begs mercy and asks
+    not to be slain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Perceval says the fallen knight need not fear immediate death in his helpless
+    condition, but that he will be made to undergo what he had wanted the damsel to
+    undergo.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Perceval makes the other old knight and the priest dismount.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The defeated knight is carried to the Pit of the Serpent and the worms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The pit is described as dark and deep, with many worms; the knight cannot
+    live long there because of the worms.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The damsel thanks Perceval, returns to her castle, and is thereafter without
+    dread of any knight because of Perceval's cruel justice on this one.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: Knight who defeats the opposing knight, spares him immediate killing,
+    imposes the same kind of fate intended for the damsel, and receives the damsel's
+    thanks.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed opposing knight
+  description: Knight defeated by Perceval, injured in the fall, begging mercy, and
+    carried into the pit.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: The damsel
+  description: Woman whose intended fate is referred to by Perceval; she thanks Perceval
+    and returns safely to her castle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Other old knight
+  description: An old knight whom Perceval makes dismount before the defeated knight
+    is carried to the pit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The priest
+  description: A priest whom Perceval makes dismount before the defeated knight is
+    carried to the pit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: victorious combatant
+  assigned_to:
+  - fig:1
+  basis: Perceval overthrows the other knight in mounted combat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defeated supplicant
+  assigned_to:
+  - fig:2
+  basis: The knight is thrown down, immobilized, and asks Perceval for mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: agent of reciprocal punishment
+  assigned_to:
+  - fig:1
+  basis: Perceval says he will make the defeated knight undergo what the knight had
+    wished to make the damsel undergo.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: target of reciprocal punishment
+  assigned_to:
+  - fig:2
+  basis: The defeated knight is carried into the pit after Perceval announces a punishment
+    corresponding to the knight's intended act toward the damsel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: beneficiary of Perceval's aid
+  assigned_to:
+  - fig:3
+  basis: The damsel thanks Perceval and is thereafter safe in her castle.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: compelled dismounters
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Perceval makes the other old knight and the priest alight.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Serpent pit
+  literal_form: A dark, deep place called the Pit of the Serpent, also associated
+    with worms.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Worms in the pit
+  literal_form: Many worms in the pit, described as causing the knight not to live
+    long there.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mounted duel on the launde
+  summary: Perceval and the opposing knight charge and strike with spears; Perceval
+    knocks the knight from his horse and the fall breaks the knight's leg-bone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mercy plea and reciprocal sentence
+  summary: The fallen knight begs for mercy. Perceval says he will not kill him in
+    that condition, but will make him undergo the fate he had intended for the damsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Consignment to the pit
+  summary: Perceval makes the old knight and priest dismount, and the defeated knight
+    is carried into the dark deep Pit of the Serpent and the worms, where he cannot
+    live long.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Damsel's return and security
+  summary: The damsel thanks Perceval for his actions, returns to her castle, and
+    is thereafter secure from fear of knights.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mounted duel and overthrow
+  taxonomy_refs: []
+  basis: The passage centers on a joust-like mounted encounter in which Perceval overthrows
+    the opposing knight with a spear blow.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal chivalric combat pattern and is not linked to a supplied
+    taxonomy motif family.
+- id: motif:2
+  label: Reciprocal punishment
+  taxonomy_refs: []
+  basis: Perceval explicitly imposes on the defeated knight the fate the knight had
+    intended for the damsel, and the result is later called cruel justice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the action as severe justice but does not frame it
+    as divine judgment.
+- id: motif:3
+  label: Serpent and worm death-pit
+  taxonomy_refs:
+  - serpent
+  basis: The place of punishment is named the Pit of the Serpent and contains many
+    deadly worms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The serpent is named in the place description, but no active serpent encounter
+    is narrated in this passage.
+- id: motif:4
+  label: Rescued damsel restored to safety
+  taxonomy_refs: []
+  basis: After Perceval's actions, the damsel thanks him, returns to her castle, and
+    no longer fears knights.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the outcome of safety but limited context about the
+    damsel's earlier danger.
+comparison_claims:
+- id: claim:1
+  claim: The pit episode can be cautiously grouped with a serpent-associated danger
+    or punishment motif family because the place of confinement is named for the Serpent
+    and contains lethal worms.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe an active serpent, a serpent combat,
+    or a broader mythic serpent narrative; the claim rests on the named pit and associated
+    creatures only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15222-15229
+  quote_or_summary: Perceval and the knight charge, strike with spears, and Perceval
+    knocks the knight over his horse; the fall breaks a major leg-bone so he cannot
+    move.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:2
+  type: summary
+  locator: 15229-15234
+  quote_or_summary: The fallen knight begs mercy; Perceval says he will not kill him
+    helpless, but will make him undergo what he had wished to make the damsel undergo;
+    the old knight and priest are made to alight.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:3
+  type: quote
+  locator: 15234-15238
+  quote_or_summary: The knight is carried to “the Pit of the Serpent and the worms”;
+    the pit is dark and deep, with many worms, so he cannot live long there.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:4
+  type: summary
+  locator: 15238-15240
+  quote_or_summary: The damsel thanks Perceval, returns to her castle, and thereafter
+    has no fear of knights because of Perceval's cruel justice on this one.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is a short combat-and-punishment episode with limited broader context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. No external Arthurian context was added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l15222-l15240
+  passage_sha256=3deac566dc8e587e7fc50b9f3eb00f1a48cd63d9c12c1e164a19f63049fc6124
+

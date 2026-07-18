@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l103-l198
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: 'SELECTED BIBLIOGRAPHY: / ORIGINAL TEXT-- / RECOMMENDED READING-- / INTRODUCTION;
+    lines 103-198'
+  start: '103'
+  end: '198'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: the adventures of King Arthur's knights of the Round Table, in the quest
+    of the Holy Grail
+  summary: The introduction describes manuscript witnesses, editorial history, dating
+    evidence, and a Welsh version of the Grail romance. It explicitly identifies Welsh
+    Grail material as involving King Arthur's Round Table knights and the quest of
+    the Holy Grail, while noting textual omissions in the Welsh version.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The book is described as a translation from the first volume of Potvin's edition
+    of "Perceval le Gallois ou le conte du Graal," based on a Brussels manuscript
+    numbered 11,145.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Brussels manuscript is described as "Le Roman de Saint Graal" in French,
+    dated to the first third of the sixteenth century, and presented as the most complete
+    known copy despite limited defects.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thirteenth-century Berne fragments are said to have been collated with the
+    Brussels manuscript and to match the corresponding portions apart from spelling
+    and minor readings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The introduction reports a declaration that the romance was written by order
+    of the Seigneur of Cambrein for Messire Jehan, Seigneur of Neele.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The introducer argues that Messire Jehan of Neele is probably John de Nesle
+    and uses events dated 1214 and 1225 to narrow the date of the original romance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An early Welsh translation or version is described as "Y Seint Greal" and
+    as concerning King Arthur's knights of the Round Table in the quest of the Holy
+    Grail.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The second portion of the Welsh Greal is described as containing adventures
+    of Gwalchmei, Peredur, Lancelot, and the knights of the Round Table, and as representing
+    the romance translated here.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Welsh version is described as incomplete, with omissions, compressed material,
+    and fifty-six whole chapters of the present book absent from it.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King Arthur
+  description: Named in the title of the Welsh Greal as the king whose Round Table
+    knights have adventures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Knights of the Round Table
+  description: Collective group described as having adventures in the quest of the
+    Holy Grail and also mentioned in the description of the Welsh Greal's second portion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Gwalchmei
+  description: Named as one of the figures whose adventures appear in the second portion
+    of the Welsh Greal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Peredur
+  description: Named as one of the figures whose adventures appear in the second portion
+    of the Welsh Greal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lancelot
+  description: Named as one of the figures whose adventures appear in the second portion
+    of the Welsh Greal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: associated Arthurian king
+  assigned_to:
+  - fig:1
+  basis: The Welsh title refers to "King Arthur's knights of the Round Table."
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: questing Round Table knights
+  assigned_to:
+  - fig:2
+  basis: The Welsh title describes the knights of the Round Table as involved in the
+    quest of the Holy Grail.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: named adventuring knight
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The Welsh Greal's second portion is described as containing the adventures
+    of Gwalchmei, Peredur, and Lancelot.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Holy Grail / Graal
+  literal_form: Named quest focus in titles and in the phrase "quest of the Holy Grail";
+    no physical form is described in this passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Referenced Holy Grail quest frame
+  summary: A cited Welsh title characterizes the work as adventures of King Arthur's
+    Round Table knights in the quest of the Holy Grail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Referenced named knightly adventures
+  summary: The Welsh Greal's second portion is described as containing adventures
+    of Gwalchmei, Peredur, Lancelot, and other Round Table knights, and as representing
+    the romance translated here.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Quest of the Holy Grail by Arthurian knights
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage explicitly cites a Welsh Grail title describing King Arthur's
+    Round Table knights as engaged in the quest of the Holy Grail.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The selected passage is introductory and bibliographic; it mentions the
+    quest at title or corpus-description level but does not narrate an episode or
+    describe quest stages.
+comparison_claims:
+- id: claim:1
+  claim: The passage links the present Grail romance with the Welsh Greal as a nearby
+    Arthurian Grail tradition sharing the Holy Grail quest frame.
+  claim_level: same_motif
+  target: Welsh Greal / Welsh Arthurian Grail tradition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The claim is based on the passage's description of a Welsh version
+    and its title-level Grail quest framing. The passage also reports that the Welsh
+    version is incomplete and omits substantial material, so episode-level equivalence
+    cannot be inferred here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 103-116
+  quote_or_summary: The introduction says the book is translated from Potvin's edition
+    of "Perceval le Gallois ou le conte du Graal," based on Brussels MS 11,145, described
+    as "Le Roman de Saint Graal" and as the most complete known copy though defective
+    in part.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 117-137
+  quote_or_summary: Large thirteenth-century Berne fragments are described; Potvin
+    collated them, and the corresponding portions are said to be identical with the
+    Brussels manuscript apart from spelling and minor readings.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 138-154
+  quote_or_summary: A declaration at the end of the book is reported as saying it
+    was written by order of the Seigneur of Cambrein for Messire Jehan, Seigneur of
+    Neele, with discussion of possible identity of the Seigneur of Cambrein.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 155-159
+  quote_or_summary: Messire Jehan, Seigneur of Neele, is identified by the introducer
+    as likely John de Nesle, associated with dates 1214 and 1225, which are used to
+    constrain the romance's date.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: quote
+  locator: lines 160-183
+  quote_or_summary: The Welsh volume is titled "Y Seint Greal" and described as "the
+    adventures of King Arthur's knights of the Round Table, in the quest of the Holy
+    Grail"; its second portion contains adventures of Gwalchmei, Peredur, Lancelot,
+    and Round Table knights, and represents the romance translated here.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 184-198
+  quote_or_summary: The Welsh translator is said to have had limited command of French
+    and to omit difficult passages; the Welsh version is incomplete, with major gaps
+    and fifty-six whole chapters absent from it.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is an introduction
+    rather than a narrative episode. Motif identification rests on explicit title
+    and corpus-description language about the Holy Grail quest.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No detailed narrative action is present in this selected passage. The main mythic pattern explicitly available is the Holy Grail quest frame associated with Arthurian Round Table knights.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l103-l198
+  passage_sha256=733cd41eb60866de8387ff758cd1fc516d61a811f3a92d6ebe510d3565fc386c
+

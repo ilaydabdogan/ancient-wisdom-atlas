@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1952-l1970
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FOURTH GARDEN / LIBERALITY / SELF-SACRIFICE / GALLANTRY AND HUMOUR; lines
+    1952-1970
+  start: '1952'
+  end: '1970'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"What injury can the bristles of a porcupine inflict upon the paw of a formidable
+    lion?"'
+  summary: An Arab of the desert praises an Arab chief in verse, asks for the chief's
+    generous hand, and kisses it. After the chief jokes that the Arab's lip-hairs
+    scratched his hand, the Arab answers with a humorous comparison of porcupine bristles
+    and a lion's paw. The chief values the witty reply more than the poem and gives
+    monetary rewards for both.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An Arab of the desert welcomes the arrival of an Arab chief by reciting a
+    Qasída.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The recited distich asks the chief to stretch out a hand whose palm distributes
+    largesses and whose back is kissed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The generous man holds out his hand to be kissed by the Arab.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The generous man jokes that hairs on the Arab's lips scratched his hand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Arab replies by comparing the lip-hairs to porcupine bristles and the
+    chief's hand to a formidable lion's paw.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The liberal man says he likes the witty reply better than the Qasída.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Arab is ordered to receive 1,000 dirhams for the Qasída and 3,000 dirhams
+    for the sally.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arab of the desert
+  description: A desert Arab who recites a Qasída, kisses the chief's hand, and gives
+    a humorous reply.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Arab chief / generous man / liberal man
+  description: An Arab chief described as generous and liberal, whose hand is praised
+    and kissed, and who orders rewards for the poem and witty reply.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Poet-supplicant
+  assigned_to:
+  - fig:1
+  basis: He welcomes the chief with a Qasída and asks for the chief's hand associated
+    with largesse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Generous patron
+  assigned_to:
+  - fig:2
+  basis: He is called generous or liberal and orders monetary rewards.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Witty respondent
+  assigned_to:
+  - fig:1
+  basis: He answers the chief's joke with a humorous comparison involving porcupine
+    bristles and a lion's paw.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Recipient of praise and hand-kiss
+  assigned_to:
+  - fig:2
+  basis: The poem praises his hand, and he holds it out for the Arab to kiss.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Generous hand
+  literal_form: The chief's hand, with a palm that distributes largesses and a back
+    that is kissed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Hand-kiss gesture
+  literal_form: The Arab kisses, or is invited to kiss, the back of the chief's hand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Porcupine bristles
+  literal_form: The Arab's lip-hairs are humorously likened to the bristles of a porcupine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Formidable lion's paw
+  literal_form: The chief's hand is humorously likened to the paw of a formidable
+    lion.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Dirham rewards
+  literal_form: Monetary rewards of 1,000 dirhams for the Qasída and 3,000 dirhams
+    for the sally.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Poetic welcome of the chief
+  summary: A desert Arab greets an Arab chief with a Qasída ending in a couplet that
+    praises the chief's generous hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hand-kiss and humorous exchange
+  summary: The chief offers his hand to be kissed, jokes about being scratched by
+    the Arab's lip-hairs, and receives a witty animal comparison in reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reward for poem and sally
+  summary: The chief values the witty reply more than the poem and orders larger payment
+    for the sally than for the Qasída.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Generous patron rewards praise and wit
+  taxonomy_refs: []
+  basis: A praised chief gives a monetary reward for the Qasída and an even larger
+    one for the witty reply.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a social and literary anecdote rather than an explicitly mythic
+    episode.
+- id: motif:2
+  label: Witty repartee transforms a slight into praise
+  taxonomy_refs:
+  - wisdom
+  basis: After the chief jokes that his hand was scratched, the Arab answers with
+    a clever comparison that flatters the chief as a lion and pleases him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage emphasizes
+    humour and verbal agility more specifically.
+- id: motif:3
+  label: Animal metaphor for social hierarchy
+  taxonomy_refs: []
+  basis: The Arab's reply contrasts porcupine bristles with a formidable lion's paw,
+    using animal imagery to minimize the supposed injury and magnify the chief.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a localized rhetorical image within the anecdote, not necessarily
+    a recurrent mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1952-1955
+  quote_or_summary: An Arab of the desert welcomes the arrival of an Arab chief with
+    a recited Qasída.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 1957-1959
+  quote_or_summary: '"Stretch out thy hand to me, the palm whereof / Distributes largesses,
+    and its back is kissed."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1961-1964
+  quote_or_summary: The generous man holds out his hand to be kissed and jokes that
+    the hairs on the Arab's lips scratched his hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 1965-1966
+  quote_or_summary: '"What injury can the bristles of a porcupine inflict upon the
+    paw of a formidable lion?"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1967-1970
+  quote_or_summary: The liberal man says he likes the sally better than the Qasída
+    and orders rewards of 1,000 dirhams for the poem and 3,000 for the sally.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and concrete, so literal extraction is high confidence.
+    Motif labels are interpretive and should be reviewed, especially the broad taxonomy
+    link to wisdom. No comparison claims are made because the passage itself does
+    not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparison claims were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1952-l1970
+  passage_sha256=8bacf4d8d894afcbb18fc662efa8e88af36dd6f21a89a0c69e5c5bf08c466f35
+

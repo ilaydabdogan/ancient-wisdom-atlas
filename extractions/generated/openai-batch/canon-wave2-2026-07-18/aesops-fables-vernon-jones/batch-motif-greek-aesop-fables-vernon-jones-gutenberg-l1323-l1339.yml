@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1323-l1339
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE NORTH WIND AND THE SUN / THE MISTRESS AND HER SERVANTS / THE GOODS AND
+    THE ILLS / THE HARES AND THE FROGS; lines 1323-1339
+  start: '1323'
+  end: '1339'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Hares lament their dangerous and powerless condition and decide to
+    drown themselves. When they run toward a pool, Frogs on the bank hear them, leap
+    into the water, and hide. An older, wiser Hare tells the others not to destroy
+    themselves, because the Frogs are afraid of them and therefore even more timid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hares gather together and lament their unhappy lot, being exposed to dangers
+    and lacking strength and courage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men, dogs, birds, and beasts of prey are named as enemies of the Hares and
+    are said to kill and devour them daily.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hares decide together to end their lives rather than endure persecution
+    any longer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Hares rush as a group toward a neighboring pool intending to drown themselves.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Frogs sitting on the bank hear the noise of the running Hares and leap into
+    the water, hiding in the depths.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An older Hare, described as wiser than the rest, calls to the other Hares
+    and tells them to stop and take heart.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The older Hare says the Frogs are afraid of the Hares and must therefore be
+    more timid than the Hares.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Hares
+  description: A collective group of hares who lament their danger, decide to drown
+    themselves, and run toward a pool.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Men, dogs, birds, and beasts of prey
+  description: Groups named as enemies of the Hares who kill and devour them daily.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Frogs
+  description: A number of frogs sitting on the bank who leap into the water and hide
+    when they hear the Hares running.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Older Hare
+  description: One of the older Hares, described as wiser than the rest, who speaks
+    to his companions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: threatened and despairing group
+  assigned_to:
+  - fig:1
+  basis: The Hares are exposed to dangers, lack strength and courage, and decide to
+    end their lives.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: enemies and predators
+  assigned_to:
+  - fig:2
+  basis: The passage calls these figures enemies of the Hares and says they kill and
+    devour them daily.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: more fearful group
+  assigned_to:
+  - fig:3
+  basis: The Frogs flee into the water and hide at the noise of the Hares, and the
+    older Hare identifies them as more timid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: wise elder and adviser
+  assigned_to:
+  - fig:4
+  basis: The Hare is described as older and wiser than the rest and counsels the others
+    not to destroy themselves.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pool and water
+  literal_form: A neighboring pool, its bank, the water, and the depths where the
+    Frogs hide.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hares lament and resolve to die
+  summary: The Hares gather, describe their dangerous condition, name their enemies,
+    and decide to end their lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rush to the pool and Frogs’ flight
+  summary: The Hares run toward a pool to drown themselves; Frogs on the bank hear
+    them and hide in the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Older Hare’s counsel
+  summary: The older, wiser Hare tells the others to stop, observing that the Frogs
+    fear the Hares and are more timid.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Despair averted by recognizing another’s greater fear
+  taxonomy_refs:
+  - wisdom
+  basis: The older, wiser Hare prevents the Hares from destroying themselves by interpreting
+    the Frogs’ flight as proof that some creatures are even more timid than they are.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference “wisdom” reflects the explicit wise intervention;
+    it is broader than the specific fable pattern.
+- id: motif:2
+  label: Collective attempted drowning
+  taxonomy_refs: []
+  basis: The Hares collectively resolve to end their lives and rush toward a pool
+    intending to drown themselves.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a literal episode in the fable rather than a supported link to
+    a broader taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1325-1329
+  quote_or_summary: The Hares lament their lot, lack strength and courage, and are
+    preyed upon daily by men, dogs, birds, and beasts of prey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1329-1332
+  quote_or_summary: The Hares decide to end their lives and rush toward a neighboring
+    pool intending to drown themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1332-1334
+  quote_or_summary: Frogs sitting on the bank hear the Hares running and leap into
+    the water, hiding in the depths.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1335-1338
+  quote_or_summary: "“Stop, my friends, take heart; don't let us destroy ourselves
+    after all.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are limited to patterns
+    evident in this passage; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; the broader locator label mentions additional fables not present in the passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1323-l1339
+  passage_sha256=f1d513856916a192c6d94768182a2342e8cc8b2faefa8b5780742c9a2df3301b
+

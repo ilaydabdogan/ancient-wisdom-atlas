@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2390-l2411
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BLACKSMITH AND HIS DOG / THE STAG AT THE POOL / THE DOG AND THE SHADOW
+    / MERCURY AND THE TRADESMEN; lines 2390-2411
+  start: '2390'
+  end: '2411'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a dog carrying meat over a stream mistakes its reflection
+    for another dog with a larger piece of meat, attacks it, and loses its own meat
+    to the current. In another, Jupiter orders Mercury to add an infusion of lies
+    to the ingredients of tradesmen; Mercury gives equal amounts to most but pours
+    the remainder into the horse-dealer, explaining why tradesmen lie and horse-dealers
+    lie most.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dog crosses a plank bridge over a stream with a piece of meat in his mouth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog sees his own reflection in the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dog thinks the reflection is another dog carrying a piece of meat twice
+    as large.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog lets go of his own meat and attacks the perceived other dog to get
+    the larger piece.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dog gets neither piece of meat because one is only a shadow and the other
+    is carried away by the current.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: While creating man, Jupiter tells Mercury to make an infusion of lies and
+    add a little of it to the ingredients used to make Tradesmen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mercury introduces an equal amount of the infusion into each tradesman type
+    until he reaches the horse-dealer, who is last on the list.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Finding that some infusion remains, Mercury puts all the remaining infusion
+    into the horse-dealer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fable concludes that all Tradesmen lie more or less, but none lie like
+    a horse-dealer.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A dog carrying a piece of meat across a plank bridge over a stream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Jupiter
+  description: The deity creating man and instructing Mercury about the infusion of
+    lies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mercury
+  description: The deity ordered to make and distribute the infusion of lies among
+    Tradesmen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Tradesmen
+  description: The occupational group whose making includes ingredients mixed with
+    an infusion of lies; examples named include tallow-chandler, greengrocer, and
+    haberdasher.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Horse-dealer
+  description: The last tradesman on Mercury's list, receiving all the remaining infusion
+    of lies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceived possessor
+  assigned_to:
+  - fig:1
+  basis: The dog mistakes his reflection for another dog with larger meat and loses
+    his own meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine creator and commander
+  assigned_to:
+  - fig:2
+  basis: Jupiter is creating man and instructs Mercury to prepare and add the infusion
+    of lies.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine distributor
+  assigned_to:
+  - fig:3
+  basis: Mercury makes and distributes the infusion among the tradesmen, including
+    the horse-dealer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: created occupational group
+  assigned_to:
+  - fig:4
+  basis: The Tradesmen are made from ingredients to which the infusion of lies is
+    added.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: last and excessive recipient
+  assigned_to:
+  - fig:5
+  basis: The horse-dealer is last on the list and receives all the remaining infusion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: stream, water, and current
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: reflection or shadow
+  literal_form: the dog's own reflection in the water, later identified as only a
+    shadow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: piece of meat
+  literal_form: a piece of meat in the dog's mouth and the imagined larger piece held
+    by the reflected dog
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: infusion of lies
+  literal_form: an infusion of lies added to the ingredients used in making Tradesmen
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dog sees reflection while carrying meat
+  summary: A dog crosses a plank bridge over a stream with meat in his mouth and sees
+    his reflection in the water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog loses meat to shadow and current
+  summary: The dog mistakes the reflection for another dog with a larger piece, drops
+    his own meat, attacks the shadow, and loses the real meat to the current.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jupiter orders the infusion of lies
+  summary: Jupiter, while creating man, instructs Mercury to make an infusion of lies
+    and add it to the ingredients used to make Tradesmen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mercury distributes the infusion
+  summary: Mercury adds equal portions of the infusion to tradesmen until the last,
+    the horse-dealer, into whom he puts all the remainder; the fable uses this to
+    explain degrees of lying among tradesmen.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Losing one's own possession by grasping after an illusory greater gain
+  taxonomy_refs:
+  - wisdom
+  basis: The dog releases his own meat to seize an imagined larger piece from a reflected
+    dog and ends with neither.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has only the broad family 'wisdom'; the more specific
+    greed-and-illusion pattern is not separately supplied.
+- id: motif:2
+  label: Mistaking a reflection or shadow for a real rival
+  taxonomy_refs:
+  - wisdom
+  basis: The dog sees his own reflection in water, thinks it is another dog, and acts
+    on that mistake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific supplied taxonomy reference exists for reflection or shadow
+    motifs.
+- id: motif:3
+  label: A human group's vice explained by a divine ingredient at creation
+  taxonomy_refs:
+  - wisdom
+  basis: Jupiter and Mercury add an infusion of lies to the making of Tradesmen, with
+    the horse-dealer receiving the remainder, explaining why tradesmen and especially
+    horse-dealers lie.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is etiological and moralizing, but the supplied taxonomy does
+    not include a precise creation-of-vice or occupational-satire family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2390-2394
+  quote_or_summary: THE DOG AND THE SHADOW begins with a dog crossing a plank bridge
+    over a stream with meat in his mouth and seeing his own reflection in the water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:2
+  type: summary
+  locator: 2394-2397
+  quote_or_summary: 'The dog thinks the reflection is another dog with a larger piece
+    of meat, lets go of his own, attacks, and loses both: one is only a shadow and
+    the other is carried away by the current.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:3
+  type: summary
+  locator: 2399-2403
+  quote_or_summary: MERCURY AND THE TRADESMEN opens with Jupiter creating man and
+    telling Mercury to make an infusion of lies and add a little to the ingredients
+    used to make Tradesmen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:4
+  type: summary
+  locator: 2403-2409
+  quote_or_summary: Mercury adds equal amounts to each tradesman type until the horse-dealer,
+    last on the list, then puts all the remaining infusion into him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:5
+  type: summary
+  locator: 2410-2411
+  quote_or_summary: The closing explanation states that all Tradesmen lie more or
+    less, but none lie like a horse-dealer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and broad because the supplied taxonomy contains only general families
+    such as 'wisdom' and the symbol list contains only 'water' among directly relevant
+    symbols. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The source label names a broader line-range grouping, but the supplied passage text for this request includes only THE DOG AND THE SHADOW and MERCURY AND THE TRADESMEN; extraction is limited to the supplied text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2390-l2411
+  passage_sha256=40d30822cfe6dd8c56e2b97cc770164001381c1feaac83a341752260a88ee98f
+

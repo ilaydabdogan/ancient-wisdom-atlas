@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25634-l25743
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  407 / THE  CODE  OF  HAMMURAPI  409 / THE  CODE  OF  HAMMURAPI  411
+    / THE  CODE  OF  HAMMURAPI  413; lines 25634-25743
+  start: '25634'
+  end: '25743'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Ramman (god of storms) ravage the field and carry away the (remaining) produce
+  summary: Legal provisions from the Code of Hammurapi concerning cultivation duties,
+    neglected or unreclaimed fields, tenant and owner shares, storm or drought losses,
+    debts, interest, and fields pledged as security for loans.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A person who neglects a field must compensate the owner with grain based on
+    neighboring fields and restore the field by breaking it up, hoeing, harrowing,
+    and returning it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person who takes an unreclaimed field for three years and leaves it uncultivated
+    must restore it in the fourth year and measure out grain per GAN.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If an owner has already received rent-produce and Ramman ravages the field
+    and removes the remaining produce, the loss falls on the tenant.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the owner has not received the produce, the tenant and owner share the
+    grain according to the contract.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If a tenant transfers cultivation to another because of failure to gain maintenance
+    in a former year, the owner is not to interfere if the field is cultivated, and
+    grain is received at harvest according to the contracts.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If a debtor’s field is ravaged by Ramman, the produce is carried away, or
+    grain fails because of lack of water, the debtor does not return grain to the
+    creditor or pay that year’s interest, and alters the tablet.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A borrower may give a field as security to a merchant and instruct him to
+    cultivate it and take grain and sesame from it; at harvest, the field owner receives
+    the produce and pays the merchant for loan, interest, and cultivator maintenance.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: owner of the field
+  description: The person entitled to receive the field back, receive produce or grain,
+    and in some clauses share produce according to contract.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: tenant or cultivator
+  description: The person responsible for cultivating a field, bearing some losses,
+    sharing grain under contract, or receiving maintenance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Ramman
+  description: Identified in the passage as the god of storms who ravages fields and
+    carries away produce.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: creditor
+  description: The person to whom a debtor would normally return grain and pay interest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: merchant
+  description: The lender from whom a man borrows money and to whom grain is paid
+    for loan, interest, and maintenance of the cultivator.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: debtor or borrower
+  description: A man who owes a debt or borrows money and gives a field as security.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: field owner
+  assigned_to:
+  - fig:1
+  basis: Receives restored fields, produce, grain shares, or harvest returns under
+    the clauses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: field cultivator or tenant
+  assigned_to:
+  - fig:2
+  basis: Cultivates, loses produce in specified circumstances, or shares grain according
+    to contract.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: storm deity as destructive agent
+  assigned_to:
+  - fig:3
+  basis: Ramman is glossed as god of storms and is said to ravage fields and carry
+    away produce.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: creditor
+  assigned_to:
+  - fig:4
+  basis: Named as the person to whom grain would be returned when a man owes a debt.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: merchant lender
+  assigned_to:
+  - fig:5
+  basis: Lends money and receives grain for the loan, interest, and cultivator maintenance.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: debtor or borrower
+  assigned_to:
+  - fig:6
+  basis: Owes debt, borrows money, gives field security, and receives relief under
+    crop-loss circumstances.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: field
+  literal_form: cultivated, neglected, unreclaimed, or pledged agricultural field
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: grain
+  literal_form: grain owed, shared, measured, lost, or paid
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: storm-god damage
+  literal_form: Ramman ravaging a field and carrying away produce
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: water lack
+  literal_form: lack of water causing grain not to grow
+  associated_figures:
+  - fig:6
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: tablet
+  literal_form: debt tablet altered or wetted so as to rewrite it
+  associated_figures:
+  - fig:6
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sesame
+  literal_form: sesame grown in a pledged field along with grain
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Neglected fields restored to owners
+  summary: A person who fails to cultivate a field must restore it through agricultural
+    labor and compensate or measure out grain to the owner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Storm loss allocated between tenant and owner
+  summary: When Ramman ravages a field after the owner has received his rent-produce,
+    the tenant bears the remaining loss; if the owner has not received produce, the
+    grain is shared by contract.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Substituted cultivation and harvest rights
+  summary: A tenant who assigns cultivation to another after a poor prior year is
+    not blocked by the owner if the field is cultivated, and grain is received at
+    harvest according to contracts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Debt relief after storm or drought
+  summary: A debtor whose field is damaged by Ramman, whose produce is carried away,
+    or whose grain fails through lack of water is excused from grain return and interest
+    for that year and alters the tablet.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Field pledged to a merchant
+  summary: A borrower gives a field to a merchant as security for a loan; after cultivation
+    and harvest, the field owner receives the grain and sesame and pays the merchant
+    for the loan, interest, and maintenance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Storm-god destruction of crops affecting human obligations
+  taxonomy_refs: []
+  basis: Ramman, identified as god of storms, ravages fields and carries away produce;
+    the legal consequences determine who bears loss or receives debt relief.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage is a legal code, not a narrative myth; it names a deity as
+    a cause of agricultural loss but does not frame the event as divine judgment or
+    mythic combat.
+- id: motif:2
+  label: Drought or water lack causing failed grain and temporary debt relief
+  taxonomy_refs: []
+  basis: The clause states that if grain has not grown through lack of water, the
+    debtor does not return grain to the creditor and does not pay interest for that
+    year.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an agricultural legal provision; symbolic interpretation of water
+    is limited to the literal absence of water in the clause.
+- id: motif:3
+  label: Written tablet altered after calamity
+  taxonomy_refs: []
+  basis: Following storm or drought loss, the debtor alters, literally wets to rewrite,
+    his tablet.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives a legal-administrative act rather than a developed mythic
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25634-25640; §43
+  quote_or_summary: If a field has not been cultivated and is left to itself, the
+    responsible person gives the owner grain based on adjacent fields and restores
+    the field by hoeing, harrowing, and returning it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25641-25647; §44
+  quote_or_summary: If a man takes an unreclaimed field for three years and does not
+    cultivate it, he must restore it in the fourth year and measure out ten GUR of
+    grain per GAN.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 25648-25653; §45
+  quote_or_summary: After an owner has received the produce share, if “Ramman (god
+    of storms) ravage the field and carry away the (remaining) produce,” the loss
+    is the tenant’s.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 25654-25659; §46
+  quote_or_summary: If the field owner has not received the produce, the tenant and
+    owner share the grain according to the contract.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 25660-25680; §47
+  quote_or_summary: If a tenant assigns cultivation to another because of a previous
+    year without maintenance, the owner shall not interfere; if the field is cultivated,
+    grain is received at harvest according to contracts.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 25681-25700; §48
+  quote_or_summary: If a man owes a debt and Ramman ravages his field, produce is
+    carried away, or grain fails through lack of water, he need not return grain to
+    the creditor or pay that year’s interest, and he alters his tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25701-25734; §49
+  quote_or_summary: A man borrows money from a merchant and gives a field as security
+    for grain and sesame cultivation; at reaping the field owner receives the produce
+    and pays the merchant for loan, interest, and cultivator maintenance.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: citation
+  locator: lines 25735-25743; §50 beginning
+  quote_or_summary: The passage begins the next clause about giving as security a
+    field planted with grain or sesame, but the clause is incomplete in the supplied
+    passage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal actions and figures are explicit. Motif candidates are cautious
+    because the passage is primarily legal-administrative and only minimally mythic
+    through the naming of Ramman as storm deity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family. Available taxonomy symbol ‘water’ was used only for the literal lack of water in §48.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25634-l25743
+  passage_sha256=bdfa72b9b1588d4bc9717eef09c3ba760424aeb8f7c4293c6558e7dd08ae4308
+

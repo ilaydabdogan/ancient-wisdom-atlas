@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l952-l964
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HUNTER AND THE WOODMAN / THE HORSE AND THE ASS / THE FOX AND THE GRAPES
+    / THE GOOSE THAT LAID THE GOLDEN EGGS; lines 952-964
+  start: '952'
+  end: '964'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Much wants more and loses all.
+  summary: A man and his wife possess a goose that lays a golden egg every day. Wanting
+    to become rich faster, they kill and cut open the goose expecting gold inside,
+    but find it is ordinary and lose both the hoped-for immediate wealth and the daily
+    source of wealth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man and his wife possess a goose that lays a Golden Egg every day.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man and wife begin to think they are not getting rich fast enough.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They imagine that the bird must be made of gold inside.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They decide to kill the goose to secure the whole store of precious metal
+    at once.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When they cut the goose open, they find it is just like any other goose.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: They neither become rich all at once nor continue to receive the daily addition
+    to their wealth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stated moral is that wanting more can lead to losing all.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: One of the two human possessors of the goose that lays a Golden Egg
+    every day.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Wife
+  description: One of the two human possessors of the goose that lays a Golden Egg
+    every day.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Goose
+  description: A bird owned by the man and his wife; it lays a Golden Egg every day
+    and is found to be like any other goose when cut open.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: possessors of the goose
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The man and wife are said to possess the goose.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seekers of immediate wealth
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They think they are not getting rich fast enough and decide to kill the goose
+    to obtain the supposed gold inside at once.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: daily producer of a Golden Egg
+  assigned_to:
+  - fig:3
+  basis: The goose lays a Golden Egg every day.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: slain source of expected gold
+  assigned_to:
+  - fig:3
+  basis: The goose is killed and cut open because the owners imagine it contains gold
+    inside.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Goose
+  literal_form: The goose that lays a Golden Egg every day.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Golden Egg
+  literal_form: A Golden Egg produced daily by the goose.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Imagined inner gold
+  literal_form: The supposed store of precious metal inside the bird.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Daily golden egg
+  summary: The man and wife possess a goose that lays a Golden Egg every day, but
+    they begin to feel that their wealth is not increasing fast enough.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Killing the goose for imagined gold
+  summary: The man and wife imagine the goose contains gold inside and decide to kill
+    it to obtain the whole store of precious metal immediately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Discovery and loss
+  summary: After cutting open the goose, the man and wife find it is ordinary and
+    lose both the hoped-for instant riches and the ongoing daily addition to their
+    wealth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Wanting faster gain destroys steady gain
+  taxonomy_refs:
+  - wisdom
+  basis: The plot shows the owners losing a daily source of wealth because they want
+    all the imagined gold at once, and the explicit moral says that wanting more loses
+    all.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical fable
+    moral rather than a developed mythic wisdom episode.
+- id: motif:2
+  label: Slaying the source of wealth
+  taxonomy_refs: []
+  basis: The owners kill the goose that produces Golden Eggs in an attempt to obtain
+    greater wealth immediately, thereby ending the daily source of wealth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level plot pattern; no external motif-index identifier
+    is supplied in the available taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 952-964
+  quote_or_summary: A man and his wife possess a goose that lays a Golden Egg every
+    day, but they begin to think they are not getting rich fast enough.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:2
+  type: summary
+  locator: lines 952-964
+  quote_or_summary: They imagine the bird is made of gold inside and decide to kill
+    it to secure the whole store of precious metal at once.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:3
+  type: summary
+  locator: lines 952-964
+  quote_or_summary: After cutting the goose open, they find it is like any other goose;
+    they do not become rich at once and no longer receive the daily addition to their
+    wealth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:4
+  type: quote
+  locator: lines 952-964
+  quote_or_summary: Much wants more and loses all.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied passage text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The narrative and moral are explicit. No comparison claims are made because
+    the supplied passage does not itself provide a comparative link beyond the broad
+    wisdom taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The locator label names adjacent fables, but the supplied passage text contains only 'THE GOOSE THAT LAID THE GOLDEN EGGS'; extraction is restricted to that text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l952-l964
+  passage_sha256=549eff8f8a05d54f74df2a741f9b28daca475c9732cfea67a7d6efe5e766bf58
+

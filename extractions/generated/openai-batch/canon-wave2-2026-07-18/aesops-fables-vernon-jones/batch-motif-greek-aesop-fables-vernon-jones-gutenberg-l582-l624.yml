@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l582-l624
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MULE / THE HOUND AND THE FOX / THE FATHER AND HIS DAUGHTERS / THE THIEF
+    AND THE INNKEEPER; lines 582-624
+  start: '582'
+  end: '624'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    THE MULE
+
+    THE HOUND AND THE FOX
+
+    THE FATHER AND HIS DAUGHTERS
+
+    THE THIEF AND THE INNKEEPER
+  summary: The supplied passage is a sequence of Aesop fable headings. It names animal
+    figures, human social figures, kinship figures, trees, an axe, and a snake, but
+    supplies no narrative episodes or morals.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The supplied passage consists of fable titles or headings rather than narrated
+    fable episodes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The final headings in the supplied passage name a mule, a hound and fox, a
+    father and daughters, and a thief and innkeeper.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One heading names a brother and sister.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One heading names a labourer and a snake.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One heading names trees and an axe.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Many headings are organized as paired or relational title formulas such as
+    one figure with another figure or object.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Mule
+  description: Animal figure named in the headings, including the standalone heading
+    "THE MULE."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hound
+  description: Animal figure named in the heading "THE HOUND AND THE FOX."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Fox
+  description: Animal figure named in the heading "THE HOUND AND THE FOX."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Father
+  description: Kinship figure named in the heading "THE FATHER AND HIS DAUGHTERS."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Daughters
+  description: Kinship group named in the heading "THE FATHER AND HIS DAUGHTERS."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Thief
+  description: Human social figure named in the heading "THE THIEF AND THE INNKEEPER."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Innkeeper
+  description: Human occupational figure named in the heading "THE THIEF AND THE INNKEEPER."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Brother
+  description: Kinship figure named in the heading "BROTHER AND SISTER."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Sister
+  description: Kinship figure named in the heading "BROTHER AND SISTER."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Snake
+  description: Animal figure named in the heading "THE LABOURER AND THE SNAKE."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Trees
+  description: Collective plant figure or object named in the heading "THE TREES AND
+    THE AXE."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: animal figure named in title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:10
+  basis: The headings directly name the mule, hound, fox, and snake as animal figures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: kinship figure named in title
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  basis: 'The headings directly use kinship terms: father, daughters, brother, and
+    sister.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: human social or occupational figure named in title
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The heading names a thief and an innkeeper as social or occupational figures.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: plant collective named in title
+  assigned_to:
+  - fig:11
+  basis: The heading names trees as a collective entity paired with an axe.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent or snake
+  literal_form: snake
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: tree or trees
+  literal_form: trees
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: axe
+  literal_form: axe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalogue of fable headings
+  summary: The passage presents a catalogue-like succession of fable headings, many
+    formed as paired title formulas. No narrated action is supplied in the passage
+    text.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sibling pair named by title
+  taxonomy_refs:
+  - sibling_pair
+  basis: The heading "BROTHER AND SISTER" directly names a sibling pair.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the kinship pair is attested; the supplied passage gives no narrative
+    action or symbolic function.
+- id: motif:2
+  label: serpent or snake figure in paired title
+  taxonomy_refs:
+  - serpent
+  basis: The heading "THE LABOURER AND THE SNAKE" places a human labourer and a snake
+    in the same title.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not state an encounter, conflict, moral, or symbolic
+    meaning.
+- id: motif:3
+  label: paired animal fable heading
+  taxonomy_refs: []
+  basis: Several headings name paired animal figures, including "THE HOUND AND THE
+    FOX" and other animal-pair titles summarized in the supplied passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a title-form pattern only; no plot roles are provided.
+- id: motif:4
+  label: tree-and-axe pairing
+  taxonomy_refs: []
+  basis: The heading "THE TREES AND THE AXE" pairs trees with an axe.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title alone does not establish a sacred-tree, world-axis, or conflict
+    motif.
+- id: motif:5
+  label: parent and children kinship grouping
+  taxonomy_refs: []
+  basis: The heading "THE FATHER AND HIS DAUGHTERS" names a parent-child group.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The supplied passage does not identify the figures as divine or describe
+    any parent-child action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 582-624
+  quote_or_summary: 'The passage lists fable headings: The Sick Stag; The Ass and
+    the Mule; Brother and Sister; The Heifer and the Ox; The Kingdom of the Lion;
+    The Ass and His Driver; The Lion and the Hare; The Wolves and the Dogs; The Bull
+    and the Calf; The Trees and the Axe; The Astronomer; The Labourer and the Snake;
+    The Cage-Bird and the Bat; The Ass and His Purchaser; The Kid and the Wolf; The
+    Debtor and His Sow; The Bald Huntsman; The Herdsman and the Lost Bull; The Mule;
+    The Hound and the Fox; The Father and His Daughters; The Thief and the Innkeeper.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 582-624
+  quote_or_summary: THE MULE / THE HOUND AND THE FOX / THE FATHER AND HIS DAUGHTERS
+    / THE THIEF AND THE INNKEEPER
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 582-624
+  quote_or_summary: BROTHER AND SISTER
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 582-624
+  quote_or_summary: THE LABOURER AND THE SNAKE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 582-624
+  quote_or_summary: THE TREES AND THE AXE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal title extraction is straightforward, but the supplied passage contains
+    only headings and no narrative contents. Motif candidates are therefore title-level
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No plot, dialogue, moral, or action is present in the supplied passage_text. Interpretive claims have been limited to title-level patterns and supplied taxonomy matches.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l582-l624
+  passage_sha256=b8bbace97c92786d0e7deecfd6a2518aa8588546c34e6a4e45d497d3723bebd8
+

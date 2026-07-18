@@ -1,0 +1,212 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2205-l2222
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2205-2222
+  start: '2205'
+  end: '2222'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial footnotes identify Æas/Aous and Inachus/Naio as rivers, describe
+    Lerna as a swampy Argive site linked by poets to the seven-headed Hydra slain
+    by Hercules, and mention a naturalistic drainage explanation for the myth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Æas is identified with the river Aous, described as a small limpid stream
+    running through Epirus and Thessaly into the Ionian sea.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Inachus is identified as a river of Argolis, now called the Naio, with
+    its source given either in Lycæus or Artemisium, mountains of Arcadia; Stephens
+    offers a different location for Lycæus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lerna is described as a swampy spot in Argive territory.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The poets are said to place the haunt of the seven-headed dragon Hydra at
+    Lerna.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hydra is said to have been slain by Hercules.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note suggests that pestilential vapors at Lerna may have been removed
+    by drainage under Hercules' superintendence, and adds that some commentators considered
+    Lerna a flowing stream.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hydra
+  description: A dragon with seven heads whose haunt poets placed at Lerna, and which
+    was slain by Hercules.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Hercules
+  description: Named as the slayer of Hydra and, in the explanatory conjecture, as
+    supervising the drainage of Lerna.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: seven-headed dragon inhabiting Lerna
+  assigned_to:
+  - fig:1
+  basis: The footnote says poets located Hydra's haunt at Lerna and calls Hydra a
+    dragon with seven heads.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: slayer and drainage supervisor
+  assigned_to:
+  - fig:2
+  basis: The footnote says Hydra was slain by Hercules and conjectures that drainage
+    occurred under Hercules' superintendence.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: watercourses and wet places
+  literal_form: Rivers, streams, the Ionian sea, a swampy spot, and a possible flowing
+    stream.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Lerna swamp
+  literal_form: A swampy spot in Argive territory, also described by some commentators
+    as a flowing stream.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seven-headed dragon
+  literal_form: The dragon with seven heads called Hydra.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Geographical notes on rivers
+  summary: The notes identify the Æas/Aous and Inachus/Naio as rivers and describe
+    their courses or sources.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lerna, Hydra, and drainage explanation
+  summary: Lerna is described as a swampy Argive place where poets located Hydra's
+    haunt; Hydra was slain by Hercules, and the note offers drainage of pestilential
+    vapors as a possible basis for the story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: dragon in a watery haunt slain by a hero
+  taxonomy_refs:
+  - serpent
+  basis: The passage states that the seven-headed dragon Hydra haunted Lerna and was
+    slain by Hercules.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial footnote summarizing the tradition, not the
+    main narrative text.
+- id: motif:2
+  label: heroic drainage of a pestilential place
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage conjectures that pestilential vapors at Lerna were removed by
+    drainage under Hercules' superintendence.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is presented as a commentator's naturalistic explanation rather than
+    as a direct mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2205-2208, Footnote 96
+  quote_or_summary: Pliny is cited as calling the Æas river Aous; it is described
+    as a small limpid stream through Epirus and Thessaly into the Ionian sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 2210-2214, Footnote 97
+  quote_or_summary: The Inachus is identified as a river of Argolis, now the Naio,
+    with its rise placed in Lycæus or Artemisium; Stephens offers a differing view
+    of Lycæus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 2216-2222, Footnote 98
+  quote_or_summary: Lerna is described as a swampy Argive place where poets said the
+    seven-headed Hydra had its haunt and was slain by Hercules; the note suggests
+    a drainage explanation for pestilential vapors and mentions a view that Lerna
+    was a flowing stream.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The geographical and mythological content is explicit in the supplied footnotes.
+    Motif identification is limited because the passage is explanatory commentary
+    rather than a full narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2205-l2222
+  passage_sha256=3e1b0777f39e7c89e6ffce8a06e6fac4060f52a0fe8e5f5384664cec3a87226f
+

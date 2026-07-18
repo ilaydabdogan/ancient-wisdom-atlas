@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5224-l5249
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ROGUE AND THE ORACLE / THE HORSE AND THE ASS / THE DOG CHASING A WOLF
+    / GRIEF AND HIS DUE; lines 5224-5249
+  start: '5224'
+  end: '5249'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Dog chases a Wolf and boasts inwardly about his strength,
+    but the Wolf says he is afraid of the Dog's master rather than the Dog. In another,
+    Jupiter allocates privileges to the gods; Grief arrives late, receives the tears
+    shed for the dead as his portion, and the moral warns against prolonged mourning
+    because Grief will send fresh causes for tears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Dog chases a Wolf.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While running, the Dog thinks highly of his own strength and speed and assumes
+    the Wolf is fleeing because he is no match for him.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The Wolf says he is not running away from the Dog but is afraid of the Dog's
+    master.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jupiter assigns privileges to the various gods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Grief is absent during the initial allocation, then enters and claims his
+    due after the others have received shares.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Jupiter decides that Grief's portion will be the tears shed for the dead.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the more devoutly people render Grief his due, the
+    more lavishly Grief gives what he has to bestow.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage advises against mourning long for the departed because Grief may
+    send fresh cause for tears.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A chasing animal who thinks himself strong and fast and believes the
+    Wolf is fleeing from him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Wolf
+  description: A fleeing animal who explains that he fears the Dog's master, not the
+    Dog.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dog's master
+  description: An unseen person identified by the Wolf as the actual source of fear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Jupiter
+  description: A divine figure who assigns privileges to the gods and decides Grief's
+    portion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Grief
+  description: A personified figure absent from the first allocation, later claiming
+    his due and receiving tears shed for the dead.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: various gods
+  description: The other gods who receive their privileges before Grief arrives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: men
+  description: Human mourners who render Grief his due through mourning and tears.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: boastful pursuer
+  assigned_to:
+  - fig:1
+  basis: The Dog chases the Wolf while admiring his own strength and speed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: pursued corrector
+  assigned_to:
+  - fig:2
+  basis: The Wolf is chased but corrects the Dog's mistaken belief about the cause
+    of flight.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: implied true threat
+  assigned_to:
+  - fig:3
+  basis: The Wolf says the Dog's master is the one he fears.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine allocator
+  assigned_to:
+  - fig:4
+  basis: Jupiter assigns privileges and determines what remains for Grief.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: late claimant and recipient
+  assigned_to:
+  - fig:5
+  basis: Grief arrives after the others have received shares, claims his due, and
+    receives tears for the dead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: prior recipients
+  assigned_to:
+  - fig:6
+  basis: The other gods have already received their shares before Grief enters.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: mourners rendering due
+  assigned_to:
+  - fig:7
+  basis: The passage describes men rendering Grief his due through mourning.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tears for the dead
+  literal_form: the tears that are shed for the dead
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: divine share or due
+  literal_form: privileges, share, and due assigned among gods
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fresh cause for tears
+  literal_form: fresh cause for tears sent by Grief
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dog chases Wolf and misreads the flight
+  summary: A Dog runs after a Wolf and interprets the Wolf's flight as proof of the
+    Dog's own superiority.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wolf identifies the actual fear
+  summary: The Wolf looks back and tells the Dog that he fears the Dog's master rather
+    than the Dog himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Grief receives a remaining divine portion
+  summary: Jupiter assigns divine privileges; after the other gods have received their
+    shares, Grief arrives and is allotted tears shed for the dead.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Warning against prolonged mourning
+  summary: The fable explains that rendering Grief his due increases what Grief gives,
+    and therefore advises against long mourning for the departed.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: boastful pursuer corrected about the true source of fear
+  taxonomy_refs:
+  - wisdom
+  basis: The Dog assumes the Wolf flees because of the Dog's strength, but the Wolf
+    states that the Dog's master is the real reason for fear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a didactic correction
+    but does not name a formal wisdom tradition.
+- id: motif:2
+  label: late claimant receives a remaining divine domain
+  taxonomy_refs: []
+  basis: Grief is absent when the gods receive privileges, arrives after all have
+    received shares, and is assigned tears shed for the dead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif candidate without an external taxonomy match
+    asserted.
+- id: motif:3
+  label: mourning as a due that empowers personified Grief
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Humans render Grief his due through mourning, and Grief responds by bestowing
+    more cause for tears.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The sacred_exchange taxonomy fit is tentative because the passage is an
+    allegorical fable rather than an explicit ritual text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5224-5228
+  quote_or_summary: A Dog chases a Wolf and thinks highly of his own strength, speed,
+    and ability to cover ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: quote
+  locator: 5228-5230
+  quote_or_summary: '"he''s no match for me, and he knows it and so he runs away."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 5230-5233
+  quote_or_summary: '"Don''t you imagine I''m running away from you, my friend: it''s
+    your master I''m afraid of."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 5234-5239
+  quote_or_summary: Jupiter assigns privileges to the gods; Grief is absent, then
+    enters after the others have received their share and claims his due.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:5
+  type: quote
+  locator: 5239-5242
+  quote_or_summary: '"to him should belong the tears that are shed for the dead."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 5242-5249
+  quote_or_summary: The passage says that the more devoutly people render Grief his
+    due, the more he gives, and warns not to mourn long or Grief will send fresh cause
+    for tears.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif taxonomy assignments are tentative because the available taxonomy is broad
+    and the passage itself does not make explicit comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the two fables present in the supplied passage_text were extracted; the broader locator label mentions additional fables not included in the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5224-l5249
+  passage_sha256=86a02b9bf3d1b0e1acbcbbc7b451dbaab2cf62e5381163732284afd9582d6f95
+

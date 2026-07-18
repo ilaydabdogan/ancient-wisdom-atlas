@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1275-l1304
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXVI. / XXXVII. / XXXVIII. / XXXIX.; lines 1275-1304
+  start: '1275'
+  end: '1304'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Four quatrains juxtapose annihilation, a Well of Life, setting stars, and
+    a caravan leaving for the Dawn of Nothing; question endless pursuit and dispute;
+    prefer the fruitful grape; describe a new marriage in which the speaker divorces
+    barren Reason and marries the Daughter of the Vine; and state that, despite defining
+    oppositions such as IS and IS-NOT, the speaker cared only for Wine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage places a moment in “Annihilation's Waste” beside a moment of tasting
+    from the “Well of Life.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stars are described as setting, and a caravan is described as starting
+    for the “Dawn of Nothing.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks how long pursuit, endeavor, and dispute over “This and That”
+    will continue.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says it is better to be merry with the fruitful grape than to
+    be saddened after absent or bitter fruit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker addresses friends and says that in his house he made carouse for
+    a new marriage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he divorced old barren Reason from his bed and took the Daughter
+    of the Vine as spouse.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The passage names paired oppositions: “IS” and “IS-NOT,” and “UP-AND-DOWN.”'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says he could define these oppositions with “Rule and Line” but
+    was never deep in anything except Wine.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The lyric voice who addresses friends, refers to his house and bed,
+    recounts divorcing Reason and marrying the Daughter of the Vine, and states his
+    preference for Wine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Friends
+  description: The addressed companions named by the speaker as “my Friends.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Caravan
+  description: A caravan that starts for the “Dawn of Nothing.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Reason
+  description: Reason is treated as a bed-partner or spouse, described as old and
+    barren, and divorced by the speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Daughter of the Vine
+  description: A figure associated with the vine, taken by the speaker as spouse.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker and chooser of wine
+  assigned_to:
+  - fig:1
+  basis: The first-person voice rejects pursuit and dispute, recounts a marriage exchange,
+    and says he was deep only in Wine.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed companions
+  assigned_to:
+  - fig:2
+  basis: The speaker directly names “my Friends.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: departing collective
+  assigned_to:
+  - fig:3
+  basis: The caravan is said to start for the Dawn of Nothing.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: repudiated former spouse
+  assigned_to:
+  - fig:4
+  basis: Reason is described as divorced from the speaker's bed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: new spouse
+  assigned_to:
+  - fig:5
+  basis: The Daughter of the Vine is taken by the speaker as spouse.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Annihilation's Waste
+  literal_form: A waste associated with annihilation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Well of Life
+  literal_form: A well from which life is tasted.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Setting Stars
+  literal_form: Stars described as setting.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Caravan to the Dawn of Nothing
+  literal_form: A caravan departing toward a dawn named as Nothing.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - departure
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Fruitful Grape
+  literal_form: The grape described as fruitful and preferred as a source of merriment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Wine
+  literal_form: Wine named as the only thing in which the speaker was deep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Marriage Bed
+  literal_form: The speaker's bed as the place from which Reason is divorced and the
+    Daughter of the Vine is taken as spouse.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Rule and Line
+  literal_form: Instruments or standards used to define oppositions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: IS and IS-NOT / UP-AND-DOWN
+  literal_form: Named pairs of oppositional terms.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Caravan departure toward Nothing
+  summary: Annihilation, the Well of Life, setting stars, and a caravan departing
+    for the Dawn of Nothing are presented together with an urgent call to haste.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preference for the fruitful grape
+  summary: The speaker questions endless pursuit and dispute, then states that merriment
+    with the fruitful grape is better than sadness after absent or bitter fruit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Marriage exchange from Reason to Vine
+  summary: The speaker addresses friends and recalls celebrating a new marriage in
+    his house, divorcing barren Reason and taking the Daughter of the Vine as spouse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Definitions set aside for Wine
+  summary: The speaker says he could define being/non-being and up/down by rule and
+    line, but cared only for Wine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Departure toward nothingness
+  taxonomy_refs:
+  - departure
+  basis: The caravan begins a journey toward the “Dawn of Nothing,” accompanied by
+    setting stars and an urgent command to make haste.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives an image of departure but does not develop a full journey
+    narrative or named traveler.
+- id: motif:2
+  label: Annihilation and life-giving source juxtaposed
+  taxonomy_refs:
+  - annihilation_union
+  basis: The quatrain juxtaposes “Annihilation's Waste” with tasting from the “Well
+    of Life.”
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Annihilation is explicit, but union is not directly stated in the passage.
+- id: motif:3
+  label: Wine or grape preferred over abstract pursuit
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker rejects endless pursuit and dispute, prefers merriment with the
+    fruitful grape, and later says he was deep only in Wine.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly define wine's symbolic value beyond preference
+    and depth of concern.
+- id: motif:4
+  label: Marriage to the vine after divorcing reason
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The speaker describes a new marriage, divorcing barren Reason and taking
+    the Daughter of the Vine as spouse.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The marriage language is explicit, but the passage does not call the marriage
+    sacred or identify the Daughter of the Vine as divine.
+- id: motif:5
+  label: Paired oppositions and duality
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly names “IS” and “IS-NOT” and “UP-AND-DOWN” as definable
+    paired oppositions.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The speaker mentions the oppositions chiefly to say he cared more for
+    Wine than for such definitions.
+comparison_claims:
+- id: claim:1
+  claim: The caravan's departure for the “Dawn of Nothing” is comparable at the image-pattern
+    level to a departure motif.
+  claim_level: same_motif
+  target: departure motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers a compact lyric image rather than a full mythic
+    departure sequence with a named hero, mission, or return.
+- id: claim:2
+  claim: The speaker's transfer from Reason to the Daughter of the Vine uses marriage
+    to mark a change of allegiance, giving it a functional resemblance to marriage-alliance
+    or sacred-marriage patterns.
+  claim_level: same_function
+  target: sacred_marriage motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The passage does not state that the marriage is sacred, cosmic, divine,
+    or socially legitimating; the language may be metaphorical.
+- id: claim:3
+  claim: The named pairs “IS/IS-NOT” and “UP-AND-DOWN” support comparison to a duality
+    pattern at the level of explicit oppositional language.
+  claim_level: linguistic_similarity
+  target: duality motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not elaborate a cosmology of duality; it mentions
+    the oppositions in order to subordinate them to Wine.
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXXVIII.; within lines 1275-1304
+  quote_or_summary: "“One Moment in Annihilation's Waste,” “the Well of Life,” and
+    “The Stars are setting and the Caravan / Starts for the Dawn of Nothing.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: XXXIX.; within lines 1275-1304
+  quote_or_summary: "“How long, how long, in infinite Pursuit / Of This and That”
+    and “Better be merry with the fruitful Grape.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: XL.; within lines 1275-1304
+  quote_or_summary: "“my Friends,” “in my House,” “Divorced old barren Reason from
+    my Bed,” and “took the Daughter of the Vine to Spouse.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: XLI.; within lines 1275-1304
+  quote_or_summary: "“IS” and “IS-NOT,” “UP-AND-DOWN,” “Rule and Line,” and “never
+    deep in anything but--Wine.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments involving annihilation_union
+    and sacred_marriage are cautious because the passage contains some relevant language
+    but does not fully develop those motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1275-l1304
+  passage_sha256=e583004294b8386450273bcf4e44b5922e5da929ccf1cbddfef9adfdd3279064
+

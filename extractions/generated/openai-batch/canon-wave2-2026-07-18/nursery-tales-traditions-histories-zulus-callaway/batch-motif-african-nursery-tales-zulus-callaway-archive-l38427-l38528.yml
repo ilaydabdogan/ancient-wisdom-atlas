@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l38427-l38528
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZIKGANEKWANE. / KEY  TO  THE  RIDDLES. / IZINGANEKWANE. / KEY  TO  THE  RIDDLES.;
+    lines 38427-38528
+  start: '38427'
+  end: '38528'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Fire. It is called a man that what is said may not be at once evident
+  summary: The passage gives keys to riddles. A fragment explains that a supernumerary
+    finger disrupts pairing and counting and could be dismissed if it could be removed
+    without pain. The main key explains that fire is called “a man” to conceal the
+    riddle answer; it describes fire’s sparks burning clothes, cooking vessels and
+    food, and a hut with its contents, animals, and children, causing people and animals
+    to cry.
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A supernumerary finger is described as making the fingers no longer fit to
+    go together in pairs or to count with.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fragment says that if it could be done without pain, the supernumerary
+    finger could be taken off with a word and dismissed as unfit for the place.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fire is called “a man” so that the riddle answer will not be immediately evident.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People search for the riddle meaning in rivalry and miss the mark; the explanation
+    says a riddle is good when it is not discerned at once.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Indoor fire can cast sparks onto clothes, causing burning and holes that make
+    the owner cry.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A large cooking fire can burn the pot, and the pot can burn the food.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The explanation says the man laughs, meaning the fire, while the people cry.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A spark cast into the hut thatch may produce a visible flame; people gather,
+    and the house and its contents burn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says goats, calves, and children are burned; cows cry for dead
+    calves, men cry for goats, and a wife and husband cry.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: supernumerary finger
+  description: An extra finger described as disrupting pairing and counting and as
+    not fit for its place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fire
+  description: The riddle answer, called “a man”; it casts sparks, burns clothes,
+    pot, food, hut, animals, and children, and is described as laughing while people
+    cry.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: people or men
+  description: People search for the riddle meaning; men gather when flame appears;
+    people cry because of the fire’s damage.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: owner of the clothes
+  description: The owner cries when fire burns the clothes and leaves a hole.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: wife and husband
+  description: A wife and husband cry after the destructive hut fire is described.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: household animals and children
+  description: Goats, calves, and children are described as burned; cows cry for dead
+    calves.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: extra or unfit element
+  assigned_to:
+  - fig:1
+  basis: The supernumerary finger is said to spoil pairing and counting and to be
+    not fit for the place.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: concealed riddle answer
+  assigned_to:
+  - fig:2
+  basis: Fire is named by the substitute word “man” so that the answer is not immediately
+    evident.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: destructive domestic agent
+  assigned_to:
+  - fig:2
+  basis: Fire burns clothing, pot, food, thatch, house contents, animals, and children.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: riddle searchers
+  assigned_to:
+  - fig:3
+  basis: People are said to search out the meaning in rivalry and miss the mark.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mourners or sufferers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The owner, people, men, wife, husband, and cows are described as crying after
+    fire causes damage or death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: victims of burning
+  assigned_to:
+  - fig:6
+  basis: Goats, calves, and children are explicitly described as burned.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire, spark, flame
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: man as riddle-cover word
+  literal_form: the word “man” used for fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: supernumerary finger
+  literal_form: extra finger
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hut thatch and house
+  literal_form: thatch of the hut; house and things in it
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: supernumerary finger judged unfit
+  summary: An extra finger is said to spoil pairing and counting; if removal without
+    pain were possible, it could be dismissed as unfit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: riddle answer concealed as a man
+  summary: The key explains that fire is called “a man” to prevent the answer from
+    being immediately recognized, while people compete in searching for the meaning.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: fire damages clothes and cooking
+  summary: Fire casts sparks onto clothes, burns holes, and can burn a pot and food;
+    the fire is described as laughing while people cry.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: spark burns the hut and household
+  summary: A spark in the thatch leads to a visible flame; people gather, the house
+    and contents burn, goats, calves, and children are burned, and people and cows
+    cry.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: concealed riddle answer through substitution
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says fire is called “a man” so the answer will not
+    be evident, and that a good riddle is not discerned at once.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to “wisdom” is broad; the passage is specifically about
+    riddle concealment rather than an explicit wisdom quest.
+- id: motif:2
+  label: fire as destructive domestic agent
+  taxonomy_refs: []
+  basis: Fire is described as burning clothing, cooking vessels, food, hut thatch,
+    house contents, animals, and children, producing widespread crying.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The destruction is local and domestic; the passage does not support a
+    world-destroying fire motif.
+- id: motif:3
+  label: extra body part excluded as unfit
+  taxonomy_refs: []
+  basis: The supernumerary finger is described as disrupting counting and pairing
+    and as removable or dismissible if pain were not involved.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is based on a fragment at the beginning of the supplied passage,
+    likely continuing from an earlier riddle key.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38427-38445
+  quote_or_summary: A supernumerary finger makes the fingers unfit for pairing or
+    counting; if painless, it could be taken off with a word and told it is not fit
+    for the place.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 38446-38464
+  quote_or_summary: "“Fire. It is called a man that what is said may not be at once
+    evident” and a riddle is good when not discernible at once."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 38465-38491
+  quote_or_summary: Fire indoors may throw sparks onto clothes, burn holes, burn a
+    pot and food, and is glossed as the laughing “man” while people cry.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 38492-38528
+  quote_or_summary: A spark in hut thatch leads to flame; people gather; the house
+    and contents burn; goats, calves, and children are burned; cows, men, wife, and
+    husband cry.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The fire riddle key is clear, but the opening supernumerary-finger material
+    is a fragment from a preceding item, and the supplied passage ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a cross-textual or cross-tradition comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l38427-l38528
+  passage_sha256=df3722e2897982b58661d24b9878a85b73e607161642e0b3b3dc1ef55fc04aad
+

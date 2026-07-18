@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3263-l3276
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FLY AND THE DRAUGHT-MULE / THE COCK AND THE JEWEL / THE WOLF AND THE
+    SHEPHERD / THE FARMER AND THE STORK; lines 3263-3276
+  start: '3263'
+  end: '3276'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: If you choose bad companions no one will believe that you are anything but
+    bad yourself.
+  summary: A farmer sets traps in a newly sown field to catch cranes eating his seed.
+    He finds cranes and a stork caught together. The stork pleads that he is not a
+    crane and is harmless, but the farmer says the stork will suffer because he was
+    found among the crop-ruining cranes. The stated moral warns that bad companions
+    cause one to be judged bad as well.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A farmer sets traps in a newly sown corn field to catch cranes that come to
+    pick up the seed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the farmer returns, several cranes are caught in the traps, along with
+    a stork.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stork begs to be released and says he is not a crane, identifying himself
+    by his feathers and calling himself honest and harmless.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The farmer says the stork's species does not matter because he was found among
+    cranes that ruin the farmer's crops, and he will suffer like them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The closing moral says that choosing bad companions will make others believe
+    one is bad too.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer who has sown corn, sets traps, and decides the fate of the
+    captured birds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cranes
+  description: Birds that come to pick up seed from the farmer's sown field and are
+    caught in the traps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Stork
+  description: A bird caught among the cranes who pleads that he is distinct from
+    them and harmless.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: trap-setter
+  assigned_to:
+  - fig:1
+  basis: The farmer sets traps in the field.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The farmer rejects the stork's plea and says he will suffer like the cranes.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: crop-damaging companions
+  assigned_to:
+  - fig:2
+  basis: The cranes pick up seed and are described by the farmer as ruining his crops.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: captured pleader
+  assigned_to:
+  - fig:3
+  basis: The stork is caught among the cranes and begs to be let go.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: one judged by association
+  assigned_to:
+  - fig:3
+  basis: The farmer decides the stork will suffer because he was found among the cranes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: traps
+  literal_form: traps set in the field
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sown corn field
+  literal_form: a field lately sown with corn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bad companions
+  literal_form: cranes among whom the stork is found, generalized in the moral as
+    bad companions
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Traps set for seed-eating cranes
+  summary: The farmer prepares traps in a newly sown corn field because cranes have
+    been eating the seed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stork caught among cranes
+  summary: The farmer finds cranes in the traps, and a stork is caught among them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rejected plea and moral judgment
+  summary: The stork argues that he is harmless and not a crane, but the farmer says
+    that being found among crop-ruining cranes is enough reason for him to suffer.
+    The moral generalizes this as a warning against bad companions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Judgment by association with bad companions
+  taxonomy_refs:
+  - wisdom
+  basis: The stork is punished because he is found among cranes that damage the farmer's
+    crops, and the moral states that choosing bad companions makes others judge one
+    as bad.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a didactic fable rather
+    than an explicit mythological wisdom episode.
+- id: motif:2
+  label: Plea of innocence rejected by pragmatic authority
+  taxonomy_refs: []
+  basis: The stork claims he is harmless and not a crane, but the farmer rejects the
+    distinction because of the company in which the stork was found.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a passage-level narrative pattern inferred from the fable's action,
+    not a supplied taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3263-3266
+  quote_or_summary: A farmer sets traps in a newly sown corn field to catch cranes
+    that come to pick up the seed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3266-3268
+  quote_or_summary: On returning to the traps, the farmer finds several cranes caught
+    and a stork among them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3268-3271
+  quote_or_summary: The stork begs to be let go, says he is not a crane, points to
+    his feathers, and describes himself as honest and harmless.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3271-3274
+  quote_or_summary: The farmer replies that the stork's identity is irrelevant because
+    he was found among cranes that ruin the crops and will suffer like them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 3275-3276
+  quote_or_summary: "“If you choose bad companions no one will believe that you are
+    anything but bad yourself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited to broad
+    didactic patterns and the available broad taxonomy category “wisdom.” No comparison
+    claims are made because the passage itself does not provide comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; although the incoming passage label names multiple fables, the passage text contains only “THE FARMER AND THE STORK.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3263-l3276
+  passage_sha256=be930fa955188b123ac3db9f46513966fa6569ce464b966d298d8258156e8528
+

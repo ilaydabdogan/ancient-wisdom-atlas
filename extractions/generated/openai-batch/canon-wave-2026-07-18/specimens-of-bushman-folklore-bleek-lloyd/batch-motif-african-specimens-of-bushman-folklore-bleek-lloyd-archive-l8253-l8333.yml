@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8253-l8333
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    LION    AND    THE    OSTRICH.  135 / RESURRECTION    OF    OSTRICH.  137
+    / THE    BESURRECTION    OF    THE    OSTRICH. / RESURRECTION    OF    OSTRICH.  139;
+    lines 8253-8333
+  start: '8253'
+  end: '8333'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: His little feather it was which became the Ostrich
+  summary: The passage describes a young male Ostrich walking out of water, drying
+    and strengthening his body, eating young plants, and being explained as having
+    become an Ostrich from a little feather blown up by wind. He plans to grow and
+    go to the old place of his house, where he had died, to scratch there and fetch
+    his wives.
+  language: English translation; later lines include ǀXam transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A young Ostrich walks out of the water and basks on the water's edge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The Ostrich is described as a little male with young, small, black feathers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: He dries his feathers while lying on the water's bank so that he may walk
+    away and unstiffen his legs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After being in the water, he strengthens his feet and hardens his breast so
+    that his breastbone may become bone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: He walks away and eats young bushes and small young plants.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says that his little feather became the Ostrich and that the wind,
+    described as a little whirlwind, blew it up.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He thinks of the place where he has scratched, lets himself grow, and intends
+    to go to the old place of his house where he died.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: He intends to scratch in the old house and fetch his wives; a note explains
+    this as making the new house on the old one.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: young male Ostrich
+  description: A young male Ostrich who emerges from water, dries and strengthens
+    his body, feeds on young plants, and is said to have become the Ostrich from a
+    little feather.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: his wives
+  description: The wives whom the Ostrich intends to fetch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: young male animal
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the figure as a little male Ostrich and repeatedly
+    describes him as young or little.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: one returning to a former house-place after death
+  assigned_to:
+  - fig:1
+  basis: He is said to go to the old place of his house, where he had died, and to
+    scratch in the old house.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: wives to be fetched
+  assigned_to:
+  - fig:2
+  basis: The passage states that he goes to fetch his wives.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water, water's edge, and water's bank
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sun
+  literal_form: sun in which the Ostrich basks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: little feather
+  literal_form: the Ostrich's little feather that became the Ostrich
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wind or little whirlwind
+  literal_form: wind, described as a little whirlwind, that blew up the feather
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: old house
+  literal_form: the house's old place and old house where he had died
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Emergence and drying by the water
+  summary: The young male Ostrich walks out of water, basks on the water's edge, and
+    dries his young feathers on the bank before walking away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Bodily strengthening and feeding
+  summary: The Ostrich strengthens his feet, hardens his breastbone, and eats young
+    bushes and small young plants.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Feather origin and return to the old house
+  summary: The passage explains that a little feather became the Ostrich after wind
+    blew it up. The Ostrich plans to grow and return to the old house-place where
+    he died, scratch there, and fetch his wives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: resurrection of Ostrich from a feather
+  taxonomy_refs:
+  - resurrection
+  basis: The title names resurrection, and the passage says a little feather became
+    the Ostrich after he had died at the old house-place.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The process is described briefly and through translated wording; the following
+    original-language lines are not independently interpreted here.
+- id: motif:2
+  label: death and rebirth into a young body
+  taxonomy_refs:
+  - death_rebirth
+  basis: The Ostrich is linked to a prior death at the house-place and appears as
+    a young, growing Ostrich with young feathers and a strengthening body.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The rebirth sequence is inferred from the translated description and the
+    resurrection title; details of causation remain terse.
+- id: motif:3
+  label: return to the old house after renewal
+  taxonomy_refs:
+  - return
+  basis: After growing, the Ostrich intends to go to his house's old place, scratch
+    in the old house, and fetch his wives.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The return is stated as intended future action rather than narrated completion
+    within this passage.
+- id: motif:4
+  label: wind-raised remnant becomes a living animal
+  taxonomy_refs: []
+  basis: The passage states that the little feather became the Ostrich and that wind,
+    while a little whirlwind, blew it up.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches the feather-and-whirlwind
+    detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 8253
+  quote_or_summary: 'Title: "RESURRECTION OF OSTRICH. 139"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation allowed per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8255-8264; parenthetical 1176-1178
+  quote_or_summary: A young Ostrich walks out of the water, basks on the water's edge,
+    is described as a little male with young black feathers, and dries on the bank
+    so he may walk away.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8264-8271; parenthetical 1178-1180
+  quote_or_summary: Having been in the water, he strengthens his feet and hardens
+    his breast so that his breastbone may become bone.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8271-8275; parenthetical 1180-1181
+  quote_or_summary: He walks away and eats young bushes and small young plants because
+    he is a young or little Ostrich.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 8275-8280; parenthetical 1181-1182
+  quote_or_summary: '"His little feather it was which became the Ostrich"; the wind,
+    described as a little whirlwind, blew it up, and he thinks of the place where
+    he has scratched.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation with summary allowed per supplied
+    metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8280-8284; parenthetical 1182-1183
+  quote_or_summary: He lets himself grow so that he may go to his house's old place,
+    where he had died, scratch in the old house, and fetch his wives.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: quote
+  locator: note at line 8285; parenthetical 1183'
+  quote_or_summary: 'Note: "Making the new house on the old one."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation allowed per supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English translation portion gives clear motifs of emergence, growth,
+    feather-origin, death, and return. The latter ǀXam transcription in the supplied
+    passage was not independently interpreted, so extraction is limited to translated
+    English and the explicit note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No cross-text comparison claims were added because the passage itself does not identify a comparison with another text or tradition.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8253-l8333
+  passage_sha256=02ac10a3c60d073d23cc5dede811f0fd089e0b02e77b50ed998f74c2effdc216
+

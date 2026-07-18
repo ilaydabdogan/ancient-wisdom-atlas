@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l237-l268
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: AND  MY  DEAR  FRIEND / TABLE  OF  CONTENTS / MYTHOLOGICAL  TEXTS 1 / HYMNS  AND  PRAYERS
+    139; lines 237-268
+  start: '237'
+  end: '268'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents excerpt listing a section titled "Hymns
+    and Prayers," with entries for hymns, prayers, wisdom-literature fragments, an
+    incantation, and page numbers. Named subjects or recipients include Sin, Ramman,
+    Marduk, Ishtar, and Tammuz.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt is a table-of-contents segment for a section headed "Hymns and
+    Prayers."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed entries include hymns to or named for Sin, Ramman, Marduk, Ishtar,
+    and Tammuz.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: obs:3
+  text: Sin is identified in a title as the Moon God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ramman is identified in a title as the Weather God.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One prayer title names a raising-of-the-hand prayer to Ishtar.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The list includes two Tammuz hymns, numbered No. 1 and No. 2.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:7
+  text: The list includes wisdom-literature fragments, an ethical incantation, a prayer
+    for restoration to divine favor, and a prayer for a favorable dream.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sin
+  description: Named in the title "Hymn to Sin, the Moon God."
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ramman
+  description: Named in the title "Hymn to Ramman, the Weather God."
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Marduk
+  description: Named in the title "Processional Hymn to Marduk."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ishtar
+  description: Named in a raising-of-the-hand prayer title and in a hymn title.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Tammuz
+  description: Named in two hymn titles, numbered No. 1 and No. 2.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: Moon God
+  assigned_to:
+  - fig:1
+  basis: The title explicitly calls Sin "the Moon God."
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Weather God
+  assigned_to:
+  - fig:2
+  basis: The title explicitly calls Ramman "the Weather God."
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Hymn subject or recipient
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The table of contents lists hymns to or named for these figures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: role:4
+  label: Prayer recipient
+  assigned_to:
+  - fig:4
+  basis: The prayer of the raising of the hand is listed as being to Ishtar.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: Moon God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Raised hand gesture
+  literal_form: Prayer of the Raising of the Hand
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Favorable dream
+  literal_form: favorable dream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Deity-directed hymns and prayers
+  taxonomy_refs: []
+  basis: The contents list includes multiple hymns or prayers directed to named figures,
+    including Sin, Ramman, Marduk, Ishtar, and Tammuz.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: This is a genre-and-title pattern from a table of contents, not a narrative
+    episode.
+- id: motif:2
+  label: Wisdom literature
+  taxonomy_refs:
+  - wisdom
+  basis: The table of contents lists two fragments of wisdom literature, one of them
+    identified as the so-called Babylonian Job.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: Only titles are present; the underlying wisdom themes are not given in
+    this line range.
+- id: motif:3
+  label: Ritual raised-hand prayer
+  taxonomy_refs: []
+  basis: A prayer title explicitly names the "Raising of the Hand" and directs it
+    to Ishtar.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the gesture or ritual procedure beyond the
+    title.
+- id: motif:4
+  label: Prayer for restoration to divine favor
+  taxonomy_refs: []
+  basis: One entry is titled "A Prayer for Restoration to Divine Favor."
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The title indicates the desired outcome but gives no narrative or theological
+    details.
+- id: motif:5
+  label: Prayer for a favorable dream
+  taxonomy_refs: []
+  basis: One entry is titled "A Prayer for a Favorable Dream."
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The passage supplies only the title and not the dream content or ritual
+    context.
+comparison_claims:
+- id: claim:1
+  claim: The entry "So-called Babylonian Job" records an editorial comparison between
+    a Mesopotamian wisdom fragment and the Job tradition.
+  claim_level: same_function
+  target: Job tradition / Book of Job
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is supported only by the table-of-contents title; the
+    passage does not provide the fragment's content or specify the exact basis of
+    similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 237-243
+  quote_or_summary: The excerpt begins a table-of-contents section headed "HYMNS AND
+    PRAYERS" and includes table/page headings.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: '239'
+  quote_or_summary: '"Hymn to Sin, the Moon God"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: '245'
+  quote_or_summary: '"Hymn to Ramman, the Weather God"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: '247'
+  quote_or_summary: '"Processional Hymn to Marduk"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 249-251
+  quote_or_summary: '"A \"Prayer of the Raising of the Hand\" to Ishtar"; "Hymn to
+    Ishtar"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 253-255
+  quote_or_summary: An entry is a fragment of wisdom literature called the "So-called
+    Babylonian Job."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:7
+  type: quote
+  locator: '257'
+  quote_or_summary: '"An Incantation with Ethical Contents"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: '259'
+  quote_or_summary: '"Fragment of Wisdom Literature"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:9
+  type: quote
+  locator: '261'
+  quote_or_summary: '"A Prayer for Restoration to Divine Favor"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:10
+  type: quote
+  locator: 263-265
+  quote_or_summary: '"Hymn to Tammuz (No. 1)"; "Hymn to Tammuz (No. 2)"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:11
+  type: quote
+  locator: '267'
+  quote_or_summary: '"A Prayer for a Favorable Dream"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The line range is a table of contents rather than a mythic narrative or full
+    hymn/prayer text. Figure names, roles, and motif candidates are based on titles
+    only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scene is present in this passage. Extraction records named entries, title-level ritual or genre patterns, and one title-level editorial comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l237-l268
+  passage_sha256=afd487707f6fbe9ca6a116469aa261ce42f40db258ccf526fa7f2e297a3dffe9
+

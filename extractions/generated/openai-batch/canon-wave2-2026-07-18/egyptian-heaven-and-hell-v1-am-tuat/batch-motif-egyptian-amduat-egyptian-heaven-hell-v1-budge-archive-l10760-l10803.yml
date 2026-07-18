@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l10760-l10803
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    TENTH    DIVISION METET-QA-UTCHEBU    211 / I    I    I / I       I
+    / I.    D; lines 10760-10803
+  start: '10760'
+  end: '10803'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"He who is in this picture in his hoat standeth up in the thick darkness
+    in the Hall of the Eastern Horizon..."'
+  summary: A figure shown in a boat stands in thick darkness in the Hall of the Eastern
+    Horizon, takes his place daily, and forms the serpent watcher of the Tuat in the
+    holy place of Khenti-Amenti.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure is described as being in a boat in the picture.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure stands in thick darkness in the Hall of the Eastern Horizon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure takes up his position in his place every day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The figure forms the serpent watcher of the Tuat in the holy place of Khenti-Amenti.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Figure in the boat
+  description: An unnamed figure shown in a boat who stands in darkness, takes his
+    position daily, and forms the serpent watcher.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Serpent watcher of the Tuat
+  description: A serpent watcher of the Tuat formed by the figure in the holy place
+    of Khenti-Amenti.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: boat-associated figure
+  assigned_to:
+  - fig:1
+  basis: The passage says the figure is in his boat in the picture.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daily position-taker and former of the serpent watcher
+  assigned_to:
+  - fig:1
+  basis: The figure takes up his place every day and forms the serpent watcher.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: watcher of the Tuat
+  assigned_to:
+  - fig:2
+  basis: The being is called the serpent watcher of the Tuat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: boat
+  literal_form: boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: thick darkness
+  literal_form: thick darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: serpent watcher
+  literal_form: serpent watcher of the Tuat
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Hall of the Eastern Horizon
+  literal_form: Hall of the Eastern Horizon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Boat figure in darkness forms the serpent watcher
+  summary: In the Hall of the Eastern Horizon, the boat-associated figure stands in
+    thick darkness, takes his place every day, and forms the serpent watcher of the
+    Tuat in the holy place of Khenti-Amenti.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Afterlife underworld placement and movement
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage locates the action in the Tuat, the Hall of the Eastern Horizon,
+    and the holy place of Khenti-Amenti, with a figure in a boat taking his position
+    daily.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives only a short caption-like description; it does not narrate
+    a full journey.
+- id: motif:2
+  label: Serpent watcher in the underworld
+  taxonomy_refs:
+  - serpent
+  basis: The passage explicitly names a serpent watcher of the Tuat formed in a holy
+    place.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The function of the watcher beyond its name is not explained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10760-10787
+  quote_or_summary: '"He who is in this picture in his hoat standeth up in the thick
+    darkness in the Hall of the Eastern Horizon"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10788-10793
+  quote_or_summary: '"he taketh up his position in his place every day; he formeth
+    the serpent watcher of the Tuat in the holy place of Khenti-Amenti."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The prose portion is readable, but the passage includes substantial OCR-like
+    glyph and formatting noise. Motif extraction is limited to the explicit English
+    caption.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-text comparison beyond candidate motif classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l10760-l10803
+  passage_sha256=ab6c67c3fcd42d33758f3e99c80791dbe93289effb1b17aa108ca8606800f019
+

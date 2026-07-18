@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10630-l10782
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10630-10782
+  start: '10630'
+  end: '10782'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote block from Frazer giving bibliographic citations for comparative
+    examples. A few notes explicitly mention face veiling among Arabs, idioms placing
+    the soul at the lips or nose, restricted royal appearances and confinement, and
+    detailed Korean protocols preventing ordinary people from seeing or looking down
+    upon the king during his rare departures from the palace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage notes that among Arabs, men sometimes veiled their faces.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote explicitly compares Greek and Latin expressions that place the
+    soul at the lips or nose.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage mentions a king's annual appearance to the public, while cautioning
+    that it may have taken place within the precincts of his premises.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Greek citation in the passage describes kings as revered as gods and as
+    shut up or mostly remaining at home.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Korean king is said to leave his palace sometimes, but rarely.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the Korean king leaves the palace, notice is given beforehand and all
+    doors must be shut.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During the Korean king's passage, each householder must kneel before his threshold
+    with a broom and a dust-pan in his hand.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Windows, especially upper windows, must be sealed with slips of paper so that
+    no one looks down upon the Korean king.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arab men
+  description: Men among the Arabs who are noted as sometimes veiling their faces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Korean king
+  description: A king who rarely leaves his palace and whose departure requires prior
+    notice and public restrictions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Korean householders
+  description: Householders required to kneel at their thresholds with broom and dust-pan
+    and to keep doors and windows closed or sealed during the king's passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Kings in the Strabo citation
+  description: Kings described in the Greek citation as revered as gods and as shut
+    up or mostly housebound.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Unnamed king with annual public appearance
+  description: A king mentioned as having an annual public appearance, possibly within
+    the precincts of his premises.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: face-veiled men
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly notes that men among Arabs sometimes veiled their
+    faces.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restricted or secluded ruler
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The passage describes kings who are confined, rarely leave the palace, or
+    appear publicly only under restricted circumstances.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: subjects performing royal-avoidance protocol
+  assigned_to:
+  - fig:3
+  basis: Householders must shut doors, kneel at thresholds, hold broom and dust-pan,
+    and seal windows during the Korean king's passage.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divinized kings
+  assigned_to:
+  - fig:4
+  basis: The Greek citation states that the kings are revered as gods.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: veil or face covering
+  literal_form: Veiled faces of men among Arabs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: soul at lips or nose
+  literal_form: Expressions placing the soul at the lips or nose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: palace or royal premises
+  literal_form: The Korean king's palace and the precincts of another king's premises
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: threshold
+  literal_form: Householders kneeling before their thresholds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: broom and dust-pan
+  literal_form: Broom and dust-pan held by householders
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sealed windows and slips of paper
+  literal_form: Windows sealed with slips of paper, especially upper windows
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Face veiling among Arab men
+  summary: The passage notes a practice in which men among Arabs sometimes veiled
+    their faces.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Expressions of the soul at bodily openings
+  summary: The passage compares cited Greek and Latin phrases that locate the soul
+    at the lips or nose.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restricted public visibility of kings
+  summary: The passage mentions a king's annual public appearance, a Greek citation
+    for kings revered as gods and confined, and Korean restrictions on the king's
+    rare departure from the palace.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Korean protocol during the king's passage
+  summary: Before the Korean king leaves the palace, notice is given; doors are shut;
+    householders kneel at thresholds with broom and dust-pan; windows are sealed to
+    prevent looking down upon the king.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: face veiling
+  taxonomy_refs: []
+  basis: The passage explicitly notes that among Arabs men sometimes veiled their
+    faces.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief footnote statement and does not explain
+    the ritual, social, or mythic function of the veiling.
+- id: motif:2
+  label: soul at mouth or nose
+  taxonomy_refs: []
+  basis: A footnote uses 'Compare' and lists Greek and Latin expressions that place
+    the soul at the lips or nose.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The evidence is linguistic and idiomatic rather than narrative; no explicit
+    ritual action is described in this passage.
+- id: motif:3
+  label: secluded or hidden royal figure
+  taxonomy_refs: []
+  basis: The passage includes a king's restricted annual appearance, kings revered
+    as gods while shut up or housebound, and the Korean king's rare palace departures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The footnotes preserve examples but not the main argument from the surrounding
+    chapter; cultural contexts are not detailed here.
+- id: motif:4
+  label: avoidance of looking down upon the king
+  taxonomy_refs: []
+  basis: In the Korean example, upper windows are sealed with paper so no one can
+    look down upon the king.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the rule but does not explain its cosmological or legal
+    rationale.
+- id: motif:5
+  label: ritualized restrictions during royal movement
+  taxonomy_refs: []
+  basis: The Korean king's departure requires prior notice, shut doors, kneeling householders,
+    ritual objects in hand, and sealed windows.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the protocol as reported by cited sources; the broader
+    ritual meaning is not supplied in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself signals a linguistic similarity among Greek and Latin
+    idioms that locate the soul at the lips or nose.
+  claim_level: linguistic_similarity
+  target: Dio Chrysostomus, Petronius, and Seneca expressions cited in footnote 546
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The cited expressions are not fully contextualized in the passage,
+    and the comparison is idiomatic rather than a complete mythic narrative.
+- id: claim:2
+  claim: 'The passage supports a cautious same-function comparison between confined
+    or rarely visible kings in different cited contexts: the Strabo citation of kings
+    revered as gods and confined, and the Korean protocol governing the king''s rare
+    departure from the palace.'
+  claim_level: same_function
+  target: Restricted visibility and movement of royal figures in the Strabo and Korean
+    examples
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The connection is inferred from adjacent footnote evidence rather than
+    an explicit comparison sentence; the note on an annual public appearance shows
+    that royal visibility may be restricted rather than absolutely prohibited.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10630-10782, footnote 542
+  quote_or_summary: The note cites Sahara/Tuareg and Arab sources and states that
+    among Arabs men sometimes veiled their faces.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10630-10782, footnote 546
+  quote_or_summary: The note says 'Compare' and lists Greek and Latin expressions
+    referring to souls at the lips or nose, citing Dio Chrysostomus, Petronius, and
+    Seneca.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 10630-10782, footnote 549
+  quote_or_summary: The note mentions a king's annual appearance to the public but
+    says it may have occurred within the precincts of his premises.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 10630-10782, footnote 550
+  quote_or_summary: A Greek citation from Strabo describes kings as revered as gods
+    and as shut up or mostly staying at home.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 10630-10782, footnote 553
+  quote_or_summary: The note says the Korean king rarely leaves the palace; notice
+    is given beforehand; doors must be shut; householders kneel at thresholds holding
+    broom and dust-pan; windows are sealed with paper so no one looks down upon the
+    king.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily a footnote list, so many entries are only citations
+    without narrated content. Extraction is limited to the few explicit descriptive
+    statements within the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the explicit passage evidence concerns royal seclusion, veiling, and soul idioms rather than the supplied motif-family or symbol labels with sufficient specificity.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10630-l10782
+  passage_sha256=8dc2726ad43b18153b81cb3fdeab05f3e3ad25e1eea8b873535e23c28f19d0a4
+

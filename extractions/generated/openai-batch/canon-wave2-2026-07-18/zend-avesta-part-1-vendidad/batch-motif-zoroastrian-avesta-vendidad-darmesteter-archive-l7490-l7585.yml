@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l7490-l7585
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD    IV.  35 / FARGARD    IV.  37 / FARGARD    IV.  39 / FARGARD    IV.  4
+    1; lines 7490-7585
+  start: '7490'
+  end: '7585'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A casuistic legal passage lists offenses and asks Ahura Mazda what penalty
+    should be paid. Ahura Mazda gives escalating numbers of stripes with the Aspahe-astra
+    and the Sraosho-carana for repeated offenses, and identifies some unatoned or
+    refused-atone cases as Peshotanu with two hundred stripes by each implement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A recurring question asks the addressed Holy One what penalty a man shall
+    pay for a specified offense or repeated offense.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: Ahura Mazda answers the questions by specifying a number of stripes with the
+    Aspahe-astra and a matching number of stripes with the Sraosho-carana.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: For an Avaoirista committed for the seventh time without prior atonement,
+    or committed with refusal to atone, the offender is called a Peshotanu and receives
+    two hundred stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: For an Aredus, the stated penalties rise from fifteen stripes with each implement
+    to thirty, fifty, seventy, and ninety for successive offenses.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: For a sixth Aredus without atonement for the preceding offenses, or for an
+    Aredus with refusal to atone, the offender is called a Peshotanu and receives
+    two hundred stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: For smiting another and hurting him sorely, the stated penalties rise through
+    thirty, fifty, seventy, and ninety stripes with each named implement for repeated
+    occurrences.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: If the smiting-and-hurting deed is committed a fifth time without prior atonement,
+    or is committed with refusal to atone, the offender is called a Peshotanu and
+    receives two hundred stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The named respondent who answers the penalty questions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed questioner
+  description: The speaker who repeatedly asks what penalty a man shall pay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Offending man
+  description: A generic man who commits Avaoirista, Aredus, or smites another and
+    is subject to stated penalties.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Another man hurt by smiting
+  description: The person whom the offending man smites and hurts sorely.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine legal respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is named as the one who answers each penalty question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: penalty questioner
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly frames the material as questions about what penalty
+    shall be paid.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: offender subject to corporal penalty
+  assigned_to:
+  - fig:3
+  basis: The passage describes a man committing offenses and receiving stripes as
+    penalty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: injured person
+  assigned_to:
+  - fig:4
+  basis: The smiting offense is described as one man smiting another and hurting him
+    sorely.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Peshotanu-class offender
+  assigned_to:
+  - fig:3
+  basis: For specified repeated, unatoned, or refused-atone offenses, Ahura Mazda
+    says the man is a Peshotanu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Aspahe-astra
+  literal_form: Named implement with which stripes are administered.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Sraosho-carana
+  literal_form: Named implement with which stripes are administered.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: numbered stripes
+  literal_form: Repeated counted penalties of fifteen, thirty, fifty, seventy, ninety,
+    or two hundred stripes.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: atonement threshold
+  literal_form: The stated condition of having atoned, not having atoned, or refusing
+    to atone before repeated offenses.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Avaoirista repeated or refused-atone penalty
+  summary: The questioner asks about an Avaoirista committed a seventh time without
+    prior atonement and about an Avaoirista whose offender refuses to atone; Ahura
+    Mazda answers that the offender is a Peshotanu and gives two hundred stripes with
+    each named implement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aredus escalating penalties
+  summary: The questioner asks about Aredus; Ahura Mazda gives escalating stripe penalties
+    for successive offenses and applies the Peshotanu penalty when the offense is
+    repeated without atonement or when atonement is refused.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Smiting another and hurting him sorely
+  summary: The questioner asks about a man who smites another and hurts him sorely;
+    Ahura Mazda states escalating stripe penalties and then the Peshotanu penalty
+    for a fifth unatoned occurrence or refusal to atone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine pronouncement of penalties
+  taxonomy_refs:
+  - divine_judgment
+  basis: A named deity, Ahura Mazda, responds to questions by declaring penalties
+    for offenses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily casuistic legal instruction rather than a narrative
+    judgment scene.
+- id: motif:2
+  label: escalating punishment for repeated offense
+  taxonomy_refs: []
+  basis: The penalties increase through successive offenses and culminate in Peshotanu
+    status with two hundred stripes by each implement when atonement is absent or
+    refused.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a legal-pattern motif identified from the passage structure, not
+    a named taxonomy family in the supplied list.
+- id: motif:3
+  label: paired instruments of corporal penalty
+  taxonomy_refs: []
+  basis: Each listed penalty is given as stripes with the Aspahe-astra and stripes
+    with the Sraosho-carana.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage names the implements but does not explain their material form
+    or symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Fargard IV.24-25 within lines 7490-7585
+  quote_or_summary: For a seventh Avaoirista without prior atonement, or an Avaoirista
+    with refusal to atone, Ahura Mazda says the offender is a Peshotanu and prescribes
+    two hundred stripes with the Aspahe-astra and two hundred with the Sraosho-carana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; summarized excerpt.
+- id: ev:2
+  type: summary
+  locator: Fargard IV.26-29 within lines 7490-7585
+  quote_or_summary: For Aredus, Ahura Mazda gives fifteen stripes with each implement,
+    then thirty, fifty, seventy, and ninety for successive offenses; a sixth unatoned
+    Aredus or refusal to atone makes the offender a Peshotanu with two hundred stripes
+    by each implement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; summarized excerpt.
+- id: ev:3
+  type: summary
+  locator: Fargard IV.30-34 within lines 7490-7585
+  quote_or_summary: For a man who smites another and hurts him sorely, Ahura Mazda
+    gives escalating penalties of thirty, fifty, seventy, and ninety stripes with
+    each implement; a fifth unatoned deed or refusal to atone receives Peshotanu status
+    and two hundred stripes with each implement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; summarized excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal sequence and figures are explicit in the supplied passage. Motif
+    labeling is cautious because the passage is a legal instruction rather than a
+    narrative myth episode. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR/transliteration irregularities in the supplied passage were preserved only where needed for named terms; Sraosho-carana and Aspahe-astra forms are normalized from the visible transliteration variants.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l7490-l7585
+  passage_sha256=2e11d01211ac10487528d85ea533f5a214a4790a1b79f72a5b2db146c9f4597c
+

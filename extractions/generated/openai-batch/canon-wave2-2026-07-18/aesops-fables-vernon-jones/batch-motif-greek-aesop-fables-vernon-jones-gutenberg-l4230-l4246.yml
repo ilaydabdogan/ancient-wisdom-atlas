@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4230-l4246
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ATHENIAN AND THE THEBAN / THE GOATHERD AND THE GOAT / THE SHEEP AND THE
+    DOG / THE SHEPHERD AND THE WOLF; lines 4230-4246
+  start: '4230'
+  end: '4246'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: What's bred in the bone is sure to come out in the flesh.
+  summary: A shepherd raises a stray wolf cub with his dogs. When grown, the wolf
+    sometimes helps pursue sheep-stealing wolves, but also shares stolen sheep with
+    them or steals sheep himself. The shepherd catches him and hangs him from a nearby
+    tree. The closing moral states that inborn nature will show itself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A shepherd finds a wolf cub straying in the pastures, takes him home, and
+    rears him with his dogs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When grown, the wolf joins the dogs in hunting a wolf that has stolen a sheep
+    from the flock.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the dogs give up the chase, the wolf continues alone, overtakes the culprit,
+    shares the feast with him, and then returns to the shepherd.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If no sheep has been carried off by wolves for some time, the wolf steals
+    one himself and shares the plunder with the dogs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shepherd becomes suspicious, catches the wolf in the act, fastens a rope
+    around his neck, and hangs him on the nearest tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage ends with a moral stating that what is bred in the bone will come
+    out in the flesh.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The setting includes pastures, the shepherd's home, the flock, and a nearby
+    tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Shepherd
+  description: Human owner or keeper who finds the wolf cub, raises him with the dogs,
+    suspects him, catches him, and hangs him.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Wolf's Cub / grown Wolf
+  description: A stray wolf cub reared with dogs who later hunts sheep-thieving wolves,
+    shares stolen sheep, steals sheep himself, and is punished by the shepherd.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Dogs
+  description: The shepherd's dogs, with whom the wolf cub is reared; they hunt sheep-thieves
+    and later share plunder from the wolf.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Sheep-stealing wolf / culprit
+  description: A wolf who steals a sheep from the flock and, when overtaken by the
+    grown wolf, shares the feast with him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sheep / flock
+  description: The flock’s sheep are stolen by wolves and by the grown wolf himself.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Caretaker
+  assigned_to:
+  - fig:1
+  basis: The shepherd takes the stray cub home and rears him with his dogs.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Adopted wild animal
+  assigned_to:
+  - fig:2
+  basis: The wolf begins as a stray cub raised in the shepherd's household with domestic
+    dogs.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Hunting companions
+  assigned_to:
+  - fig:3
+  basis: The dogs pursue sheep-stealing wolves, and the grown wolf joins them in the
+    hunt.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: External thief
+  assigned_to:
+  - fig:4
+  basis: A wolf steals a sheep from the flock and is pursued as the culprit.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Sharer of stolen food
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The grown wolf shares a stolen sheep with the culprit wolf in one situation
+    and shares his own plunder with the dogs in another.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Punisher
+  assigned_to:
+  - fig:1
+  basis: The shepherd catches the wolf in the act and hangs him.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Stolen prey
+  assigned_to:
+  - fig:5
+  basis: The sheep are carried off or stolen by wolves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Wolf
+  literal_form: wolf cub / grown wolf
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Sheep
+  literal_form: sheep from the flock
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Dogs
+  literal_form: shepherd's dogs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Rope
+  literal_form: rope fastened around the wolf's neck
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tree
+  literal_form: nearest tree used for hanging
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Adoption of the stray cub
+  summary: The shepherd finds a wolf cub in the pastures, takes him home, and raises
+    him with his dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pursuit of a sheep thief
+  summary: The grown wolf joins the dogs in pursuing a wolf that has stolen a sheep;
+    if the dogs abandon the chase, he catches the culprit and shares the stolen sheep
+    with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The adopted wolf steals
+  summary: When no outside wolves have stolen a sheep for some time, the grown wolf
+    steals a sheep himself and shares the plunder with the dogs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Caught and hanged
+  summary: The shepherd suspects the wolf, catches him stealing, ties a rope around
+    his neck, and hangs him from the nearest tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Closing moral
+  summary: The fable concludes with a moral that innate traits reveal themselves outwardly.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Inborn nature revealed despite rearing
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf is raised with dogs but eventually steals sheep himself; the closing
+    moral explicitly states that what is bred in the bone comes out in the flesh.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad and reflects the fable's explicit
+    moral rather than a narrow mythic motif.
+- id: motif:2
+  label: Trusted insider becomes predator of the flock
+  taxonomy_refs: []
+  basis: The wolf is integrated into the shepherd's household and helps hunt thieves,
+    yet he later steals a sheep from the flock himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes innate nature more than deliberate disguise or
+    sustained deception.
+- id: motif:3
+  label: Sharing stolen food with accomplices
+  taxonomy_refs: []
+  basis: The grown wolf shares a stolen sheep with the culprit wolf after a chase
+    and later shares his own stolen sheep with the dogs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a repeated action in the passage, but its independent motif status
+    would require comparison beyond the supplied text.
+- id: motif:4
+  label: Punishment by hanging from a tree
+  taxonomy_refs: []
+  basis: The shepherd catches the wolf and hangs him on the nearest tree using a rope
+    around his neck.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives this as literal punishment; no further symbolic or ritual
+    meaning is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4230-4233
+  quote_or_summary: The shepherd finds a wolf cub straying in the pastures, takes
+    him home, and rears him with his dogs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4233-4238
+  quote_or_summary: Once grown, the wolf joins the dogs in hunting a wolf who has
+    stolen a sheep; when the dogs give up, he catches the culprit, shares the feast,
+    and returns to the shepherd.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4238-4241
+  quote_or_summary: If no sheep has recently been carried off by wolves, the grown
+    wolf steals one himself and shares the plunder with the dogs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4241-4244
+  quote_or_summary: The shepherd becomes suspicious, catches the wolf in the act,
+    fastens a rope around his neck, and hangs him on the nearest tree.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: quote
+  locator: line 4246
+  quote_or_summary: '"What''s bred in the bone is sure to come out in the flesh."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for exact moral statement.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied fable. Motif labels
+    are cautious and mostly local to the passage; no external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage was used. No historical or cross-cultural comparison is asserted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4230-l4246
+  passage_sha256=c2c412b16952ab9c9db3d95a63ce514c6fa197448e95185425ac23d4862e0bed
+

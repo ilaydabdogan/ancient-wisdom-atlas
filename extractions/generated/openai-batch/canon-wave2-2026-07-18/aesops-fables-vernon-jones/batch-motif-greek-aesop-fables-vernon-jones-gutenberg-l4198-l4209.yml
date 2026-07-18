@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4198-l4209
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE DOG / THE ASS CARRYING THE IMAGE / THE ATHENIAN AND THE THEBAN
+    / THE GOATHERD AND THE GOAT; lines 4198-4209
+  start: '4198'
+  end: '4209'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"my horn would cry aloud even if I held my tongue."'
+  summary: A goatherd gathers his flock for return to the fold. One goat strays and
+    ignores his calls and whistles. He throws a stone, breaks one of her horns, and
+    asks her not to tell his master. The goat answers that the broken horn itself
+    will reveal what happened. The stated moral says that what cannot be hidden should
+    not be concealed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A goatherd is gathering his flock to return to the fold.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One goat strays and refuses to join the rest of the flock.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The goatherd calls and whistles to the goat for a long time, but the goat
+    takes no notice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goatherd throws a stone at the goat and breaks one of her horns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The goatherd begs the goat not to tell his master.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The goat replies that her horn would cry aloud even if she held her tongue.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage ends with the moral that it is useless to try to hide what cannot
+    be hidden.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Goatherd
+  description: A keeper of goats who is gathering the flock and later throws a stone
+    at a straying goat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Goat
+  description: A goat who strays from the flock, ignores the goatherd, has one horn
+    broken, and speaks in reply.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Master
+  description: The goatherd’s master, mentioned as the person the goatherd does not
+    want the goat to tell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: herd keeper
+  assigned_to:
+  - fig:1
+  basis: The figure is described as gathering his flock to return to the fold.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: straying animal
+  assigned_to:
+  - fig:2
+  basis: The goat strays and refuses to join the rest of the flock.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: injurer seeking concealment
+  assigned_to:
+  - fig:1
+  basis: The goatherd breaks the goat’s horn and then begs her not to tell his master.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: speaking witness with visible injury
+  assigned_to:
+  - fig:2
+  basis: The goat speaks and points to the horn as evidence that would reveal the
+    deed even if she were silent.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: absent authority
+  assigned_to:
+  - fig:3
+  basis: The master is mentioned as the person to whom the goatherd fears being reported.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: broken horn
+  literal_form: one broken goat horn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: stone
+  literal_form: stone thrown by the goatherd
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fold
+  literal_form: fold to which the flock is being returned
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Gathering the flock
+  summary: The goatherd gathers the flock to return to the fold, while one goat strays
+    and refuses to join the rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed summons and injury
+  summary: After calling and whistling without effect, the goatherd throws a stone
+    and breaks one of the goat’s horns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Attempted concealment and reply
+  summary: The goatherd asks the goat not to tell his master; the goat answers that
+    the horn itself would reveal the deed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral statement
+  summary: The narrative states that it is useless to try to hide what cannot be hidden.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: visible sign exposes concealed wrongdoing
+  taxonomy_refs:
+  - wisdom
+  basis: The broken horn is treated as evidence that will reveal the goatherd’s action
+    despite his request for silence, and the moral generalizes this as a lesson about
+    trying to hide what cannot be hidden.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; no narrower supplied taxonomy
+    ID directly names this fable pattern.
+- id: motif:2
+  label: speaking animal delivers moral insight
+  taxonomy_refs:
+  - wisdom
+  basis: The goat speaks in response to the goatherd and articulates the practical
+    lesson that the visible injury will disclose the truth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents the goat’s reply and moral as instructive, but the
+    supplied taxonomy does not include a specific animal-fable motif category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4198-4201
+  quote_or_summary: A goatherd is gathering his flock to return to the fold when one
+    goat strays and refuses to join the rest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4201-4203
+  quote_or_summary: The goatherd tries for a long time to get the goat to return by
+    calling and whistling, but she takes no notice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4203-4204
+  quote_or_summary: The goatherd throws a stone at the goat and breaks one of her
+    horns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4204-4205
+  quote_or_summary: In dismay, the goatherd begs the goat not to tell his master.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4205-4207
+  quote_or_summary: '"You silly fellow, my horn would cry aloud even if I held my
+    tongue."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 4209-4209
+  quote_or_summary: '"It''s no use trying to hide what can''t be hidden."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are based on the
+    explicit fable action and moral, but taxonomy alignment is broad. No comparison
+    claims were made because the passage itself does not compare this fable to another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4198-l4209
+  passage_sha256=96c71d3a4757eaf5ff246019c19a2302488f5d15893d2aad7dd3779a06797a60
+

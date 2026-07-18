@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.romanian-fairy-tales-kremnitz-gutenberg-l2665-l2782
+source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+passage_locator:
+  label: HENRY HOLT AND COMPANY / COPYRIGHT, 1885, / PREFACE. / CONTENTS.; lines 2665-2782
+  start: '2665'
+  end: '2782'
+  translation: Roumanian Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At an imperial wedding banquet, a princess asserts precedence over her
+    fisherman husband during a customary egg rite, and he vanishes. She repents, searches
+    for him, finds him serving in a tavern while pretending to be mute, and enters
+    a written agreement that she will make him speak within three days or be hanged.
+    At the gallows, as the noose is placed around her neck, the fisherman finally
+    shouts for the execution to stop.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An imperial wedding banquet includes a soft-boiled egg that, according to
+    ancient custom, only the bride and bridegroom may eat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bride stops the bridegroom from dipping bread first and says she must
+    dip first because she is an emperor's daughter and he is a fisherman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bridegroom gives no reply, rises from the table, and vanishes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The bride regrets her words, cannot sleep, and longs for her husband.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bride tells the emperor she will follow her husband until she finds him;
+    after searching, she finds him serving in a tavern.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the princess speaks to the tavern servant, he pretends not to know her,
+    turns away, and makes no answer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The landlord says the servant is dumb and asks the woman to leave him to work
+    in peace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The princess says the tavern servant is her husband, who deserted her because
+    of her fault.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The princess enters a written agreement that she will induce him to speak
+    within three days, or else she will be hanged; magistrates sanction the agreement.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Across the three-day trial, the princess repeatedly pleads with the fisherman
+    to speak, but he remains silent.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After the three days pass, the gallows is prepared, magistrates and the executioner
+    come, and the population gathers.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: At the gallows the princess pleads once more; after the noose is placed around
+    her neck, the fisherman raises his hand and shouts for the execution to stop.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Princess / emperor's daughter / bride
+  description: The bride at the imperial wedding; she is the emperor's daughter, seeks
+    her vanished husband, makes the three-day agreement, and is led to execution when
+    she fails to make him speak.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Fisherman / bridegroom / husband / mute tavern servant
+  description: The bridegroom is identified as formerly a fisherman; after the bride's
+    speech he vanishes, later serves in a tavern while believed to be dumb, and finally
+    shouts to stop the execution.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Emperor
+  description: The princess's father, who tries to detain her when she says she will
+    search for her husband.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Landlord
+  description: The tavern landlord employs the fisherman as a servant, believes him
+    to be dumb, and tells the princess not to interrupt his work.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Tavern people
+  description: People in the tavern hear the princess's claim and know the servant
+    as a dumb man who communicates by signs.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Magistrates
+  description: Authorities who sanction the written agreement and are later summoned
+    to carry it out.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Executioner and assistants
+  description: The executioner calls on the princess to submit to the penalty; assistants
+    lead her up the ladder and the hangman places the rope around her neck.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Wedding guests
+  description: Guests at the banquet who do not know what happened and are surprised
+    by the bridegroom's disappearance.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Crowd at the gallows
+  description: The population gathers around the gallows and weeps as the princess
+    is led toward execution.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Bride and wife
+  assigned_to:
+  - fig:1
+  basis: She is the bride at the wedding and calls the fisherman her husband.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: Bridegroom and husband
+  assigned_to:
+  - fig:2
+  basis: He is the bridegroom at the wedding and is identified by the princess as
+    her husband.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Searcher and supplicant
+  assigned_to:
+  - fig:1
+  basis: She leaves to find her husband and repeatedly begs him to speak and save
+    her.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+- id: role:4
+  label: Feigned mute and withholder of speech
+  assigned_to:
+  - fig:2
+  basis: He pretends not to know the princess, is regarded as dumb, remains silent
+    through the trial, and finally speaks at the last moment.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: role:5
+  label: Father and emperor
+  assigned_to:
+  - fig:3
+  basis: The princess goes to the emperor, who tries to detain her.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Landlord and employer
+  assigned_to:
+  - fig:4
+  basis: He calls the fisherman his servant and asks the princess not to interrupt
+    the servant's work.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Legal authorities
+  assigned_to:
+  - fig:6
+  basis: They sanction the agreement and are summoned to enforce it.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: Execution agents
+  assigned_to:
+  - fig:7
+  basis: They prepare to carry out the hanging by leading the princess up the ladder
+    and placing the rope around her neck.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: Public witnesses
+  assigned_to:
+  - fig:5
+  - fig:8
+  - fig:9
+  basis: Groups of people witness the banquet disappearance, the tavern claim, or
+    the attempted execution.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Wedding egg
+  literal_form: A soft-boiled egg brought to the wedded pair and reserved by ancient
+    custom for the bride and bridegroom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Written agreement
+  literal_form: A written contract by which the princess must make the fisherman speak
+    within three days or be hanged.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Three days
+  literal_form: The three-day period assigned for the princess to induce the fisherman
+    to speak.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: Gallows and noose
+  literal_form: The gallows, ladder, and rope used in the attempted execution of the
+    princess.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: Loosened hair
+  literal_form: The princess loosens her hair and lets it fall over her shoulders
+    as she walks toward execution.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wedding banquet rupture
+  summary: During the imperial wedding banquet, the customary egg is presented; the
+    bride asserts rank over the fisherman bridegroom, and he silently vanishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repentance and search
+  summary: The bride grieves, cannot sleep, tells the emperor she will follow her
+    husband, and searches until she finds him serving in a tavern.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tavern recognition and denial
+  summary: The princess addresses the tavern servant as her husband, but he pretends
+    not to know her; the landlord and tavern people regard him as dumb.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Three-day speech trial
+  summary: The princess agrees in writing to make the fisherman speak within three
+    days or suffer hanging; during the trial she pleads and he remains silent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Execution interrupted
+  summary: At the gallows, the princess is led up and the rope placed around her neck;
+    at the last instant the fisherman raises his hand and shouts for the execution
+    to stop.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Exclusive wedding food custom becomes site of precedence dispute
+  taxonomy_refs: []
+  basis: The wedding banquet includes a soft-boiled egg reserved for the couple, and
+    the bride's claim to dip first triggers the rupture.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls the rite an ancient custom but does not explain its
+    broader meaning.
+- id: motif:2
+  label: Low-status spouse departs after public status insult
+  taxonomy_refs:
+  - departure
+  basis: The bride contrasts her imperial birth with the bridegroom's fisherman status;
+    he silently leaves the table and vanishes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The departure is voluntary and unexplained beyond the immediate insult;
+    no supernatural departure is stated in this excerpt.
+- id: motif:3
+  label: Search for a vanished husband
+  taxonomy_refs: []
+  basis: The princess resolves to follow her husband until she finds him, searches
+    the city and beyond, and eventually finds him in a tavern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes a journey and search, but no explicit magical helpers
+    or supernatural road are present in this excerpt.
+- id: motif:4
+  label: Feigned muteness as refusal or test
+  taxonomy_refs: []
+  basis: The fisherman pretends not to know the princess, is believed to be dumb,
+    and withholds speech despite repeated pleas.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not state directly that he intends a test, only that
+    he pretends and resists speaking.
+- id: motif:5
+  label: Three-day ordeal under death penalty
+  taxonomy_refs: []
+  basis: A written agreement gives the princess three days to make the fisherman speak,
+    with hanging as the penalty for failure.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The ordeal is legal-contractual in this excerpt, not explicitly ritual
+    or supernatural.
+- id: motif:6
+  label: Last-moment rescue by withheld speech
+  taxonomy_refs: []
+  basis: At the instant before the princess would be hanged, the fisherman finally
+    speaks and commands the execution to stop.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The excerpt ends with the interruption; the final outcome after his shout
+    is not included in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2665-2678
+  quote_or_summary: At the imperial wedding banquet, a soft-boiled egg reserved by
+    ancient custom for the bride and bridegroom is brought; the princess claims she
+    must dip first because of her imperial status and his fisherman status, after
+    which he silently vanishes.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 2679-2690
+  quote_or_summary: The bride repents, cannot sleep, and is consumed by sorrow and
+    longing for the bridegroom whose reason for leaving she does not know.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 2691-2701
+  quote_or_summary: The princess tells the emperor she will follow her husband until
+    she finds him; despite his attempt to detain her, she searches and eventually
+    finds the husband serving in a tavern.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 2702-2721
+  quote_or_summary: The husband pretends not to know the princess and makes no answer;
+    the landlord says the servant is dumb and should be left to work.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 2722-2733
+  quote_or_summary: The princess tells the tavern people that the supposed dumb man
+    is her husband, who deserted her because of her fault; the people are astonished
+    and know him as a dumb man who communicates by signs.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 2734-2743
+  quote_or_summary: The princess makes an agreement that she will induce the man to
+    speak within three days if allowed to stay near him, and that she will be hanged
+    if she fails; the contract is written and sanctioned by magistrates.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 2744-2763
+  quote_or_summary: The princess pleads for forgiveness and begs the fisherman to
+    speak; he shrugs, pretends not to understand, and remains silent through the three
+    days despite her entreaties.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 2764-2775
+  quote_or_summary: The gallows is prepared, the population gathers, magistrates and
+    the executioner arrive, and the princess loosens her hair and walks toward execution
+    while the people weep.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: quote
+  locator: 2776-2782
+  quote_or_summary: At the gallows the princess asks her husband to save her; after
+    the rope is placed around her neck, he raises his hand and shouts, "Hi! hi! stop!"
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction. Motif labels are passage-level
+    candidates and mostly lack exact supplied taxonomy matches. No explicit cross-traditional
+    comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims were left empty because the excerpt itself does not support a specific intertextual or cross-traditional comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:romanian-fairy-tales-kremnitz-gutenberg__l2665-l2782
+  passage_sha256=b4d6128783b632b0571603bf320474db566c9e5b8d49ce96bfee0658e407f2c0
+

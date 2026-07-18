@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l109-l169
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: PUBLISHED  BY  ORDER  OF  THE  TRUSTEES / TALES  OF  YUKAGHIR,  LAMUT,  AND  RUSSIANIZED  NATIVES
+    / OF  EASTERN  SIBERIA. / INTRODUCTION.; lines 109-169
+  start: '109'
+  end: '169'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an introduction by Waldemar Bogoras describing the collection,
+    selection, attribution, transcription, form, translation, and annotation of tales
+    from Russianized natives, Russian creoles, and related groups in the Kolyma and
+    Anadyr regions. It notes possible Yukaghir, Lamut, and Chuvantzi provenience,
+    Russian influence on titles, and some formal resemblance to ancient Russian lays.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tales were collected among Russianized natives of the Kolyma and Anadyr
+    country and among Russian creoles said to lead the same kind of life as the Russianized
+    natives.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor excluded many tales about kings, young heroes on horseback, and
+    similar subjects because he judged them to show Russian or Turko-Mongol provenience.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The included tales are described as representing elements of native life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Narrators ascribe a number of the tales to the Lamut, Yukaghir, or Chuvantzi.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bogoras judges most Kolyma tales to indicate Yukaghir provenience and Anadyr
+    tales to seem of Chuvantzi origin, while stating that nothing more definite is
+    known.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Most tales were taken down by Waldemar Bogoras, a large part by Mrs. Sophie
+    Bogoras, and a few by two Russian creoles who could read and write after a fashion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Most tales have context-matching titles, which Bogoras attributes to Russian
+    influence because native-language versions rarely have titles.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: For Russianized words Bogoras used the usual English alphabet, and for non-Russianized
+    native words he used a special alphabet from his Jesup North Pacific Expedition
+    publications.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Some tales contain rhymed prose; some of this prose is local and native in
+    content but arranged in the form of ancient Russian lays.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: For most prose rhymes, the Russian text is given with English translation.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Notes signed W. B. are by the author, and a few comparative notes were added
+    by Franz Boas and signed with his initials.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Waldemar Bogoras
+  description: Author of the introduction and collector of most of the tales.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Mrs. Sophie Bogoras
+  description: Collector who took down a large part of the tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Russian creole collectors
+  description: A couple of Russian creoles who could read and write after a fashion
+    and took down a few tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Narrators
+  description: Narrators who ascribe a number of tales to the Lamut, Yukaghir, or
+    Chuvantzi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Franz Boas
+  description: Contributor of a few comparative notes signed with his initials.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Russianized natives of the Kolyma and Anadyr country
+  description: People among whom the tales were collected.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Russian creoles
+  description: People among whom tales were collected and who are described as leading
+    the same kind of life as Russianized natives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: author-editor
+  assigned_to:
+  - fig:1
+  basis: The passage is signed Waldemar Bogoras and describes editorial choices, notes,
+    transcription, and translations.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:2
+  label: tale recorder
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage states that most tales were taken down by Bogoras, a large part
+    by Mrs. Sophie Bogoras, and a few by Russian creoles.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: attributor of tale origins
+  assigned_to:
+  - fig:4
+  basis: Narrators ascribe some tales to the Lamut, Yukaghir, or Chuvantzi.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: comparative note contributor
+  assigned_to:
+  - fig:5
+  basis: The passage says Franz Boas added a few comparative notes signed with his
+    initials.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: source community or collection milieu
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The tales were collected among Russianized natives and Russian creoles.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Collection and editorial framing of the tales
+  summary: Bogoras explains where and among whom the tales were collected, what kinds
+    of tales were excluded, how origins were attributed or judged, who recorded the
+    tales, and how titles, transcription, rhymed prose, translation, and notes are
+    handled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: Bogoras distinguishes many excluded tales about kings and young mounted heroes
+    as showing Russian or Turko-Mongol provenience rather than the native-life elements
+    selected for inclusion.
+  claim_level: historical_contact
+  target: Russian or Turko-Mongol narrative provenience
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial judgment about excluded material; the passage
+    does not provide tale texts or specific comparative examples.
+- id: claim:2
+  claim: Bogoras attributes context-matching tale titles to Russian influence because
+    he says similar stories in native languages rarely have titles.
+  claim_level: historical_contact
+  target: Russian influence on tale titling practices
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns titles and textual presentation, not a narrative
+    motif within a tale.
+- id: claim:3
+  claim: Some local and native prose rhymes are described as being arranged in the
+    form of ancient Russian lays.
+  claim_level: linguistic_similarity
+  target: Ancient Russian lays
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts formal resemblance but supplies no quoted example
+    of the rhymed prose or lay form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 123-126
+  quote_or_summary: The following tales were collected among Russianized natives of
+    the Kolyma and Anadyr country and among Russian creoles who lead the same kind
+    of life.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 126-131
+  quote_or_summary: Bogoras excluded many tales about kings and young heroes on horseback
+    that he judged Russian or Turko-Mongol in provenience, giving only tales representing
+    elements of native life.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 131-136
+  quote_or_summary: Narrators ascribe a number of tales to the Lamut, Yukaghir, or
+    Chuvantzi; Bogoras judges Kolyma tales mostly Yukaghir and Anadyr tales seemingly
+    Chuvantzi, while noting uncertainty.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 136-139
+  quote_or_summary: Most tales were taken down by Bogoras, many by Mrs. Sophie Bogoras,
+    and a few by two literate Russian creoles.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 141-144
+  quote_or_summary: Most tales have titles matching their context; Bogoras says this
+    must be due to Russian influence because native-language stories rarely have titles.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 146-151
+  quote_or_summary: Bogoras explains his transcription system for Russianized words
+    and non-Russianized native words.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 153-158
+  quote_or_summary: Some tales include rhymed prose; some prose rhymes are local and
+    native in content but arranged like ancient Russian lays, and most are given with
+    Russian text and English translation.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 158-161
+  quote_or_summary: Notes signed W. B. are by the author; a few comparative notes
+    were added by Franz Boas and signed with his initials.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: This introductory passage contains collection and editorial metadata rather
+    than a mythic narrative. No candidate mythic motifs or passage symbols were extracted;
+    comparison claims are limited to explicit statements about provenance, Russian
+    influence, and formal resemblance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family or symbol references were applied because the passage does not present a narrative episode containing those motifs or listed symbols.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l109-l169
+  passage_sha256=d478b5b34014485c125be989074ec465857e81f1295836975c85823b09b7069a
+

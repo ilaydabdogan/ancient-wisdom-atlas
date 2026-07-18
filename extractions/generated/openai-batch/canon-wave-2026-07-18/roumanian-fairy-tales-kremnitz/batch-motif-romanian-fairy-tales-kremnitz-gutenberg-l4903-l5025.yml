@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.romanian-fairy-tales-kremnitz-gutenberg-l4903-l5025
+source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+passage_locator:
+  label: HENRY HOLT AND COMPANY / COPYRIGHT, 1885, / PREFACE. / CONTENTS.; lines 4903-5025
+  start: '4903'
+  end: '5025'
+  translation: Roumanian Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jack insists on going with his father to the fair despite a warning that
+    he may be lost. On the journey he misunderstands the cart wheels, moving visual
+    scenery, and echoes, leaves the cart, takes a wrong road, wanders through woods
+    and meadows, repents, and reaches an unfamiliar village. A peasant takes him into
+    service as a plow-boy. Later Jack misunderstands an order to grease the cart,
+    uses the grease on the wrong parts, and is punished until he learns that cart
+    axles are to be greased.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jack's father prepares to go to the fair, with the wagon nearly ready except
+    for a pin not yet placed through the yoke.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jack insists on coming, while his father says it would be better for him to
+    stay home so he will not be lost in the market.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After his father gives in and seats him in the wagon, Jack is told to keep
+    close; he initially obeys and then begins watching the cart wheels.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Jack cannot understand the motion of the wheels and, in the woods, thinks
+    the trees are running and that witchcraft must be involved.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jack jumps out of the cart, calls to his father, hears his shout repeated
+    from several directions, becomes frightened, and runs toward home by the wrong
+    road.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jack wanders through forests and meadows until exhausted, then prays for mercy
+    and promises future obedience.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Jack reaches a village on the edge of the woods but cannot find his own home
+    there and begins to cry.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A peasant asks Jack his name, his father's name, and the name of his village;
+    Jack can answer only in childlike or generic terms and cannot identify his origin.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Because he cannot help Jack return home, the peasant takes him into service
+    as a plow-boy to guide oxen.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When ordered to grease the cart, Jack greases the thills, pole, and rack,
+    uses up the grease, and does not grease the axles.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: After being punished for the cart-greasing mistake, Jack rides in the back
+    of the cart sobbing while his master orders silence before they drive off.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jack
+  description: A boy or lad who insists on going to the fair, becomes lost, enters
+    service as a plow-boy, and misunderstands how to grease a cart.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Jack's father
+  description: Jack's father, who prepares to go to the fair, warns Jack about being
+    lost, takes him in the wagon, and drives on without noticing Jack's later cry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Kind-hearted peasant / Jack's master
+  description: A man returning from the fields with a cart drawn by four oxen; he
+    pities Jack, takes him into service, later orders him to grease the cart, and
+    punishes him for doing it wrongly.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Four oxen
+  description: Four oxen draw the peasant's cart and are also associated with Jack's
+    work as a plow-boy guiding oxen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: child protagonist
+  assigned_to:
+  - fig:1
+  basis: The passage follows Jack's actions, fears, wandering, service, and mistakes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: disobedient and inexperienced learner
+  assigned_to:
+  - fig:1
+  basis: Jack insists against advice, becomes lost, fails to answer practical questions,
+    and later does not know how to grease a cart because he had not listened or looked.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: warning parent
+  assigned_to:
+  - fig:2
+  basis: Jack's father warns him that he may be lost in the market and tells him to
+    keep close.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: rescuer-employer and corrective master
+  assigned_to:
+  - fig:3
+  basis: The peasant pities Jack and takes him into service, but later scolds and
+    punishes him for failing to grease the cart correctly.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: draft animals
+  assigned_to:
+  - fig:4
+  basis: The oxen draw the cart and are to be guided by Jack while the peasant plows.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: Cart and wheel mechanism
+  literal_form: Wagon/cart with yoke, wheels, thills, pole, rack, and axles
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Fair or market destination
+  literal_form: The fair and later the market as travel destinations
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: Woods and trees
+  literal_form: Woods, forests, and trees beside the road and around the strange village
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Repeated voice or echo
+  literal_form: Jack's shout and the word 'Father' repeated from several directions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Grease and axles
+  literal_form: Cart grease, the wrongly greased thills, pole, and rack, and the axles
+    that should have been greased
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Unfamiliar village
+  literal_form: A village on the edge of the woods where Jack finds many houses but
+    not his own home
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Jack insists on going to the fair
+  summary: Jack's father prepares for the fair and warns Jack to stay home, but Jack
+    insists until his father takes him in the wagon and orders him to stay close.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Roadside confusion and separation
+  summary: Jack watches the wheels, misreads the apparent movement of the trees, jumps
+    out of the cart, hears echoes, becomes frightened, and runs away on the wrong
+    road.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wandering and promise of obedience
+  summary: Jack wanders through forests and meadows until exhausted, then prays for
+    mercy and says he will be obedient in the future.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Arrival at a strange village
+  summary: Jack reaches a village at the edge of the woods, fails to find his own
+    home, cries, and is questioned by a peasant who realizes Jack cannot identify
+    his father or home village.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Service as plow-boy and failed cart-greasing
+  summary: The peasant takes Jack into service as a plow-boy. Later, when ordered
+    to grease the cart for market, Jack greases the wrong parts and is punished until
+    he learns that only the axles should be greased.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Market departure under the master
+  summary: After the cart is prepared and the oxen are put in, the master sits in
+    front while Jack sits in the back sobbing and is ordered to be silent before departure.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Child ignores warning and leaves home
+  taxonomy_refs:
+  - departure
+  basis: Jack insists on going with his father despite the warning that he may be
+    lost, and the departure leads to his separation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a comic-didactic departure rather than a formal heroic quest.
+- id: motif:2
+  label: Lost child in the woods
+  taxonomy_refs: []
+  basis: After leaving the cart, Jack runs toward home, takes the wrong road, and
+    wanders through forests and meadows until exhausted.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the woods as disorienting but does not introduce
+    a supernatural forest being.
+- id: motif:3
+  label: Foolish misunderstanding of ordinary phenomena
+  taxonomy_refs:
+  - wisdom
+  basis: Jack misunderstands cart-wheel motion, the apparent movement of roadside
+    trees, echoes, and later the mechanics of greasing a cart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The motif is didactic and comic; the passage does not frame Jack as a
+    trickster.
+- id: motif:4
+  label: Inability to name kin or home prevents rescue
+  taxonomy_refs: []
+  basis: When questioned, Jack can give his own name but identifies his father only
+    as 'father' and his village only as 'Village,' so the peasant cannot send him
+    home.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern; broader tale context may alter its function.
+- id: motif:5
+  label: Practical instruction learned through correction
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: Jack's earlier failure to heed instruction results in poor service; after
+    greasing the wrong parts of the cart and being punished, he learns that only axles
+    are to be greased.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The learning episode is practical and punitive, not a clearly marked ritual
+    initiation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4903-4925
+  quote_or_summary: Jack's father prepares to go to the fair; Jack insists on coming;
+    the father warns that he may be lost in the market, gives in, puts Jack in the
+    wagon, and tells him to keep close.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 4926-4942
+  quote_or_summary: Jack begins looking around, watches the cart wheels, cannot understand
+    their motion, sees the trees by the woods as if they were running, thinks of witchcraft,
+    jumps out, and calls for his father to stop.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 4944-4958
+  quote_or_summary: Jack hears his calls repeated from many directions, becomes frightened,
+    runs toward home, takes the wrong road, and wanders through forests and meadows;
+    the narrator comments on failing to listen to wiser advice.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 4960-4969
+  quote_or_summary: Jack cries, "Lord, have mercy on me, I will always be obedient
+    in future," then reaches a village on the edge of the woods, cannot find his own
+    home, and begins to cry.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 4971-4992
+  quote_or_summary: A peasant with a cart drawn by four oxen questions Jack; Jack
+    cannot identify his father or village, so the peasant takes him into service as
+    a plow-boy to guide the oxen.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 4994-5019
+  quote_or_summary: Jack's master tells him to grease the cart for market; Jack, not
+    knowing how, greases the thills, pole, and rack, runs out of grease, is beaten,
+    and learns that only cart axles are to be greased.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 5021-5025
+  quote_or_summary: The cart is ready, the oxen are put in, the master sits in front,
+    and Jack crouches in the back sobbing while the master orders him to be silent
+    before they drive off.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are passage-level
+    and didactic; no cross-text comparison claims are made from this excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external tale-type or motif-index identifiers were added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:romanian-fairy-tales-kremnitz-gutenberg__l4903-l5025
+  passage_sha256=5480f1e831092a422825cc99d710265d0b68248f965d48685e8e355c6008cb7b
+

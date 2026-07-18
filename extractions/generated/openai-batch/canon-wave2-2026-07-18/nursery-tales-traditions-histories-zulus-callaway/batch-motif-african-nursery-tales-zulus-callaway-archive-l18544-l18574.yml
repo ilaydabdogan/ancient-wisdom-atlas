@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18544-l18574
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: APPENDIX  (C). / IZIMU  ELA  TOLWA  UMASENDENI. / UMKXAKAZA-WAKOGINGQWAYO.
+    / UMKXAKAZA-WAKOGINGQWAYO.; lines 18544-18574
+  start: '18544'
+  end: '18574'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: There was a certain king; he had a child; her name was Umkxakaza-wakoginggwayo.
+  summary: The passage introduces the birth of Umkxakaza-wakoginggwayo, a king's child,
+    and explains her compound name by reference to an army going out to battle while
+    rattling weapons; a footnote glosses the name as connected with the rattling of
+    weapons and the place of the rolling of the slain.
+  language: Zulu with English translation and annotation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A child is born to a certain king.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child is female in the English translation and is named Umkxakaza-wakoginggwayo.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The name Umkxakaza is explained as being given because an army went out to
+    battle rattling weapons.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A footnote glosses Umkxakaza-wakoginggwayo as “The-rattler-of-weapons-of-the-place-of-the-rolling-of-the-slain.”
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: certain king
+  description: An unnamed king who has a child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Umkxakaza-wakoginggwayo
+  description: A female child born to the king and named Umkxakaza-wakoginggwayo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: army
+  description: An army that goes out to battle rattling weapons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal parent
+  assigned_to:
+  - fig:1
+  basis: The passage says a certain king had a child.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named royal child
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the child of the king by the name Umkxakaza-wakoginggwayo.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: battle-going army
+  assigned_to:
+  - fig:3
+  basis: The passage says an army went out to battle rattling weapons.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: rattling weapons
+  literal_form: weapons rattled by the army as it goes to battle
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: place of the rolling of the slain
+  literal_form: a place-image contained in the footnote gloss of the name
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Birth and naming of Umkxakaza-wakoginggwayo
+  summary: A certain king has a female child, and the child is given the name Umkxakaza-wakoginggwayo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of the martial name
+  summary: The passage explains the name by describing an army going out to battle
+    while rattling weapons, with the footnote gloss adding the image of the place
+    of the rolling of the slain.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: birth and naming of a royal child
+  taxonomy_refs: []
+  basis: The passage centers on the birth of a child to a king and states the child's
+    name.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state miraculous, sacred, or legitimacy claims about
+    the birth.
+- id: motif:2
+  label: martial event reflected in personal name
+  taxonomy_refs: []
+  basis: The child's name is explained through an army going to battle while rattling
+    weapons and through a martial footnote gloss involving the slain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives an etymological explanation, but the surrounding tale
+    context is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18544-18574
+  quote_or_summary: "“There was a certain king; he had a child; her name was Umkxakaza-wakoginggwayo.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18544-18574
+  quote_or_summary: The English translation explains that an army went out to battle
+    rattling weapons, and that this was why the child was named Umkxakaza.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: footnote within lines 18544-18574
+  quote_or_summary: "“Umkxakaza-wakogingqwayo.—The-rattler-of-weapons-of-the-place-of-the-rolling-of-the-slain.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and partly interrupted at the end of the supplied excerpt,
+    but the birth, name, and martial name explanation are clear. No comparison claims
+    are recorded because the passage itself does not support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were not applied because the excerpt supports a royal birth and martial naming pattern, but not a specific listed motif family such as sacred birth or royal legitimacy.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18544-l18574
+  passage_sha256=f43f536683797893a5545ef87056c0c7aaa4c6887b590bdacafeaa64cc6eb36d
+

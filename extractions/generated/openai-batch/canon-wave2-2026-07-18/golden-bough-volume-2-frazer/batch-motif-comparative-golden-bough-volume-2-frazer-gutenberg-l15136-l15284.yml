@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l15136-l15284
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 15136-15284
+  start: '15136'
+  end: '15284'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of footnotes cites comparative and ethnographic sources. The
+    notes include references to Geser Chan, Turkic folklore, the Simson/Samson legend,
+    animism, Australian class systems, totemism, and a Spanish quotation describing
+    a belief that a person's life is united to an animal and that the person must
+    die when that animal dies.
+  language: English, with multilingual bibliographic titles and one Spanish quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists mainly of numbered scholarly footnotes and bibliographic
+    citations for comparative mythology, folklore, ethnography, animism, and totemism.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: One note quotes a belief that people's life is united to an animal and that
+    they must die when that animal dies.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note says the “nightjar” is apparently an owl.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One note states that the chief facts of totemism had been collected by the
+    writer in a work titled Totemism.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note states that J. B. Neumann is the authority for the statement about
+    seven souls.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed belief-holders in Bancroft note
+  description: People described in a cited Spanish quotation as believing that their
+    life is united to an animal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: life-linked animal
+  description: An unnamed animal whose death is said, in the quoted belief, to require
+    the death of the people whose life is united with it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: bearers of life-linked-animal belief
+  assigned_to:
+  - fig:1
+  basis: The quoted note says a belief is preserved among them that their life is
+    united to an animal.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal linked to human life
+  assigned_to:
+  - fig:2
+  basis: The quoted note says the person's life is united to the animal and that the
+    person dies when the animal dies.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: life-linked animal
+  literal_form: animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seven souls
+  literal_form: seven souls
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: nightjar or owl
+  literal_form: nightjar, apparently an owl
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Life bound to an animal
+  taxonomy_refs: []
+  basis: The Spanish quotation in note 883 describes a belief that a person's life
+    is united to an animal and that the person must die when the animal dies.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a footnote quotation and does not narrate a full
+    myth or ritual context.
+- id: motif:2
+  label: Totemism or human-animal affiliation as comparative category
+  taxonomy_refs: []
+  basis: The passage cites Australian class-system and Aboriginal sources near a note
+    stating that the chief facts of totemism had been collected by the writer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is bibliographic; it does not describe the specific totemic
+    practices in detail.
+- id: motif:3
+  label: Multiple souls, specifically seven souls
+  taxonomy_refs: []
+  basis: A footnote states that J. B. Neumann is the authority for the seven souls.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage only mentions the number and authority; it does not explain
+    the doctrine or narrative function of the seven souls.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnotes 853-882, lines 15136-15189
+  quote_or_summary: The notes cite works on Geser Chan, Turkic folklore, the Simson/Samson
+    legend, ethnography, folk medicine, and animism, including sources on soemâñgá
+    and animism among peoples of the Indian Archipelago.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public-domain source text; summary only.
+- id: ev:2
+  type: quote
+  locator: footnote 883, lines 15190-15196
+  quote_or_summary: "“Consérvase entre ellos la creencia de que su vida está unida
+    à la de un animal, y que es forzoso que mueran ellos cuando éste muere”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public-domain source text; short quotation.
+- id: ev:3
+  type: quote
+  locator: footnote 889, lines 15212-15213
+  quote_or_summary: "“the ‘nightjar’ is apparently an owl”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public-domain source text; short quotation.
+- id: ev:4
+  type: summary
+  locator: footnotes 885-891, lines 15200-15223
+  quote_or_summary: The notes cite sources on Australian class systems and Aboriginal
+    customs, then state that the chief facts of totemism were collected by the present
+    writer in Totemism.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public-domain source text; summary only.
+- id: ev:5
+  type: summary
+  locator: footnote 898, lines 15264-15266
+  quote_or_summary: The note cites B. Hagen on Battareligion and states that J. B.
+    Neumann is the authority for the seven souls.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public-domain source text; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is chiefly a footnote and bibliography segment, so extraction
+    is limited to explicit concepts mentioned in the notes rather than narrative episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy list does not include external soul, totemism, animal-double, or multiple-soul categories explicitly.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l15136-l15284
+  passage_sha256=914974c7b14fd6d3ed58e8f6c6a4c19737bd95e6c479fae226ed7dc7f7d29e01
+

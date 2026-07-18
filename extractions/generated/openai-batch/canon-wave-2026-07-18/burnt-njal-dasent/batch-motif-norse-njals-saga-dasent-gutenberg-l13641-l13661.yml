@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l13641-l13661
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER CXXXII. / FLOSI'S DREAM. / CHAPTER CXXXIII. / OF FLOSI'S JOURNEY
+    AND HIS ASKING FOR HELP.; lines 13641-13661
+  start: '13641'
+  end: '13661'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Flosi travels by several named places to Hall's house at Thvattwater, rests
+    there, asks Hall for counsel, receives advice to return home and later ride to
+    the Thing with an undivided band, receives Hall's pledge of support and parting
+    gifts, and then returns to Swinefell for the rest of winter and summer until the
+    Thing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Flosi travels through Fleetdale, Oxenlava, Swinehorndale, and Alftafirth to
+    reach Hall's house at Thvattwater.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Flosi stays at Thvattwater for half a month with his men and rests there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Flosi asks Hall what counsel Hall will give him, what he should do next, and
+    whether he should change his plans.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hall advises Flosi to go home with the sons of Sigfus, while the sons of Sigfus
+    send men to set their homesteads in order.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hall advises that when the group rides to the Thing, they should ride together
+    and not scatter their band.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hall says the sons of Sigfus may visit their wives on the way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hall pledges that he, his son Ljot, and his Thingmen will ride to the Thing
+    and support Flosi with the force he can gather.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hall gives Flosi good gifts at parting.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Flosi leaves Thvattwater, returns to Swinefell, and remains there through
+    the rest of winter and the summer until the Thing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Flosi
+  description: A man who travels to Hall's house, asks for counsel, receives gifts,
+    and returns to Swinefell.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Hall
+  description: Flosi's father-in-law at Thvattwater, who gives counsel, promises support,
+    and gives gifts at parting.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Flosi's men
+  description: Men who accompany Flosi to Thvattwater and rest there with him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: sons of Sigfus
+  description: A group Hall says should go home with Flosi, send men to set their
+    homesteads in order, and visit their wives on the way to the Thing.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ljot
+  description: Hall's son, whom Hall says will ride to the Thing with him and the
+    Thingmen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hall's Thingmen
+  description: The men Hall says he will bring to the Thing to stand by Flosi.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: wives of the sons of Sigfus
+  description: Women whom Hall says the sons of Sigfus should visit on the way.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: Flosi journeys across named places to Thvattwater and later returns to Swinefell.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: seeker of counsel
+  assigned_to:
+  - fig:1
+  basis: Flosi asks Hall what counsel he will give and what Flosi should do next.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of gifts
+  assigned_to:
+  - fig:1
+  basis: Hall gives Flosi good gifts at parting.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: counselor
+  assigned_to:
+  - fig:2
+  basis: Hall answers Flosi's request for counsel with a plan of action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: pledged supporter at the Thing
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: Hall says he, Ljot, and all their Thingmen will ride to the Thing and stand
+    by Flosi.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: gift giver
+  assigned_to:
+  - fig:2
+  basis: Hall gives good gifts at parting.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: accompanying band
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The passage describes Flosi's men resting with him, the sons of Sigfus traveling
+    with him, and Hall's Thingmen riding in support.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:8
+  label: household organizers
+  assigned_to:
+  - fig:4
+  basis: Hall says the sons of Sigfus should send men to set their homesteads in order.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: visited kin by marriage
+  assigned_to:
+  - fig:7
+  basis: Hall says the sons of Sigfus should go to see their wives on the way.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Thing
+  literal_form: The Thing, an assembly destination to which Flosi, Hall, Ljot, and
+    the Thingmen are to ride.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: parting gifts
+  literal_form: Good gifts given by Hall to Flosi at parting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: undivided band
+  literal_form: The group Hall tells Flosi not to scatter when riding to the Thing.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Journey to Thvattwater
+  summary: Flosi travels through named districts to Hall's house at Thvattwater and
+    rests there for half a month with his men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hall's counsel
+  summary: Flosi asks Hall for counsel, and Hall advises him to go home, keep the
+    band together when riding to the Thing, allow the sons of Sigfus to visit their
+    wives, and rely on Hall's support at the assembly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Parting and return to Swinefell
+  summary: Flosi thanks Hall, receives good gifts, leaves Thvattwater, and returns
+    to Swinefell, where he remains until the Thing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seeking counsel before action
+  taxonomy_refs:
+  - wisdom
+  basis: Flosi explicitly asks Hall for counsel about what to do next, and Hall provides
+    a detailed plan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents practical social and legal counsel, not explicitly
+    supernatural or sacred wisdom.
+- id: motif:2
+  label: return home before collective assembly journey
+  taxonomy_refs:
+  - return
+  basis: Hall counsels Flosi to go home first and later ride to the Thing together
+    with an undivided band; Flosi then returns to Swinefell and stays until the Thing.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The return is literal and logistical, with no explicit ritual or mythic
+    transformation.
+- id: motif:3
+  label: parting gift exchange
+  taxonomy_refs: []
+  basis: Hall gives Flosi good gifts when they part.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text does not state a sacred or supernatural function for the gifts.
+- id: motif:4
+  label: allied support at assembly
+  taxonomy_refs: []
+  basis: Hall promises that he, Ljot, and their Thingmen will ride to the Thing and
+    stand by Flosi with gathered force.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a saga social-legal support pattern rather than an explicitly
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13641-13645
+  quote_or_summary: Flosi travels through Fleetdale, Oxenlava, Swinehorndale, and
+    Alftafirth to Hall's house at Thvattwater, where he and his men stay and rest
+    for half a month.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13647-13648
+  quote_or_summary: Flosi asks Hall for counsel about what to do next and whether
+    to change his plans.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13650-13655
+  quote_or_summary: Hall advises Flosi to go home with the sons of Sigfus, arrange
+    homestead matters, later ride to the Thing together without scattering the band,
+    and let the sons of Sigfus visit their wives on the way.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13655-13657
+  quote_or_summary: Hall says he will ride to the Thing with Ljot, all their Thingmen,
+    and as much force as he can gather to stand by Flosi.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13659
+  quote_or_summary: Flosi thanks Hall, and Hall gives him good gifts at parting.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13661-13664
+  quote_or_summary: Flosi leaves Thvattwater and returns to Swinefell, where he stays
+    through the rest of winter and the summer until the Thing.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a practical saga narrative of travel, counsel, alliance, gifts,
+    and return. Motif candidates are literal social narrative patterns; there is no
+    explicit supernatural content in the supplied passage. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied sparingly where directly supported by the passage's literal actions.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l13641-l13661
+  passage_sha256=3751565314a6f490243caf0db2ff7c0b92e5cbe114f375a7361dbc428f432f9b
+

@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1934-l1948
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: HUMANITY THE REFLECTION OF THE BELOVED / THE WINE EVERLASTING / BE LOST IN
+    THE BEAUTY OF THE BELOVED / THE LOVER'S CRY TO THE BELOVED; lines 1934-1948
+  start: '1934'
+  end: '1948'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"O take my life, Thou art the Source of Life!"'
+  summary: A speaker identified as a lover addresses the Beloved. The speaker describes
+    mental conflict, affliction, sleepless longing, and weariness with life apart
+    from the Beloved; he asks for merciful touch, continued shadow over his head,
+    and for the Beloved, called the Source of Life, to take his life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage title frames the speech as a lover's cry to the Beloved.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says his back is broken by the conflict of his thoughts.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker addresses the Beloved One and asks the Beloved to come and stroke
+    his head in mercy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the palm of the Beloved's hand on his head gives him rest
+    and that the hand is a sign of bounteous providence.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks that the Beloved's shadow not be removed from his head and
+    repeats that he is afflicted.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says sleep has deserted his eyes because of his longing for the
+    Beloved.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker asks the Beloved to take his life, calls the Beloved the Source
+    of Life, and says he is weary of life apart from the Beloved.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker calls himself a lover well versed in lovers' madness and says
+    he is weary of learning and sense.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the lover-speaker
+  description: The first-person speaker who is afflicted, sleepless with longing,
+    weary of life apart from the Beloved, and self-described as a lover versed in
+    lovers' madness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the Beloved One
+  description: The addressed Beloved, whose hand gives rest, whose shadow the speaker
+    asks to remain over his head, and who is called the Source of Life and the Envy
+    of cypresses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: supplicant lover
+  assigned_to:
+  - fig:1
+  basis: The speaker addresses a Beloved, describes longing and affliction, and identifies
+    himself as a lover.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:2
+  label: addressed Beloved
+  assigned_to:
+  - fig:2
+  basis: The speaker directly addresses the Beloved One and repeatedly refers to longing
+    for the Beloved.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: source of life and rest-giving presence
+  assigned_to:
+  - fig:2
+  basis: The speaker says the Beloved's hand gives rest and calls the Beloved the
+    Source of Life.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: hand on the head
+  literal_form: The palm of the Beloved's hand on the speaker's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: shadow over the head
+  literal_form: The Beloved's shadow on the speaker's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Source of Life
+  literal_form: The Beloved named as the Source of Life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: deserted sleep
+  literal_form: Sleep deserting the speaker's eyes through longing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: cypresses
+  literal_form: The epithet 'Envy of cypresses' addressed to the Beloved
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: the afflicted lover addresses the Beloved
+  summary: The lover-speaker describes mental conflict, affliction, and sleepless
+    longing; asks the Beloved for merciful touch and continued shadow; asks the Source
+    of Life to take his life; and declares weariness with learning and sense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lover's longing for the divine Beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The speaker is framed as a lover crying to the Beloved, describes longing
+    for the Beloved, and addresses the Beloved as the Source of Life.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage uses devotional love language, but it does not explicitly
+    define the Beloved beyond the addressed titles in the excerpt.
+- id: motif:2
+  label: self-loss or life-surrender before the Beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker asks the Beloved to take his life and says he is weary of life
+    apart from the Beloved.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The excerpt supports surrender or weariness of separate life, but it does
+    not explicitly state union or doctrinal annihilation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1934'
+  quote_or_summary: THE LOVER'S CRY TO THE BELOVED
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: 1936-1937
+  quote_or_summary: '"My back is broken by the conflict of my thoughts; / O Beloved
+    One, come and stroke my head in mercy!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: 1938-1939
+  quote_or_summary: '"The palm of Thy hand on my head gives me rest, / Thy hand is
+    a sign of Thy bounteous providence."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:4
+  type: quote
+  locator: 1940-1941
+  quote_or_summary: '"Remove not Thy shadow from my head, / I am afflicted, afflicted,
+    afflicted!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:5
+  type: quote
+  locator: 1942-1943
+  quote_or_summary: '"Sleep has deserted my eyes / Through my longing for Thee, O
+    Envy of cypresses!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:6
+  type: quote
+  locator: 1945-1946
+  quote_or_summary: '"O take my life, Thou art the Source of Life! / For apart from
+    Thee I am wearied of my life."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:7
+  type: quote
+  locator: 1947-1948
+  quote_or_summary: '"I am a lover well versed in lovers'' madness, / I am weary of
+    learning and sense."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    limited to taxonomy references supported by the passage wording. No comparison
+    claims were extracted because the passage itself does not make a cross-textual
+    or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1934-l1948
+  passage_sha256=d9f65b1fd56140dd996408d1695e4c15b8709f046ea4da9538e4d2914d5dc207
+

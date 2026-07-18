@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l10821-l10851
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXXIII. / XXXIV. / XXXV. / XXXVI.; lines 10821-10851
+  start: '10821'
+  end: '10851'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: The Graal was restored in the holy chapel, and the other hallows as you have
+    heard.
+  summary: 'After the conquest of the castle, divine favor is shown to the place:
+    the Graal and other hallows return to the chapel, Perceval secures the land and
+    restores the New Law, and King Fisherman’s tomb is miraculously adorned and lit
+    at night.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After the castle conquest, the Saviour of the World is described as joyous
+    and pleased.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Graal, a bleeding lance, the sword associated with St John’s beheading
+    and won by Messire Gawain, and many holy relics are again present in the chapel.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hermits return to their forest hermitages and serve Our Lord as before.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Joseus remains with Perceval at the castle for as long as it pleases him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Perceval searches the land where the New Law had been abandoned and kills
+    those who would not maintain it and believe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The country is made safe and the Law of Our Lord is exalted by Perceval’s
+    strength and valour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Priests and knights who come to the castle love Perceval and observe his valour
+    and faith in God increasing.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Perceval shows the priests and knights the sepulchre of his uncle King Fisherman
+    in the chapel before the altar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: King Fisherman’s coffin is rich, and its tabernacle is costly and set with
+    precious stones.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The priests and knights bear witness that after the body was placed in the
+    coffin and they left, they returned to find it covered by the tabernacle, with
+    no known setter except the commandment of Our Lord.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Every night there is a great brightness of light like candles, and the passage
+    says they knew no source for it except God.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage states that Perceval won the castle by God’s command, the Graal
+    and other hallows were restored, evil belief was removed from the kingdom, and
+    all were assured again in the New Law by the Good Knight’s valour.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Saviour of the World
+  description: Divine figure described as joyous and well pleased after the conquest
+    of the castle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Our Lord God / God / Our Lord
+  description: Divine figure said to love the place; served by the hermits; named
+    as the commandment behind the tomb covering, the source of the nightly light,
+    and the authority by whose command Perceval won the castle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Perceval / the Good Knight
+  description: Knight at the castle who enforces the New Law, makes the land safe,
+    shows King Fisherman’s sepulchre, and is said to have won the castle by God’s
+    command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Hermits
+  description: Religious figures who return to forest hermitages and serve Our Lord
+    as before.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Joseus
+  description: Figure who remains with Perceval at the castle for a time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Priests and knights
+  description: Visitors to the castle who love Perceval, observe his growing valour
+    and faith, and bear witness to the tomb miracle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: King Fisherman
+  description: Perceval’s uncle, whose sepulchre and body in the chapel are described.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Messire Gawain
+  description: Named as the one who won the sword associated with St John’s beheading.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: St John
+  description: Saint named in relation to the sword with which he was beheaded.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: pleased divine figure
+  assigned_to:
+  - fig:1
+  basis: The Saviour of the World is described as joyous and well pleased after the
+    conquest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine authority and source
+  assigned_to:
+  - fig:2
+  basis: Our Lord God loves the place, is served by the hermits, is named as the source
+    or command behind the tomb and light, and commands Perceval’s conquest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Good Knight and restorer of the New Law
+  assigned_to:
+  - fig:3
+  basis: Perceval is called the Good Knight, secures the country, exalts the Law of
+    Our Lord, and is linked to the restoration of the Graal and New Law.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: forest religious servants
+  assigned_to:
+  - fig:4
+  basis: The hermits return to their hermitages in the forest and serve Our Lord.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: temporary castle companion
+  assigned_to:
+  - fig:5
+  basis: Joseus remains with Perceval at the castle as long as it pleases him.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: clerical and knightly witnesses
+  assigned_to:
+  - fig:6
+  basis: The priests and knights observe Perceval’s virtues and bear witness to the
+    miraculous state of King Fisherman’s coffin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: dead uncle and sepulchre occupant
+  assigned_to:
+  - fig:7
+  basis: King Fisherman is identified as Perceval’s uncle, and his sepulchre, body,
+    coffin, and tabernacle are described.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: prior winner of relic sword
+  assigned_to:
+  - fig:8
+  basis: The passage says Messire Gawain won the sword associated with St John’s beheading.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: saint associated with beheading sword
+  assigned_to:
+  - fig:9
+  basis: St John is named as the one beheaded with the sword described among the hallows.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Graal
+  literal_form: The Graal, which presents itself again and is restored in the holy
+    chapel.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: bleeding lance
+  literal_form: A lance whose point bleeds, present in the chapel among the hallows.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: St John’s beheading sword
+  literal_form: The sword with which St John was beheaded, said to have been won by
+    Messire Gawain.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: holy relics and hallows
+  literal_form: Many holy relics, also called hallows, present and restored in the
+    chapel.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: holy chapel and castle
+  literal_form: The chapel and castle where the Graal, relics, sepulchre, and hallows
+    are located after the conquest.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: rich coffin and jeweled tabernacle
+  literal_form: King Fisherman’s rich coffin and costly tabernacle loaded with precious
+    stones.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: nightly candle-like brightness
+  literal_form: A great nightly brightness of light, described as like candles, with
+    no source known except God.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hallows return after castle conquest
+  summary: After the conquest, divine favor is expressed and the Graal, bleeding lance,
+    sword, and many holy relics are again present in the chapel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Religious figures disperse and Joseus remains
+  summary: The hermits return to their forest hermitages and Joseus stays with Perceval
+    at the castle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Perceval secures the land and enforces the New Law
+  summary: Perceval searches lands where the New Law was neglected, kills those refusing
+    to maintain and believe it, and makes the country safe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Perceval shows King Fisherman’s sepulchre
+  summary: Priests and knights admire Perceval’s increasing valour and faith, and
+    he shows them King Fisherman’s sepulchre before the altar in the chapel.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Miraculous tabernacle and nightly light
+  summary: Witnesses report that King Fisherman’s coffin became covered by a rich
+    tabernacle by the commandment of Our Lord, and that a candle-like brightness appears
+    there every night.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Concluding restoration of Graal, hallows, and New Law
+  summary: The passage concludes that Perceval won the castle by God’s command, the
+    Graal and hallows were restored, evil belief was removed, and the New Law was
+    assured by the Good Knight’s valour.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: restoration of sacred Graal and hallows
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage describes the Graal and other hallows returning to or being restored
+    in the holy chapel after Perceval’s divinely commanded conquest.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a restoration scene rather
+    than a full quest narrative.
+- id: motif:2
+  label: divinely sanctioned restoration of religious law
+  taxonomy_refs:
+  - covenant
+  basis: The New Law had been abandoned; Perceval enforces it, the Law of Our Lord
+    is exalted, and all are again assured in the New Law after the castle is won by
+    God’s command.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage names the New Law but does not explicitly formulate a covenant
+    ceremony or agreement.
+- id: motif:3
+  label: sacred violence against unbelief as judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Perceval kills those who would not maintain and believe the New Law, and
+    the passage frames the larger victory and restoration as occurring by God’s command.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The killing is performed by Perceval; the passage does not depict God
+    directly executing judgment.
+- id: motif:4
+  label: miraculously adorned and illuminated tomb
+  taxonomy_refs: []
+  basis: King Fisherman’s coffin is found covered by a rich tabernacle attributed
+    to Our Lord’s command, and a candle-like brightness appears there nightly with
+    no known source except God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No exact supplied taxonomy family matches this tomb miracle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10823-10828
+  quote_or_summary: After the castle conquest, the Saviour is pleased; the Graal,
+    bleeding lance, St John’s beheading sword won by Gawain, and many relics are again
+    in the chapel; Our Lord God loves the place.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 10828-10831
+  quote_or_summary: The hermits return to forest hermitages and serve Our Lord; Joseus
+    remains with Perceval at the castle for a time.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 10831-10835
+  quote_or_summary: The Good Knight searches lands where the New Law had been abandoned,
+    kills those who will not maintain and believe it, makes the country safe, and
+    exalts the Law of Our Lord.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 10835-10839
+  quote_or_summary: Priests and knights who come to the castle love Perceval and see
+    his valour and faith increase; Perceval shows them his uncle King Fisherman’s
+    sepulchre in the chapel before the altar.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 10839-10845
+  quote_or_summary: King Fisherman’s coffin and precious-stone tabernacle are described;
+    witnesses say that after the body was placed in the coffin and they departed,
+    they returned to find it covered by the tabernacle, attributed to Our Lord’s commandment.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: 10845-10851
+  quote_or_summary: Every night a candle-like brightness appears with no known source
+    except God; Perceval won the castle by God’s command; the Graal and hallows are
+    restored; evil belief is removed and all are assured in the New Law.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage and metadata. Motif taxonomy assignments
+    are limited to broad available refs; no comparison claims were made because the
+    passage supplies no explicit comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to the refs provided in the request. Literal observations are separated from motif interpretation.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l10821-l10851
+  passage_sha256=ed47272587a74dba222d9373da2af7f9e6063204a2d5a112590b277a45495eb5
+

@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1301-l1320
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOYS AND THE FROGS / THE NORTH WIND AND THE SUN / THE MISTRESS AND HER
+    SERVANTS / THE GOODS AND THE ILLS; lines 1301-1320
+  start: '1301'
+  end: '1320'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage personifies Goods and Ills as forces once equally present in
+    human affairs. Human foolishness allows the Ills to multiply and threaten the
+    Goods. The Goods go to heaven and ask Jupiter for protection and guidance. Jupiter
+    grants protection and decrees that Goods should visit humans singly, unnoticed,
+    and rarely, explaining why Ills are common on earth while Goods are seldom seen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Goods and Ills are described as once entering equally into the concerns of
+    men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The foolishness of mankind is stated as the reason the Ills multiplied and
+    increased in strength.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ills seemed likely to deprive the Goods of any share in human affairs
+    and to banish them from earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Goods went to heaven, complained to Jupiter, and asked him for protection
+    from the Ills and advice about their dealings with men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jupiter granted protection and decreed that Goods should no longer go among
+    men openly in a body, but singly, unobserved, infrequently, and unexpectedly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The earth is described as full of Ills, which come and go as they please and
+    are never far away.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Goods are described as coming one by one from heaven and therefore being rarely
+    seen.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Goods
+  description: Personified beneficial forces involved in human affairs; they go to
+    heaven to seek Jupiter's protection and later come singly from heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ills
+  description: Personified harmful forces that multiply, grow stronger, threaten the
+    Goods, and remain common on earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: mankind / men
+  description: The human collective whose affairs are affected by Goods and Ills;
+    mankind's foolishness is said to enable the growth of the Ills.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Jupiter
+  description: Divine figure to whom the Goods complain; he grants protection and
+    issues a decree regulating how Goods will visit humans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: beneficent personified party
+  assigned_to:
+  - fig:1
+  basis: The passage names the Goods as beneficial forces in human affairs who seek
+    protection from the Ills.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: hostile harmful party
+  assigned_to:
+  - fig:2
+  basis: The Ills multiply, strengthen, threaten to exclude the Goods, and are described
+    as hostile.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine protector and decreeing authority
+  assigned_to:
+  - fig:4
+  basis: Jupiter receives the Goods' complaint, grants their request, and decrees
+    their future conduct.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: affected human collective
+  assigned_to:
+  - fig:3
+  basis: Men are the beings among whom Goods and Ills operate, and mankind's foolishness
+    is said to affect the balance between them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: heaven
+  literal_form: heaven
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial balance of Goods and Ills
+  summary: In the youth of the world, Goods and Ills are equally present in human
+    affairs, so humans are neither wholly blessed nor wholly miserable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ills multiply and threaten Goods
+  summary: Because of mankind's foolishness, Ills increase in number and strength
+    and appear ready to exclude Goods from human affairs and earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Goods appeal to Jupiter in heaven
+  summary: The Goods go to heaven, complain to Jupiter about their treatment, and
+    ask him for protection and advice.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Jupiter's decree
+  summary: Jupiter grants protection and orders Goods to visit humans singly, unnoticed,
+    and at rare unexpected intervals rather than openly as a group.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Present condition explained
+  summary: The passage explains that Ills are common and near on earth, while Goods
+    must travel from heaven one by one and are rarely seen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Opposition of personified Goods and Ills
+  taxonomy_refs:
+  - duality
+  basis: The passage sets Goods and Ills as opposed personified forces in human affairs,
+    first balanced and then in conflict after the Ills multiply.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The opposition is moral and didactic within a fable; it should not be
+    treated as a fully developed cosmic dualism without external evidence.
+- id: motif:2
+  label: Withdrawal or ascent of beneficent forces to heaven
+  taxonomy_refs:
+  - ascent
+  basis: The Goods leave earth for heaven to appeal to Jupiter and later must travel
+    from heaven when they visit humans.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The ascending agents are personified Goods rather than a human hero or
+    deity; the motif mapping is broad.
+- id: motif:3
+  label: Divine decree regulating contact with humans
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter grants the Goods' request and decrees the conditions under which
+    they may go among men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents an administrative protective decree rather than an
+    explicit punitive judgment.
+- id: motif:4
+  label: Etiology of common evils and rare goods
+  taxonomy_refs: []
+  basis: The concluding explanation states that Ills are plentiful and nearby, while
+    Goods arrive rarely from heaven one by one.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference exactly names this etiological fable pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1301-1320; opening condition
+  quote_or_summary: In the world's youth, Goods and Ills entered human concerns equally,
+    so Goods did not make humans altogether blessed and Ills did not make them wholly
+    miserable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1301-1320; multiplication of Ills
+  quote_or_summary: Mankind's foolishness causes the Ills to multiply and grow strong
+    until they seem likely to exclude Goods from human affairs and banish them from
+    earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1301-1320; appeal to Jupiter
+  quote_or_summary: The Goods go to heaven, complain to Jupiter, and ask him for protection
+    from the Ills and advice about their intercourse with men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1301-1320; Jupiter's decree
+  quote_or_summary: Jupiter grants protection and decrees that Goods should not go
+    among men openly as a body, but singly, unobserved, infrequently, and unexpectedly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1301-1320; concluding explanation
+  quote_or_summary: The passage concludes that earth is full of Ills, which are never
+    far away, while Goods come one by one from heaven and are seldom seen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal passage elements are explicit. Motif assignments use broad available
+    taxonomy categories and should be reviewed. No passage-internal comparative claims
+    to other texts or traditions were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; comparison_claims left empty because the passage itself does not make a comparison to another tradition or corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1301-l1320
+  passage_sha256=f9a973879f54e16ae8879baaa800d16443275d40a59b8d20eef242ee00b1256f
+

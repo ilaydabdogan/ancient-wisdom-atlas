@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2075-l2086
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOY AND THE NETTLES / THE PEASANT AND THE APPLE-TREE / THE JACKDAW AND
+    THE PIGEONS / JUPITER AND THE TORTOISE; lines 2075-2086
+  start: '2075'
+  end: '2086'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jupiter prepares to marry and invites all animals to a banquet. The Tortoise
+    does not attend, explaining later that he prefers home. Annoyed, Jupiter decrees
+    that the Tortoise must carry his house on his back forever and cannot get away
+    from home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter is about to marry a wife and plans a banquet for the event.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All the animals are invited to the banquet.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: All the animals come except the Tortoise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jupiter later asks the Tortoise why he did not attend the banquet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Tortoise says he does not care for going out and says there is no place
+    like home.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jupiter is annoyed by the Tortoise's reply.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jupiter decrees that the Tortoise must carry his house on his back from then
+    onward.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The decree also prevents the Tortoise from getting away from home even if
+    he wishes to.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: A divine figure who prepares to marry, invites animals to a banquet,
+    questions the absent Tortoise, and decrees the Tortoise's condition.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tortoise
+  description: An animal who does not attend Jupiter's banquet, states a preference
+    for home, and is decreed to carry his house on his back.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the animals
+  description: The invited animal guests who attend Jupiter's banquet, except for
+    the Tortoise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Jupiter's wife-to-be
+  description: An unnamed wife whom Jupiter is about to marry.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wedding celebrant
+  assigned_to:
+  - fig:1
+  basis: Jupiter is about to marry and celebrate the event.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: banquet host
+  assigned_to:
+  - fig:1
+  basis: Jupiter invites all the animals to a banquet.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: decreeing punisher
+  assigned_to:
+  - fig:1
+  basis: Jupiter is annoyed and decrees the Tortoise's permanent condition.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: absent guest
+  assigned_to:
+  - fig:2
+  basis: The Tortoise does not appear at the banquet.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: recipient of decree
+  assigned_to:
+  - fig:2
+  basis: The decree is directed at the Tortoise and requires him to carry his house.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: invited banquet guests
+  assigned_to:
+  - fig:3
+  basis: The animals are invited and attend, apart from the Tortoise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: intended spouse
+  assigned_to:
+  - fig:4
+  basis: The passage says Jupiter was about to marry a wife.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: banquet
+  literal_form: banquet celebrating Jupiter's marriage
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: home
+  literal_form: the Tortoise's home, described as a preferred place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: house on the back
+  literal_form: the Tortoise carrying his house upon his back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jupiter's wedding banquet invitation
+  summary: Jupiter prepares to marry and invites all animals to a banquet for the
+    occasion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The Tortoise's absence and explanation
+  summary: The animals attend except for the Tortoise. Jupiter later asks the Tortoise
+    why he did not come, and the Tortoise says he prefers staying at home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Jupiter's decree
+  summary: Annoyed by the Tortoise's reply, Jupiter decrees that the Tortoise must
+    carry his house on his back and never be able to get away from home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine punishment explaining an animal trait
+  taxonomy_refs:
+  - divine_judgment
+  basis: A divine figure, Jupiter, reacts to the Tortoise's absence and explanation
+    by decreeing the permanent condition that the Tortoise carries his house on his
+    back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference captures the judgment aspect; the more specific
+    etiological animal-trait motif is not present in the supplied taxonomy list.
+- id: motif:2
+  label: marriage banquet of a divine figure
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage opens with Jupiter about to marry and inviting all animals to
+    a banquet celebrating the event.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The marriage is a setting for the fable rather than a developed sacred-marriage
+    episode.
+- id: motif:3
+  label: attachment to home made literal
+  taxonomy_refs: []
+  basis: The Tortoise says he does not like going out and prefers home; Jupiter's
+    decree makes the Tortoise permanently carry his house and remain unable to get
+    away from home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2075-2078
+  quote_or_summary: Jupiter is about to marry and decides to celebrate by inviting
+    all the animals to a banquet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2078-2080
+  quote_or_summary: The animals attend the banquet, but the Tortoise does not appear,
+    surprising Jupiter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 2080-2083
+  quote_or_summary: The Tortoise explains that he does not care for going out and
+    says, “there's no place like home.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 2083-2086
+  quote_or_summary: Jupiter is annoyed and decrees that the Tortoise must carry his
+    house on his back and never be able to get away from home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is partly approximate because the supplied taxonomy lacks a specific etiological
+    animal-trait category. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied “JUPITER AND THE TORTOISE” passage was used; other fable titles in the locator label were not treated as part of the passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2075-l2086
+  passage_sha256=3dbe0afb516a9d9321e76adc65c3ccd6a990887b471c88db3a96e1a94242a126
+

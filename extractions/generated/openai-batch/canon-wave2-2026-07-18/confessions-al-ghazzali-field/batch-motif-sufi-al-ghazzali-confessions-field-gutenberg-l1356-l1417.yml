@@ -1,0 +1,173 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1356-l1417
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: 'THE REALITY OF INSPIRATION: ITS IMPORTANCE FOR THE HUMAN RACE / FOOTNOTES
+    / THE ORIENT LIBRARY / THE WISDOM OF THE EAST SERIES; lines 1356-1417'
+  start: '1356'
+  end: '1417'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains footnotes glossing a phrase, identifying a location
+    in the Mosque of Omar, and noting a miracle ascribed to Muhammed. The remainder
+    is publication and series apparatus for The Orient Library / The Wisdom of the
+    East Series, including editors and advisory committee members.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Footnote [1] glosses a phrase as meaning that there is nothing new under the
+    sun.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Footnote [2] identifies a location as being in the Mosque of Omar.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Footnote [3] states that a miracle is ascribed to Muhammed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage gives a printer statement naming Hazell, Watson & Viney, Ltd.,
+    London and Aylesbury.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies The Orient Library / The Wisdom of the East Series
+    and names L. Cranmer-Byng and Dr. S. A. Kapadia as editors.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists the Honorary Advisory Committee of the Orient Library, including
+    officers and members.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Muhammed
+  description: Named in a footnote as the figure to whom a miracle is ascribed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: L. Cranmer-Byng and Dr. S. A. Kapadia
+  description: Named as editors of The Wisdom of the East Series.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Honorary Advisory Committee of the Orient Library
+  description: A named committee associated with The Orient Library / Wisdom of the
+    East Series; the passage lists officers and members.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: figure associated with an attributed miracle
+  assigned_to:
+  - fig:1
+  basis: The footnote says a miracle is ascribed to Muhammed.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: series editors
+  assigned_to:
+  - fig:2
+  basis: The series heading says it is edited by L. Cranmer-Byng and Dr. S. A. Kapadia.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: advisory committee
+  assigned_to:
+  - fig:3
+  basis: The passage introduces and lists the Honorary Advisory Committee of the Orient
+    Library / Wisdom of the East Series.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: miracle attributed to a named religious figure
+  taxonomy_refs: []
+  basis: A footnote states that a miracle is ascribed to Muhammed.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives no narrative description of the miracle and does not
+    provide enough context for a more specific motif classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1356-1358
+  quote_or_summary: 'Footnote [1]: “There is nothing new under the sun.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: line 1360
+  quote_or_summary: 'Footnote [2]: “In the Mosque of Omar.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: line 1362
+  quote_or_summary: 'Footnote [3]: “A miracle ascribed to Muhammed.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: line 1364
+  quote_or_summary: Printer statement naming Hazell, Watson & Viney, Ltd., London
+    and Aylesbury.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1366-1372
+  quote_or_summary: Series apparatus identifies The Orient Library / The Wisdom of
+    the East Series and says it is edited by L. Cranmer-Byng and Dr. S. A. Kapadia.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1374-1417
+  quote_or_summary: The passage names the Honorary Advisory Committee of the Orient
+    Library / Wisdom of the East Series, including its president, chairman, honorary
+    secretaries, and members.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but this line range is mostly footnotes
+    and publication apparatus. The only motif-like item is an unexplained reference
+    to a miracle ascribed to Muhammed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols, narrative scenes, or comparison claims are supported by the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1356-l1417
+  passage_sha256=485c0bca9e1ba4cf9f18b04bd533db4c86e92d07984cb5b9881102ef7f9a1cae
+

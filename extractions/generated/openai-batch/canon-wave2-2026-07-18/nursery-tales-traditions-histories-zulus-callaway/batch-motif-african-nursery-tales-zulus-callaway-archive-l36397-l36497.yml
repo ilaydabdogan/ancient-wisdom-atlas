@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l36397-l36497
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UTIKOLOSHE. / THE  ABATWA. / THE  ABATWA.; lines 36397-36497
+  start: '36397'
+  end: '36497'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the Abatwa as living in rocky country without fixed
+    villages, consuming game where they kill it and then moving on. It recounts a
+    dangerous encounter etiquette: an Umutwa asks a traveler where he was seen; a
+    truthful answer that he was seen nearby causes anger and fatal shooting, while
+    saying he was seen from a distant mountain pleases him because it magnifies him.
+    It also says that Abatwa traveling after game is exhausted ride together along
+    a horse from neck to tail, and eat the horse if no game is found.'
+  language: English translation with Zulu source text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Abatwa are described as being in rocky country and having no fixed village
+    identifiable as an Abatwa village.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their village is described as the place where they kill game; they consume
+    the game and then leave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When a traveler suddenly encounters an Umutwa, the Umutwa asks where the traveler
+    saw him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A traveler who says he saw the Umutwa in that very place angers the Umutwa,
+    who shoots him with a bow, causing his death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the Abatwa like to be magnified and hate their littleness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A later mode of salutation says the traveler saw the Umutwa from a distant
+    mountain; the Umutwa rejoices and says he has become great.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When Abatwa travel after game has ended where they lived, they mount a horse
+    in a row from the neck to the tail.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If the Abatwa do not find game, they eat the horse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A note explains that the Zulu salutation is “Sa ku bona,” translated “We saw
+    you,” and that the passage uses a play on these words.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abatwa
+  description: A people described as living in rocky country without fixed villages,
+    subsisting on game, disliking their smallness, and traveling together on a horse
+    when game is exhausted.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Umutwa
+  description: An individual member of the Abatwa who asks where he was seen, becomes
+    angry if treated as small or nearby, shoots an offending traveler, and rejoices
+    when told he was seen from a distant mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: traveler or man
+  description: A man on a journey who encounters an Umutwa; one version gives a truthful
+    answer and is killed, while the established salutation gives an answer that magnifies
+    the Umutwa.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: nomadic game-hunters
+  assigned_to:
+  - fig:1
+  basis: The passage says their dwelling is in rocky country, their village is where
+    they kill game, and they eat the game and move on.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dangerous encounter-partner
+  assigned_to:
+  - fig:2
+  basis: The Umutwa questions the traveler, becomes angry at being perceived as nearby
+    or small, and shoots the man with a bow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: saluting traveler
+  assigned_to:
+  - fig:3
+  basis: The man’s spoken response determines the outcome of the encounter, from death
+    after a nearby-sighting answer to safety after a distant-mountain answer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: collective travelers
+  assigned_to:
+  - fig:1
+  basis: The passage describes Abatwa traveling together on a horse after game is
+    exhausted.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rocky country
+  literal_form: rocks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: game
+  literal_form: game animals used as food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: bow
+  literal_form: bow used to shoot the traveler
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: distant mountain
+  literal_form: mountain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: horse
+  literal_form: horse ridden from neck to tail and eaten if no game is found
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: salutation formula
+  literal_form: "“Sa ku bona” / “We saw you”"
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Abatwa dwelling and subsistence
+  summary: The Abatwa are described as living in rocky country without fixed villages,
+    making the kill-site their temporary village, eating the game, and moving away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: fatal nearby-sighting answer
+  summary: A traveler meets an Umutwa, says he saw him in that very place, and the
+    Umutwa, feeling despised, shoots him with a bow and kills him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: magnifying mountain salutation
+  summary: People learn to greet the Umutwa with a statement that he was seen from
+    a distant mountain; the Umutwa rejoices that he has become great.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Abatwa traveling on a horse
+  summary: After the game is exhausted, the Abatwa ride a horse in a line from neck
+    to tail; if they find no game, they eat the horse.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: kill-site as temporary village
+  taxonomy_refs: []
+  basis: The Abatwa have no fixed village; their village is where they kill and consume
+    game before moving on.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as a description of Abatwa life rather than a developed
+    narrative plot.
+- id: motif:2
+  label: dangerous encounter with a small being requiring magnifying speech
+  taxonomy_refs: []
+  basis: The Umutwa kills a traveler who says he saw him nearby, while rejoicing when
+    told he was seen from a distant mountain because this makes him feel great.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly identify the Abatwa as supernatural; extraction
+    should remain at the level of the narrated encounter etiquette.
+- id: motif:3
+  label: protective salutation based on wordplay
+  taxonomy_refs: []
+  basis: The successful greeting turns the formula “we saw you” into an answer that
+    flatters the Umutwa by claiming distant visibility.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The wordplay is explained in a collector’s note; details may depend on
+    Zulu linguistic context.
+- id: motif:4
+  label: many small travelers riding one horse and eating it if game is absent
+  taxonomy_refs: []
+  basis: The passage says the Abatwa sit one behind another on a horse from neck to
+    tail, and eat the horse if they find no game.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the episode briefly, without a larger plot context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36397-36497; English translation, opening paragraph beginning “country
+    in the rocks”
+  quote_or_summary: The Abatwa are in rocky country, have no fixed village, and their
+    village is where they kill game; they eat it and go away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 36397-36497; English translation, paragraph beginning “But it happens
+    if a man is on a journey”
+  quote_or_summary: A traveler who meets an Umutwa is asked where he saw him; saying
+    “in this very place” angers the Umutwa, who shoots the man with his bow and the
+    man dies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 36397-36497; English translation, paragraph beginning “Therefore
+    it was seen”
+  quote_or_summary: The Abatwa are said to like being magnified and to hate their
+    littleness; a traveler says he saw the Umutwa from a distant mountain, and the
+    Umutwa rejoices that he has become great.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 36397-36497; English translation, paragraph beginning “It is said,
+    when Abatwa are on a journey”
+  quote_or_summary: When game is exhausted, the Abatwa mount a horse in a row from
+    neck to tail; if they find no game, they eat the horse.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: note
+  locator: lines 36397-36497; footnote 12
+  quote_or_summary: The note explains that the Zulu salutation “Sa ku bona” means
+    “We saw you,” producing the play on words in the encounter.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong from the supplied English translation. Motif
+    labels are descriptive and not tied to external taxonomy except for the literal
+    mountain symbol. No comparison claims were added because the passage itself does
+    not explicitly compare the material with another corpus or named motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The Abatwa/Umutwa terminology is retained as given in the source.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l36397-l36497
+  passage_sha256=13c036e16abd9b47c5d29c118eba2175ba8211948b14765c52b0cb0e4889b6f4
+

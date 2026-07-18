@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l12330-l12357
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: REMARKS    ON   PRECEDING    STORY.  217 / THE    CAT'S    SONG.  221 / THE    CAT'S    SONG.
+    / THE   SONG   OP   THE   CAAMA   FOX.  223; lines 12330-12357
+  start: '12330'
+  end: '12357'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A short song or remark fragment titled as the song of the Caama Fox contrasts
+    Cat and Lynx. Lynx is described as understanding and cunning, while Cat is said
+    not to understand, nevertheless to be cunning, and to be the one unable to run
+    fast. The passage closes with transcribed song-like syllables or vocables.
+  language: English with transcribed non-English or vocable elements
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section heading identifies the passage as a song of the Caama Fox.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed “it” is said to have done foolish things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Lynx is described as one who understands.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Cat is said not to understand.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cat is nevertheless described as cunning.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Cat is identified as the one about whom the Lynx talked.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A quoted statement identifies the one in question as unable to run fast.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The text says that it had to be cunning and then states that the Lynx is cunning.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage includes short transcribed lines and repeated syllables resembling
+    song vocables.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cat
+  description: An animal figure described as not understanding, nevertheless cunning,
+    and associated with an inability to run fast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lynx
+  description: An animal figure described as understanding and cunning, and as having
+    talked about the Cat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Caama Fox
+  description: An animal named in the passage heading; no action by this figure is
+    described in the excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: understanding and cunning animal
+  assigned_to:
+  - fig:2
+  basis: The Lynx is described as one who understands and as one who is cunning.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: cunning but limited animal
+  assigned_to:
+  - fig:1
+  basis: The Cat is said not to understand, nevertheless to be cunning, and to be
+    unable to run fast.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: animal who talked about another animal
+  assigned_to:
+  - fig:2
+  basis: The text says the Cat is the one about whom the Lynx talked.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: title-named animal
+  assigned_to:
+  - fig:3
+  basis: The heading names the Caama Fox as the subject of the song title.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Cat
+  literal_form: Cat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Lynx
+  literal_form: Lynx
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Caama Fox
+  literal_form: Caama Fox
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Animal contrast in song fragment
+  summary: The excerpt presents a song or remark in which Lynx is characterized by
+    understanding and cunning, while Cat is characterized by lack of understanding,
+    slowness, and also cunning. The fragment includes transcribed song-like syllables.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Cunning as compensation for inability to run fast
+  taxonomy_refs: []
+  basis: The text identifies the one associated with Cat as unable to run fast and
+    then says it had to be cunning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pronoun in “It had to be cunning” is resolved from the immediate context;
+    the excerpt is fragmentary.
+- id: motif:2
+  label: Contrasted animal capacities
+  taxonomy_refs: []
+  basis: Lynx is described as understanding and cunning, while Cat is said not to
+    understand but nevertheless to be cunning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a securely identified cross-cultural
+    motif.
+- id: motif:3
+  label: Animal song with repeated vocables
+  taxonomy_refs: []
+  basis: The heading presents the passage as a song, and the closing lines contain
+    repeated transcribed syllables.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The function and meaning of the vocables are not explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12330-12357, heading
+  quote_or_summary: "“THE   SONG   OP   THE   CAAMA   FOX.  223”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 12330-12357
+  quote_or_summary: "“It did foolish things;”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 12330-12357
+  quote_or_summary: "“the Lynx is one who understands” and “The Cat does not understand.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 12330-12357
+  quote_or_summary: "“The Cat (nevertheless) is cunning.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 12330-12357
+  quote_or_summary: "“The Cat is the one about whom the Lynx talked” and “It is the
+    one who could not run fast.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 12330-12357
+  quote_or_summary: "“It had to be cunning. For, the Lynx is one who is cunning.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 12330-12357, closing lines
+  quote_or_summary: The passage includes short transcribed lines and repeated syllables
+    such as Haggla/Heggli-like vocables.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; neutral summary of provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and partly fragmentary, with ambiguous pronouns and
+    song vocables. No external comparison claims are made because the passage itself
+    does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the animal and song patterns are retained as passage-level candidate motifs only.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l12330-l12357
+  passage_sha256=8960ee6d65bc32a4b152b84f34abb17a7619408ecec42c453339b68ef416af67
+

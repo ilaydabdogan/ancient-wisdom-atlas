@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l30161-l30177
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  36 / PLATE  NO.  37 / PLATE  NO.  38 / PLATE  NO.  39; lines
+    30161-30177
+  start: '30161'
+  end: '30177'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a relief on the top of a Kudurru or boundary stone.
+    It shows Merodach-baladan, king of Babylon, conferring title to landed property
+    on one of his nobles. A two-line inscription identifies the portrait, and divine
+    symbols at the top represent Nabu, Ninkharsag or Ninlil, Ea, and Marduk. The stone
+    is identified as being in the Berlin Museum.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described object is a relief from the top of a Kudurru, or boundary stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The relief contains a portrait of Merodach-baladan, king of Babylon.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Merodach-baladan is represented as conferring title to landed property upon
+    one of his nobles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A two-line inscription above the king's head identifies the portrait.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A series of symbols of gods appears at the top of the stone.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The divine symbols are listed from left to right as Nabu, Ninkharsag or Ninlil,
+    Ea, and Marduk.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stone is located in the Berlin Museum and is identified by the museum
+    number V. A. 2663.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Merodach-baladan
+  description: King of Babylon whose portrait appears on the relief and who is shown
+    conferring title to landed property.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed noble
+  description: One of Merodach-baladan's nobles, represented as the recipient of title
+    to landed property.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nabu
+  description: A god represented by one of the symbols at the top of the stone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ninkharsag or Ninlil
+  description: A god or goddess represented by one of the symbols at the top of the
+    stone; the passage gives the identification as Ninkharsag or Ninlil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ea
+  description: A god represented by one of the symbols at the top of the stone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Marduk
+  description: A god represented by one of the symbols at the top of the stone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king of Babylon
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Merodach-baladan as king of Babylon in both the description
+    and the inscription.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: conferrer of landed-property title
+  assigned_to:
+  - fig:1
+  basis: The relief represents him conferring title to landed property.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: noble recipient of land title
+  assigned_to:
+  - fig:2
+  basis: The recipient is described as one of the king's nobles receiving title to
+    landed property.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deity represented by symbol
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage states that symbols of gods at the top of the stone represent
+    these named deities.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Kudurru or boundary stone
+  literal_form: Stone monument described as a Kudurru, or boundary stone.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Royal portrait relief
+  literal_form: Relief portrait of Merodach-baladan on the top of the boundary stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Identifying inscription
+  literal_form: Two-line inscription above the king's head identifying the portrait.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Series of divine symbols
+  literal_form: Symbols of gods at the top of the stone, representing Nabu, Ninkharsag
+    or Ninlil, Ea, and Marduk.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Royal land-title conferral on a boundary stone
+  summary: The relief shows Merodach-baladan, identified as king of Babylon, conferring
+    title to landed property upon one of his nobles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine symbols above the royal image
+  summary: At the top of the boundary stone is a left-to-right sequence of divine
+    symbols representing Nabu, Ninkharsag or Ninlil, Ea, and Marduk.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Royal conferral of landed-property title
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage depicts a Babylonian king, explicitly identified by inscription,
+    conferring title to landed property on a noble through an image on a boundary
+    stone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an artifact description rather than a mythic narrative;
+    it does not explicitly state a theory of royal legitimacy beyond the king's named
+    status and action.
+- id: motif:2
+  label: Royal act framed by divine symbols
+  taxonomy_refs: []
+  basis: The relief's royal land-title scene is described together with a series of
+    divine symbols placed at the top of the stone.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The passage does not explicitly say that the gods witness, authorize,
+    or sanction the land grant; that function should not be assumed without additional
+    evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30161-30166
+  quote_or_summary: A relief from the top of a Kudurru or boundary stone contains
+    a portrait of Merodach-baladan, king of Babylon, shown conferring title to landed
+    property on one of his nobles.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain per supplied metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 30166-30168
+  quote_or_summary: '"The portrait of Merodach-baladan, king of Babylon."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain per supplied metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 30168-30171
+  quote_or_summary: At the top is a series of symbols of gods, representing from left
+    to right Nabu, Ninkharsag or Ninlil, Ea, and Marduk.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain per supplied metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30171-30172
+  quote_or_summary: The stone is now in the Berlin Museum and is identified as V.
+    A. 2663.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain per supplied metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30174-30175
+  quote_or_summary: The illustration is credited to Carl Bezold, Ninive rid Babylon,
+    third edition, Leipzig, 1909.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain per supplied metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The artifact description is clear, but motif identification is limited because
+    the passage does not provide an explicit mythic narrative or explanatory interpretation
+    of the divine symbols.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage itself does not make or support a specific comparison to another text, tradition, or motif family beyond the supplied taxonomy candidate.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l30161-l30177
+  passage_sha256=8d3b0e913d6574aa5715855f988a4b8c78cb2b4e0680e6840ed8883f4c14457d
+

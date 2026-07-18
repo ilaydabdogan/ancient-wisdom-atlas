@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4698-l4726
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WILY LION / THE PARROT AND THE CAT / THE STAG AND THE LION / THE IMPOSTOR;
+    lines 4698-4726
+  start: '4698'
+  end: '4726'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two fables are presented. In the first, a stag fleeing hounds hides in
+    a cave, but the cave contains a lion who kills him; the appended moral says this
+    is like passing from one danger to a worse one. In the second, an ill man vows
+    to sacrifice one hundred oxen to the gods if healed; after recovery he substitutes
+    tallow oxen, and the gods punish the deceit through a dream that leads him to
+    robbers, enslavement, and sale for one hundred crowns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A stag is chased by hounds and seeks refuge in a cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cave contains a lion, and the stag becomes the lion's prey.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stag states that he has escaped the dogs only to fall into the lion's
+    clutches.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An ill man vows to sacrifice one hundred oxen to the gods if they restore
+    his health.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gods cause the man to recover in order to see how he will keep the vow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Because he has no oxen, the man makes one hundred small oxen out of tallow
+    and offers them on an altar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The man calls the gods to witness that he has discharged his vow.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The gods send the man a dream instructing him to go to the sea-shore to fetch
+    one hundred crowns.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Robbers seize the man, carry him off for sale as a slave, and he is sold for
+    one hundred crowns.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Each fable ends with a moral statement.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: A stag fleeing hounds who enters a cave and is killed by a lion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hounds / dogs
+  description: The pursuing dogs from whom the stag seeks safety.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lion
+  description: A lion inside the cave who makes the stag his prey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ill man / impostor
+  description: A man who vows a sacrifice for restored health and later substitutes
+    tallow oxen for real oxen.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Gods
+  description: Divine recipients of the man's vow who restore his health and later
+    send a dream leading to his punishment.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Robbers
+  description: A band of robbers who seize the man, carry him off, and sell him as
+    a slave.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: fugitive
+  assigned_to:
+  - fig:1
+  basis: The stag is chased by hounds and takes refuge in a cave.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prey
+  assigned_to:
+  - fig:1
+  basis: The stag falls prey to the lion inside the cave.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pursuers
+  assigned_to:
+  - fig:2
+  basis: The hounds chase the stag before he enters the cave.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: predator in refuge
+  assigned_to:
+  - fig:3
+  basis: The lion is inside the cave where the stag seeks safety and kills him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: vow-maker
+  assigned_to:
+  - fig:4
+  basis: The man promises a sacrifice of one hundred oxen if restored to health.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: deceptive performer of vow
+  assigned_to:
+  - fig:4
+  basis: The man has no oxen and instead offers small tallow oxen while claiming the
+    vow is discharged.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine healers
+  assigned_to:
+  - fig:5
+  basis: The gods cause the man to recover after his vow.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: divine punishers
+  assigned_to:
+  - fig:5
+  basis: The gods send a dream that results in the man's capture and sale.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: captors and sellers
+  assigned_to:
+  - fig:6
+  basis: The robbers seize the man, carry him off, and sell him as a slave.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave as refuge and trap
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: one hundred oxen vowed
+  literal_form: a hundred oxen
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tallow substitute oxen
+  literal_form: a hundred little oxen made out of tallow
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: altar
+  literal_form: altar
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: divine dream instruction
+  literal_form: dream commanding the man to go to the sea-shore for a hundred crowns
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: hundred crowns
+  literal_form: a hundred crowns
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: sea-shore destination
+  literal_form: sea-shore
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Stag seeks refuge in the cave
+  summary: The stag, pursued by hounds, enters a cave hoping to be safe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refuge becomes fatal danger
+  summary: The cave contains a lion, and the stag is killed after escaping the dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ill man vows sacrifice for healing
+  summary: A sick man promises to sacrifice one hundred oxen to the gods if they restore
+    him to health, and the gods grant recovery.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Substitute offering on the altar
+  summary: Having no oxen, the man offers one hundred tallow oxen and declares the
+    vow fulfilled.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Dream, capture, and sale
+  summary: The gods send a dream promising one hundred crowns at the sea-shore; the
+    man goes there, is seized by robbers, and is sold as a slave for that amount.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: escape from one danger into a worse danger
+  taxonomy_refs: []
+  basis: The stag escapes the dogs by entering a cave, but the cave contains a lion
+    who kills him; the moral explicitly frames this as moving from one danger to a
+    worse one.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this danger-to-worse-danger
+    pattern.
+- id: motif:2
+  label: vowed sacrifice in exchange for healing
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The man promises a sacrifice of one hundred oxen to the gods if they restore
+    his health.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a fable vow rather than a detailed ritual
+    account.
+- id: motif:3
+  label: deceptive substitute offering punished by gods
+  taxonomy_refs:
+  - sacrifice
+  - divine_judgment
+  basis: The man substitutes tallow oxen for the promised real oxen, and the gods
+    respond by sending a dream that leads to his enslavement and sale.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The text does not describe formal trial or judgment; the judgment is inferred
+    from the gods' retaliatory action.
+- id: motif:4
+  label: dream as divine instrument of punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The gods send a dream commanding the man to go to the sea-shore, where he
+    is captured and sold.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The dream is a narrative device within a short fable; the passage does
+    not elaborate a broader dream-revelation tradition.
+- id: motif:5
+  label: fable moral as practical wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: 'The fables close with moral formulations: one about passing into greater
+    danger and one about not promising beyond one''s ability to perform.'
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: This identifies a didactic function rather than a specific mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4698-4701
+  quote_or_summary: A stag is chased by hounds and takes refuge in a cave, hoping
+    to be safe from pursuit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 4701-4704
+  quote_or_summary: The cave contains a lion; the stag becomes easy prey and says
+    he has escaped the dogs only to fall into the lion's clutches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: '4706'
+  quote_or_summary: '"Out of the frying-pan into the fire."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 4710-4713
+  quote_or_summary: A badly ill man vows to sacrifice one hundred oxen to the gods
+    if they grant him restored health.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 4713-4714
+  quote_or_summary: The gods cause the man to recover quickly in order to see how
+    he will keep the vow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 4714-4718
+  quote_or_summary: Lacking any oxen, the man makes one hundred little oxen from tallow,
+    offers them on an altar, and calls the gods to witness that he has fulfilled his
+    vow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 4718-4721
+  quote_or_summary: The gods decide to be even with the man and send him a dream bidding
+    him to go to the sea-shore to fetch one hundred crowns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 4721-4725
+  quote_or_summary: At the shore, robbers seize the man, carry him off to be sold
+    as a slave, and he fetches one hundred crowns when sold.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: quote
+  locator: '4726'
+  quote_or_summary: '"Do not promise more than you can perform."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif-family assignments use only supplied taxonomy references and should be reviewed
+    for atlas consistency. No comparison claims were added because the passage does
+    not itself compare traditions or corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The user-supplied locator label mentions additional fables, but the provided passage text for this record contains only THE STAG AND THE LION and THE IMPOSTOR; extraction is limited to the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4698-l4726
+  passage_sha256=4292155263ebde539d8be027a19c9b84307fad799fa2a73a89ed7904943f9496
+

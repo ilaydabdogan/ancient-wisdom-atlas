@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l12468-l12520
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I       I       I / TCIIET-S / I  I  I  I / AAAAAA; lines 12468-12520
+  start: '12468'
+  end: '12520'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists a sequence of gods. Nerta is described with both hands
+    raised in adoration. Aaui-f-em-kha-nef is described as having two snakes' heads
+    in place of a human head, with hands and arms concealed. Apt-taui is also described
+    with hands and arms concealed. Mer-en-aaui-f, Au-en-aaui-f, Keset-afu (?), Tepui,
+    and Tua-Heru are named in a sequence with repeated or nearby notes about similar
+    form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nerta is called a god and is described with both hands raised in adoration.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aaui-f-em-kha-nef is called a god and is described as having two snakes' heads
+    in place of a human head.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aaui-f-em-kha-nef is described with hands and arms concealed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Apt-taui is called a god and is described with hands and arms concealed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mer-en-aaui-f is called a god and is described in relation to the preceding
+    form.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Au-en-aaui-f is called a god and is described with similar-form wording.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Keset-afu (?) is called a god and appears in the same similar-form sequence.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Tepui is called a god and appears in the same sequence of named deities.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Tua-Heru is called a god and is described as being in similar form.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nerta
+  description: God with both hands raised in adoration.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aaui-f-em-kha-nef
+  description: God with two snakes' heads in place of a human head; hands and arms
+    concealed.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Apt-taui
+  description: God whose hands and arms are concealed.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mer-en-aaui-f
+  description: God described in relation to the preceding form.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Au-en-aaui-f
+  description: God described with similar-form wording.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Keset-afu (?)
+  description: God named in the similar-form sequence.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Tepui
+  description: God named in the sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Tua-Heru
+  description: God described as being in similar form.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: god
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Each named figure is introduced as a god in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: adoring figure
+  assigned_to:
+  - fig:1
+  basis: Nerta is described with both hands raised in adoration.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: serpent-headed figure
+  assigned_to:
+  - fig:2
+  basis: Aaui-f-em-kha-nef has two snakes' heads in place of a human head.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: concealed-limbed figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Aaui-f-em-kha-nef and Apt-taui are explicitly described with hands and arms
+    concealed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: similar-form figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  basis: The passage uses preceding/similar-form wording for these named gods; OCR
+    layout makes the exact repetition somewhat unclear.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: two snakes' heads
+  literal_form: two snakes' heads in the place of a human head
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: raised hands in adoration
+  literal_form: both hands raised in adoration
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Register of named gods with iconographic attributes
+  summary: 'The passage presents a sequence of deities and their forms: Nerta in adoration,
+    Aaui-f-em-kha-nef with two snakes'' heads and concealed limbs, Apt-taui with concealed
+    limbs, and several further gods described through similar-form wording.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: serpent-headed deity
+  taxonomy_refs:
+  - serpent
+  basis: Aaui-f-em-kha-nef is described as having two snakes' heads in place of a
+    human head.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives an iconographic description but does not state a narrative
+    function for the serpent heads.
+- id: motif:2
+  label: adoration by raised hands
+  taxonomy_refs: []
+  basis: Nerta is described with both hands raised in adoration.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage identifies the gesture but does not explain its ritual or
+    narrative role.
+- id: motif:3
+  label: concealed hands and arms
+  taxonomy_refs: []
+  basis: Aaui-f-em-kha-nef and Apt-taui are both explicitly described with hands and
+    arms concealed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: Later similar-form wording may imply repeated form, but the OCR/layout
+    is unclear; the motif is limited to the explicit concealed-limb descriptions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12468-12475
+  quote_or_summary: The entry names Nerta as a god and states that both hands are
+    raised in adoration.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 12476-12487
+  quote_or_summary: The entry names Aaui-f-em-kha-nef as a god with two snakes' heads
+    in place of a human head, and says his hands and arms are concealed.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 12488-12492
+  quote_or_summary: The entry names Apt-taui as a god and states that his hands and
+    arms are concealed.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 12493-12496
+  quote_or_summary: The entry names Mer-en-aaui-f as a god and includes wording linking
+    his form to the preceding figure.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 12497-12499
+  quote_or_summary: The entry names Au-en-aaui-f as a god and includes similar-form
+    wording.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 12500-12506
+  quote_or_summary: The entry names Keset-afu (?) as a god and appears with nearby
+    similar-form wording in the same sequence.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 12505-12512
+  quote_or_summary: The passage names Tepui as a god in the same sequence of entries.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 12513-12520
+  quote_or_summary: The entry names Tua-Heru as a god and states that he is in similar
+    form.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied English passage only. OCR and layout
+    are fragmentary, especially around the repeated similar-form descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these figures to another text, motif family, or tradition beyond the supported serpent taxonomy reference.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l12468-l12520
+  passage_sha256=f8f1c29e2950ea7e0449d069b12b4d2eeaa41d8fc82952357b97285a09b260bf
+

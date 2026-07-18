@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l1715-l1740
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  5 / CUNEIFORM  PARALLELS / THE  STORY  OF  CREATION  9
+    / THE    SECOND    TABLET; lines 1715-1740
+  start: '1715'
+  end: '1740'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Tiamat strengthens her work, devises evil among her divine children, plans
+    vengeance for Apsu, and marshals an army against Ea. Ea hears, is sorrowful, then
+    goes to his father Anshar and reports that Tiamat, called their mother, hates
+    them, has made an assembly, rages, and has gods marching at her side.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tiamat makes her handiwork strong.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tiamat devises evil among the gods described as her children and plans evil
+    to avenge Apsu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tiamat collects and marshals an army against Ea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ea hears the report, is afflicted and sorrowful, and later his anger is appeased.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ea goes to Anshar, identified as his father who begat him, and announces what
+    Tiamat has planned.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ea reports that Tiamat, called their mother, has conceived hatred, made an
+    assembly, rages in anger, and has gods marching at her side.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tiamat
+  description: Divine mother figure who strengthens her handiwork, plans evil to avenge
+    Apsu, gathers an army against Ea, and is reported to rage in anger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Ea
+  description: Figure against whom Tiamat marshals forces; he hears the report, becomes
+    sorrowful, then goes to Anshar and announces Tiamat's plans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Anshar
+  description: Ea's father, described as the father who begat him, before whom Ea
+    reports Tiamat's plans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Apsu
+  description: Figure named as the one whom Tiamat seeks to avenge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the gods, Tiamat's children
+  description: Gods described as Tiamat's children, among whom she devises evil; Ea
+    reports that all the gods have turned to her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: created gods at Tiamat's side
+  description: Those described as created by the addressees and as marching at Tiamat's
+    side.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hostile divine mother and avenger
+  assigned_to:
+  - fig:1
+  basis: Tiamat is called mother, plans vengeance for Apsu, conceives hatred, and
+    gathers forces.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: threatened reporting son
+  assigned_to:
+  - fig:2
+  basis: Tiamat marshals forces against Ea, and Ea goes to his father Anshar to report
+    her plans.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: divine father receiving report
+  assigned_to:
+  - fig:3
+  basis: Anshar is identified as Ea's father and receives Ea's announcement.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: avenged figure
+  assigned_to:
+  - fig:4
+  basis: Tiamat's plan is described as vengeance for Apsu.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine host allied with Tiamat
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Ea reports that all the gods have turned to Tiamat and that created gods
+    march at her side.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: martial assembly
+  literal_form: Tiamat's collected army and assembly of gods
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tiamat prepares vengeance against Ea
+  summary: Tiamat strengthens her handiwork, plans evil to avenge Apsu, and marshals
+    an army against Ea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ea reacts to the threat
+  summary: Ea hears the report, is sorrowful, and after time passes his anger is appeased.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ea reports to Anshar
+  summary: Ea goes to Anshar his father and reports Tiamat's hatred, assembly, rage,
+    and divine allies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine parent-child conflict
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Tiamat is called mother and is said to hate the group that includes her divine
+    children, while Ea goes to his father Anshar for report and response.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage preserves a conflict and kinship language, but does not yet
+    narrate the outcome.
+- id: motif:2
+  label: avenging divine war assembly
+  taxonomy_refs: []
+  basis: Tiamat plans vengeance for Apsu and gathers an army or assembly of gods against
+    Ea.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family precisely names this war-assembly pattern.
+- id: motif:3
+  label: divine disorder through hostile assembly
+  taxonomy_refs:
+  - chaos
+  basis: The passage depicts anger, hatred, and a broad alignment of gods with Tiamat
+    against Ea.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly use the term chaos; the taxonomy link
+    is based only on the depicted divine conflict and disorder.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1717-1721
+  quote_or_summary: Tiamat strengthens her handiwork, devises evil among the gods
+    her children, plans to avenge Apsu, and marshals a collected army against Ea.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1722-1726
+  quote_or_summary: Ea hears the word, is afflicted and sits in sorrow; after days
+    pass his anger is appeased.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1728-1732
+  quote_or_summary: Ea goes to the place of Anshar, his father, stands before the
+    father who begat him, and announces all that Tiamat planned.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1733-1736
+  quote_or_summary: Ea reports that Tiamat, called their mother, has conceived hatred,
+    made an assembly, rages in anger, and has gods, including created gods, marching
+    at her side.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main English narrative is clear, but parts are bracketed or fragmentary and
+    the final transliterated lines are not interpreted here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this episode to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l1715-l1740
+  passage_sha256=415f490f8dff9f7f7aa7fa44b12f6d7215280399ed981f9c8d9b6d689e06a91e
+

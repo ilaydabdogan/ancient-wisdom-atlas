@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2966-l2988
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HOUND AND THE HARE / THE LION, THE MOUSE, AND THE FOX / THE TRUMPETER
+    TAKEN PRISONER / THE WOLF AND THE CRANE; lines 2966-2988
+  start: '2966'
+  end: '2988'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A trumpeter captured in battle pleads that he has killed no one and carries
+    only a trumpet; his captors say this is more reason to kill him because he incites
+    others to fight. In a second fable, a wolf with a bone in his throat promises
+    reward to a crane for removing it, but after the crane helps him he refuses payment
+    and says her survival after putting her head in his mouth is reward enough.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A trumpeter marches at the front of an army and encourages his comrades with
+    warlike tunes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After being captured by the enemy, the trumpeter begs for his life and says
+    he has killed no one and carries no weapon other than his trumpet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The captors answer that the trumpeter's role in stirring others to fight is
+    a reason to take his life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A wolf has a bone stuck in his throat and asks a crane to remove it with her
+    long bill.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wolf promises to make the crane's help worth her while.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The crane removes the bone from the wolf's throat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When the crane asks for her fee, the wolf bares his teeth and says that escaping
+    with her head unbitten from a wolf's mouth is enough.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Trumpeter
+  description: A battle trumpeter who inspires comrades, is captured, and pleads for
+    his life.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Comrades
+  description: Members of the trumpeter's army whom he encourages with warlike tunes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Enemy captors
+  description: The enemy group that captures the trumpeter and answers his plea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Wolf
+  description: A wolf with a bone stuck in his throat who seeks help from a crane
+    and later refuses payment.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Crane
+  description: A crane with a long bill who removes a bone from the wolf's throat
+    and asks for a fee.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: battle encourager
+  assigned_to:
+  - fig:1
+  basis: The trumpeter puts courage into comrades by playing warlike tunes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captive pleader
+  assigned_to:
+  - fig:1
+  basis: After capture, the trumpeter begs for his life and denies having killed anyone.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: encouraged fighters
+  assigned_to:
+  - fig:2
+  basis: The comrades are the ones encouraged by the trumpeter's tunes.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: punishing captors
+  assigned_to:
+  - fig:3
+  basis: The captors state that the trumpeter should die because he stirs others to
+    fight.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: endangered patient
+  assigned_to:
+  - fig:4
+  basis: The wolf has a bone stuck in his throat and needs it removed.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ungrateful debtor
+  assigned_to:
+  - fig:4
+  basis: After receiving help, the wolf refuses the requested fee and presents spared
+    life as enough reward.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: helper healer
+  assigned_to:
+  - fig:5
+  basis: The crane inserts her long bill and removes the bone.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: unpaid helper
+  assigned_to:
+  - fig:5
+  basis: The crane asks for the promised fee after performing the task.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: trumpet
+  literal_form: The trumpeter's trumpet, described as the only thing he carries instead
+    of weapons.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: warlike tunes
+  literal_form: Sounds played by the trumpet to put courage into comrades.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bone in throat
+  literal_form: A bone stuck in the wolf's throat.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: crane's long bill
+  literal_form: The crane's long bill used to reach into the wolf's throat and pull
+    out the bone.
+  associated_figures:
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: wolf's mouth and teeth
+  literal_form: The wolf's mouth, into which the crane puts her head, and the bared
+    teeth shown when refusing payment.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Trumpeter captured and judged by captors
+  summary: A battle trumpeter is captured, argues that he has not personally killed
+    anyone, and is answered that inciting others to fight makes him more blameworthy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Crane removes bone from wolf's throat
+  summary: A wolf with a bone stuck in his throat asks a crane for help and promises
+    reward; the crane uses her long bill to remove the bone.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Wolf refuses the crane's fee
+  summary: After the crane asks for payment, the wolf bares his teeth and says that
+    not being bitten after placing her head in his mouth is sufficient reward.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: indirect instigator held responsible for violence
+  taxonomy_refs: []
+  basis: The trumpeter claims he killed no one, but the captors condemn him because
+    he encouraged others to fight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable-level ethical pattern rather than a supported match to
+    one of the supplied mythic motif-family taxonomy IDs.
+- id: motif:2
+  label: dangerous helper rewarded only with survival
+  taxonomy_refs: []
+  basis: The crane performs a risky service by putting her head in the wolf's mouth,
+    but the wolf denies payment and says not being bitten is enough.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy symbol or motif-family ID directly matches this animal-fable
+    pattern.
+- id: motif:3
+  label: broken promise of payment after service
+  taxonomy_refs: []
+  basis: The wolf promises to make the crane's help worthwhile, receives the service,
+    and then refuses the fee.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports the exchange pattern literally; broader classification
+    would require external comparison not provided here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2966-2970
+  quote_or_summary: A trumpeter marched in the van of the army and put courage into
+    comrades by warlike tunes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2970-2974
+  quote_or_summary: Captured by the enemy, the trumpeter begs for his life, saying
+    he has killed no one and carries only his trumpet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2974-2977
+  quote_or_summary: The captors say this is more reason to take his life, because
+    although he does not fight, he stirs up others to do so.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2980-2984
+  quote_or_summary: A wolf with a bone stuck in his throat asks a crane to put her
+    long bill down his throat, pull it out, and promises to make it worth her while.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2984-2985
+  quote_or_summary: The crane does as asked and removes the bone easily.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2985-2988
+  quote_or_summary: When the crane asks about her fee, the wolf bares his teeth and
+    says she can boast that she put her head in a wolf's mouth and was not bitten.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the provided passage. Motif labels
+    are descriptive and not matched to supplied taxonomy IDs. No comparison claims
+    are made because the passage does not itself provide comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; no external fable morals or comparative traditions were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2966-l2988
+  passage_sha256=0605494395929b8112f4d90a572afc0b12ccba87cb6b00ab4f4ced76bf50cd2b
+

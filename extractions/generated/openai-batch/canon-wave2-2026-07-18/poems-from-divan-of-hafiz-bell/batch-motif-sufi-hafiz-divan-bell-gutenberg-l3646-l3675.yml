@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l3646-l3675
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XLIII / NOTES / XVIII / XXIII; lines 3646-3675
+  start: '3646'
+  end: '3675'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The note recounts the Persian legend of Ferhad, Shirin, and Khusro Parwiz:
+    Shirin''s reported identities, Khusro''s capture of the true Cross, Ferhad''s
+    love and mountain task, Khusro''s false report of Shirin''s death leading to Ferhad''s
+    death, and Shirin''s later suicide over Khusro''s body. It then describes scarlet
+    tulips on a barren Persian hillside and notes a tradition that the poem was sent
+    to the King of Golconda.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the loves of Ferhad and Shirin are famous in Persian legend,
+    and reports variant identifications of Shirin, including Mary or Irene and daughter
+    of the Emperor Maurice.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Khusro Parwiz is said to have conquered Jerusalem and carried off the true
+    Cross, which had been enclosed in a gold box and buried in the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Khusro Parwiz was devotedly attached to Shirin, while Shirin had given her
+    heart to Ferhad.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ferhad, despairing because Shirin's rank placed her far above him, wandered
+    through deserts and mountains calling her name and carved sculptures on the rock
+    Behistun.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The King told Ferhad that if he cut through the rock and made a stream from
+    the other side of the mountains flow through it, he would relinquish Shirin to
+    him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ferhad nearly completed the task before Khusro sent false news of Shirin's
+    death; Ferhad then threw himself from the top of the rock and died.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Khusro Parwiz was violently killed by his son, who then proposed marriage
+    to his father's widow.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Shirin promised to marry the son if allowed to see her husband's corpse, then
+    drew a dagger, stabbed herself, and fell dead across Khusro's body.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The narrator describes seeing tiny scarlet tulips on a barren Persian hillside
+    and on a mountain pass between Resht and Tehran.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage states a tradition that this poem was sent to the King of Golconda.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ferhad
+  description: A humble lover of Shirin who wanders through deserts and mountains,
+    works on the rock task, and dies after receiving false news of Shirin's death.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Shirin
+  description: Beloved of Ferhad and wife of Khusro Parwiz; the note reports variant
+    names and ancestry for her and narrates her suicide over Khusro's body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: Khusro Parwiz
+  description: Persian king and husband of Shirin; said to have captured the true
+    Cross, set Ferhad's task, sent false news of Shirin's death, and later died violently
+    at his son's hands.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Son of Khusro Parwiz
+  description: Khusro's son, who violently kills his father and proposes marriage
+    to Shirin.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Emperor Maurice
+  description: Named in one reported tradition as Shirin's father.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: King of Golconda
+  description: Named as the traditional recipient of the poem.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: humble lover
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ferhad Shirin's humble lover and says Shirin had given
+    her heart to him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: beloved and wife
+  assigned_to:
+  - fig:2
+  basis: Shirin is wife of Khusro and the woman loved by Ferhad.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: king and husband
+  assigned_to:
+  - fig:3
+  basis: Khusro Parwiz is identified with the Persian throne and as Shirin's husband.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: task-performing suitor
+  assigned_to:
+  - fig:1
+  basis: Ferhad undertakes the task of cutting through rock and channeling a stream
+    in order to gain Shirin.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: task-setter and deceiver
+  assigned_to:
+  - fig:3
+  basis: Khusro promises Shirin if Ferhad completes the rock-and-stream task, then
+    sends false news of Shirin's death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: conqueror and relic taker
+  assigned_to:
+  - fig:3
+  basis: The passage says Khusro conquered Jerusalem and carried off the true Cross.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: violent son and would-be husband
+  assigned_to:
+  - fig:4
+  basis: Khusro's son kills his father and proposes marriage to his father's widow.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: reported father
+  assigned_to:
+  - fig:5
+  basis: The passage says Turks and Persians report Shirin as daughter of the Emperor
+    Maurice.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: traditional recipient
+  assigned_to:
+  - fig:6
+  basis: A tradition says the poem was sent to the King of Golconda.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: true Cross in gold box
+  literal_form: The true Cross enclosed in a gold box and buried in the ground, later
+    carried off by Khusro Parwiz.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: deserts, mountains, and Behistun rock
+  literal_form: The deserts and mountains of Persia and the rock Behistun where Ferhad
+    wanders and carves sculptures.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stream through the rock
+  literal_form: A stream on the other side of the mountains to be made to flow through
+    a cut in the rock.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dagger
+  literal_form: The dagger Shirin draws before stabbing herself.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: murdered husband's body
+  literal_form: The corpse of Khusro Parwiz, across which Shirin falls dead.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: scarlet tulip on barren hillside
+  literal_form: Tiny scarlet tulips shining like jewels among dust and stones on a
+    barren Persian hillside and mountain pass.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Shirin's identities and Khusro's relic capture
+  summary: The note identifies Shirin through several reported traditions and says
+    Khusro conquered Jerusalem and carried off the true Cross.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ferhad's distant love and wandering
+  summary: Ferhad despairs over Shirin's higher rank, wanders through Persian deserts
+    and mountains calling her name, and carves sculptures on Behistun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The king's rock-and-stream condition
+  summary: Khusro tells Ferhad he may have Shirin if he cuts through the rock and
+    channels a stream through it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: False death news and Ferhad's death
+  summary: When Ferhad has almost completed the task, Khusro sends false news of Shirin's
+    death, and Ferhad throws himself from the rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Shirin's death over Khusro's body
+  summary: After Khusro is killed by his son, Shirin asks to see the corpse, stabs
+    herself, and falls dead across the body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Tulips on the Persian hillside
+  summary: The narrator describes scarlet tulips growing on a barren hillside and
+    mountain pass between Resht and Tehran.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Tradition of sending the poem
+  summary: The passage reports a tradition that the poem was sent to the King of Golconda.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: unattainable beloved across rank
+  taxonomy_refs: []
+  basis: Ferhad despairs of reaching Shirin because her rank places her far above
+    him, despite her affection for him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the note; no supplied taxonomy family
+    exactly matches it.
+- id: motif:2
+  label: arduous task to win the beloved
+  taxonomy_refs: []
+  basis: Khusro promises to relinquish Shirin if Ferhad cuts through rock and channels
+    a mountain stream through it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the task as a condition set by the king, not explicitly
+    as a formal trial or initiation.
+- id: motif:3
+  label: false report of beloved's death causing self-killing
+  taxonomy_refs: []
+  basis: Khusro sends false news of Shirin's death, after which Ferhad throws himself
+    from the top of the rock and dies.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader comparative claim is made beyond the described episode.
+- id: motif:4
+  label: widow's self-killing beside husband's corpse
+  taxonomy_refs: []
+  basis: Shirin asks to see Khusro's corpse, then stabs herself and falls dead across
+    his body.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not frame the act as ritual sacrifice; it is recorded
+    as a tragic narrative event.
+- id: motif:5
+  label: sacred relic carried off after conquest
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage says Khusro conquered Jerusalem and carried off the true Cross
+    from its gold box and burial place.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a brief background note within the passage, and the wording reports
+    what Persians say; the passage does not elaborate the theft motif.
+- id: motif:6
+  label: lover's wilderness and mountain wandering
+  taxonomy_refs: []
+  basis: Ferhad wanders through the deserts and mountains of Persia calling Shirin's
+    name.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wandering is described as part of his despair rather than a fully
+    developed quest structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3646-3650
+  quote_or_summary: The note states that Ferhad and Shirin's loves are famous in Persian
+    legend and gives variant traditions about Shirin's names, birth, religion, and
+    parentage.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3651-3652
+  quote_or_summary: Khusro Parwiz is said to have conquered Jerusalem and carried
+    off the true Cross from a gold box buried in the ground.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3653-3654
+  quote_or_summary: Khusro was devoted to Shirin, but Shirin had given her heart to
+    Ferhad.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3655-3658
+  quote_or_summary: Ferhad despairs over the difference in rank, wanders through Persian
+    deserts and mountains calling Shirin's name, and carves sculptures on Behistun.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3659-3661
+  quote_or_summary: The King tells Ferhad he will give up Shirin if Ferhad cuts through
+    the rock and makes a stream beyond the mountains flow through it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3661-3664
+  quote_or_summary: Ferhad nearly completes the task; Khusro sends false news of Shirin's
+    death, and Ferhad throws himself from the top of the rock and dies.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3664-3666
+  quote_or_summary: Khusro Parwiz is put to violent death by his son, who then proposes
+    marriage to his father's widow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3666-3668
+  quote_or_summary: Shirin asks to see her husband's corpse, draws a dagger, stabs
+    herself, and falls dead across his body.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 3670-3673
+  quote_or_summary: The narrator describes scarlet tulips growing on a barren Persian
+    hillside and on a bleak mountain pass between Resht and Tehran.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: '3675'
+  quote_or_summary: The passage reports a tradition that the poem was sent to the
+    King of Golconda.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative details are explicit in the supplied note. Motif candidates are
+    local descriptive patterns; only the relic episode is cautiously aligned to an
+    available taxonomy family. No comparison claims were added because the passage
+    does not itself develop an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to provided lists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l3646-l3675
+  passage_sha256=2c7fd69a65c85335f4868f02af44e658a90aa8d0a373a1ef0353789ac1a26f20
+

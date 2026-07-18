@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3055-l3069
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND THE SHEEP / THE TUNNY-FISH AND THE DOLPHIN / THE THREE TRADESMEN
+    / THE MOUSE AND THE BULL; lines 3055-3069
+  start: '3055'
+  end: '3069'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The battle is not always to the strong.
+  summary: A Bull chases a Mouse that bit him, but the Mouse escapes into a wall hole.
+    The Bull exhausts himself charging the wall. The Mouse bites him again from safety
+    and declares that little ones sometimes prevail over big ones. The appended moral
+    states that battle is not always won by the strong.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Bull chases a Mouse after the Mouse has bitten him in the nose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mouse is too quick for the Bull and enters a hole in a wall.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bull charges the wall repeatedly until he becomes tired and sinks to the
+    ground exhausted.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When it is quiet, the Mouse comes out and bites the Bull again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Bull rises in rage, but the Mouse has already returned to the hole, leaving
+    the Bull able only to bellow and fume helplessly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A shrill little voice from inside the wall says that big fellows do not always
+    have their own way and that little ones sometimes come off best.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The moral states that battle is not always to the strong.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mouse
+  description: A quick small animal that bites the Bull, escapes into a hole in the
+    wall, bites again, and speaks from inside the wall.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Bull
+  description: A large animal bitten in the nose, who chases the Mouse, charges the
+    wall, becomes exhausted, and remains helplessly angry when the Mouse retreats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: small agile opponent who prevails
+  assigned_to:
+  - fig:1
+  basis: The Mouse evades the Bull through the wall hole, bites him a second time,
+    and states that little ones sometimes come off best.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: strong but frustrated pursuer
+  assigned_to:
+  - fig:2
+  basis: The Bull gives chase and uses force against the wall but becomes exhausted
+    and helplessly angry.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: hole in the wall
+  literal_form: a hole in a wall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Chase and failed assault on the wall
+  summary: After being bitten in the nose, the Bull chases the Mouse. The Mouse slips
+    into a hole in the wall, and the Bull repeatedly charges the wall until exhausted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second bite and speech from refuge
+  summary: The Mouse emerges when all is quiet, bites the Bull again, returns to the
+    hole, and speaks from inside the wall while the Bull fumes helplessly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Moral conclusion
+  summary: The fable closes with the explicit moral that the battle is not always
+    to the strong.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: small one prevails over strong one
+  taxonomy_refs:
+  - wisdom
+  basis: The Mouse, identified with the little ones, repeatedly evades and harms the
+    Bull, while the speech and moral generalize that strength does not always win.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied taxonomy has no exact weak-over-strong motif ref; the broader
+    wisdom ref is supported by the explicit moral.
+- id: motif:2
+  label: safe refuge frustrates brute force
+  taxonomy_refs: []
+  basis: The Mouse's hole in the wall prevents the Bull from reaching him despite
+    repeated charges, leading to the Bull's exhaustion and helpless anger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a passage-level pattern inferred from the Mouse's use of the hole,
+    not an explicitly named motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison to a general didactic fable pattern in which
+    a smaller or weaker figure overcomes a stronger figure, chiefly to express a moral
+    about the limits of strength.
+  claim_level: same_function
+  target: weak-over-strong didactic fable pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name any other text, tradition, or historical
+    connection; the claim is functional and pattern-level only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3055-3060
+  quote_or_summary: A Bull chases a Mouse that bit his nose; the Mouse escapes into
+    a wall hole; the Bull charges the wall repeatedly and becomes exhausted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3060-3064
+  quote_or_summary: The Mouse comes out when quiet, bites the Bull again, returns
+    to the hole, and the Bull can only bellow and fume helplessly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3064-3068
+  quote_or_summary: '"You big fellows don''t always have it your own way ... sometimes
+    we little ones come off best."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: line 3069
+  quote_or_summary: The battle is not always to the strong.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The fable's actions and moral are explicit. Motif taxonomy mapping is cautious
+    because the available list lacks an exact weak-over-strong category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3055-l3069
+  passage_sha256=be852e4169e1394f23b168c8c56346ed1083ffd9f2a9d8e7a45a805fb03e94cf
+

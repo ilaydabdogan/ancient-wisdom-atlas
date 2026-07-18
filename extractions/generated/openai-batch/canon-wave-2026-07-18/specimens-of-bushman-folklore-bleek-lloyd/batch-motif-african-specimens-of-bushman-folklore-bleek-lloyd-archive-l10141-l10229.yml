@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l10141-l10229
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE   MASON    WASP.  171 / YOUNG    MAN    CARRIED    OFF    BY    LION.  175
+    / YOUNG    MAN    CARRIED    OFF    BY    LION.  177 / YOUNG    MAN    CARRIED    OFF    BY    LION.  179;
+    lines 10141-10229
+  start: '10141'
+  end: '10229'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In this excerpt from “Young Man Carried Off by Lion,” the man lies motionless
+    while the lion suspects he may still be alive. The man watches through his eyelashes
+    as the lion goes away over a hill, then returns or peeps back from the hilltop
+    to check. Seeing the man still lying down, the lion intends to go to water to
+    drink and then come back to eat him.
+  language: English translation with transcribed source-language text also present
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the narrative as concerning a young man carried
+    off by a lion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man does not stir even though a stick is piercing him, while the lion
+    suspects that he may be alive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man watches the lion through his eyelashes while remaining down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lion goes away over a hill, and the man gently turns his head to see whether
+    it has really gone.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lion peeps back from behind the top of the hill because it thinks the
+    man may have been feigning death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After seeing the man still lying down, the lion intends to go to water to
+    drink and then return to eat.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The lion is described as hungry and very thirsty.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young man / the man
+  description: A man identified by the heading as a young man; he lies motionless,
+    looks through his eyelashes, and turns his head gently while the lion is away.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: lion
+  description: The lion suspects the man is alive, goes away over a hill, looks back
+    from the hilltop, and intends to drink before returning to eat.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: imperiled man
+  assigned_to:
+  - fig:1
+  basis: The heading says the young man is carried off by a lion, and the lion intends
+    to return to eat him.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: motionless or feigned-death figure
+  assigned_to:
+  - fig:1
+  basis: The man does not stir, and the lion thinks he may have been feigning death.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: hungry and thirsty predator
+  assigned_to:
+  - fig:2
+  basis: The lion is hungry and thirsty and plans to drink before eating.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: watchful suspecting animal
+  assigned_to:
+  - fig:2
+  basis: The lion suspects the man is alive and returns or peeps back to look again.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water where the lion intends to drink
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: hill and hilltop
+  literal_form: hill, other side of the hill, and top of the hill from which the lion
+    peeps back
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: piercing stick
+  literal_form: stick piercing the motionless man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Man lies still under the lion’s suspicion
+  summary: The man remains motionless despite being pierced by a stick, while the
+    lion suspects he may be alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Lion leaves over the hill while the man watches
+  summary: The lion goes away over the hill, and the man watches through his eyelashes
+    and gently turns his head to see whether it has gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lion checks again before going to water
+  summary: The lion peeps back from the hilltop, sees the man still lying down, and
+    plans to drink at the water before returning to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Feigned death before a predator
+  taxonomy_refs: []
+  basis: The man remains motionless, and the lion explicitly thinks the man may have
+    been feigning death.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not show the final outcome or whether the man escapes.
+- id: motif:2
+  label: Predator returns to verify prey is dead
+  taxonomy_refs: []
+  basis: After going out of sight, the lion comes back or peeps from the hilltop to
+    look again because it suspects the man is alive.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is extracted only from the immediate episode in the provided passage.
+- id: motif:3
+  label: Predator delays eating to drink first
+  taxonomy_refs: []
+  basis: The lion decides to go to water to drink and then come back to eat after
+    drinking.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The larger narrative consequence of this delay is not included in the
+    excerpt.
+- id: motif:4
+  label: Human carried off by lion
+  taxonomy_refs: []
+  basis: The passage heading identifies the narrative as a young man carried off by
+    a lion, and the lion intends to eat the man.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The carrying-off action itself is in the title rather than narrated in
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 10141 / passage heading
+  quote_or_summary: "“YOUNG MAN CARRIED OFF BY LION.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 10143-10149; numbered text around 4470-4471
+  quote_or_summary: The lion suspects the man is alive; the man does not stir although
+    a stick is piercing him.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 10150-10153; numbered text around 4472
+  quote_or_summary: "“he looked through his eyelashes; he saw what the lion was doing.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 10153-10158; numbered text around 4472-4473
+  quote_or_summary: The lion goes away, ascends the hill, descends on the other side,
+    and the man gently turns his head to see whether it has really gone.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10158-10167; numbered text around 4474-4476, including footnote
+  quote_or_summary: The lion again stands peeping behind the top of the hill, wanting
+    to look thoroughly because it thinks the man may have been feigning death; the
+    footnote says it came back a little way to look again.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10167-10175; numbered text around 4476-4477
+  quote_or_summary: Seeing the man still lying down, the lion plans to run to the
+    water to drink and then return to eat; it is hungry and very thirsty.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 10177-10178
+  quote_or_summary: "“The man lay looking at it, at that which it did.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a partial passage that begins mid-episode and later
+    shifts into transcribed source-language text without an accompanying English translation
+    in the provided excerpt. No passage-supported cross-text comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were applied only for the literal water symbol from the supplied available symbol list.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l10141-l10229
+  passage_sha256=5a46f007f7940c29921c9f4934ff93426bfcbb62c8255b84c80136091b367f0e
+

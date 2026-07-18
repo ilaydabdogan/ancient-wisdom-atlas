@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2551-l2578
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE POMEGRANATE, THE APPLE-TREE, AND THE BRAMBLE / THE LION, THE BEAR, AND
+    THE FOX / THE BLACKAMOOR / THE TWO SOLDIERS AND THE ROBBER; lines 2551-2578
+  start: '2551'
+  end: '2578'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a man buys an Ethiopian slave, wrongly attributes his black
+    skin to neglect, scrubs him with soap and hot water, and fails to change his skin
+    while nearly killing him with cold. In another fable, two soldiers are attacked
+    by a robber; one flees while the other fights the robber off, after which the
+    fleeing soldier returns boasting and is rebuked as cowardly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man buys an Ethiopian slave described as having black skin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The new master believes the slave's color is due to a former owner's neglect
+    and thinks scrubbing will remedy it.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The master uses soap and hot water and rubs the slave, but the attempt does
+    not change his skin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the scrubbing, the slave's skin remains black and he nearly dies from
+    catching cold.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Two soldiers traveling together are attacked by a robber.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One soldier runs away while the other stands his ground and fights with a
+    sword until the robber flees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the robber is gone, the soldier who fled returns, flourishes his weapon,
+    and threatens the absent robber.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The soldier who fought says earlier support, even verbal support, would have
+    encouraged him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The fighting soldier tells the returning soldier to put away his sword and
+    contrasts his pretended lion-like bravery with hare-like flight at danger.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Man / new master
+  description: A man who buys an Ethiopian slave and attempts to remove his black
+    skin color by scrubbing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ethiopian slave
+  description: An enslaved Ethiopian man described as having black skin; he is scrubbed
+    by his new master and harmed by the cold that follows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Steadfast soldier
+  description: One of two traveling soldiers; he stands his ground and fights off
+    the robber with his sword.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Timid soldier
+  description: The soldier who runs away during the attack, returns after the danger
+    has passed, flourishes his weapon, and boasts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Robber
+  description: An attacker who sets upon the two soldiers and flees when resisted
+    by one of them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: mistaken master
+  assigned_to:
+  - fig:1
+  basis: He believes the slave's color results from neglect and tries to scrub it
+    away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: enslaved victim of attempted washing
+  assigned_to:
+  - fig:2
+  basis: He is bought, scrubbed with soap and hot water, remains unchanged in color,
+    and nearly dies from cold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: attacker
+  assigned_to:
+  - fig:5
+  basis: The robber attacks the two traveling soldiers and later flees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: courageous defender
+  assigned_to:
+  - fig:3
+  basis: He stands his ground and fights the robber until the robber leaves.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: fleeing boaster
+  assigned_to:
+  - fig:4
+  basis: He runs away during the attack, then returns when it is safe and makes threats.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: speaker of rebuke
+  assigned_to:
+  - fig:3
+  basis: He rebukes the returning soldier for offering delayed words and displaying
+    bravery only after danger has passed.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: soap and hot water
+  literal_form: Soap and hot water used for scrubbing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: unchanged black skin
+  literal_form: Black skin that remains black after washing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sword or weapon
+  literal_form: Sword / weapon carried by the soldiers
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: lion and hare similes
+  literal_form: Brave as a lion; run away like a hare
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Failed scrubbing of the Ethiopian slave
+  summary: A new master wrongly assumes his slave's black skin comes from neglect
+    and attempts to scrub it away with soap and hot water; the color remains unchanged
+    and the slave is harmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Robber attacks the two soldiers
+  summary: A robber attacks two traveling soldiers; one soldier flees while the other
+    uses his sword and drives the robber away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Delayed boast and rebuke
+  summary: After the danger has passed, the fleeing soldier returns with threats,
+    but the soldier who fought rebukes him for failing to help when help was needed.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: failed attempt to change an inherent condition by external washing
+  taxonomy_refs:
+  - wisdom
+  basis: The master treats the slave's skin color as an effect of neglect and uses
+    soap and hot water, but the skin remains unchanged and the act causes harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage gives the narrative
+    outcome but no explicit moral in the supplied text.
+- id: motif:2
+  label: boastful courage after danger has passed
+  taxonomy_refs:
+  - wisdom
+  basis: The timid soldier flees during the attack, then returns after safety is restored
+    and speaks as if eager to fight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is passage-level and does not require a claim about historical
+    transmission.
+- id: motif:3
+  label: actions reveal courage more reliably than words
+  taxonomy_refs:
+  - wisdom
+  basis: One soldier actually fights the robber, while the other offers only late
+    threats and is exposed by the fighter's rebuke.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied passage implies the lesson through dialogue rather than stating
+    a separate moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2551-2556; THE BLACKAMOOR
+  quote_or_summary: A man buys an Ethiopian slave with black skin and thinks the color
+    results from the previous owner's neglect and can be corrected by scrubbing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2556-2559; THE BLACKAMOOR
+  quote_or_summary: The master scrubs him with soap and hot water, but his skin remains
+    black and he nearly dies from the cold he catches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2561-2563; THE TWO SOLDIERS AND THE ROBBER
+  quote_or_summary: Two soldiers travel together and are attacked by a robber.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2563-2566; THE TWO SOLDIERS AND THE ROBBER
+  quote_or_summary: One soldier runs away; the other stands his ground and fights
+    with his sword until the robber flees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2566-2569; THE TWO SOLDIERS AND THE ROBBER
+  quote_or_summary: '"Where is he? Let me get at him"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 2569-2578; THE TWO SOLDIERS AND THE ROBBER
+  quote_or_summary: The fighting soldier says the other's earlier support would have
+    encouraged him, tells him to put away his sword, and says he may seem lion-brave
+    to others but runs from danger like a hare.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are inferred
+    from repeated fable-pattern actions and outcomes; no external comparison claims
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The source passage contains archaic racialized terminology and an enslavement scenario; labels and summaries aim to remain literal without endorsing the terminology or assumptions of the fable.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2551-l2578
+  passage_sha256=7dd62026e0af47cddc0a5519d93a503fb47bcbf679cbcd5cef7b744250d3a1a5
+

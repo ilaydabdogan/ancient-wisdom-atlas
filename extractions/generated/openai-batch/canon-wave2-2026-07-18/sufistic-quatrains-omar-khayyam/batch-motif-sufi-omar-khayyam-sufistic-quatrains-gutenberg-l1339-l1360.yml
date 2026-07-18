@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1339-l1360
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLIV. / XLVI. / XLVII. / XLVIII.; lines 1339-1360
+  start: '1339'
+  end: '1360'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three quatrains present existence as a magic shadow-show lit by the sun;
+    state that wine, a pressed lip, and all things end in Nothing; and urge drinking
+    Ruby Vintage with Khayyam by the rose and river until an angel brings a darker
+    draught, which the addressee is told to accept without shrinking.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage enumerates directions and says the whole is nothing but a Magic
+    Shadow-show.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Magic Shadow-show is played in a Box whose Candle is the Sun.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A collective group called Phantom Figures comes and goes around the Sun/Candle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The wine one drinks and the lip one presses are said to end in Nothing, as
+    all things do.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The addressee is told that while existing, the addressee is already what
+    they will become: Nothing.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A rose is described as blooming along the river brink.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker names old Khayyam and instructs the addressee to drink the Ruby
+    Vintage with him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: An Angel with a darker Draught draws up to the addressee, who is told to take
+    it and not shrink.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Phantom Figures
+  description: A collective 'we' called Phantom Figures who come and go round the
+    Sun/Candle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Thou / addressed person
+  description: The second-person addressee associated with drinking wine, pressing
+    a lip, becoming Nothing, and receiving the darker Draught.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: old Khayyam
+  description: Named as a companion in the instruction to drink Ruby Vintage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Angel
+  description: An angel with a darker Draught who draws up to the addressee.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: transient phantom figures
+  assigned_to:
+  - fig:1
+  basis: They are called Phantom Figures and are described as coming and going.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed drinker destined for Nothing
+  assigned_to:
+  - fig:2
+  basis: The addressee is linked to wine, a pressed lip, future Nothing, and the instruction
+    to take the darker Draught.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: poet-companion in drinking
+  assigned_to:
+  - fig:3
+  basis: Old Khayyam is named in the command to drink the Ruby Vintage with him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: angelic bearer of the darker draught
+  assigned_to:
+  - fig:4
+  basis: The Angel is described as having a darker Draught and drawing up to the addressee.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Magic Shadow-show
+  literal_form: Magic Shadow-show
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Box with solar Candle
+  literal_form: a Box whose Candle is the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Nothing
+  literal_form: Nothing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Wine / Ruby Vintage
+  literal_form: Wine; Ruby Vintage
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Rose
+  literal_form: Rose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: River Brink
+  literal_form: River Brink
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Darker Draught
+  literal_form: darker Draught
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cosmic shadow-show
+  summary: Existence is described as a Magic Shadow-show played in a box lit by the
+    Sun, with Phantom Figures coming and going around it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wine, lip, and Nothing
+  summary: The addressee is told that wine, a pressed lip, and all things end in Nothing,
+    and that the addressee will also be Nothing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rose, vintage, and darker draught
+  summary: While the rose blooms by the river, the addressee is urged to drink Ruby
+    Vintage with old Khayyam; when the Angel arrives with the darker Draught, the
+    addressee is told to accept it without shrinking.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: World as theatrical illusion
+  taxonomy_refs: []
+  basis: The passage calls the whole surrounding order a Magic Shadow-show, staged
+    in a box and populated by Phantom Figures.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No external taxonomy reference is asserted; the motif is based only on
+    the literal shadow-show image in this passage.
+- id: motif:2
+  label: Impermanence ending in nothingness
+  taxonomy_refs: []
+  basis: Wine, the pressed lip, all things, and the addressee are all said to end
+    in or become Nothing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names Nothing but does not state rebirth, afterlife travel,
+    judgment, or union.
+- id: motif:3
+  label: Convivial enjoyment before the final draught
+  taxonomy_refs: []
+  basis: The addressee is urged to drink Ruby Vintage amid rose and river, and then
+    to accept the Angel's darker Draught when it comes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The darker Draught functions as a terminal counterpoint to the wine in
+    the stanza, but the passage does not explicitly name death.
+- id: motif:4
+  label: Angel as bearer of a darker drink
+  taxonomy_refs: []
+  basis: An Angel approaches the addressee with a darker Draught, which the addressee
+    is instructed to take without shrinking.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The angel's role is limited to bearing or accompanying the draught; no
+    judgment scene or afterlife destination is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XLVI
+  quote_or_summary: "'Tis nothing but a Magic Shadow-show, / Play'd in a Box whose
+    Candle is the Sun, / Round which we Phantom Figures come and go."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: XLVII
+  quote_or_summary: The stanza says the Wine and Lip 'End in the Nothing all Things
+    end in' and tells the addressee, 'Thou shalt be--Nothing.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: XLVIII
+  quote_or_summary: The stanza places the Rose along the River Brink, commands drinking
+    the Ruby Vintage with old Khayyam, and says the Angel comes with a 'darker Draught'
+    to be taken without shrinking.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the three supplied quatrains. Motif
+    labels involving the darker Draught are interpretive and therefore marked medium.
+    No comparison claims are made because the passage itself does not explicitly compare
+    these images with another text, tradition, or named motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Uses only the supplied passage and metadata. Taxonomy use is limited to the explicit river/water image; no motif-family taxonomy reference is asserted where the available labels would add unsupported elements.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1339-l1360
+  passage_sha256=cd983fd479affa611c9464e3804c0c958e7090db1b233740d40ed5ca0bbcd96a
+

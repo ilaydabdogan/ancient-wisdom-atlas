@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2041-l2066
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: A BEAUTIFUL WOMAN / SIXTH GARDEN / JOCULARITY / A WEAVER AND A LEARNED PROFESSOR;
+    lines 2041-2066
+  start: '2041'
+  end: '2066'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces jocularity as licit and useful for removing vexation
+    from the heart, then tells a comic anecdote in which a weaver, waiting for a learned
+    professor to return his deposit, mistakes the professor's head-shaking during
+    a lecture for the substance of teaching and offers to sit in his place and wag
+    his head while the professor fetches the deposit.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is headed as part of the Sixth Garden and concerns jocularity.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening aphorism says a contented person's joking should not be blamed
+    and describes jocularity as permitted by reason and religion.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage compares the heart to a mirror, vexation to rust, and jocularity
+    to the means of polishing that rust away.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A weaver had left a deposit in trust with a learned man and later came to
+    ask for it back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The learned man was sitting in front of his house on a professional couch
+    with disciples before him.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The learned man told the weaver to wait until the lecture was finished.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: While seated during the lecture, the weaver observed the learned man often
+    shaking his head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The weaver concluded that imparting the lesson consisted in head-shaking and
+    offered to take the professor's place and wag his head while the professor retrieved
+    the deposit.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: contented man
+  description: A generic contented person mentioned in the aphorism as someone who
+    may joke without blame.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: weaver
+  description: A weaver who had left something in trust with a learned man and later
+    asked for his deposit back.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: learned man / Mullana / professor
+  description: A learned man seated on a professional couch, lecturing disciples,
+    and holding the weaver's deposit.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: disciples
+  description: A number of disciples seated before the learned man during his lecture.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: jocular exemplar
+  assigned_to:
+  - fig:1
+  basis: The aphorism says a contented person who jokes should not be blamed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: depositor
+  assigned_to:
+  - fig:2
+  basis: The weaver had left something in trust and asks for his deposit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: trustee of deposit
+  assigned_to:
+  - fig:3
+  basis: The learned man has the deposit that the weaver requests back.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: lecturing professor
+  assigned_to:
+  - fig:3
+  basis: The learned man is seated on a professional couch with disciples and asks
+    to finish his lecture.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: comic literalizer
+  assigned_to:
+  - fig:2
+  basis: The weaver interprets the professor's head-shaking as the act of teaching
+    and offers to reproduce it.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: disciples / lecture audience
+  assigned_to:
+  - fig:4
+  basis: The disciples sit in front of the learned man during the lecture.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: heart as mirror
+  literal_form: heart compared to a mirror
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vexation as rust
+  literal_form: rust on the mirror of the heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: jocularity as polish
+  literal_form: jocularity polishing away rust
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: professional couch
+  literal_form: couch in front of the learned man's house
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: head-wagging gesture
+  literal_form: the Mullana shakes his head; the weaver proposes to wag his head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Aphorism on jocularity
+  summary: The passage states that joking by a contented person is not blameworthy
+    and that jocularity removes vexation from the heart.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weaver requests his deposit
+  summary: The weaver comes to the learned man, who is seated with disciples, and
+    asks for the return of his deposit; the learned man tells him to wait until the
+    lecture ends.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Comic offer to replace the professor
+  summary: During the lecture the weaver notices the professor shaking his head, assumes
+    this is the substance of instruction, and offers to sit in the professor's place
+    and wag his head while the professor retrieves the deposit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Jocularity as remedy for vexation
+  taxonomy_refs:
+  - wisdom
+  basis: The aphorism explicitly teaches that jocularity is licit and polishes away
+    the rust of vexation from the heart.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is ethical and humorous rather than a mythic narrative; the
+    taxonomy link to wisdom is broad.
+- id: motif:2
+  label: Comic literalization of learned behavior
+  taxonomy_refs: []
+  basis: The weaver mistakes the professor's repeated head-shaking for the act of
+    teaching and offers to substitute his own head-wagging.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No external tale-type or comparative taxonomy is asserted from the provided
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2041-2048
+  quote_or_summary: Section heading 'JOCULARITY'; the aphorism says a contented person's
+    jokes should not be blamed, calls jocularity licit, and compares vexation to rust
+    on the heart's mirror that jocularity polishes away.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2050-2057
+  quote_or_summary: A weaver who had left something in trust with a learned man comes
+    to retrieve it and finds the man seated on a professional couch before disciples.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 2057-2058
+  quote_or_summary: The weaver says, 'Mullana, I am in need of my deposit'; the learned
+    man replies, 'Wait an hour till I finish my lecture.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: 2059-2065
+  quote_or_summary: The weaver sits during the lecture, observes the Mullana often
+    shaking his head, thinks the lesson consists in this, and asks to take the professor's
+    place and wag his head while the professor brings out the deposit.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are conservative and
+    based only on the passage; no external comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative link to another tradition or motif family beyond the supplied broad taxonomy reference for wisdom.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2041-l2066
+  passage_sha256=fd59aee9665f94ecf6b5b336290861233269173d92988bfac33480986cfe9ed1
+

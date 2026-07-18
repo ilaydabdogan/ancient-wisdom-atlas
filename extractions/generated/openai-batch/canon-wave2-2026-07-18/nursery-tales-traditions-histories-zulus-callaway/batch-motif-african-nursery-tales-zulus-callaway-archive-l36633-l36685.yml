@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l36633-l36685
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / ABATWA  UKWESABEKA  KWABO. / THE  HYRAX. / FABLES.; lines
+    36633-36685
+  start: '36633'
+  end: '36685'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: the hyrax went without a tail because he sent other animals for it
+  summary: 'A fable explains why the hyrax has no tail: when tails were distributed,
+    rain and clouded sky kept the hyrax in its hole, so it asked tailed animals to
+    bring back its tail; they returned with tails, but the hyrax never received one
+    and therefore cannot use a tail to drive away flies.'
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as a fable about the hyrax lacking a tail because
+    it sent others for it.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the day tails were distributed, the sky had become clouded and it was raining.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Other animals went to the place where tails were given away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hyrax did not go with the other animals and said it could not leave its
+    hole because of the rain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hyrax asked its neighbors to bring back its tail for it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The other animals returned with tails, but the hyrax never had a tail.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that a tail is useful for driving away flies, and that
+    the hyrax has nothing to brush them off with.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: hyrax
+  description: The animal that remains in its hole during the rain, asks others to
+    bring its tail, and ends up without a tail.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: other animals with tails
+  description: Animals who go to fetch tails and return with tails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: neighbors
+  description: The animals addressed by the hyrax as neighbors and asked to bring
+    back its tail.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: animal lacking tail
+  assigned_to:
+  - fig:1
+  basis: The passage says the hyrax went without a tail and never had one after failing
+    to go out.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: one who delegates the errand
+  assigned_to:
+  - fig:1
+  basis: The hyrax asks other animals to bring back its tail instead of going itself.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: successful tail recipients
+  assigned_to:
+  - fig:2
+  basis: The other animals go out to fetch tails and return with tails.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: requested helpers
+  assigned_to:
+  - fig:3
+  basis: The hyrax addresses them as neighbors and asks them to bring its tail.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tail
+  literal_form: tail distributed to animals and used for driving away flies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: rain
+  literal_form: rain and clouded sky on the day tails were distributed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hole
+  literal_form: the hyrax's hole, which it says it cannot leave because it is raining
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: flies
+  literal_form: flies that a tail can drive away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Distribution of tails
+  summary: Tails are being distributed, and other animals go to the place where they
+    are given away while the weather is rainy and clouded.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Hyrax refuses to go out and sends others
+  summary: The hyrax stays in its hole during the rain and asks neighboring tailed
+    animals to bring back its tail.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hyrax remains tailless
+  summary: The other animals return with tails, but the hyrax never receives one and
+    therefore lacks a tail for brushing off flies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of the hyrax's missing tail
+  taxonomy_refs: []
+  basis: The fable explicitly explains why the hyrax has no tail.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal-trait
+    tales.
+- id: motif:2
+  label: loss through sending others instead of going oneself
+  taxonomy_refs: []
+  basis: The hyrax does not go to obtain its own tail, asks others to bring it, and
+    consequently never receives one.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state whether the other animals intentionally fail
+    to help or simply return without the hyrax's tail.
+- id: motif:3
+  label: weather prevents acquisition of a bodily advantage
+  taxonomy_refs: []
+  basis: Rain and clouded sky are given as the reason the hyrax stays in its hole
+    on the day tails are distributed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The weather functions as a stated circumstance, but the passage does not
+    personify or ritualize it.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as an etiological animal fable explaining a visible
+    trait of a species.
+  claim_level: same_function
+  target: etiological animal fable pattern explaining an animal's physical characteristic
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; the passage provides no evidence
+    for historical contact, common inheritance, or comparison with a specific external
+    tale.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36633-36642
+  quote_or_summary: The title and opening state that the hyrax went without a tail
+    because it sent others for it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 36643-36655
+  quote_or_summary: On the day tails were distributed, the sky was clouded; other
+    animals went out to fetch tails from the place where they were given away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 36656-36667
+  quote_or_summary: The hyrax says, “O, my neighbours, do you bring back my tail for
+    me, for I cannot go out of my hole, because it is raining.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 36668-36677
+  quote_or_summary: The other animals returned with tails, but the hyrax never had
+    a tail because it was disinclined to go out in the rain.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 36678-36685
+  quote_or_summary: The hyrax lost the advantages of a tail; a tail drives away flies,
+    and the hyrax has nothing to brush them off with.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The plot and etiological function are explicit in the passage. Comparison
+    is limited to a broad functional pattern and not to a specific outside text or
+    tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty where no exact supplied taxonomy item was supported.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l36633-l36685
+  passage_sha256=d1bb3a13dd7c1d0259bf6abcab4e84e767399595f8f91d23b4cbedf51fb14d9a
+

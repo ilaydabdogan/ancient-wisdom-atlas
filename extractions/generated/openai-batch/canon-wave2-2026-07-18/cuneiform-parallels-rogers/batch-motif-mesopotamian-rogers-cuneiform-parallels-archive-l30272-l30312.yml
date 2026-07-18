@@ -1,0 +1,194 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l30272-l30312
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  43 / PLATE  NO.  44 / PLATE  NO.  45 / PLATE  NO.  46; lines
+    30272-30312
+  start: '30272'
+  end: '30312'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of plate captions describing three Mesopotamian artifacts:
+    a broken baked-clay cylinder of Cyrus, a black limestone kudurru or boundary stone
+    found at Nippur, and a stone mace-head inscribed in archaic Babylonian script
+    and dedicated to Shamash by Sargon I.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A broken cylinder of Cyrus, king of Babylonia, is described as baked clay,
+    inscribed in Babylonian cuneiform, and preserved in the British Museum.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A kudurru, or boundary stone, found at Nippur is described as a conical black
+    limestone block with specified dimensions and present location at the Museum of
+    the University of Pennsylvania.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A stone mace-head bears an inscription in archaic Babylonian character.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stone mace-head is said to be dedicated to Shamash, identified parenthetically
+    as the sun god, by Sargon I, king of Agade.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the stone mace-head inscription was the first inscription
+    of Sargon ever found.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cyrus
+  description: King of Babylonia associated with the broken baked-clay cylinder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shamash
+  description: Identified as the sun god and named as the dedicatee of the inscribed
+    stone mace-head.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Sargon I
+  description: King of Agade who dedicated the inscribed stone mace-head to Shamash.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nebuchadrezzar I
+  description: Named in the title of a cited study concerning a boundary stone from
+    Nippur.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: king of Babylonia
+  assigned_to:
+  - fig:1
+  basis: The caption identifies Cyrus as king of Babylonia.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sun god and dedicatee
+  assigned_to:
+  - fig:2
+  basis: The caption identifies Shamash as the sun god and says the mace-head was
+    dedicated to him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: king of Agade and dedicator
+  assigned_to:
+  - fig:3
+  basis: The caption identifies Sargon I as king of Agade and states that he dedicated
+    the mace-head to Shamash.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: baked-clay cylinder
+  literal_form: Broken baked-clay cylinder inscribed in Babylonian cuneiform.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boundary stone
+  literal_form: Kudurru or boundary stone; conical black limestone block found at
+    Nippur.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: inscribed mace-head
+  literal_form: Stone mace-head with archaic Babylonian inscription dedicated to Shamash
+    by Sargon I.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Artifact catalogue captions
+  summary: The passage catalogues and describes Mesopotamian artifacts, including
+    their materials, inscriptions, findspots or repositories, and associated royal
+    or divine names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30272-30279, Plate No. 45
+  quote_or_summary: A broken baked-clay cylinder of Cyrus, king of Babylonia, inscribed
+    in Babylonian cuneiform and preserved in the British Museum, is described.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 30286-30298, Plate No. 46, Figure 1
+  quote_or_summary: A kudurru or boundary stone found at Nippur is described as a
+    conical black limestone block in the Museum of the University of Pennsylvania;
+    a cited study concerns a boundary stone of Nebuchadrezzar I from Nippur.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 30300-30308, Plate No. 46, Figure 2
+  quote_or_summary: A stone mace-head with archaic Babylonian inscription is described
+    as dedicated to Shamash, the sun god, in Sippar by Sargon I, king of Agade; it
+    is said to be the first inscription of Sargon found.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily artifact-caption material rather than a mythic narrative;
+    no candidate myth motifs or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the caption text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l30272-l30312
+  passage_sha256=6fbe06ae170c9550353dabc365134c363d768dc97044ac7dc89cbfc103f53caf
+

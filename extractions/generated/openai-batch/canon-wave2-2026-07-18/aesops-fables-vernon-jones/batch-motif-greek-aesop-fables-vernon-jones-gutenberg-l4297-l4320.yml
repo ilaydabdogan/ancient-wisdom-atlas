@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4297-l4320
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PIG AND THE SHEEP / THE GARDENER AND HIS DOG / THE RIVERS AND THE SEA
+    / THE LION IN LOVE; lines 4297-4320
+  start: '4297'
+  end: '4320'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, the Rivers complain that the Sea makes their waters salty
+    after mingling, and the Sea tells them to keep away if they wish to remain sweet.
+    In another, a Lion seeks to marry a cottager's daughter; the father asks the Lion
+    to submit to having his teeth and nails removed because the daughter fears them,
+    and once the Lion is disarmed the father drives him away with a club.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All the Rivers combine to protest that the Sea makes their waters salt after
+    they mingle with it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rivers describe themselves as sweet and drinkable before reaching the
+    Sea and briny and unpalatable after mingling with it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sea tells the Rivers to keep away if they want to remain sweet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Lion falls deeply in love with a cottager's daughter and wants to marry
+    her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cottager is unwilling to give his daughter to the Lion but also does not
+    want to offend him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cottager says he will not consent to the union unless he can draw the
+    Lion's teeth and pare his nails because his daughter fears them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lion agrees to the removal of his teeth and nails because he is deeply
+    in love.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the Lion is disarmed, the cottager is no longer afraid and drives him
+    away with a club.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Rivers
+  description: A collective group of rivers whose waters are sweet and drinkable before
+    mingling with the Sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Sea
+  description: The body of water addressed by the Rivers as the cause of their waters
+    becoming salt, briny, and unpalatable.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Lion
+  description: A fearsome lion who loves the cottager's daughter, wants to marry her,
+    and submits to being disarmed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the cottager
+  description: The father of the daughter sought by the Lion; he proposes removing
+    the Lion's teeth and nails and later drives him away.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the cottager's daughter
+  description: The cottager's daughter whom the Lion wants to marry and who is described
+    as afraid of the Lion's teeth and nails.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: complainants
+  assigned_to:
+  - fig:1
+  basis: They combine to protest against the Sea's action on their waters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: respondent blamed for salting waters
+  assigned_to:
+  - fig:2
+  basis: The Rivers accuse the Sea of making their waters salt, and the Sea replies
+    by telling them to keep away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: suitor
+  assigned_to:
+  - fig:3
+  basis: The Lion loves the cottager's daughter and wants to marry her.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: disarmed powerful figure
+  assigned_to:
+  - fig:3
+  basis: He allows his teeth and nails to be removed and is then described as disarmed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: protective father
+  assigned_to:
+  - fig:4
+  basis: He is unwilling to give his daughter to a fearsome husband.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: strategist who neutralizes danger
+  assigned_to:
+  - fig:4
+  basis: He sets the condition that the Lion's teeth and nails be removed, then drives
+    him away once disarmed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: proposed bride
+  assigned_to:
+  - fig:5
+  basis: She is the daughter whom the Lion wants to marry, and her fear is cited as
+    the reason for removing the Lion's teeth and nails.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: the Rivers' waters and the Sea's waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: salt water
+  literal_form: waters made salt, briny, and unpalatable after mingling with the Sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: teeth and nails
+  literal_form: the Lion's teeth and nails, named as frightening features and removed
+    to disarm him
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: club
+  literal_form: the cottager's club used to drive the disarmed Lion away
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rivers protest to the Sea
+  summary: The Rivers jointly complain that the Sea changes their sweet drinkable
+    waters into salt and unpalatable waters when they mingle with it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sea advises avoidance
+  summary: The Sea replies that the Rivers should keep away if they want to remain
+    sweet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lion seeks marriage
+  summary: The Lion falls in love with the cottager's daughter and wants to marry
+    her, while the father is unwilling to give her to such a fearsome husband.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Condition for marriage disarms the Lion
+  summary: The cottager conditions consent on removing the Lion's teeth and paring
+    his nails because the daughter is afraid of them; the Lion agrees because of his
+    love.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Cottager drives away the disarmed Lion
+  summary: After the Lion has been disarmed, the cottager no longer fears him and
+    drives him away with a club.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: contamination by mingling
+  taxonomy_refs: []
+  basis: The Rivers' waters become salt, briny, and unpalatable after mingling with
+    the Sea.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local fable pattern label rather than a supplied taxonomy motif.
+- id: motif:2
+  label: avoid the source of corruption to remain unchanged
+  taxonomy_refs: []
+  basis: The Sea's reply states that the Rivers will remain sweet if they keep away
+    from it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents the lesson through dialogue; no explicit comparative
+    taxonomy is supplied.
+- id: motif:3
+  label: dangerous suitor neutralized by marriage condition
+  taxonomy_refs: []
+  basis: The cottager requires the Lion to have his teeth and nails removed before
+    consenting to the union, and the Lion accepts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif label is descriptive and not tied to a supplied taxonomy ID.
+- id: motif:4
+  label: love causing loss of power
+  taxonomy_refs: []
+  basis: The Lion is so much in love that he agrees to be disarmed, after which the
+    cottager can drive him away.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern inferred from the sequence of actions,
+    not an explicit comparative claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4297-4304
+  quote_or_summary: The Rivers combine to protest that the Sea makes their sweet,
+    drinkable waters salt, briny, and unpalatable after they mingle with it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 4304-4305
+  quote_or_summary: 'The Sea replies: "Keep away from me and you''ll remain sweet."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4307-4313
+  quote_or_summary: A Lion falls deeply in love with a cottager's daughter and wants
+    to marry her; her father is unwilling to give her to a fearsome husband but does
+    not want to offend the Lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4313-4318
+  quote_or_summary: The cottager tells the Lion he will consent only if he may draw
+    the Lion's teeth and pare his nails, because his daughter is terribly afraid of
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4318-4320
+  quote_or_summary: The Lion agrees because of his love; once disarmed, the cottager
+    no longer fears him and drives him away with a club.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are descriptive passage-level candidates and not formal taxonomy
+    matches. No comparison claims are made because the passage itself provides no
+    explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The locator label mentions additional fables, but the supplied passage text contains only THE RIVERS AND THE SEA and THE LION IN LOVE.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4297-l4320
+  passage_sha256=8314faeba7741f1a5a65e7b26d5bd4d99f48ce5d301a3b0b2d7713518ed083f8
+

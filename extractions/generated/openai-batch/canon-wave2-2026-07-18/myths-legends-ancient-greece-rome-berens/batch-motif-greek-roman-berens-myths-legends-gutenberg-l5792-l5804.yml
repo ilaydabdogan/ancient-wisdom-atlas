@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5792-l5804
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: AESCULAPIUS. / ROMAN DIVINITIES. / JANUS. / FLORA.; lines 5792-5804
+  start: '5792'
+  end: '5804'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Flora was the goddess of flowers
+  summary: The passage describes Flora as the Roman goddess of flowers, a beneficent
+    protector of early blossoms, honored by the Floralia festival in late April and
+    early May, and represented as a lovely maiden garlanded with flowers who typifies
+    Spring.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Flora is identified as the goddess of flowers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Flora is described as a beneficent power who watched over and protected early
+    blossoms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Romans held Flora in high estimation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A festival called the Floralia was celebrated in Flora's honor from April
+    28 to May 1.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Floralia was a season of universal merriment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the festival, flowers were used to adorn houses and streets and were
+    worn by young girls in their hair.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Flora typified the season of Spring.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Flora is generally represented as a lovely maiden garlanded with flowers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Flora
+  description: Goddess of flowers; beneficent protector of early blossoms; typifies
+    Spring; represented as a lovely maiden garlanded with flowers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Romans
+  description: The people who held Flora in high estimation and celebrated the Floralia
+    in her honor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: young girls
+  description: Festival participants who wore flowers in their hair during the Floralia.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: goddess of flowers
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Flora as the goddess of flowers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: protector of early blossoms
+  assigned_to:
+  - fig:1
+  basis: The passage says Flora watched over and protected the early blossoms.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: personification of Spring
+  assigned_to:
+  - fig:1
+  basis: The passage says Flora typified the season of Spring.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: worshippers or celebrants
+  assigned_to:
+  - fig:2
+  basis: The Romans are described as holding Flora in high estimation and celebrating
+    the Floralia in her honor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: festival participants
+  assigned_to:
+  - fig:3
+  basis: Young girls are described as wearing flowers in their hair during the festival.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: flowers
+  literal_form: flowers, early blossoms, garlands
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Spring
+  literal_form: season of Spring
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Floralia
+  literal_form: festival in honor of Flora from April 28 to May 1
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Flora protects blossoms
+  summary: Flora is described as a beneficent goddess of flowers who watches over
+    and protects early blossoms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Floralia celebration
+  summary: The Romans celebrate the Floralia in Flora's honor from April 28 to May
+    1, with merriment and extensive use of flowers to decorate houses, streets, and
+    young girls' hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Flora as Spring maiden
+  summary: Flora is said to typify Spring and is represented as a lovely maiden garlanded
+    with flowers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: spring and flowers personified by a goddess
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links Flora with flowers, early blossoms, a springtime festival,
+    and the season of Spring itself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a handbook description rather than a narrative myth;
+    the motif is thematic and seasonal rather than plot-based.
+- id: motif:2
+  label: festival adornment with flowers
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Floralia is described as a dated seasonal celebration in which flowers
+    adorn houses, streets, and young girls' hair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives ritual details but does not explain a mythic origin
+    for the festival.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5792-5795
+  quote_or_summary: Flora was the goddess of flowers and a beneficent power who watched
+    over and protected early blossoms.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 5797-5799
+  quote_or_summary: The Romans held Flora in high estimation and celebrated the Floralia
+    in her honor from April 28 to May 1.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 5799-5802
+  quote_or_summary: The Floralia was a time of universal merriment, with flowers used
+    profusely to adorn houses and streets and worn by young girls in their hair.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 5803-5804
+  quote_or_summary: Flora typified Spring and was generally represented as a lovely
+    maiden garlanded with flowers.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the passage is descriptive and does not provide a developed narrative episode.
+    No comparison claims were made because the passage itself does not support comparison
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to available motif family IDs; no symbol taxonomy reference was available for flowers or Spring.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5792-l5804
+  passage_sha256=c1a5f937275bf2e3de84440164ec43ba91d2f3c70a0b6e6a86510a65b0c72228
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4127-l4148
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: VICTORIA. / HERMES (MERCURY). / MERCURY. / DIONYSUS (BACCHUS).; lines 4127-4148
+  start: '4127'
+  end: '4148'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a modern statue of Ariadne riding a panther, then
+    summarizes attributes of Dionysus: patronage of drama and the Dionysia at Athens,
+    prophetic oracles including one on Mount Rhodope, sacred animals and plants, and
+    goat sacrifices.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ariadne is represented in a modern statue as riding on a panther, wearing
+    an ivy-leaf wreath, holding drapery with one hand, and resting the other hand
+    on the animal's head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus is described as patron of the drama.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Dionysia was a state festival in Athens celebrated in honour of Dionysus,
+    with dramatic entertainments.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus is described as a prophetic divinity who possessed oracles, with
+    the principal oracle on Mount Rhodope in Thrace.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tiger, lynx, panther, dolphin, serpent, and ass are listed as sacred to
+    Dionysus.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The vine, ivy, laurel, and asphodel are listed as favourite plants of Dionysus.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Goats are listed as sacrifices to Dionysus, probably because goats are destructive
+    to vineyards.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ariadne
+  description: Ariadne appears in the described statue riding on a panther and wearing
+    an ivy-leaf wreath.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dionysus
+  description: Dionysus is described as patron of drama, a prophetic divinity with
+    oracles, and a god to whom certain animals, plants, and sacrifices are sacred
+    or connected.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: represented rider
+  assigned_to:
+  - fig:1
+  basis: Ariadne is represented in a statue as riding on a panther.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: patron of drama
+  assigned_to:
+  - fig:2
+  basis: The passage states that Dionysus was regarded as patron of the drama.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prophetic divinity
+  assigned_to:
+  - fig:2
+  basis: The passage states that Dionysus was a prophetic divinity and possessed oracles.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of sacrifices
+  assigned_to:
+  - fig:2
+  basis: The passage states that his sacrifices consisted of goats.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: panther
+  literal_form: panther
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: ivy wreath
+  literal_form: wreath of ivy-leaves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: Mount Rhodope
+  literal_form: Mount Rhodope in Thrace
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: serpent
+  literal_form: serpent
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vine
+  literal_form: vine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: goat sacrifice
+  literal_form: goats
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ariadne represented on a panther
+  summary: A modern statue represents Ariadne riding on a panther, crowned with ivy,
+    and touching the animal's head.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dionysus and dramatic festival
+  summary: Dionysus is identified as patron of drama, and the Dionysia in Athens is
+    described as a state festival with dramatic entertainments in his honour.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dionysus as prophetic divinity
+  summary: Dionysus is described as possessing oracles, especially one on Mount Rhodope
+    in Thrace.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sacred animals, plants, and sacrifices of Dionysus
+  summary: The passage lists animals and plants sacred or favoured by Dionysus and
+    identifies goats as sacrifices to him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deity as patron of drama and festival performance
+  taxonomy_refs: []
+  basis: Dionysus is described as patron of drama, and dramatic entertainments at
+    the Dionysia are said to occur in his honour.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an attribute and cultic pattern rather than a narrative myth motif
+    in the passage.
+- id: motif:2
+  label: prophetic deity with mountain oracle
+  taxonomy_refs:
+  - wisdom
+  basis: Dionysus is described as a prophetic divinity with oracles, principally one
+    on Mount Rhodope in Thrace.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names prophecy and an oracle but gives no oracle narrative
+    or divinatory episode.
+- id: motif:3
+  label: animal sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that the sacrifices of Dionysus consisted of goats.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage provides a cultic detail, not a full sacrificial myth narrative.
+- id: motif:4
+  label: deity associated with sacred animals and plants
+  taxonomy_refs: []
+  basis: The passage lists animals sacred to Dionysus and plants favoured by him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif-family
+    list does not include a general sacred animal or plant association category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4127-4135
+  quote_or_summary: Ariadne is described in Danneker's statue at Frankfort-on-the-Maine
+    as riding on a panther, with an ivy-leaf wreath and one hand resting on the animal's
+    head.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 4137-4142
+  quote_or_summary: Dionysus is regarded as patron of drama, and the Dionysia at Athens
+    included dramatic entertainments in his honour.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 4144-4146
+  quote_or_summary: Dionysus is described as a prophetic divinity with oracles, especially
+    one on Mount Rhodope in Thrace.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 4147-4148
+  quote_or_summary: The passage lists tiger, lynx, panther, dolphin, serpent, and
+    ass as sacred to Dionysus; vine, ivy, laurel, and asphodel as his favourite plants;
+    and goats as sacrifices to him, probably because goats damage vineyards.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    mostly cultic or iconographic rather than narrative motifs. No comparison claims
+    are made because the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information or unsupported taxonomy references were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4127-l4148
+  passage_sha256=b1dafbb9c2fc948bb7a203f9442d15cb2dde48bafbef6a2d0cbad7c20d0023f6
+

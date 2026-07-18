@@ -1,0 +1,562 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4627-l4745
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY
+    HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES
+    TO FLOWER; lines 4627-4745
+  start: '4627'
+  end: '4745'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After the dog Shiro is killed by the wicked neighbor and buried beneath
+    a yenoki tree, Shiro’s kind master obtains the tree, makes a mortar from it, and
+    finds that it produces abundant rice cakes. The greedy neighbor borrows the mortar,
+    breaks it, and burns it when it yields foul-smelling matter for him. Shiro’s master
+    takes the ashes; when they touch autumn trees, the trees burst into bloom. A Knight
+    sent by a Daimio summons the old man to make a withered favorite cherry tree flower,
+    and the old man climbs the tree and scatters the ashes over its branches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man learns that his dog Shiro has been killed by the neighbor and
+    buried under a yenoki tree, and he asks for that tree in remembrance of Shiro.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man cuts down the yenoki tree, carries it home, and makes a mortar
+    from its trunk.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When rice is put into the mortar and pounded, the quantity increases and cakes
+    come out of the mortar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old man and his wife understand the abundant cakes as a reward from Shiro
+    for their faithful love, and they live on the cakes supplied by the mortar.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The greedy neighbor borrows the mortar, fails to return it, breaks it, and
+    burns the pieces after it produces foul-smelling matter for him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The old man asks for the ashes of the burned mortar and carries home a basket
+    full of them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When ashes from the burned mortar touch leafless autumn trees, cherry trees,
+    plum trees, and other blossoming shrubs burst into bloom.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A Knight tells the old man that he is a retainer of a Daimio whose favorite
+    cherry tree has withered, and asks him to come at once.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: At the Daimio’s palace, the Daimio asks whether the old man can make withered
+    trees flower out of season and orders him to make the dead cherry tree blossom
+    with the ashes.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The old man climbs the cherry tree and scatters the ashes over its branches
+    and twigs while the Daimio’s household watches.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Shiro’s master / the good old man
+  description: A kind old man who mourns Shiro, obtains the burial tree, makes the
+    mortar, preserves the ashes, and is summoned to make a withered tree flower.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Shiro
+  description: The old man’s dog, killed by the neighbor and buried under the yenoki
+    tree; the old couple understand the cakes as Shiro’s reward to them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: The old man’s wife
+  description: The old man’s wife puts rice into the mortar and shares in recognizing
+    and eating the miraculous cakes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: The wicked / greedy neighbor
+  description: The neighbor who says he killed Shiro, lends the old man the burial
+    tree, borrows the mortar, breaks it, and burns it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: The Knight
+  description: A retainer of the Daimio who comes to the old man’s door and asks him
+    to come to revive the Daimio’s withered cherry tree.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: The Daimio
+  description: A nobleman whose favorite cherry tree has withered; he commands the
+    old man to make it blossom with the ashes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Daimio’s retainers and ladies-in-waiting
+  description: Members of the Daimio’s household who go into the garden and watch
+    the old man scatter the ashes; the ladies-in-waiting carry the Daimio’s sword.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: bereaved keeper of Shiro’s remains
+  assigned_to:
+  - fig:1
+  basis: The old man mourns Shiro and asks for the tree under which Shiro is buried
+    as a remembrance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: posthumous benefactor as understood by the old couple
+  assigned_to:
+  - fig:2
+  basis: The old couple understand the miraculous cakes as a reward from Shiro for
+    their faithful love.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: household helper and witness
+  assigned_to:
+  - fig:3
+  basis: The wife places rice in the mortar and joins the old man in recognizing the
+    cakes as Shiro’s reward.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: wonder-working old man
+  assigned_to:
+  - fig:1
+  basis: The old man possesses ashes that make trees blossom and is summoned as one
+    who can make withered trees flower.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:5
+  label: greedy antagonist and destroyer of the mortar
+  assigned_to:
+  - fig:4
+  basis: The neighbor is described as greedy or wicked, borrows the mortar, keeps
+    it, breaks it, and burns it.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: noble messenger
+  assigned_to:
+  - fig:5
+  basis: The Knight identifies himself as the Daimio’s retainer and asks the old man
+    to come at once.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: noble requester and observer
+  assigned_to:
+  - fig:6
+  basis: The Daimio asks the old man to make the dead cherry tree blossom and says
+    he will look on.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: court witnesses
+  assigned_to:
+  - fig:7
+  basis: The Daimio’s retainers and ladies-in-waiting accompany him into the garden
+    and watch the old man’s movements.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: yenoki burial tree
+  literal_form: The yenoki tree in the field under which Shiro is buried, later cut
+    down and made into a mortar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mortar made from Shiro’s burial tree
+  literal_form: A mortar made from the trunk of the yenoki tree; it produces abundant
+    rice cakes for the old couple.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: multiplying rice cakes
+  literal_form: Rice cakes that increase in quantity and come out of the mortar, supplying
+    food for the old couple.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: fire that consumes the broken mortar
+  literal_form: A big fire made with pieces of wood from the broken mortar.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ashes of the mortar
+  literal_form: Ashes from the burned mortar, kept in a basket and later scattered
+    on trees.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: sym:6
+  label: autumn trees bursting into spring bloom
+  literal_form: Leafless autumn trees, including cherry and plum trees, that bloom
+    when touched by the ashes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: withered favorite cherry tree
+  literal_form: The Daimio’s favorite cherry tree, described as withered or dead and
+    selected to be made to blossom with the ashes.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Shiro’s death and the burial tree
+  summary: The old man waits for Shiro, learns that the neighbor killed him, and asks
+    for the yenoki tree under which the dog is buried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The tree becomes a food-giving mortar
+  summary: The old man makes a mortar from the yenoki trunk, and rice pounded in it
+    turns into abundant cakes that the couple understand as Shiro’s reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The neighbor destroys the mortar
+  summary: The greedy neighbor borrows the mortar, obtains foul-smelling matter instead
+    of cakes, breaks the mortar, and burns it; the old man asks for the ashes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Ashes make the old man’s garden bloom
+  summary: Some ashes accidentally touch leafless autumn trees, which burst into bloom
+    and make the garden look like spring.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Summons to the Daimio’s withered cherry tree
+  summary: A Knight summons the old man to the Daimio, whose favorite cherry tree
+    has withered, and the Daimio asks the old man to make it blossom with the ashes.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Scattering ashes before the court
+  summary: The old man climbs the dead cherry tree and scatters ashes over its branches
+    and twigs while the Daimio, retainers, and ladies-in-waiting watch.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: dead animal’s remains become a source of blessing
+  taxonomy_refs:
+  - death_rebirth
+  basis: Shiro is killed and buried beneath a tree; the tree becomes a mortar that
+    produces abundant food, and the old couple understand the benefit as a reward
+    from Shiro.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the couple’s interpretation of Shiro’s reward but does
+    not describe Shiro acting directly after death.
+- id: motif:2
+  label: miraculous food-producing household object
+  taxonomy_refs: []
+  basis: The mortar made from the burial tree causes rice to increase and supplies
+    cakes continuously to the old couple.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No taxonomy reference among the supplied motif families directly names
+    a food-producing object.
+- id: motif:3
+  label: greedy imitator misuses a wonder object
+  taxonomy_refs: []
+  basis: The greedy neighbor borrows the wonderful mortar, receives foul-smelling
+    matter instead of cakes, then breaks and burns it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage shows the contrast between the good old man and the greedy
+    neighbor, but it does not state a general moral formula.
+- id: motif:4
+  label: ashes restore trees to bloom out of season
+  taxonomy_refs:
+  - resurrection
+  - seasonal_cycle
+  - death_rebirth
+  basis: Ashes from the burned mortar make leafless autumn trees bloom and are sought
+    for a withered or dead cherry tree.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage describes flowering and revival imagery, but the Daimio’s
+    tree has not yet bloomed within the supplied excerpt.
+- id: motif:5
+  label: transformation of remains into a stronger wonder-working substance
+  taxonomy_refs:
+  - death_rebirth
+  basis: The tree associated with Shiro becomes a mortar; after the mortar is broken
+    and burned, its ashes become the means for making trees bloom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an inferred pattern across events in the passage; the text does
+    not explicitly label the transformations as stages of one motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4627-4636
+  quote_or_summary: Shiro does not return; the old man asks the neighbor, who says
+    he killed Shiro. The old man learns Shiro is buried under the yenoki tree and
+    asks for the tree in remembrance of the dog.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 4637-4642
+  quote_or_summary: The neighbor consents to give the tree; Shiro’s master cuts it
+    down, carries it home, and makes a mortar from the trunk.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 4643-4648
+  quote_or_summary: When the wife puts rice into the mortar and the old man pounds
+    it, the rice increases to about five times its amount and cakes come out as if
+    worked by an invisible hand.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 4649-4655
+  quote_or_summary: The old man and wife understand the cakes as Shiro’s reward for
+    their faithful love; the mortar continues to supply them with cakes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 4656-4674
+  quote_or_summary: The greedy neighbor borrows the mortar, keeps it, and is later
+    found by a fire with broken mortar pieces. He says he broke and burned it because
+    foul-smelling stuff came out when he tried to pound cakes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 4675-4683
+  quote_or_summary: The good old man says he would have given cakes if asked, requests
+    the ashes of the mortar as a remembrance of Shiro, and carries home a basket of
+    ashes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 4684-4694
+  quote_or_summary: Some ashes accidentally scatter on the garden trees; although
+    it is late autumn and the trees are leafless, cherry trees, plum trees, and other
+    shrubs burst into bloom like spring.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 4695-4709
+  quote_or_summary: A Knight, retainer of a Daimio, says the Daimio’s favorite cherry
+    tree has withered and that the old man, reputed to make withered trees blossom,
+    is requested to come at once.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:9
+  type: summary
+  locator: lines 4710-4725
+  quote_or_summary: At the palace, the Daimio asks if he is the old man who can make
+    withered trees flower out of season, then tells him to make the dead cherry tree
+    blossom with his famous ashes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+- id: ev:10
+  type: summary
+  locator: lines 4726-4745
+  quote_or_summary: The Daimio, retainers, and ladies-in-waiting go into the garden.
+    The old man climbs the cherry tree with his pot of ashes and scatters them over
+    the branches and twigs while everyone watches.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    involving death-rebirth or resurrection are interpretive and should be reviewed,
+    especially because the supplied excerpt ends while the old man is scattering ashes
+    on the Daimio’s tree.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparison claims were added because the passage itself does not explicitly compare the events to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4627-l4745
+  passage_sha256=e58fefc4268f12e363f672f32eb231e1e7a64e880c884d8830da4da8c9f61755
+

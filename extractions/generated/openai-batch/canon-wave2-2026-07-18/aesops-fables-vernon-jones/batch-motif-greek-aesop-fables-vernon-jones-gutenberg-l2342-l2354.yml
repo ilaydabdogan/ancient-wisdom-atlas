@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2342-l2354
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: MERCURY AND THE SCULPTOR / THE FAWN AND HIS MOTHER / THE FOX AND THE LION
+    / THE EAGLE AND HIS CAPTOR; lines 2342-2354
+  start: '2342'
+  end: '2354'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man captures an eagle, clips its wings, and leaves it among fowls. A
+    neighbour buys the eagle, allows its wings to grow back, and the restored eagle
+    brings him a hare as a gift. A fox advises the eagle to give gifts instead to
+    the original captor so that he may not capture and clip the eagle again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man catches an eagle and clips its wings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The clipped eagle is released among fowls in a hen-house and appears dejected
+    in a corner.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The captor sells the eagle to a neighbour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The neighbour lets the eagle's wings grow again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After recovering use of its wings, the eagle catches a hare and brings it
+    to the neighbour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A fox observes the eagle's gift and tells the eagle to give gifts to the original
+    captor instead, so that the captor may not clip its wings again.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: An eagle caught by a man, deprived of flight by clipped wings, later
+    restored and able to catch a hare.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: First man / captor
+  description: A man who catches the eagle, clips its wings, keeps it among fowls,
+    and later sells it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Neighbour / benefactor
+  description: The neighbour who buys the eagle, lets its wings grow again, and receives
+    the hare from the eagle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Fox
+  description: A fox who observes the eagle's gift and advises the eagle to direct
+    gifts to the original captor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Fowls
+  description: Fowls in the hen-house among which the clipped eagle is turned loose.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Hare
+  description: A hare caught by the recovered eagle and presented to the neighbour.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: captured and restored bird
+  assigned_to:
+  - fig:1
+  basis: The eagle is caught, has its wings clipped, is later allowed to regrow them,
+    and recovers their use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: captor and maimer
+  assigned_to:
+  - fig:2
+  basis: The man catches the eagle and clips its wings.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: benefactor
+  assigned_to:
+  - fig:3
+  basis: The neighbour lets the eagle's wings grow again and is explicitly called
+    the eagle's benefactor.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: gift-giver
+  assigned_to:
+  - fig:1
+  basis: The eagle brings the captured hare home and presents it to the neighbour.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: observer and adviser
+  assigned_to:
+  - fig:4
+  basis: The fox observes the gift and gives advice to the eagle.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: hen-house animals
+  assigned_to:
+  - fig:5
+  basis: The eagle is turned loose among the fowls in the hen-house.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: captured prey and gift
+  assigned_to:
+  - fig:6
+  basis: The hare is caught by the eagle and presented to the benefactor.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clipped wings
+  literal_form: The eagle's wings are clipped by the captor and later grow again.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hen-house corner
+  literal_form: The clipped eagle mopes in a corner among fowls in a hen-house.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hare gift
+  literal_form: A hare caught by the eagle and presented to the neighbour.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Capture and clipping
+  summary: A man captures an eagle, clips its wings, and leaves it among fowls in
+    a hen-house, where it appears dejected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sale and restoration
+  summary: The first captor sells the eagle to a neighbour, who lets its wings grow
+    again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gift to benefactor
+  summary: Once able to fly again, the eagle catches a hare and brings it to the neighbour
+    as a gift.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fox's counsel
+  summary: A fox advises the eagle not to waste gifts on the benefactor but to give
+    them to the original captor to prevent future harm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: restored captive gives thanks to benefactor
+  taxonomy_refs: []
+  basis: The eagle regains use of its wings under the neighbour's care and brings
+    him a hare as a present.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the action directly, but any moral meaning beyond
+    gratitude is interpretive.
+- id: motif:2
+  label: pragmatic counsel to appease a dangerous former captor
+  taxonomy_refs:
+  - wisdom
+  basis: The fox advises the eagle to direct gifts to the original captor so that
+    the captor may not catch and clip the eagle again.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is based on the fox's explicit advice; the
+    passage does not state a separate moral.
+- id: motif:3
+  label: loss and recovery of flight
+  taxonomy_refs: []
+  basis: The eagle's wings are clipped, then later allowed to grow back, after which
+    the eagle flies out and hunts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literal narrative pattern, not tied to a supplied taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2342-2346
+  quote_or_summary: A man catches an eagle, clips its wings, and turns it loose among
+    fowls in a hen-house, where it mopes dejectedly in a corner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2346-2348
+  quote_or_summary: The captor sells the eagle to a neighbour, who takes it home and
+    lets its wings grow again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2348-2350
+  quote_or_summary: After recovering use of its wings, the eagle flies out, catches
+    a hare, and presents it to the benefactor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2350-2354
+  quote_or_summary: A fox observes the gift and advises the eagle to give gifts to
+    the first captor so that he may not catch and clip the eagle a second time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions and should be reviewed, especially the taxonomy link
+    to wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparative claim to another tradition or motif family beyond candidate motif identification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2342-l2354
+  passage_sha256=b7c8551bc36955d613f7e7263350192d77197ffccb2079189ee3f79d10d6df18
+

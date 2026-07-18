@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8654-l8692
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: THE SLAYING OF TURNUS / THE END. / NOTES / BOOK FIRST; lines 8654-8692
+  start: '8654'
+  end: '8692'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of end matter and notes to Book First of the Aeneid.
+    The notes explain Latin word meanings, a swan-action passage, textual variants,
+    a Shakespeare parallel for a translated phrase, and a lexical distinction involving
+    laquear/lacuar/lacunar.
+  language: English with Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with headings marking the end of the work and the start
+    of notes for Book First.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note on Book First line 123 says the Latin word inimica can mean not only
+    hostile but pernicious, citing Servius and noting this sense in Virgil.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note on Book First line 396 reports Henry's explanation that the swans are
+    rising and hovering over the place where they had settled.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same note states that the parallelism between lines 396 and 400 exists
+    but is inverted, pairing capere with subit and captas despectare with tenet.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Notes on lines 427, 550, and 636 discuss preferred textual readings and manuscript
+    or internal grounds for them.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note on line 722 gives the translated phrase 'The long-since-unstirred spirit'
+    and quotes a line from Shakespeare's Sonnet XXX as a parallel.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note on line 726 cites Servius and Prof. Nettleship in distinguishing laquear
+    from laqueus, meaning chain or network, and lacuar/lacunar from lacus, meaning
+    sunk work.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Servius
+  description: Cited as an authority in notes on Virgilian wording and on laquearia/lacuaria.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Henry
+  description: Cited as explaining the phrase captas despectare in relation to swans
+    rising and hovering.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Shakespeare
+  description: Named as the author of the quoted line from Sonnet XXX under the note
+    on line 722.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Prof. Nettleship
+  description: Cited for pointing out a distinction between two related Latin words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Virgil
+  description: Named in a note stating that a word often has a particular sense in
+    Virgil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: swans
+  description: A group of swans described in Henry's explanation as rising and hovering
+    over the place where they had settled.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited commentator
+  assigned_to:
+  - fig:1
+  basis: Servius is cited for explanatory notes on Latin words and readings.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: cited scholar or interpreter
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Henry is cited for an interpretation of the swan passage, and Prof. Nettleship
+    is cited for a lexical distinction.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: quoted poet
+  assigned_to:
+  - fig:3
+  basis: A line from Shakespeare's Sonnet XXX is quoted in the note on line 722.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: author whose usage is discussed
+  assigned_to:
+  - fig:5
+  basis: The note says the relevant word often has the stated sense in Virgil.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: described animal group
+  assigned_to:
+  - fig:6
+  basis: The swans are the beings whose movement is described in the note on line
+    396.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial notes to Book First
+  summary: The passage presents notes on selected Book First lines, covering lexical
+    meanings, manuscript readings, interpretive comments, and literary quotation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Swan movement explained
+  summary: Within a note on line 396, the swans are described as rising and hovering
+    over the place where they had settled.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: source lines 8654-8658
+  quote_or_summary: Headings mark 'THE END,' 'NOTES,' and 'BOOK FIRST.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: source lines 8660-8662; Book First note l. 123
+  quote_or_summary: The note explains inimica as not only hostile but pernicious,
+    cites Servius on ix.315, and says the sense often occurs in Virgil.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: source lines 8664-8669; Book First note l. 396
+  quote_or_summary: The note says Henry explains captas despectare as the swans rising
+    and hovering over where they had settled, and describes an inverted parallelism
+    between lines 396 and 400.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: source lines 8671-8678; Book First notes ll. 427, 550, 636
+  quote_or_summary: The notes discuss readings such as lata theatris, Arvaque/armaque,
+    and Munera laetitiamque die, with manuscript and internal grounds mentioned.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: source lines 8680-8683; Book First note l. 722
+  quote_or_summary: 'The note gives ''The long-since-unstirred spirit'' and quotes
+    Shakespeare, Sonnet XXX: ''And weep afresh love''s long-since-cancell''d woe.'''
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: summary
+  locator: source lines 8685-8692; Book First note l. 726
+  quote_or_summary: The note cites Servius on laquearia/lacuaria and says Prof. Nettleship
+    distinguishes laquear from laqueus, meaning chain or network, and lacuar/lacunar
+    from lacus, meaning sunk work.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is editorial commentary rather than a mythic narrative passage.
+    Literal entities and observations are clear, but no motif-family or symbolic extraction
+    is strongly supported beyond the noted swan action and literary quotation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol or motif refs were assigned. The available taxonomy does not include the swan image, and the passage does not present it as a symbolic or comparative motif.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8654-l8692
+  passage_sha256=667b3d9a3284b4acc6e7926524d99ee0ac2c161b703ab09baacedea4db520c51
+

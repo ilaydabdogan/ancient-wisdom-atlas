@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2638-l2647
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MAN AND THE SATYR / THE IMAGE-SELLER / THE EAGLE AND THE ARROW / THE
+    RICH MAN AND THE TANNER; lines 2638-2647
+  start: '2638'
+  end: '2647'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“the Rich Man got so used to the smell that he ceased to mind it”"
+  summary: A rich man lives next to a tanner, objects to the smell of the tan-yard,
+    repeatedly asks the tanner to leave, and eventually becomes used to the smell
+    and stops objecting.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Rich Man takes up residence next door to a Tanner.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rich Man finds the smell of the tan-yard extremely unpleasant and tells
+    the Tanner he must go.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Tanner delays leaving and repeatedly says he is making arrangements to
+    move soon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After some time, the Rich Man becomes accustomed to the smell, ceases to mind
+    it, and stops troubling the Tanner with objections.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Rich Man
+  description: A wealthy resident who moves next door to the Tanner and objects to
+    the tan-yard smell before becoming accustomed to it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Tanner
+  description: A neighbor whose tan-yard produces an unpleasant smell and who delays
+    his promised departure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: complaining neighbor who adapts
+  assigned_to:
+  - fig:1
+  basis: The Rich Man objects to the smell but later gets used to it and stops complaining.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: neighbor who delays departure
+  assigned_to:
+  - fig:2
+  basis: The Tanner says several times that he is making arrangements to move shortly,
+    but remains long enough for the Rich Man to become used to the smell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: tan-yard smell
+  literal_form: unpleasant smell from the tan-yard
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Objection to the tan-yard smell
+  summary: The Rich Man lives next door to the Tanner, finds the tan-yard smell unpleasant,
+    and tells the Tanner to leave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Delayed departure and habituation
+  summary: The Tanner repeatedly delays moving, and over time the Rich Man becomes
+    used to the smell and stops objecting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: habituation to an unpleasant condition
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative turns on the Rich Man’s repeated objections giving way to acceptance
+    after prolonged exposure to the tan-yard smell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no explicit moral in the supplied text; the wisdom classification
+    is inferred from the fable’s practical narrative pattern, not from a stated maxim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2638-2642
+  quote_or_summary: A Rich Man takes up residence next door to a Tanner, finds the
+    tan-yard smell extremely unpleasant, and tells the Tanner he must go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 2642-2645
+  quote_or_summary: The Tanner delays leaving, and whenever the Rich Man raises the
+    matter, says he is arranging to move very shortly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: 2645-2647
+  quote_or_summary: "“the Rich Man got so used to the smell that he ceased to mind
+    it” and stopped troubling the Tanner with objections."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif assignment
+    is cautious because the supplied text contains no explicit moral. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2638-l2647
+  passage_sha256=2a786e95e94935c38e8b161631be10f1927782e6897e4fedb6309bcfca9360d8
+

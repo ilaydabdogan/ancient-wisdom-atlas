@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l1024-l1125
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UHLAKANYANA. / PREFACE  TO  THE  TALE  OF  UTHLAKANYANA.
+    / IZINGANEKWANE.; lines 1024-1125
+  start: '1024'
+  end: '1125'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the ikcakide, translated as a weasel: it frightens
+    a man away from a path, kills and eats snakes by ambushing them in their holes,
+    and is considered a cause of bad luck when caught in traps.'
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The weasel is described as a trouble to men because it may refuse to leave
+    the path, move only a little aside, growl, and frighten a man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man frightened by the weasel goes around the place, later sees the animal
+    run away, feels ashamed, and returns to the path.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The weasel is described as being at great enmity with snakes and as eating
+    them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the weasel finds a place used by an imamba, it waits until the snake
+    has gone out, enters the snake's hole first, and prepares for the snake's return.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The weasel seizes the returning snake by the head, brings it out, kills it,
+    plays or jumps over it, and eats it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: If a weasel is caught in a trap set for wild animals, the trapper expects
+    not to catch animals, because the weasel is said to stand in the way and to bring
+    bad luck.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: ikcakide / weasel
+  description: An animal that frightens men on paths, kills and eats snakes, and is
+    associated with bad luck in trapping.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man on the path
+  description: A man who is frightened by the weasel, detours from the path, then
+    returns after seeing it run away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: imamba / snake
+  description: A snake habitually using a hole, ambushed and killed by the weasel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: trappers
+  description: People setting traps for wild animals who regard a caught weasel as
+    a sign that animal-catching will fail.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: path-frightener
+  assigned_to:
+  - fig:1
+  basis: The weasel frightens a man from the path by growling and appearing to obstruct
+    it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: snake-killer and eater
+  assigned_to:
+  - fig:1
+  basis: The weasel ambushes an imamba, kills it, and eats it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bad-luck animal for trapping
+  assigned_to:
+  - fig:1
+  basis: A weasel caught in a trap is said to stand in the way of future catches and
+    to bring bad luck.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: frightened traveler
+  assigned_to:
+  - fig:2
+  basis: The man leaves the path because of the weasel and is later ashamed when it
+    runs away.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: snake adversary and prey
+  assigned_to:
+  - fig:3
+  basis: The imamba is the target of the weasel's ambush and is killed and eaten.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: trappers affected by omen
+  assigned_to:
+  - fig:4
+  basis: Trappers lose confidence in catching animals when a weasel has entered the
+    trap.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: bad-luck weasel
+  literal_form: ikcakide / weasel caught in a trap
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: snake adversary
+  literal_form: imamba / snake
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: obstructed path
+  literal_form: path from which the man detours
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: snake hole
+  literal_form: hole of the snake entered first by the weasel
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: trap of bad luck
+  literal_form: trap in which a weasel is caught
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Weasel frightens a man from the path
+  summary: The weasel moves only slightly aside, growls, and causes a man to detour
+    from the path; the man later sees it run away and returns ashamed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weasel ambushes and eats a snake
+  summary: The weasel waits for an imamba to leave, enters the snake's hole first,
+    seizes the returning snake by the head, kills it, plays or jumps over it, and
+    eats it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Weasel caught in a trap brings bad luck
+  summary: When trappers catch a weasel, they expect failure in trapping because the
+    weasel is said to stand in the way and to cause bad luck by a kind of influence.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: small animal frightens traveler from path
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The weasel blocks or appears to block the path and causes a man to leave
+    it, though the man later realizes the threat was only a weasel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents animal lore rather than a full trickster tale; the
+    boundary/trickster mapping is provisional.
+- id: motif:2
+  label: animal enemy of snakes
+  taxonomy_refs:
+  - serpent
+  basis: The weasel is explicitly said to be at great enmity with snakes and to kill
+    and eat an imamba through ambush.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The snake is an imamba in animal lore; the passage does not identify it
+    as a cosmic or supernatural serpent.
+- id: motif:3
+  label: animal omen spoils hunting or trapping luck
+  taxonomy_refs: []
+  basis: A weasel caught in a trap is treated as a cause or sign that the trapper
+    will not catch animals, with the note explaining a nonphysical or magical influence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No provided taxonomy family precisely matches this local bad-luck trapping
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1024-1067
+  quote_or_summary: The English translation says the weasel may refuse to leave the
+    path, growl and frighten a man, causing him to go around; after seeing it run
+    away, the man is ashamed and returns to the path.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 1068-1109
+  quote_or_summary: The passage says the weasel is at great enmity with snakes, watches
+    for an imamba to leave, enters its hole first, seizes its head when it returns,
+    kills it, plays or jumps over it, and eats it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 1110-1119
+  quote_or_summary: The English translation says that if trappers catch a weasel,
+    the trapper has no confidence of catching animals because the weasel stands in
+    the way and evil follows.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: note
+  locator: footnote 5 within lines 1110-1125
+  quote_or_summary: The note explains that 'stands in the way' refers not to actual
+    presence but to a kind of magical influence, and that what follows from the weasel
+    entering the trap is bad luck or bad 'leavings.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward from the English translation and
+    note. Motif labels are tentative because the passage is an animal-lore preface
+    rather than a complete narrative episode. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The passage is bilingual Zulu with English translation and includes an explanatory footnote on the trapping-luck term.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l1024-l1125
+  passage_sha256=90917c7e6efb92eedc22e6b07ba37d154bc8ad929504cd5a76faacf326febd13
+

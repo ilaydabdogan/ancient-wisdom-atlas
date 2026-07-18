@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2843-l2895
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXVIII. / XXIX. / XXXI. / XXXII.; lines 2843-2895
+  start: '2843'
+  end: '2895'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Section XXXII presents a first-person speaker before a door without a key
+    and a veil that cannot be seen through; after brief talk of “ME and THEE,” both
+    terms cease. The notes compare this with quatrains about the secret of Eternity,
+    a curtain, and inaccessible fate or destiny. Section XXXIII depicts Earth, seas,
+    and Heaven as unable to answer, with seas mourning their Lord; the note says this
+    was taken from Attar’s Mantik ut-tair story in which a spiritual observer questions
+    the blue, mourning, boiling sea, and the sea says it grieves separation from the
+    Friend.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker finds a door for which there is no key and a veil through which
+    sight is not possible.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A brief talk of “ME and THEE” occurs, followed by the absence of both “THEE”
+    and “ME.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cited C. 387 parallel says neither “thou” nor “I” know the secret of Eternity
+    or can decipher the riddle, and that when the curtain falls neither remains there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited O. 29 and C. 193 parallels say that no one can pass behind the curtain
+    of the secret, fate, or destiny.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In section XXXIII, Earth cannot answer; the seas mourn in purple and are described
+    as forlorn of their Lord; Heaven’s signs are both revealed and hidden by Night
+    and Morn.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the Attar story excerpt, an observer of spiritual things approaches the
+    sea and asks why it is blue, why it wears mourning, and why it boils without fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The sea answers that it weeps for separation from the Friend, is unworthy
+    of Him through impotence, and has made its robe blue because of sorrow for Him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker in XXXII
+  description: A first-person “I” who finds no key and cannot see through the veil.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: THEE counterpart
+  description: A second-person “THEE” mentioned in the brief talk of “ME and THEE,”
+    after which there is no more of either.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Earth
+  description: Earth is said not to answer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: sea or seas
+  description: The seas mourn in the quatrain; in the cited Attar story, the sea is
+    questioned and gives an answer.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: rolling Heaven
+  description: Heaven is described as rolling, with signs revealed and hidden by Night
+    and Morn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: observer of spiritual things
+  description: A figure in the Attar story who approaches the sea and asks it questions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Friend or Lord
+  description: The one from whom the sea says it is separated; the seas are also described
+    as forlorn of their Lord.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: blocked seeker at an inaccessible threshold
+  assigned_to:
+  - fig:1
+  basis: The speaker encounters a door without a key and a veil through which sight
+    is impossible.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: temporary me-and-thee participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that there is brief talk of “ME and THEE,” then no more
+    of either.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cosmic non-answering entities
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Earth cannot answer, and neither the seas nor Heaven provide an answer in
+    the quatrain.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: mourning respondent
+  assigned_to:
+  - fig:4
+  basis: The sea answers the observer and explains its mourning as grief for separation
+    from the Friend.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: questioner of the sea
+  assigned_to:
+  - fig:6
+  basis: The observer approaches the sea and asks why it is blue, mourning, and boiling.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: absent Friend or Lord
+  assigned_to:
+  - fig:7
+  basis: The sea mourns separation from the Friend, and the quatrain says the seas
+    are forlorn of their Lord.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: door without a key
+  literal_form: Door and absent Key
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: veil or curtain concealing the secret
+  literal_form: Veil; Curtain; Curtain of Fate
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea or water in mourning
+  literal_form: seas; sea
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: mourning color and robe
+  literal_form: flowing Purple; blue robe of mourning
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: fire absent from boiling sea
+  literal_form: fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: heavenly signs hidden and revealed
+  literal_form: rolling Heaven, Signs, sleeve of Night and Morn
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blocked door and veil
+  summary: The first-person speaker stands before an inaccessible door and veil; a
+    brief “ME and THEE” discourse ends in the absence of both terms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Curtain parallels in cited quatrains
+  summary: The commentary cites parallels in which the secret of Eternity, fate, or
+    destiny remains behind a curtain that no one can pass, and the self-other pair
+    disappears when the curtain falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Earth, seas, and Heaven cannot answer
+  summary: Earth, the mourning seas, and Heaven with its signs are presented as unable
+    to answer.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Observer questions the mourning sea
+  summary: In the Attar story excerpt, a spiritual observer questions the sea, and
+    the sea explains its blue mourning robe and sorrow as separation from the Friend.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inaccessible hidden wisdom behind a veil or curtain
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage repeatedly describes a hidden secret, riddle, fate, or destiny
+    that cannot be seen, known, deciphered, or passed behind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes inaccessibility rather than a completed quest.
+- id: motif:2
+  label: cessation of the self-other pair at the curtain
+  taxonomy_refs:
+  - annihilation_union
+  basis: The quatrain ends with no more of “THEE and ME,” and the cited parallel says
+    that when the curtain falls neither “thou” nor “I” remains there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text states disappearance or absence, not explicit union.
+- id: motif:3
+  label: cosmic entities unable to answer ultimate questions
+  taxonomy_refs:
+  - wisdom
+  basis: Earth, seas, and Heaven are said not to answer, despite Heaven’s signs being
+    revealed and hidden.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The implied question is not fully specified in the quatrain excerpt.
+- id: motif:4
+  label: mourning sea separated from the Friend or Lord
+  taxonomy_refs:
+  - divine_beloved
+  basis: The seas mourn their Lord, and the Attar story’s sea says it weeps because
+    of separation from the Friend.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage uses capitalized “Lord” and “Friend,” but does not explicitly
+    define the figure’s theological status.
+- id: motif:5
+  label: personified water that speaks and grieves
+  taxonomy_refs: []
+  basis: The sea is questioned as an interlocutor and answers by describing its sorrow,
+    unworthiness, and mourning robe.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied motif-family taxonomy ref directly names personified water.
+comparison_claims:
+- id: claim:1
+  claim: Section XXXII is presented as sharing the hidden curtain, secret, and me/thee
+    disappearance pattern with C. 387, which the note calls the quatrain’s main inspiration.
+  claim_level: same_motif
+  target: C. 387 quatrain cited under section XXXII
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim relies on the anthology’s internal note and excerpt, without
+    external textual verification.
+- id: claim:2
+  claim: Section XXXII is also presented as influenced by O. 29 and C. 193, where
+    no one can pass behind the curtain of the secret, fate, or destiny.
+  claim_level: same_motif
+  target: O. 29 and C. 193 quatrain parallels cited under section XXXII
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only brief excerpts of the cited parallels.
+- id: claim:3
+  claim: Section XXXIII is explicitly said to have been taken by Edward FitzGerald
+    from Attar’s Mantik ut-tair, and both passages center on the sea’s mourning separation
+    from a Lord or Friend.
+  claim_level: historical_contact
+  target: Mantik ut-tair of Ferid ud din Attar, story beginning at distich No. 972
+    as excerpted in the note
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The extraction uses only the provided anthology note and excerpt; it
+    does not independently collate Attar’s text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2843-2895, section XXXII quatrain
+  quote_or_summary: The quatrain describes a door with no key, a veil through which
+    the speaker cannot see, brief talk of “ME and THEE,” and then no more of either.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2843-2895, C. 387 excerpt under section XXXII
+  quote_or_summary: The cited C. 387 parallel says neither thou nor I know the secret
+    of Eternity or decipher the riddle; there is talk behind the Curtain of me and
+    thee, but when the Curtain falls neither remains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2843-2895, O. 29 and C. 193 excerpts under section XXXII
+  quote_or_summary: The cited parallels say no one can pass behind the Curtain that
+    veils the secret, and no one can pass behind the Curtain of Fate or master the
+    Secret of Destiny.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2843-2895, section XXXIII quatrain
+  quote_or_summary: The quatrain says Earth cannot answer, nor the seas mourning in
+    purple and forlorn of their Lord, nor rolling Heaven with signs revealed and hidden
+    by Night and Morn.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2843-2895, Attar Mantik ut-tair excerpt under section XXXIII
+  quote_or_summary: The note says FitzGerald took the quatrain from Attar; in the
+    excerpt, a spiritual observer asks the sea why it is blue, wears mourning, and
+    boils without fire, and the sea replies that it weeps for separation from the
+    Friend and wears blue from sorrow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction follows the supplied passage text. Confidence is reduced slightly
+    because the supplied locator label lists other section numbers, while the passage
+    text itself contains XXXII and XXXIII.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy identifiers beyond those supplied were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2843-l2895
+  passage_sha256=0398073ad918676005ef1360d62caf9fb0d87a61aa9b752e6c93cf03c6c27aa3
+

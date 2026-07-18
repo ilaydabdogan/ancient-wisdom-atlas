@@ -1,0 +1,584 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l166-l262
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: XIX PRINCE WICKED AND THE GRATEFUL ANIMALS / XX BEAUTY AND BROWNIE / XXI
+    THE ELEPHANT AND THE DOG / THE GIRL MONKEY AND THE STRING OF PEARLS; lines 166-262
+  start: '166'
+  end: '262'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A king’s household goes to a lake in the royal garden, leaving the queen’s
+    jewels with a servant. A Girl Monkey watches, steals the queen’s pearl string
+    while the servant sleeps, and hides it in a tree. After the theft is discovered,
+    the chief guard reasons that someone inside the guarded garden must have taken
+    it. He sets out strings of glass beads as bait. Other monkeys take the beads,
+    and the thief reveals herself by putting on the pearls and boasting. The chief
+    guard catches her, returns her to the king, and is praised for his cleverness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king returns from a walk and summons his family to swim in the lake in
+    his garden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The queen and her ladies leave their jewels with servants before entering
+    the lake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Girl Monkey watches from a nearby tree as the queen places a string of pearls
+    in a box.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The servant guarding the jewel-box falls asleep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Girl Monkey opens the box, takes the string of pearls, returns to the
+    tree, wears the pearls briefly, and hides them in a hole in the tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the servant wakes and finds the pearls missing, she claims that a man
+    has run off with them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The king orders the guards to find the thief.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The chief guard reasons that because the pearls were lost inside a guarded
+    garden, and because many monkeys are in the garden, one of the Girl Monkeys may
+    have taken them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The chief guard buys bright-colored glass beads and has the guards hang them
+    on low bushes after dark.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The next morning, the other monkeys take the bead strings, while the Girl
+    Monkey who stole the pearls remains near the hole where the pearls are hidden.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After the other monkeys tease her, the Girl Monkey puts on the queen’s pearls
+    and boasts that they have only glass beads while she has pearls.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The chief guard, hiding nearby, catches the Girl Monkey and brings her to
+    the king.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The chief guard explains his reasoning and the bead trick to the king, and
+    the king praises and thanks him.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: king
+  description: The ruler who goes walking, summons his family to the lake, orders
+    the thief found, receives the caught Girl Monkey, and praises the chief guard.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: queen
+  description: The owner of the string of pearls, who places them in a box before
+    going into the lake.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: queen’s ladies
+  description: Members of the queen’s party who leave jewels with servants before
+    entering the lake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: servant guarding the jewels
+  description: The servant who watches the jewel-box, falls asleep, and later discovers
+    the pearl string missing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Girl Monkey
+  description: A monkey in the garden who watches the pearls, steals them, hides them
+    in a tree hole, later wears them, boasts, and is caught.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:6
+  name_or_label: guards
+  description: The guards who search for the thief and hang bead strings in the garden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: chief guard
+  description: The guard who reasons about the theft, sets the bead trap, catches
+    the Girl Monkey, and explains the trick to the king.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+- id: fig:8
+  name_or_label: other monkeys
+  description: Monkeys in the garden who take the glass bead strings and speak to
+    the Girl Monkey about not having one.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: ruler issuing orders
+  assigned_to:
+  - fig:1
+  basis: The king commands the guards to find the thief.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: owner of stolen pearls
+  assigned_to:
+  - fig:2
+  basis: The pearls are identified as the queen’s string of pearls.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: royal bathers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The queen and her ladies leave jewels with servants and go into the lake.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sleeping custodian
+  assigned_to:
+  - fig:4
+  basis: The servant keeps watch over the jewel-box but falls asleep before the pearls
+    disappear.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: animal thief
+  assigned_to:
+  - fig:5
+  basis: The Girl Monkey takes the pearl string from the box and hides it.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: searchers and trap assistants
+  assigned_to:
+  - fig:6
+  basis: The guards search for the thief and hang bead strings on bushes.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: royal authority receiving report
+  assigned_to:
+  - fig:1
+  basis: The king is told how the thief was found and praises the chief guard.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: clever investigator
+  assigned_to:
+  - fig:7
+  basis: The chief guard reasons from the guarded garden and uses glass beads to expose
+    the thief.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:12
+- id: role:9
+  label: unwitting comparators
+  assigned_to:
+  - fig:8
+  basis: The other monkeys take glass beads and their comments prompt the Girl Monkey
+    to reveal the pearls.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: queen’s string of pearls
+  literal_form: string of pearls
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:10
+  - ev:12
+- id: sym:2
+  label: jewel-box
+  literal_form: box holding the queen’s pearls
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: tree and tree hole
+  literal_form: tree with a hole where pearls are hidden
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+- id: sym:4
+  label: lake water
+  literal_form: lake in the king’s garden used for swimming
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: glass bead strings
+  literal_form: bright-colored glass bead strings hung on low bushes
+  associated_figures:
+  - fig:7
+  - fig:6
+  - fig:8
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: guarded garden
+  literal_form: king’s garden with guarded gates and many monkeys
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+scenes:
+- id: scene:1
+  label: Royal party goes to the lake
+  summary: The king returns to his garden, summons his family to swim, and the queen
+    and her ladies leave jewels with servants before going into the lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Girl Monkey steals and hides the pearls
+  summary: The Girl Monkey watches the pearls, waits until the servant falls asleep,
+    takes the pearl string from the box, climbs back into the tree, and hides the
+    pearls in a hole.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Theft discovered and search ordered
+  summary: The servant wakes, finds the pearls missing, reports a presumed human thief,
+    and the king orders the guards to find the thief.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Chief guard devises bead trap
+  summary: The chief guard reasons that the thief may be a monkey inside the guarded
+    garden and sets out bright-colored glass beads to test this idea.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Girl Monkey reveals herself
+  summary: The other monkeys display their bead strings and tease the Girl Monkey;
+    she puts on the queen’s pearl string and boasts of having pearls rather than glass
+    beads.
+  figure_refs:
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Capture and royal praise
+  summary: The hidden chief guard catches the Girl Monkey, takes her to the king,
+    explains his reasoning and trick, and receives the king’s thanks and praise.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: animal theft of a royal ornament
+  taxonomy_refs: []
+  basis: A Girl Monkey steals the queen’s string of pearls from a guarded jewel-box
+    and hides it in a tree.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the theft as a court tale episode rather than as
+    a sacred or supernatural theft.
+- id: motif:2
+  label: clever trap exposes hidden thief
+  taxonomy_refs:
+  - wisdom
+  basis: The chief guard reasons that the thief is likely inside the guarded garden
+    and uses imitation ornaments to make the culprit reveal the real pearls.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage’s immediate emphasis
+    is practical cleverness and detection.
+- id: motif:3
+  label: false attribution of theft to an outsider
+  taxonomy_refs: []
+  basis: The servant first claims that a man has run off with the pearls, while the
+    chief guard later reasons that no outside person could have entered the garden.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage does not develop this as a full motif beyond the initial mistaken
+    accusation and later correction.
+- id: motif:4
+  label: boasting reveals concealed possession
+  taxonomy_refs: []
+  basis: The Girl Monkey is prompted by the other monkeys’ bead strings to put on
+    the hidden pearls and boast, allowing the chief guard to catch her.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The motif is inferred from the sequence of concealment, pride, public
+    display, and capture.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 174-181
+  quote_or_summary: The king returns from a walk to his garden, calls his family to
+    the lake, and the queen and her ladies leave jewels with servants before swimming.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 183-187
+  quote_or_summary: A Girl Monkey in a nearby tree watches the queen put her pearl
+    string in a box and waits for the servant in charge to sleep.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 189-191
+  quote_or_summary: The servant first watches the jewel-box, then nods and falls asleep.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 193-199
+  quote_or_summary: The Monkey jumps down, opens the box, takes the pearl string,
+    climbs back into the tree, puts it on, hides it in a tree hole, and sits as if
+    nothing happened.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 201-209
+  quote_or_summary: The servant wakes, finds the pearls gone, says a man has taken
+    them, and explains that she had fallen asleep beside the box.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 211-216
+  quote_or_summary: The guards report the missing pearls to the king, who orders them
+    to find the thief.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 218-226
+  quote_or_summary: The chief guard reflects that the pearls were lost in a guarded
+    garden, outsiders could not enter, and many monkeys are present, so perhaps a
+    Girl Monkey took them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 228-233
+  quote_or_summary: The chief guard devises a trick, buys bright-colored glass beads,
+    and has guards hang bead strings on low bushes after dark.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 233-238
+  quote_or_summary: The next morning the monkeys take bead strings, but the Girl Monkey
+    who took the pearls stays near the hiding place.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 240-246
+  quote_or_summary: The other monkeys admire their beads and tease the quiet Girl
+    Monkey; she puts on the queen’s pearls and declares that hers are pearls, not
+    glass beads.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 248-252
+  quote_or_summary: The chief guard, hidden nearby, catches the Girl Monkey and tells
+    the king that she took the pearls.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 254-260
+  quote_or_summary: The king is glad to recover the pearls; the chief guard explains
+    his inference and bead trick, and the king praises and thanks him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and roles are explicit. Motif labels are descriptive
+    and require human review for alignment with any formal motif index. No comparison
+    claims were made because the passage itself does not compare this story to another
+    tradition or motif family beyond broad thematic classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Headings before the story are retained in the locator but not treated as narrative content for this extraction.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l166-l262
+  passage_sha256=523cce03a1133f96831a1cf3ee75737fde005ccc74df6c0c6673b27b17a6e0ba
+

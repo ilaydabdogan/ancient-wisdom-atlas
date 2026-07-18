@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l14524-l14701
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 14524-14701
+  start: '14524'
+  end: '14701'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists chiefly of numbered footnotes citing works on German
+    and European folklore, mythology, popular antiquities, customs, and superstition.
+    Two notes include brief substantive references: one says squirrels were hunted
+    in the woods before fires were kindled, and another refers to burning a tree in
+    midsummer bonfires.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a sequence of numbered footnotes citing scholarship on folklore,
+    mythology, customs, popular antiquities, and superstition.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note states that before fires were kindled it was customary to hunt squirrels
+    in the woods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same note names fires that were kindled after or around the time of the
+    squirrel-hunting custom.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another note refers to a custom of burning a tree in midsummer bonfires.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Midsummer bonfires are named as the setting for the burning of a tree.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: squirrels
+  description: Animals hunted in the woods before fires were kindled.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: hunted animals
+  assigned_to:
+  - fig:1
+  basis: The note says it was customary to hunt squirrels in the woods before fires
+    were kindled.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fires or bonfires
+  literal_form: fires; midsummer bonfires
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree
+  literal_form: a tree burned in midsummer bonfires
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: woods
+  literal_form: woods where squirrels were hunted
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Squirrel hunt before kindling fires
+  summary: Squirrels are hunted in the woods before fires are kindled, according to
+    a cited custom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Tree burned in midsummer bonfires
+  summary: A note refers to a custom in which a tree is burned in midsummer bonfires.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal hunt before fire kindling
+  taxonomy_refs: []
+  basis: The passage reports a custom of hunting squirrels in the woods before fires
+    were kindled.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides only a brief footnote statement and no explanation
+    of ritual function or narrative context.
+- id: motif:2
+  label: tree burned in midsummer bonfire
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage refers to a custom of burning a tree in midsummer bonfires.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The evidence is a cross-reference in a footnote; it identifies the custom
+    but does not describe its meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14524-14701; footnotes 657-721
+  quote_or_summary: Numbered footnotes cite works on German and European mythology,
+    folklore, popular customs, superstition, and antiquities.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: footnote 677 within lines 14524-14701
+  quote_or_summary: "“before the fires were kindled it was customary to hunt squirrels
+    in the woods.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: footnote 686 within lines 14524-14701
+  quote_or_summary: "“For the custom of burning a tree in the midsummer bonfires,
+    see vol. i. p. 79.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly bibliographic footnotes; only two brief notes supply
+    extractable motif-like customs. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, symbols, or motif candidates were added beyond items explicitly mentioned in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l14524-l14701
+  passage_sha256=ab810967ee6acee0de1f22f748d23f7339724d1af8a16fff6677907f6eefbca8
+

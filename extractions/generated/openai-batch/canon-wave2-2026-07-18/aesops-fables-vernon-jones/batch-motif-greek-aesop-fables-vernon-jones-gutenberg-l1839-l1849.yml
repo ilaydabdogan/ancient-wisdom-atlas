@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1839-l1849
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER AND HIS SONS / THE DOG AND THE COOK / THE MONKEY AS KING / THE
+    THIEVES AND THE COCK; lines 1839-1849
+  start: '1839'
+  end: '1849'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Thieves break into a house, take a Cock because nothing else seems worth
+    taking, and prepare to kill it for supper. The Cock pleads for mercy by saying
+    that his crowing usefully rouses honest men to work. A thief answers that this
+    crowing makes the thieves' livelihood harder and sends the Cock to the pot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group of thieves breaks into a house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thieves find nothing worth taking except a Cock, which they seize and
+    carry away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While preparing supper, one thief catches up the Cock and is about to wring
+    its neck.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Cock cries out for mercy and asks not to be killed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cock says he is useful because he rouses honest men to work in the morning
+    by crowing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The thief replies that the Cock's crowing makes it harder for thieves to get
+    a livelihood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The thief declares that the Cock will go into the pot.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Thieves
+  description: A group who break into a house, seize a Cock, and prepare it for supper.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cock
+  description: A bird taken by the thieves; he speaks, asks for mercy, and describes
+    his morning crowing as useful to honest men.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: One thief
+  description: One member of the thieves who catches up the Cock, is about to wring
+    its neck, and answers the Cock's plea.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: housebreakers
+  assigned_to:
+  - fig:1
+  basis: They break into a house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captors and intended killers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: They seize the Cock, carry it off, and one thief prepares to wring its neck
+    for supper.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: captive pleading for mercy
+  assigned_to:
+  - fig:2
+  basis: The Cock cries out for mercy and asks not to be killed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: morning crower for honest workers
+  assigned_to:
+  - fig:2
+  basis: The Cock says he rouses honest men to work in the morning by crowing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: speaker rejecting the plea
+  assigned_to:
+  - fig:3
+  basis: The thief answers that the Cock's crowing harms the thieves' livelihood and
+    says it will go into the pot.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Cock as morning-crower
+  literal_form: Cock whose crowing rouses honest men in the morning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Pot
+  literal_form: Cooking pot named as the Cock's destination
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: House
+  literal_form: House broken into by the thieves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Housebreaking and seizure
+  summary: The thieves enter a house unlawfully, find only a Cock worth taking, seize
+    it, and carry it away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plea before slaughter
+  summary: As supper is being prepared, one thief takes up the Cock and prepares to
+    wring its neck. The Cock asks for mercy and argues that his crowing benefits honest
+    workers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rejection of usefulness
+  summary: The thief rejects the Cock's plea because the Cock's crowing makes theft
+    harder, and he declares that the Cock will go into the pot.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Captive animal pleads for life by claiming usefulness
+  taxonomy_refs: []
+  basis: The Cock asks not to be killed and states that he is useful because his crowing
+    rouses honest men to work.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the plea but does not state a separate moral formula.
+- id: motif:2
+  label: Virtue or usefulness inverted by criminal perspective
+  taxonomy_refs: []
+  basis: The Cock presents his crowing as useful to honest men, while the thief treats
+    that same act as harmful to thieves' livelihood.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy motif.
+- id: motif:3
+  label: Stolen household animal prepared for cooking
+  taxonomy_refs: []
+  basis: The thieves take the Cock from the house and prepare to kill it for supper,
+    ending with the statement that it will go into the pot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes the spoken exchange more than the culinary action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1839-1842
+  quote_or_summary: Thieves break into a house, find nothing worth taking except a
+    Cock, seize it, and carry it off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1842-1844
+  quote_or_summary: While preparing supper, one thief takes up the Cock and is about
+    to wring its neck.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1844-1847
+  quote_or_summary: The Cock pleads, "Pray do not kill me," and says he rouses honest
+    men to work by crowing in the morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: quote
+  locator: lines 1847-1849
+  quote_or_summary: The thief says the Cock makes it harder for thieves to get a livelihood
+    and declares, "Into the pot you go!"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are local descriptive candidates, with no external comparison claims made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no taxonomy references were assigned because the available motif and symbol lists did not directly match the passage-level elements.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1839-l1849
+  passage_sha256=e425922c5797275d8c83260375b6ef95ba1db5898c211455a01515bc56eabab0
+

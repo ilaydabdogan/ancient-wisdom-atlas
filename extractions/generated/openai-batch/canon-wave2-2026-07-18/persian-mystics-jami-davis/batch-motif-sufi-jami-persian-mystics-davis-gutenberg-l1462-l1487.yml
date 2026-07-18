@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1462-l1487
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE REVELATION OF TRUTH / MIRROR AND FACE / THE COMING OF THE BELOVED / THE
+    WAYS OF LOVE; lines 1462-1487
+  start: '1462'
+  end: '1487'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A disciple asks his master to guide him on the path of wisdom. The master
+    directs him first to learn love, and the poem presents earthly love as preparation
+    for holier love while warning against lingering over outward form. A second lyric
+    reflects that change, alternation, and seasonal contrast reveal truth, stars,
+    and flowers that would remain hidden under unbroken sameness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A disciple addresses his master and asks to be guided on wisdom's pleasant
+    path.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master answers by asking whether the disciple has loved and tells him
+    to learn the ways of love before returning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says earthly love can train the speaker's lip to sip the wine
+    of holier love.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage warns that form should not entrance the soul for too long.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage instructs the addressee to cross a bridge quickly and not linger
+    at the bridge's head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The second lyric depicts an orchestra described as full of vain deceit, where
+    each in turn beats the drum of Being.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lyric says each morning brings new truth to light and that lustre falls
+    on the world from a name.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The lyric states that if ages moved in one constant course, many secrets would
+    remain untold.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The lyric says that if the sun's splendour never died away, the stars would
+    not appear in festive brightness.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The lyric says that if endless frost ruled the gardens, no rose would blossom
+    at Spring's kiss.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: disciple
+  description: A disciple who cries to his master for guidance on wisdom's path.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: master
+  description: The disciple's master, who responds that the disciple must learn the
+    ways of love and then return.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: seeker of wisdom
+  assigned_to:
+  - fig:1
+  basis: The disciple asks to be guided on wisdom's pleasant path.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spiritual instructor
+  assigned_to:
+  - fig:2
+  basis: 'The master gives the disciple a prior lesson: to learn the ways of love
+    before returning.'
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wisdom path
+  literal_form: wisdom's pleasant path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earthly love and holier love
+  literal_form: earthly love as preparation for the wine of holier love
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bridge
+  literal_form: a bridge to be crossed quickly, without lingering at its head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: drum of Being
+  literal_form: the drum of Being beaten in an orchestra of vain deceit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sun and stars
+  literal_form: the sun's splendour dying away so that the stars' market may be bright
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: frost, rose, and Spring
+  literal_form: endless frost, a rose, and the kiss of Spring in gardens
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: disciple asks for guidance
+  summary: A disciple asks his master to guide him on the path of wisdom, and the
+    master directs him first toward the ways of love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: earthly love as passage toward holier love
+  summary: The poem advises drinking deeply of earthly love so that holier love may
+    be learned, while warning against attachment to outward form and urging rapid
+    passage over a bridge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: change reveals truth and beauty
+  summary: The second lyric presents alternation and impermanence as conditions through
+    which truths, stars, and roses become manifest.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: love as route to wisdom
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The disciple seeks wisdom, and the master instructs him to learn love before
+    returning; the passage then presents earthly love as training for holier love.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is didactic and mystical, but it does not narrate a completed
+    quest.
+- id: motif:2
+  label: earthly form as a bridge toward higher love
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: Earthly love is described as preparatory to holier love, while the addressee
+    is warned not to linger over form and is told to cross the bridge quickly.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The bridge is metaphorical in the poem; no literal pilgrimage or ritual
+    initiation is described.
+- id: motif:3
+  label: truth disclosed through alternation and impermanence
+  taxonomy_refs:
+  - wisdom
+  - duality
+  - seasonal_cycle
+  basis: The lyric says that constant ages would conceal secrets, that the fading
+    of sunlight allows stars to appear, and that Spring's kiss brings the rose after
+    frost.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pattern is expressed through reflective images rather than a narrative
+    mythic episode.
+- id: motif:4
+  label: holier love beyond earthly love
+  taxonomy_refs:
+  - divine_beloved
+  - mystical_quest
+  basis: The passage contrasts earthly love with the wine of holier love and frames
+    love as a necessary lesson for the disciple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage says "holier love" but does not explicitly name a divine beloved
+    in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1462-1467
+  quote_or_summary: The disciple asks, "To wisdom's pleasant path be thou my guide";
+    the master answers by asking whether he has loved and tells him to learn love
+    and return.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1468-1473
+  quote_or_summary: The poem counsels deep experience of earthly love as preparation
+    for holier love, warns against being entranced by form, and urges passage over
+    a bridge without lingering.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1475-1480
+  quote_or_summary: The lyric describes an orchestra of vain deceit, the drum of Being
+    beaten in turn, and each morning bringing new truth and lustre into the world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1481-1487
+  quote_or_summary: The lyric says that unchanging ages would hide secrets, unfading
+    sunlight would obscure the stars, and endless frost would prevent roses from blooming
+    at Spring's kiss.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is lyric and didactic rather than narrative. No comparison claims
+    were added because the passage itself does not explicitly compare traditions or
+    external motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text, locator, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1462-l1487
+  passage_sha256=59124e9dde16232d32e607034dd8ac23f64f73ab9ab302d2f37700132260a041
+

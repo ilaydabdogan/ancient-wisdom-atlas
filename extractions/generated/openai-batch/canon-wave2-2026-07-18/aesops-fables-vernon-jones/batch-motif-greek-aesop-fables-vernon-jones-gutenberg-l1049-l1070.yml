@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1049-l1070
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MICE IN COUNCIL / THE BAT AND THE WEASELS / THE DOG AND THE SOW / THE
+    FOX AND THE CROW; lines 1049-1070
+  start: '1049'
+  end: '1070'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Dog and a Sow dispute whose offspring are finer, and the
+    Sow argues that hers can see at birth while the Dog's are born blind. In another,
+    a Fox flatters a Crow holding cheese in a tree; the Crow caws to prove her voice,
+    drops the cheese, and the Fox takes it while remarking that she lacks wits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Dog and a Sow argue, each claiming its own young are finer than any other
+    animal's young.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sow says her young can see when born, while the Dog's young are born blind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Crow sits on a branch of a tree with a piece of cheese in her beak.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Fox notices the Crow and tries to devise a way to get the cheese.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Fox praises the Crow's appearance and suggests that, if her voice matches
+    her looks, she should be Queen of the Birds.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Crow is flattered and gives a loud caw to show she can sing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The cheese falls, and the Fox snatches it up.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Fox tells the Crow that she has a voice but lacks wits.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A dog arguing that its own young are finer than those of any other
+    animal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sow
+  description: A sow arguing about the quality of her young and saying they can see
+    at birth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dog's young ones
+  description: The Dog's offspring, described by the Sow as born blind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Sow's young ones
+  description: The Sow's offspring, described by the Sow as able to see when they
+    come into the world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Crow
+  description: A crow sitting in a tree with cheese in her beak, flattered by the
+    Fox and losing the cheese when she caws.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Fox
+  description: A fox who flatters the Crow to make her drop the cheese and then takes
+    it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: disputing parent animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Dog and Sow argue and each claims superiority for its own young.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker of comparative rebuttal
+  assigned_to:
+  - fig:2
+  basis: The Sow contrasts her young's sight at birth with the Dog's young being born
+    blind.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: compared offspring
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both sets of young are the subject of the Dog and Sow's argument.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: flattered possessor who loses food
+  assigned_to:
+  - fig:5
+  basis: The Crow holds cheese, is flattered, caws, and drops the cheese.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: deceptive flatterer who obtains food
+  assigned_to:
+  - fig:6
+  basis: The Fox uses praise to induce the Crow to caw, then snatches the fallen cheese.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree branch
+  literal_form: branch of a tree
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cheese
+  literal_form: piece of cheese in the Crow's beak
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: voice
+  literal_form: the Crow's loud caw and voice
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: sight at birth
+  literal_form: young that can see when they come into the world, contrasted with
+    young born blind
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dog and Sow dispute offspring
+  summary: The Dog and Sow argue over whose young are finer, and the Sow answers by
+    comparing the newborn sight of her young with the blindness of the Dog's young.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fox tricks Crow out of cheese
+  summary: The Crow sits in a tree with cheese; the Fox flatters her beauty and voice,
+    causing her to caw, drop the cheese, and lose it to the Fox.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal dispute over superiority of offspring
+  taxonomy_refs: []
+  basis: Two animals argue over whose young are finer, and the dispute turns on a
+    physical trait at birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable motif rather than a direct match to the supplied mythic
+    motif-family taxonomy.
+- id: motif:2
+  label: flattery used to trick a possessor into losing food
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The Fox uses praise to manipulate the Crow into cawing and dropping the cheese,
+    then states that the Crow lacks wits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports deception and a wisdom lesson, but the supplied taxonomy
+    category 'trickster_boundary' is broader than the specific fable pattern.
+- id: motif:3
+  label: vanity punished by loss
+  taxonomy_refs:
+  - wisdom
+  basis: The Crow is flattered, tries to demonstrate her voice, and loses the cheese;
+    the Fox comments on her lack of wits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The moral is implied by the sequence and the Fox's speech; no separate
+    explicit moral is given in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1049-1051
+  quote_or_summary: A Dog and a Sow argue, each claiming that its own young are finer
+    than those of any other animal.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 1051-1054
+  quote_or_summary: '"mine can see, at any rate, when they come into the world: but
+    yours are born blind."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1056-1060
+  quote_or_summary: A Crow sits on a tree branch with cheese in her beak; a Fox observes
+    her and devises a way to get the cheese.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1060-1065
+  quote_or_summary: The Fox stands under the tree and praises the Crow's beauty, plumage,
+    and possible voice, saying she would be Queen of the Birds if her voice were as
+    sweet as her appearance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1065-1070
+  quote_or_summary: The flattered Crow caws, the cheese falls, the Fox snatches it,
+    and he tells her that she has a voice but lacks wits.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are framed cautiously
+    because the supplied taxonomy is broad and the passage contains fable morals rather
+    than mythic narrative episodes. No comparison claims are made because the passage
+    itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the fables present in the supplied passage text were extracted; the locator label mentions additional fables not included in the provided passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1049-l1070
+  passage_sha256=d32ee8adca21c477d1e5e2c92165b360d86c639b1bfef848bd78739b03c17a65
+

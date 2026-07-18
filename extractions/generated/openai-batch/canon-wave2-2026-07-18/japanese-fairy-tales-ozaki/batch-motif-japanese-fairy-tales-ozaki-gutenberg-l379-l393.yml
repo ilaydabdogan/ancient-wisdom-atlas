@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l379-l393
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: COMPILED BY / PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE; lines
+    379-393
+  start: '379'
+  end: '393'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Hidesato’s miraculous household goods: a rice bag
+    that never diminishes, a silk roll that never shortens, and a cooking pot that
+    prepares desired food without firing. Because he no longer needs to spend money
+    on rice, silk, or fuel, his fame spreads, he becomes wealthy, and he is known
+    as My Lord Bag of Rice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A single bag of rice supplies meals for the knight and his whole family day
+    after day without growing less.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A roll of silk does not grow shorter even though long pieces are repeatedly
+    cut from it for the warrior’s New Year court clothing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cooking pot prepares whatever food is wanted without firing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hidesato does not need to spend money on rice, silk, or firing.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hidesato becomes rich and prosperous, and his fortune becomes widely known.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hidesato is henceforth known as My Lord Bag of Rice.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hidesato / My Lord Bag of Rice
+  description: The named warrior or knight whose miraculous goods provide food, clothing,
+    and prosperity; he later becomes known as My Lord Bag of Rice.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Hidesato’s whole family
+  description: The household group whose meals are supplied from the rice bag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: knight or warrior
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the recipient of the rice and silk as a knight and
+    a warrior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: beneficiary of inexhaustible goods
+  assigned_to:
+  - fig:1
+  basis: Hidesato benefits from rice, silk, and cooking/fuel savings that lead to
+    wealth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: household beneficiaries
+  assigned_to:
+  - fig:2
+  basis: The family’s meals are supplied from the rice bag.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bearer of object-based epithet
+  assigned_to:
+  - fig:1
+  basis: Hidesato is said to be known henceforth as My Lord Bag of Rice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: inexhaustible rice bag
+  literal_form: A single bag of rice whose supply never grows less.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unending silk roll
+  literal_form: A roll of silk that never grows shorter despite repeated cutting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fireless cooking pot
+  literal_form: A cooking pot or saucepan that cooks whatever is wanted without firing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Rice bag sustains the household
+  summary: Rice is taken from the bag day after day for Hidesato and his family, but
+    the bag’s supply remains inexhaustible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silk roll provides court clothing
+  summary: Long pieces are repeatedly cut from the silk roll to make the warrior New
+    Year court clothing, but the roll does not shorten.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cooking pot works without firing
+  summary: The cooking pot prepares desired food without any firing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fortune becomes fame and prosperity
+  summary: Because Hidesato need not spend on rice, silk, or firing, his fortune becomes
+    famous, he becomes rich, and he receives the name My Lord Bag of Rice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Inexhaustible magical supply objects
+  taxonomy_refs: []
+  basis: The rice bag never diminishes, the silk roll never shortens, and the cooking
+    pot supplies desired food without fuel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Descriptive motif label only; the supplied taxonomy contains no exact
+    inexhaustible-object category.
+- id: motif:2
+  label: Prosperity through marvelous household goods
+  taxonomy_refs: []
+  basis: The miraculous goods remove ordinary expenses for food, cloth, and firing,
+    causing Hidesato to become rich and prosperous.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the economic result but does not describe the earlier
+    acquisition of the goods.
+- id: motif:3
+  label: Hero named for miraculous object
+  taxonomy_refs: []
+  basis: Hidesato is henceforth known as My Lord Bag of Rice after the fame of his
+    fortune spreads.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the epithet but does not explicitly explain the full
+    social process by which the name is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 379-381
+  quote_or_summary: The rice bag, though used daily for the knight and his family,
+    “never grew less” and is called “inexhaustible.”
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 383-385
+  quote_or_summary: The roll of silk never grows shorter despite repeated cutting
+    for the warrior’s New Year court clothing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:3
+  type: quote
+  locator: 387-389
+  quote_or_summary: The cooking pot cooks whatever is wanted “without any firing”
+    and is called a “very economical saucepan.”
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 391-393
+  quote_or_summary: Hidesato’s fortune spreads in fame; because he need not spend
+    on rice, silk, or firing, he becomes rich and is known as My Lord Bag of Rice.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to supplied taxonomy refs. No comparison claims were added because the
+    passage itself does not make an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external story context added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l379-l393
+  passage_sha256=c20d0c06ad07835f1e564d859c7409d729f3117ff394b169a4689b9797c13fd9
+

@@ -2,15 +2,21 @@
 batch_pipeline_manifest_version: '1'
 run_id: canon-wave2-2026-07-18
 created_at: '2026-07-18T08:50:24Z'
-updated_at: '2026-07-18T08:50:25Z'
+updated_at: '2026-07-18T18:25:02Z'
 artifacts:
   passages_path: data/batches/canon-wave2-2026-07-18/passages.jsonl
   requests_index_path: data/batches/canon-wave2-2026-07-18/requests/index.yml
   request_map_path: data/batches/canon-wave2-2026-07-18/request-map.jsonl
+  results_dir: data/batches/canon-wave2-2026-07-18/results
+  ingested_results_path: data/batches/canon-wave2-2026-07-18/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave2-2026-07-18
 openai: {}
-state: {}
+state:
+  last_realtime_run_at: '2026-07-18T18:23:13Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-18T18:25:02Z'
 pipeline: motif_extraction
-status: requests_prepared
+status: results_downloaded
 config:
   segmentation:
     glob:
@@ -76,6 +82,8 @@ counts:
   requests_prepared: 4651
   request_shards: 5
   skipped_ingested_requests: 0
+  ingested_records: 4601
+  failed_ingestions: 9
 source_texts:
 - path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
   source_text_id: ainu.folk_tales.chamberlain_gutenberg

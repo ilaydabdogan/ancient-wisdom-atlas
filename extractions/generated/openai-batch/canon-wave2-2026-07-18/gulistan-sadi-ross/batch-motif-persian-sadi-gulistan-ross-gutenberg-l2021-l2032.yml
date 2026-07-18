@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2021-l2032
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIII / XXXIV / XXXVI / XXXVII; lines 2021-2032
+  start: '2021'
+  end: '2032'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A disciple tells his ghostly father that frequent visitors interrupt his
+    time. The father advises lending money to poor visitors and asking rich visitors
+    for loans so that neither group will trouble him again. A closing saying compares
+    the importunity of a beggar to something that would make an infidel flee as far
+    as the Wall of China.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A disciple complains to his ghostly father.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The complaint concerns people making frequent visits and interrupting the
+    disciple's precious hours.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ghostly father advises lending money to the poor among the visitors.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ghostly father advises asking the rich among the visitors for a loan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ghostly father states that neither the poor nor the rich will trouble
+    the disciple again if he follows this advice.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A closing saying presents a beggar as the harbinger of an army of Islam, or
+    the orthodox, and says the infidel will flee the beggar's importunity as far as
+    the Wall of China.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: disciple
+  description: A disciple who complains that visitors are interrupting him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: ghostly father
+  description: The disciple's ghostly father, who replies with practical advice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: poor visitors
+  description: Poor persons among those troubling the disciple, to whom the father
+    says money should be lent.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: rich visitors
+  description: Rich persons among those troubling the disciple, from whom the father
+    says a loan should be requested.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: beggar
+  description: A beggar in the closing saying, whose importunity is said to make an
+    infidel flee.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: army of Islam or the orthodox
+  description: A collective force mentioned in the closing saying, with the beggar
+    imagined as its harbinger.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: infidel
+  description: A generic figure in the closing saying who flees the beggar's importunity
+    as far as the Wall of China.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: complaining disciple
+  assigned_to:
+  - fig:1
+  basis: The disciple reports annoyance caused by frequent visitors.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: advising ghostly father
+  assigned_to:
+  - fig:2
+  basis: The father replies with a strategy for stopping the visits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: troublesome visitors
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The disciple says people are interrupting him, and the father's answer divides
+    them into poor and rich groups.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recipients of lent money
+  assigned_to:
+  - fig:3
+  basis: The father says to lend money to those visitors who are poor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: persons asked for a loan
+  assigned_to:
+  - fig:4
+  basis: The father says to ask those visitors who are rich for a loan.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: importunate beggar
+  assigned_to:
+  - fig:5
+  basis: The saying refers to the beggar's importunity.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: approaching army in proverbial image
+  assigned_to:
+  - fig:6
+  basis: The saying imagines the beggar as the harbinger of an army of Islam, or the
+    orthodox.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: fleeing opponent
+  assigned_to:
+  - fig:7
+  basis: The saying states that the infidel will flee the beggar's importunity.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: money loan
+  literal_form: money lent to the poor and requested in loan from the rich
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: beggar as harbinger
+  literal_form: a beggar imagined as the harbinger of an army of Islam, or the orthodox
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Wall of China
+  literal_form: the Wall of China as the far point to which the infidel flees
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: complaint about visitors and advice about loans
+  summary: The disciple complains that frequent visits interrupt his time, and the
+    ghostly father advises using lending and borrowing requests to end the visits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: proverbial image of the beggar and flight
+  summary: A closing saying presents a beggar as a harbinger before an army and says
+    the infidel flees the beggar's importunity to the Wall of China.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: practical wisdom from a spiritual adviser
+  taxonomy_refs:
+  - wisdom
+  basis: A disciple brings a social difficulty to his ghostly father, who answers
+    with a concise practical remedy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a didactic anecdote rather than a mythic narrative; the
+    taxonomy link is broad.
+- id: motif:2
+  label: ending unwanted visits through debt obligations
+  taxonomy_refs:
+  - wisdom
+  basis: The advised strategy is to lend to the poor and borrow from the rich so that
+    both avoid returning.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a social-strategy motif and has no specific supplied taxonomy
+    category beyond wisdom.
+- id: motif:3
+  label: importunity causing flight
+  taxonomy_refs:
+  - wisdom
+  basis: The closing saying emphasizes that a beggar's importunity causes the infidel
+    to flee far away.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The image is proverbial and hyperbolic; no historical or intertextual
+    comparison is established by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2021-2027
+  quote_or_summary: The passage opens with a disciple complaining to his ghostly father
+    that frequent visits by people interrupt his precious hours.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2027-2030
+  quote_or_summary: The ghostly father replies that the disciple should lend money
+    to poor visitors and ask rich visitors for a loan, after which neither group will
+    trouble him again.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2030-2032
+  quote_or_summary: A closing saying states that if a beggar is the harbinger of an
+    army of Islam, or the orthodox, the infidel will flee the beggar's importunity
+    as far as the Wall of China.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are broad because the
+    passage is didactic and the supplied taxonomy offers only a general wisdom category
+    for this material. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2021-l2032
+  passage_sha256=30a09a700ece87f82e4ea7182bbef95d6255a29d72e2e06f54e913d3eab9d31d
+

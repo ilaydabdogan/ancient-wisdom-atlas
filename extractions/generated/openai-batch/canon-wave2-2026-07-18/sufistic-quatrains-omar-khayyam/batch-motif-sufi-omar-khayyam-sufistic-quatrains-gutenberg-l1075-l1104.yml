@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1075-l1104
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: EDWARD FITZGERALD. / THE FITZGERALD FIRST EDITION / VIII. / XIII.; lines
+    1075-1104
+  start: '1075'
+  end: '1104'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Four quatrains describe a rose speaking as it scatters its treasure in
+    the garden; worldly hopes that may become ashes or briefly prosper before vanishing
+    like snow in the desert; hoarders and spenders of golden grain alike not becoming
+    desirable earth after burial; and the world as a battered caravanserai where sultans
+    stay briefly and depart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rose is addressed and represented as speaking while blooming into the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rose tears the silken tassel of its purse and throws its treasure on the
+    garden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Worldly hope set in human hearts is said either to turn to ashes or to prosper
+    briefly before disappearing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The briefness of worldly hope is compared to snow lying for a short time on
+    a desert face and then vanishing.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Those who saved golden grain and those who scattered it are treated as ending
+    alike.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Burial and the desire for something dug up again are mentioned in relation
+    to human remains or transformed earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The world is described as a battered caravanserai with doorways alternating
+    between night and day.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sultans with their pomp stayed only an hour or two in the caravanserai and
+    then went their way.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rose
+  description: A rose that blooms nearby, laughs, speaks, opens its purse, and throws
+    treasure into the garden.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Men
+  description: Humans who set their hearts upon worldly hope and who desire buried
+    matter to be dug up again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Husbanders of golden grain
+  description: People who husbanded or saved the golden grain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Scatterers of golden grain
+  description: People who flung the golden grain to the winds like rain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sultans
+  description: Successive rulers who entered the caravanserai with pomp, stayed briefly,
+    and departed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaking flower and giver of garden treasure
+  assigned_to:
+  - fig:1
+  basis: The rose speaks while blooming and throws treasure on the garden.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holders of worldly hope
+  assigned_to:
+  - fig:2
+  basis: Men are described as setting their hearts upon worldly hope.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: savers of grain
+  assigned_to:
+  - fig:3
+  basis: One group is described as having husbanded the golden grain.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: spenders or scatterers of grain
+  assigned_to:
+  - fig:4
+  basis: One group is described as having flung the golden grain to the winds like
+    rain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: transient rulers
+  assigned_to:
+  - fig:5
+  basis: Sultans are described as staying briefly in the caravanserai and going their
+    way.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rose
+  literal_form: Rose that blooms, laughs, speaks, and scatters treasure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: purse and treasure
+  literal_form: Silken tassel, purse, and treasure thrown on the garden
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: garden
+  literal_form: Garden receiving the rose's treasure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ashes
+  literal_form: Ashes as one possible end of worldly hope
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: snow on desert
+  literal_form: Snow lighting briefly on the desert's dusty face
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: golden grain
+  literal_form: Golden grain husbanded by some and flung by others
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: winds like rain
+  literal_form: Grain flung to the winds like rain
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: buried earth
+  literal_form: Earth associated with burial and being dug up again
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: caravanserai
+  literal_form: Battered caravanserai used as the setting for transient residence
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: night and day doorways
+  literal_form: Doorways alternating Night and Day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:11
+  label: sultan's pomp
+  literal_form: Pomp accompanying successive sultans
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The rose scatters treasure
+  summary: A rose blooms into the world, speaks laughingly, opens its purse, and casts
+    treasure into the garden.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Worldly hope vanishes
+  summary: Human worldly hope is described as either turning to ashes or prospering
+    only briefly before vanishing like snow on a desert.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hoarders and scatterers end alike
+  summary: Those who saved golden grain and those who scattered it are said to be
+    alike with respect to burial and earth not desired to be dug up again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sultans pass through the caravanserai
+  summary: The world is imagined as a battered caravanserai with night-and-day doorways,
+    where sultans stay briefly with pomp and then depart.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: speaking rose scattering abundance
+  taxonomy_refs: []
+  basis: The rose is personified as speaking and casting treasure into the garden
+    as it blooms.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a vivid personification, but no broader narrative development
+    is supplied in this excerpt.
+- id: motif:2
+  label: impermanence of worldly hope
+  taxonomy_refs:
+  - wisdom
+  basis: Worldly hope is said to become ashes or to last only briefly before disappearing
+    like snow on desert dust.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is thematic and didactic rather than a named narrative
+    motif in the passage.
+- id: motif:3
+  label: equal fate of hoarder and spender
+  taxonomy_refs:
+  - wisdom
+  basis: Those who saved the golden grain and those who scattered it are explicitly
+    said to be alike in their final condition.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify a full story, only a reflective contrast.
+- id: motif:4
+  label: burial without desired return
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage refers to being buried and to men wanting something dug up again,
+    while denying that either class becomes desirable aureate earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage invokes burial and possible return from the earth, but it
+    does not narrate an actual rebirth.
+- id: motif:5
+  label: world as temporary inn
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: The world is figured as a battered caravanserai where even sultans stay only
+    briefly before going their way.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is extracted from metaphorical description rather than from
+    a plot episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1075-1081; quatrain XIII
+  quote_or_summary: "“Look to the Rose that blows about us” and says it blows into
+    the world, tears the silken tassel of its purse, and throws its treasure on the
+    garden."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1082-1088; quatrain XIV
+  quote_or_summary: Worldly hope turns to ashes or prospers briefly, “Like Snow upon
+    the Desert's dusty Face,” and then is gone.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1089-1095; quatrain XV
+  quote_or_summary: Those who husbanded the golden grain and those who flung it to
+    the winds like rain are alike, and are not turned into an aureate earth that men
+    would want dug up after burial.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1096-1104; quatrain XVI
+  quote_or_summary: The world is a “batter'd Caravanserai” with doorways of alternating
+    night and day; sultans with pomp stayed briefly and “went his way.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are explicit. Motif labels are cautious thematic extractions
+    from lyric quatrains rather than from a continuous mythic narrative. No comparison
+    claims were added because the passage itself does not make an intertextual or
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata. Taxonomy references use only available refs and are assigned cautiously.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1075-l1104
+  passage_sha256=c2b3e5999fedff9c8e84e3e3a6842cdf114dcf9e64605652e53bc91e289b031a
+

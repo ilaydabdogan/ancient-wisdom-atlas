@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l24902-l24913
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  397 / LITERATURE / PROLOGUE1 / THE  CODE  OF  HAMMURAPI  399;
+    lines 24902-24913
+  start: '24902'
+  end: '24913'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A short transliterated segment from the prologue of the Code of Hammurapi,
+    with numbered lines and a column break, naming several divine or named entities
+    and place-name sequences, including I§tar, tTr-ra, Tu-tu, Ura§, Ma-ma, Kutim(ki),
+    Bar-zi-ba(ki), and Dil-bat(ki).
+  language: Akkadian transliteration with editorial line and column markers
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a numbered transliteration and includes a transition
+    into “[Column III].”
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The name I§tar appears with the divine determinative “(ilu)” near terms including
+    “pa-ki-id bi-tim” and “IJar-sag-kalam-ma.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sequence “(bit) kisal na-ki-ri” appears near the printed name or sign
+    sequence “tTr-ra.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The place-name sequence “al Kutim(ki)” appears near “Mi§-lam.”
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage includes the phrases “ri-mu-um ka-ad-ru-um” and “mu-na-ak-ki-ip
+    za-i-ri” before the name Tu-tu.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The name Tu-tu appears in the phrase “na-ra-am Tu-tu,” followed by place or
+    cultic names including “al Bar-zi-ba(ki)” and “fi-zi-da.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sequence “i-lu §arri” appears before references to Dil-bat(ki) and the
+    divine name Ura§ marked with “(ilu).”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The divine name Ma-ma marked with “(ilu)” appears near the end of the passage,
+    followed by “mu-ki-in u-zu-ra-tim.”
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: I§tar
+  description: Named in the transliteration with the divine determinative “(ilu).”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: tTr-ra
+  description: Printed name or sign sequence occurring after “§a” and before “ru-sii”;
+    exact identification is uncertain from the provided transliteration alone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tu-tu
+  description: Named in the phrase “na-ra-am Tu-tu.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ura§
+  description: Named in the transliteration with the divine determinative “(ilu).”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ma-ma
+  description: Named in the transliteration with the divine determinative “(ilu).”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine name marked by determinative
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: The names I§tar, Ura§, and Ma-ma are each printed with “(ilu),” the divine
+    determinative in the transliterated text.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: named entity in prologue sequence
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage prints these names or sign sequences within the same enumerated
+    prologue segment, but the provided excerpt does not supply a full translation
+    of their functions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Prologue sequence of divine and place-name references
+  summary: The transliterated prologue segment lists named divine or named entities
+    and place-name sequences across the end of one column and the beginning of Column
+    III. It does not present a fully translated narrative scene in the supplied passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal prologue invoking divine and cultic associations
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The source locator identifies the excerpt as part of the Code of Hammurapi
+    prologue, and the passage itself includes multiple divine names marked by “(ilu)”
+    together with the king-related sequence “§arri” and several place-name or cultic
+    sequences.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The supplied passage is transliteration without a translation; the motif
+    assignment depends on the prologue metadata and visible divine/royal markers rather
+    than a fully translated statement of legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 24902-24904
+  quote_or_summary: "“§a(ilu) I§tar ... pa-ki-id bi-tim ... IJar-sag-kalam-ma”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 24904-24906
+  quote_or_summary: "“(bit) kisal na-ki-ri ... §a tTr-ra ru-sii ... [Column III]”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 24906-24908
+  quote_or_summary: "“al Kutim(ki) ... a-na Mi§-lam ... ri-mu-um ka-ad-ru-um ... mu-na-ak-ki-ip
+    za-i-ri”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 24908-24910
+  quote_or_summary: "“na-ra-am Tu-tu ... al Bar-zi-ba(ki) ... a-na fi-zi-da”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 24910-24912
+  quote_or_summary: "“i-lu §arri ... Dil-bat(ki) ... a-na (ilu) Ura§”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 24912-24913
+  quote_or_summary: "“be-lum zi-ma-at ... (ilu) Ma-ma ... mu-ki-in u-zu-ra-tim”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by the absence of an English translation in
+    the supplied passage. Named entities and determinatives are directly visible,
+    but functions and motif interpretation need philological review. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator, source path, metadata, and available taxonomy references. No external taxonomy IDs or cross-tradition comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l24902-l24913
+  passage_sha256=c76bf5dbbcf3aab35045b80f33d621e45b8a973c29b1df6585ac71c2d261b212
+

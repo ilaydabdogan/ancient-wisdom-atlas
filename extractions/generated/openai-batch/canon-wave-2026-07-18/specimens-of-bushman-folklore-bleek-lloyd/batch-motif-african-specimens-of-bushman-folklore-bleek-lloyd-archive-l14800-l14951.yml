@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14800-l14951
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: MAN    WHO    FOUND    LION    IN    CAVE.  267 / MAN    WHO    FOUND    LION    IN    CAVE.  269
+    / JNANNA-SSE.  271 / JNANNA-SSE.; lines 14800-14951
+  start: '14800'
+  end: '14951'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: They (the Bushmen) put the things' bones nicely aside, while they do not
+    throw them (about).
+  summary: 'The passage includes a short concluding note about a person sitting away
+    from a springbok to avoid the scent of its viscera, followed by information under
+    JNANNA-SSE concerning the treatment of bones: people put animal bones aside carefully,
+    deposit them opposite the hut entrance at a named bone heap, sometimes beside
+    a little thorn bush, and another person gnaws bones on an ostrich breastbone dish
+    before taking them to the deposit place. Notes add that each hut or person may
+    have a separate heap of bones from animals such as springbok, gemsbok, hare, and
+    porcupine.'
+  language: English translation with /Xam transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unidentified person sits at a little distance from a springbok because
+    he does not wish to smell the scent of the springbok's viscera; the translation
+    marks the viscera term as uncertain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people described in the translation as “the Bushmen” put animal bones
+    neatly aside and do not throw them about.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bones are put down opposite the entrance or “mouth” of a hut, at the place
+    faced by the hut entrance.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The deposit place is called “The heap of meat bones” in the translation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bones are poured down by the side of a little thorn bush at the place used
+    for putting bones down.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another person gnaws bones while placing them on an ostrich breastbone, then
+    takes up the bones and pours them down at the deposit place.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note states that the bone heap may contain bones of springbok, gemsbok,
+    hare, porcupine, and similar animals.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note states that the breastbone of an ostrich is used as a dish.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note states that one hut has its own heap of bones and another man also
+    has his own heap of bones, including bones of the springbok he kills.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Bushmen
+  description: The people identified in the translation as those who put bones aside
+    and deposit them at the bone place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unidentified person near the springbok
+  description: A person who sits at a little distance from the springbok to avoid
+    the scent of its viscera.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Another person who lives opposite
+  description: A person described as gnawing bones on an ostrich breastbone and then
+    depositing the bones at the bone place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Animals whose remains are mentioned
+  description: Springbok are mentioned in the scent passage and in a note on bones;
+    the note also names gemsbok, hare, porcupine, and similar animals as represented
+    in the bone heap.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: bone depositors
+  assigned_to:
+  - fig:1
+  basis: They put bones neatly aside and pour them down at a designated place opposite
+    the hut entrance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: scent avoider
+  assigned_to:
+  - fig:2
+  basis: He sits at a little distance in order not to smell the scent of the springbok's
+    viscera.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bone gnawer and disposer
+  assigned_to:
+  - fig:3
+  basis: He gnaws bones on an ostrich breastbone and then carries the bones to the
+    deposit place.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: animal source of viscera or bones
+  assigned_to:
+  - fig:4
+  basis: The springbok provides the viscera scent in one note, and animal bones from
+    springbok and other animals are named as contents of the bone heap.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: animal bones
+  literal_form: Bones of hunted animals, called “things' bones” or “meat bones” in
+    the translation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: heap of meat bones
+  literal_form: A designated heap or deposit place for animal bones.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: hut entrance opposite place
+  literal_form: The place opposite the entrance or mouth of the hut, where bones are
+    put down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: little thorn bush
+  literal_form: A little thorn bush beside which the bones are poured down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ostrich breastbone dish
+  literal_form: The breastbone of an ostrich used as a dish while gnawing bones.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: springbok viscera scent
+  literal_form: The scent of the springbok's viscera, with the translation marking
+    the term as uncertain.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Avoiding the scent of the springbok viscera
+  summary: An unidentified person remains at a distance from a springbok because he
+    fears smelling the scent of its viscera.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Setting aside and depositing bones
+  summary: The people put bones aside carefully, do not throw them about, and deposit
+    them opposite the hut entrance at a designated bone heap, beside a little thorn
+    bush.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Gnawing bones and carrying them to the heap
+  summary: Another person gnaws bones on an ostrich breastbone dish, then takes up
+    the bones and deposits them at the designated place.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Separate bone heaps by hut or person
+  summary: Notes explain that one hut or person may have its own heap of bones, including
+    bones from animals killed by that person.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: careful deposition of animal bones
+  taxonomy_refs: []
+  basis: The passage repeatedly describes bones being put aside neatly, not thrown
+    about, and poured down at a designated place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt describes a regulated practice but does not state an explicit
+    cosmological or ritual explanation.
+- id: motif:2
+  label: bone heap assigned to hut or person
+  taxonomy_refs: []
+  basis: Notes state that one hut has its own heap of bones and that another man also
+    has his own heap of bones.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This detail appears in editorial notes within the passage rather than
+    in a continuous narrative scene.
+- id: motif:3
+  label: animal bone used as a dish in bone treatment
+  taxonomy_refs: []
+  basis: The passage says another person gnaws bones while putting them upon an ostrich
+    breastbone, and a note identifies the ostrich breastbone as a dish.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The use of the ostrich breastbone is clear, but its symbolic or ritual
+    status is not explained in the excerpt.
+- id: motif:4
+  label: avoidance of the scent of animal viscera
+  taxonomy_refs: []
+  basis: A person sits at a distance from the springbok because he does not want to
+    smell the scent of its viscera.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage segment is fragmentary and the translation marks the word
+    for viscera as uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14800-14951; translated paragraph at internal marker (5316)
+  quote_or_summary: A person sits at a little distance from the springbok because
+    he fears smelling the scent of the springbok's viscera; the translation marks
+    “viscera” with a question mark.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14800-14951; JNANNA-SSE Second Part, internal marker (7258')
+  quote_or_summary: "“They (the Bushmen) put the things' bones nicely aside, while
+    they do not throw them (about).”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 14800-14951; JNANNA-SSE Second Part, paragraph after internal marker
+    (7258')
+  quote_or_summary: Bones are put down opposite the entrance to the hut, described
+    as the place the hut's mouth faces.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14800-14951; JNANNA-SSE Second Part, internal marker (7260)
+  quote_or_summary: The bone deposit place is called “The heap of meat bones”; bones
+    are poured down there, including by the side of a little thorn bush.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized with short title phrase.
+- id: ev:5
+  type: summary
+  locator: lines 14800-14951; JNANNA-SSE Second Part, internal marker (7261)
+  quote_or_summary: Another person, described as living opposite, gnaws bones on an
+    ostrich breastbone and then takes the bones to pour them down at the designated
+    place.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14800-14951; JNANNA-SSE Second Part, footnotes (7270'), (7260'),
+    and (7261')
+  quote_or_summary: Notes identify the heap as containing bones of animals such as
+    springbok, gemsbok, hare, and porcupine; identify the ostrich breastbone as a
+    dish; and state that individual huts or persons have their own bone heaps.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English translation gives clear details on bone treatment, but the passage
+    is fragmentary, includes OCR/transcription artifacts, and does not explain the
+    wider ritual or cosmological meaning. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not assigned because the excerpt supports a literal pattern of bone deposition but does not explicitly support one of the supplied motif-family or symbol taxonomy labels.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14800-l14951
+  passage_sha256=36668ba52811457ea7020d14281ad945c509a241467a02268e7eccec02675ec3
+

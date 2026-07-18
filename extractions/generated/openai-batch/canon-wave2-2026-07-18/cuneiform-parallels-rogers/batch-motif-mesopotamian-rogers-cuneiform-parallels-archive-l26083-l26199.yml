@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l26083-l26199
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  415 / THE  CODE  OF  HAMMURAPI  417 / THE  CODE  OF  HAMMURAPI  419
+    / THE  CODE  OF  HAMMURAPI  421; lines 26083-26199
+  start: '26083'
+  end: '26199'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sections 101-108 regulate merchant-agent losses, robbery on a journey,
+    accounting for goods and money, sealed memoranda, disputes before the god and
+    witnesses, multiple restitution, and punishment of a fraudulent wine seller by
+    throwing her into water.
+  language: English translation with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An agent who has no success where he goes must return double the money taken
+    from the merchant; if money was given as a favor and the agent meets a reverse,
+    he returns the principal.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If an enemy robs an agent during a journey, the agent swears by the name of
+    the god and goes free.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A merchant may give an agent grain, wool, oil, or other goods to traffic in;
+    the agent records the price and returns the money to the merchant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The agent is to take a sealed memorandum for money given to the merchant.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the agent has not taken a sealed memorandum, unreceipted money is not placed
+    to his account.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When an agent has taken money and disputes with the merchant, the merchant
+    brings the agent to account before the god and witnesses, and the agent must pay
+    threefold.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When a merchant wrongs an agent and denies what the agent returned, the agent
+    brings the merchant to account before the god and witnesses, and the merchant
+    must pay sixfold.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A wine merchant who receives money by the great stone or makes the drink measure
+    smaller than the corn measure is called to account and thrown into the water.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The translated passage presents the wine merchant as feminine.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: agent
+  description: A commercial agent who takes money or goods from a merchant, travels,
+    accounts for funds, may swear by the god, and may be liable for restitution.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: merchant
+  description: A merchant who gives money or goods to an agent, receives returns,
+    may call the agent to account, and may be liable if he wrongs the agent and denies
+    receipt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: enemy
+  description: An enemy who robs the agent of what he is carrying during a journey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the god
+  description: A deity whose name is sworn by and before whom disputes are brought
+    with witnesses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: witnesses
+  description: Witnesses before whom disputes between merchant and agent are brought
+    along with the god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: wine merchant or wine seller
+  description: A feminine wine merchant who may receive payment for drink and is punished
+    for specified improper transactions or measures.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: unnamed enforcers
+  description: An unnamed plural group that calls the wine seller to account and throws
+    her into the water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: commercial agent
+  assigned_to:
+  - fig:1
+  basis: The agent receives money or goods from a merchant, travels, records prices,
+    returns money, and may be brought to account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: merchant principal
+  assigned_to:
+  - fig:2
+  basis: The merchant gives money or goods to the agent and receives returns, but
+    may also be held liable for denying receipt.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: robber or enemy
+  assigned_to:
+  - fig:3
+  basis: The enemy robs the traveling agent of what he carries.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine oath and adjudication authority
+  assigned_to:
+  - fig:4
+  basis: The agent swears by the god's name, and disputes are brought before the god
+    and witnesses.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:5
+  label: human witnesses
+  assigned_to:
+  - fig:5
+  basis: Disputes are brought before witnesses together with the god.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: wine seller
+  assigned_to:
+  - fig:6
+  basis: The passage describes a feminine wine merchant receiving payment for drink
+    and being punished for improper payment or measure.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: unnamed legal enforcers
+  assigned_to:
+  - fig:7
+  basis: The passage says they call the wine seller to account and throw her into
+    the water.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: god's name oath
+  literal_form: swearing by the name of the god
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sealed memorandum
+  literal_form: sealed memorandum for money given to the merchant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: god and witnesses forum
+  literal_form: appearance before the god and witnesses
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: water
+  literal_form: water into which the wine seller is thrown
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: great stone weight
+  literal_form: the great stone used for receiving money by weight
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: multiple restitution
+  literal_form: threefold and sixfold repayment amounts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Agent losses and repayment rules
+  summary: The laws distinguish unsuccessful trading from money given as a favor,
+    assigning double repayment in one case and return of principal in the other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Robbery during a journey and oath release
+  summary: An enemy robs the agent on a journey; the agent swears by the name of the
+    god and is released from liability.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Trade goods, accounting, and sealed memorandum
+  summary: The merchant gives goods to the agent to traffic in; the agent records
+    the price, gives money to the merchant, and is expected to take a sealed memorandum.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Agent disputed by merchant
+  summary: When an agent takes money and disputes with the merchant, the merchant
+    brings him to account before the god and witnesses; the agent must pay threefold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Merchant denial and sixfold restitution
+  summary: When a merchant wrongs an agent and denies the return, the agent brings
+    the merchant before the god and witnesses; the merchant pays sixfold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Wine seller punished by water
+  summary: A feminine wine seller who uses specified improper payment or measuring
+    practices is called to account and thrown into water.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Oath by deity releases a person from liability after loss by enemy
+  taxonomy_refs:
+  - divine_judgment
+  basis: In the robbery rule, the agent swears by the name of the god after an enemy
+    takes what he carried, and he goes free.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a legal provision rather than a mythic narrative; the god is unnamed
+    and no divine action is narrated.
+- id: motif:2
+  label: Dispute brought before deity and witnesses
+  taxonomy_refs:
+  - divine_judgment
+  basis: Disputes between merchant and agent are adjudicated before the god and witnesses,
+    followed by specified restitution.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents a legal formula; it does not describe an ordeal or
+    a direct divine verdict.
+- id: motif:3
+  label: Water punishment for fraudulent selling or measuring
+  taxonomy_refs: []
+  basis: The wine seller who receives payment improperly or makes a smaller drink
+    measure is called to account and thrown into water.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state whether the water act is an ordeal,
+    execution, or another legal penalty.
+- id: motif:4
+  label: Sealed receipt as proof of exchange
+  taxonomy_refs: []
+  basis: The agent must take a sealed memorandum for money given to the merchant,
+    and unreceipted money is not credited to his account.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a documentary legal pattern, not a mythological motif.
+- id: motif:5
+  label: Escalating multiple restitution for disputed commercial obligations
+  taxonomy_refs: []
+  basis: The passage assigns threefold repayment to a disputing agent and sixfold
+    repayment to a merchant who denies the agent's return.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a legal compensation pattern with no explicit mythic framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26083-26199, §§101-102
+  quote_or_summary: If an agent is unsuccessful, he doubles the money taken; if money
+    was given as a favor and the agent meets a reverse, he returns the principal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 26083-26199, §103
+  quote_or_summary: If an enemy robs the agent on a journey, the agent shall “swear
+    by the name of the god” and “go free.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 26083-26199, §104
+  quote_or_summary: A merchant gives grain, wool, oil, or other goods to an agent;
+    the agent writes down the price, returns money to the merchant, and takes a sealed
+    memorandum.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 26083-26199, §105
+  quote_or_summary: If the agent forgets to take a sealed memorandum, money not receipted
+    for is not placed to his account.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 26083-26199, §106
+  quote_or_summary: When an agent has taken money and disputes with the merchant,
+    the merchant brings him to account before the god and witnesses, and the agent
+    pays threefold.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 26083-26199, §107
+  quote_or_summary: When a merchant wrongs an agent and denies what the agent returned,
+    the agent brings the merchant before the god and witnesses, and the merchant pays
+    sixfold.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 26083-26199, §108
+  quote_or_summary: A wine merchant using improper payment or measure is called to
+    account, and “they shall throw her into the water.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:8
+  type: note
+  locator: lines 26083-26199, note to §108
+  quote_or_summary: 'Translator''s note: the word for “wine merchant” is feminine;
+    another note says the translator considers the meaning of §108 reasonably sure
+    despite Ungnad''s doubt.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized note from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal provisions and figures are explicit. Motif candidates are cautious
+    because the passage is a law-code excerpt, not a mythic narrative; comparison
+    claims are omitted because the passage itself does not support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the supplied passage does not itself establish comparison with another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l26083-l26199
+  passage_sha256=2fe5e5be96f81db90bc517267904b01ce4d54301bbdb135a189306154c870419
+

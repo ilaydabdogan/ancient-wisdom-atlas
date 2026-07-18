@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l32835-l32940
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UMKATSHANA. / UMKATSHANA. / IZINOANEKWANE. / USTCAMA-NGAMANZI-EGUDU.; lines
+    32835-32940
+  start: '32835'
+  end: '32940'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed man travels through a dark hole while following a porcupine.
+    He passes a pool, sleeps, crosses a river, and continues after losing reliance
+    on the porcupine's footprints. He reaches light, hears dogs and children, and
+    finds a village with smoke rising. Fearing unknown inhabitants, he retreats along
+    the same path, crosses the river again, passes the pool, exits the hole, observes
+    that the place has features resembling those above, and returns home to his wife.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The traveller finds that what seemed to be deep water is only a pool and passes
+    along its edge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The traveller proceeds in a dark hole until his eyes become accustomed to
+    it and he can see well.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He sleeps before reaching a destination, wakes in the morning, continues,
+    comes to a river, crosses it, and goes forward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He no longer continues because of visible porcupine footprints, but because
+    the hole is the same passage by which he entered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He says he will reach the end of the hole before he is satisfied.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: He sees light ahead, hears dogs baying and children crying, comes upon a village,
+    and sees smoke rising.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: He expresses surprise that following the porcupine has brought him to a dwelling.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: He turns back, walking backwards along his path, and says he will not go to
+    the unknown people because they may kill him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He sees a great country and flees day and night, saying that perhaps he has
+    been seen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: He retraces the route by crossing the same river, passing the same pool, and
+    coming out of the hole.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: On coming out, he wonders because the place from which he emerged has things
+    resembling those above, including mountains, precipices, and rivers.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: He goes home, enters his own house, and addresses his wife.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed male traveller
+  description: A man who travels through the hole, follows the porcupine's track,
+    reaches a village or great country, retreats, exits, and returns to his house
+    and wife.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Porcupine
+  description: The animal whose footprints the traveller had been pursuing; it is
+    referenced through the pursuit and footprints in this passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Unknown village inhabitants
+  description: People at the village or dwelling whom the traveller does not know
+    and fears may kill him; dogs and children are heard there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Wife
+  description: The wife at the traveller's own house, whom he addresses after returning
+    home.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: traveller through the hole
+  assigned_to:
+  - fig:1
+  basis: He passes through the dark hole, crosses a river, reaches light and a village,
+    then exits the hole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: pursuer
+  assigned_to:
+  - fig:1
+  basis: He is described as following the porcupine and its footprints.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: tracked animal
+  assigned_to:
+  - fig:2
+  basis: The porcupine is the animal being followed by the traveller, with footprints
+    mentioned as signs on the route.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: fearful returner
+  assigned_to:
+  - fig:1
+  basis: He turns back from the village, fears the unknown people, flees day and night,
+    and retraces the route out of the hole.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: unknown potential threat
+  assigned_to:
+  - fig:3
+  basis: The traveller says he does not know these people and fears they may kill
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: wife at home
+  assigned_to:
+  - fig:4
+  basis: After returning to his own house, the traveller addresses his wife.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hole as passage
+  literal_form: dark hole entered and exited by the traveller
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: pool and river waters
+  literal_form: pool at the edge of the route and river crossed in both directions
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: porcupine footprints
+  literal_form: footprints of the porcupine used as signs until they are no longer
+    visible or relied on
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: light ahead
+  literal_form: light appearing in front after travel through the hole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: village smoke
+  literal_form: smoke rising from a village or dwelling
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: resembling landscape
+  literal_form: mountains, precipices, and rivers resembling those above
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Passage through the dark hole
+  summary: The traveller passes a pool and continues through a dark hole until his
+    eyes adjust.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: River crossing and perseverance
+  summary: After sleeping and waking, the traveller crosses a river and keeps going,
+    no longer relying on porcupine footprints but wanting to reach the end of the
+    hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arrival near an unknown village
+  summary: The traveller sees light, hears dogs and children, sees a village with
+    smoke, and wonders how pursuing the porcupine brought him to a dwelling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fearful retreat
+  summary: The traveller refuses to approach the unknown people, fears they may kill
+    him, sees a great country, flees day and night, and retraces the river and pool
+    to exit the hole.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Return home and recognition of resembling terrain
+  summary: After emerging, the traveller notices mountains, precipices, and rivers
+    resembling those above, then goes home to his own house and wife.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Journey through a dark hole to an inhabited country
+  taxonomy_refs:
+  - hero_descent
+  basis: The traveller moves through a dark hole, crosses water, reaches light, and
+    comes upon a village or great country before returning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly identify the place as an underworld or
+    the traveller as a hero; the taxonomy reference is based only on the hole-journey
+    structure.
+- id: motif:2
+  label: Animal pursuit leading into an anomalous route
+  taxonomy_refs: []
+  basis: The man is following a porcupine and its footprints, but the route becomes
+    an extended passage through a hole leading to a dwelling or country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The porcupine itself is not directly seen in this excerpt, and earlier
+    context for the pursuit is outside the provided passage.
+- id: motif:3
+  label: Return by retracing boundary markers
+  taxonomy_refs:
+  - return
+  basis: The traveller turns back from the unknown village, crosses the same river,
+    passes the same pool, exits the hole, and goes home.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a literal return-route pattern; no broader ritual or cosmological
+    meaning is stated in the passage.
+- id: motif:4
+  label: Parallel landscape resembling the world above
+  taxonomy_refs: []
+  basis: On coming out, the traveller observes that the place has features resembling
+    those above, including mountains, precipices, and rivers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports resemblance but does not explain whether the landscape
+    is a parallel world, another country, or another cosmological realm.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32835-32855
+  quote_or_summary: The traveller finds the water is only a pool, passes its edge,
+    and proceeds through a dark hole until his eyes adjust and he can see.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 32855-32883
+  quote_or_summary: He sleeps, resumes in the morning, reaches and crosses a river,
+    and continues through the same hole, saying he will reach its end before being
+    satisfied; porcupine footprints are mentioned as the earlier guide.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 32884-32906
+  quote_or_summary: He sees light ahead, hears dogs and children, reaches a village,
+    sees smoke rising, and says that while following the porcupine he has come to
+    a dwelling.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 32906-32923
+  quote_or_summary: He turns back, walking backwards, says he does not know the people
+    and fears they may kill him, sees a great country, and flees day and night.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 32923-32932
+  quote_or_summary: He crosses the same river he crossed while pursuing the porcupine,
+    passes the first pool again, and comes out of the hole.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 32933-32940
+  quote_or_summary: After emerging, he wonders because the place has things resembling
+    those above, including mountains, precipices, and rivers; he then goes home to
+    his own house and addresses his wife.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the provided English translation.
+    Motif assignments are cautious because the excerpt does not explicitly define
+    the hole-country cosmologically. No separate comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l32835-l32940
+  passage_sha256=5d8b9322f29b2ac567183192d767b513721882769e5ff67c0bfddaea0aa863bc
+

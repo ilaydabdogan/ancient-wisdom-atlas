@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1098-l1170
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: HOW THE MONKEY SAVED HIS TROOP / THE HAWKS AND THEIR FRIENDS / THE BRAVE
+    LITTLE BOWMAN / THE FOOLHARDY WOLF; lines 1098-1170
+  start: '1098'
+  end: '1170'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A lion accepts a hungry wolf as a servant and shares meat with him after
+    the wolf scouts prey from a mountain. Grown strong and proud, the wolf insists
+    on killing an elephant himself despite the lion's warning. The wolf attacks, misses,
+    and is killed by the elephant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion leaves his lair, sees a buffalo, kills it, eats, and goes to a lake
+    to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion encounters a hungry wolf, and the wolf throws himself at the lion's
+    feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf asks to be the lion's servant, and the lion agrees to give him food
+    for service.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion instructs the wolf to climb to the mountain top each day, look for
+    elephants, ponies, or buffaloes, and report food in sight.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wolf repeatedly scouts from the mountain, reports to the lion, and the
+    lion kills animals and shares meat with him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After eating much fine meat, the wolf grows bigger and stronger and becomes
+    proud of his size and strength.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The wolf decides he wants to kill an elephant for himself rather than live
+    on food given by another.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The wolf asks to lie in the lion's den while the lion scouts and summons him
+    with the same food-call formula, addressed to the wolf.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The lion warns the wolf that only lions can kill elephants and tells him to
+    abandon the idea.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The wolf refuses to yield, so the lion allows him to try and climbs the mountain.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: At the cave mouth, the lion summons the wolf after seeing an elephant.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The wolf runs toward the elephant, howls three times, springs at it, misses,
+    and falls at the elephant's feet.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:13
+  text: The elephant kills the wolf by raising its right foot.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: After witnessing the wolf's death, the lion calls him foolhardy.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who hunts buffalo and other animals, accepts the wolf as servant,
+    shares meat with him, warns him about killing elephants, and later witnesses his
+    death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Wolf
+  description: A hungry wolf who becomes the lion's servant and scout, grows strong
+    from shared meat, becomes proud, attempts to kill an elephant, and is killed.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Buffalo
+  description: An animal seen, killed, and eaten by the lion at the beginning of the
+    tale; buffaloes are also named among animals the wolf should watch for.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Elephant
+  description: An animal named among the lion's prey; later an elephant is targeted
+    by the wolf and kills him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: hunter and meat-provider
+  assigned_to:
+  - fig:1
+  basis: The lion kills animals and shares meat with the wolf.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: master of the servant wolf
+  assigned_to:
+  - fig:1
+  basis: The lion accepts the wolf's request to serve him and gives him instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: servant and scout
+  assigned_to:
+  - fig:2
+  basis: The wolf agrees to serve and repeatedly climbs the mountain to look for prey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: would-be elephant-killer
+  assigned_to:
+  - fig:2
+  basis: The wolf wants to kill an elephant by himself and asks the lion to summon
+    him for that task.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: warner
+  assigned_to:
+  - fig:1
+  basis: The lion tells the wolf that only lions can kill elephants and advises him
+    to give up the plan.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: foolhardy victim
+  assigned_to:
+  - fig:2
+  basis: The wolf ignores the warning, attacks the elephant, misses, and is killed;
+    the lion calls him foolhardy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:7
+  label: prey animal
+  assigned_to:
+  - fig:3
+  basis: The buffalo is killed and eaten by the lion, and buffaloes are included among
+    animals to scout.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:8
+  label: fatal opponent
+  assigned_to:
+  - fig:4
+  basis: The elephant is attacked by the wolf and kills him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: mountain top lookout
+  literal_form: mountain top
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: den or cave mouth
+  literal_form: lion's den / mouth of the cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: lake water
+  literal_form: lake used by the lion for a drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: three howls before attack
+  literal_form: the wolf howling three times before springing at the elephant
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Lion hunts and meets the wolf
+  summary: The lion kills a buffalo, drinks at a lake, and encounters a hungry wolf
+    who cannot escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Service arrangement and daily scouting
+  summary: The wolf becomes the lion's servant, scouts from the mountain top, reports
+    prey, and receives meat from the lion's kills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pride and proposed role reversal
+  summary: After growing strong, the wolf decides to kill an elephant himself and
+    asks the lion to scout and summon him instead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Warning ignored
+  summary: The lion warns the wolf that wolves do not kill elephants, but the wolf
+    persists and the lion allows him to try.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Failed elephant attack and death
+  summary: The lion summons the wolf from the cave; the wolf howls three times, attacks
+    the elephant, misses, and is killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Foolhardiness against practical warning
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf is warned that only lions can kill elephants, refuses to abandon
+    the plan, attacks, and dies; the lion calls him foolhardy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy link to wisdom is thematic rather than named in the passage;
+    the literal tale emphasizes foolhardiness and ignored advice.
+- id: motif:2
+  label: Subordinate imitates superior's dangerous role and fails
+  taxonomy_refs: []
+  basis: The wolf, formerly the lion's servant and scout, asks to take the lion's
+    position as elephant-killer while the lion scouts, then fails fatally.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No external motif index is supplied; label is descriptive only.
+- id: motif:3
+  label: Prosperity produces pride before downfall
+  taxonomy_refs: []
+  basis: The wolf grows bigger and stronger from the lion's food, becomes proud, seeks
+    to kill for himself, and is killed by the elephant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The downfall pattern is inferred from the sequence of events, not explicitly
+    named as a proverb in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1098-1170 (opening sequence)
+  quote_or_summary: The lion leaves his lair, kills and eats a buffalo, drinks at
+    a lake, and encounters a hungry wolf who throws himself at the lion's feet.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1098-1170 (service request)
+  quote_or_summary: The wolf asks to be the lion's servant; the lion agrees and says
+    the wolf will have good food to eat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1098-1170 (lion's instructions)
+  quote_or_summary: The lion tells the wolf to go daily to the mountain top, look
+    for elephants, ponies, or buffaloes, and report that food is in sight; the lion
+    will kill and share the meat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1098-1170 (daily routine)
+  quote_or_summary: Day after day the wolf scouts from the mountain, reports prey
+    at the den, and the lion kills the animal and shares meat with him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1098-1170 (wolf's pride)
+  quote_or_summary: The wolf grows bigger and stronger from abundant meat, becomes
+    proud, and says he will kill an elephant for himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1098-1170 (role reversal proposal)
+  quote_or_summary: The wolf asks to lie in the lion's den while the lion climbs the
+    mountain; he wants the lion to summon him as 'Great Wolf' so he can kill the elephant.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized with a short phrase from the passage.
+- id: ev:7
+  type: summary
+  locator: 1098-1170 (warning and refusal)
+  quote_or_summary: The lion warns that only lions can kill elephants and tells the
+    wolf to give up the notion, but the wolf will not give way; the lion lets him
+    try.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1098-1170 (summons and attack)
+  quote_or_summary: After seeing an elephant, the lion goes to the cave mouth and
+    summons the wolf; the wolf bounds out, runs to the elephant, howls three times,
+    and springs at it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 1098-1170 (death and closing comment)
+  quote_or_summary: The wolf misses, falls at the elephant's feet, and the elephant
+    kills him with its right foot; the lion says he will no more come forth in his
+    might, calling him foolhardy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Candidate motif labels
+    are descriptive; only the broad wisdom taxonomy reference is used, and comparison
+    claims are omitted because the passage itself does not make a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or motif indices were used beyond the supplied taxonomy reference list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1098-l1170
+  passage_sha256=23ec5a4b1cea07046828fe6dbcc38532e967e2fc753e252cba9134b833d4e9fe
+

@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l3519-l3536
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER XXVI. / OF ASGRIM AND HIS CHILDREN. / CHAPTER XXVII. / HELGI NJAL'S
+    SON'S WOOING.; lines 3519-3536
+  start: '3519'
+  end: '3536'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Travelers ride across Thurso water to Tongue, where Asgrim welcomes them.
+    Njal negotiates for Thorhalla to marry his son Helgi; Asgrim agrees, terms are
+    set, and a bridal day and feast follow. Njal then offers to foster Asgrim's son
+    Thorhall, teaches him law, and Thorhall becomes renowned as the greatest lawyer
+    in Iceland in those days.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The travelers ride across Thurso water and come to Tongue.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Asgrim is at home and gives the travelers a hearty welcome; they stay there
+    that night.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Njal raises the matter of wooing and asks for Thorhalla as wife for his son
+    Helgi.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Asgrim responds favorably and says he would be willing to make the bargain
+    with them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The parties discuss terms; Asgrim betroths his daughter to Helgi and a bridal
+    day is named.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Gunnar and many other prominent men attend the feast.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the feast, Njal offers to foster Thorhall, Asgrim's son, in his house;
+    Thorhall remains with Njal for a long time.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Thorhall loves Njal more than his own father.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Njal teaches Thorhall law, and Thorhall becomes the greatest lawyer in Iceland
+    in those days.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Njal
+  description: Father of Helgi; he negotiates the wooing, later fosters Thorhall and
+    teaches him law.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Helgi Njal's son
+  description: Njal's son, for whom Thorhalla's hand is requested; he is betrothed
+    to Thorhalla.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Asgrim
+  description: Host at Tongue; father of Thorhalla and Thorhall; agrees to betroth
+    Thorhalla to Helgi.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Thorhalla
+  description: Asgrim's daughter, betrothed to Helgi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Gunnar
+  description: A man present at the feast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Thorhall
+  description: Asgrim's son; fostered by Njal, loves Njal more than his own father,
+    learns law from him, and becomes the greatest lawyer in Iceland in those days.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: many other of the best men
+  description: A collective group of prominent men present at the feast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wooing negotiator
+  assigned_to:
+  - fig:1
+  basis: Njal raises the wooing and asks for Thorhalla for Helgi.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: betrothed bridegroom
+  assigned_to:
+  - fig:2
+  basis: Helgi is the son for whom Thorhalla is requested, and Asgrim betroths her
+    to him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bride's father and marriage-giver
+  assigned_to:
+  - fig:3
+  basis: Asgrim answers the request, discusses terms, and betroths his daughter to
+    Helgi.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: betrothed bride
+  assigned_to:
+  - fig:4
+  basis: Thorhalla is requested for Helgi and betrothed to him by Asgrim.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: feast attendee
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Gunnar and many other prominent men are present at the feast.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: foster-father and law teacher
+  assigned_to:
+  - fig:1
+  basis: Njal offers to foster Thorhall and teaches him law.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: foster-son and law student
+  assigned_to:
+  - fig:6
+  basis: Thorhall is fostered in Njal's house and learns law from Njal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: host
+  assigned_to:
+  - fig:3
+  basis: Asgrim is at home at Tongue and welcomes the travelers.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Thurso water
+  literal_form: A body of water crossed by the travelers before they reach Tongue.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ride to Tongue and welcome by Asgrim
+  summary: The travelers cross Thurso water, arrive at Tongue, and are welcomed by
+    Asgrim for the night.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wooing negotiation and betrothal
+  summary: Njal asks Asgrim for Thorhalla as wife for Helgi; Asgrim agrees, terms
+    are discussed, Thorhalla is betrothed to Helgi, and a bridal day is named.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feast with prominent attendees
+  summary: Gunnar and many other prominent men are present at the feast.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fosterage and legal instruction
+  summary: Njal offers to foster Thorhall, who stays with him, loves him more than
+    his own father, learns law from him, and becomes the foremost lawyer in Iceland
+    in those days.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wooing negotiated through kinship alliance
+  taxonomy_refs: []
+  basis: The marriage is arranged through Njal's request to Asgrim, discussion of
+    terms, formal betrothal, naming of the bridal day, and a feast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents a social and legal marriage arrangement, not an explicitly
+    sacred or supernatural marriage motif.
+- id: motif:2
+  label: fosterage followed by specialized instruction and renown
+  taxonomy_refs:
+  - wisdom
+  basis: Njal fosters Thorhall, teaches him law, and Thorhall becomes the greatest
+    lawyer in Iceland in those days.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The link to the broad taxonomy category 'wisdom' is based on legal learning
+    and expertise; the passage does not describe divine or esoteric wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3519-3524
+  quote_or_summary: The party rides across Thurso water to Tongue; Asgrim is at home,
+    welcomes them warmly, and hosts them for the night.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3524-3530
+  quote_or_summary: Njal raises the wooing, asks for Thorhalla for Helgi, receives
+    Asgrim's favorable answer, discusses terms, and Asgrim betroths Thorhalla to Helgi
+    with a bridal day named.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3530-3531
+  quote_or_summary: Gunnar and many other of the best men are at the feast.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3531-3533
+  quote_or_summary: After the feast, Njal offers to foster Thorhall, Asgrim's son,
+    in his house; Thorhall remains with Njal for a long time.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3533-3536
+  quote_or_summary: Thorhall loves Njal more than his own father; Njal teaches him
+    law, and Thorhall becomes the greatest lawyer in Iceland in those days.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for literal social actions, kinship roles, fosterage,
+    and legal instruction. Motif identification is cautious because the material is
+    saga social narrative rather than explicitly mythic symbolism. No comparison claims
+    were made because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external comparisons or unsupported taxonomy links were added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l3519-l3536
+  passage_sha256=71c63ba989f77f68a9d4c7fe6c727eed89dbecb983020b82262eaf77e7c4e6c9
+

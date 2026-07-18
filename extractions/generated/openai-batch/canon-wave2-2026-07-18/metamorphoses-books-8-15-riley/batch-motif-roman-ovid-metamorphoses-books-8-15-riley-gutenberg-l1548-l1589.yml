@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1548-l1589
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1548-1589
+  start: '1548'
+  end: '1589'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“fresh earth enclosed her floating limbs, and a heavy island grew upon her
+    changed members.”"
+  summary: A sacred river-speaker recounts that Perimele, his beloved Nymph, was thrown
+    from a rock into the sea by her father Hippodamas while she was about to give
+    birth. The speaker supports her in the water and prays to Neptune to grant her
+    a place or allow her to become a place. Neptune assents, and Perimele’s body hardens,
+    is covered by earth, and becomes an island.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An island called Perimele is described as withdrawn far from the rest and
+    pleasing to the speaker.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Perimele is described as a beloved Nymph whom the speaker deprived of the
+    name of a virgin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hippodamas, Perimele’s father, pushed his daughter’s body from a rock into
+    the sea when she was about to bring forth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker received Perimele and bore her up while she was swimming.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker prayed to Neptune, described as bearer of the Trident and ruler
+    of the flowing waters, asking that Perimele be granted a place or be allowed to
+    become a place.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Neptune moved his head and shook all the waters with his assent.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Perimele was afraid but continued swimming.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Perimele’s body grew hard, earth covered her breast and limbs, and a heavy
+    island grew upon her changed members.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote states that, according to Apollodorus, Acheloüs’ wife was named
+    Perimede and bore him two sons, Hippodamas and Orestes.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sacred river-speaker
+  description: The first-person speaker calls himself one of the sacred rivers, says
+    he injured Perimele, receives and bears her up in the water, and prays to Neptune.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Perimele
+  description: A beloved Nymph associated with an island of the same name; she is
+    pushed into the sea by her father, supported in the water, and changed into an
+    island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Hippodamas
+  description: Perimele’s father, who takes offense and pushes his daughter from a
+    rock into the sea while she is about to bring forth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Neptune
+  description: Addressed as bearer of the Trident and ruler of the flowing waters;
+    he assents to the speaker’s prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: rescuer and petitioner
+  assigned_to:
+  - fig:1
+  basis: The speaker receives Perimele, bears her up while swimming, and petitions
+    Neptune on her behalf.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: beloved Nymph transformed into island
+  assigned_to:
+  - fig:2
+  basis: Perimele is called the speaker’s beloved Nymph and undergoes a bodily change
+    into a heavy island.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: punishing father
+  assigned_to:
+  - fig:3
+  basis: Hippodamas takes offense and pushes his pregnant daughter from a rock into
+    the sea.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sea deity granting assent
+  assigned_to:
+  - fig:4
+  basis: Neptune is invoked for aid and responds by moving his head and shaking the
+    waters in assent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Perimele island
+  literal_form: An island called Perimele, formed upon the changed body of the Nymph.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: sea and flowing waters
+  literal_form: The sea and waters into which Perimele is pushed, where she swims,
+    and over which Neptune rules.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: rock
+  literal_form: The rock from which Hippodamas pushes Perimele into the sea.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Trident
+  literal_form: The Trident borne by Neptune in the speaker’s prayer.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: earth covering the body
+  literal_form: Fresh earth encloses Perimele’s floating limbs as she changes into
+    an island.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Perimele cast into the sea
+  summary: The speaker identifies Perimele as his beloved Nymph and says that her
+    father Hippodamas, angered, pushes her from a rock into the sea while she is about
+    to give birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer to Neptune
+  summary: The speaker supports Perimele as she swims and asks Neptune to aid her
+    by granting her a place or allowing her to become one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Transformation into an island
+  summary: Neptune assents, and Perimele’s body hardens, earth grows over her, and
+    she becomes a heavy island.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: person transformed into island
+  taxonomy_refs:
+  - shapeshifter
+  basis: Perimele’s body hardens, is covered by earth, and becomes an island after
+    Neptune’s assent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no exact island-transformation category; the
+    shapeshifter reference is approximate because the change is externally granted
+    rather than voluntary.
+- id: motif:2
+  label: divine beloved endangered and rescued through transformation
+  taxonomy_refs:
+  - divine_beloved
+  basis: Perimele is the beloved Nymph of a sacred river-speaker; after her father
+    casts her into the sea, the speaker appeals to Neptune and her survival takes
+    the form of transformation into a place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage supports the beloved relationship and divine or riverine figures,
+    but the motif label combines several passage actions and should be reviewed.
+- id: motif:3
+  label: petition to water deity for rescue
+  taxonomy_refs: []
+  basis: The speaker prays to Neptune, ruler of the flowing waters, to aid Perimele
+    after she is plunged into the sea; Neptune gives assent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy reference matches this motif.
+comparison_claims:
+- id: claim:1
+  claim: The footnote links the Perimele episode to a nearby Apollodoran tradition
+    by noting a similar name, Perimede, connected with Acheloüs, but the genealogy
+    differs.
+  claim_level: linguistic_similarity
+  target: Apollodorus tradition of Perimede, wife of Acheloüs
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: low
+  limitations: The note supports a name and tradition comparison only; it does not
+    establish that the same motif sequence or genealogy is being used.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1548-1551
+  quote_or_summary: The speaker points to an island called Perimele, calls Perimele
+    his beloved Nymph, and says he deprived her of the name of a virgin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 1551-1554
+  quote_or_summary: Hippodamas, Perimele’s father, takes offense and pushes his daughter
+    from a rock into the sea when she is about to bring forth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 1555-1564
+  quote_or_summary: The speaker receives and supports Perimele while she swims, addresses
+    Neptune as bearer of the Trident and ruler of the flowing waters, and asks that
+    Perimele be granted a place or allowed to become one.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 1565-1566
+  quote_or_summary: Neptune, called the King of the ocean, moves his head and shakes
+    the waters with assent.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 1566-1573
+  quote_or_summary: Perimele is afraid but swims; her body grows hard, earth covers
+    her, and “a heavy island grew upon her changed members.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 1584-1589
+  quote_or_summary: Footnote 81 says that, according to Apollodorus, Acheloüs’ wife
+    was Perimede, who bore him two sons, Hippodamas and Orestes; it also identifies
+    the Echinades as small islands in the Ionian Sea near Acarnania.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main actions, figures, and transformation are explicit in the passage.
+    Motif taxonomy mapping is approximate because the supplied taxonomy lacks a direct
+    category for transformation into an island. The comparison claim is limited to
+    the footnote’s brief Apollodorus notice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the provided passage text, footnote, source metadata, and supplied taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l1548-l1589
+  passage_sha256=7ec4798117492b83b78fc20825125757d3c2803d3a63c9b2a093a60acd2fb05a
+

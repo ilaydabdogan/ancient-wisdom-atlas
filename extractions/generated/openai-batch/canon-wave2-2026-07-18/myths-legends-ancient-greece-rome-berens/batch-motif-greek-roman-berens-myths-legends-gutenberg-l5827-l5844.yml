@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5827-l5844
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: FLORA. / ROBIGUS. / POMONA. / VERTUMNUS.; lines 5827-5844
+  start: '5827'
+  end: '5844'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Vertumnus as a god of garden and field produce who
+    personifies seasonal change and natural transformation from bud to blossom to
+    fruit. It recounts a myth in which Vertumnus changes into seasonal forms to win
+    Pomona, who avoids marriage, and finally succeeds in his true form as a beautiful
+    youth. It also describes his usual representation with wheat-sheaves and a cornucopia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vertumnus is described as the god of garden and field produce.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vertumnus personifies the change of seasons and the natural transformation
+    from leaf-buds to blossoms to fruit.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A myth represents Vertumnus as changing into multiple forms to gain Pomona's
+    affection.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pomona is described as loving her vocation and rejecting thoughts of marriage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vertumnus appears successively as a ploughman for Spring, a reaper for Summer,
+    a vine-gatherer for Autumn, and a gray-haired old woman for Winter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Vertumnus succeeds in his suit only after assuming his true form as a beautiful
+    youth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Vertumnus is generally represented crowned with wheat-sheaves and holding
+    a cornucopia.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vertumnus
+  description: God of garden and field produce; personification of seasonal and natural
+    transformation; metamorphic suitor of Pomona.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Pomona
+  description: A figure whose affection Vertumnus seeks; she loves her vocation and
+    rejects thoughts of marriage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Agricultural produce deity
+  assigned_to:
+  - fig:1
+  basis: The passage calls Vertumnus the god of garden and field produce.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Personification of seasonal transformation
+  assigned_to:
+  - fig:1
+  basis: The passage says Vertumnus personifies the change of seasons and natural
+    transformation from buds to blossoms to fruit.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Metamorphic suitor
+  assigned_to:
+  - fig:1
+  basis: Vertumnus changes into several forms in order to gain Pomona's affection.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Beloved who rejects marriage
+  assigned_to:
+  - fig:2
+  basis: Pomona is the object of Vertumnus's suit and is described as avoiding thoughts
+    of marriage.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Seasonal occupational forms
+  literal_form: Ploughman for Spring; reaper for Summer; vine-gatherer for Autumn;
+    gray-haired old woman for Winter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - seasonal_cycle
+  - shapeshifter
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Natural growth sequence
+  literal_form: Leaf-buds developing into blossoms, and blossoms into fruit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Agricultural abundance attributes
+  literal_form: Wheat-sheaves as a crown and cornucopia held in the hand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: True youthful form
+  literal_form: Beautiful youth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Seasonal metamorphic courtship
+  summary: Vertumnus changes into a series of forms associated with the four seasons
+    while attempting to win Pomona's affection, and succeeds only when he appears
+    in his true form as a beautiful youth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Personification of seasonal growth
+  summary: Vertumnus is presented as embodying seasonal change and the natural process
+    by which buds become blossoms and blossoms become fruit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Iconographic representation of Vertumnus
+  summary: Vertumnus is represented with wheat-sheaves on his head and a cornucopia
+    in his hand.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Seasonal cycle embodied by a deity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly says Vertumnus personifies the change of seasons and
+    presents his forms as symbols of Spring, Summer, Autumn, and Winter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The account is from a later mythological handbook and gives an interpretive
+    symbolic explanation.
+- id: motif:2
+  label: Shapeshifting courtship
+  taxonomy_refs:
+  - shapeshifter
+  basis: Vertumnus metamorphoses into a variety of forms to gain Pomona's affection.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the transformations primarily as seasonal symbols rather
+    than as a detailed narrative episode.
+- id: motif:3
+  label: Agricultural abundance and ripening
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Vertumnus is linked with garden and field produce, the transition from bud
+    to blossom to fruit, and iconographic emblems of grain and abundance.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a thematic extraction from attributes and symbols rather than
+    a full independent narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5827-5831
+  quote_or_summary: Vertumnus is identified as god of garden and field produce and
+    as a personification of seasonal change and the development of leaf-buds into
+    blossoms and fruit.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5832-5841
+  quote_or_summary: 'The passage describes a myth in which Vertumnus changes forms
+    to win Pomona: ploughman for Spring, reaper for Summer, vine-gatherer for Autumn,
+    gray-haired old woman for Winter, and finally his true form as a beautiful youth.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5843-5844
+  quote_or_summary: Vertumnus is usually represented crowned with wheat-sheaves and
+    holding a cornucopia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif confidence is
+    strongest for seasonal cycle and shapeshifting because both are explicit in the
+    passage. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5827-l5844
+  passage_sha256=7fe431e8f1e0a2b70dcb25b12645a998fba2181bbdb261a4a7218bbcb8ff069b
+

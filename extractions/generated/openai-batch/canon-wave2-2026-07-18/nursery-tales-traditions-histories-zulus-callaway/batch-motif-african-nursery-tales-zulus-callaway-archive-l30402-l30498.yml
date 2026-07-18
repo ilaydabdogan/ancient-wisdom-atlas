@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l30402-l30498
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE  RAINBOW. / UMNYAMA. / IZINGAXEKWANE. / UNTOMBI-YAPANSI.; lines 30402-30498
+  start: '30402'
+  end: '30498'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A chief has three children: Usilwane, Usilwanekazana, and Untombi-yapansi.
+    Usilwane and Usilwanekazana love each other. Usilwane goes hunting and returns
+    with a leopard, calling it his dog and ordering that it be fed milk porridge only
+    when cold. The leopard grows large, and the people fear it and suspect Usilwane
+    of becoming an umtakati because he keeps a leopard as a dog.'
+  language: English with Zulu text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A chief has a large field worked by many people at the proper season.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chief has three children named Usilwane, Usilwanekazana, and Untombi-yapansi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Usilwane and Usilwanekazana love each other.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Usilwane goes hunting and returns carrying a leopard.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Usilwane calls the leopard his dog.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Usilwane instructs others to feed the animal milk mixed with boiled corn as
+    porridge, and to give it the food cold.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Usilwane says the animal will die if it is given hot food.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The leopard grows large, and the people become afraid because it is a leopard.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The people say the leopard will devour people and that Usilwane will become
+    an umtakati.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The chief
+  description: A chief with a large field and three children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Usilwane
+  description: The chief's eldest child; he goes hunting, brings back a leopard, calls
+    it his dog, and gives instructions for feeding it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Usilwanekazana
+  description: The chief's second child; she and Usilwane love each other.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Untombi-yapansi
+  description: The chief's other child, named as one of the three children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The leopard
+  description: A leopard brought back by Usilwane from hunting, called his dog, fed
+    milk porridge, and feared by the people when it grows large.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: The people
+  description: People who work the chief's field and later fear the leopard and suspect
+    Usilwane.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: chief and parent
+  assigned_to:
+  - fig:1
+  basis: The passage identifies him as a chief and says he has three children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chief's child
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage names the three children of the chief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hunter and keeper of leopard
+  assigned_to:
+  - fig:2
+  basis: Usilwane goes hunting, returns carrying a leopard, calls it his dog, and
+    orders its feeding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wild animal treated as domestic dog
+  assigned_to:
+  - fig:5
+  basis: The animal is a leopard, but Usilwane calls it his dog and has it fed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fearful community observers
+  assigned_to:
+  - fig:6
+  basis: The people fear the leopard and say it may devour people and that Usilwane
+    will become an umtakati.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: leopard called a dog
+  literal_form: leopard / dog
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: milk porridge food
+  literal_form: milk mixed with boiled corn as porridge
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cold food requirement
+  literal_form: food given cold, not hot
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: three children
+  literal_form: three children of the chief
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Chief's household and children introduced
+  summary: A chief with a large field is described as having three children, and the
+    passage notes the affection between Usilwane and Usilwanekazana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Usilwane brings home a leopard
+  summary: Usilwane returns from hunting with a leopard, calls it his dog, and instructs
+    others to feed it cold milk porridge.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: People fear the grown leopard
+  summary: After the leopard grows large, the people fear it, say it will devour people,
+    and suspect Usilwane of becoming an umtakati.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wild predator kept as a domestic animal
+  taxonomy_refs: []
+  basis: Usilwane brings home a leopard, calls it his dog, and arranges for it to
+    be fed, while others continue to regard it as dangerous.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the opening of the tale, so the later function
+    of the leopard is not established here.
+- id: motif:2
+  label: dangerous pet feared by the community
+  taxonomy_refs: []
+  basis: The leopard grows large and the people fear that it will devour people.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local passage-level pattern rather than a mapped taxonomy family.
+- id: motif:3
+  label: sibling pair marked by special affection
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage states that Usilwane and Usilwanekazana love each other among
+    the chief's three children.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not yet show whether the sibling relationship drives
+    the broader plot.
+- id: motif:4
+  label: special feeding condition for an animal
+  taxonomy_refs: []
+  basis: Usilwane specifies a preparation of milk porridge and warns that the leopard
+    will die if fed hot food.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The significance of the cold-versus-hot condition is not explained in
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30402-30498
+  quote_or_summary: 'A chief has a large field and only three children: Usilwane,
+    Usilwanekazana, and Untombi-yapansi; Usilwane and Usilwanekazana love each other.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 30402-30498
+  quote_or_summary: Usilwane goes hunting and returns carrying a leopard, saying,
+    “This is my dog.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 30402-30498
+  quote_or_summary: Usilwane orders that the animal be given milk mixed with boiled
+    corn as porridge and that the food be cold, warning that it will die if given
+    hot food.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 30402-30498
+  quote_or_summary: The leopard grows large; the people fear it, say it will devour
+    people, and ask why Usilwane keeps a leopard and calls it his dog, saying he will
+    become an umtakati.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: note
+  locator: footnotes 49-53 in supplied passage
+  quote_or_summary: 'Footnotes gloss names and terms: Usilwane as beast-man, Usilwanekazana
+    as little-beast-woman, Untombi-yapansi as damsel-of-beneath/of-the-earth, isitubi
+    as milk porridge, and umtakati as wizard or secret poisoner.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage notes.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Motif candidates are limited
+    because this excerpt appears to be the opening of a longer tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a cautious comparison beyond local passage-level patterns.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l30402-l30498
+  passage_sha256=29400c00a5bb4f28d2ad48bcb263a40b3eef2b0552b4ae5e4fd96a74bc845e87
+

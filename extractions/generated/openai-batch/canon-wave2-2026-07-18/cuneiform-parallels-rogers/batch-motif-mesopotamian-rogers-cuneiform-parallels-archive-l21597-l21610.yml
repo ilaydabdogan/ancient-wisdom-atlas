@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l21597-l21610
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: HAMATH,  GAZA,  AND  ELAM  327 / CAMPAIGN  AGAINST  ASHDOD  329 / CAMPAIGN  AGAINST  SAMARIA  331
+    / VIII.  SENNACHERIB  (704-682); lines 21597-21610
+  start: '21597'
+  end: '21610'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: his own son ascended the throne
+  summary: The passage introduces Sennacherib after Sargon's death, noting his succession
+    to the throne, the administrative burden of the empire, the author's negative
+    comparison of his ability with Sargon's, his recognition as legitimate king in
+    Assyria, and the Babylonians' installation of Marduk-zakir-shumu as their king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sargon dies, and in the same month his son ascends the throne.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sennacherib begins directing an already large empire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says Sennacherib needed to be greater than his father because
+    administration is heavier than conquest.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator judges Sennacherib to be inferior to Sargon in ability, despite
+    Sennacherib's inscriptions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sennacherib is received in Assyria as the legitimate king.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Babylonians do not accept Sennacherib in the same way and set up Marduk-zakir-shumu
+    as their king.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sennacherib
+  description: Son of Sargon who ascends the throne and begins directing the empire;
+    received in Assyria as legitimate king.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sargon
+  description: Deceased king and father of Sennacherib, used by the narrator as the
+    standard of comparison for ability.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Assyrians / Assyria
+  description: The polity or people among whom Sennacherib is received as legitimate
+    king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Babylonians
+  description: The people who do not comply with Sennacherib's kingship and instead
+    set up Marduk-zakir-shumu as king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Marduk-zakir-shumu
+  description: A man whom the Babylonians set up as their king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: successor king
+  assigned_to:
+  - fig:1
+  basis: Sennacherib is described as Sargon's son who ascends the throne after Sargon's
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: legitimate king in Assyria
+  assigned_to:
+  - fig:1
+  basis: The passage states that Sennacherib was received in Assyria as the legitimate
+    king.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: deceased father and predecessor
+  assigned_to:
+  - fig:2
+  basis: Sargon dies, and his son Sennacherib follows him to the throne; Sennacherib
+    is compared with his father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recognizing polity
+  assigned_to:
+  - fig:3
+  basis: Assyria receives Sennacherib as legitimate king.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: noncompliant polity
+  assigned_to:
+  - fig:4
+  basis: The Babylonians are described as not compliant and as setting up another
+    king.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: alternative king set up by Babylonians
+  assigned_to:
+  - fig:5
+  basis: The Babylonians set up Marduk-zakir-shumu as their king.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Succession after Sargon's death
+  summary: In the same month that Sargon dies, his son Sennacherib ascends the throne
+    and begins directing the empire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Assessment of Sennacherib's rule
+  summary: The narrator contrasts conquest with administration and judges Sennacherib
+    inferior to Sargon despite Sennacherib's inscriptions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Assyrian recognition and Babylonian opposition
+  summary: Sennacherib is accepted as legitimate king in Assyria, while the Babylonians
+    install Marduk-zakir-shumu as their king.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: contested royal succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents a royal son succeeding his father and being recognized
+    as legitimate in Assyria, while Babylonians install a different king.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is historical prose rather than a mythic narrative; the motif
+    is limited to royal legitimacy and succession.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21597-21601
+  quote_or_summary: After Sargon's death, his son Sennacherib ascends the throne and
+    begins directing the enlarged empire.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 21601-21607
+  quote_or_summary: The narrator says Sennacherib needed to exceed his father because
+    administration is harder than conquest, but judges him inferior to Sargon despite
+    his inscriptions.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 21608-21610
+  quote_or_summary: Sennacherib is received as legitimate king in Assyria, while the
+    Babylonians set up Marduk-zakir-shumu as their king.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is straightforward for persons, polities, and succession details.
+    Motif identification is more tentative because the passage is historical commentary,
+    not a mythological episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the explicitly supported royal-legitimacy pattern.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l21597-l21610
+  passage_sha256=ff5a30cdae388dd67766f9dd9f9677e4e9d8d17fba5d9a841968ac4d736a64ba
+

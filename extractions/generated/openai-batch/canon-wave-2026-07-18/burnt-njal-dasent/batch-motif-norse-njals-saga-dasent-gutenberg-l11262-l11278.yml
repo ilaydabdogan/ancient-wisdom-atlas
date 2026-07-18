@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l11262-l11278
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER CXII. / THE PEDIGREE OF GUDMUND THE POWERFUL. / CHAPTER CXIII. /
+    OF SNORRI THE PRIEST, AND HIS STOCK.; lines 11262-11278
+  start: '11262'
+  end: '11278'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: "“Snorri was the wisest and shrewdest of all these men in Iceland who had
+    not the gift of foresight.”"
+  summary: The passage introduces Snorri the Priest, his residences, Gudruna’s purchase
+    of land from him, his paternal lineage, his friendship with Asgrim, his reputation
+    for wisdom without foresight, and a widespread riding to the Thing with many lawsuits
+    underway.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man named Snorri is surnamed the Priest.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Snorri dwelt at Helgafell before Gudruna Oswif's daughter bought the land
+    from him; Gudruna dwelt there until she died of old age; Snorri then went to dwell
+    at Hvamsfirth on Sælingdale's tongue.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thorgrim is named as Snorri's father, and Thorgrim is named as a son of Thorstein
+    codcatcher.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Snorri is called a great friend of Asgrim Ellidagrim's son, and Snorri looked
+    for help there.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Snorri is described as the wisest and shrewdest of the men in Iceland who
+    lacked foresight, good to his friends, and grim to his foes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At that time men rode to the Thing from all the Quarters, and many suits had
+    been set on foot.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Snorri the Priest
+  description: A man named Snorri, surnamed the Priest; he dwelt at Helgafell, later
+    at Hvamsfirth, is identified by paternal lineage, is a friend of Asgrim, and is
+    described as wise, shrewd, good to friends, and grim to foes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Gudruna Oswif's daughter
+  description: She bought the land at Helgafell from Snorri and dwelt there until
+    she died of old age.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thorgrim
+  description: Snorri's father and a son of Thorstein codcatcher.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Thorstein codcatcher
+  description: Named as the father of Thorgrim in Snorri's paternal lineage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Asgrim Ellidagrim's son
+  description: A great friend of Snorri, from whom Snorri looked for help.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Men from all the Quarters
+  description: A collective group riding to the Thing while many suits were underway.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: surnamed priest
+  assigned_to:
+  - fig:1
+  basis: The passage says Snorri was surnamed the Priest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: resident and land-transfer participant
+  assigned_to:
+  - fig:1
+  basis: Snorri dwelt at Helgafell before Gudruna bought the land from him, and he
+    later dwelt at Hvamsfirth.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: land purchaser and resident
+  assigned_to:
+  - fig:2
+  basis: Gudruna bought the land from Snorri and dwelt there until her death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: father of Snorri
+  assigned_to:
+  - fig:3
+  basis: Thorgrim is explicitly named as Snorri's father.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: paternal ancestor in lineage
+  assigned_to:
+  - fig:4
+  basis: Thorstein codcatcher is named as Thorgrim's father, placing him in Snorri's
+    paternal line.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: friend and expected helper
+  assigned_to:
+  - fig:5
+  basis: Asgrim Ellidagrim's son is called Snorri's great friend, and Snorri looked
+    for help there.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: assembly-goers and litigants
+  assigned_to:
+  - fig:6
+  basis: Men from all Quarters ride to the Thing, and many suits are underway.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: wise and shrewd man without foresight
+  assigned_to:
+  - fig:1
+  basis: The passage describes Snorri as wisest and shrewdest among men in Iceland
+    who did not have foresight.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Thing assembly
+  literal_form: the Thing
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of Snorri's stock and character
+  summary: Snorri the Priest is introduced through residence, land transfer, paternal
+    lineage, friendship with Asgrim, and personal traits of wisdom, loyalty to friends,
+    and severity toward foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Riding to the Thing
+  summary: Men from all Quarters travel to the Thing while many suits have been initiated.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Human wisdom without prophetic foresight
+  taxonomy_refs:
+  - wisdom
+  basis: Snorri is described as the wisest and shrewdest of men in Iceland who do
+    not possess the gift of foresight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a human social and political trait, not a supernatural
+    wisdom episode; it explicitly limits Snorri by saying he lacks foresight.
+- id: motif:2
+  label: Genealogical stock establishes identity
+  taxonomy_refs: []
+  basis: Snorri is introduced through his father Thorgrim and grandfather-line relation
+    to Thorstein codcatcher.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The genealogy is not royal or divine in this passage, and no available
+    taxonomy reference precisely matches it.
+- id: motif:3
+  label: Public legal assembly and lawsuits
+  taxonomy_refs: []
+  basis: The passage describes a broad riding to the Thing from all Quarters and many
+    suits already set on foot.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a social-legal narrative pattern rather than an explicitly mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11266-11269
+  quote_or_summary: Snorri is named and surnamed the Priest; he dwelt at Helgafell
+    before Gudruna bought the land from him, Gudruna dwelt there until death, and
+    Snorri later dwelt at Hvamsfirth on Sælingdale's tongue.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 11269-11270
+  quote_or_summary: Thorgrim is named as Snorri's father and as a son of Thorstein
+    codcatcher.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 11270-11274
+  quote_or_summary: Snorri is described as a great friend of Asgrim Ellidagrim's son,
+    as looking for help there, as wise and shrewd without foresight, good to friends,
+    and grim to foes.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 11276-11278
+  quote_or_summary: Men from all Quarters ride to the Thing, and many suits are set
+    on foot.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Motif candidates are cautious
+    because the passage is primarily genealogical and social-legal rather than explicitly
+    mythic. No comparison claims were added because the passage itself does not support
+    a specific cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used; taxonomy references are limited to the supplied available taxonomy list.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l11262-l11278
+  passage_sha256=f7599f15c0c116fd9f48b031005ec7203588cfa6cf776e58e2840d2008063ae4
+

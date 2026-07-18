@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.egyptian-tales-first-series-petrie-gutenberg-l200-l220
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+passage_locator:
+  label: REMARKS / THE ADVENTURES OF SANEHAT / REMARKS / INTRODUCTION; lines 200-220
+  start: '200'
+  end: '220'
+  translation: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to
+    XIIth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: I humbly set up my interpreter's booth next door
+  summary: The translator explains his policy of avoiding intrusive notes in the translated
+    tales, placing explanatory remarks after them instead, and leaving folklorists
+    and readers to form their own commentaries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker states that the use and abuse of notes is disputed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes constant interruption by needless elementary explanation
+    as an impertinence to both author and reader.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says what counts as needless explanation depends on the reader
+    and gives an example of being asked what country Pompei is in.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he avoids intruding on the reader during engagement with
+    the ancients and instead places an interpreter's booth next door.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says no numbered note references are inserted into the tales.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Readers who find the original tales obscure are directed to remarks after
+    the tales, gathered by the translator.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker says folklorists could say much, but he leaves each to make his
+    own commentary without prejudice.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker / translator
+  description: The first-person speaker who describes his note policy and says the
+    remarks have been gleaned by the translator.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: reader
+  description: The person reading the ancient tales, sometimes interrupted by notes
+    or directed to later remarks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: author
+  description: The author is mentioned as one party to whom needless explanatory interruption
+    is an impertinence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the ancients
+  description: Ancient writers or voices with whom the reader is said to be in high
+    discourse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: folk-lorists
+  description: A group said to be capable of much commentary, with different schools
+    producing different interpretations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Rabbi Andrew and Rabbi Joseph
+  description: Named as heads or representatives of differing schools that write different
+    targums.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator-commentator
+  assigned_to:
+  - fig:1
+  basis: The speaker offers help with difficulties and says the remarks after the
+    tales were gleaned by the translator.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reader of ancient tales
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly addresses the reader and describes the reader as engaging
+    with the ancients and consulting remarks if the tales are obscure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: author affected by commentary
+  assigned_to:
+  - fig:3
+  basis: Needless explanation is described as an impertinence to the author as well
+    as the reader.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ancient interlocutors
+  assigned_to:
+  - fig:4
+  basis: The reader is described as being in high discourse with the ancients.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: potential commentators
+  assigned_to:
+  - fig:5
+  basis: The speaker says much might be said by a folklorist and leaves each to make
+    his own commentary.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: representatives of differing interpretive schools
+  assigned_to:
+  - fig:6
+  basis: The passage names the schools of Rabbi Andrew and Rabbi Joseph as writing
+    different targums.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: interpreter's booth
+  literal_form: booth next door
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: reader's trail
+  literal_form: trail
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Policy on notes and reader interruption
+  summary: The speaker argues against interrupting the translated tales with needless
+    explanatory notes and explains that reader need varies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interpreter's booth and after-remarks
+  summary: The speaker presents explanatory help as being placed outside the main
+    reading experience and directs readers to remarks after the tales rather than
+    inserted notes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Folklorists and commentary
+  summary: The speaker notes that folklorists and differing schools may offer varying
+    commentaries, and he leaves readers free to make their own without prejudice.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 200-206
+  quote_or_summary: The speaker discusses the dispute over notes, says needless explanation
+    interrupts reading and offends author and reader, and notes that what is needless
+    depends on the reader.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 207-216
+  quote_or_summary: The speaker says he sets up his "interpreter's booth next door,"
+    avoids numbered note references, and asks readers who find the tales obscure to
+    consult remarks after them.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; short quotation and summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 218-220
+  quote_or_summary: The speaker says folklorists could say much, mentions differing
+    schools of Rabbi Andrew and Rabbi Joseph, and leaves each to make his own commentary
+    without prejudice.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is editorial commentary rather than mythic narrative. No candidate
+    mythology motifs or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references were applied because the passage concerns editorial practice and commentary, not a mythic episode.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-first-series-petrie-gutenberg__l200-l220
+  passage_sha256=f815bfb7d4e130195b24b8e7966a4603ec4e67fe7452f291ca7e445b4bb14590
+

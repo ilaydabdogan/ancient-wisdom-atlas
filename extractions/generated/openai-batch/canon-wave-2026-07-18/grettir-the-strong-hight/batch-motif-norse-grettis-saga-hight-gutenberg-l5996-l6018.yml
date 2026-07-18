@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.norse-grettis-saga-hight-gutenberg-l5996-l6018
+source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+passage_locator:
+  label: CHAPTER LXX. THE PEOPLE OF SKAGAFJORD / CHAPTER LXXI. THE BONDIS CLAIM THEIR
+    PROPERTY IN DRANGEY / CHAPTER LXXII. GRETTIR VISITS THE THING AT HEGRANES / CHAPTER
+    LXXIII. VISIT OF THORBJORN ANGLE TO DRANGEY; lines 5996-6018
+  start: '5996'
+  end: '6018'
+  translation: 'The Saga of Grettir the Strong: Grettir''s Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Thorbjorn Angle comes by fully manned boat to Drangey and asks Grettir
+    to leave the island, offering assistance and citing shares transferred to him
+    by many bondis. Grettir refuses, saying Thorbjorn's ownership is a reason to remain.
+    The exchange ends with Thorbjorn warning that Grettir abides evil, Grettir accepting
+    the risk, and Thorbjorn returning home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the end of summer, Thorbjorn Angle traveled to Drangey in a fully manned
+    boat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grettir and his party came forward on the cliff and talked with Thorbjorn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thorbjorn asked Grettir to quit the island.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thorbjorn said he could give Grettir assistance that might make leaving worthwhile,
+    and said many bondis had given their island shares to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Grettir refused to leave, saying Thorbjorn's ownership of the greater part
+    of the island was a reason for him never to go away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Grettir said that neither side needed to spare the other.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Thorbjorn said that all abide their time and that Grettir abides evil.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Grettir said he must risk that; the two men parted, and Thorbjorn returned
+    home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thorbjorn Angle
+  description: A man who comes to Drangey by fully manned boat, asks Grettir to leave,
+    refers to island shares given to him, warns Grettir, and returns home.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Grettir
+  description: A man on Drangey who comes forward on the cliff with his party, refuses
+    to quit the island, and says he must risk Thorbjorn's warning.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Grettir's party
+  description: The group with Grettir who come forward on the cliff when Thorbjorn
+    arrives.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: many of the bondis
+  description: Landholders said by Thorbjorn to have given up their shares in the
+    island to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: visitor and claimant requesting departure
+  assigned_to:
+  - fig:1
+  basis: Thorbjorn goes to Drangey, asks Grettir to quit the island, and says many
+    island shares have been given to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: island occupant refusing departure
+  assigned_to:
+  - fig:2
+  basis: Grettir is on Drangey and says he is determined never to go away because
+    Thorbjorn owns the greater part of the island.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: companions present at parley
+  assigned_to:
+  - fig:3
+  basis: Grettir's party come forward on the cliff with him when the conversation
+    begins.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: share-transferring landholders
+  assigned_to:
+  - fig:4
+  basis: Thorbjorn says many bondis have given their shares in the island to him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mutual adversaries in negotiation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Grettir says neither side need spare the other, and Thorbjorn warns that
+    Grettir abides evil.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Drangey island
+  literal_form: The island of Drangey, the place Thorbjorn visits and Grettir refuses
+    to quit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fully manned boat
+  literal_form: The boat by which Thorbjorn Angle travels to Drangey.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cliff
+  literal_form: The cliff on which Grettir and his party come forward to speak.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: island shares
+  literal_form: Shares in Drangey that many bondis are said to have given up to Thorbjorn.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arrival and cliff-side parley
+  summary: Thorbjorn arrives at Drangey by fully manned boat; Grettir and his party
+    come forward on the cliff, and the parties talk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request to quit the island
+  summary: Thorbjorn asks Grettir to leave Drangey, offers assistance, and cites the
+    island shares that bondis have transferred to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Refusal and warning
+  summary: Grettir refuses to go, frames Thorbjorn's ownership as a reason to stay,
+    says the sides need not spare each other, receives Thorbjorn's warning, accepts
+    the risk, and parts from him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: contested island refuge
+  taxonomy_refs: []
+  basis: Grettir occupies Drangey and refuses to leave when Thorbjorn, who claims
+    greater ownership through transferred shares, asks him to quit it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the island in legal and adversarial terms; no sacred
+    or supernatural function is stated.
+- id: motif:2
+  label: refusal of settlement or inducement
+  taxonomy_refs: []
+  basis: Thorbjorn offers assistance to make Grettir's departure worthwhile, but Grettir
+    refuses to leave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact form of assistance is not specified in the passage.
+- id: motif:3
+  label: adversarial parley before threatened harm
+  taxonomy_refs: []
+  basis: The two sides meet and talk; Grettir says neither need spare the other, and
+    Thorbjorn warns that Grettir abides evil before they part.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage contains a warning, but not the later outcome of the threat.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5998-6000
+  quote_or_summary: Thorbjorn Angle goes to Drangey in a fully manned boat; Grettir
+    and his party come forward on the cliff and speak with him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 6000-6004
+  quote_or_summary: Thorbjorn asks Grettir to quit the island and says he can offer
+    assistance; he adds that many bondis have given their island shares to him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 6006-6012
+  quote_or_summary: Grettir says that because Thorbjorn owns the greater part of the
+    island, he is "determined never to go hence," and says neither side need spare
+    the other.
+  source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: '6014'
+  quote_or_summary: '"All abide their time," he said, "and you abide evil."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 6016-6017
+  quote_or_summary: Grettir says he must risk that; the parties part, and Thorbjorn
+    returns home.
+  source_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    assigned to available taxonomy families because the passage provides no clear
+    sacred, supernatural, or explicitly comparative framing. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references left empty where unsupported.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-grettis-saga-hight-gutenberg__l5996-l6018
+  passage_sha256=6e7b4a4bf9aa04eacc7c632c5505d0f4854359bc61f23895f9fe7e646666d917
+

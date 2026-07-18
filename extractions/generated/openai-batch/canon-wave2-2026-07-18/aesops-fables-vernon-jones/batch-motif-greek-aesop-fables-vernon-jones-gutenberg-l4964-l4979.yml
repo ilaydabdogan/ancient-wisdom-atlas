@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4964-l4979
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: HERCULES AND PLUTUS / THE FOX AND THE LEOPARD / THE FOX AND THE HEDGEHOG
+    / THE CROW AND THE RAVEN; lines 4964-4979
+  start: '4964'
+  end: '4979'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Crow envies a Raven because people respect the Raven as a bird of omen
+    that foretells the future. Wanting the same reputation, the Crow caws loudly from
+    a roadside tree as travellers approach. The travellers first fear a bad omen,
+    but one identifies the bird as only a crow and says it means nothing. The moral
+    states that those who pretend to be what they are not make themselves ridiculous.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Crow becomes jealous of the Raven because the Raven is regarded by people
+    as a future-foretelling bird of omen and is respected for it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Crow wants to gain the same kind of reputation as the Raven.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When travellers approach, the Crow flies to a branch of a roadside tree and
+    caws loudly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The travellers are initially troubled by the sound because they fear it may
+    be a bad omen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One traveller sees that the bird is a Crow and tells the others they may continue
+    without fear because a crow means nothing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The stated moral says that people who pretend to be something they are not
+    only make themselves ridiculous.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Crow
+  description: A crow who envies the Raven’s reputation and tries to gain similar
+    respect by cawing at travellers from a roadside tree.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Raven
+  description: A raven regarded by people as a respected bird of omen that foretells
+    the future.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Travellers
+  description: Travellers approaching on the road who first fear the Crow’s caw may
+    be a bad omen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: One traveller
+  description: A traveller who recognizes the Crow and reassures the companions that
+    it means nothing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Jealous imitator
+  assigned_to:
+  - fig:1
+  basis: The Crow is jealous of the Raven’s reputation and wants the same sort of
+    reputation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Failed pretender to omen-status
+  assigned_to:
+  - fig:1
+  basis: The Crow caws at travellers as if to produce an omen, but is identified as
+    only a crow whose sound means nothing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Recognized bird of omen
+  assigned_to:
+  - fig:2
+  basis: The Raven is described as regarded by people as a bird of omen that foretells
+    the future.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Alarmed observers
+  assigned_to:
+  - fig:3
+  basis: The travellers are dismayed by the sound because they fear it may be a bad
+    omen.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Discerning speaker
+  assigned_to:
+  - fig:4
+  basis: One traveller identifies the bird as a Crow and tells the companions they
+    can proceed without fear.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Roadside tree
+  literal_form: A branch of a tree at the roadside where the Crow perches to caw.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Bird of omen
+  literal_form: The Raven as a bird believed by people to foretell the future.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Caw as attempted omen
+  literal_form: The Crow’s loud caw, which the travellers initially fear may be a
+    bad omen.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Crow envies Raven’s reputation
+  summary: The Crow becomes jealous because people respect the Raven as a bird of
+    omen and the Crow wants the same reputation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crow caws at approaching travellers
+  summary: The Crow sees travellers, perches on a roadside tree branch, and caws loudly
+    as they approach.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: False omen dismissed
+  summary: The travellers first fear the sound as a bad omen, but one traveller identifies
+    the bird as only a crow and says they may continue without fear.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral of pretension
+  summary: The fable concludes that those who pretend to be what they are not make
+    themselves ridiculous.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Failed impersonation of a respected sign-bearer
+  taxonomy_refs: []
+  basis: The Crow tries to assume the Raven’s respected omen-role by cawing at travellers,
+    but the attempt is dismissed once she is recognized as a crow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage frames the action as moral pretension rather than as supernatural
+    transformation or successful divination.
+- id: motif:2
+  label: False omen exposed by recognition
+  taxonomy_refs: []
+  basis: The travellers initially fear a bad omen, but one traveller identifies the
+    source as a Crow and denies its significance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not present the Crow’s sound as a genuine omen.
+- id: motif:3
+  label: Pretension leads to ridicule
+  taxonomy_refs: []
+  basis: The explicit moral states that people pretending to be what they are not
+    only make themselves ridiculous.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a stated moral pattern rather than a named taxonomy motif in the
+    supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4964-4967
+  quote_or_summary: A Crow is jealous because a Raven is regarded by people as a future-foretelling
+    bird of omen and is held in great respect.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4967-4969
+  quote_or_summary: The Crow is anxious to gain the same kind of reputation herself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4969-4971
+  quote_or_summary: Seeing travellers approach, the Crow flies to a branch of a roadside
+    tree and caws as loudly as she can.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4971-4973
+  quote_or_summary: The travellers are dismayed because they fear the sound may be
+    a bad omen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4973-4976
+  quote_or_summary: "“It's all right, my friends, we can go on without fear, for it's
+    only a crow and that means nothing.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 4978-4979
+  quote_or_summary: "“Those who pretend to be something they are not only make themselves
+    ridiculous.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. No comparison claims
+    are made because the passage itself does not name a broader comparative corpus
+    or historical relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The source locator label mentions several fables, but the supplied passage text contains only “THE CROW AND THE RAVEN”; extraction is limited to the provided passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4964-l4979
+  passage_sha256=1f2101172f5915d477c08344ad3e2cd75f87a853c73561a6be0044fef1a5ae77
+

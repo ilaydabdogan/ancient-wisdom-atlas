@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1215-l1228
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: HOW TO OBTAIN UNION WITH THE DIVINE / TRUTH / THE GOD BEHIND THE VEIL / THE
+    DIVINE SELF-SUFFICIENCY; lines 1215-1228
+  start: '1215'
+  end: '1228'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"God most glorious can do without the world."'
+  summary: The passage defines absolute self-sufficiency as a quality of Divine Perfection.
+    It says that all modes, states, and aspects of the One Real Being, across time
+    and levels of substance, are present in divine thought and contained in divine
+    unity; from this standpoint God is independent of all other existences.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies absolute self-sufficiency as a quality involved in
+    Divine Perfection.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that all modes, states, and aspects of the One Real Being,
+    with their properties and qualities, are present and realized in the secret thought
+    of the Divine Being.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the sum of all these modes, states, aspects, properties,
+    qualities, and presentations is contained in divine Unity.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that God is independent of all other existences and can
+    do without the world.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Divine Being / God / One Real Being
+  description: The absolute, self-sufficient divine subject whose unity contains all
+    modes and who is independent of all other existences.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: self-sufficient divine subject
+  assigned_to:
+  - fig:1
+  basis: Absolute self-sufficiency is named as a quality of Divine Perfection, and
+    God is said to be able to do without the world.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: holder of all modes within unity
+  assigned_to:
+  - fig:1
+  basis: All modes, states, and aspects are said to be present in divine thought and
+    contained in divine Unity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: divine Unity
+  literal_form: His Unity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: world
+  literal_form: the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Definition of divine self-sufficiency
+  summary: 'The passage gives a theological definition: absolute self-sufficiency
+    belongs to Divine Perfection; all modes and states are present in divine thought
+    and contained in divine Unity; therefore God is independent of other existences
+    and of the world.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine self-sufficiency independent of the world
+  taxonomy_refs: []
+  basis: The passage explicitly defines absolute self-sufficiency as divine perfection
+    and states that God can do without the world.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy motif precisely names divine self-sufficiency, so
+    no taxonomy reference is assigned.
+- id: motif:2
+  label: multiplicity contained in divine unity
+  taxonomy_refs: []
+  basis: The passage says all modes, states, aspects, properties, qualities, and temporal
+    presentations are present in divine thought and contained in divine Unity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a theological pattern in the passage, not a narrative motif with
+    actions or characters.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1215-1218
+  quote_or_summary: '"Absolute self-sufficiency is a quality involved in Divine Perfection."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1218-1224
+  quote_or_summary: All modes, states, and aspects of the One Real Being, with their
+    properties and qualities, across past, present, and future presentations and divine
+    and mundane grades of substance, are present in the secret thought of the Divine
+    Being.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1224-1226
+  quote_or_summary: '"the sum of them all is contained in His Unity"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 1226-1228
+  quote_or_summary: '"God most glorious can do without the world."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is abstract and doctrinal rather than narrative. Literal extraction
+    is straightforward; motif labels are candidate theological patterns without precise
+    supplied taxonomy matches. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references left empty because none of the supplied motif families or symbol refs is directly supported by the passage wording.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1215-l1228
+  passage_sha256=0b582277aed898c41908a8e4516f46ae7448bd960fe4fbc68fbf768788c0d642
+

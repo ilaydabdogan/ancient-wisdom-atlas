@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2796-l2808
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OXEN AND THE BUTCHERS / THE WOLF AND THE LION / THE SHEEP, THE WOLF,
+    AND THE STAG / THE LION AND THE THREE BULLS; lines 2796-2808
+  start: '2796'
+  end: '2808'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The quarrels of friends are the opportunities of foes.
+  summary: Three Bulls graze together in a meadow while a Lion watches and wants to
+    devour them. Unable to overcome them while they remain together, the Lion uses
+    false whispers to create jealousy and distrust. The Bulls separate, and the Lion
+    kills them one by one. The passage ends with a moral about quarrels among friends
+    aiding enemies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Three Bulls are grazing in a meadow.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Lion watches the Bulls and wants to capture and devour them.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The Lion considers himself unable to overcome the three Bulls while they remain
+    together.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lion uses false whispers and malicious hints to create jealousies and
+    distrust among the Bulls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bulls become cold and unfriendly, avoid each other, and feed separately.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the Bulls separate, the Lion attacks them one by one and kills them
+    in turn.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The stated moral says that quarrels among friends create opportunities for
+    foes.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Three Bulls
+  description: Three Bulls grazing in a meadow; initially together, later distrustful
+    and separated, then killed one by one by the Lion.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lion
+  description: A Lion who watches the Bulls, wants to capture and devour them, foments
+    distrust among them, and kills them after they separate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: united friends or allies
+  assigned_to:
+  - fig:1
+  basis: The Bulls are safe while they keep together, and the moral frames the case
+    as quarrels among friends.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: predatory foe and deceiver
+  assigned_to:
+  - fig:2
+  basis: The Lion wants to devour the Bulls, uses false whispers to divide them, and
+    kills them after they separate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: isolated victims
+  assigned_to:
+  - fig:1
+  basis: After distrust makes the Bulls avoid each other and feed apart, the Lion
+    kills them one by one.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Bulls together under the Lion's watch
+  summary: Three Bulls graze together in a meadow while a Lion watches and desires
+    to devour them but cannot overcome them as a group.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Distrust sown among the Bulls
+  summary: The Lion uses false whispers and malicious hints to stir jealousy and distrust,
+    leading the Bulls to become unfriendly and separate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Separated Bulls killed one by one
+  summary: Once the Bulls are apart, the Lion attacks and kills them individually;
+    the moral states that quarrels among friends benefit foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Predator divides united prey
+  taxonomy_refs: []
+  basis: The Lion cannot overcome the Bulls while they remain together, so he creates
+    distrust and kills them after they separate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Motif label is descriptive and not tied to a supplied specific taxonomy
+    family.
+- id: motif:2
+  label: Quarrels of friends benefit foes
+  taxonomy_refs:
+  - wisdom
+  basis: The explicit moral states that the quarrels of friends are opportunities
+    for foes, summarizing the narrative outcome.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad and based on the passage's explicit moral
+    instruction.
+- id: motif:3
+  label: False speech creates destructive distrust
+  taxonomy_refs: []
+  basis: The Lion's false whispers and malicious hints foment distrust, causing the
+    Bulls to separate and become vulnerable.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern within the passage, not a supplied named taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2796-2808; opening narrative
+  quote_or_summary: "“Three Bulls were grazing in a meadow, and were watched by a
+    Lion”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2796-2808; Lion's intention and limitation
+  quote_or_summary: The Lion longs to capture and devour the Bulls but feels he is
+    no match for the three while they keep together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2796-2808; Lion's stratagem
+  quote_or_summary: The Lion uses “false whispers and malicious hints” to foment jealousies
+    and distrust among the Bulls.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 2796-2808; result of stratagem
+  quote_or_summary: The Bulls become cold and unfriendly, avoid each other, and each
+    feeds separately.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2796-2808; killing of the Bulls
+  quote_or_summary: The Lion “fell upon them one by one and killed them in turn.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 2796-2808; stated moral
+  quote_or_summary: "“The quarrels of friends are the opportunities of foes.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims were
+    generated because the passage does not itself make a comparative link to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage text contains only “THE LION AND THE THREE BULLS,” though the locator label lists several adjacent fables.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2796-l2808
+  passage_sha256=a42f385790775f608131a970d07d54c425506d4d65092c2b7adf8fbdf19d4469
+

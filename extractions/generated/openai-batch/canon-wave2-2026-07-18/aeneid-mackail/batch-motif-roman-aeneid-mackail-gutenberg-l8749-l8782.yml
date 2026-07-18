@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8749-l8782
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FOURTH / BOOK FIFTH / BOOK SIXTH / BOOK EIGHTH; lines 8749-8782
+  start: '8749'
+  end: '8782'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The selected passage consists of editorial and Servian notes on several
+    books of the Aeneid. It records omitted lines and variant readings, characterizes
+    Book Fourth as concerned with love and subtle counsels, and quotes a Book Eighth
+    line about asking for arms, a mother and son, and the daughter of Nereus, with
+    Servius explaining the punctuation and implied beneficiary of the request.
+  language: English with Latin quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a set of notes for Books Fourth, Fifth, Sixth, and Eighth rather
+    than a continuous narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:2
+  text: A note attributed to Servius describes Book Fourth as being concerned with
+    counsels, subtleties, and love, and says its style is almost comic.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several notes report omitted lines or phrases on manuscript authority in Books
+    Fourth, Fifth, Sixth, and Eighth.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Book Sixth note gives alternative readings for line 806.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Book Eighth note quotes Latin words asking for arms and mentioning a mother,
+    a son, and the daughter of Nereus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Servius says the phrase asking for arms should be punctuated so that the requester
+    does not state for whom she asks, but leaves that understood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Servius glosses the quoted words as meaning that the second-person addressee
+    is accustomed to providing this service to mothers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Servius / Serv.
+  description: A cited commentator whose notes are attached to the Book Fourth and
+    Book Eighth passages.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: unnamed requester or speaker
+  description: The speaker of the quoted words asking for arms; Servius notes that
+    the speaker leaves the beneficiary of the request unstated.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: mother / genetrix
+  description: A mother is named in relation to a son in the quoted Book Eighth line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: son / natus
+  description: A son is mentioned in relation to the mother in the quoted Book Eighth
+    line.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: unnamed second-person addressee
+  description: The addressee indicated by 'te' and described by Servius as accustomed
+    to providing this service to mothers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: daughter of Nereus
+  description: A figure identified by the phrase 'filia Nerei' in the quoted Book
+    Eighth line.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Nereus
+  description: Named only as the father in the phrase 'daughter of Nereus.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited commentator
+  assigned_to:
+  - fig:1
+  basis: The notes are explicitly marked with 'Serv.' after the commentary.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: requester of arms
+  assigned_to:
+  - fig:2
+  basis: The quoted phrase says 'Arma rogo,' and Servius comments on for whom the
+    speaker asks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mother
+  assigned_to:
+  - fig:3
+  basis: The quoted line uses 'Genetrix' and Servius glosses the passage with reference
+    to mothers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: son
+  assigned_to:
+  - fig:4
+  basis: The quoted line includes 'nato,' referring to a son in relation to the mother.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressee accustomed to providing aid to mothers
+  assigned_to:
+  - fig:5
+  basis: The quoted line includes 'te,' and Servius explains that this addressee is
+    accustomed to providing the requested thing to mothers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: named daughter
+  assigned_to:
+  - fig:6
+  basis: The quoted line identifies a 'daughter of Nereus.'
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: named progenitor
+  assigned_to:
+  - fig:7
+  basis: Nereus is named only through the patronymic phrase 'filia Nerei.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: arms
+  literal_form: arma / arms requested in the quoted line
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: editorial notes across multiple books
+  summary: The passage lists book and line notes, including omitted passages, manuscript
+    readings, and a Servian comment on the character of Book Fourth.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Servian note on a request for arms
+  summary: A Book Eighth note quotes a request for arms involving a mother, son, daughter
+    of Nereus, and an unnamed addressee; Servius explains that the speaker leaves
+    the beneficiary unstated and that the addressee is accustomed to providing this
+    service to mothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mother requests arms for a son
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The quoted line links a mother and son with a request for arms, and Servius
+    explains the request as one in which the beneficiary is left implicit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage is a fragmentary editorial/commentarial note, not a full narrative
+    scene. The taxonomy reference is broad and should be reviewed.
+- id: motif:2
+  label: provider grants aid to mothers
+  taxonomy_refs: []
+  basis: Servius glosses the line as meaning that the addressee is accustomed to providing
+    the requested service to mothers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The provider is unnamed in this excerpt, and the exact prior example is
+    not fully narrated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Servian gloss supports a cautious functional comparison between the quoted
+    request for arms and a broader pattern in which a provider grants needed aid to
+    mothers acting for sons.
+  claim_level: same_function
+  target: mothers requesting or receiving aid for sons
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt does not name the full mythic episode, the provider, or
+    the son for whom the arms are sought; the comparison is based only on the wording
+    and Servius's gloss.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8749-8753
+  quote_or_summary: '"Totus hic liber . . . in consiliis et subtilitatibus est" and
+    "ubi de amore tractatur.--Serv."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 8755-8775
+  quote_or_summary: Editorial notes report omitted lines or phrases and variant readings
+    for Books Fourth, Fifth, Sixth, and Eighth, including line 806 variants in Book
+    Sixth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: '8777'
+  quote_or_summary: '"Arma rogo. Genetrix nato te filia Nerei."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 8779-8782
+  quote_or_summary: Servius says 'Arma rogo' should be punctuated so that the requester
+    does not say for whom she asks, but leaves it understood; he glosses the following
+    words as meaning that the addressee is accustomed to providing this to mothers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal extraction is limited by the fact that the passage is mostly textual
+    commentary and Latin notes rather than a complete narrative episode. Motif identification
+    is therefore tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No independent mythic context beyond the provided excerpt has been added; names and roles are restricted to the quoted line and Servian gloss.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8749-l8782
+  passage_sha256=c4fb0da755c6ca92dc57132644983b55c56d50378483a79f19001c1114796e0c
+

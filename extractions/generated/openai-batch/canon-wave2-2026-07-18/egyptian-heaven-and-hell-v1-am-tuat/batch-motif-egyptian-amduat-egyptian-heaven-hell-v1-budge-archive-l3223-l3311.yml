@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l3223-l3311
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    BOOK   OF  AM-TUAT / THE    BOOK   OF   AM-TUAT / I   I  I / THE    BOOK   OF  AM-TUAT;
+    lines 3223-3311
+  start: '3223'
+  end: '3311'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage catalogues parts of the Third Hour upper register of the Am-Tuat:
+    a papyrus sceptre called Uk-hekau surmounted by flesh; four named gods; four mummied
+    forms with differing head ornaments; four goddesses identified as professional
+    mourners; the god Heru-kheti followed by the Hennu standard, described as the
+    hawk of Seker on a standard; and the gods Meh-Maat and Neter-neferu.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as a Third Hour, Upper Register catalogue of numbered
+    divine figures or objects.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: A papyrus sceptre named Uk-hekau is glossed as “Great one of words of power”
+    and is surmounted by a piece of flesh.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Four gods are listed with the names Sah-ab, Thema, Hun-sahu, and Thet-em-kerh.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Four mummied forms are described; their head features include horns, two curved
+    plumes, a winged uraeus, and one head without ornament.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The names of the four mummied forms are reported as apparently Peba-f, Ka-aru,
+    Auai, and Teba.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Four goddesses are listed, with readable names including Plait and Kemit,
+    and they are identified as professional mourners.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The god Heru-kheti is followed by the Hennu standard, described as the hawk
+    of Seker upon a standard.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The gods Meh-Maat and Neter-neferu are named after Heru-kheti and the Hennu
+    standard.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sah-ab, Thema, Hun-sahu, and Thet-em-kerh
+  description: Four gods listed together in the Third Hour upper register.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Peba-f, Ka-aru, Auai, and Teba
+  description: Four mummied forms, with names reported as apparent readings and with
+    differing head ornaments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Four goddesses, including Plait and Kemit
+  description: Four goddesses whose names are said to show that they were professional
+    mourners; readable names in the passage include Plait and Kemit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Heru-kheti
+  description: A god listed in the Third Hour upper register, followed by the Hennu
+    standard.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Meh-Maat and Neter-neferu
+  description: Two gods listed after Heru-kheti and the Hennu standard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: upper-register god
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: These figures are explicitly introduced as gods in the Third Hour upper register
+    catalogue.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: mummied form
+  assigned_to:
+  - fig:2
+  basis: The passage identifies this group as four mummied forms and describes their
+    head ornaments.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: professional mourner
+  assigned_to:
+  - fig:3
+  basis: The passage states that the four goddesses were professional mourners.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: god followed by sacred standard
+  assigned_to:
+  - fig:4
+  basis: Heru-kheti is followed in the list by the Hennu standard, described as the
+    hawk of Seker on a standard.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Uk-hekau papyrus sceptre
+  literal_form: Papyrus sceptre called Uk-hekau, glossed as “Great one of words of
+    power,” surmounted by a piece of flesh.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head horns
+  literal_form: A pair of horns on the head of the first mummied form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: curved plumes
+  literal_form: Two curved plumes on the head of the second mummied form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: winged uraeus
+  literal_form: A winged uraeus on the head of the third mummied form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: unornamented head
+  literal_form: The fourth mummied form is described as having a head without ornament.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Hennu standard
+  literal_form: The Hennu standard, described as the hawk of Seker upon a standard.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Third Hour upper-register catalogue
+  summary: The passage presents a catalogue of objects, gods, mummied forms, mourning
+    goddesses, and a standard in the Third Hour upper register of the Am-Tuat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: afterlife hour-register catalogue
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The section is explicitly labeled as the Third Hour upper register and enumerates
+    divine beings, mummied forms, and ritual emblems as part of the Am-Tuat’s ordered
+    afterlife geography.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This excerpt is mainly a descriptive catalogue; it does not itself narrate
+    travel through the hour.
+- id: motif:2
+  label: mummied divine forms with identifying head emblems
+  taxonomy_refs: []
+  basis: 'Four mummied forms are differentiated by head ornaments: horns, curved plumes,
+    winged uraeus, and lack of ornament.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives iconographic description but little functional explanation.
+- id: motif:3
+  label: divine professional mourners
+  taxonomy_refs: []
+  basis: Four goddesses are explicitly identified as professional mourners.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only two goddess names are clearly readable in the supplied OCR passage.
+- id: motif:4
+  label: empowered ritual sceptre
+  taxonomy_refs: []
+  basis: The papyrus sceptre Uk-hekau is glossed with words of power and bears a piece
+    of flesh above it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage identifies and glosses the object but does not explain its
+    ritual function in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3223-3233
+  quote_or_summary: "“Third Hour. Upper Register”; the papyrus sceptre Uk-hekau is
+    called “Great one of words of power” and is surmounted by a piece of flesh."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3234-3243
+  quote_or_summary: Four gods are listed in the Third Hour upper register, with names
+    readable as Sah-ab, Thema, Hun-sahu, and Thet-em-kerh.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3244-3262
+  quote_or_summary: 'Four mummied forms are described: the first has horns, the second
+    curved plumes, the third a winged uraeus, and the fourth no head ornament; their
+    names appear to be Peba-f, Ka-aru, Auai, and Teba.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3263-3275
+  quote_or_summary: Four goddesses are listed, with readable names including Plait
+    and Kemit; the passage says their names testify that they were professional mourners.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3276-3285
+  quote_or_summary: The god Heru-kheti is followed by the Hennu standard, explained
+    as the hawk of Seker upon a standard.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3286-3292
+  quote_or_summary: The gods Meh-Maat and Neter-neferu are named after the mention
+    of the Hennu standard.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by OCR noise and incomplete or garbled name forms
+    in the supplied passage. Literal iconographic details are clearer than functional
+    interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not support a specific cross-text or cross-cultural comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l3223-l3311
+  passage_sha256=1c9bffa0359ca0319be53f9fea5f35293024db5e8a321173e99e372c1d8361cd
+

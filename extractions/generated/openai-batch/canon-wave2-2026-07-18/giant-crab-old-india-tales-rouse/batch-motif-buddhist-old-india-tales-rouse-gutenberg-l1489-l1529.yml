@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1489-l1529
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GRATEFUL BEASTS AND THE UNGRATEFUL PRINCE / THE GOBLIN IN THE POOL /
+    THE FOOLISH FARMER AND THE KING / THE PIOUS WOLF; lines 1489-1529
+  start: '1489'
+  end: '1529'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A flood leaves a wolf trapped on a rock without food. The wolf reframes
+    his forced hunger as a holy Friday fast. A fairy tests him by taking the form
+    of a little kid; the wolf immediately abandons his pretended piety and tries to
+    eat it. The fairy reveals herself, rebukes him as a hypocrite, and punishes him
+    by leaving him on the rock to fast for a week.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flood surrounds a large rock where a wolf is sleeping, leaving the wolf
+    unable to get off and without food.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf decides to call his lack of food a holy Friday fast and pretends
+    to pray.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A fairy observes the wolf and decides to test how much of his piety is real
+    or sham.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fairy changes herself into the shape of a pretty little kid and lands
+    on the rock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On seeing the kid, the wolf forgets his prayers, says he can keep his fast
+    the next day, and jumps at the kid.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The kid avoids the wolf, and the wolf cannot catch it because it is the fairy.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After failing to catch the kid, the wolf again says that perhaps he should
+    keep his fast that day.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The fairy returns to her proper shape, calls the wolf a humbug, and says he
+    fasts only because he cannot help it.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The fairy punishes the wolf by decreeing that he will stay on the rock and
+    fast for a week, then flies away.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf trapped on a rock by floodwater, without food, who pretends
+    to keep a holy fast and then tries to eat the kid-form of the fairy.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Fairy
+  description: A fairy who sees and hears the wolf, changes into a little kid to test
+    him, returns to her proper shape, rebukes him, punishes him, and flies away.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: trapped animal
+  assigned_to:
+  - fig:1
+  basis: The flood leaves the wolf imprisoned on the rock with no way to get off.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pretended faster
+  assigned_to:
+  - fig:1
+  basis: The wolf chooses to present his lack of food as a holy Friday fast and pretends
+    to pray.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: failed predator
+  assigned_to:
+  - fig:1
+  basis: The wolf abandons the fast when he sees the kid and tries unsuccessfully
+    to catch it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: supernatural observer
+  assigned_to:
+  - fig:2
+  basis: The fairy sees and hears the wolf before intervening.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: shapeshifted tester
+  assigned_to:
+  - fig:2
+  basis: The fairy changes herself into a kid to test whether the wolf's piety is
+    real or sham.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: punisher of hypocrisy
+  assigned_to:
+  - fig:2
+  basis: The fairy exposes the wolf's insincerity and imposes a week-long fast as
+    punishment.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: floodwater
+  literal_form: flood and surrounding water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: isolating rock
+  literal_form: large rock
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: kid-form lure
+  literal_form: pretty little Kid
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Friday fast
+  literal_form: holy fast on Friday
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: wings
+  literal_form: fairy's wings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wolf trapped by flood
+  summary: A flood surrounds a rock and traps a wolf there without food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forced hunger renamed as fasting
+  summary: The wolf decides that, because it is Friday, he will treat his unavoidable
+    hunger as a holy fast and pretends to pray.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fairy's test by transformation
+  summary: A fairy sees the wolf and changes into a little kid to test whether his
+    piety is genuine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wolf attempts to eat the kid
+  summary: The wolf forgets his prayers, postpones the fast, and tries unsuccessfully
+    to catch the kid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Rebuke and punishment
+  summary: The fairy returns to her proper form, denounces the wolf's sham fasting,
+    sentences him to remain on the rock for a week, and flies away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Hypocritical piety exposed by temptation
+  taxonomy_refs: []
+  basis: The wolf pretends that his forced hunger is a holy fast, but immediately
+    abandons the fast when edible prey appears.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage frames the behavior morally, but the motif label is descriptive
+    rather than a supplied taxonomy category.
+- id: motif:2
+  label: Shapeshifted supernatural tester
+  taxonomy_refs:
+  - shapeshifter
+  basis: The fairy changes into a little kid to test whether the wolf's piety is real
+    or sham.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The shapeshifting is literal in the passage; no broader historical linkage
+    is implied.
+- id: motif:3
+  label: Supernatural punishment for false virtue
+  taxonomy_refs:
+  - divine_judgment
+  basis: The fairy exposes the wolf's false fasting and punishes him with a week of
+    enforced fasting on the rock.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The punishing figure is called a fairy, not a deity; the taxonomy reference
+    is approximate and should be reviewed.
+- id: motif:4
+  label: Flood-imprisoned animal
+  taxonomy_refs: []
+  basis: A flood traps the wolf on a large rock with no escape and no food, creating
+    the conditions for the fasting episode.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Although the passage contains a flood, it does not describe renewal, survival
+    of a world, or a flood myth cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1489-1494
+  quote_or_summary: A flood surrounds a large rock where a wolf is sleeping; when
+    he wakes, he is imprisoned, unable to get off, and has nothing to eat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1496-1502
+  quote_or_summary: The wolf reasons that since it is Friday, when people say one
+    ought to fast, he will keep a holy fast; he crosses his paws, pretends to pray,
+    and thinks himself pious.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1504-1507
+  quote_or_summary: A fairy sees and hears the wolf, decides to test what is real
+    and what is sham, changes into a pretty little kid, and lands on the rock.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1509-1513
+  quote_or_summary: The wolf sees the tender little kid, forgets his prayers, says
+    he can keep his Friday fast tomorrow, smacks his lips, and jumps at the kid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1514-1516
+  quote_or_summary: The kid jumps away, and the wolf cannot get near it because it
+    is the fairy and she does not let herself be caught.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1517-1519
+  quote_or_summary: After trying to catch the kid, the wolf lies down again and says
+    that since it is Friday, perhaps he had best keep his fast that day.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1520-1525
+  quote_or_summary: The fairy returns to her proper shape and says, "You humbug!"
+    She tells the wolf he fasts because he cannot help it, not because he is really
+    good, and orders him to remain on the rock and fast for a week.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: summary
+  locator: line 1526
+  quote_or_summary: The fairy opens her wings and flies far away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignments involving
+    divine judgment are approximate because the passage identifies the punisher as
+    a fairy rather than a deity. No passage-supported cross-text comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Empty comparison_claims reflects lack of passage-internal support for broader comparative claims.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1489-l1529
+  passage_sha256=be6e4c48a39259b442fe7250b59abfc397d9273fa8436dd719fc3c5ecd490eb2
+

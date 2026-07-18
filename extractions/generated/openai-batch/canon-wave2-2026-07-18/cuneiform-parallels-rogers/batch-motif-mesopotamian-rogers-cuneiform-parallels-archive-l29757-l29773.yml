@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29757-l29773
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  17 / PLATE  NO.  18 / PLATE  NO.  19 / PLATE  NO.  20; lines
+    29757-29773
+  start: '29757'
+  end: '29773'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Statue of the god Nabu.
+  summary: A plate caption describes a statue of the god Nabu, one of four made by
+    Bel-tarsi-iluma, governor of Calah. The statue was dedicated to Nabu to secure
+    long life for King Adad-nirari IV and his mother Sammuramat. The caption also
+    notes the statue’s inscribed belt text and its discovery at Nimroud, the site
+    of ancient Calah.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the depicted object as a statue of the god Nabu.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The statue was one of four made by Bel-tarsi-iluma, governor of Calah.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The statue was dedicated to the god for the purpose of securing long life
+    for King Adad-nirari IV and his mother Sammuramat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A text is described as belting the statue.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The statue was discovered by Hormuzd Rassam in the mound of Nimroud, identified
+    as the site of ancient Calah.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nabu
+  description: God represented by the statue and recipient of the dedication.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bel-tarsi-iluma
+  description: Governor of Calah who made one of four statues and dedicated it to
+    the god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Adad-nirari IV
+  description: King for whom long life was sought through the dedication.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sammuramat / Semiramis
+  description: Mother of King Adad-nirari IV, also named as a beneficiary of the dedication
+    for long life.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hormuzd Rassam
+  description: Discoverer of the statue at Nimroud according to the caption.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deity and dedicatee
+  assigned_to:
+  - fig:1
+  basis: The statue is of Nabu and was dedicated to the god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: maker and dedicating governor
+  assigned_to:
+  - fig:2
+  basis: Bel-tarsi-iluma is named as governor of Calah and maker of the statue; the
+    passage says the statue was dedicated to the god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: royal beneficiary of requested long life
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The dedication is said to seek long life for the king and his mother.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother of the king
+  assigned_to:
+  - fig:4
+  basis: Sammuramat is explicitly identified as the king’s mother.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: discoverer
+  assigned_to:
+  - fig:5
+  basis: The passage says the statue was discovered by Hormuzd Rassam.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: statue of Nabu
+  literal_form: statue
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: four statues
+  literal_form: set of four statues
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: belting text on statue
+  literal_form: inscribed text encircling or belting the statue
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Nimroud / ancient Calah
+  literal_form: mound and ancient city site
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dedication of the statue for royal longevity
+  summary: Bel-tarsi-iluma, governor of Calah, made a statue of Nabu and dedicated
+    it to the god to secure long life for King Adad-nirari IV and his mother Sammuramat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Discovery and provenance of the statue
+  summary: The caption reports that Hormuzd Rassam discovered the statue in the mound
+    of Nimroud, the site of ancient Calah, and notes that the statue bears a belting
+    text.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dedicatory cult statue offered for royal long life
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that the statue was dedicated to the god for the purpose
+    of securing long life for the king and his mother.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a plate caption, not a narrative myth. The sacred-exchange
+    classification is based only on the stated dedication to a deity for a desired
+    royal benefit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29757-29761
+  quote_or_summary: The caption identifies a statue of the god Nabu, one of four made
+    by Bel-tarsi-iluma, governor of Calah.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 29761-29764
+  quote_or_summary: The statue was dedicated to the god to secure long life for King
+    Adad-nirari IV and his mother Sammuramat, also identified parenthetically as Semiramis.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 29764-29766
+  quote_or_summary: The caption refers to a translation of the text that belts the
+    statue.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 29766-29770
+  quote_or_summary: The statue was discovered by Hormuzd Rassam in the mound of Nimroud,
+    identified as the site of ancient Calah; the illustration was taken from Rassam’s
+    book.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Named figures, object, dedication purpose, and discovery context are explicit.
+    Motif classification is more tentative because the passage is a caption rather
+    than a mythic episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this object or dedication to another text, tradition, or motif family beyond the local description.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29757-l29773
+  passage_sha256=ee4928adabe1ecbed9410c0bfac37cfaea2d9b23d9bdddf8cd4833a31a3904e3
+

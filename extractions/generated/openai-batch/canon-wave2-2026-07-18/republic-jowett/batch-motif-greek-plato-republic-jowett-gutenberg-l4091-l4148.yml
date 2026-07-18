@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l4091-l4148
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 4091-4148
+  start: '4091'
+  end: '4148'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: a cave having an opening towards a fire and a way upwards to the true light
+  summary: 'The passage analyzes Plato''s cave allegory and related educational program:
+    images of cave, fire, shadows, reflections, stars, sun, number, and harmony are
+    used to map stages of knowledge, dialectic, and philosophical education from sense-experience
+    toward the idea of good.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says Plato uses allegory to explain the relation of the philosopher
+    to the world, moving from concrete presentation to abstraction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Book VII is described as presenting a cave with an opening toward a fire and
+    an upward way toward true light.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dialectical process is represented as a way leading from darkness to light.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shadows, images, water-reflections of sun and stars, and the sun and stars
+    themselves are each correlated with different divisions of knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dialectical process begins with real stars rather than reflections and
+    ends with recognition of the sun or idea of good as parent of light, warmth, and
+    growth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage outlines stages of education: childhood and youth in poetry,
+    laws, and customs; bodily training for warrior-athletic service; and later study
+    moving from mathematics to philosophy.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: True education is described as drawing people from becoming to being and toward
+    a comprehensive survey of being.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage lists number, relation, comparison, arithmetic, geometry, astronomy
+    or harmony of the spheres, harmony of sounds, and mathematical proportions as
+    prompting or organizing reflection.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Named thinker whose philosophy, allegory, and educational scheme are
+    analyzed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: the philosopher
+  description: Generic figure whose relation to the world is said to be explained
+    through allegory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: educated persons or learners
+  description: People described as being drawn by true education from becoming to
+    being through staged studies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: philosophical author or subject of analysis
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly attributes the allegory, educational theory, and philosophy
+    to Plato.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: philosopher in relation to the world
+  assigned_to:
+  - fig:2
+  basis: The opening sentence states that the allegory explains the relation of the
+    philosopher to the world.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient of philosophical education
+  assigned_to:
+  - fig:3
+  basis: The passage describes stages of education and says true education draws people
+    from becoming to being.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: A cave used as the figure for the Book VII image.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: A fire toward which the cave has an opening.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: upward way to true light
+  literal_form: A way upwards to true light, also described as a way from darkness
+    to light.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: shadows and images
+  literal_form: Shadows and images that correspond to lower divisions of knowledge.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: water-reflections
+  literal_form: Reflections of the sun and stars in water.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: stars and sun
+  literal_form: The stars and sun themselves, with the sun identified with the idea
+    of good.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: number and relation
+  literal_form: Number, relation, comparison, arithmetic, geometry, and mathematical
+    proportion as objects of study.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: harmony of spheres and sounds
+  literal_form: Astronomy described as harmony of the spheres, with an appended sister
+    science of harmony of sounds.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Cave image and upward route
+  summary: Book VII is described as returning to knowledge-divisions through the familiar
+    picture of a cave, fire, and upward route to true light; the route represents
+    dialectic from darkness to light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Visual images mapped to divisions of knowledge
+  summary: The passage correlates shadows, images, reflections in water, and real
+    stars and sun with levels ranging from fancy and sense to mathematical abstraction
+    and unity of idea.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dialectical recognition of the sun or good
+  summary: The dialectical process moves from contemplation of real stars to recognition
+    of the sun, or idea of good, as parent of light, warmth, and growth.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Staged philosophical education
+  summary: Education moves from youth in poetry and civic custom to bodily training
+    and later mathematical and philosophical study, drawing learners from becoming
+    toward being.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Cave as pedagogical image of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The cave, fire, shadows, reflections, and upward way are explicitly used
+    to display divisions of knowledge and the dialectical process.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage treats the cave as a philosophical allegory in an introduction
+    and analysis, not as an autonomous mythic narrative.
+- id: motif:2
+  label: Ascent from darkness to light
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage describes a way upwards to true light and identifies the dialectical
+    process as a way from darkness to light.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The ascent is intellectual and educational rather than a physical journey
+    in the passage.
+- id: motif:3
+  label: Highest good as illuminating source
+  taxonomy_refs:
+  - wisdom
+  basis: The process ends with recognition of the sun, or idea of good, as parent
+    of light, warmth, and growth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not present the sun as a deity; it reports a philosophical
+    metaphor.
+- id: motif:4
+  label: Staged intellectual initiation through disciplines
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The passage outlines a progression from early poetic and civic formation
+    through bodily discipline to mathematics and philosophy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No ritual initiation is named; the pattern is an educational sequence.
+- id: motif:5
+  label: Mathematical harmony as cosmic and intellectual order
+  taxonomy_refs:
+  - wisdom
+  basis: Astronomy is named as harmony of the spheres, paired with harmony of sounds
+    and broader mathematical proportions.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This is briefly listed among sciences and is not developed as a narrative
+    motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Book VII cave figure returns to and pictures
+    the divisions of knowledge previously won by abstract discussion, giving the image
+    the same explanatory function as the earlier analysis.
+  claim_level: same_function
+  target: Previous discussion of the divisions of knowledge in The Republic as referenced
+    in the passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the passage's own summary is used; the earlier discussion is not
+    independently described here.
+- id: claim:2
+  claim: The passage explicitly compares Plato's hinted applications of mathematical
+    proportion with Pythagorean and Aristotelian uses of arithmetical/geometrical
+    or numerical/proportional equality.
+  claim_level: same_function
+  target: Pythagorean and Aristotelian applications of mathematical proportion in
+    Ethics and Politics as named in the passage
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage notes analogy of use but does not establish historical
+    contact, borrowing, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4091-4096
+  quote_or_summary: Plato is said to anticipate an explanation of the relation of
+    the philosopher to the world through allegory, proceeding from concrete to abstract.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 4096-4101
+  quote_or_summary: Book VII uses the figure of "a cave having an opening towards
+    a fire and a way upwards to the true light" and represents dialectic as a way
+    from darkness to light.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 4102-4111
+  quote_or_summary: Shadows, images, reflections of sun and stars in water, and the
+    real stars and sun are mapped to fancy/poetry, sense, mathematical abstractions,
+    and unity of idea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 4111-4115
+  quote_or_summary: The dialectical process begins with real stars rather than reflections
+    and ends with "the recognition of the sun, or idea of good" as parent of light,
+    warmth, and growth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 4115-4123
+  quote_or_summary: The stages of education are childhood and youth in poets' fancies
+    and state laws/customs, bodily training as warrior-athlete, and later study from
+    mathematics to philosophy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4124-4132
+  quote_or_summary: Plato's true education is described as drawing people from becoming
+    to being and toward a comprehensive survey of all being; it seeks the universal
+    in all things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4133-4142
+  quote_or_summary: The passage says abstraction is quickened by number and relation;
+    comparison and distinction of sensible objects begin philosophy, and arithmetic
+    first suggests such distinctions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4142-4148
+  quote_or_summary: The passage lists geometry, solids in motion, astronomy or harmony
+    of the spheres, harmony of sounds, and mathematical proportions, comparing such
+    proportion to Pythagorean and Aristotelian uses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is analytical and philosophical rather than mythic narrative;
+    imagery and motifs are extracted as allegorical-symbolic patterns explicitly described
+    in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l4091-l4148
+  passage_sha256=9d4b965fa29612c2eb4388c2ab2d453cc187a54330f1f73dd41555039c043652
+

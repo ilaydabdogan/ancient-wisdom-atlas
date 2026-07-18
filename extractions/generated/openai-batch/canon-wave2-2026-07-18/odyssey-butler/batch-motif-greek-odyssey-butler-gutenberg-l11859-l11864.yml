@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l11859-l11864
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 11859-11864
+  start: '11859'
+  end: '11864'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote supposes that Dolius did not yet know that his son Melanthius
+    had been tortured, mutilated, and left to die by Ulysses' orders the previous
+    day, or that his daughter Melantho had been hanged. It describes Dolius as probably
+    simple-minded and his name as ironical, comparing this to a Mt. Eryx man called
+    Sonza Malizia or “Guileless” though regarded as very cunning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Dolius is to be supposed not yet to know the fates of his son
+    and daughter.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Melanthius is identified as Dolius's son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Melanthius had been tortured, mutilated, and left to die by Ulysses' orders
+    on the preceding day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Melantho is identified as Dolius's daughter and is said to have been hanged.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Dolius is described as probably exceptionally simple-minded, and his name
+    is described as ironical.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On Mt. Eryx, the commentator reports being shown a man called Sonza Malizia
+    or “Guileless,” though he was regarded as exceptionally cunning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dolius
+  description: A man whom the footnote supposes not yet to know of his children's
+    fates; described as probably exceptionally simple-minded with an ironical name.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Melanthius
+  description: Dolius's son, said to have been tortured, mutilated, and left to die
+    by Ulysses' orders on the preceding day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ulysses
+  description: The figure whose orders are said to have caused Melanthius to be tortured,
+    mutilated, and left to die.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Melantho
+  description: Dolius's daughter, said to have been hanged.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sonza Malizia / “Guileless” man on Mt. Eryx
+  description: A man on Mt. Eryx whom the commentator says was called Sonza Malizia
+    or “Guileless,” while being regarded as exceptionally cunning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supposed uninformed father
+  assigned_to:
+  - fig:1
+  basis: The note supposes Dolius had not yet learned what happened to his son Melanthius
+    and daughter Melantho.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victim of ordered mutilation
+  assigned_to:
+  - fig:2
+  basis: Melanthius is said to have been tortured, mutilated, and left to die by Ulysses'
+    orders.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: order-giver for punishment
+  assigned_to:
+  - fig:3
+  basis: The violence against Melanthius is attributed to Ulysses' orders.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hanged daughter
+  assigned_to:
+  - fig:4
+  basis: Melantho is identified as Dolius's daughter and said to have been hanged.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ironic-name figure
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Dolius's name is called ironical, and the Mt. Eryx man is called “Guileless”
+    despite being regarded as cunning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mt. Eryx
+  literal_form: named mountain setting
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Supposed ignorance of prior punishments
+  summary: The footnote supposes that Dolius did not yet know that his son Melanthius
+    had been mutilated and left to die by Ulysses' orders, or that his daughter Melantho
+    had been hanged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ironic naming comparison
+  summary: The footnote describes Dolius's name as ironical and compares it with a
+    Mt. Eryx man called Sonza Malizia or “Guileless” though regarded as exceptionally
+    cunning.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Uninformed parent after children's violent punishment
+  taxonomy_refs: []
+  basis: The note explicitly supposes Dolius did not yet know what had happened to
+    his son and daughter.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is presented as a commentator's supposition in a footnote, not as
+    direct narrative within the excerpt.
+- id: motif:2
+  label: Ironic or antiphrastic naming
+  taxonomy_refs: []
+  basis: Dolius's name is called ironical, and the note gives a comparison to a man
+    called “Guileless” despite being considered cunning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as a name-commentary and anecdotal comparison,
+    not necessarily as a formal mythic motif.
+- id: motif:3
+  label: Retributive bodily punishment by a named order-giver
+  taxonomy_refs: []
+  basis: Melanthius is said to have been tortured, mutilated, and left to die by Ulysses'
+    orders.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage only retrospectively mentions the punishment; wider narrative
+    context would be needed to classify it more precisely.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Dolius's ironical name with the Mt. Eryx example of
+    a man called Sonza Malizia or “Guileless” despite being regarded as cunning; both
+    labels function as ironic contrasts to attributed character.
+  claim_level: same_function
+  target: Mt. Eryx anecdote of Sonza Malizia / “Guileless”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an anecdotal commentator's analogy, not evidence
+    of historical contact or a shared mythological tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11859-11862
+  quote_or_summary: The footnote supposes Dolius did not yet know that Melanthius,
+    his son, had been tortured, mutilated, and left to die by Ulysses' orders on the
+    preceding day, and that Melantho, his daughter, had been hanged.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11862-11863
+  quote_or_summary: Dolius is described as probably exceptionally simple-minded, and
+    his name is described as ironical.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11863-11864
+  quote_or_summary: The commentator says that on Mt. Eryx he was shown a man always
+    called Sonza Malizia or “Guileless,” although he was held to be exceptionally
+    cunning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized with brief name quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is a translator/commentator footnote rather than main narrative;
+    literal extraction is clear, while motif classification is provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is footnote [187]. No historical-contact or taxonomy motif-family claim is made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l11859-l11864
+  passage_sha256=f1c96922321a2dcdb578a5ea2bd61957c38d666889a8f272ba9d8448996189e0
+

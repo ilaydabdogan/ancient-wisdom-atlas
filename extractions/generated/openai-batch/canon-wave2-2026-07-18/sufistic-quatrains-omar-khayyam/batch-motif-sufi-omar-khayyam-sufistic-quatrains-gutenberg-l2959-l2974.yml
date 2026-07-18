@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2959-l2974
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXII. / XXXIV. / XXXV. / XXXVI.; lines 2959-2974
+  start: '2959'
+  end: '2974'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“I think the Vessel ... once did live”"
+  summary: The quatrain imagines a vessel as once living, drinking, answering, and
+    having a lip that the speaker kisses. An editorial note says the quatrain is inspired
+    by O. 9, where a jug is described as once a plaintive lover pursuing a comely
+    face, and its handle is described as an arm that once lay around a friend's neck.
+    A reference list gives related textual witnesses or parallels.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker thinks the vessel once lived, drank, and answered with articulation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says they kissed the vessel's passive lip and asks how many kisses
+    that lip may have taken and given.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note identifies O. 9 as the inspiration for the quatrain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quoted O. 9 passage describes the jug as once a plaintive lover pursuing
+    someone of comely face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The quoted O. 9 passage describes the jug's handle, seen upon its neck, as
+    an arm that once lay around a friend's neck.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage ends with a list of references to O. 9 and other numbered witnesses
+    or editions.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vessel or jug
+  description: A vessel or jug imagined as formerly alive, drinking, articulating,
+    and, in the O. 9 analogue, once a plaintive lover.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Speaker
+  description: The first-person speaker who thinks about the vessel and says they
+    kissed its passive lip.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Comely-faced friend
+  description: The person described in O. 9 as the object pursued by the plaintive
+    lover and as the friend whose neck was encircled by an arm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Personified vessel
+  assigned_to:
+  - fig:1
+  basis: The vessel is said to have once lived, drunk, answered, and possessed a lip
+    capable of kisses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Former plaintive lover
+  assigned_to:
+  - fig:1
+  basis: The quoted O. 9 passage says the jug was once a plaintive lover.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Kissing observer
+  assigned_to:
+  - fig:2
+  basis: The speaker says they kissed the passive lip of the vessel.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Pursued or embraced friend
+  assigned_to:
+  - fig:3
+  basis: O. 9 says the lover pursued one of comely face, and that the handle was an
+    arm once around a friend's neck.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Vessel or jug
+  literal_form: Vessel / jug
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Vessel lip
+  literal_form: The passive lip of the vessel, kissed by the speaker and imagined
+    as capable of taking and giving kisses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Handle as arm
+  literal_form: The jug handle on its neck, described as an arm that once lay around
+    a friend's neck.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Speaker reflects on and kisses the vessel
+  summary: The speaker imagines the vessel as formerly alive and responsive, then
+    reflects on the kisses associated with its lip.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: O. 9 analogue of the jug as former lover
+  summary: The note quotes an analogue in which the jug was once a plaintive lover,
+    and its handle is identified with an arm formerly around a friend's neck.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Former living person imagined as a vessel
+  taxonomy_refs:
+  - death_rebirth
+  basis: The vessel is imagined as once alive, and the quoted O. 9 passage identifies
+    the jug as once a plaintive lover.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly narrate death or rebirth; the taxonomy
+    link is a cautious fit based on the implied transition from former living person
+    to present vessel.
+- id: motif:2
+  label: Lover's embrace preserved in object anatomy
+  taxonomy_refs: []
+  basis: The jug's handle is described as an arm that once lay around a friend's neck.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an image within a quoted poetic analogue, not a full narrative
+    episode.
+- id: motif:3
+  label: Personified drinking vessel with human capacities
+  taxonomy_refs: []
+  basis: The vessel is given articulation, a lip, a former capacity to drink, and
+    the capacity to have taken or given kisses.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the personification poetically; it does not establish
+    a mythic being or ritual object.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents O. 9 as the inspiration for quatrain XXXVI, and
+    both supplied texts share the image of a vessel or jug as a former living lover-like
+    being.
+  claim_level: same_motif
+  target: O. 9 quatrain quoted in the editorial note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the supplied quatrain, note, and quoted O.
+    9 excerpt; no external collation is used.
+- id: claim:2
+  claim: The reference list indicates additional nearby textual witnesses or parallels,
+    but their motif content cannot be verified from the supplied passage alone.
+  claim_level: same_motif
+  target: References listed after the O. 9 note, including C. 48 and 426, L. 81, B.
+    77, S.P. 28, P. 108, B. ii. 28, P. v. 142, W. 32, N. 28, E.C. 5, and V. 80
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only citation labels are supplied; no text from these references is
+    provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2959-2964
+  quote_or_summary: "“I think the Vessel ... once did live, / And drink; ... the passive
+    Lip I kiss'd, / How many Kisses might it take--and give!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2966-2969
+  quote_or_summary: The note says the inspiration occurs in O. 9; the quoted analogue
+    begins, “This jug was once a plaintive lover ... And was in pursuit of one of
+    comely face.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2970-2971
+  quote_or_summary: "“This handle that thou seest upon its neck / Is an arm that once
+    lay around the neck of a friend.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: citation
+  locator: lines 2973-2974
+  quote_or_summary: 'Reference list: O. 9, C. 48 and 426, L. 81, B. 77, S.P. 28, P.
+    108, B. ii. 28, P. v. 142; W. 32, N. 28, E.C. 5, V. 80.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation-only evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is high confidence because figures and images are explicit.
+    Motif taxonomy alignment is more tentative, especially the death_rebirth mapping,
+    because the passage implies but does not narrate a death-and-rebirth sequence.
+    Comparison with O. 9 is explicit; comparison with the listed references is low-confidence
+    because only citations are supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, source metadata, and available taxonomy references. No external Khayyam or Sufi interpretive context was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2959-l2974
+  passage_sha256=6e99457c2af28d4cbd91720bb6912c4e207560fbdf18b38f903ee3865472b82d
+

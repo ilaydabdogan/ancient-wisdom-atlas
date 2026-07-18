@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l10973-l11016
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I      ,,,     , / I      III     I        III / THE    BOOK   OF   AM-TUAT
+    / THE    BOOK   OF   AM-TUAT; lines 10973-11016
+  start: '10973'
+  end: '11016'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a scene from the Book of Am-Tuat: an axe, identified
+    as a symbol of “god,” stands on its handle with a disk resting on the side edge
+    of its head. A goddess on the left steadies the axe, and a goddess on the right
+    steadies the disk. The goddesses are named ISTetheth and Kexat. Each is shown
+    in a sitting posture, though without a seat or throne. A hieroglyphic text is
+    then introduced as referring to the scenes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An axe is described as a symbol of “god.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The axe stands on the end of its handle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A disk rests on the side edge of the axe head.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A goddess on the left steadies the axe with her left hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A goddess on the right steadies the disk with her right hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The two goddesses are named ISTetheth and Kexat, respectively.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Each goddess is depicted as sitting but lacks a seat or throne.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A text is introduced as referring to the scenes.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: ISTetheth
+  description: The goddess on the left who steadies the axe with her left hand; depicted
+    sitting without a seat or throne.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kexat
+  description: The goddess on the right who steadies the disk with her right hand;
+    depicted sitting without a seat or throne.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: left-hand steadier of the axe
+  assigned_to:
+  - fig:1
+  basis: The passage says the goddess on the left steadies the axe with her left hand.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: right-hand steadier of the disk
+  assigned_to:
+  - fig:2
+  basis: The passage says the goddess on the right steadies the disk with her right
+    hand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seated goddess without throne
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both goddesses are described as depicted sitting but lacking a seat or throne.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: axe symbol of god
+  literal_form: An axe standing on its handle end, identified as a symbol of “god.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: disk on axe head
+  literal_form: A disk resting on the side edge of the axe head.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Goddesses steady the axe and disk
+  summary: An axe identified as a symbol of “god” stands upright with a disk on the
+    edge of its head. One goddess steadies the axe from the left, and another steadies
+    the disk from the right; both are shown sitting without seats or thrones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine attendants steadying a sacred emblem
+  taxonomy_refs: []
+  basis: The passage presents two named goddesses positioned on either side of an
+    axe-symbol and disk, each steadying part of the emblematic arrangement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a visual description but does not explain the ritual,
+    cosmological, or narrative meaning of the emblem.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10973-10978
+  quote_or_summary: An axe is described as a symbol of “god,” standing on its handle
+    end, with a disk resting on the side edge of the axe head.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 10978-10982
+  quote_or_summary: A goddess on the left steadies the axe with her left hand, while
+    a goddess on the right steadies the disk with her right hand.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 10982-10991
+  quote_or_summary: The goddesses are named ISTetheth and Kexat, respectively; each
+    is depicted sitting but lacks a seat or throne.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 10991-11016
+  quote_or_summary: The passage introduces a text that refers to these scenes, followed
+    by hieroglyphic material in the source transcription.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The visual elements are fairly clear, but the OCR/transcription is degraded
+    and the passage does not explain the symbolic function beyond identifying the
+    axe as a symbol of “god.” No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol ref was applied because the explicitly described axe and disk are not among the supplied symbol taxonomy refs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l10973-l11016
+  passage_sha256=9fbf518a410e7c1f7e3f63ca638b9988d5fd8260b782159b2735b73ff82d7be7
+

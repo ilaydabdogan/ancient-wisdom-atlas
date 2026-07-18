@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l9095-l9137
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: USITUNGUSOBENHLE  NAMAJUBATENTE. / IZINGANEKWANE. / ULUHLAZASE. / ULUHLAZASE.;
+    lines 9095-9137
+  start: '9095'
+  end: '9137'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a fictional tale in which damsels accompany two princesses
+    to bathe. The younger princess is favored by her father, while the elder is not.
+    The elder is named Ubuthlaluse and the younger Uluthlazase. They arrive at a pool
+    and play in the water. Notes explain the narrative opening formula and possible
+    meanings of the women’s names.
+  language: English with Zulu source text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some damsels go to bathe while accompanying two princesses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two princesses are distinguished as elder and younger.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The younger princess is much loved by her father, while the elder is not loved
+    by him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The elder princess is named Ubuthlaluse, and the younger princess is named
+    Uluthlazase.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The group reaches a pool and sports in the water.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note states that the opening formula marks the narrative as fictional rather
+    than factual.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note gives possible meanings for the names Ubuthlaluse and Uluthlazase.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ubuthlaluse
+  description: The elder princess, not loved by the father in the passage.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Uluthlazase
+  description: The younger princess, much beloved by her father in the passage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Attendant maidens or damsels
+  description: Damsels who accompany the two princesses to bathe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Father of the princesses
+  description: The father who loves the younger princess but not the elder in the
+    passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: elder princess
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Ubuthlaluse as the elder of the two princesses.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: younger favored princess
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Uluthlazase as the younger princess and says she is
+    much loved by her father.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paired princesses
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage presents two princesses together, one elder and one younger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: attendants
+  assigned_to:
+  - fig:3
+  basis: The damsels accompany the two princesses to bathe.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: differentiating parent
+  assigned_to:
+  - fig:4
+  basis: The father is described as loving the younger princess and not loving the
+    elder.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: pool water
+  literal_form: pool and water used for bathing and play
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Princesses and attendants go to bathe
+  summary: Damsels accompany two princesses, identified as elder and younger, to a
+    bathing place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arrival at the pool
+  summary: The group reaches the pool and plays in the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: paired elder and younger princesses with unequal parental favor
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents two princesses as elder and younger and contrasts the
+    father’s affection for them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not explicitly use the word sisters; the sibling-pair
+    classification rests on the elder/younger framing and shared paternal relation
+    implied in the translation.
+- id: motif:2
+  label: bathing or play at a pool
+  taxonomy_refs: []
+  basis: The figures go to bathe, reach a pool, and sport in the water.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: Within this excerpt, the bathing scene has no further stated ritual or
+    transformative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9095-9107
+  quote_or_summary: The heading states that two princesses with attendant maidens
+    go to bathe; the narrative says damsels went to bathe accompanying two princesses.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 9108-9120
+  quote_or_summary: The younger princess is described as much beloved by her father,
+    unlike the elder. The elder is named Ubuthlaluse and the younger Uluthlazase.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 9120-9124
+  quote_or_summary: The princesses and attendants come to the pool and sport in the
+    water.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: footnote 14, lines 9128-9132
+  quote_or_summary: The note explains that the opening formula Kw’ esukela marks the
+    following narrative as fiction rather than fact.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: footnote 15, lines 9134-9137 and continuation in passage
+  quote_or_summary: The note explains that Ubuthlaluse and Uluthlazase are women’s
+    proper names and offers possible meanings connected with beads, green, or jet-black
+    coloring.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif identification is limited
+    because the excerpt is only the opening of the tale and gives little narrative
+    development beyond paired princesses, paternal preference, and bathing at a pool.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No external comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l9095-l9137
+  passage_sha256=d8755cb971da02c41487365d233500510fac41015cb44f012872f3a5bb3ecac3
+

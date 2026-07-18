@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l18971-l19068
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    BUSHMAN    DRUM    AND    DANCING / PREPARATION    OF    DANCING    RATTLES.  353
+    / A    BUSHMAN    DANCE.  355 / A    BUSHMAN    DANCE.  357; lines 18971-19068
+  start: '18971'
+  end: '19068'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Bushman dance: men dance standing around while
+    women sit and drum; dust from the dancing feet and from the drum lies on the women’s
+    faces. After dancing, the dancers are tired and sleep as the sun sets and the
+    place becomes dark. In the morning children are sent to fetch water because the
+    dancers are thirsty. The supplied range then begins a new section titled preparation
+    of feather brushes used in springbok hunting, attributed to lhan+kass’o from personal
+    observation.'
+  language: English with |Xam transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men dance standing around while women sit down.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Women are associated with drumming during the dance.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Dust from the men’s feet rises during strong dancing and covers the women’s
+    faces.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the dancing, the dancers sleep because they are tired.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage marks sunset and darkness after the dance.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the morning, children are sent to fetch water for the thirsty dancers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A footnote says the sun shines on the backs of the men’s heads.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The supplied range begins a following section on preparation of feather brushes
+    used in springbok hunting.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men
+  description: The men dance standing around and become covered with dust from dancing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: women
+  description: The women sit down during the dance, drum, and have dust on their faces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: children
+  description: The children are sent in the morning to fetch water for the thirsty
+    dancers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lhan+kass’o
+  description: Named as the person who gave the following section on feather brushes
+    from personal observation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dancers
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says the men dance strongly, standing around.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seated drummers
+  assigned_to:
+  - fig:2
+  basis: The women sit while the men dance, and the women leave off drumming after
+    the dance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: water-fetchers
+  assigned_to:
+  - fig:3
+  basis: The children are sent to the water in the morning to dip up water for others
+    to drink.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: named informant for following section
+  assigned_to:
+  - fig:4
+  basis: The following section is introduced as given by lhan+kass’o from personal
+    observation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: drum used during the dance; dust of the drum lies on women’s faces
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: dust
+  literal_form: foot-dust and drum-dust rising or lying on faces during the dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water
+  literal_form: water fetched by children in the morning for thirsty people to drink
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sun and darkness
+  literal_form: sunset, sun shining on heads, and the place becoming dark
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: feather brushes
+  literal_form: feather brushes used in springbok hunting, named in the following
+    section title
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dance with drumming and dust
+  summary: Men dance standing around while women sit and drum; dust from the dancing
+    feet and drum is described on the women’s faces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rest after dancing
+  summary: After dancing, the people are tired and sleep as the sun sets and the place
+    becomes dark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Morning water fetching
+  summary: At daybreak children are sent to fetch water so that the thirsty people
+    may drink.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Following section on hunting feather brushes
+  summary: The passage range turns to a new section on preparation of feather brushes
+    used in springbok hunting, attributed to lhan+kass’o.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: communal dance with gendered roles
+  taxonomy_refs: []
+  basis: The dance is organized with men dancing standing around and women sitting
+    and drumming.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes social practice rather than an explicit mythic episode.
+- id: motif:2
+  label: dust raised by powerful dancing
+  taxonomy_refs: []
+  basis: The passage emphasizes that strong dancing raises foot-dust that covers women’s
+    faces.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No symbolic interpretation of the dust is stated in the passage.
+- id: motif:3
+  label: post-ritual exhaustion and water fetching
+  taxonomy_refs: []
+  basis: After the dance, the people sleep from tiredness and later send children
+    to fetch water because they are thirsty.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state that the sequence is ritual in a formal sense;
+    it describes actions following dancing.
+- id: motif:4
+  label: preparation of hunting implements
+  taxonomy_refs: []
+  basis: The following section title refers to preparation of feather brushes used
+    in springbok hunting.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only the section heading and attribution are available in the supplied
+    excerpt; details of preparation are not translated in the visible passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18971-19008 / page 357, ll. 6116-6119
+  quote_or_summary: Men dance standing around; women sit down; dust from the drum
+    and from the men’s feet lies on the women’s faces after strong dancing.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19009-19023 / page 357, ll. 6120-6121 and note 6119'
+  quote_or_summary: After the dancing, the people sleep because they are tired; the
+    women leave off drumming; sunset and darkness are noted.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19024-19032 / page 357, ll. 6122-6123
+  quote_or_summary: In the morning at daybreak, children are sent to the water to
+    dip up water for the thirsty people to drink.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: footnote 6115' within supplied range
+  quote_or_summary: A note says the men are those on the backs of whose heads the
+    sun shines.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: page 358 / section IX-197 within supplied range
+  quote_or_summary: 'A new section begins: preparation of feather brushes used in
+    springbok hunting, given in December 1878 by lhan+kass’o from personal observation.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; citation/summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English portion of the dance passage supports the main extraction. The
+    later |Xam transcription in the supplied range is not translated here, so only
+    its English heading and attribution were used. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Literal observations are separated from motif candidates; taxonomy references are used only for the available water symbol.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l18971-l19068
+  passage_sha256=86a0a555630e4cd84d33ed0bdd2e559564f6a236ffd3984a732abafa4a71126a
+

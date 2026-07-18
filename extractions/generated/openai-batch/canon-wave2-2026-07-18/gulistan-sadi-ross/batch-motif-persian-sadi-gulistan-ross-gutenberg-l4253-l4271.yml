@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4253-l4271
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVIII / XXXII / XXXIII / XXXIV; lines 4253-4271
+  start: '4253'
+  end: '4271'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Life stands on the verge of a single breath
+  summary: Two didactic passages warn that failure to do good when able leaves one
+    without friends in adversity, and that life is brief; they condemn exchanging
+    religious practice for worldly gain, invoke the sale of Joseph, and quote a covenant
+    warning the sons of Adam not to serve Satan.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A person who does not do good when able is said to suffer hardship when no
+    longer able.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The misanthrope is described as especially unlucky because he has no friend
+    on the day of adversity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Life is described as standing on the verge of a single breath, and the world
+    as an existence between two nonentities.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who exchange religious practice for worldly wealth are likened to asses.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that Joseph was sold and asks what was gained by that bargain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A quoted covenant addresses the sons of Adam and commands them not to serve
+    Satan, who is called their avowed enemy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The addressed audience is told that, by the advice of a foe, they broke faith
+    with a friend and united with the one from whom they should have separated.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: person who does not do good when able
+  description: Generic person who has the means to do good but does not do it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: misanthrope
+  description: A person said to have no single friend on the day of adversity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those who trade religious practice for worldly pelf
+  description: People who exchange their deen or religious practice for worldly gain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Joseph
+  description: Named figure who is said to have been sold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sons of Adam
+  description: Collective audience addressed in the quoted covenant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Satan
+  description: Being named in the quoted covenant as one not to be served and as an
+    avowed enemy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: friend
+  description: Unspecified friend with whom faith is said to have been broken.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: withholder of good
+  assigned_to:
+  - fig:1
+  basis: The figure has means to do good but does not do it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: friendless person in adversity
+  assigned_to:
+  - fig:2
+  basis: The misanthrope is said to lack even one friend on the day of adversity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: exchanger of religion for worldly gain
+  assigned_to:
+  - fig:3
+  basis: The passage says such people truck their religious practice for worldly pelf.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sold figure
+  assigned_to:
+  - fig:4
+  basis: The passage states that Joseph was sold.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: covenant recipients
+  assigned_to:
+  - fig:5
+  basis: The quoted speech asks the sons of Adam whether a covenant had not been made
+    with them.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: avowed enemy
+  assigned_to:
+  - fig:6
+  basis: Satan is called the avowed enemy in the quoted covenant.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: betrayed friend
+  assigned_to:
+  - fig:7
+  basis: The addressed audience is told that they broke faith with a friend.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: single breath
+  literal_form: a single breath
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: worldly pelf
+  literal_form: worldly pelf or worldly gain
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: covenant
+  literal_form: covenant with the sons of Adam not to serve Satan
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bargain involving Joseph
+  literal_form: sale of Joseph and the question of gain from the bargain
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Failure of charity and adversity
+  summary: A didactic saying states that one who does not do good when able will face
+    hardship when unable, and that a misanthrope has no friend in adversity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brief life and ruinous exchange
+  summary: The passage describes life as brief, condemns exchanging religious practice
+    for worldly wealth, invokes the sale of Joseph, quotes a covenant not to serve
+    Satan, and warns against breaking faith with a friend by following a foe.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: withheld benevolence brings isolation in adversity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames failure to do good when able as leading to hardship and
+    friendlessness later.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical aphorism rather than a narrative mythic episode.
+- id: motif:2
+  label: brief life between nonexistences
+  taxonomy_refs:
+  - wisdom
+  basis: Life is characterized as a single breath and worldly existence as between
+    two nonentities.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a philosophical image; no journey, afterlife map, or
+    rebirth sequence is narrated.
+- id: motif:3
+  label: ruinous exchange of religious fidelity for worldly gain
+  taxonomy_refs:
+  - wisdom
+  basis: The passage condemns trading religious practice for worldly pelf and immediately
+    invokes the sale of Joseph as a bargain with no gain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Although an exchange is central, the passage presents it negatively as
+    moral folly, not as a reciprocal sacred exchange.
+- id: motif:4
+  label: covenant against serving Satan
+  taxonomy_refs:
+  - covenant
+  basis: The quoted speech explicitly mentions a covenant with the sons of Adam not
+    to serve Satan, identified as their avowed enemy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The covenant is cited within a didactic admonition; no full covenant-making
+    scene is narrated.
+- id: motif:5
+  label: enemy counsel breaks faith with a friend
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the audience followed the advice of a foe, broke faith with
+    a friend, and united with the wrong party.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The foe and friend are not elaborated as narrative characters in this
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links its moral warning about bad exchange and broken
+    fidelity to scriptural material by naming Joseph's sale and quoting a covenant
+    with the sons of Adam against serving Satan.
+  claim_level: same_function
+  target: scriptural Joseph-sale and covenant-against-Satan traditions invoked in
+    the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the allusions and quotation present in the
+    passage; no external verse identification or historical pathway is supplied in
+    the provided text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4253-4257
+  quote_or_summary: Whoever does not do good when able will suffer hardship when unable;
+    the misanthrope has no friend in adversity.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 4259-4262
+  quote_or_summary: '"Life stands on the verge of a single breath"; the world is between
+    two nonentities, and those who trade religious practice for worldly pelf are called
+    asses.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 4262-4263
+  quote_or_summary: '"They sold Joseph, and what got they by their bargain?"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4263-4266
+  quote_or_summary: '"Did I not covenant with you, O ye sons of Adam, that you should
+    not serve Satan; for verily he is your avowed enemy"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4266-4270
+  quote_or_summary: The audience is told that by a foe's advice they broke faith with
+    a friend, separated from one party, and united with another.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif taxonomy
+    mapping is conservative because the excerpt is primarily didactic and aphoristic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol references were assigned because none of the available symbol refs are directly present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4253-l4271
+  passage_sha256=4a23d552388b7f7a24eafdbaa5ed209e8e568eb209fb05d52465f6aa088b12bd
+

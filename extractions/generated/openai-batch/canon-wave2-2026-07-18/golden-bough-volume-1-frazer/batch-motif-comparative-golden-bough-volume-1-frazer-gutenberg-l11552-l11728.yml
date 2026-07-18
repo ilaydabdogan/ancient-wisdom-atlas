@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11552-l11728
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11552-11728
+  start: '11552'
+  end: '11728'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of footnotes citing sources for European folk
+    customs and classical or late antique testimony about Adonis. Substantive notes
+    mention boys carrying an effigy of Death, Adonis being lamented as dead and later
+    praised as reviving, an implied ascension before worshipping crowds, and observed
+    discoloration of a river and the sea.
+  language: English, with some Latin and Greek quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Most of the passage consists of numbered bibliographic footnotes to works
+    on Germanic, Slavic, Estonian, Sicilian, Calabrian, classical, and Semitic traditions.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:2
+  text: One note says that boys sometimes carry an effigy of Death, without a tree,
+    and collect gratuities.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited description of an Adonis solemnity says that Adonis is lamented as
+    if dead and afterward sung and praised as reviving.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same cited description links the killing and resurrection of Adonis with
+    mourning and joy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note on Lucian states that Greek wording implies an ascension supposed to
+    occur in the presence, possibly before the eyes, of worshipping crowds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note records observations of discoloration in a river and in the sea by
+    later travelers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: boys
+  description: Boys who carry the effigy of Death and collect gratuities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: effigy of Death
+  description: An effigy identified as Death, carried around without a tree in the
+    noted variant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Adonis
+  description: The figure in the cited solemnity who is lamented as if dead, afterward
+    praised as reviving, and associated with killing and resurrection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: worshipping crowds
+  description: Crowds before whom, or in whose presence, an ascension is said to have
+    been supposed to take place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual carriers and collectors
+  assigned_to:
+  - fig:1
+  basis: The boys carry the effigy and collect gratuities.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: personified Death in effigy form
+  assigned_to:
+  - fig:2
+  basis: The object is explicitly called an effigy of Death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dead and reviving ritual figure
+  assigned_to:
+  - fig:3
+  basis: Adonis is described as lamented as dead and afterward as reviving, with killing
+    and resurrection marked by mourning and joy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: witnessing worshippers
+  assigned_to:
+  - fig:4
+  basis: The ascension is said to occur in the presence of worshipping crowds.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: effigy of Death
+  literal_form: portable effigy representing Death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree absent in variant
+  literal_form: tree mentioned as absent from the Death-effigy procession variant
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river and sea discoloration
+  literal_form: discolored river and sea water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Death-effigy procession by boys
+  summary: Boys carry an effigy of Death, without a tree, and collect gratuities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adonis lamented and praised as reviving
+  summary: A cited Adonis solemnity includes lamentation as if he were dead, followed
+    by songs and praise for him as reviving; the killing and resurrection are accompanied
+    by mourning and joy.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Implied ascension before worshippers
+  summary: Lucian's wording is interpreted as implying an ascension taking place in
+    the presence, if not before the eyes, of worshipping crowds.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discoloration of water
+  summary: The river and sea are reported as discolored in observations cited in the
+    note.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: procession of an effigy of Death
+  taxonomy_refs: []
+  basis: The passage notes boys carrying an effigy of Death around while collecting
+    gratuities.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief footnote, not a full description of the
+    custom or its ritual interpretation.
+- id: motif:2
+  label: Adonis mourned as dead and praised as reviving
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  - resurrection
+  basis: The cited Adonis solemnity includes lamentation as if dead, later praise
+    of him as reviving, and explicit reference to killing and resurrection with mourning
+    and joy.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The evidence is embedded in a footnote quotation rather than narrated
+    in full.
+- id: motif:3
+  label: ascension before worshippers
+  taxonomy_refs:
+  - ascent
+  basis: A note on Lucian says the wording implies an ascension taking place in the
+    presence, possibly before the eyes, of worshipping crowds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports Frazer's inference from Lucian's wording and does
+    not provide the full primary passage.
+- id: motif:4
+  label: discolored water as a noted sign
+  taxonomy_refs: []
+  basis: A note records discoloration of a river and the sea in connection with the
+    cited discussion.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The footnote gives observations but does not state a symbolic interpretation
+    within this passage.
+comparison_claims:
+- id: claim:1
+  claim: The cited Adonis solemnity fits, at the motif-family level, a death-and-revival
+    or resurrection pattern.
+  claim_level: same_motif
+  target: dying-and-returning / death-rebirth / resurrection motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the Adonis material in the footnote; the passage
+    does not provide a complete rite or myth narrative.
+- id: claim:2
+  claim: The note on Lucian supports a cautious alignment with an ascent motif pattern.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is an interpretive footnote about wording, not a full
+    account of the ascension scene.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11552-11728, footnote 888
+  quote_or_summary: "“Sometimes the effigy of Death (without a tree) is carried round
+    by boys who collect gratuities.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 11552-11728, footnote 905
+  quote_or_summary: Jerome is cited as saying that, in the Adonis solemnity, he is
+    lamented as if dead and afterward praised as reviving; the killing and resurrection
+    of Adonis are accompanied by mourning and joy.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 11552-11728, footnote 908
+  quote_or_summary: Frazer notes that Lucian's Greek words imply that the ascension
+    was supposed to take place in the presence, if not before the eyes, of worshipping
+    crowds.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 11552-11728, footnote 909
+  quote_or_summary: The discoloration of the river and the sea is said to have been
+    observed by Maundrell in March 1696/1697, and by Renan at the beginning of February.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: citation
+  locator: lines 11552-11728, footnotes 841-909
+  quote_or_summary: The passage consists chiefly of numbered citations to collections
+    and studies of European folk custom, classical sources, Lucian, Jerome, and later
+    observers.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly footnotes, so extraction is limited to explicit substantive
+    notes and cautious motif-family identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, common-inheritance, or independent-recurrence claims are made; the passage does not support them directly.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11552-l11728
+  passage_sha256=b36e4bf91660d70a19568ba87745bbb58d67d9f6395cc04fd59fa8ff9a3d215a
+

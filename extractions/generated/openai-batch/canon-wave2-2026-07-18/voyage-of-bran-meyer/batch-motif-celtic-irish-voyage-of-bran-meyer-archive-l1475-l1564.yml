@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l1475-l1564
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: IMRAM    BRAIN  13 / IMRAM    BRAIN  15 / I  MR  AM    BRAIN  17 / IMRAM    BRAIN  19;
+    lines 1475-1564
+  start: '1475'
+  end: '1564'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Mag Mell as a flowered plain where unseen steeds
+    and hosts are present. It presents an abundant realm with glistening colors, a
+    silver stream, golden cloths, wine, games, men and women free from sin or crime,
+    and a coracle passing over or above a fruitful, fragrant, undecaying wood with
+    golden leaves.
+  language: English with Old Irish text and editorial notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Only one chariot-rider is visible in Mag Mell, while many steeds are said
+    to be present but unseen.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The plain contains a numerous host and glistening colors described as pure
+    glory.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The setting includes a fair stream of silver and cloths of gold that provide
+    welcome and abundance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People play a delightful game while sitting at luxurious wine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Men and gentle women are together under a bush and are described as without
+    sin and without crime.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A coracle or little skiff travels across ridges along the top of a wood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A wood of beautiful fruit is located under the prow of the little skiff.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wood has blossom, fruit, vine fragrance, no decay or defect, and golden-colored
+    leaves.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bran
+  description: The addressee or viewer associated with Mag Mell and with the coracle
+    or skiff.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: one chariot-rider
+  description: A single visible chariot-rider seen in Mag Mell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: many steeds
+  description: Many steeds present on the surface of Mag Mell but not seen by Bran.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: host
+  description: A numerous host associated with the plain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: men and gentle women
+  description: People under a bush, playing or present at wine, described as without
+    sin and without crime.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: voyager-viewer
+  assigned_to:
+  - fig:1
+  basis: Bran is addressed as the one who sees Mag Mell and whose coracle or skiff
+    passes over the wood.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: visible chariot-rider
+  assigned_to:
+  - fig:2
+  basis: The passage states that one chariot-rider is seen in Mag Mell.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unseen or numerous otherworld presence
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Many steeds and a host are present in the plain, though the steeds are not
+    visible to Bran.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: sinless inhabitants or revelers
+  assigned_to:
+  - fig:5
+  basis: Men and women are described as playing at wine and being without sin or crime.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mag Mell / pleasant plain
+  literal_form: flowered plain called Mag Mell
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: silver stream
+  literal_form: fair stream of silver
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: golden cloths
+  literal_form: cloths of gold
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wine and game
+  literal_form: delightful game at luxurious wine
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: coracle or little skiff
+  literal_form: coracle / little skiff
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fruitful undecaying wood
+  literal_form: wood with blossom, fruit, vine fragrance, and golden leaves, without
+    decay or defect
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Vision of Mag Mell and unseen company
+  summary: Bran is told that a single chariot-rider is visible in Mag Mell, but many
+    steeds and a host are present on the plain though not fully seen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Abundant and sinless otherworld setting
+  summary: The plain is described with glistening colors, a silver stream, golden
+    cloths, abundant welcome, wine, games, and men and women without sin or crime.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Coracle above the fruitful wood
+  summary: Bran’s coracle or skiff passes along the top of a wood; beneath its prow
+    is a beautiful fruit-bearing wood with blossom, fragrance, golden leaves, and
+    no decay.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: voyage-view of an abundant otherworld plain
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage maps a realm called Mag Mell as a flowered plain with unseen
+    hosts, abundance, silver and gold features, sinless inhabitants, and a vessel
+    passing through the scene.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly use the word afterlife in the quoted English
+    stanzas; the classification rests on the described otherworld features and the
+    supplied title context.
+- id: motif:2
+  label: hidden company in a radiant plain
+  taxonomy_refs: []
+  basis: A visible chariot-rider is contrasted with many unseen steeds and a numerous
+    host on the plain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The exact nature of the unseen company is not explained in this passage.
+- id: motif:3
+  label: undecaying fruit-bearing wood
+  taxonomy_refs: []
+  basis: The wood is described as bearing blossom and fruit, fragrant like vine, without
+    decay or defect, and with golden leaves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes a wood rather than a single sacred tree or explicit
+    axis, so no stronger taxonomy assignment is made.
+- id: motif:4
+  label: vessel passing over an unexpected landscape
+  taxonomy_refs:
+  - mystical_quest
+  basis: The coracle or skiff is described as moving along the top of a wood, with
+    fruitful woodland under the prow.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The broader quest frame is implied by the voyage title and vessel imagery,
+    but this excerpt itself only describes the vessel’s movement and surrounding landscape.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits an otherworld journey-map pattern in which a voyager is
+    shown a radiant, abundant realm with hidden inhabitants and altered geography.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt itself describes the realm and vessel but does not explicitly
+    identify the realm as an afterlife destination.
+evidence:
+- id: ev:1
+  type: quote
+  locator: stanza 39
+  quote_or_summary: "“one chariot-rider is seen / In Mag Mell ... There are many steeds
+    ... Though them thou seest not.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: stanza 40
+  quote_or_summary: "“Colours glisten with pure glory, / A fair stream of silver,
+    cloths of gold, / Afford a welcome with all abundance.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+- id: ev:3
+  type: quote
+  locator: stanza 41
+  quote_or_summary: "“They play ... at the luxurious wine. / Men and gentle women
+    under a bush, / Without sin, without crime.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+- id: ev:4
+  type: quote
+  locator: stanza 42
+  quote_or_summary: "“Along the top of a wood has swum / Thy coracle ... There is
+    a wood of beautiful fruit / Under the prow of thy little skiff.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+- id: ev:5
+  type: quote
+  locator: stanza 43
+  quote_or_summary: "“A wood with blossom and fruit ... without decay, without defect
+    ... leaves of golden hue.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+- id: ev:6
+  type: note
+  locator: note on stanza 39 / § 34
+  quote_or_summary: Editorial note glosses Mag Mell as “Pleasant, or Happy Plain.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based mainly on the English translation in stanzas
+    39-43. Motif labels are cautious because the excerpt describes the otherworldly
+    landscape but gives limited narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added; only available taxonomy references were used where directly supportable.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l1475-l1564
+  passage_sha256=142d56743769a1b891f5e2235c7b35492ec55e63cbb5a2fa2db273cd5b2fa2a2
+

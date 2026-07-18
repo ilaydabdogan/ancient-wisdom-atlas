@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l29075-l29125
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: OF  FOOD. / ABSTINENCE  FROM  FOOD. / IZINGANEKYVANE. / SYMPATHY  BY  THE  NAVEL.;
+    lines 29075-29125
+  start: '29075'
+  end: '29125'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Do not laugh at an ugly thing; you will give birth to something like it,
+    and be ashamed.”"
+  summary: The passage describes a belief that laughing at certain beings or conditions
+    can produce harmful or resembling consequences. A pig is described as very ugly
+    in the head; women who laugh at it are silenced by old people, who warn that the
+    laugher may give birth to something like it. A deformed person is also not laughed
+    at, because a woman who laughs is said to call down an omen on herself. The passage
+    generalizes that many such things bring about things resembling themselves and
+    are therefore abstained from. An opening fragment refers to a dreaded danger ending
+    in a man’s death, but its antecedent is not clear within the excerpt.
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An opening fragment states that something may occur “within” and the man die,
+    and that it is dreaded for that reason; the antecedent is not clear in this excerpt.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there is another thing which causes a prodigy through
+    being laughed at.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The pig is described as a very ugly animal with respect to its head, and women
+    are said to laugh at it greatly when they see it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Old people silence the laughing woman by warning her not to laugh at an ugly
+    thing because she may give birth to something like it and be ashamed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A deformed person is not laughed at, because the woman who laughs at the deformed
+    person is said to call down an omen on herself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says there are many other such things which bring about things
+    resembling themselves, and that these too are abstained from.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: women who see the pig
+  description: Women are described as laughing greatly when they see the pig.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: old people
+  description: Old people silence the woman who laughs and give a warning about giving
+    birth to something like the ugly thing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: pig
+  description: The pig is described as a very ugly animal as regards its head and
+    as the object of women’s laughter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: deformed person
+  description: A deformed person is described as someone who is not laughed at.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: woman who laughs at the deformed person
+  description: The woman who laughs at a deformed person is said to call down an omen
+    on herself.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: laugher or mockery actor
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Women laugh at the pig; a woman who laughs at a deformed person is mentioned
+    as bringing an omen on herself.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: admonishing elders
+  assigned_to:
+  - fig:2
+  basis: Old people silence the one who laughs with a warning.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ridiculed ugly animal
+  assigned_to:
+  - fig:3
+  basis: The pig is called very ugly in the head and is laughed at when seen.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: person whose ridicule is avoided
+  assigned_to:
+  - fig:4
+  basis: The passage says a deformed person is not laughed at.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: potential bearer of consequence
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The warning says the laugher may give birth to something like the ugly thing,
+    and the woman who laughs at a deformed person calls down an omen on herself.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: pig with ugly head
+  literal_form: Pig described as very ugly with respect to its head.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: laughter at ugliness or deformity
+  literal_form: The act of laughing at the pig or at a deformed person.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: resembling birth consequence
+  literal_form: The warned possibility of giving birth to something like the ugly
+    thing laughed at.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: omen called down by ridicule
+  literal_form: An omen said to be called down on herself by a woman who laughs at
+    a deformed person.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: abstained-from resembling things
+  literal_form: Many other things said to bring about things resembling themselves
+    and therefore abstained from.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Women laugh at the pig and are warned
+  summary: When women see the pig, described as ugly in the head, they laugh at it;
+    old people silence the laughing woman by warning that she may give birth to something
+    like it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ridicule of a deformed person is avoided
+  summary: The passage states that a deformed person is not laughed at, because the
+    woman who laughs at the deformed person calls down an omen on herself.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: General rule of abstention from resemblance-producing things
+  summary: The passage generalizes that many similar things bring about things resembling
+    themselves and are abstained from.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mockery causes resembling birth
+  taxonomy_refs: []
+  basis: Old people warn the woman who laughs at an ugly thing that she will give
+    birth to something like it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a warning or belief, not a narrated case in which such
+    a birth actually occurs.
+- id: motif:2
+  label: avoidance of ridicule to avert omen
+  taxonomy_refs: []
+  basis: A deformed person is not laughed at because the woman who laughs is said
+    to call down an omen on herself.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The nature of the omen is not specified in the excerpt.
+- id: motif:3
+  label: like brings about like
+  taxonomy_refs: []
+  basis: The passage explicitly generalizes that many such things bring about things
+    resembling themselves and are abstained from.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the other examples in this excerpt.
+- id: motif:4
+  label: abstinence from dangerous sight or speech act
+  taxonomy_refs: []
+  basis: The women are silenced from laughing at the pig, the deformed person is not
+    laughed at, and the passage says similar things are abstained from.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The abstinence concerns laughing or ridicule in the quoted examples; broader
+    abstentions are mentioned but not enumerated here.
+comparison_claims:
+- id: claim:1
+  claim: The pig example and the deformed-person example are presented as instances
+    of a broader local pattern in which certain things bring about resembling consequences
+    and are therefore abstained from.
+  claim_level: same_function
+  target: broader pattern of abstained-from things that produce resemblance
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the passage’s own generalization;
+    no external tradition, historical contact, or common inheritance is inferred.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29075-29079
+  quote_or_summary: "“within, and the man die. It is dreaded on that account.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 29080-29092
+  quote_or_summary: The passage says another thing causes a prodigy through being
+    laughed at; the pig is described as very ugly in the head, and women laugh at
+    it when they see it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 29093-29103
+  quote_or_summary: 'Old people silence the laugher by saying: “Do not laugh at an
+    ugly thing; you will give birth to something like it, and be ashamed.”'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 29104-29115
+  quote_or_summary: A deformed person is not laughed at; it is said that the woman
+    who laughs at the deformed person calls down an omen on herself.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 29116-29125
+  quote_or_summary: "“There are many other such things which bring about things resembling
+    themselves, and they too are abstained from.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The principal belief-pattern is explicit in the English translation. The
+    opening fragment is contextually incomplete and is not used for motif identification.
+    No available taxonomy reference was applied because the passage does not directly
+    support one of the supplied motif or symbol IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Informant attribution in the passage, “Umpengula Mbanda,” was treated as source attribution rather than as a narrative figure.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l29075-l29125
+  passage_sha256=b42a43f6a3ae66a97bdcc7d20b15746874b6763247ee2030cacbe5f0a78d5496
+

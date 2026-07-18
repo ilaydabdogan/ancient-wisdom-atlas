@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l203-l280
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: XVIII WHY THE OWL IS NOT KING OF THE BIRDS          90 / PUBLISHER'S NOTE
+    / THE MONKEY AND THE CROCODILE / PART I; lines 203-280
+  start: '203'
+  end: '280'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A monkey living in a tree on a river bank is targeted by a crocodile whose
+    mother wants a monkey heart to eat. The crocodile lures the monkey onto his back
+    with the promise of ripe fruit on an island, then reveals he intends to drown
+    him. The monkey claims he left his heart in the tree, persuades the crocodile
+    to return, escapes into the branches, and taunts the crocodile from above.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A monkey lived in a great tree on a river bank.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many crocodiles were in the river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A mother crocodile told her son to get one of the monkeys because she wanted
+    to eat a monkey heart.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The little crocodile said he did not travel on land and the monkey did not
+    go into the water.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The little crocodile thought the monkey wished to cross the river to an island
+    with ripe fruit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crocodile invited the monkey to the island and offered to carry him on
+    his back.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The monkey wanted the ripe fruit and jumped onto the crocodile's back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: During the crossing, the crocodile dived and later said he intended to kill
+    the monkey by keeping him under water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The crocodile said his mother wanted monkey heart to eat and that he would
+    take the monkey's heart to her.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The monkey said he had left his heart in the tree and that they must go back
+    to get it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: When returned to the river bank, the monkey jumped off, ran into the tree,
+    and called down that his heart was up there.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: A monkey who lives in a great tree on the river bank, cannot swim,
+    wants ripe fruit, is carried by the crocodile, and escapes back into the tree.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mother Crocodile
+  description: A crocodile mother who asks her son to obtain a monkey because she
+    wants a monkey heart to eat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Little Crocodile
+  description: The crocodile son who lives in the river, plans to lure the monkey,
+    carries him on his back, tries to drown him, and returns him to the tree after
+    believing the heart claim.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: intended victim
+  assigned_to:
+  - fig:1
+  basis: The mother crocodile wants a monkey heart, and the little crocodile tells
+    the monkey he will kill him under water.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: predatory requester
+  assigned_to:
+  - fig:2
+  basis: She tells her son to get a monkey because she wants the heart of a monkey
+    to eat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceptive carrier
+  assigned_to:
+  - fig:3
+  basis: He offers to take the monkey to the ripe fruit on his back but later reveals
+    a lethal purpose.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: escapee through verbal deception
+  assigned_to:
+  - fig:1
+  basis: The monkey claims his heart was left in the tree, gains return to the bank,
+    and climbs out of reach.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: fruit-seeking traveler
+  assigned_to:
+  - fig:1
+  basis: The monkey wants the ripe fruit and accepts the crocodile's offered ride.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: duped predator
+  assigned_to:
+  - fig:3
+  basis: The crocodile accepts the monkey's claim that his heart is in the tree and
+    returns him to the bank.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree refuge
+  literal_form: great tree on a river bank; topmost branches
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: river water
+  literal_form: river and under-water crossing
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: monkey heart
+  literal_form: heart of a monkey desired as food
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: ripe fruit island
+  literal_form: island across the river where the fruit is ripe
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: crocodile-back conveyance
+  literal_form: the crocodile's back used as transport over the river
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Riverbank dwelling and crocodile demand
+  summary: The monkey lives in a tree on a river bank, while crocodiles live in the
+    river; a mother crocodile asks her son to get a monkey heart for her to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lure to the fruit island
+  summary: The little crocodile plans to exploit the monkey's desire for ripe fruit
+    across the river and offers to carry the monkey on his back.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Drowning threat and revealed motive
+  summary: While carrying the monkey, the crocodile dives and tells him he will kill
+    him under water because his mother wants monkey heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: False heart claim and tree escape
+  summary: The monkey says his heart is back in the tree; the crocodile returns him
+    to the bank, and the monkey runs into the branches and calls down that his heart
+    is there.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: prey escapes predator by verbal trickery
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey avoids being killed by inventing the claim that his heart was
+    left in the tree, causing the crocodile to return him to safety.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the act plainly as a successful ruse; broader taxonomy
+    alignment with wisdom is interpretive and should be reviewed.
+- id: motif:2
+  label: water crossing as predator's trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crocodile uses the river crossing between tree bank and fruit island
+    as the setting for deception and attempted killing, while the monkey survives
+    by returning across the land-water boundary.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The land-water boundary is explicit, but the taxonomy reference is a broad
+    fit rather than a named motif in the passage.
+- id: motif:3
+  label: desired organ as lure for predation
+  taxonomy_refs: []
+  basis: The mother crocodile wants the heart of a monkey to eat, and the little crocodile's
+    attack is motivated by obtaining that heart.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level narrative pattern without a supplied taxonomy
+    reference.
+- id: motif:4
+  label: greed exposes figure to danger
+  taxonomy_refs: []
+  basis: The monkey wants the ripe fruit and accepts the crocodile's ride, which places
+    him in danger in the river.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly calls the monkey greedy, but the moral or thematic
+    significance is not otherwise stated in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 203-209
+  quote_or_summary: The passage opens with a monkey living in a great tree on a river
+    bank and many crocodiles in the river.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 210-216
+  quote_or_summary: A crocodile mother asks her son to get a monkey because she wants
+    a monkey heart to eat; he notes the land-water obstacle, and she tells him to
+    use his wits.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 218-225
+  quote_or_summary: The little crocodile thinks of the monkey in the tree and of the
+    island across the river where ripe fruit grows, then swims to the tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 226-234
+  quote_or_summary: The crocodile invites the monkey to the ripe-fruit island and
+    offers to carry him on his back; the monkey, wanting fruit, jumps onto the crocodile's
+    back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 236-248
+  quote_or_summary: The crocodile dives with the monkey, then says he will kill him
+    under water and take his heart to his mother.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 250-262
+  quote_or_summary: The monkey says he would have brought his heart if told, claims
+    it is back in the tree, and persuades the crocodile to go back for it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 264-280
+  quote_or_summary: After reaching the bank, the monkey runs into the tree and calls
+    down that his heart is up there, challenging the crocodile to come for it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    passage-level candidates and require human review, especially taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparison to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l203-l280
+  passage_sha256=723222424afdff2fad4428dd61677d1fb4f33be44150e3ad8afc21dc392152fc
+

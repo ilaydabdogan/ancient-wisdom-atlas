@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5195-l5207
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE RUNAWAY SLAVE / THE HUNTER AND THE WOODMAN / THE SERPENT AND THE EAGLE
+    / THE ROGUE AND THE ORACLE; lines 5195-5207
+  start: '5195'
+  end: '5207'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“whether the thing that you hold in your hand be alive or dead is a matter
+    that depends entirely on your own will.”"
+  summary: A rogue tries to discredit the Oracle at Delphi by hiding a small bird
+    and asking whether it is alive or dead, planning to alter the bird’s state to
+    make the answer false. The Oracle replies that the bird’s life or death depends
+    on the rogue’s own will.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A rogue lays a wager that he can prove the Oracle at Delphi untrustworthy
+    by obtaining a false answer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rogue goes to the temple on the appointed day with a small bird concealed
+    under his cloak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rogue asks whether the thing in his hand is alive or dead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rogue intends to show the bird alive if the Oracle says it is dead, and
+    to kill it if the Oracle says it is alive.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Oracle answers that the thing’s being alive or dead depends entirely on
+    the rogue’s own will.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rogue
+  description: A person who attempts to prove the Oracle at Delphi untrustworthy through
+    a deceptive test involving a concealed bird.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Oracle at Delphi
+  description: The oracle consulted by the rogue; it answers the alive-or-dead question
+    without being trapped by the proposed alternatives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Small bird
+  description: A small bird held in the rogue’s hand and concealed under the folds
+    of his cloak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: deceptive tester
+  assigned_to:
+  - fig:1
+  basis: The rogue wagers that he can make the Oracle give a false reply and prepares
+    a hidden-bird trick.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wise respondent
+  assigned_to:
+  - fig:2
+  basis: The Oracle gives an answer that avoids the rogue’s trap by placing the outcome
+    under the rogue’s control.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: object of test
+  assigned_to:
+  - fig:3
+  basis: The bird is the concealed living thing whose life or death is the subject
+    of the question.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: concealed bird
+  literal_form: small bird hidden under a cloak and held in the hand
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Oracle at Delphi
+  literal_form: oracle and temple at Delphi
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wager to expose the Oracle
+  summary: The rogue wagers that he can prove the Oracle at Delphi untrustworthy by
+    securing a false answer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Concealed-bird question
+  summary: At the temple, the rogue hides a small bird under his cloak and asks whether
+    what he holds is alive or dead, planning to falsify either answer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Oracle’s answer
+  summary: The Oracle replies that the bird’s life or death depends entirely on the
+    rogue’s will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: trick question defeated by wise answer
+  taxonomy_refs:
+  - wisdom
+  basis: The rogue sets an either-or trap for the Oracle, but the Oracle’s reply identifies
+    the outcome as dependent on the rogue’s own will.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical or oracular
+    wisdom rather than an explicit abstract doctrine of wisdom.
+- id: motif:2
+  label: attempt to discredit sacred oracle
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The rogue tries to cross or manipulate the boundary of authoritative divination
+    by forcing the Oracle into a false reply.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage labels the tester a rogue, but does not develop a full trickster
+    figure beyond this single deceitful act.
+- id: motif:3
+  label: life and death placed in human hands
+  taxonomy_refs: []
+  basis: The Oracle states that whether the hidden bird is alive or dead depends entirely
+    on the rogue’s will.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a passage-level pattern; no supplied taxonomy reference directly
+    matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5195-5198
+  quote_or_summary: A rogue wagers that he will prove the Oracle at Delphi untrustworthy
+    by procuring a false reply to his inquiry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5198-5201
+  quote_or_summary: On the appointed day, the rogue goes to the temple with a small
+    bird in his hand, concealed under his cloak, and asks whether it is alive or dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5201-5204
+  quote_or_summary: If the Oracle says the bird is dead, he plans to show it alive;
+    if the Oracle says it is alive, he plans to wring its neck and show it dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 5204-5207
+  quote_or_summary: "“whether the thing that you hold in your hand be alive or dead
+    is a matter that depends entirely on your own will.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level and
+    broad; no external motif index was used. No comparison claims were added because
+    the passage itself does not establish a specific comparison beyond broad motif-family
+    tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; although the locator label names multiple fables, the extraction covers only “THE ROGUE AND THE ORACLE.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5195-l5207
+  passage_sha256=d55aa4939bbc167c18e8a338e9f0a880bf6f103ece45fc19054e3f5c69a79fed
+

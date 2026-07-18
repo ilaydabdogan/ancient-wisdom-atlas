@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l15020-l15114
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / THE  GIRL  AND  THE  CANNIBALS. / THE  GIRL  AND  THE  CANNIBALS.
+    / IZINGANEKWANE.; lines 15020-15114
+  start: '15020'
+  end: '15114'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: They looked up, and saw the girl sitting on the very top, on a mere bird’s
+    twig.
+  summary: A girl hidden at the top of a tree is discovered when water from her leaking
+    vessel falls on cannibals below. The cannibals repeatedly try to cut down the
+    tree with axes, but whenever it is about to fall it settles back and becomes firm
+    as before. The girl's brother dreams that his sister is being eaten by cannibals
+    near a known place, and in the morning he sets out with his very great dogs toward
+    the place of the dream.
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The girl carries a vessel of water that leaks onto the cannibals below, making
+    a sound they hear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cannibals are frightened by the sound, look upward, and see the girl sitting
+    at the top of the tree on a bird's twig.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cannibals have axes and begin to cut the tree, standing on different sides
+    of it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each time the tree is about to fall, it moves, settles down, becomes firm,
+    and is again as it was at first.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The girl's brother dreams at night that his little sister is being eaten by
+    cannibals near a certain place known to him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the morning the brother goes out with his very great dogs and travels in
+    the direction of the place of which he had dreamed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An editorial note says the English translation slightly alters the original
+    wording at the point where the substance falls on the cannibals.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the girl / little girl / sister
+  description: A girl sitting at the very top of a tree, later identified in the brother's
+    dream as his little sister.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the cannibals
+  description: A group below the tree who are leaked upon, discover the girl, and
+    try to cut the tree down with axes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the girl's brother
+  description: The brother who dreams that his sister is being eaten by cannibals
+    and goes out toward the place of the dream.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the brother's dogs
+  description: Very great dogs taken by the brother when he goes out in the morning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hidden endangered girl
+  assigned_to:
+  - fig:1
+  basis: She is found sitting at the top of the tree while cannibals below attempt
+    to cut the tree down; the brother's dream presents her as being eaten by cannibals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: cannibal pursuers or attackers
+  assigned_to:
+  - fig:2
+  basis: They discover the girl and repeatedly hew the tree with axes; they are also
+    named in the dream as eating the sister.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: dream-guided seeker
+  assigned_to:
+  - fig:3
+  basis: He dreams of his sister's danger at a known place and goes out the next morning
+    toward that place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage identifies the girl as the brother's sister and the brother as
+    her brother.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: animal companions
+  assigned_to:
+  - fig:4
+  basis: The brother takes his very great dogs with him when he departs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: leaking water
+  literal_form: A vessel of water carried by the girl leaks onto the cannibals below.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree refuge
+  literal_form: The tree in whose top the girl sits while the cannibals stand below
+    and hew it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: axes
+  literal_form: Axes held and used by the cannibals to cut the tree.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bird's twig
+  literal_form: The girl is seen sitting on a mere bird's twig at the very top of
+    the tree.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: dream of sister in danger
+  literal_form: The brother dreams that his sister is being eaten by cannibals near
+    a place known to him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discovery of the girl in the tree
+  summary: Water from the girl's leaking vessel falls on the cannibals. They hear
+    it, are frightened, look upward, and see her at the top of the tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repeated failed felling of the tree
+  summary: The cannibals cut the tree with axes from different sides, but each time
+    it is about to fall it settles down and becomes firm as before.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Brother's dream and departure
+  summary: The girl's brother dreams that his sister is being eaten by cannibals near
+    a known place. In the morning he goes out with his very great dogs toward the
+    dreamed-of place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hidden person in a tree revealed by falling liquid
+  taxonomy_refs: []
+  basis: The girl is concealed at the top of the tree until liquid from her vessel
+    falls onto the cannibals below and causes them to look up.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives an editorially altered English wording at this point;
+    the note should be checked against the original Zulu wording.
+- id: motif:2
+  label: Attackers fail to fell a self-restoring tree
+  taxonomy_refs: []
+  basis: The cannibals repeatedly hew the tree, but when it is about to fall it settles
+    back and becomes firm as before.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the cause of the tree's restoration.
+- id: motif:3
+  label: Dream reveals a sibling's danger and directs a search
+  taxonomy_refs:
+  - sibling_pair
+  - mystical_quest
+  basis: The brother dreams that his sister is being eaten by cannibals at a known
+    place and departs in the morning toward that place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The rescue or outcome of the search is outside the supplied line range.
+- id: motif:4
+  label: Cannibal threat to isolated girl
+  taxonomy_refs: []
+  basis: The cannibals discover the girl in the tree and try to cut it down; the brother's
+    dream describes the sister as being eaten by cannibals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The actual eating of the girl is presented as dream content in this passage,
+    not as a completed event in the narrated action.
+comparison_claims:
+- id: claim:1
+  claim: The supplied footnote explicitly compares this scene to a Grimm tale of Fritz
+    and Catherine in which people in a tree drop or spill objects or liquid onto people
+    below; the supported comparison is a scene-level functional similarity involving
+    figures in a tree and material falling on those beneath them.
+  claim_level: same_function
+  target: Grimm tale of Fritz and Catherine as summarized in footnote 73
+  evidence_refs:
+  - ev:1
+  - ev:7
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The passage supports only the editor's comparison of similar scene
+    mechanics. It does not establish historical contact, common inheritance, or identity
+    of the full tale; the compared figures and details differ.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15020-15114, English paragraph beginning 'The girl was carrying a
+    vessel of water'
+  quote_or_summary: The girl carries a leaking vessel of water; it leaks onto the
+    cannibals, who hear the sound, look up, and see her sitting at the very top of
+    the tree on a bird's twig.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15020-15114, English paragraph on cannibals cutting the tree
+  quote_or_summary: The cannibals are glad to discover the girl and begin cutting
+    the tree with axes, some standing on one side and some on the other.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 15020-15114, English paragraph on the tree settling back
+  quote_or_summary: When the tree is about to fall, it moves, becomes still, sinks
+    down, becomes firm, and is as it was at first; this happens repeatedly after further
+    hewing.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 15020-15114, English paragraph beginning 'The brother of the girl
+    had dreamed'
+  quote_or_summary: The girl's brother dreams in the night that his little sister
+    is being eaten by cannibals near a certain place he knows.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 15020-15114, English paragraph on the brother's morning departure
+  quote_or_summary: In the morning the brother goes out with his very great dogs and
+    goes hunting toward the place of which he had dreamed.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: note
+  locator: footnote 72 within lines 15020-15114
+  quote_or_summary: The editor states that he made a slight alteration at this place
+    and does not translate the original wording for English readers.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary of editorial note used.
+- id: ev:7
+  type: summary
+  locator: footnote 73 within lines 15020-15114
+  quote_or_summary: The note compares the episode with a Grimm tale of Fritz and Catherine,
+    who climbed a tree for safety while thieves sat below; objects or liquid were
+    dropped from above, including vinegar that sprinkled the thieves and a door that
+    frightened them away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary of comparative footnote used.
+- id: ev:8
+  type: note
+  locator: main passage and footnote 73 within lines 15020-15114
+  quote_or_summary: Differences in the comparison include cannibals rather than thieves,
+    a leaking vessel of water rather than Catherine's listed objects and vinegar,
+    and a subsequent attempt to cut down the tree rather than the thieves being frightened
+    away by a door.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise note derived from supplied passage and
+    footnote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear in the English translation, but footnote 72 indicates
+    an editorial alteration at the leaking-water point. Motif labels are therefore
+    kept descriptive, and comparison is limited to the explicit footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage, metadata, and listed taxonomy references were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l15020-l15114
+  passage_sha256=ed0c83fbc7bab2946015a1348e68496b4f7fcf228f397c596a699a6b7e54e22b
+

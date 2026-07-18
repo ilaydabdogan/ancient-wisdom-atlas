@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1247-l1258
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVII / XXVIII / XXXII / XXXIII; lines 1247-1258
+  start: '1247'
+  end: '1258'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Do good even to the wicked; it is as well to shut a dog's mouth with a crumb.
+  summary: A benevolent vizir falls under royal displeasure, but custodians and fellow
+    grandees support him until the king pardons him. A holy man comments with aphorisms
+    about spending possessions to maintain friends and doing good even to the wicked.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A vizir is described as compassionate toward the weak and concerned for the
+    good of everyone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vizir falls under the king's displeasure, and others try to obtain his
+    release.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those holding the vizir in custody restrain him indulgently.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The vizir's fellow grandees publicly proclaim his virtues.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The king pardons the vizir's fault.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A good and holy man comments that one should expend property to secure friends
+    and well-wishers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The holy man's closing maxim advises doing good even to the wicked and compares
+    this to stopping a dog's mouth with a crumb.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: one of the vizirs
+  description: A vizir who compassionates the weak, seeks the good of everybody, falls
+    under royal displeasure, and is later pardoned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the king
+  description: The ruler whose displeasure falls on the vizir and who later pardons
+    the fault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: those who had him in custody
+  description: Custodians who are indulgent in their restraint of the vizir.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fellow-grandees
+  description: Peers of the vizir who loudly proclaim his virtues.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: a good and holy man
+  description: A man informed of the events who gives moral commentary on friendship,
+    beneficence, and appeasement.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: friends and well-wishers
+  description: People named in the holy man's counsel as persons whose good-will should
+    be conciliated and whose pot should be boiled.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the wicked
+  description: People named in the maxim as recipients toward whom good should still
+    be done.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: the weak
+  description: People toward whom the vizir is compassionate.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: compassionate minister
+  assigned_to:
+  - fig:1
+  basis: The vizir is said to compassionate the weak and meditate the good of everybody.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fallen official pardoned after intercession
+  assigned_to:
+  - fig:1
+  basis: The vizir falls under royal displeasure; others seek his release, and the
+    king pardons him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: royal authority and pardoner
+  assigned_to:
+  - fig:2
+  basis: The king's displeasure harms the vizir, and the king later pardons the fault.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: lenient custodians
+  assigned_to:
+  - fig:3
+  basis: Those holding the vizir are indulgent in their restraint.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: advocates of virtue
+  assigned_to:
+  - fig:4
+  basis: The fellow-grandees proclaim the vizir's virtues.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: moral commentator
+  assigned_to:
+  - fig:5
+  basis: The good and holy man responds to the events with aphoristic counsel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: friends and well-wishers to be maintained
+  assigned_to:
+  - fig:6
+  basis: The counsel recommends using property to conciliate friends and support well-wishers.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: morally adverse recipients of good
+  assigned_to:
+  - fig:7
+  basis: The maxim explicitly says to do good even to the wicked.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: beneficiaries of compassion
+  assigned_to:
+  - fig:8
+  basis: The weak are the group toward whom the vizir is compassionate.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: patrimonial garden
+  literal_form: patrimonial garden sold to conciliate friends
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: pot of well-wishers
+  literal_form: pot to be boiled for well-wishers
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: household furniture as fire-wood
+  literal_form: household furniture converted into fire-wood
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dog's mouth and crumb
+  literal_form: a dog's mouth shut with a crumb
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Benevolent conduct of the vizir
+  summary: The vizir is introduced as compassionate toward the weak and concerned
+    for everyone's good.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disgrace and support
+  summary: The vizir falls under royal displeasure, while others seek his release,
+    custodians treat him leniently, and fellow grandees praise him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Royal pardon
+  summary: The king pardons the vizir's fault after the efforts and praise surrounding
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Holy man's aphoristic commentary
+  summary: A good and holy man explains the value of expending possessions for friends
+    and of doing good even to the wicked.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Beneficence brings support in adversity
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative places the vizir's compassion for others before the efforts
+    of custodians and grandees that lead to pardon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage juxtaposes the vizir's beneficence and later support, but
+    does not explicitly state direct causation.
+- id: motif:2
+  label: Do good even to the wicked
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man's maxim directly advises doing good even to wicked persons.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an ethical aphorism rather than a narrated supernatural or mythic
+    event.
+- id: motif:3
+  label: Appeasing hostility with a small gift
+  taxonomy_refs:
+  - wisdom
+  basis: The maxim compares doing good to the wicked with shutting a dog's mouth by
+    giving a crumb.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The dog and crumb are proverbial imagery within speech, not a literal
+    event in the narrative.
+- id: motif:4
+  label: Spending possessions to preserve allies
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man's counsel says it is better to sell a patrimonial garden or
+    burn household furniture to conciliate friends and sustain well-wishers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as moral counsel through hyperbolic household
+    imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1247-1249
+  quote_or_summary: A vizir is said to compassionate the weak and meditate the good
+    of everybody.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise excerpt/summary used.
+- id: ev:2
+  type: summary
+  locator: 1249-1251
+  quote_or_summary: The vizir falls under royal displeasure, and others strive to
+    obtain his release.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 1251-1253
+  quote_or_summary: Custodians are indulgent, fellow grandees proclaim the vizir's
+    virtues, and the king pardons his fault.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 1254-1256
+  quote_or_summary: The holy man says it is better to sell a patrimonial garden for
+    friends and to turn household furniture into fire-wood for well-wishers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise excerpt/summary used.
+- id: ev:5
+  type: quote
+  locator: 1257-1258
+  quote_or_summary: '"Do good even to the wicked; it is as well to shut a dog''s mouth
+    with a crumb."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    ethical/proverbial rather than mythic; no external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical contact, common inheritance, or external comparative claims are inferred from this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1247-l1258
+  passage_sha256=a69531af77829a9321593ba8d55e882073bc4991f78300e48fe6b957d87f6a82
+

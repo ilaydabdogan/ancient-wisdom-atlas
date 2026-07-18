@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.romanian-fairy-tales-kremnitz-gutenberg-l5027-l5131
+source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+passage_locator:
+  label: HENRY HOLT AND COMPANY / COPYRIGHT, 1885, / PREFACE. / CONTENTS.; lines 5027-5131
+  start: '5027'
+  end: '5131'
+  translation: Roumanian Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: He had been too obedient, obstinately obedient.
+  summary: Jack remains silent when a cart loses parts because his master ordered
+    him not to speak; the cart breaks, and the farmer dismisses him. Jack wanders,
+    is hired as a shepherd, receives instructions about fire and the fold, then interprets
+    them literally by making a fire in the sheepfold entrance and driving the sheep
+    through it, setting the fold ablaze.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jack notices the cart pin, nut, and wheel fall away, but he remains silent
+    because the farmer had ordered him to keep still.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cart continues briefly on three wheels, then upsets and breaks its pole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The farmer beats Jack and dismisses him, though the narration states the farmer
+    had forbidden Jack to speak and that Jack had been too obedient.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jack walks along an unknown path through meadows and forests until he reaches
+    a village meadow where a man watches sheep.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The peasant needs a shepherd-boy to pasture, water, and guard a special flock
+    said to descend from an emperor's lamb.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The peasant orders Jack to watch the sheep all day, lead them to water, return
+    them to the fold at dark, make a fire at the pen entrance if it is cold, and drive
+    the sheep into the fold so they will not freeze.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The fold is described as enclosed by woven willow branches, roofed with rushes,
+    and having an opening roofed with reeds supported by posts.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Jack makes a fire in the fold opening under the reed roof and pushes the finest
+    ram, which wears a large bell, through the opening; the ram is scorched bare of
+    wool.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Jack concludes that the sheep must pass through the fire to avoid freezing
+    and pushes all the sheep into the fold.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The fence, thatch, and roof catch fire; Jack watches contentedly, while the
+    peasant sees a large fire in the direction of the fold and runs toward it.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Jack
+  description: A lad and servant who obeys commands literally; after dismissal by
+    the farmer, he becomes a shepherd-boy for the peasant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: farmer
+  description: Jack's master on the cart journey; he had ordered Jack to be silent,
+    becomes enraged after the cart breaks, beats Jack, and dismisses him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: peasant
+  description: A sheep owner who hires Jack as a shepherd-boy, gives him instructions,
+    and later sees the fire near his fold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:4
+  name_or_label: flock of sheep
+  description: A particular breed of sheep, said to descend from a lamb belonging
+    to an emperor, entrusted to Jack's care.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: bell-wearing ram
+  description: The finest ram in the flock, wearing a large bell around its neck,
+    first pushed through the fire by Jack.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: literal obedient servant
+  assigned_to:
+  - fig:1
+  basis: Jack refuses to speak when the cart loses parts because of an order, and
+    later follows the sheepfold instructions literally in a damaging way.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:2
+  label: punitive employer
+  assigned_to:
+  - fig:2
+  basis: The farmer punishes and dismisses Jack after the cart breaks, even though
+    the narration notes that he had forbidden Jack to speak.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: new employer and command-giver
+  assigned_to:
+  - fig:3
+  basis: The peasant hires Jack and gives detailed orders for tending the sheep and
+    using fire near the fold.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: valuable entrusted flock
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The sheep are described as a special breed descended from an emperor's lamb
+    and placed under Jack's watch.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A fire made in the sheepfold entrance that warms Jack, scorches the
+    ram, and spreads to the fold.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: cart mechanism failure
+  literal_form: The cart's pin, nut, wheel, and pole fail in sequence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sheepfold entrance
+  literal_form: An opening in the willow-and-rush sheepfold, roofed with reeds and
+    supported by posts.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: imperial-derived flock
+  literal_form: A special flock said to descend from a lamb owned by an emperor.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: silent observation of the cart breakdown
+  summary: Jack sees the cart losing essential parts but does not speak because the
+    farmer has ordered silence; the wheel comes off and the cart later breaks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: punishment, dismissal, and wandering
+  summary: The farmer beats and dismisses Jack; Jack is left on foot and walks along
+    an unknown route until he reaches a village meadow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: hiring as shepherd
+  summary: A peasant who owns a special flock hires Jack to pasture, water, and guard
+    the sheep, and gives him instructions about returning them to the fold and making
+    a fire if it is cold.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: fire at the sheepfold
+  summary: Jack makes the fire in the fold entrance, drives the ram and sheep through
+    it, sets the fold ablaze, and the peasant runs toward the fire after seeing it
+    from his house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: over-literal obedience causing harm
+  taxonomy_refs:
+  - wisdom
+  basis: 'The passage repeatedly shows Jack obeying an instruction without judging
+    its practical limits: he stays silent during the cart failure and later drives
+    sheep through a fire because he interprets the orders literally.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy has only the broad ref 'wisdom'; the passage is
+    more specifically about failed judgment or foolish literalism.
+- id: motif:2
+  label: dismissed wanderer enters new service
+  taxonomy_refs:
+  - departure
+  basis: After the farmer dismisses him, Jack is left on the road, takes an unknown
+    path, and finds a new position as a shepherd-boy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The departure is comic and employment-based rather than an explicitly
+    sacred or heroic departure.
+- id: motif:3
+  label: protective fire becomes destructive fire
+  taxonomy_refs: []
+  basis: A fire ordered as protection against cold is placed in the fold entrance,
+    scorches the ram, and spreads through the sheepfold.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No broader fire-destruction taxonomy ref is applied because the event
+    is local and comic, not cosmic.
+- id: motif:4
+  label: valuable animals endangered by foolish keeper
+  taxonomy_refs: []
+  basis: The special flock, said to descend from an emperor's lamb, is entrusted to
+    Jack, who then exposes the ram and sheep to fire.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not state the final fate of the flock after the peasant
+    arrives.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a fool-tale pattern in which a servant follows instructions
+    literally and thereby creates escalating practical disasters.
+  claim_level: same_function
+  target: comic fool-tale pattern of literal obedience producing damage
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison based only on the supplied passage;
+    no external tale-type or motif-index number is provided.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5027-5047
+  quote_or_summary: Jack sees the cart's pin and nut fall out and the wheel fall off,
+    but he keeps silent because the farmer had ordered him not to speak.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 5049-5053
+  quote_or_summary: The cart travels briefly on three wheels, upsets, and breaks its
+    pole; Jack cries that he had said it would happen.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 5055-5065
+  quote_or_summary: The farmer angrily beats and dismisses Jack; the narration says
+    the farmer had forbidden him to speak and that Jack was 'too obedient, obstinately
+    obedient.'
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 5067-5074
+  quote_or_summary: Jack is left on foot, turns onto an unknown path, walks through
+    meadows and forests, and reaches a village in a meadow where a man watches sheep.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 5076-5090
+  quote_or_summary: Jack tells his story to the peasant, who needs a shepherd-boy
+    for a special breed of sheep said to descend from an emperor's lamb; Jack is hired.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 5092-5097
+  quote_or_summary: The peasant orders Jack to watch the sheep, lead them to water,
+    bring them to the fold at dark, make a fire at the pen entrance if cold, and drive
+    them into the fold so they will not freeze.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 5099-5107
+  quote_or_summary: The fold is enclosed by woven willow branches, roofed with rushes,
+    and has an opening with a reed roof supported by posts; Jack identifies it as
+    the entrance.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: lines 5108-5117
+  quote_or_summary: Jack makes a fire in the opening under the reed roof, warms himself,
+    then pushes the finest bell-wearing ram through; the ram is scorched bare of wool.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:9
+  type: summary
+  locator: lines 5118-5128
+  quote_or_summary: Jack says the sheep must go through the fire to keep from freezing,
+    pushes them in one after another, and watches as the fence, thatch, and roof catch
+    fire.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:10
+  type: summary
+  locator: lines 5129-5131
+  quote_or_summary: The peasant sees a great fire on the mountains in the direction
+    of his fold and runs uphill toward it.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal narrative details are clear. Motif labels are candidate-level because
+    no tale-type or external motif-index data was supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy refs applied only where directly supportable.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:romanian-fairy-tales-kremnitz-gutenberg__l5027-l5131
+  passage_sha256=ac808be6ca681534b3c650065383428638c328c7a8ee3206c1c0289b46e37505
+

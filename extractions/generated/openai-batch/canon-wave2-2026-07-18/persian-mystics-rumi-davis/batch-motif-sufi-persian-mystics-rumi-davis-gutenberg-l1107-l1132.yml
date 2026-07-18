@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1107-l1132
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE WATER OF ETERNAL LIFE / EARTHLY LOVE AND THE LOVE DIVINE / LOVE'S DESIRE
+    / THE FINDING OF THE BELOVED; lines 1107-1132
+  start: '1107'
+  end: '1132'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: I gazed into my own heart; / There I saw Him; He was nowhere else.
+  summary: The passage first voices desire for the addressed beloved to reveal a face,
+    lips, and radiant countenance. It then describes the speaker's primordial relation
+    to names, a sign of revelation in the Beloved's curl, a search through Christian,
+    temple, pagoda, and mountain settings, and a final discovery of Him in the speaker's
+    own heart.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks the addressed figure to show a face and open lips.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker desires an orchard, a rose-garden, sugar, and a radiant glowing
+    countenance.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed figure is also invoked as a sun asked to appear from behind
+    a veil of cloud.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says they were present when names and signs of named existence
+    were not yet present.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says names and the named were brought to view by them on a day
+    without “I” and “We.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The tip of the Beloved's curl is described as becoming a center of revelation
+    before that tip existed.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker surveyed Cross and Christians and did not find Him on the Cross.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker went to an idol-temple and ancient pagoda and saw no trace there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker went to the mountains of Herāt and Candahār and did not find Him
+    in the hill-and-dale.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The speaker gazed into their own heart and saw Him there, and nowhere else.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker / I
+  description: First-person speaker who desires revelation, searches in multiple places,
+    and finally sees Him in the heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Beloved / Him / addressed Thou
+  description: The desired and sought figure whose face, lips, and countenance are
+    requested, whose curl is linked to revelation, and who is finally seen in the
+    speaker's heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Cross and Christians
+  description: A Christian religious setting or group surveyed by the speaker, where
+    Him was not found on the Cross.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker-speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker asks for the beloved's appearance, travels through
+    several settings, and looks inward.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: sought beloved
+  assigned_to:
+  - fig:2
+  basis: The passage names the Beloved and repeatedly describes Him as the desired
+    or searched-for presence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:3
+  label: external religious search-location
+  assigned_to:
+  - fig:3
+  basis: Cross and Christians are surveyed as part of the speaker's search, but He
+    is not found there.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: revealed face
+  literal_form: face / radiant glowing countenance
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: orchard and rose-garden
+  literal_form: orchard and rose-garden desired by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sugar
+  literal_form: sugar desired from the opened lips
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sun behind cloud-veil
+  literal_form: sun showing its face from the veil of cloud
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Names and Named
+  literal_form: Names and Named brought to view
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Beloved's curl
+  literal_form: tip of the Beloved's curl as a center of revelation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Cross
+  literal_form: Cross surveyed by the speaker
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: idol-temple and ancient pagoda
+  literal_form: idol-temple and ancient pagoda visited by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: mountains of Herāt and Candahār
+  literal_form: mountains, hill-and-dale
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: heart
+  literal_form: speaker's own heart as the place where Him is seen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Desire for the beloved's manifestation
+  summary: The speaker asks the addressed figure to show a face, open lips, and reveal
+    a radiant countenance like the sun emerging from cloud.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Primordial naming and revelation-sign
+  summary: The speaker describes a time before names and before “I” and “We,” then
+    links the Beloved's curl to a center of revelation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: External search through religious and geographic sites
+  summary: The speaker searches the Cross and Christians, the idol-temple and ancient
+    pagoda, and the mountains of Herāt and Candahār, but does not find Him there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Finding in the heart
+  summary: The speaker looks into the heart and sees Him there, saying He was nowhere
+    else.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine or transcendent beloved sought and revealed
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage repeatedly addresses or names a Beloved whose face is desired
+    and who is ultimately seen in the speaker's heart.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage itself says “Beloved” and “Him”; the descriptor “divine or
+    transcendent” is inferred from the religious-mystical framing and imagery, not
+    explicitly defined in the excerpt.
+- id: motif:2
+  label: Mystical quest ending in inward discovery
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker searches across religious and mountain locations without finding
+    Him, then looks into the heart and finds Him there.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives a compact lyric sequence rather than a full narrative
+    journey.
+- id: motif:3
+  label: Ego-boundaries absent before revelation
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage refers to a day when there was not “I” and “We,” and later locates
+    the sought Him in the speaker's heart.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state annihilation, union, or doctrinal
+    fanā; the taxonomy match is suggestive and requires review.
+comparison_claims:
+- id: claim:1
+  claim: The external search through Cross, temple, pagoda, and mountains followed
+    by discovery in the heart supports comparison with a mystical quest pattern in
+    which the sought presence is found inwardly rather than at external sacred or
+    geographic sites.
+  claim_level: same_motif
+  target: mystical_quest
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external parallel text is provided; the claim is limited to comparison
+    with the supplied taxonomy motif family.
+- id: claim:2
+  claim: The Christian Cross and the idol-temple or pagoda function similarly in the
+    passage as external religious locations where the Beloved is not found.
+  claim_level: same_function
+  target: external religious search-locations within the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intra-passage functional comparison only and does not imply
+    historical contact or equivalence between traditions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1107-1110
+  quote_or_summary: "“Show Thy face”; “Ope Thy lips”; the speaker desires “the orchard
+    and the rose-garden” and “sugar in plenty.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1111-1112
+  quote_or_summary: "“O sun, show forth Thy face from the veil of cloud,” for the
+    speaker desires a “radiant glowing countenance.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1116-1120
+  quote_or_summary: The speaker says they were present when Names and signs of named
+    existence were absent, and that Names and Named were brought to view on a day
+    without “I” and “We.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1121-1123
+  quote_or_summary: The tip of the Beloved's curl becomes a center of revelation,
+    though the passage says that tip was not yet present.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1124-1128
+  quote_or_summary: The speaker surveys Cross and Christians, does not find Him on
+    the Cross, then goes to an idol-temple and ancient pagoda and sees no trace there.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1129-1130
+  quote_or_summary: The speaker goes to the mountains of Herāt and Candahār and does
+    not find Him in that hill-and-dale.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1131-1132
+  quote_or_summary: "“I gazed into my own heart; / There I saw Him; He was nowhere
+    else.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments are based on the
+    supplied taxonomy and require human review, especially the annihilation_union
+    candidate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1107-l1132
+  passage_sha256=6ac7146221839fb864f01ef2eb6382e44405b1ec6c46499858b4ce56bb5091b8
+

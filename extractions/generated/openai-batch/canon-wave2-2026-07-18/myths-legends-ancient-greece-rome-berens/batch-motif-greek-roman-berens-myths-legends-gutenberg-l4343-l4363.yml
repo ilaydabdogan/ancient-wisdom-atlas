@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4343-l4363
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: DIONYSUS (BACCHUS). / BACCHUS OR LIBER. / AIDES (PLUTO). / PLUTO.; lines
+    4343-4363
+  start: '4343'
+  end: '4363'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes nocturnal sacrifices with black sheep, blood poured
+    into a trench, black-robed priests crowned with cypress, and plants sacred to
+    the divinity. It then summarizes Roman ideas of Orcus before and after Greek influence,
+    identifying Roman Pluto with Greek Aides/Hades and noting that Rome had no temples
+    to this divinity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sacrifices took place at night and consisted of black sheep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sacrificial blood was not sprinkled on altars or received in vessels,
+    but was allowed to run down into a trench dug for that purpose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The officiating priests wore black robes and were crowned with cypress.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Narcissus, maiden-hair, and cypress were sacred to the divinity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that before Greek religion and literature entered Rome,
+    the Romans had no belief in a realm of future happiness or misery corresponding
+    to Greek Hades and no lower-world god identical with Aides.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Romans were said to imagine Orcus as a vast, gloomy, impenetrably dark
+    cavity in the centre of the earth, serving as a place of eternal rest for the
+    dead.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: With the introduction of Greek mythology, the Roman Orcus became identified
+    with Greek Hades, and Greek notions of a future state were adopted by the Romans.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Romans worshipped Aides under the name Pluto, with Dis and Orcus also
+    given as appellations.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: No temples were erected to this divinity in Rome.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aides / Pluto
+  description: A lower-world divinity identified in the passage as Greek Aides worshipped
+    by Romans under the name Pluto, also associated with the appellations Dis and
+    Orcus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Officiating priests
+  description: Priests who performed the sacrifices, wearing black robes and cypress
+    crowns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Romans
+  description: The people described as first lacking a Greek-style Hades belief, then
+    adopting Greek notions of the future state and worshipping Aides as Pluto.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: The dead
+  description: The dead are described as having eternal rest in Orcus in the earlier
+    Roman conception.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lower-world divinity
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Aides/Pluto with rule over the lower world and dominions
+    called Orcus.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: recipient of worship without Roman temples
+  assigned_to:
+  - fig:1
+  basis: The Romans worshipped Aides as Pluto, but no temples were erected to this
+    divinity in Rome.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: ritual officiants
+  assigned_to:
+  - fig:2
+  basis: The priests are explicitly described as officiating at the sacrifices.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: adopters of Greek afterlife notions
+  assigned_to:
+  - fig:3
+  basis: The passage states that Greek mythology changed Roman conceptions of Orcus
+    and the future state.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: occupants of Orcus as resting place
+  assigned_to:
+  - fig:4
+  basis: Orcus is described as a place of eternal rest for the dead.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: black sheep
+  literal_form: black sheep used as sacrificial animals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood into trench
+  literal_form: sacrificial blood running down into a purpose-dug trench
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black robes
+  literal_form: black robes worn by the officiating priests
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cypress
+  literal_form: cypress crowns worn by priests and cypress as a sacred plant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: narcissus and maiden-hair
+  literal_form: plants named as sacred to the divinity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Orcus
+  literal_form: vast, gloomy, dark cavity in the centre of the earth
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nocturnal sacrifice with trench libation
+  summary: At night, black sheep are sacrificed; their blood runs into a trench rather
+    than being placed on altars or in vessels, while priests wear black robes and
+    cypress crowns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sacred plants of the divinity
+  summary: Narcissus, maiden-hair, and cypress are named as plants sacred to the divinity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Roman Orcus and Greek Hades identified
+  summary: The passage contrasts an earlier Roman idea of Orcus as a dark central-earth
+    resting place for the dead with a later adoption of Greek Hades concepts and the
+    worship of Aides as Pluto.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: nocturnal chthonic sacrifice into an earth trench
+  taxonomy_refs: []
+  basis: The ritual occurs at night, uses black sheep, directs blood into a trench,
+    and involves priests dressed in black with cypress crowns.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explicitly use the term chthonic; the label is inferred
+    from the lower-world context and the described earth-directed ritual.
+- id: motif:2
+  label: subterranean afterlife realm for the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Orcus is described as a gloomy dark cavity at the centre of the earth and
+    a resting place for the dead; Greek Hades and a future state are also discussed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes an underworld location and future-state belief,
+    but it does not narrate an afterlife journey.
+- id: motif:3
+  label: identification of local and imported underworld systems
+  taxonomy_refs: []
+  basis: The passage states that with Greek mythology the Roman Orcus became Greek
+    Hades and Aides was worshipped at Rome as Pluto.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a handbook-level summary of religious identification rather than
+    a detailed historical argument.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Roman Orcus as becoming identified with Greek
+    Hades after the introduction of Greek mythology to Rome.
+  claim_level: historical_contact
+  target: Roman Orcus and Greek Hades
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to what the passage states and should not be treated
+    as independent historical proof beyond this source.
+- id: claim:2
+  claim: The passage treats Aides and Pluto as corresponding names for the lower-world
+    deity in Greek and Roman usage.
+  claim_level: same_function
+  target: Greek Aides and Roman Pluto
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives appellations and worship terminology but does not
+    provide a full cultic comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4343-4348
+  quote_or_summary: Sacrifices occur at night, consist of black sheep, send blood
+    into a trench rather than onto altars or into vessels, and involve priests in
+    black robes crowned with cypress.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: 4349-4350
+  quote_or_summary: The narcissus, maiden-hair, and cypress were sacred to this divinity.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: 4352-4356
+  quote_or_summary: Before the introduction of Greek religion and literature, Romans
+    are said to have lacked a Greek-style realm of future happiness or misery and
+    no lower-world god identical with Aides.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 4356-4359
+  quote_or_summary: Romans imagined Orcus as a vast, gloomy, impenetrably dark cavity
+    in the earth's centre and a place of eternal rest for the dead.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: 4359-4362
+  quote_or_summary: With Greek mythology, Roman Orcus became Greek Hades; Greek notions
+    of a future state were adopted, and Romans worshipped Aides as Pluto, also called
+    Dis and Orcus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: quote
+  locator: '4363'
+  quote_or_summary: In Rome there were no temples erected to this divinity.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual and Roman-Greek identification details are explicit. Motif
+    labels involving chthonic ritual and afterlife mapping require cautious interpretation
+    because the passage is descriptive rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage, metadata, and available taxonomy references. The opening ritual section has an antecedent pronoun; attribution to the Aides/Pluto context follows the supplied passage locator and surrounding passage content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4343-l4363
+  passage_sha256=a765b51fca7f7987e483798fe123c91e7b547fcc22de24416f8b177a625eb89c
+

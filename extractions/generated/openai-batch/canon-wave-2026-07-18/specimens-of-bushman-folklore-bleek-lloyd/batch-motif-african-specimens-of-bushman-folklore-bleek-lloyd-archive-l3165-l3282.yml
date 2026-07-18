@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l3165-l3282
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    MANTIS   IN    FORM    OF    A    HARTEBEEST.  15 / THE  SON    OF   THE   MANTIS.  17
+    / THE    SON    OF   THE    MANTIS.  19 / THE    SON    OF    THE    MANTIS.  21;
+    lines 3165-3282
+  start: '3165'
+  end: '3282'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the English portion, baboons repeatedly call an old man or passer-by
+    to listen to a child. The child is reported as wanting to fetch sticks for his
+    father so that his father may take aim at people who sit on their heels. A narrator's
+    note explains that the father had sent his son to construct things, apparently
+    sticks or bushes, so that he could use them to make war upon the baboons. The
+    latter part of the supplied excerpt gives original-language text without an English
+    translation in the prompt.
+  language: English with /Xam-language transcription in the latter portion
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage title identifies the episode as concerning the son of the Mantis.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A baboon calls an old man to come and listen to the child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The summoned listener gives a formulaic reply about first going to listen
+    to the child, then comes to the other people and asks what the child says.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The child is reported as saying that he wants to fetch sticks for his father
+    so that his father may take aim at people who sit upon their heels.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A baboon responds with a sneering laugh and says that the people described
+    are themselves, then instructs another to summon an old man or passer-by to hear
+    the child.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator's note says the father had sent his son to construct things,
+    apparently sticks or bushes, so that the father could work them and make war upon
+    the baboons.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The latter supplied portion is original-language text with repeated lines
+    or utterances, but no English translation is included in the prompt.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the child / son of the Mantis
+  description: Called 'this child' in the dialogue and identified by the passage title
+    as the son of the Mantis; reported as wanting to fetch or construct sticks for
+    his father.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the father / Mantis
+  description: The child's father; the child is said to fetch sticks for him, and
+    the narrator's note says he sent his son so he could use the constructed things
+    to make war upon the baboons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: baboons / people sitting upon their heels
+  description: Baboons hear or relay the child's statement, identify themselves as
+    the people referred to, and are named in the narrator's note as the target of
+    the father's war-making.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: old man or passer-by summoned to listen
+  description: A figure called 'the old man yonder' or 'person passing across in front'
+    is summoned to listen to the child and asks what the child says.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: titled son or child
+  assigned_to:
+  - fig:1
+  basis: The title names the 'Son of the Mantis,' and the dialogue repeatedly calls
+    him 'this child.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: father intending hostile action
+  assigned_to:
+  - fig:2
+  basis: The reported speech says the father may take aim at the heel-sitting people,
+    and the narrator's note says he wished to make war upon the baboons.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: sent child or constructing agent
+  assigned_to:
+  - fig:1
+  basis: The narrator's note says the father had sent his son to construct things
+    for him.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: intended targets
+  assigned_to:
+  - fig:3
+  basis: The baboon says 'It is ourselves' after hearing the description of the people
+    who sit upon their heels, and the narrator's note identifies the targets as baboons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: summoners and listeners
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Baboons call others to hear the child; the summoned figure comes and asks
+    what the child says.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: sticks or constructed things
+  literal_form: sticks; narrator's note adds 'things' and possibly 'sticks (bushes?)'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: sitting upon heels
+  literal_form: people who sit upon their heels
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Baboons summon listeners to hear the child
+  summary: Baboons call an old man or passer-by to listen to the child; the summoned
+    listener comes and asks what the child says.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Child's reported errand for his father
+  summary: 'The child''s words are reported: he wants to fetch sticks for his father
+    so the father may take aim at the people sitting on their heels. The narrator''s
+    note explains this as the father sending his son to prepare things for making
+    war upon baboons.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: child sent by father to prepare implements
+  taxonomy_refs: []
+  basis: The child is said to fetch sticks for his father, and the narrator's note
+    says the father sent his son to construct things for him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The exact nature of the constructed items is uncertain; the note itself
+    questions whether they are sticks or bushes.
+- id: motif:2
+  label: threat recognized by intended targets
+  taxonomy_refs: []
+  basis: After hearing that the father will take aim at people who sit upon their
+    heels, a baboon says that the description refers to themselves; the narrator's
+    note identifies the targets as baboons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is an excerpt, so the broader conflict context is not fully
+    present here.
+- id: motif:3
+  label: repeated public summoning to hear a child's statement
+  taxonomy_refs: []
+  basis: The passage repeats calls for an old man or passer-by to come listen to the
+    child, followed by the question of what the child says.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The child's words are reported indirectly by others rather than quoted
+    directly in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 3165
+  quote_or_summary: 'Title: ''THE SON OF THE MANTIS. 21'''
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:2
+  type: summary
+  locator: lines 3167-3178; internal 6988-6989
+  quote_or_summary: A baboon calls out for the old man to come listen to the child;
+    the old man replies with a formula about first going to listen, then comes and
+    asks what the child says.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3179-3187; internal 6989-6990
+  quote_or_summary: The child is reported as wanting 'to fetch sticks for his father'
+    so that the father may 'take aim at the people who sit upon their heels.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3188-3208; internal 6990-6992
+  quote_or_summary: A baboon laughs sneeringly, says 'It is ourselves,' calls another
+    person to listen, and the child's statement about fetching sticks for his father
+    is repeated.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized with brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 3210-3218; narrator note, internal 6989'
+  quote_or_summary: The narrator's note explains that the father sent his son to construct
+    things, thought to be sticks or bushes, so that he could work them and make war
+    upon the baboons.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: lines 3220-3282; internal 6994-6998 and 6996'
+  quote_or_summary: The supplied excerpt continues with original-language text and
+    repeated utterance-like lines, but no English translation is included in the prompt
+    for this portion.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English narrative and narrator's note support the main extraction. Confidence
+    is reduced because the passage is partial and the latter original-language portion
+    is not translated in the supplied prompt. No comparison claims were extracted
+    because the passage itself does not make or support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family refs were assigned because the supplied passage supports local patterns but does not by itself justify the available higher-level taxonomy labels such as divine parent-child, culture hero, or trickster boundary.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l3165-l3282
+  passage_sha256=97955635d9bba8c64ffa1f7ef23822a5c10685e42c78979492d3df39343a8003
+

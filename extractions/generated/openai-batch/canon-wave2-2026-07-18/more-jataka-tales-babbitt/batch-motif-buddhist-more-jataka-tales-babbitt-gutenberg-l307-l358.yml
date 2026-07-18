@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l307-l358
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: XXI THE ELEPHANT AND THE DOG / THE GIRL MONKEY AND THE STRING OF PEARLS /
+    THE THREE FISHES / THE TRICKY WOLF AND THE RATS; lines 307-358
+  start: '307'
+  end: '358'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A wolf deceives a community of rats by pretending to be lame and to live
+    only on air. The rats’ chief and followers visit him out of pity, and the wolf
+    secretly eats the last rat each time they leave. When the rats notice their numbers
+    shrinking, the chief tests the wolf by going last, escapes the attack, exposes
+    the deceit, kills the wolf, and the rats thereafter live peacefully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Big Rat lives in the forest and is called Chief by many hundreds of other
+    rats.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Tricky Wolf sees the troop of rats and plans how to catch and eat them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wolf waits near the rats’ home and stands on his hind legs when a rat
+    comes by.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When asked why he stands on his hind legs, the wolf says he is lame and that
+    standing on his front legs hurts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When asked why his mouth is open, the wolf says he drinks in air, lives on
+    air as his only food, and cannot run or walk.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Chief of the Rats feels sorry for the wolf and goes with the other rats
+    night and morning to talk with him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Each time the rats leave, the wolf catches and eats the last rat, then wipes
+    his lips and looks as if nothing happened.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The number of rats decreases night by night, and the rats ask their chief
+    what is wrong.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The chief is not certain but thinks the wolf is to blame, so he tells the
+    other rats to go first while he goes last.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When the chief passes last, the wolf springs at him, but the chief escapes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The chief says the wolf has been eating the rats and has played his last trick.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The chief bites the wolf’s throat so that the wolf dies.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: After the wolf’s death, the rats live happily in peace and quiet.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chief of the Rats / Big Rat
+  description: A Big Rat in the forest whom many hundreds of other rats call their
+    Chief; he questions, suspects, tests, and kills the wolf.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Rats
+  description: Many hundreds of rats who follow the Chief, visit the wolf, lose members
+    to the wolf’s hidden predation, and later live peacefully.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Tricky Wolf
+  description: A wolf who wants to eat the rats, pretends to be lame and to live on
+    air, secretly eats the last rat in the group, and is killed by the Chief of the
+    Rats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: animal community leader
+  assigned_to:
+  - fig:1
+  basis: The Big Rat is explicitly called Chief by many hundreds of other rats and
+    gives them instructions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: victimized animal community
+  assigned_to:
+  - fig:2
+  basis: The rats visit the wolf and are reduced in number as he secretly eats the
+    last one each time they leave.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: deceiving predator
+  assigned_to:
+  - fig:3
+  basis: The wolf plans to eat the rats, gives false explanations about his posture
+    and diet, and secretly eats them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: tester and avenger
+  assigned_to:
+  - fig:1
+  basis: The chief suspects the wolf, tests him by going last, escapes the attack,
+    exposes the trick, and kills him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: feigned lameness posture
+  literal_form: The wolf stands on his hind legs and says he is lame.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: open mouth explained as air-drinking
+  literal_form: The wolf keeps his mouth open and claims he drinks in air and lives
+    on air.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: last position in the departing group
+  literal_form: The wolf eats the last rat as the rats leave; the chief later chooses
+    to go last.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wolf sets a deceptive posture near the rats’ home
+  summary: The wolf sees the rats, wants to eat them, waits near their home, stands
+    on his hind legs, and tells the chief that he is lame and lives on air.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rats visit the wolf and disappear one by one
+  summary: Moved by pity, the chief and the rats visit the wolf night and morning;
+    whenever they leave, the wolf eats the last rat and conceals what happened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Chief tests and defeats the wolf
+  summary: After the rats notice their dwindling numbers, the chief suspects the wolf,
+    goes last in the procession, escapes the wolf’s attack, accuses him, and kills
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Restored peace among the rats
+  summary: After the wolf dies, the rats live happily in peace and quiet.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: predator feigns harmlessness to prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf wants to eat the rats but presents himself as lame, unable to walk,
+    and living only on air, enabling him to attract and prey upon them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is approximate; the passage presents
+    deception by a predator rather than a sacred or liminal trickster figure.
+- id: motif:2
+  label: wise leader detects hidden danger through a test
+  taxonomy_refs:
+  - wisdom
+  basis: The chief notices the dwindling number of rats, suspects the wolf, arranges
+    to go last, and thereby reveals the wolf’s attack.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly name this as wisdom, but the chief’s inference
+    and test support the motif.
+- id: motif:3
+  label: secret sequential predation reduces a group
+  taxonomy_refs: []
+  basis: The wolf repeatedly eats the last rat in the departing group, causing fewer
+    rats to remain each night.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+- id: motif:4
+  label: deceiver punished and community restored
+  taxonomy_refs: []
+  basis: After the chief exposes and kills the wolf, the rats live happily in peace
+    and quiet.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a broad narrative pattern rather than a specific supplied taxonomy
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 309-311
+  quote_or_summary: A Big Rat lives in the forest, and many hundreds of other rats
+    call him their Chief.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 313-319
+  quote_or_summary: A Tricky Wolf sees the rats, plans to catch and eat them, waits
+    near their home, and stands on his hind legs when one comes by.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 320-331
+  quote_or_summary: The chief asks about the wolf’s hind-leg stance and open mouth;
+    the wolf claims to be lame, to drink in air, to live on air, and to be unable
+    to run or walk.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 333-339
+  quote_or_summary: The chief and rats visit the apparently pitiable wolf night and
+    morning; each time they leave, the wolf catches and eats the last rat and wipes
+    his lips.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 341-347
+  quote_or_summary: As fewer rats remain each night, they ask the chief what is wrong;
+    he suspects the wolf and instructs the others to go first while he goes last.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 349-355
+  quote_or_summary: The wolf springs at the chief but misses; the chief accuses him
+    of deception, bites his throat, and the wolf dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: line 357
+  quote_or_summary: Afterward the rats live happily in peace and quiet.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied English passage. Motif labels
+    are evidence-based but taxonomy alignment is approximate, especially for trickster_boundary.
+    No comparison claims are made because the passage itself does not supply an external
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The trailing “IV” marker was not treated as narrative content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l307-l358
+  passage_sha256=8fd48ebe8b8e8fb04295599329d68b68801f6fa00d0a786cb6b08f6f013eb7ef
+

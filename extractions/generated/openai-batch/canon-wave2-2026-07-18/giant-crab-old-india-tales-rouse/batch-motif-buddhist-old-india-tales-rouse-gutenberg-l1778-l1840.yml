@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1778-l1840
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: BIRDS OF A FEATHER / SPEND A POUND TO WIN A PENNY / THE CUNNING CRANE AND
+    THE CRAB / UNION IS STRENGTH; lines 1778-1840
+  start: '1778'
+  end: '1840'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fowler catches quails by hiding, imitating their call, and throwing a
+    net over them. A wise quail teaches the flock to put their heads through the net's
+    meshes and fly away together, carrying the net to a bush where they can escape
+    underneath. This succeeds repeatedly until the quails quarrel. When the fowler
+    nets them again, their dispute prevents coordinated lifting, and he puts them
+    in a basket and takes them home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed with the title “UNION IS STRENGTH.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fowler hunts quails by hiding, imitating a quail call, attracting quails,
+    and casting a net over them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One clever quail tells the other quails to put their heads through the net
+    meshes and fly away together at a word.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The quails follow the plan, lift and carry the net away together, drop it
+    on a large bush, and escape underneath.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fowler repeatedly returns empty-handed and loses many nets.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The fowler continues because he expects the quails eventually to quarrel.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A quarrel begins after one quail steps on another quail’s toe.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: During a later netting, the quarrelling quails tell each other to lift the
+    net instead of lifting it together.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: While the quails quarrel, the fowler lifts the net, puts them into his basket,
+    and takes them home.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Fowler
+  description: A clever hunter who imitates the quail’s note, casts nets over quails,
+    waits for their quarrel, and finally carries them away in a basket.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Wise Quail
+  description: A clever bird among the quails who devises the collective escape method.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Quail flock
+  description: The group of quails caught under the fowler’s net; they first escape
+    by coordinated action and later are captured when quarrelling prevents cooperation.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Two quarrelling quails
+  description: Two quails whose dispute begins when one treads on the other’s toe
+    and continues during the later capture.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: hunter-trapper
+  assigned_to:
+  - fig:1
+  basis: The fowler hides, imitates the quail call, throws nets over quails, and bags
+    or baskets them.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: wise advisor
+  assigned_to:
+  - fig:2
+  basis: The quail is described as clever and gives the flock a practical escape plan.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: cooperative captives
+  assigned_to:
+  - fig:3
+  basis: The quails lift the net together and escape by coordinated action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: quarrelling captives
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The quails’ dispute prevents the coordinated lifting of the net and leads
+    to capture.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: opportunistic watcher
+  assigned_to:
+  - fig:1
+  basis: The fowler persists because he expects the quails to quarrel and thereby
+    become catchable.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: net
+  literal_form: hunter’s net
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: imitated quail call
+  literal_form: sound used as a lure
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: large bush
+  literal_form: bush that holds up the net
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: basket
+  literal_form: container into which the fowler puts the captured quails
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fowler’s hunting method
+  summary: The fowler hides, imitates quail calls, gathers quails, and throws a net
+    over them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Wise Quail’s escape instruction
+  summary: The wise quail instructs the flock to put their heads through the meshes
+    and fly together when the net falls.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Collective escape
+  summary: The quails coordinate their flight, carry off the net, drop it on a bush,
+    and escape underneath.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fowler waits for discord
+  summary: After repeated failed attempts and lost nets, the fowler keeps trying because
+    he expects the quails to quarrel.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Quarrel and capture
+  summary: A dispute among quails disrupts their collective response, allowing the
+    fowler to capture them in his basket.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Collective cooperation overcomes a trap
+  taxonomy_refs:
+  - wisdom
+  basis: The title emphasizes strength in union, and the quails escape the net only
+    when they act together according to the wise quail’s plan.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy has only a broad wisdom category; no more specific
+    supplied motif ID exists for collective animal escape.
+- id: motif:2
+  label: Wise animal gives practical counsel
+  taxonomy_refs:
+  - wisdom
+  basis: A clever quail devises and communicates the escape method used by the flock.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents practical animal wisdom rather than a supernatural
+    or sacred wisdom episode.
+- id: motif:3
+  label: Discord causes loss of collective protection
+  taxonomy_refs: []
+  basis: The fowler expects the quails to quarrel; when they do, they fail to lift
+    the net together and are captured.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is inferred from the narrative sequence and title, but no supplied
+    taxonomy family directly names discord or failed cooperation.
+- id: motif:4
+  label: Deceptive imitation lures prey into capture
+  taxonomy_refs: []
+  basis: The fowler imitates the quail’s note to gather the birds before casting his
+    net.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference specifically covers mimicry or hunting
+    lures.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the supplied taxonomy, the passage functions as a wisdom-pattern
+    animal tale about collective action: coordinated unity saves the quails, while
+    quarrel enables capture.'
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad functional alignment to an available motif family,
+    not evidence of historical contact or comparison to a named parallel text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1778-1840; title
+  quote_or_summary: "“UNION IS STRENGTH”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1778-1840; opening paragraph
+  quote_or_summary: A clever fowler hunts quails by hiding, imitating the quail’s
+    note, drawing many quails together, throwing a net over them, and bagging them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1778-1840; wise quail’s instruction
+  quote_or_summary: A clever quail tells the flock that when the net falls, each should
+    put its head through a mesh and then fly away together at the word.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1778-1840; first successful escape
+  quote_or_summary: The quails carry the net away together, drop it on a large bush,
+    and escape underneath while the bush holds the net up.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 1778-1840; repeated failures and fowler’s expectation
+  quote_or_summary: The fowler repeatedly comes home empty-handed after losing many
+    nets, but keeps trying because he thinks the quails will eventually quarrel.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 1778-1840; beginning of quarrel
+  quote_or_summary: A quarrel starts when one quail treads on another’s toe; the two
+    exchange angry accusations.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 1778-1840; final capture
+  quote_or_summary: When the fowler casts the net again, the quarrelling quails mock
+    each other and tell each other to lift it; while they quarrel, the fowler lifts
+    the net, puts them into his basket, and takes them home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is self-contained and explicit about the narrative sequence.
+    Taxonomy alignment is limited because the supplied taxonomy contains only a broad
+    wisdom family and no specific cooperation/discord motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external parallels or tale-type identifiers were added; comparison is limited to the supplied taxonomy and the passage’s own title and plot.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1778-l1840
+  passage_sha256=89a7e742bf114e543dcc16b734c0c17faa0a2756877497b2445ef55512c94bff
+

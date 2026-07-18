@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l9055-l9068
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: VIII. / XIII. / XVII. / XVIII.; lines 9055-9068
+  start: '9055'
+  end: '9068'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: '"For King Fisherman mine uncle is dead..."'
+  summary: A woman tells Perceval that King Fisherman, her uncle, has died and that
+    another uncle, the King of Castle Mortal, has seized his castle despite claims
+    by her mother, herself, or her brother. Perceval asks whether the death is true,
+    receives confirmation, and laments that he has not visited King Fisherman for
+    a long time.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says she has been in sore travail and jeopardy since she last
+    saw Perceval and has heard grievous tidings for herself and her mother.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that King Fisherman, her uncle, is dead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker states that another uncle, the King of Castle Mortal, has seized
+    King Fisherman's castle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says her mother, herself, or her brother ought rather to have
+    the castle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Perceval asks whether it is true that King Fisherman is dead, and the speaker
+    confirms it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Perceval says the news grieves him, that he did not expect King Fisherman
+    to die so soon, and that he has not visited him for a long time.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the female speaker
+  description: A woman speaking to Perceval; she identifies King Fisherman and the
+    King of Castle Mortal as her uncles and mentions her mother and brother.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Perceval
+  description: He asks whether King Fisherman is dead and then laments the news and
+    his long absence from visiting him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: King Fisherman
+  description: The speaker's uncle, reported as dead; his castle has been seized.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King of Castle Mortal
+  description: Another uncle of the speaker, said to have seized King Fisherman's
+    castle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the speaker's mother
+  description: Mentioned as grieving over the tidings and as one who ought rather
+    to have the castle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: the speaker's brother
+  description: Mentioned as one who might rather have the castle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: bearer of grievous tidings
+  assigned_to:
+  - fig:1
+  basis: She reports her travail and the bad tidings about King Fisherman's death
+    and the seizure of the castle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: questioner and mourner
+  assigned_to:
+  - fig:2
+  basis: Perceval asks if the death is true and says the news displeases or grieves
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deceased uncle and former castle-holder
+  assigned_to:
+  - fig:3
+  basis: King Fisherman is named as the speaker's uncle, is said to be dead, and his
+    castle is the one seized.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: seizer of the castle
+  assigned_to:
+  - fig:4
+  basis: The King of Castle Mortal is said to have seized King Fisherman's castle.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: asserted preferable claimants
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: The speaker says her mother, herself, or her brother ought rather to have
+    the castle.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: contested castle
+  literal_form: King Fisherman's castle, seized by the King of Castle Mortal and claimed
+    as more properly belonging to the speaker's mother, the speaker, or her brother
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Report of death and seizure
+  summary: 'The speaker tells Perceval that she has suffered danger and has heard
+    grievous news: King Fisherman is dead and the King of Castle Mortal has seized
+    his castle despite rival family claims.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Confirmation and lament
+  summary: Perceval asks if King Fisherman's death is true; the speaker confirms it,
+    and Perceval laments the death and his long failure to visit him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: contested inheritance after a ruler's death
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: King Fisherman's death is followed by the seizure of his castle by another
+    king, while the speaker asserts that her mother, herself, or her brother has a
+    preferable claim.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states a succession dispute over a castle but does not provide
+    legal details or the wider political context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9055-9057
+  quote_or_summary: The speaker says she has been in "sore travail and jeopardy" and
+    has heard tidings "right grievous" for her mother and herself.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 9057-9060
+  quote_or_summary: '"King Fisherman mine uncle is dead," and the King of Castle Mortal
+    "hath seized his castle," though the speaker says her mother, herself, or her
+    brother ought rather to have it.'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 9062-9064
+  quote_or_summary: Perceval asks whether King Fisherman's death is true, and the
+    speaker answers that she knows it is true.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:4
+  type: summary
+  locator: 9066-9068
+  quote_or_summary: Perceval invokes God, says the news greatly displeases him, says
+    he did not expect King Fisherman to die so soon, and notes that he has not visited
+    him for a long time.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal family relationships, death report, castle seizure, and Perceval's
+    response are explicit. Motif labeling as royal legitimacy is well supported but
+    limited by the brief passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-traditional comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l9055-l9068
+  passage_sha256=058390ae8466e56ad861ef027d57a95eb38eaa444321427fc52429aaf07a427c
+

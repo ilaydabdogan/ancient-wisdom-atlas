@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1472-l1501
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: KUZA-NAMA / LXII. / LXIII. / LXIV.; lines 1472-1501
+  start: '1472'
+  end: '1501'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of speakers, including personified vessels, question whether
+    a maker would destroy a vessel made in love, whether an ungainly vessel is responsible
+    for its crooked form, whether reports of a harsh tapster and strict testing should
+    be believed, and whether dry clay might recover if filled with familiar juice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One speaker says that even a peevish boy would not break the bowl from which
+    he drank in joy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same speaker asks whether the maker of the vessel, having made it in love
+    and fancy, would later destroy it in rage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After silence, a vessel of ungainly make speaks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ungainly vessel says others sneer at it for leaning awry and asks whether
+    the potter's hand shook.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another speaker reports that people tell of a surly tapster and associate
+    his face with the smoke of Hell.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same speaker says people speak of strict testing, rejects that talk, and
+    says the tapster is a good fellow and all will be well.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Another speaker sighs and says its clay has gone dry through long oblivion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dry-clay speaker asks to be filled with the old familiar juice and says
+    it might recover afterward.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker of LXII
+  description: An unnamed speaker who reasons about a boy, a bowl, and the maker of
+    the vessel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: peevish boy
+  description: A hypothetical boy said not to break the bowl from which he drank in
+    joy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: maker of the vessel
+  description: The one said to have made the vessel in pure love and fancy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: ungainly vessel
+  description: A vessel of a more ungainly make that leans awry and speaks after silence.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Potter
+  description: The maker whose hand is questioned by the ungainly vessel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: speaker of LXIV
+  description: An unnamed speaker who rejects reports of a surly tapster, Hell-smoke,
+    and strict testing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: folks
+  description: People said to tell of a surly tapster and strict testing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: surly tapster
+  description: A tapster described by others as surly, but called a good fellow by
+    the speaker.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: speaker of LXV
+  description: An unnamed speaker whose clay has gone dry and who asks to be filled
+    with old familiar juice.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaking vessel or vessel-like speaker
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:9
+  basis: The passage is a sequence of speakers among vessels; one is explicitly called
+    a vessel, and another refers to its own clay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: hypothetical bowl-breaker who does not break the bowl
+  assigned_to:
+  - fig:2
+  basis: The boy is used as an example of someone who would not break the bowl from
+    which he drank in joy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: maker or potter
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: One figure is said to have made the vessel; another is named as the Potter
+    whose hand may have shaped the ungainly vessel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: criticized imperfect vessel
+  assigned_to:
+  - fig:4
+  basis: The vessel says it is sneered at for leaning awry.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: reporters of harsh judgment imagery
+  assigned_to:
+  - fig:7
+  basis: The folks tell of a surly tapster, smoke of Hell, and strict testing.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: tapster described and defended
+  assigned_to:
+  - fig:8
+  basis: The tapster is described as surly by others and defended as a good fellow
+    by the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: dry-clay supplicant for filling
+  assigned_to:
+  - fig:9
+  basis: The speaker says its clay has gone dry and asks to be filled with old familiar
+    juice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bowl
+  literal_form: Bowl from which a boy drank in joy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vessel
+  literal_form: Vessel made in pure love and fancy
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: potter's hand
+  literal_form: The Hand of the Potter, questioned as possibly shaking
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: crooked vessel form
+  literal_form: A vessel leaning all awry
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: smoke of Hell
+  literal_form: Smoke of Hell daubed on the tapster's visage
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: strict testing
+  literal_form: Some strict Testing of us
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: dry clay
+  literal_form: Clay gone dry through long oblivion
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: old familiar juice
+  literal_form: The old familiar Juice requested as a filling
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about maker destroying the vessel
+  summary: A speaker argues by analogy that a boy would not break a joyful drinking
+    bowl and asks whether the maker would destroy a vessel made in love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ungainly vessel questions the potter
+  summary: After silence, an ungainly vessel speaks about being mocked for leaning
+    awry and asks whether the potter's hand shook.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tapster, Hell-smoke, and testing rejected
+  summary: A speaker reports claims about a surly tapster, Hell-smoke, and strict
+    testing, then dismisses them and says all will be well.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dry clay asks for restorative filling
+  summary: A sighing speaker says its clay is dry from long oblivion and asks to be
+    filled with familiar juice so it may recover.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: created vessel questions destruction by its maker
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage asks whether the maker who made the vessel in love would later
+    destroy it in rage, and later mentions strict testing and Hell-smoke.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the issue through vessel and tapster imagery; it does
+    not explicitly name a deity in the supplied text.
+- id: motif:2
+  label: imperfect vessel shifts responsibility to the potter
+  taxonomy_refs: []
+  basis: The ungainly vessel is mocked for leaning awry and asks whether the potter's
+    hand shook.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this potter-and-vessel
+    motif.
+- id: motif:3
+  label: reassurance against harsh testing
+  taxonomy_refs:
+  - divine_judgment
+  basis: A speaker rejects reports of Hell-smoke and strict testing and instead says
+    the tapster is a good fellow and all will be well.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity and function of the tapster are figurative within the passage
+    and not explicitly defined.
+- id: motif:4
+  label: dry clay seeks recovery through filling
+  taxonomy_refs:
+  - death_rebirth
+  basis: The speaker says its clay has become dry through oblivion and expects possible
+    recovery if filled with old familiar juice.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage speaks of recovery by-and-bye rather than an explicit death
+    and rebirth episode.
+- id: motif:5
+  label: personified vessels conduct philosophical speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents vessel-like speakers posing questions about making,
+    fault, testing, and recovery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage's literal form is a poetic
+    dialogue among vessels.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXII; within lines 1472-1501
+  quote_or_summary: An unnamed speaker says a peevish boy would not break the bowl
+    from which he drank in joy and asks whether the maker of the vessel would destroy
+    it after making it in love and fancy.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: LXIII; within lines 1472-1501
+  quote_or_summary: After no answer and silence, a more ungainly vessel speaks, says
+    it is sneered at for leaning awry, and asks whether the potter's hand shook.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: LXIV; within lines 1472-1501
+  quote_or_summary: A speaker says people tell of a surly tapster, daub his face with
+    the smoke of Hell, and speak of strict testing, but the speaker dismisses this
+    and says he is a good fellow and all will be well.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: LXV; supplied passage text, within requested range metadata
+  quote_or_summary: Another speaker sighs that its clay has gone dry through long
+    oblivion and asks to be filled with old familiar juice so it might recover by-and-bye.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied text, but the locator
+    label names LXII-LXIV while the supplied passage includes LXV. Motif taxonomy
+    assignments are cautious because the passage uses poetic metaphor and does not
+    explicitly define the divine or ritual referents.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an explicit comparison to another text, tradition, or motif family beyond the candidate taxonomy mapping.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1472-l1501
+  passage_sha256=cacf93d649fb2f9c3181ed2933e94be088dbfd3e942477084943603e0e4cdd73
+

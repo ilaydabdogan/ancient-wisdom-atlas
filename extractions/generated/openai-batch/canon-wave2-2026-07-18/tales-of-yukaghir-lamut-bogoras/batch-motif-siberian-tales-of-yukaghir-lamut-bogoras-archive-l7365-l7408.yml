@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l7365-l7408
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: W.  B. / V.  MARKOVA  TALES. / W.  B. / VI.  ANADYR  TALES.; lines 7365-7408
+  start: '7365'
+  end: '7408'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man named Latka dies, leaving his daughter alone with his assistant Pondandi.
+    Pondandi stops doing household work and sits silently across the river, staring
+    at her while she makes fire, fetches water, cooks, and asks what he wants. When
+    she asks whether he wants to marry her, he jumps and dances; she then tells him
+    to kill a big brown bear for a blanket if he wants marriage. A source note describes
+    probable Chuvantzi provenance and compares the verse form with an old Russian
+    lay and a Kolyma similar lay/lullaby.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Latka is introduced as a named man who has an assistant called Pondandi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Latka dies, his daughter remains alone with Pondandi, who had worked
+    for her father and continues to work for her at first.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One morning the daughter finds that there is no fire in the house.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pondandi is sitting motionless on the other bank of the river and looking
+    steadfastly at the daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pondandi does not answer or move when asked to make fire, fetch water, cook
+    food, eat, or say what he wants.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The daughter herself makes fire, fetches water, cooks wild-sheep brisket,
+    eats alone, and performs household work.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: When the daughter suggests that Pondandi may want a handsome suit of clothes,
+    he remains seated and silent.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the daughter asks whether Pondandi wants to take her as his wife, he
+    jumps up, dances once, then sits down and resumes staring.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The daughter tells Pondandi that if he wants to marry her, he must kill a
+    big brown bear for a blanket for her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The source note says the tale is probably of Chuvantzi provenance and mentions
+    verse fragments arranged like an old Russian lay and a Kolyma-country similar
+    lay used chiefly as a lullaby.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Latka
+  description: A man who has an assistant named Pondandi and dies before the main
+    action with his daughter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Latka's daughter
+  description: Latka's daughter, left alone with Pondandi; she performs the household
+    work, questions Pondandi, and sets a marriage condition involving a bear.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Pondandi
+  description: Latka's assistant; after Latka's death he sits across the river, remains
+    silent, stares at the daughter, and reacts physically when marriage is mentioned.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceased father and former master
+  assigned_to:
+  - fig:1
+  basis: Latka is the father whose death leaves his daughter with his assistant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter left in the household
+  assigned_to:
+  - fig:2
+  basis: The daughter remains alone with Pondandi after Latka dies and performs household
+    tasks herself.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: assistant and household worker
+  assigned_to:
+  - fig:3
+  basis: Pondandi is named as Latka's assistant and is expected to make fire, fetch
+    water, and cook.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: silent prospective suitor
+  assigned_to:
+  - fig:3
+  basis: Pondandi remains silent until the daughter asks whether he wants to take
+    her as wife, at which point he jumps and dances.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: prospective bride and task setter
+  assigned_to:
+  - fig:2
+  basis: The daughter frames the marriage question and states the condition that Pondandi
+    kill a big brown bear for her blanket.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: household fire
+  literal_form: fire absent from the house, then made by the daughter
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: river and water
+  literal_form: river separating Pondandi from the daughter; water that he is told
+    to fetch
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: handsome suit of clothes
+  literal_form: a handsome suit of clothes that the daughter offers to prepare for
+    Pondandi
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: big brown bear for a blanket
+  literal_form: a big brown bear that Pondandi is told to kill so it can serve as
+    a blanket for the daughter
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Death leaves daughter with assistant
+  summary: Latka dies, and his daughter remains in the household with Pondandi, the
+    former assistant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silent assistant across the river
+  summary: The daughter finds no fire and sees Pondandi sitting motionless across
+    the river. He ignores requests to make fire, fetch water, cook, and eat, so she
+    performs the tasks herself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Repeated questioning and offer of clothes
+  summary: On the next morning Pondandi remains in the same place, staring silently.
+    The daughter does the work and asks whether he wants a handsome suit of clothes,
+    but he does not answer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Marriage question and bear task
+  summary: When the daughter asks whether Pondandi wants to marry her, he jumps and
+    dances. She then tells him to kill a big brown bear for her blanket if he wants
+    marriage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: silent watcher across water
+  taxonomy_refs: []
+  basis: Pondandi sits motionless on the opposite river bank, stares at the daughter,
+    and refuses to answer repeated questions or perform expected tasks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the behavior clearly but does not explain its cause
+    or outcome.
+- id: motif:2
+  label: marriage condition requiring a dangerous hunt
+  taxonomy_refs: []
+  basis: After Pondandi reacts to the question of marriage, the daughter requires
+    him to kill a big brown bear for her blanket.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt ends before showing whether the task is attempted or completed.
+- id: motif:3
+  label: withdrawal of household service after the master's death
+  taxonomy_refs: []
+  basis: Pondandi, formerly an assistant to Latka and then to the daughter, ceases
+    to perform household duties and leaves the daughter to make fire, fetch water,
+    cook, and work herself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a candidate narrative pattern rather than a confirmed named motif.
+comparison_claims:
+- id: claim:1
+  claim: The source note supports a cautious comparison between this tale and a Kolyma-country
+    similar lay, described as more coherent and chiefly used as a lullaby.
+  claim_level: same_motif
+  target: Kolyma-country similar lay/lullaby mentioned in the source note
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note does not provide the Kolyma text or specify which episodes
+    correspond.
+- id: claim:2
+  claim: The source note identifies a formal resemblance between some verse fragments
+    in this tale and the form of an old Russian lay.
+  claim_level: linguistic_similarity
+  target: old Russian lay poetic form
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns verse arrangement and does not establish shared
+    plot, motif, or historical transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7365-7371
+  quote_or_summary: Latka has an assistant named Pondandi; after Latka dies, his daughter
+    remains alone with Pondandi, who had worked for Latka and for her.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 7371-7376
+  quote_or_summary: The daughter finds no fire in the house and sees Pondandi sitting
+    motionless on the other bank of the river, looking steadily at her and not answering
+    when asked to make fire.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7376-7383
+  quote_or_summary: Pondandi ignores commands to fetch water, cook, explain what he
+    wants, and eat; the daughter makes fire, gets water, cooks wild-sheep brisket,
+    eats alone, and sleeps.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 7383-7391
+  quote_or_summary: The next morning Pondandi remains in the same place, staring more
+    steadfastly; the daughter performs the household work and asks if he wants handsome
+    clothes, but he stays silent.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 7392-7398
+  quote_or_summary: When the daughter asks whether Pondandi wants to take her for
+    his wife, he jumps up, dances about once, then sits down again and continues staring.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 7398-7404
+  quote_or_summary: "“If you want to marry me, / Go and kill a big brown bear / For
+    a blanket for me.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 7405-7408
+  quote_or_summary: The note says the tale is probably of Chuvantzi provenance, that
+    some verse fragments are arranged like an old Russian lay, and that in the Kolyma
+    country it has been transformed into a similar lay used chiefly as a lullaby.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized from provided passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and objects in the excerpt are clear. Motif labels
+    are candidate descriptions because the excerpt ends before the bear task is resolved,
+    and comparison claims rely only on the source note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy motif family was assigned; available symbol taxonomy was used only for literal fire and water.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l7365-l7408
+  passage_sha256=faf62afd2d1b706b2f1240854b381fe986ed5d4535d803a04803c3b94f906536
+

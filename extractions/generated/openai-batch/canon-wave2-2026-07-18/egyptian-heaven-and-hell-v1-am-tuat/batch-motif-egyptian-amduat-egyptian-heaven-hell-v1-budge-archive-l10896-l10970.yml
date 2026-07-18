@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l10896-l10970
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I       I       I / I      ,,,     , / I      III     I        III / THE    BOOK   OF   AM-TUAT;
+    lines 10896-10970
+  start: '10896'
+  end: '10970'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a picture in the Tuat whose figures represent the
+    births of the god Kheper as he carries his horizon toward a city in order to emerge
+    into the eastern horizon of the sky. It then describes two crossed serpents with
+    a disk between them, two youthful crowned goddesses, and captions identifying
+    the Menenui serpents, the goddesses of South and North, and the axe of god with
+    the solar disk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The picture is located or identified as being in the Tuat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figures in the picture represent the births of the god Kheper.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kheper is described as carrying his horizon to a city so that he may come
+    forth into the eastern horizon of the sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Two serpents stand on their tails, cross near their tips, and have heads and
+    necks bent at right angles to their bodies.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A disk rests in the space between the two serpents.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A youthful goddess wearing a White Crown stands or sits to the right, and
+    a similar youthful goddess wearing a Red Crown is placed to the left.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Each goddess holds an index finger to her mouth in the manner of children
+    and is depicted in the act of sitting without a seat or throne.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A caption identifies the serpents as Menenui serpents and identifies the goddesses
+    as goddesses of the South and North.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A further caption names the axe of god and the solar disk.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kheper
+  description: A god whose births are represented by the figures in the picture and
+    who carries his horizon toward a city to come forth into the eastern horizon of
+    the sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Menenui serpents
+  description: Two serpents standing on their tails, crossing near their tips, with
+    a disk resting between them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Youthful goddess wearing a White Crown
+  description: A youthful goddess placed to the right, wearing a White Crown, holding
+    an index finger to her mouth, and depicted as sitting without a seat or throne.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Youthful goddess wearing a Red Crown
+  description: A youthful goddess placed to the left, wearing a Red Crown, holding
+    an index finger to her mouth, and depicted as sitting without a seat or throne.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: god whose births are represented
+  assigned_to:
+  - fig:1
+  basis: The passage says the figures represent the births of the god Kheper.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent pair enclosing a disk
+  assigned_to:
+  - fig:2
+  basis: The two serpents cross near their tips and a disk rests in the space between
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: childlike crowned goddess
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Each goddess is youthful, crowned, holds an index finger to her mouth, and
+    is compared in posture to children.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: goddess of South or North
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The caption identifies the pair as the goddesses of the South and North.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Tuat
+  literal_form: The Tuat as the location of the picture.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: horizon and eastern horizon
+  literal_form: Kheper's horizon and the eastern horizon of the sky.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: serpent pair
+  literal_form: Two crossed serpents standing on their tails.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: disk or solar disk
+  literal_form: A disk between the serpents, and a captioned solar disk.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: White Crown and Red Crown
+  literal_form: A White Crown worn by the right-hand goddess and a Red Crown worn
+    by the left-hand goddess.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: axe of god
+  literal_form: The captioned axe of god.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Births of Kheper in the Tuat
+  summary: A picture in the Tuat is explained as representing the births of Kheper,
+    who carries his horizon toward a city and is to emerge into the eastern horizon
+    of the sky.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crossed serpents with disk and crowned goddesses
+  summary: Two Menenui serpents cross near their tips with a disk between them, while
+    two youthful crowned goddesses appear to the right and left in childlike posture.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Axe of god and solar disk caption
+  summary: A caption identifies the axe of god and the solar disk.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine birth or emergence of Kheper
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage explicitly says the figures represent the births of the god Kheper
+    and describes his coming forth into the eastern horizon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes a depicted theological scene; it does not narrate
+    a full birth episode.
+- id: motif:2
+  label: underworld journey toward the eastern horizon
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The picture is in the Tuat and describes Kheper carrying his horizon toward
+    a city so that he may come forth into the eastern horizon of the sky.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only this local scene is provided; the larger journey map is inferred
+    from the stated Tuat setting and movement toward the eastern horizon.
+- id: motif:3
+  label: serpent pair associated with disk
+  taxonomy_refs:
+  - serpent
+  basis: The passage describes two Menenui serpents crossing near their tips with
+    a disk resting between them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The function of the serpents is not explained beyond their placement and
+    association with the disk.
+- id: motif:4
+  label: paired goddesses of South and North
+  taxonomy_refs:
+  - duality
+  basis: The passage presents two similar youthful goddesses with different crowns
+    and a caption identifying them as goddesses of the South and North.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly explain the symbolic meaning of the crowns
+    or the regional pair beyond the caption.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10896-10970
+  quote_or_summary: The picture in the Tuat is explained as representing the births
+    of the god Kheper, who carries his horizon to a city in order to come forth into
+    the eastern horizon of the sky.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied by user.
+- id: ev:2
+  type: summary
+  locator: 10896-10970
+  quote_or_summary: The passage describes two serpents standing on their tails, crossing
+    near their tips, with heads and necks bent at right angles, and with a disk resting
+    in the space between them.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied by user.
+- id: ev:3
+  type: summary
+  locator: 10896-10970
+  quote_or_summary: To the right is a youthful goddess wearing a White Crown; to the
+    left is a similar goddess wearing a Red Crown. Each holds an index finger to her
+    mouth in the manner of children and is depicted as sitting without a seat or throne.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied by user.
+- id: ev:4
+  type: summary
+  locator: 10896-10970
+  quote_or_summary: The caption identifies the Menenui serpents and the goddesses
+    of the South and North.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied by user.
+- id: ev:5
+  type: summary
+  locator: 10896-10970
+  quote_or_summary: A caption names the axe of god and the solar disk.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied by user.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short OCR-heavy excerpt with some captions and
+    object descriptions. Literal elements are clear, but names and functions may require
+    review against the plate or clean edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific external comparison beyond available motif-family tagging.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l10896-l10970
+  passage_sha256=3d6116a20edbc0b7f6825f55d540845139a76cafb4e39f4bf33356c025075848
+

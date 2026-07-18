@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5728-l5743
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: WHAT   THE    STAES    SAY,   AND   A   PEAYER / TO   A   STAE. / WHAT  THE    STARS    SAY.  81
+    / WHAT    THE    STAES    SAY,    AND   A  PRAYER; lines 5728-5743
+  start: '5728'
+  end: '5743'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that a porcupine watches certain Stars. When the Stars
+    have turned back, he knows that it is dawn, does not remain on the hunting ground,
+    and returns home. The Stars are identified as dawn's Stars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as concerning what the Stars say.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A porcupine is associated with a hunting ground in the passage.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When certain Stars have turned back, the porcupine will not remain on the
+    hunting ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The porcupine knows that it is dawn when the observed sign has turned back.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The porcupine returns home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The porcupine is used to looking at and watching these Stars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Stars are identified as dawn's Stars.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Porcupine
+  description: A porcupine who watches certain Stars, recognizes dawn, leaves the
+    hunting ground, and returns home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Stars / dawn's Stars
+  description: Stars watched by the porcupine; their having turned back is connected
+    with the porcupine knowing that it is dawn, and they are called dawn's Stars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Star watcher returning from the hunting ground
+  assigned_to:
+  - fig:1
+  basis: The porcupine is used to look at and watch the Stars, does not remain on
+    the hunting ground when they have turned back, and returns home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Dawn indicators
+  assigned_to:
+  - fig:2
+  basis: The passage connects the Stars' turning back with the porcupine knowing it
+    is dawn and calls them dawn's Stars.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dawn's Stars
+  literal_form: Stars watched by the porcupine and called dawn's Stars.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Turning-back of the Stars
+  literal_form: The Stars have turned back.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Porcupine reads the dawn's Stars and leaves the hunting ground
+  summary: The porcupine watches certain Stars. When they have turned back, he knows
+    dawn has come, does not remain on the hunting ground, and returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Stars as signs of dawn
+  taxonomy_refs: []
+  basis: A habitual watcher of the Stars knows that it is dawn when they have turned
+    back; the passage calls them dawn's Stars.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is brief and does not provide broader ritual or narrative
+    context.
+- id: motif:2
+  label: Return from hunting at dawn
+  taxonomy_refs: []
+  basis: The porcupine will not remain on the hunting ground after recognizing dawn
+    by the Stars, and he returns home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This may be an explanatory observation rather than a full narrative motif
+    in the excerpted lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '5728'
+  quote_or_summary: WHAT THE STARS SAY.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: 5730-5733
+  quote_or_summary: The porcupine will not remain on the hunting ground when these
+    Stars have turned back, because he knows that it is dawn.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5733-5735
+  quote_or_summary: The porcupine returns home and is used to looking at and watching
+    these Stars.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 5735-5736
+  quote_or_summary: dawn's Stars
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for motif identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied brief passage. No comparison claims
+    are made because the excerpt itself does not support a specific cross-text or
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol was directly supported by the passage; taxonomy references were left empty.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5728-l5743
+  passage_sha256=657e0efec4b21fcdc5aaad21b3cf76f52338659c9b728caa15bb31769f58015d
+

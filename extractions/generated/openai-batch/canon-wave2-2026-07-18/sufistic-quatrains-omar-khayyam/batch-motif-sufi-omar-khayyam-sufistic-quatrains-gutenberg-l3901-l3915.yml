@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3901-l3915
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXV. / LXXVI. / LXXVII. / LXXX.; lines 3901-3915
+  start: '3901'
+  end: '3915'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker addresses a divine Thou who has placed pitfalls, gins, and
+    snares along the road the speaker must walk, and objects that the same divine
+    power orders all things while blaming the speaker as fallen, sinful, or rebellious.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a figure called Thou.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The addressed Thou is said to have set pitfalls, a gin, and snares on the
+    road where the speaker walks or wanders.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The addressed Thou threatens to catch the speaker if the speaker steps into
+    the snares.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that no smallest thing in the world is independent of the
+    addressed Thou.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The addressed Thou is said to order all things and yet call the speaker rebellious.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker protests that the addressed Thou should not enmesh the speaker
+    with predestined evil and then impute the speaker's fall to sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Speaker
+  description: First-person voice who walks the road and protests being blamed for
+    fall, sin, or rebellion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thou
+  description: Addressed power said to place snares, order all things, and accuse
+    the speaker of rebellion or sin.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: accused wanderer
+  assigned_to:
+  - fig:1
+  basis: The speaker walks the road, may be caught in snares, and is described as
+    blamed for fall, sin, or rebellion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: snare-setter
+  assigned_to:
+  - fig:2
+  basis: The addressed Thou is said to place pitfalls, a gin, and snares along the
+    road.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: all-ordering accuser
+  assigned_to:
+  - fig:2
+  basis: The addressed Thou is said to order all things while calling the speaker
+    rebellious and imputing fall to sin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: road
+  literal_form: Road / road I walk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pitfall and gin
+  literal_form: pitfall and gin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: snares
+  literal_form: snares placed in a thousand places on the road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fall
+  literal_form: my Fall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Protest against predestined snares and blame
+  summary: The speaker describes walking a road filled with traps placed by the addressed
+    Thou and challenges the justice of being caught or blamed when all things are
+    said to be ordered by that same Thou.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Predestined trap followed by blame
+  taxonomy_refs:
+  - divine_judgment
+  basis: The addressed Thou is said to enmesh the speaker with predestined evil and
+    then impute the speaker's fall to sin or call the speaker rebellious.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a quatrain of theological protest rather than a narrative
+    judgment scene; the taxonomy link is based on accusation and culpability language.
+- id: motif:2
+  label: Perilous road of the speaker
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker describes a road to be wandered or walked, obstructed by snares
+    placed by the addressed Thou.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The road may be metaphorical or argumentative rather than a developed
+    quest narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3901-3906, quatrain LXXX
+  quote_or_summary: The speaker addresses Thou as one who beset the road with pitfall
+    and gin and protests against being enmeshed by predestined evil and then blamed
+    for fall or sin.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized to keep quotation minimal.
+- id: ev:2
+  type: summary
+  locator: lines 3910-3913, translation from O. 148
+  quote_or_summary: The prose rendering says Thou places snares in many places on
+    the road, threatens to catch the speaker, asserts that nothing is independent
+    of Thee, and says Thou orders all things while calling the speaker rebellious.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized to keep quotation minimal.
+- id: ev:3
+  type: citation
+  locator: lines 3908 and 3915
+  quote_or_summary: 'The note identifies the quatrain as translated from O. 148 and
+    gives references: O. 148, B. ii. 546; W. 432, N. 390.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif assignment
+    is cautious because the passage is a compact lyric-theological complaint, not
+    an extended mythic narrative. No comparison claims were added because the passage
+    itself does not make an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy references were applied only where directly supported by the passage language.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3901-l3915
+  passage_sha256=b61a1985705319b1a72143039fcca40a3714dcb08831a06b302889a03f36abf6
+

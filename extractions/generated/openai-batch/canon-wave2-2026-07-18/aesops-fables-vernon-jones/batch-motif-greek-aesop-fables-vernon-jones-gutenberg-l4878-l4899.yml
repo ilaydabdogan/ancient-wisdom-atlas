@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4878-l4899
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BUTCHER AND HIS CUSTOMERS / HERCULES AND MINERVA / THE FOX WHO SERVED
+    A LION / THE QUACK DOCTOR; lines 4878-4899
+  start: '4878'
+  end: '4899'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sick man consults several doctors. Most say he is not in immediate danger,
+    but the last predicts death within twenty-four hours. The man recovers and meets
+    that doctor, who jokingly treats him as if returned from the other world. The
+    man replies with an imagined report that the dead drink water of oblivion and
+    that authorities there planned to prosecute doctors, but spared this man because
+    he was an impostor rather than a doctor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sick man takes to his bed and consults a number of doctors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: All but one of the doctors say his life is in no immediate danger, though
+    the illness may last a considerable time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The last consulted doctor tells him to prepare for the worst and says he has
+    less than twenty-four hours to live.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After a few days, the sick man leaves his bed and walks abroad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The recovered man is described as looking pale.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The doctor who predicted death asks whether the man is fresh from the other
+    world and asks about departed friends there.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man says the departed are comfortable because they have drunk the water
+    of oblivion and forgotten life’s troubles.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The man says authorities in the other world were preparing to prosecute doctors
+    for keeping sick men alive rather than letting them die naturally.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The man says the authorities were persuaded not to charge this doctor because
+    he was not a doctor but an impostor.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the sick man / recovered man
+  description: A man who falls sick, consults doctors, recovers enough to walk abroad,
+    and answers the doctor with a report about the other world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the consulted doctors
+  description: A group of doctors consulted by the sick man; most say he is not in
+    immediate danger.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the death-prophesying doctor
+  description: The final doctor consulted, who predicts the man will die within twenty-four
+    hours and is later called an impostor in the man’s reply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: departed friends
+  description: Dead persons in the other world mentioned in the dialogue; the man
+    says they are comfortable after drinking the water of oblivion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: authorities in the other world
+  description: Authorities mentioned in the man’s imagined report from the other world;
+    they are said to arrange prosecution of doctors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: patient and recovered speaker
+  assigned_to:
+  - fig:1
+  basis: He is sick, consults doctors, then leaves bed after a few days and speaks
+    to the doctor.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: consulted medical practitioners
+  assigned_to:
+  - fig:2
+  basis: They are consulted by the sick man and give opinions about his illness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: doctor who predicts death and is called an impostor
+  assigned_to:
+  - fig:3
+  basis: He predicts death within twenty-four hours; after the man recovers, the man
+    says he told otherworld authorities that this figure was no doctor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:4
+  label: departed dead in the reported other world
+  assigned_to:
+  - fig:4
+  basis: They are described as departed friends in the other world and as having drunk
+    water of oblivion.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: reported judicial authorities of the other world
+  assigned_to:
+  - fig:5
+  basis: They are said to prepare prosecutions and consider charging doctors.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: water of oblivion
+  literal_form: Water drunk by the departed in the other world, after which they forget
+    the troubles of life.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: the other world
+  literal_form: A realm invoked in conversation as the place of departed friends and
+    authorities.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: illness and medical opinions
+  summary: The man becomes ill, takes to bed, and consults several doctors; most say
+    he is not in immediate danger, but the last predicts imminent death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: recovery and meeting the doctor
+  summary: After a few days, the man leaves his bed and meets the doctor who had predicted
+    his death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: otherworld report and exposure of the impostor
+  summary: The doctor asks about the other world. The man replies that the departed
+    have drunk the water of oblivion and that authorities there planned to prosecute
+    doctors, but did not charge this doctor because he was an impostor.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: false healer exposed by failed death prediction
+  taxonomy_refs: []
+  basis: The final doctor predicts death within twenty-four hours, but the man recovers
+    and later identifies him as an impostor rather than a true doctor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage exposes the doctor through dialogue; it does not provide a
+    separate explicit moral in the supplied text.
+- id: motif:2
+  label: imagined report from the other world
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The doctor asks if the recovered man is fresh from the other world, and the
+    man gives a report about departed friends, water of oblivion, and authorities
+    there.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: No literal death or actual journey is narrated; the otherworld material
+    is presented as a conversational retort.
+- id: motif:3
+  label: oblivion water among the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The departed are said to have drunk water of oblivion and forgotten life’s
+    troubles.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not name a broader tradition or describe the otherworld
+    geography beyond this detail.
+comparison_claims:
+- id: claim:1
+  claim: 'The water of oblivion has the same function as an afterlife-forgetting pattern:
+    the dead drink it and forget the troubles of life.'
+  claim_level: same_function
+  target: afterlife-oblivion water pattern / afterlife_journey_map motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses the image inside a satirical fable dialogue and does
+    not state a literal afterlife journey or name a wider mythic tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4878-4899
+  quote_or_summary: 'Title: “THE QUACK DOCTOR.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: A sick man takes to bed and consults several doctors; all but
+    one say his life is not in immediate danger, though the illness may last.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: The last doctor tells him to prepare for the worst, says he has
+    not twenty-four hours to live, and says he can do nothing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence with short
+    quoted phrase.
+- id: ev:4
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: After a few days the man leaves bed and walks abroad, looking
+    “as pale as a ghost.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence with short
+    quoted phrase.
+- id: ev:5
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: The doctor who predicted his death asks if he is “fresh from the
+    other world” and asks about departed friends there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence with short
+    quoted phrase.
+- id: ev:6
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: The man says the departed are comfortable because they have drunk
+    “the water of oblivion” and forgotten life’s troubles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence with short
+    quoted phrase.
+- id: ev:7
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: The man says otherworld authorities were arranging to prosecute
+    doctors for stopping sick men from dying naturally and using their arts to keep
+    them alive.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4878-4899
+  quote_or_summary: The man says this doctor would have been charged too until he
+    assured them that he was no doctor but “a mere impostor.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized passage evidence with short
+    quoted phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative details are explicit. Motif and comparison assignments involving
+    the other world require review because the passage presents them as witty dialogue
+    rather than a literal journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4878-l4899
+  passage_sha256=1e6059361866cfee158b608bd0a026cf56feb154dc324b3c0f381b197c031fba
+

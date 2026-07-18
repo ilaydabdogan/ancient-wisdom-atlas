@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5926-l6019
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 5926-6019
+  start: '5926'
+  end: '6019'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Yamato Take is sent east by his father the King to subdue a rebellion.
+    The King gives him a royal spear. On the way, the Prince worships at Ise, where
+    his aunt, the Princess of Yamato and High Priestess, gives him the sword Murakumo
+    and a bag of flints. In Suruga, the governor feigns hospitality and lures him
+    into a deer hunt on a grassy plain, then sets the grass on fire around him. The
+    Prince uses the flints and sword to create a counter-fire and cut the grass. The
+    wind changes, saving him unharmed, while the governor is burned in the flames
+    he had set.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: News is brought that the Ainu, described in the passage as aborigines who
+    had been conquered and pushed northwards by the Japanese, had rebelled in the
+    Eastern provinces.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King decides to send an army east, and Prince Yamato Take offers to lead
+    it despite the King's reluctance to send him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before the expedition, the King gives the Prince the Eight-Arms-Length-Spear
+    of the Holly Tree and orders him to subjugate the Eastern Barbarians, as the Ainu
+    are called in the passage.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the spear was prized by warriors in those days in
+    a manner comparable to a modern regiment's standard or banner.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On his way east, the Prince visits the temples of Ise for worship and is greeted
+    by his aunt, the Princess of Yamato and High Priestess.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Princess of Yamato gives the Prince a sword and a bag of flints as a parting
+    gift, and she tells him to use the sword in his greatest need.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sword is identified as the sword of Murakumo, one of the three sacred
+    treasures and an insignia of the Imperial House of Japan.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The governor of Suruga welcomes and entertains the Prince, then proposes a
+    deer hunt; the passage later identifies this hospitality as feigned and the hunt
+    as a trap.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: During the hunt, the Prince is led to a broad grassy plain, where flames and
+    smoke appear in front of him and then on every side until he is surrounded by
+    fire.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Prince recognizes the deer hunt as a trick, remembers his aunt's gifts,
+    opens the flint-bag, sets fire to the nearby grass, and uses the sword of Murakumo
+    to cut grass on either side of him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The wind changes direction and blows the fiercest fire away from the Prince,
+    who escapes unharmed, while the governor is overtaken by the gale and burned in
+    the fire he had set.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Prince Yamato Take
+  description: A prince and warrior, son of the King, who offers to lead an army east,
+    receives royal and sacred gifts, and survives the fire trap.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: The King
+  description: The Prince's father, who loves him, reluctantly sends him on the eastern
+    expedition, and gives him the Eight-Arms-Length-Spear of the Holly Tree.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ainu rebels / Eastern Barbarians
+  description: A collective group described as rebelling in the Eastern provinces
+    and as the target of the Prince's expedition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Princess of Yamato / High Priestess
+  description: The Prince's aunt, associated with the temples of Ise, who gives him
+    the sword of Murakumo and a bag of flints.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Governor of Suruga
+  description: A local governor who receives the Prince with feigned hospitality,
+    proposes a deer hunt, sets a fire trap, and dies in the flames.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Prince's army / men
+  description: The men whom Prince Yamato Take leads east after leaving the capital.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: Expedition leader
+  assigned_to:
+  - fig:1
+  basis: The Prince offers to go, leaves the capital, and marches east at the head
+    of his men.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Fire-trap survivor
+  assigned_to:
+  - fig:1
+  basis: He is surrounded by fire but uses the flints and sword, after which the wind
+    changes and he escapes unharmed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Royal sender and gift-giver
+  assigned_to:
+  - fig:2
+  basis: The King decides to send an army and gives the Prince the royal spear before
+    departure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Rebel adversary group
+  assigned_to:
+  - fig:3
+  basis: The Ainu are described as having rebelled in the Eastern provinces and as
+    the people the Prince is ordered to subjugate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Sacred gift-giver
+  assigned_to:
+  - fig:4
+  basis: The Princess of Yamato, a High Priestess at Ise, presents the Prince with
+    the sword and flint-bag.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: Treacherous host and trap-setter
+  assigned_to:
+  - fig:5
+  basis: The governor feigns cordiality, proposes the hunt, and has laid a trap with
+    the desire to cause the Prince's death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:7
+  label: Warrior retinue
+  assigned_to:
+  - fig:6
+  basis: The Prince marches east with his army and is described as placing himself
+    at the head of his men.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Eight-Arms-Length-Spear of the Holly Tree
+  literal_form: Royal spear, probably with a handle made from holly wood, given by
+    the King to the Prince before war.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sword of Murakumo
+  literal_form: A sword given by the Princess of Yamato; identified as one of the
+    three sacred treasures and an insignia of the Imperial House of Japan.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: Flint-bag
+  literal_form: A beautiful bag made by the Princess of Yamato and filled with flints
+    for making fire.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: Encircling fire
+  literal_form: Flames and smoke spreading through the high grass and surrounding
+    the Prince on the plain.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: Temples of Ise
+  literal_form: Temples visited by the Prince for worship before continuing east;
+    the place where he receives gifts from his aunt the High Priestess.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Changing wind
+  literal_form: A wind that changes direction and rises to a gale, blowing the fire
+    away from the Prince and toward the governor.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal commission to the eastern expedition
+  summary: After news of rebellion in the Eastern provinces, the King reluctantly
+    accepts Prince Yamato Take's offer to lead the army and gives him the Eight-Arms-Length-Spear
+    of the Holly Tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Worship at Ise and sacred parting gifts
+  summary: The Prince visits Ise, meets his aunt the Princess of Yamato and High Priestess,
+    and receives the sword of Murakumo and a flint-bag for future need.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Deceptive hospitality in Suruga
+  summary: The governor of Suruga entertains the Prince, proposes a deer hunt, and
+    leads him to a grassy plain as part of a hidden plan to kill him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Fire trap, counter-fire, and reversal
+  summary: The Prince is surrounded by flames, recognizes the trick, uses the flints
+    and sword to act against the fire, and escapes when the wind changes; the governor
+    dies in the fire he set.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Heroic departure under royal command
+  taxonomy_refs:
+  - departure
+  basis: The King sends the Prince east to subdue rebellion; the Prince leaves the
+    capital and marches at the head of his men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames the departure as a military expedition rather than
+    a quest with fully elaborated ritual stages.
+- id: motif:2
+  label: Sacred exchange of protective weapons and tools
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The King gives the Prince a spear, and the Princess of Yamato gives him the
+    sacred sword and flint-bag before danger; these gifts later enable his survival.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The exchange is a gift-giving episode, not a negotiated bargain; the taxonomy
+    link is functional and should be reviewed.
+- id: motif:3
+  label: Imperial sacred treasure as royal legitimacy emblem
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The sword of Murakumo is explicitly identified as one of the three sacred
+    treasures comprising the insignia of the Imperial House of Japan.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the sword's imperial status but does not expand on
+    succession or enthronement.
+- id: motif:4
+  label: Encircling fire ordeal and escape through gifted implements
+  taxonomy_refs: []
+  basis: The Prince is surrounded by a deliberately set fire and survives by using
+    the flints and sword given by his aunt, followed by a change of wind.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the fire is localized
+    rather than cosmic or world-destroying.
+- id: motif:5
+  label: Treacherous host's trap rebounds on the trap-setter
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The governor feigns hospitality and creates a fire trap to kill the Prince,
+    but the wind turns the fire back and the governor dies in the flames he set.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The governor uses trickery, but the passage does not identify him as a
+    formal trickster figure; the taxonomy reference is provisional.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the ancient royal spear's value to warriors
+    with the value of a modern regiment's standard or banner.
+  claim_level: same_function
+  target: Military standard or banner as regimental emblem
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy made by the retelling, not evidence of
+    historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5926-5946
+  quote_or_summary: News of rebellion in the Eastern provinces prompts the King to
+    send an army; Prince Yamato Take offers to lead it, and the King reluctantly agrees
+    because no warrior is as strong or brave.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:2
+  type: summary
+  locator: lines 5947-5958
+  quote_or_summary: The King gives Yamato Take the Eight-Arms-Length-Spear of the
+    Holly Tree and orders him to subjugate the Eastern Barbarians; the passage compares
+    the spear's military value to a modern standard or banner.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:3
+  type: summary
+  locator: lines 5959-5969
+  quote_or_summary: The Prince receives the King's spear, leaves the capital, marches
+    east, and first visits the temples of Ise, where his aunt, the Princess of Yamato
+    and High Priestess, greets him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:4
+  type: summary
+  locator: lines 5970-5984
+  quote_or_summary: After hearing the Prince's account of his previous success, the
+    Princess of Yamato gives him a sword and a beautiful bag of flints; the sword
+    is identified as Murakumo, one of the three sacred treasures and an insignia of
+    the Imperial House of Japan.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:5
+  type: summary
+  locator: lines 5985-5993
+  quote_or_summary: Yamato Take reaches Suruga; the governor welcomes and feasts him,
+    then proposes a deer hunt, while the passage notes that the Prince is deceived
+    by the governor's feigned cordiality.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:6
+  type: summary
+  locator: lines 5994-6005
+  quote_or_summary: The governor leads the Prince to a high-grass plain; flames and
+    smoke appear in front, behind, left, and right, leaving the Prince surrounded
+    by fire.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:7
+  type: summary
+  locator: lines 6006-6015
+  quote_or_summary: The Prince calls the hunt a trick, remembers his aunt's gifts,
+    opens the flint-bag, sets nearby grass on fire, and uses the sword of Murakumo
+    to cut down grass on either side.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+- id: ev:8
+  type: summary
+  locator: lines 6016-6019
+  quote_or_summary: The wind changes direction and blows the fiercest fire away from
+    the Prince, who escapes without injury; the gale overtakes the governor, who burns
+    in the flames he had set to kill Yamato Take.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; Project Gutenberg text as described in supplied
+    metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level figures, objects, and sequence are explicit. Motif taxonomy
+    assignments involving departure, sacred exchange, royal legitimacy, and fire-trap
+    reversal are evidence-based but should be reviewed for atlas taxonomy fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Source labels such as "Eastern Barbarians" are recorded as passage terminology, not endorsed descriptions.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5926-l6019
+  passage_sha256=e6824d90ee0833b1db349257ec14f66877bcbb9ecb084fc52fdb80ea049c2370
+

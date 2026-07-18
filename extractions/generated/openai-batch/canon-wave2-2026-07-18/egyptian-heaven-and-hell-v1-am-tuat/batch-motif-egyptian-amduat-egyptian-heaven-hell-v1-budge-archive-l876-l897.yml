@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l876-l897
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: CHAPTER   I. / AAAAAA / BOOK    OF    AM-TUAT / BOOK    OF    AM-TUAT; lines
+    876-897
+  start: '876'
+  end: '897'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary description of an Am-Tuat scene names Net or Neith as goddess
+    of the North, Artet as a goat goddess, two hawk-headed gods named Tchatui and
+    Meti, and additional gods with partly legible names including Abenti and Sekhet
+    (?). It states that a horizontal line of hieroglyphic text above the scene explains
+    it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Net, or Neith, is identified as goddess of the North.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artet is identified as a goat goddess.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two hawk-headed gods are named Tchatui and Meti.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fragment refers to four following gods; the legible names include Abenti
+    and Sekhet (?).
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A horizontal line of hieroglyphic text is written above the scene and is said
+    to explain it.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Net, or Neith
+  description: Goddess of the North.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Artet
+  description: Goat goddess.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tchatui
+  description: One of two hawk-headed gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Meti
+  description: One of two hawk-headed gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abenti
+  description: One of the following gods named in the fragment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sekhet (?)
+  description: One of the following gods named in the fragment, with uncertain reading
+    marked in the text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: goddess of the North
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Net, or Neith, as goddess of the North.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: goat goddess
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls Artet a goat goddess.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hawk-headed god
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage states that the two hawk-headed gods are called Tchatui and Meti.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: god named in group
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage refers to four following gods and gives legible names including
+    Abenti and Sekhet (?).
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: goat form
+  literal_form: goat goddess
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hawk-headed form
+  literal_form: hawk-headed gods
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hieroglyphic explanatory text
+  literal_form: horizontal line of hieroglyphic text above the scene
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fragmentary Am-Tuat scene with named deities and explanatory text
+  summary: The scene includes named deities with regional or animal-form attributes,
+    and the passage notes that a hieroglyphic line above the scene explains it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Named divine figures in an annotated underworld scene
+  taxonomy_refs: []
+  basis: The passage presents a scene from the Book of Am-Tuat containing named divine
+    figures and an explanatory hieroglyphic caption above the scene.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage is fragmentary and does not provide enough narrative
+    action to assign a more specific motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 876-879
+  quote_or_summary: "“Net, or Neith, goddess of the North, and the goat goddess Artet”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 879-881
+  quote_or_summary: "“The two hawk-headed gods are called Tchatui ... and Meti”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 881-885
+  quote_or_summary: The passage refers to four following gods; the legible names in
+    the fragment include Abenti and Sekhet (?).
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 888-897
+  quote_or_summary: "“The explanation of this scene is given by the horizontal line
+    of hieroglyphic text written above it”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Entity extraction is limited by fragmentary OCR and partial names. Motif
+    assignment is cautious because the passage contains little narrative action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l876-l897
+  passage_sha256=9f98f1543284aa5b6e42ebee96a21e5b08af2b5828a7c72f69203bea7aa1b45a
+

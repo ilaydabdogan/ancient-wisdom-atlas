@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l4103-l4205
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UHLAKANYANA. / UHLAKANYANA. / IZINGANEKWANE. / UIILAKANYANA.; lines 4103-4205
+  start: '4103'
+  end: '4205'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The cannibal who owns the house returns and acknowledges that Uthlakanyana
+    has surpassed the man who had driven him away. Uthlakanyana declares himself greater
+    and says he will also take the cannibal in, and the cannibal accepts that he has
+    been surpassed. Later Uthlakanyana remembers that the iguana took his flute, travels
+    upriver, finds the iguana feeding and carrying the flute, climbs the iguana's
+    sunning tree, calls to it, and then descends toward the place where it is feeding.
+  language: English with Zulu source text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cannibal identified as the owner of the house returns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cannibal says he saw Uthlakanyana close the doorway and shut in a man
+    who had driven the cannibal from his kraal.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Uthlakanyana says he is now greater than the cannibal because the cannibal
+    was surpassed by his friend, while Uthlakanyana surpassed that friend.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cannibal agrees that it is evident he has been surpassed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Uthlakanyana says his flute was taken from him by the iguana a long time earlier.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Uthlakanyana sets out, reaches the place, and goes up the river.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The iguana is out feeding on dung and is carrying the flute.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Uthlakanyana climbs the tree where the iguana suns itself and calls to the
+    iguana.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The iguana asks who is calling and tells the caller to come to it, since it
+    has come to find food for itself.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Uthlakanyana says he is coming to the place where the iguana is feeding and
+    descends.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: A figure who closed a doorway on a man, claims to have surpassed that
+    man, declares himself greater than the cannibal, and later seeks the flute taken
+    by the iguana.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: the cannibal, owner of the house
+  description: The cannibal is described as the owner of the house; he returns, recognizes
+    Uthlakanyana's act, and accepts that he has been surpassed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the man/friend who drove the cannibal away
+  description: A man described by the cannibal as one who drove him away from his
+    kraal and by Uthlakanyana as the cannibal's friend who had surpassed the cannibal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the iguana
+  description: The iguana had taken Uthlakanyana's flute, feeds on dung, carries the
+    flute, and responds when called.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: surpasser of the cannibal's stronger associate
+  assigned_to:
+  - fig:1
+  basis: Uthlakanyana says the cannibal was surpassed by his friend and that Uthlakanyana
+    has surpassed that friend.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: house owner who submits after being surpassed
+  assigned_to:
+  - fig:2
+  basis: The cannibal is called the owner of the house and says it is evident he has
+    been surpassed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: former expeller of the house owner
+  assigned_to:
+  - fig:3
+  basis: The cannibal says this man drove him away from his kraal.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: seeker of a taken flute
+  assigned_to:
+  - fig:1
+  basis: Uthlakanyana remembers the flute taken by the iguana and travels upriver
+    to the iguana's place.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: animal possessor of the flute
+  assigned_to:
+  - fig:4
+  basis: The iguana is said to have taken the flute and is later carrying it while
+    feeding.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: house and doorway
+  literal_form: house doorway closed by Uthlakanyana
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: kraal
+  literal_form: kraal from which the cannibal was driven
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: flute or whistle
+  literal_form: Uthlakanyana's flute, also described in the heading as his whistle
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: river
+  literal_form: river along which Uthlakanyana goes upward
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: tree
+  literal_form: tree where the iguana suns itself and which Uthlakanyana climbs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: dung as iguana food
+  literal_form: dung on which the iguana feeds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: The house owner returns and submits
+  summary: The cannibal owner of the house returns, says he saw Uthlakanyana shut
+    in the man who had driven him from his kraal, and accepts Uthlakanyana's claim
+    to have surpassed both that man and the cannibal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Uthlakanyana sets out for the flute
+  summary: Uthlakanyana remembers that the iguana took his flute, leaves, reaches
+    the place, and goes up the river.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Calling the iguana from the tree
+  summary: The iguana is feeding on dung and carrying the flute. Uthlakanyana climbs
+    the iguana's sunning tree, calls to it, receives its reply, and descends toward
+    its feeding place.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: weaker figure surpasses dangerous house owner and gains acknowledgment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage presents Uthlakanyana as having surpassed the man who defeated
+    the cannibal, after which the cannibal acknowledges that he too has been surpassed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt states the outcome and submission but does not include the
+    earlier act in detail beyond the closing of the doorway.
+- id: motif:2
+  label: recovery quest for an animal-held instrument
+  taxonomy_refs: []
+  basis: Uthlakanyana recalls that the iguana took his flute and travels to the iguana's
+    feeding place, where the iguana is carrying the flute.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The provided excerpt ends as Uthlakanyana approaches; it does not narrate
+    the actual recovery within the visible passage text, though the heading says he
+    gets back his whistle.
+- id: motif:3
+  label: calling an animal from an elevated place
+  taxonomy_refs: []
+  basis: Uthlakanyana climbs the tree where the iguana suns itself and calls to the
+    iguana, prompting its reply.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The narrative function of the call is not fully resolved in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4103-4205, section heading and first English paragraph
+  quote_or_summary: The passage identifies the returning figure as the cannibal and
+    owner of the house.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4103-4205, first English paragraph
+  quote_or_summary: The cannibal says he saw Uthlakanyana close the doorway and shut
+    in the man who drove him away from his kraal.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt/summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4103-4205, first English paragraph
+  quote_or_summary: Uthlakanyana says he is greater than the cannibal because the
+    cannibal was surpassed by his friend, while Uthlakanyana surpassed that friend.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 4103-4205, first English paragraph
+  quote_or_summary: The cannibal replies that it is right, because it is evident that
+    he has been surpassed.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt/summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4103-4205, second section opening
+  quote_or_summary: Uthlakanyana says he is going away and that his flute was taken
+    from him long ago by the iguana.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4103-4205, second section
+  quote_or_summary: Uthlakanyana sets out, comes to the place, and goes up the river.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 4103-4205, second section
+  quote_or_summary: The iguana is out feeding on dung and is carrying the flute.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 4103-4205, second section
+  quote_or_summary: Uthlakanyana mounts the tree where the iguana suns itself and
+    calls out to the iguana.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 4103-4205, second section
+  quote_or_summary: The iguana asks who is calling and says the caller should come
+    to it, since it came to find food for itself.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 4103-4205, second section ending
+  quote_or_summary: Uthlakanyana says the iguana is right, says he is coming to the
+    place where it feeds, and descends.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:11
+  type: note
+  locator: footnote 37 within lines 4103-4205
+  quote_or_summary: The editor explains that 'to find' means to admit a person as
+    a dependent into the family and provide for that person.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the visible English translation. Motif labels
+    are cautious because the excerpt begins after an earlier trick involving the doorway
+    and ends before the flute recovery is narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cross-text comparison claims were added because the passage itself does not explicitly compare this episode with another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l4103-l4205
+  passage_sha256=eb1ca1350bbbfd170f7673d8505ec66fa45191263c87cb26d826e57602105494
+

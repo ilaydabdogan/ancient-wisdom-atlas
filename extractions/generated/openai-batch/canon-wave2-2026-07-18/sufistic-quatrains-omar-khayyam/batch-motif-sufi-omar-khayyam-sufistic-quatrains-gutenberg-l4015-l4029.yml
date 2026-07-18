@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4015-l4029
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXVII. / LXXX. / LXXXI. / LXXXIV.; lines 4015-4029
+  start: '4015'
+  end: '4029'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“My substance of the common Earth was ta'en / And to this Figure moulded”"
+  summary: An unnamed speaker says his substance was taken from common Earth and molded
+    into a figure, only to be broken or returned to shapeless Earth. A note says the
+    sentiment is traceable in C. 293, where a beautiful cup praised by wisdom is made
+    and shattered by the Potter of the World.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage section is labeled “LXXXIV.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed speaker, described as “one among them,” says his substance was
+    taken from the common Earth and molded into a Figure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the molded Figure may be broken or trampled back into shapeless
+    Earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A prose note states that the sentiment of the quatrain is traceable in C.
+    293.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cited parallel describes a cup that wisdom loudly acclaims and kisses
+    for its beauty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The cited parallel says the Potter of the World makes the sweet cup and then
+    shatters it on the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage ends with reference sigla including C. 293, L. 456, B. 452, B.
+    ii. 321, T. 194, W. 290, and V. 495.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: one among them
+  description: Unnamed speaker who speaks of his substance being taken from common
+    Earth and molded into a Figure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: wisdom
+  description: An acting abstraction in the parallel passage that acclaims the cup
+    and gives it kisses for beauty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Potter of the World
+  description: The maker in the parallel passage who makes the cup and then shatters
+    it upon the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: molded speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker says his substance was taken from common Earth and molded into
+    a Figure.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: praiser of beauty
+  assigned_to:
+  - fig:2
+  basis: Wisdom acclaims the cup and kisses it for its beauty in the cited parallel.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: maker and shatterer
+  assigned_to:
+  - fig:3
+  basis: The Potter of the World makes the cup and then shatters it on the ground.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Earth as source and return
+  literal_form: common Earth; shapeless Earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: molded Figure
+  literal_form: Figure molded from the speaker's substance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beautiful cup
+  literal_form: cup acclaimed by wisdom and made by the Potter of the World
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ground of shattering
+  literal_form: ground on which the cup is shattered
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Earth substance molded and returned
+  summary: An unnamed speaker reflects that his substance was taken from common Earth,
+    shaped into a Figure, and may be broken or trampled back into shapeless Earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Cup praised, made, and shattered
+  summary: In the cited parallel, wisdom praises a beautiful cup, while the Potter
+    of the World makes the cup and then shatters it on the ground.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: formed from earth and returned to shapeless earth
+  taxonomy_refs: []
+  basis: The speaker says his substance came from common Earth, was molded into a
+    Figure, and may be broken or trampled back to shapeless Earth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states formation and dissolution but does not explicitly describe
+    rebirth or afterlife.
+- id: motif:2
+  label: cosmic potter creates and shatters a beautiful vessel
+  taxonomy_refs: []
+  basis: The parallel passage describes the Potter of the World making a sweet cup
+    and then shattering it upon the ground.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The identification of the Potter as cosmic or divine is based only on
+    the title “Potter of the World”; no further theology is supplied in the passage.
+- id: motif:3
+  label: wisdom praising transient beauty
+  taxonomy_refs:
+  - wisdom
+  basis: The parallel says wisdom acclaims the cup and kisses it for beauty before
+    the cup is described as made and shattered.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions wisdom directly, but the broader symbolic function
+    of wisdom is not explained.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links LXXXIV with C. 293 as sharing a similar sentiment;
+    both the main quatrain and the cited parallel use a formed figure or vessel that
+    is ultimately broken, shattered, or returned to earth.
+  claim_level: same_motif
+  target: C. 293 within the cited Khayyam quatrain tradition
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by the passage's own note and excerpt,
+    but no broader textual context for C. 293 is provided.
+evidence:
+- id: ev:1
+  type: citation
+  locator: line 4015
+  quote_or_summary: 'Section heading: “LXXXIV.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 4017-4020
+  quote_or_summary: "“Said one among them--«Surely not in vain / My substance of the
+    common Earth was ta'en / And to this Figure moulded, to be broke, / Or trampled
+    back to shapeless Earth again.»”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: line 4022
+  quote_or_summary: "“The sentiment of this quatrain is traceable in C. 293.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 4024-4027
+  quote_or_summary: "“There is a cup which wisdom loud acclaims, / And for its beauty
+    gives it a hundred kisses on the brow, / Such a sweet cup, this Potter of the
+    World / Makes, and then shatters it upon the ground.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: citation
+  locator: line 4029
+  quote_or_summary: 'Reference list: C. 293, L. 456, B. 452, B. ii. 321, T. 194; W.
+    290, V. 495.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is brief and supplies only an editorial cross-reference for comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. No external identifications of Khayyam manuscripts or Sufi symbolism were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4015-l4029
+  passage_sha256=76d79cb3bb077dcd488d1ff4340c94a455a5f5fe74822ffb766b9ee933be0f1b
+

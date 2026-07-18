@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l13895-l13948
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  DOCTRINE  OF  SUBSTITUTION  195 / THE  SCAPEGOAT  197 / CHRONOLOGICAL  MATERIALS
+    / I.    BABYLONIAN; lines 13895-13948
+  start: '13895'
+  end: '13948'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an excerpt from Babylonian King List A. It notes broken-off
+    names in two columns, then lists kings by dynasty with preceding numbers and occasional
+    kinship notes such as brother or son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Babylonian chronological material and introduces
+    'The Babylonian King List A' with Column II and Column I.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Column II contains a note that about thirteen names are broken off.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Column I contains a note that eleven names are broken off and are to be supplied
+    from King List B.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage records an entry for eleven kings of the Dynasty of Babylon, followed
+    by a sequence of numbered royal names.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Several entries include kinship descriptions: Shushshi is called ''his brother
+    (?)'', while Agum and Ushshi are each called ''his son''.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the Babylon-dynasty sequence, the passage gives a total-like entry reading
+    '368 11 kings, Dynasty of Uru-' and then further numbered names.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some entries and headings are visibly incomplete or damaged, including the
+    truncated 'Dynasty of Uru-' and ellipses before A-du-me-tash.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Broken-off royal names
+  description: About thirteen names in Column II and eleven names in Column I are
+    indicated as missing or broken off.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dynasty of Babylon kings
+  description: A collective group of eleven kings; named entries in the passage include
+    lluma-ilu, Itti-ili-nibi, I )amki-ilishu, Ishkibal, Shushshi, Gulkishar, Peshgal-daramash,
+    A-a-lara-kalama, Akur-ul-anna, Melam-kurkura, and Ea-gamil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Shushshi
+  description: A king-list entry with the number 27 and the note 'his brother (?)'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Agum, the former
+  description: A king-list entry with the number 22 and the note 'his son'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Ushshi
+  description: A king-list entry with the number 8 and the note 'his son'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Dynasty of Uru- kings
+  description: A collective group of eleven kings under a truncated dynasty heading;
+    subsequent entries include Gandash, Agum, Bitiliashi, Ushshi, A-du-me-tash, and
+    Ur-zi-gur-mush.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: king-list ruler or ruler group
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The figures are named or grouped in entries of the Babylonian King List A.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: kinship-marked royal relative
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage attaches brother or son descriptions to these named entries.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: damaged or unnamed royal entry
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says groups of names are broken off.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Babylonian king-list excerpt
+  summary: A tabular chronological excerpt presents damaged and named royal entries,
+    arranged by columns and dynastic headings, with numbers and occasional kinship
+    notes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dynastic king-list sequence
+  taxonomy_refs: []
+  basis: The passage groups rulers under dynasty headings and presents them in a numbered
+    sequence.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a chronological/list pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: Kinship-marked royal succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage marks some royal entries by kinship terms such as brother and
+    son within a dynastic sequence.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not explicitly state a legitimation claim, divine sanction,
+    or narrative of succession; the taxonomy link is therefore only tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13895-13948; heading and column labels
+  quote_or_summary: '"I. BABYLONIAN"; "THE BABYLONIAN KING LIST A"; "Column II"; "Column
+    I".'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: quote
+  locator: lines 13895-13948; Column II note
+  quote_or_summary: '"[About 13 names broken off.]"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: quote
+  locator: lines 13895-13948; Column I broken-name note
+  quote_or_summary: '"[Eleven names broken off, to be supplied from King List B. See
+    below.]"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 13895-13948; Dynasty of Babylon entries
+  quote_or_summary: The list gives '11 kings, Dynasty of Babylon' and numbered entries
+    for lluma-ilu, Itti-ili-nibi, I )amki-ilishu, Ishkibal, Shushshi, Gulkishar, Peshgal-daramash,
+    A-a-lara-kalama, Akur-ul-anna, Melam-kurkura, and Ea-gamil.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: quote
+  locator: lines 13895-13948; kinship-marked entries
+  quote_or_summary: '"27 Shushshi, his brother (?)"; "22 Agum, the former, his son";
+    "8 Ushshi, his son".'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 13895-13948; entries after Ea-gamil
+  quote_or_summary: After Ea-gamil, the passage gives '368 11 kings, Dynasty of Uru-'
+    and then numbered or damaged entries including Gandash, Agum, Bitiliashi, Ushshi,
+    A-du-me-tash, and Ur-zi-gur-mush.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is damaged and partly tabular, with OCR-like irregularities in
+    names. Motif extraction is limited because the passage is chronological material,
+    not a mythic narrative. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbolic objects from the supplied symbol taxonomy are present in this excerpt. The extraction preserves unusual spellings as they appear in the provided passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l13895-l13948
+  passage_sha256=0ae37f4a7264ad97538a3d8e70306bd34685399468b18e12beba281a54910e47
+

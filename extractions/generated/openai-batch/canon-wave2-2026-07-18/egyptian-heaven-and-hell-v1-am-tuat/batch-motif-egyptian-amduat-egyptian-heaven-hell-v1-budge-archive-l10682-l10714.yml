@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l10682-l10714
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    BOOK    OF    AM-TUAT / THE    BOOK   OF   AM-TUAT / THE    TENTH    DIVISION
+    METET-QA-UTCHEBU    211 / I    I    I; lines 10682-10714
+  start: '10682'
+  end: '10714'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"This great god maketh his joimiey through this City ... in his boat"'
+  summary: A great god journeys through a city in his boat. Divine sailors convey
+    him. He takes his place in the city in the water, and the water-dwellers use their
+    weapons and spring into life at the sound of the sailors working in the boat.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A great god journeys through a city in his boat.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The sailors are identified as gods and convey the great god along.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The great god takes up his place in the city in the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Those who live in the water make use of weapons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those who live in the water spring into life at the sound of the sailors working
+    in the boat.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: this great god
+  description: A great god who journeys through the city in his boat and takes up
+    his place in the city in the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: sailors, who are the gods
+  description: Divine sailors in the boat who convey the great god; their working
+    sound is associated with the water-dwellers springing into life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: those who live in the water
+  description: Water-dwelling beings who use weapons and spring into life at the sound
+    of the divine sailors' working.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine voyager
+  assigned_to:
+  - fig:1
+  basis: The figure is described as making a journey through the city in his boat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine conveyers
+  assigned_to:
+  - fig:2
+  basis: The sailors are called gods and convey the great god along in the boat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: armed water-dwellers
+  assigned_to:
+  - fig:3
+  basis: The beings live in the water, use weapons, and spring into life in response
+    to the sailors' sound.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: boat
+  literal_form: the great god's boat; also referred to in the passage as the boat
+    of Ea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: the city in the water; the place where certain beings live
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: weapons
+  literal_form: weapons used by those who live in the water
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: city
+  literal_form: this City through which the great god journeys and in which he takes
+    his place
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Journey through the city by boat
+  summary: The great god travels through the city in his boat while divine sailors
+    convey him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Water-dwellers respond to the boat's sailors
+  summary: In the water-city setting, water-dwelling beings use weapons and spring
+    into life at the sound of the sailors working in the boat.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine journey through a watery city by boat
+  taxonomy_refs:
+  - afterlife_journey_map
+  - ark_vessel
+  basis: The passage describes a great god journeying through a city in his boat,
+    conveyed by divine sailors, within the Book of Am-Tuat context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names a city and boat journey, but the broader mapped afterlife
+    structure is supplied mainly by the source context rather than elaborated in this
+    short excerpt.
+- id: motif:2
+  label: beings springing into life at a divine sound
+  taxonomy_refs:
+  - resurrection
+  basis: Water-dwelling beings spring into life at the sound of the divine sailors
+    working in the boat.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The phrase 'spring into life' may describe activation or animation, not
+    necessarily resurrection from death.
+- id: motif:3
+  label: armed beings in the water encountered during divine passage
+  taxonomy_refs: []
+  basis: The passage places weapon-using water-dwellers in the watery city during
+    the great god's boat journey.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The function of the water-dwellers and their weapons is not explained
+    beyond their response to the sailors' sound.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10682-10714
+  quote_or_summary: A great god journeys through a city in his boat; divine sailors
+    convey him; he takes his place in the city in the water.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 10682-10714
+  quote_or_summary: '"This great god maketh his joimiey through this City ... in his
+    boat"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10682-10714
+  quote_or_summary: Those who live in the water use weapons and spring into life at
+    the sound of the sailors working in the boat of Ea.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative actions are clear, but the passage includes OCR artifacts
+    and bracketed editorial text. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no identification of the great god beyond the passage wording is inferred.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l10682-l10714
+  passage_sha256=0dea66ee803fdf7d3676c077d7a8fb32a836c862fac4fe389ecdbcd2620d61e3
+

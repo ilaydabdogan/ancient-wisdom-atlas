@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l16941-l17011
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: THE  MASNA  VL / MAHMUD  AND  AYAZ. / THE  MASNAVI. / MAHMUD  AND  AYAZ.;
+    lines 16941-17011
+  start: '16941'
+  end: '17011'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Of my own existence nothing but the name remains,
+  summary: 'A king refuses to pardon offenders directly and leaves their fate to Ayaz,
+    the offended party. The passage then presents a love dialogue described as genuine
+    union with God: the loved one asks whether the lover loves her or himself more,
+    and the lover replies that he is wholly absorbed in her, comparing this absorption
+    to vinegar in honey and a stone transformed into a ruby filled with sunlight.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The king says the offence was committed against Ayaz and leaves punishment
+    or pardon to Ayaz.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king says either mercy or punishment by Ayaz would be well and links retaliation
+    with security for life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king instructs Ayaz to pronounce sentence without delay because waiting
+    is punishment.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A loved one tests her lover by asking whether he holds her or himself more
+    dear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lover answers that he is entirely absorbed in the loved one and is full
+    of her from head to foot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The lover says only the name of his own existence remains and that nothing
+    besides the loved one is in his being.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lover compares his condition to vinegar absorbed in honey.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lover compares his condition to a stone changed into a pure ruby and filled
+    with the sun's bright light.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The lover says that in the transformed stone its own properties do not remain
+    and it is filled with the sun's properties.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The lover says that for the pure ruby there is no difference between holding
+    itself dear and holding the sun dear.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The lover says that until the stone becomes a ruby it hates itself because
+    it remains two separate 'I's rather than one 'I'.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: king
+  description: Ruler who is asked to pardon the offenders and who delegates the decision
+    to Ayaz.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ayaz
+  description: The offended party to whom the king leaves the decision of punishment
+    or pardon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: offenders
+  description: Those who ask the king to pardon their offence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: loved one
+  description: A beloved woman who tests her lover by asking whom he holds more dear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: lover
+  description: The speaker who says he is entirely absorbed in the loved one.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: God
+  description: Named in the passage heading as the object of genuine union described
+    by the following love dialogue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: royal adjudicator
+  assigned_to:
+  - fig:1
+  basis: The king refuses direct pardon, assigns judgment to Ayaz, and sets conditions
+    for prompt sentencing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: offended party and delegated judge
+  assigned_to:
+  - fig:2
+  basis: The offence is said to have been committed against Ayaz, and the decision
+    to punish or pardon is left to him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioners for pardon
+  assigned_to:
+  - fig:3
+  basis: They ask the king to pardon their offence.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: tester of love
+  assigned_to:
+  - fig:4
+  basis: The loved one asks the lover whether he holds her or himself more dear.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: absorbed lover
+  assigned_to:
+  - fig:5
+  basis: The lover states that he is absorbed in the loved one and that only the name
+    of his own existence remains.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine referent of union
+  assigned_to:
+  - fig:6
+  basis: The heading explicitly frames the passage as a description of genuine union
+    with God.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: vinegar absorbed in honey
+  literal_form: vinegar in honey
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: stone changed into ruby
+  literal_form: stone transformed into a pure ruby
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: sun-filled ruby
+  literal_form: ruby filled with the bright light and properties of the sun
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: light of dawn
+  literal_form: light of dawn
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: one I and two I's
+  literal_form: one 'I' contrasted with two separate 'I's
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ayaz receives judgment over his offenders
+  summary: The offenders ask for pardon; the king refuses to decide directly and leaves
+    punishment or pardon to Ayaz, while requiring a prompt sentence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beloved tests the lover
+  summary: The loved one asks the lover whether he loves her or himself more.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lover describes absorption and transformed selfhood
+  summary: The lover says that his own separate existence has nearly vanished in the
+    beloved and explains this through images of absorption, transformation into ruby,
+    sunlight, and the reduction of two selves into one.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: annihilation of separate self in union with the beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage is headed as union with God, and the lover states that his own
+    existence has only a name remaining, with nothing in his being besides the beloved.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage uses an earthly love dialogue and metaphorical speech to present
+    the union; the extraction does not add doctrinal terminology beyond the supplied
+    heading and text.
+- id: motif:2
+  label: divine beloved as total object of love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The loved one asks about the lover's preference, and the lover replies that
+    love of self and love of the beloved have become indistinguishable; the heading
+    frames this as union with God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The lover and loved one are presented as human figures in the immediate
+    dialogue; the divine referent comes from the passage heading.
+- id: motif:3
+  label: transformation by radiant absorption
+  taxonomy_refs:
+  - annihilation_union
+  basis: The lover compares union to a stone changed into a ruby filled with the sun's
+    light and properties, so that its former properties no longer remain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an internal metaphor within the passage rather than a separate
+    narrative event.
+- id: motif:4
+  label: judgment delegated to the offended party
+  taxonomy_refs:
+  - divine_judgment
+  basis: The king leaves the choice of punishment or pardon to Ayaz because the offence
+    was against Ayaz, while approving either mercy or punishment.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage presents a royal ethical episode, not an explicit divine judgment
+    scene; taxonomy alignment is tentative.
+comparison_claims:
+- id: claim:1
+  claim: The union dialogue can be cautiously compared to the annihilation_union motif
+    family because it explicitly describes loss of separate existence in the beloved
+    under a heading about union with God.
+  claim_level: same_motif
+  target: annihilation_union
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the supplied motif family label and the
+    passage's own theological framing; it does not establish historical contact or
+    broader doctrinal context.
+- id: claim:2
+  claim: The loved one functions as a divine-beloved pattern within the passage because
+    the human love exchange is framed as an account of union with God.
+  claim_level: same_function
+  target: divine_beloved
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The immediate narrative uses lover-beloved language; the divine interpretation
+    depends on the supplied heading.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16941-16952
+  quote_or_summary: Offenders ask the king for pardon; he refuses because the offence
+    was against Ayaz, leaves the decision to Ayaz, says mercy or punishment would
+    both be well, and urges prompt sentence because waiting is punishment.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 16955-16959
+  quote_or_summary: A loved one tests her lover early in the morning by asking whether
+    he holds her or himself more dear.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 16960-16965
+  quote_or_summary: The lover says he is entirely absorbed in the beloved, full of
+    her from head to foot, and that of his own existence only the name remains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; short excerpt summarized/partly quoted.
+- id: ev:4
+  type: summary
+  locator: 16966-16972
+  quote_or_summary: The lover likens his state to vinegar absorbed in honey and to
+    a stone changed into a pure ruby filled with the bright light of the sun.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 16973-16984
+  quote_or_summary: The lover says the transformed stone lacks its own former properties,
+    is filled with the sun's properties, and that loving itself or the sun is no different
+    because only dawn-like light remains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 16985-16989
+  quote_or_summary: The lover says the stone hates itself until it becomes a ruby,
+    because before becoming one 'I' it remains two separate 'I's.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: citation
+  locator: '16954'
+  quote_or_summary: 'Heading: a description of genuine union with God.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; citation/brief heading reference used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the love dialogue and metaphors. Motif alignment
+    is strongest for annihilation/union; divine-beloved interpretation depends on
+    the passage heading. The royal judgment episode is included but its taxonomy alignment
+    is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage text, metadata, and available taxonomy references were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l16941-l17011
+  passage_sha256=f7fb938cff6bfad6d2d63705bf0c2d0b403379f84d7018fcbb11ac4462e7e245
+

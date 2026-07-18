@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l15000-l15054
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER CXLI. / NOW MEN GO TO THE COURTS. / CHAPTER CXLII. / OF EYJOLF BOLVERK'S
+    SON.; lines 15000-15054
+  start: '15000'
+  end: '15054'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: '"I swear an oath on the book, a lawful oath, and say it before God"'
+  summary: 'Eyjolf Bolverk''s son appears before the court and advances a legal defence:
+    the suit was pleaded in the wrong Quarter Court because of Flosi''s Thingman status.
+    He repeatedly takes witness, swears a lawful oath on the book before God, presents
+    witnesses and procedural proof, protests before a priest against the judges giving
+    judgment, and calls on the judges to accept the defence. Other Burning suits then
+    proceed.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Eyjolf Bolverk's son goes before the court and begins by taking witness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eyjolf states that the suit was pleaded in the Eastfirthers' Court when it
+    ought to have been pleaded in the Northlanders' Court.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: Eyjolf says witnesses can testify that Flosi handed over his priesthood to
+    his brother Thorgeir and afterwards declared himself one of Askel the priest's
+    Thingmen.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Eyjolf bids Mord, or the next of kin, to listen to his oath and to the defence
+    he is about to bring forward before the judges.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eyjolf swears a lawful oath on the book before God and promises to defend
+    the cause truthfully, justly, and lawfully as far as he knows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eyjolf declares that the suit has come to naught because it was pleaded in
+    the wrong Quarter Court.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Witnesses belonging to the defence are brought forward, and Eyjolf takes witness
+    to the procedural steps of the defence.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Eyjolf forbids the judges, by lawful protest before a priest, to utter judgment
+    in the suit of Mord and his friends.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After Eyjolf calls on the judges to pronounce for the defence, Asgrim and
+    his friends bring on other suits for the Burning.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eyjolf Bolverk's son
+  description: The man who appears before the court, takes witness, swears the oath,
+    advances the lawful defence, and protests against judgment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Flosi
+  description: A person whose Thingman status is central to Eyjolf's defence; he is
+    said to have handed over his priesthood and declared himself one of Askel's Thingmen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Askel the priest
+  description: The priest whose Thingman Flosi is said to have become.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Thorgeir
+  description: Flosi's brother, to whom Flosi is said to have handed over his priesthood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mord
+  description: The person identified as pleading the suit and later named with his
+    friends in the suit against which Eyjolf protests.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:6
+  name_or_label: The judges
+  description: The judges before whom Eyjolf bids Mord listen, whom Eyjolf forbids
+    to utter judgment, and whom he calls on to pronounce for the defence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: The priest
+  description: The priest before whom Eyjolf says the lawful protest is made.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Asgrim and his friends
+  description: The group who bring on other suits for the Burning after Eyjolf's defence
+    proceedings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Witnesses
+  description: Witnesses are invoked to confirm Flosi's transfer of priesthood and
+    Thingman status, and witnesses belonging to the defence are brought forward.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:10
+  name_or_label: God
+  description: The divine presence before whom Eyjolf says his oath is sworn.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: legal defender and procedural speaker
+  assigned_to:
+  - fig:1
+  basis: Eyjolf advances the defence, takes witness, swears the oath, proves procedural
+    steps, and protests against judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: status-bearing party in jurisdictional argument
+  assigned_to:
+  - fig:2
+  basis: The proper court for the suit depends on Flosi's declared Thingman status
+    after transferring his priesthood.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: priestly affiliation holder
+  assigned_to:
+  - fig:3
+  basis: Flosi is said to have declared himself one of Askel the priest's Thingmen.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: recipient of transferred priesthood
+  assigned_to:
+  - fig:4
+  basis: Flosi is said to have handed over his priesthood to Thorgeir.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: pleader of the suit
+  assigned_to:
+  - fig:5
+  basis: Eyjolf addresses Mord as the one who pleads the suit and later names the
+    suit of Mord and his friends.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: court judges
+  assigned_to:
+  - fig:6
+  basis: The judges are to hear Eyjolf, are forbidden to utter judgment, and are called
+    on to pronounce for the defence.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:7
+  label: priest before whom protest is made
+  assigned_to:
+  - fig:7
+  basis: Eyjolf frames his prohibition as a lawful protest before the priest.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: subsequent litigants in Burning suits
+  assigned_to:
+  - fig:8
+  basis: Asgrim and his friends bring on other suits for the Burning after the defence
+    episode.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: legal witnesses
+  assigned_to:
+  - fig:9
+  basis: Witnesses are used to support the facts and procedure of the defence.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:10
+  label: invoked divine authority in oath
+  assigned_to:
+  - fig:10
+  basis: Eyjolf says the lawful oath on the book before God.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: oath book
+  literal_form: book used for swearing a lawful oath
+  associated_figures:
+  - fig:1
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Quarter Courts
+  literal_form: Eastfirthers' Court and Northlanders' Court
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: lawful protest before a priest
+  literal_form: formal protest made before a priest to forbid judgment
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Jurisdictional defence announced
+  summary: Eyjolf appears before the court and states that the suit was brought in
+    the wrong Quarter Court because of Flosi's Thingman affiliation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Oath and declaration before the judges
+  summary: Eyjolf requires Mord or the next of kin to hear his oath and then swears
+    on the book before God to defend the cause truthfully, justly, and lawfully.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Procedural proof and protest against judgment
+  summary: Eyjolf brings forward defence witnesses, confirms the procedural steps,
+    and forbids the judges by lawful protest before a priest to pronounce judgment
+    in Mord's suit.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Other Burning suits proceed
+  summary: After Eyjolf calls on the judges to pronounce for the defence, Asgrim and
+    his friends begin other suits for the Burning.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacralized legal oath
+  taxonomy_refs: []
+  basis: Eyjolf swears a lawful oath on the book and says it before God as part of
+    his defence.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a legal-procedural pattern rather than a mythic episode; no available
+    taxonomy reference is assigned.
+- id: motif:2
+  label: witnessed jurisdictional challenge
+  taxonomy_refs: []
+  basis: The defence rests on the claim that the suit was pleaded in the wrong Quarter
+    Court, supported by witnesses concerning Flosi's priesthood transfer and Thingman
+    status.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The motif label describes a legal pattern within the saga passage, not
+    a cross-cultural mythological motif.
+- id: motif:3
+  label: formal protest restraining judgment
+  taxonomy_refs: []
+  basis: Eyjolf forbids the judges to utter judgment by a lawful protest before a
+    priest, invoking common custom of the Althing and the law of the land.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage supports a procedural pattern only; no broader comparative
+    claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15004-15015 within supplied range 15000-15054
+  quote_or_summary: Eyjolf takes witness that the suit was pleaded in the Eastfirthers'
+    Court rather than the Northlanders' Court; he cites Flosi's transfer of priesthood
+    to Thorgeir and declaration as one of Askel the priest's Thingmen.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15016-15020 within supplied range 15000-15054
+  quote_or_summary: Eyjolf bids Mord, or the next of kin, to listen to his oath and
+    his declaration of defence before the court so the judges may hear.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 15022-15028 within supplied range 15000-15054
+  quote_or_summary: '"I swear an oath on the book, a lawful oath, and say it before
+    God"; Eyjolf adds that he will defend the cause truthfully, justly, and lawfully.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; short quotation from public-domain translation.
+- id: ev:4
+  type: summary
+  locator: lines 15029-15035 within supplied range 15000-15054
+  quote_or_summary: Eyjolf declares the lawful defence that the suit was pleaded in
+    the wrong Quarter Court and says the suit has therefore come to naught before
+    the Eastfirthers' Court.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 15037-15039 within supplied range 15000-15054
+  quote_or_summary: Witnesses belonging to the defence are brought forward, and Eyjolf
+    takes witness that the steps in the defence have been duly taken.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 15041-15049 within supplied range 15000-15054
+  quote_or_summary: Eyjolf takes witness that he forbids the judges, by lawful protest
+    before the priest and according to Althing custom and the law of the land, to
+    utter judgment in the suit of Mord and his friends.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 15050-15054 within supplied range 15000-15054
+  quote_or_summary: Eyjolf calls on the judges to pronounce for the defence; then
+    Asgrim and his friends bring on other suits for the Burning, which proceed.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Named figures and legal actions are explicit in the passage. Motif candidates
+    are procedural patterns with no assigned mythological taxonomy references. No
+    comparison claims are made because the passage itself does not support a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external saga context or taxonomy IDs were added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l15000-l15054
+  passage_sha256=7f2b56f6c95db5a0b81a80e718731bf8b08650a467cd6618cf7314a4e6d62e82
+

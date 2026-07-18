@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1622-l1644
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BEE AND JUPITER / THE OAK AND THE REEDS / THE BLIND MAN AND THE CUB /
+    THE BOY AND THE SNAILS; lines 1622-1644
+  start: '1622'
+  end: '1644'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Evil tendencies are early shown.
+  summary: In one fable, a blind man identifies animals by touch and, when given a
+    wolf cub, says he cannot be sure whether it is a wolf or fox cub but knows it
+    should not be trusted in a sheepfold. In another, a farmer's boy gathers snails,
+    makes a fire to roast them, and addresses them when they withdraw into their shells
+    with a hissing sound.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A blind man is described as having such a fine sense of touch that he can
+    identify animals by feeling them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cub of a wolf is put into the blind man's hands, and he is asked what
+    it is.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The blind man says he is not sure whether the animal is a wolf's cub or a
+    fox's cub.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The blind man says the animal would not do to trust in a sheepfold.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stated moral says that evil tendencies are shown early.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A farmer's boy goes looking for snails and picks up both hands full.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy makes a fire in order to roast and eat the snails.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the fire is well alight and the snails feel the heat, they withdraw into
+    their shells and make a hissing noise.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The boy addresses the snails and asks how they can whistle when their houses
+    are burning.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Blind Man
+  description: A blind man with a fine sense of touch who feels an animal and gives
+    a judgment about it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Wolf's Cub
+  description: A wolf cub placed in the blind man's hands; the blind man says he is
+    unsure whether it is a wolf's cub or a fox's cub, but warns against trusting it
+    in a sheepfold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Farmer's Boy
+  description: A boy who gathers snails, makes a fire to roast them, and speaks to
+    them as they withdraw into their shells.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Snails
+  description: Snails gathered by the boy; as they feel heat from the fire, they withdraw
+    into their shells with a hissing noise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: tactile identifier
+  assigned_to:
+  - fig:1
+  basis: The blind man can tell what animals are by the feel of them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cautionary judge
+  assigned_to:
+  - fig:1
+  basis: After feeling the cub, he warns that it should not be trusted in a sheepfold.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: young animal judged dangerous to sheep
+  assigned_to:
+  - fig:2
+  basis: The cub is identified as unsuitable to trust in a sheepfold.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: collector of snails
+  assigned_to:
+  - fig:3
+  basis: The boy goes looking for snails and picks up both hands full.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: maker of roasting fire
+  assigned_to:
+  - fig:3
+  basis: The boy makes a fire to roast and eat the snails.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: shelled animals exposed to heat
+  assigned_to:
+  - fig:4
+  basis: The snails feel the heat, withdraw into their shells, and make a hissing
+    noise.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sheepfold
+  literal_form: A sheepfold mentioned as the place where the cub should not be trusted.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: A fire made by the boy to roast the snails.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: snail shells as houses
+  literal_form: The snails' shells, called their houses in the boy's speech.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Blind man judges the cub
+  summary: A blind man feels a wolf cub, says he cannot tell whether it is a wolf
+    or fox cub, and warns that it should not be trusted in a sheepfold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Boy roasts snails
+  summary: A farmer's boy gathers snails, lights a fire to roast them, observes them
+    withdrawing into their shells with a hissing sound, and speaks to them about their
+    houses burning.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Early nature revealed by signs
+  taxonomy_refs:
+  - wisdom
+  basis: The blind man cannot name the cub with certainty but infers from its nature
+    that it should not be trusted in a sheepfold; the explicit moral says evil tendencies
+    are early shown.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable moral rather than a mythic episode; the taxonomy link
+    to wisdom is general.
+- id: motif:2
+  label: Perception without sight
+  taxonomy_refs:
+  - wisdom
+  basis: The blind man uses touch rather than sight to identify animals and form a
+    judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents practical discernment, not an explicit supernatural
+    or initiatory motif.
+- id: motif:3
+  label: Animals under fire misread by human observer
+  taxonomy_refs: []
+  basis: The boy interprets the snails' hissing withdrawal into their shells as whistling
+    while their houses burn.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No explicit moral is supplied in the provided passage for this fable;
+    the motif label is descriptive only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1622-1625
+  quote_or_summary: A blind man is said to have so fine a sense of touch that he can
+    identify animals by feeling them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1625-1629
+  quote_or_summary: '"I am not sure whether it is a Wolf''s Cub or a Fox''s: but this
+    I know--it would never do to trust it in a sheepfold."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: line 1631
+  quote_or_summary: '"Evil tendencies are early shown."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1635-1638
+  quote_or_summary: A farmer's boy gathers both hands full of snails and makes a fire
+    to roast and eat them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1638-1642
+  quote_or_summary: When the fire is well alight and the snails feel the heat, they
+    withdraw into their shells with their usual hissing noise.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1642-1644
+  quote_or_summary: '"You abandoned creatures, how can you find heart to whistle when
+    your houses are burning?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive and
+    tied to fable morals or narrative patterns; no comparison claims are made because
+    the passage itself does not support historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. The supplied locator label mentions additional fables, but the provided passage text contains only THE BLIND MAN AND THE CUB and THE BOY AND THE SNAILS.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1622-l1644
+  passage_sha256=8b86d80e5de509e25c7f05e14967c73216c3246a16336deaa8a7f1945c086fcb
+

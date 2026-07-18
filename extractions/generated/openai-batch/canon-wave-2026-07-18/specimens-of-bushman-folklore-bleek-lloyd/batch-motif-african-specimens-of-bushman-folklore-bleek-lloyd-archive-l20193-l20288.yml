@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l20193-l20288
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: HOW    TTO    IS    OBTAINED. / HOW    TTO    IS    OBTAINED.  379 / HOW    TTO    IS    OBTAINED.
+    / GUIDING    SIGNS.  381; lines 20193-20288
+  start: '20193'
+  end: '20288'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Bushman direction signs. When people travel away
+    after another man has not returned, they drag a foot along the ground and place
+    grass near the marks. The returning man sees the upright grass, recognizes further
+    grass markers, infers that the people have gone toward a water pool, and follows.
+    He climbs the hill by the water to look for huts, then sees white huts and smoke
+    rising from outside fires.
+  language: English with Xam transcription in part of the excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading states that the passage concerns signs made by Bushmen to show
+    the direction in which they have gone.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the group travels away, they push a foot along the ground and place grass
+    near the marks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note says there are four pieces of grass at intervals, set in the direction
+    of the place to which the people have gone.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The returning man comes back to the house, misses the people, looks around,
+    and notices upright grass.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The returning man says that the people must have travelled to the water pool
+    and goes toward the water while looking for them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man ascends the hill associated with the water and sits there to look
+    for huts.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He sees white huts in the distance and smoke rising from fires outside the
+    huts.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: departing Bushmen / the people
+  description: The people who travel away, make direction signs, and are later sought
+    near the water and huts.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: returning man
+  description: A man who had gone away, returns to the house, finds the people absent,
+    reads the grass signs, and searches for them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: makers of guiding signs
+  assigned_to:
+  - fig:1
+  basis: The passage says the Bushmen push a foot along the ground and place grass
+    near the marks when travelling away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sign-reader and seeker
+  assigned_to:
+  - fig:2
+  basis: The man notices the grass markers, infers the direction of travel, and goes
+    looking for the people.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: relocated camp group
+  assigned_to:
+  - fig:1
+  basis: The people are sought at the water, and their huts and fires are later seen
+    from the hill.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: foot-drag mark
+  literal_form: marks made by pushing a foot along the ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: upright grass direction markers
+  literal_form: pieces of grass placed near the marks and standing upright at intervals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: water pool
+  literal_form: the water pool toward which the man thinks the people have travelled
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water's hill
+  literal_form: a hill behind or near the water, used as a lookout point
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: white huts
+  literal_form: huts standing white in the distance
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: smoke of outside fires
+  literal_form: smoke rising from fires outside the huts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: departure with signs
+  summary: The departing people make marks by dragging a foot and set grass near those
+    marks to indicate the direction of travel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: return to empty house and reading of grass
+  summary: The returning man finds the people gone from the house, notices upright
+    grass, and observes additional grass markers farther away.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: search toward the water
+  summary: The man states that the people must have gone to the water pool and follows
+    in that direction while looking for them.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: lookout from the hill and sighting of camp
+  summary: The man climbs the hill by the water, looks for huts, and sees white huts
+    with smoke rising from outside fires.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: trail signs left by a departing group
+  taxonomy_refs:
+  - departure
+  basis: The people travel away and leave physical signs that indicate their direction
+    of movement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label 'departure' is broad; the passage describes
+    a practical sign practice rather than an explicitly mythic departure episode.
+- id: motif:2
+  label: grass markers guiding an absent person's return path
+  taxonomy_refs: []
+  basis: The returning man reads upright grass placed at intervals to determine where
+    the people have gone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this sign-marker pattern.
+- id: motif:3
+  label: settlement located by smoke and visible huts
+  taxonomy_refs: []
+  basis: After following the signs toward the water, the man uses a hill as a vantage
+    point and identifies the camp by white huts and smoke from fires.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a literal tracking and recognition pattern in the passage; no
+    broader comparative claim is made.
+- id: motif:4
+  label: water source as destination of a relocated camp
+  taxonomy_refs: []
+  basis: The man infers that the people have travelled to a water pool and goes there
+    to search for them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The water pool is a practical destination in the narrative; no sacred
+    or cosmological role is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 20193-20201; heading
+  quote_or_summary: The heading identifies the topic as signs made by Bushmen to show
+    the direction in which they have gone.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 20202-20216; notebook refs. 8374-8376
+  quote_or_summary: When travelling away, the people push a foot along the ground
+    and place grass near the marks; the returning man misses them at the house and
+    notices the upright grass.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 20232-20239; notes 8374'-8376'
+  quote_or_summary: Notes explain that the grass is stuck into bushes and that four
+    pieces of grass stand at intervals in the direction of the people's destination.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 20217-20223; notebook ref. 8377
+  quote_or_summary: The man says the people must have travelled to the water pool
+    and goes to the water while seeking them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 20224-20230; notebook refs. 8377-8378
+  quote_or_summary: He ascends the hill by the water, sits to look for huts, and sees
+    white huts in the distance.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 20230-20243; notebook ref. 8378 and notes 8377'-8378'
+  quote_or_summary: Smoke rises from the huts; notes state that the hill is behind
+    the water, all the fires smoke, and the fire is outside.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+- id: ev:7
+  type: note
+  locator: lines 20244-20288; Xam transcription and gloss notes
+  quote_or_summary: The latter part of the supplied excerpt includes Xam transcription
+    and brief gloss notes; no additional English narrative translation is extracted
+    beyond the literal elements already evidenced above.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek_lloyd.md
+  rights_note: Public domain source metadata supplied; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the English translation and notes in the supplied
+    passage. Candidate motifs are descriptive and practical rather than strongly mythological.
+    No cross-tradition comparison claim is made because the passage itself does not
+    support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied source path in request used hyphens in the filename; this record preserves the canonical repository-relative path supplied in the task fields except where normalized by the response field.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l20193-l20288
+  passage_sha256=09bfd2ad96c7ebec0a601550aea533082869c8e1f0df07a7b667451378d4ffea
+

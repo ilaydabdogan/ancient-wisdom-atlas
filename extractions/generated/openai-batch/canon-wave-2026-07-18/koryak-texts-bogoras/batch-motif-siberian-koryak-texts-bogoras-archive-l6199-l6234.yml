@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l6199-l6234
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: URSA  MAJOR. / PLEIADES. / CASSIOPEIA. / ORION.; lines 6199-6234
+  start: '6199'
+  end: '6234'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Koryak names and glosses for three constellations. The
+    Pleiades are glossed with terms meaning group of women, little sieve, sieve, wild
+    reindeer, and string. Cassiopeia is glossed with terms meaning wild reindeer,
+    group of women, small reindeer-buck, and wolf. Orion is glossed with terms meaning
+    crooked one, crooked star, and crosswise-bow carrier.
+  language: English with transcribed Koryak terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Pleiades entry includes glosses meaning group of women, little sieve,
+    sieve, wild reindeer, and string.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cassiopeia entry includes glosses meaning wild reindeer, group of women,
+    small reindeer-buck, and wolf.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Orion entry includes glosses meaning crooked one, crooked star, and crosswise-bow
+    carrier.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several constellation glosses identify a star group with human, animal, or
+    everyday-object labels rather than with a narrated action.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: group of women
+  description: A gloss used for the Pleiades and also for Cassiopeia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wild reindeer
+  description: A plural wild-reindeer gloss used for the Pleiades and Cassiopeia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: small reindeer-buck
+  description: A Cassiopeia gloss meaning small reindeer-buck.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wolf
+  description: A Cassiopeia gloss meaning wolf.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: crooked one
+  description: An Orion gloss repeated in variant forms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: crosswise-bow carrier
+  description: An Orion gloss meaning crosswise-bow carrier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: human constellation label
+  assigned_to:
+  - fig:1
+  basis: The figure is given as a gloss for constellation entries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: animal constellation label
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The figures are animal glosses attached to constellation entries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Orion figure label
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The figures are glosses listed under Orion.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Pleiades as group of women
+  literal_form: group of women
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Pleiades as sieve
+  literal_form: little sieve or sieve
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Pleiades as wild reindeer
+  literal_form: wild reindeer, plural
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Pleiades as string
+  literal_form: string
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Cassiopeia as wild reindeer
+  literal_form: wild reindeer, plural
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Cassiopeia as group of women
+  literal_form: group of women
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Cassiopeia as small reindeer-buck
+  literal_form: small reindeer-buck
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: Cassiopeia as wolf
+  literal_form: wolf
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:9
+  label: Orion as crooked figure or star
+  literal_form: crooked one; crooked star
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:10
+  label: Orion as bow carrier
+  literal_form: crosswise-bow carrier
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Pleiades naming list
+  summary: The passage lists several Koryak terms for the Pleiades with glosses including
+    women, sieves, wild reindeer, and string.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cassiopeia naming list
+  summary: The passage lists several Koryak terms for Cassiopeia with glosses including
+    wild reindeer, women, a small reindeer-buck, and a wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Orion naming list
+  summary: The passage lists several Koryak terms for Orion with glosses identifying
+    it as crooked, as a crooked star, and as a crosswise-bow carrier.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Constellation identified with human group, animals, and tools
+  taxonomy_refs: []
+  basis: The passage records constellation names whose glosses equate star groups
+    with women, reindeer, a wolf, sieves, a string, and a bow carrier.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a lexical naming list and gives no explanatory mythic narrative
+    or action.
+- id: motif:2
+  label: Reindeer and wolf as constellation labels
+  taxonomy_refs: []
+  basis: Cassiopeia includes wild reindeer, small reindeer-buck, and wolf glosses;
+    the Pleiades also includes a wild-reindeer gloss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The relation among the animals is not narrated in the supplied passage.
+- id: motif:3
+  label: Crooked Orion figure
+  taxonomy_refs: []
+  basis: The Orion entry repeatedly gives glosses meaning crooked one or crooked star.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the constellation label is provided; no story explains why Orion
+    is crooked.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6199-6214, PLEIADES
+  quote_or_summary: The Pleiades entry lists Koryak terms glossed as group of women,
+    little sieve, sieve, wild reindeer, sieve, and string.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6215-6223, CASSIOPEIA
+  quote_or_summary: The Cassiopeia entry lists Koryak terms glossed as wild reindeer,
+    group of women, small reindeer-buck, and wolf.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6224-6234, ORION
+  quote_or_summary: The Orion entry lists Koryak terms glossed as crooked one, crooked
+    star, crooked one, crosswise-bow carrier, and crooked one.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short lexical constellation list. Motif interpretation
+    is limited because no narrative explanation is included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs apply directly to the listed constellation objects or figures.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l6199-l6234
+  passage_sha256=1361c3214c99abcee4496bb9db9fc872c0428cb44329ebced4d617294ec27e9c
+

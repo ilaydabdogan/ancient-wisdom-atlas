@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l6432-l6514
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    BOOK   OF   AM-TUAT / O    I / THE    BOOK   OF   AM-TUAT / THE    BOOK    OF    AM-TUAT;
+    lines 6432-6514
+  start: '6432'
+  end: '6514'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage enumerates divine figures in the Book of Am-Tuat, including
+    a group of four gods described as seated without thrones. It then describes a
+    company of nine serpents, each belching fire from its mouth and armed with a knife;
+    only their heads and upper bodies are visible, and their names are listed. The
+    remainder contains the hieroglyphic/OCR text said to refer to the four gods and
+    nine serpents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt visibly names divine figures including Meni, Ann-ket, and Ukt;
+    nearby labels include Urt, Ann-ret, Meni, and Kai.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A set of four gods is described as being in a sitting position.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The four seated gods are described as having no throne to sit on.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage describes a company of nine serpents.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each serpent belches fire from its mouth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Each serpent is armed with a knife.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Only the heads and upper parts of the serpents' bodies are visible.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The serpents are given individual names in the text, including Ta-tiiexex,
+    Shu, Seb, Tem, Khepera, Asar, Heru, Apu, and Hetepiu, with spellings following
+    the supplied passage/OCR.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage is situated under a visible heading for the Sixth Division, named
+    Metchet-mu-nebt-tuat.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Four seated gods
+  description: A group described as four gods in a sitting position without thrones;
+    visible nearby names include Meni, Ann-ket, Ukt, Urt, Ann-ret, and Kai, though
+    the OCR/line context makes the exact membership uncertain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Company of nine serpents
+  description: Nine serpents whose heads and upper bodies are visible; each belches
+    fire from its mouth and is armed with a knife. The passage lists names for the
+    serpents.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: seated gods without thrones
+  assigned_to:
+  - fig:1
+  basis: The passage says each of the four gods is sitting, but has no throne on which
+    to sit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fire-emitting armed serpents
+  assigned_to:
+  - fig:2
+  basis: The serpents are described as belching fire from their mouths and being armed
+    with knives.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named serpent company
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the group as a company of nine serpents and lists
+    their names.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: A company of nine serpents, with only heads and upper bodies visible.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: Fire belched from the mouths of the serpents.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: knife
+  literal_form: A knife with which each serpent is armed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ninefold company
+  literal_form: A company of nine serpents.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Four gods seated without thrones
+  summary: Four gods are presented in a sitting position, but without thrones beneath
+    them.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nine fire-belching armed serpents
+  summary: A company of nine serpents is described; each emits fire from its mouth,
+    carries a knife, and is visible only in head and upper body.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Fire-emitting serpent company
+  taxonomy_refs:
+  - serpent
+  basis: The passage presents nine serpents as a named company, each belching fire
+    and armed with a knife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a static catalogue description rather than a narrative
+    episode of combat or transformation.
+- id: motif:2
+  label: Afterlife divisional catalogue of beings
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The supplied source and visible heading place the excerpt in the Book of
+    Am-Tuat's Sixth Division, where named gods and serpents are catalogued.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt itself does not narrate travel; the motif assignment relies
+    on the divisional Am-Tuat context and catalogue form.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6432-6444
+  quote_or_summary: The passage names gods including Meni, Ann-ket, and Ukt, with
+    nearby labels Urt, Ann-ret, Meni, and Kai, and states that each of four gods is
+    seated but has no throne.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6445-6452
+  quote_or_summary: A company of nine serpents is described; each belches fire from
+    its mouth and is armed with a knife, with only heads and upper bodies visible.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6452-6460
+  quote_or_summary: 'The passage lists names for the serpents: Ta-tiiexex, Shu, Seb,
+    Tem, Khepera, Asar, Heru, Apu, and Hetepiu, with spellings reflecting the supplied
+    OCR text.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: citation
+  locator: lines 6432-6514; visible page/section header
+  quote_or_summary: The source/passage context identifies the text as part of the
+    Book of Am-Tuat, and the visible header reads 'SIXTH DIVISION—METCHET-MU-NEBT-TUAT.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core attributes of the serpents are clear. Some deity names and group membership
+    are uncertain because the supplied passage contains OCR artifacts, broken layout,
+    and hieroglyphic transcription noise. No comparison claims were made because the
+    passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text, passage locator, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l6432-l6514
+  passage_sha256=e3dee6d4ad71d9bc9346cf0f24c5f07029ffcc7ba183e3850047838c56f4c332
+

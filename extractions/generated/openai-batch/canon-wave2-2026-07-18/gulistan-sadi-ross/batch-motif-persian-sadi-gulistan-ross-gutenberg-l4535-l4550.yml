@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4535-l4550
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: LXVII / LXXIV / LXXVI / LXXVII; lines 4535-4550
+  start: '4535'
+  end: '4550'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives didactic counsel that food and life are governed by
+    divine provision and destiny: seeking or not seeking daily bread makes no difference
+    to God''s provision, and even predators cannot kill unless destiny ordains it.
+    A further aphorism states that what is not designed cannot be reached, while what
+    is ordained can be attained anywhere. Alexander is cited as having reached chaos
+    after great toil but failing to drink the water of immortality.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses someone going in quest of food and tells them to sit
+    down so that they may have food to eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses someone whom death is seeking and tells them not to
+    go on because they cannot carry life along with them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that God of Majesty and Glory will provide daily bread
+    whether a person exerts themselves or not.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that a tiger or lion could not devour a person unless this
+    were ordained by destiny.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the hand cannot reach what was not designed, and can
+    attain what was ordained in any situation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Alexander reached chaos after toil but did not drink the
+    water of immortality.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: didactic speaker
+  description: An implied moralizing voice addressing human addressees with imperatives
+    and aphorisms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: human addressee
+  description: A generalized person described as seeking food and as unable to carry
+    life along when death seeks them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: God of Majesty and Glory
+  description: Named divine provider of daily bread.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tiger or lion
+  description: Predatory animals used in the example of possible devouring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Death
+  description: Death is described as being in quest of the human addressee.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Alexander
+  description: Alexander is named as one who reached chaos after toil but did not
+    drink the water of immortality.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: admonishing teacher
+  assigned_to:
+  - fig:1
+  basis: The voice directly addresses addressees and states moral aphorisms about
+    food, death, destiny, and attainment.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: mortal seeker
+  assigned_to:
+  - fig:2
+  basis: The human addressee is described as seeking food and as subject to death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: provider of sustenance
+  assigned_to:
+  - fig:3
+  basis: God is said to provide daily bread regardless of human exertion.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pursuer of mortal life
+  assigned_to:
+  - fig:5
+  basis: Death is described as being in quest of the addressed person.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: predator constrained by destiny
+  assigned_to:
+  - fig:4
+  basis: The tiger or lion cannot devour the person unless destiny ordains it.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: failed seeker of immortality water
+  assigned_to:
+  - fig:6
+  basis: Alexander reaches chaos after toil but does not drink the water of immortality.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: daily bread
+  literal_form: food / daily bread
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mouth of tiger or lion
+  literal_form: the mouth of a tiger or lion
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ordinance of destiny
+  literal_form: ordinance of destiny
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: chaos
+  literal_form: chaos reached by Alexander
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: water of immortality
+  literal_form: water of immortality
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Counsel on food and death
+  summary: The speaker tells the food-seeker to sit down and tells the one sought
+    by death not to continue, emphasizing that life cannot be carried away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Providence and destiny over sustenance and danger
+  summary: The passage says God provides daily bread regardless of exertion and that
+    even entering the mouth of a tiger or lion would not lead to being devoured unless
+    destiny ordained it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ordained attainment and Alexander's failed immortality quest
+  summary: The passage states that only what is ordained can be attained and illustrates
+    this with Alexander reaching chaos after toil but failing to drink the water of
+    immortality.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom teaching on providence and destiny
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents aphoristic instruction that divine provision and destiny
+    govern daily bread, danger, and attainment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is didactic rather than narrative
+    myth.
+- id: motif:2
+  label: death seeks the mortal
+  taxonomy_refs: []
+  basis: Death is personified as being in quest of the addressed person, who cannot
+    carry life along.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The personification is brief and appears within moral instruction rather
+    than a developed death-figure narrative.
+- id: motif:3
+  label: failed quest for immortality water beyond chaos
+  taxonomy_refs:
+  - mystical_quest
+  - chaos
+  basis: Alexander is said to have reached chaos after great toil but not to have
+    drunk the water of immortality.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a compressed allusion and does not narrate the
+    full journey.
+comparison_claims:
+- id: claim:1
+  claim: The Alexander allusion can be cautiously compared to a quest-for-immortality
+    pattern because it combines arduous travel, a boundary-like destination named
+    chaos, and failure to obtain immortality water.
+  claim_level: same_motif
+  target: quest-for-immortality pattern / mystical_quest motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself is an allusive aphorism and does not supply a full
+    comparative narrative or evidence of historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4535-4539; LXXVI
+  quote_or_summary: "“O you that are going in quest of food, sit down... And, O you
+    that death is in quest of, go not on...”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4540-4542; LXXVI
+  quote_or_summary: "“In search of thy daily bread... the God of Majesty and Glory
+    will equally provide it.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4542-4544; LXXVI
+  quote_or_summary: "“Wert thou to walk into the mouth of a tiger or lion, he could
+    not devour thee, unless by the ordinance of thy destiny.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4547-4549; LXXVII
+  quote_or_summary: "“Whatever was not designed, the hand cannot reach; and whatever
+    was ordained, it can attain in any situation.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4549-4550; LXXVII
+  quote_or_summary: "“Alexander got as far as chaos; but after all this toil he drank
+    not the water of immortality.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif classification is cautious because
+    the passage is aphoristic and highly compressed, especially in the Alexander allusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references limited to supplied available refs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4535-l4550
+  passage_sha256=fd48b1163b71110c7f419f09dcdc93a0276d26dd7bedbdd6f72858d6f6f5fe89
+

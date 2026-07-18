@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2455-l2478
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MICE AND THE WEASELS / THE PEACOCK AND JUNO / THE BEAR AND THE FOX /
+    THE ASS AND THE OLD PEASANT; lines 2455-2478
+  start: '2455'
+  end: '2478'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two fables are presented. In the first, a Bear boasts of refinement and
+    restraint, and a Fox rebukes him by wishing he would eat dead bodies rather than
+    living creatures; the stated moral concerns hypocrisy. In the second, an old Peasant
+    urges his Ass to flee from approaching armed men, but the Ass is indifferent after
+    learning that capture will not mean heavier loads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bear says he has generous feelings and is refined compared with other animals.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narration mentions a tradition that a Bear will never touch a dead body.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Fox hears the Bear and replies that, when hungry, the Bear should confine
+    himself to the dead and leave the living alone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fable states the moral that a hypocrite deceives no one but himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An old Peasant sits in a meadow watching his Ass graze nearby.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old Peasant sees armed men stealthily approaching.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old Peasant asks the Ass to flee with him quickly to avoid capture by
+    the enemy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Ass asks whether captors would make him carry heavier loads, and after
+    the master says no, the Ass says he would be no worse off if taken.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bear
+  description: Animal who boasts of generosity and refinement and is addressed by
+    the Fox.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Fox
+  description: Animal who hears the Bear and answers him with a rebuke about eating
+    the dead rather than the living.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: old Peasant
+  description: Human master watching his Ass in a meadow who sees armed men approaching
+    and urges flight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Ass
+  description: Grazing animal who is urged to flee but reasons that capture will not
+    make his loads heavier.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: armed men
+  description: Approaching armed men described by the Peasant as the enemy who may
+    capture him and the Ass.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: self-praising speaker
+  assigned_to:
+  - fig:1
+  basis: The Bear brags about generous feelings and refinement.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: moralized hypocrite
+  assigned_to:
+  - fig:1
+  basis: The Bear's claim is followed by the Fox's rebuke and the stated moral about
+    hypocrisy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: critical respondent
+  assigned_to:
+  - fig:2
+  basis: The Fox hears the Bear and replies by exposing the practical danger of the
+    Bear's appetite.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: master and would-be fugitive
+  assigned_to:
+  - fig:3
+  basis: The old Peasant watches the Ass and urges him to flee from approaching armed
+    men.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: burden-bearing pragmatic animal
+  assigned_to:
+  - fig:4
+  basis: The Ass frames capture in terms of whether he will have to carry heavier
+    loads.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: approaching captors or enemy
+  assigned_to:
+  - fig:5
+  basis: The armed men approach stealthily and are described as the enemy who may
+    capture the Peasant and Ass.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dead body
+  literal_form: dead body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: loads
+  literal_form: heavier loads carried by the Ass
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bear's boast and Fox's rebuke
+  summary: The Bear boasts of refinement and supposed restraint toward dead bodies;
+    the Fox answers that the Bear should leave living creatures alone when hungry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ass's response to threatened capture
+  summary: An old Peasant sees armed men approaching and urges his Ass to flee, but
+    the Ass decides capture is acceptable if his burdens will not become heavier.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hypocrisy exposed by practical appetite
+  taxonomy_refs:
+  - wisdom
+  basis: The Bear's boast of refinement is undercut by the Fox's wish that the Bear
+    would eat the dead rather than the living, followed by a moral about hypocrisy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage's explicit moral is hypocrisy
+    rather than a named comparative mythology motif.
+- id: motif:2
+  label: burden-bearer indifferent to change of masters
+  taxonomy_refs:
+  - wisdom
+  basis: The Ass judges possible capture by whether it will increase his loads, and
+    accepts capture when told it will not make him worse off.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives no explicit final moral for this fable in the provided
+    excerpt; the motif label summarizes the action rather than identifying a named
+    taxonomy type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2455-2460
+  quote_or_summary: The Bear brags about generous feelings and refinement; the narration
+    adds a tradition that a Bear will never touch a dead body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: 2460-2462
+  quote_or_summary: The Fox replies that when the Bear is hungry he should attend
+    to the dead and leave the living alone.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: quote
+  locator: '2463'
+  quote_or_summary: A hypocrite deceives no one but himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: 2465-2472
+  quote_or_summary: An old Peasant in a meadow watches his Ass, sees armed men approaching,
+    and urges the Ass to flee with him to avoid capture by the enemy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: 2472-2478
+  quote_or_summary: The Ass asks whether captors would make him carry heavier loads;
+    when the master says no, the Ass says he will not be worse off if taken.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. Motif candidates are broad wisdom-fable
+    patterns; no comparison claims were generated because the passage itself supplies
+    no comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label names additional fables, but the passage text provided for extraction contains only THE BEAR AND THE FOX and THE ASS AND THE OLD PEASANT.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2455-l2478
+  passage_sha256=92fc3ea27346c467433d288fda3fa8b77ce0e4333ccd2156d5dc510b2c6e2ae5
+

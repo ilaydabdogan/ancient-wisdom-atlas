@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3457-l3470
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BALD MAN AND THE FLY / THE ASS AND THE WOLF / THE MONKEY AND THE CAMEL
+    / THE SICK MAN AND THE DOCTOR; lines 3457-3470
+  start: '3457'
+  end: '3470'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"My dear friend, I''m dying of good signs."'
+  summary: A sick man reports sweating, shivering, and feverishness to his doctor.
+    Each time the doctor calls the symptom a good sign. When a friend later asks how
+    he is, the sick man replies that he is dying of good signs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A sick man receives a visit from his doctor, who asks how he is.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sick man reports sweating a great deal, and the doctor calls this a good
+    sign.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On a later visit, the sick man reports shivering fits that leave him cold
+    all over, and the doctor again calls this a good sign.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On a third visit, the sick man reports feeling very feverish, and the doctor
+    says this is a very good sign and that he is doing well.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A friend later visits the invalid and asks how he is.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sick man replies to his friend that he is dying of good signs.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sick Man
+  description: An ill patient who reports sweating, shivering, and feverishness, and
+    later says he is dying.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Doctor
+  description: A doctor who visits the sick man and repeatedly identifies the reported
+    symptoms as good signs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Friend
+  description: A friend who later visits the invalid and asks how he is.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: patient
+  assigned_to:
+  - fig:1
+  basis: The figure is called a Sick Man and is visited by a doctor who asks about
+    his health.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: medical visitor
+  assigned_to:
+  - fig:2
+  basis: The doctor visits the sick man and comments on his reported symptoms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ironic respondent
+  assigned_to:
+  - fig:1
+  basis: The sick man answers his friend by saying he is dying of good signs.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: concerned visitor
+  assigned_to:
+  - fig:3
+  basis: The friend comes to see the invalid and asks how he is.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Doctor's repeated visits and reassurances
+  summary: The doctor asks about the sick man's condition across three visits. The
+    patient reports sweating, shivering, and feverishness, and the doctor interprets
+    each as a good sign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Friend's visit and the sick man's reply
+  summary: A friend visits the invalid, asks how he is, and receives the reply that
+    the sick man is dying of good signs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: false reassurance from an authority figure
+  taxonomy_refs: []
+  basis: The doctor repeatedly describes worsening or serious symptoms as good signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no explicit moral or external motif classification.
+- id: motif:2
+  label: ironic reversal in final speech
+  taxonomy_refs: []
+  basis: The sick man turns the doctor's repeated phrase into the closing statement
+    that he is dying of good signs.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a narrative pattern observed within the passage, not a taxonomy-linked
+    motif.
+- id: motif:3
+  label: practical wisdom about signs and interpretation
+  taxonomy_refs:
+  - wisdom
+  basis: The contrast between the doctor's positive interpretations and the sick man's
+    final condition presents a cautionary pattern about interpreting signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage itself does not state an
+    explicit moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3457-3458
+  quote_or_summary: A sick man receives a visit from his doctor, who asks how he is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:2
+  type: quote
+  locator: 3458-3461
+  quote_or_summary: The sick man says he sweats a great deal; the doctor replies,
+    "that's a good sign."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: 3461-3464
+  quote_or_summary: On the next visit, the patient reports shivering fits that leave
+    him cold all over; the doctor calls this a good sign too.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:4
+  type: quote
+  locator: 3464-3467
+  quote_or_summary: The sick man says he feels feverish; the doctor replies, "A very
+    good sign" and says he is doing well.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: 3467-3469
+  quote_or_summary: Afterwards, a friend comes to see the invalid and asks how he
+    is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:6
+  type: quote
+  locator: 3469-3470
+  quote_or_summary: '"My dear friend, I''m dying of good signs."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal narrative is clear. Motif labels are descriptive and require
+    review, especially the broad wisdom taxonomy reference. No comparison claims were
+    made because the passage does not itself support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3457-l3470
+  passage_sha256=d426242568957c2cd0098abd4ed6533da6de11fbd6b2316e2ffca36008868f1a
+

@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l5892-l5934
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK EIGHTH / THE EMBASSAGE TO EVANDER / BOOK NINTH / THE SIEGE OF THE TROJAN
+    CAMP; lines 5892-5934
+  start: '5892'
+  end: '5934'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Nisus and Euryalus enter the enemy camp by night, find the enemy asleep
+    and drunk, kill numerous men, are likened to a hungry lion among sheep, and leave
+    after Euryalus takes costly spoils including Rhamnes' decorations and Messapus'
+    plumed helmet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The two raiders cross trenches and enter the enemy camp in the shadow of night.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The camp contains men lying in drunken sleep among chariots, wheels, armour,
+    and wine.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nisus tells Euryalus to watch behind them while Nisus makes a path through
+    the camp.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nisus kills Rhamnes while Rhamnes sleeps; the narrator identifies Rhamnes
+    as a king and Turnus' beloved augur, and says his augury could not avert his doom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nisus also kills men near Rhamnes and Remus' attendants, and the passage describes
+    severed necks and blood soaking the ground and cushions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage compares the slaughter to a hungry lion raging through a full
+    sheepfold.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Euryalus kills named and unnamed enemies; Rhoetus is awake, hides behind a
+    large bowl, and is stabbed as he rises.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rhoetus' death is described with blood mixed with wine.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Nisus sees Euryalus carried away by murderous desire and urges him to stop
+    because daylight is approaching and vengeance is full.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The raiders leave many costly objects behind, but Euryalus takes Rhamnes'
+    decorations, a gold-embossed sword-belt, and Messapus' light plumed helmet.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The sword-belt is described as a former friendship gift, later inherited,
+    and then captured by the Rutulians as war-spoil.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Nisus and Euryalus leave the camp and head toward safety.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nisus, son of Hyrtacus
+  description: Companion of Euryalus who crosses into the camp by night, instructs
+    Euryalus to keep watch, kills sleeping enemies, and later urges an end to the
+    killing because daylight is near.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Euryalus
+  description: Companion addressed by Nisus; he kills enemies during the night raid,
+    is described as carried away by murderous desire, takes prized arms and ornaments,
+    and leaves the camp with Nisus.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Rhamnes
+  description: A sleeping king and Turnus' beloved augur, killed by Nisus; his decorations
+    are later taken by Euryalus.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Sleeping enemy soldiers
+  description: Enemy men lying in drunken sleep around the camp with armour, wine,
+    and chariots; many are killed during the raid.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Remus and attendants
+  description: Remus' armour-bearer and charioteer, and Remus as their lord, are killed
+    in the night attack.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Named victims of Euryalus
+  description: Lamyrus, Lamus, Serranus, Fadus, Herbesus, Rhoetus, Abaris, and unnamed
+    others are said to fall before Euryalus; Rhoetus is awake and hiding behind a
+    bowl before he is stabbed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: night raider
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They cross the trenches at night, enter the enemy camp, kill enemies, and
+    depart.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:2
+  label: enemy victim
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures or groups are described as asleep, caught, stabbed, beheaded,
+    or otherwise killed in the camp.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: augur
+  assigned_to:
+  - fig:3
+  basis: Rhamnes is explicitly identified as King Turnus' beloved augur.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: spoil-taker
+  assigned_to:
+  - fig:2
+  basis: Euryalus takes Rhamnes' ornaments, a gold-embossed sword-belt, and Messapus'
+    plumed helmet.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: restraining companion
+  assigned_to:
+  - fig:1
+  basis: Nisus warns Euryalus to stop because daylight approaches and vengeance is
+    already sated.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: night shadow
+  literal_form: the shadow of night surrounding the camp entry
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: trenches and fatal camp
+  literal_form: trenches crossed by the raiders and the enemy camp they enter
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sword
+  literal_form: swords used to kill sleeping or hiding enemies
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: blood and wine
+  literal_form: dark gore soaking the ground and cushions; blood mixed with wine in
+    Rhoetus' death
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: hungry lion among sheep
+  literal_form: an unfed lion raging through a full sheepfold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: dying fires
+  literal_form: the last flicker of the camp fires going down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: captured ornaments and arms
+  literal_form: Rhamnes' decorations, a gold-embossed sword-belt, and Messapus' light
+    plumed helmet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: bowl used as cover
+  literal_form: a great bowl behind which Rhoetus hides before being stabbed
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Night entry into the enemy camp
+  summary: Nisus and Euryalus cross the trenches by night and find enemy soldiers
+    sleeping drunkenly among camp equipment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nisus opens a path with killings
+  summary: Nisus orders Euryalus to keep watch, kills the sleeping Rhamnes and others
+    nearby, and leaves blood behind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Euryalus' slaughter and the lion simile
+  summary: The narrative likens the violence to a hungry lion in a sheepfold as Euryalus
+    kills many enemies, including Rhoetus who had hidden behind a bowl.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Warning, spoil-taking, and departure
+  summary: Nisus warns Euryalus that daylight is near; Euryalus takes select ornaments
+    and arms, and the two leave the camp for safety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: stealthy night raid into an enemy camp
+  taxonomy_refs: []
+  basis: The raiders cross trenches under night, enter a sleeping camp, kill enemies,
+    and leave toward safety.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level action pattern; no specific external taxonomy
+    ID is assigned.
+- id: motif:2
+  label: slaughter of sleeping or intoxicated enemies
+  taxonomy_refs: []
+  basis: The enemies are described as lying in drunken sleep, unaware or vulnerable,
+    and many are killed by Nisus and Euryalus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The motif is descriptive and not marked as ritual or sacrificial in the
+    passage.
+- id: motif:3
+  label: warrior compared to a predator among helpless animals
+  taxonomy_refs: []
+  basis: The passage explicitly compares the slaughter to an unfed lion raging through
+    a sheepfold.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an internal epic simile, not evidence by itself for historical
+    borrowing.
+- id: motif:4
+  label: martial excess restrained by a companion
+  taxonomy_refs: []
+  basis: Nisus observes Euryalus carried away by murderous desire and tells him to
+    stop because daylight is approaching.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state Euryalus' later outcome within this excerpt.
+- id: motif:5
+  label: prestige arms and ornaments passing by gift, inheritance, capture, and plunder
+  taxonomy_refs: []
+  basis: The gold-embossed sword-belt is described as a friendship gift, then an inheritance,
+    then a Rutulian war-spoil, and finally is taken by Euryalus.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The object history is explicit, but broader symbolic significance requires
+    evidence beyond this excerpt.
+- id: motif:6
+  label: augury unable to avert death
+  taxonomy_refs: []
+  basis: Rhamnes is an augur, but the narrator states that not all his augury could
+    avert his doom.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe a specific omen or prophecy; it only states
+    the failure of augury to prevent death.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the raiders' slaughter through a visual comparison
+    with an unfed lion ravaging a sheepfold.
+  claim_level: visual_similarity
+  target: predator-in-sheepfold slaughter image
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile in the passage; it does not by itself demonstrate
+    historical contact, common inheritance, or a broader mythic taxonomy assignment.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5892-5897
+  quote_or_summary: Nisus and Euryalus cross the trenches by night and find bodies
+    strewn in drunken sleep among chariots, armour, and wine.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5897-5901
+  quote_or_summary: Nisus tells Euryalus that the opportunity invites daring, asks
+    him to watch behind them, and says he will make a broad path.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5901-5913
+  quote_or_summary: Nisus kills the sleeping Rhamnes, identified as a king and Turnus'
+    beloved augur, and kills nearby attendants; the passage describes beheading and
+    blood soaking the ground and cushions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 5913-5917
+  quote_or_summary: '"an unfed lion riots through full sheepfolds"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5917-5925
+  quote_or_summary: Euryalus kills an unnamed multitude and named victims including
+    Fadus, Herbesus, Rhoetus, and Abaris; Rhoetus hides behind a great bowl but is
+    stabbed and vomits blood mixed with wine.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 5925-5930
+  quote_or_summary: Near Messapus' comrades and the dying fires, Nisus sees Euryalus'
+    excessive murderous desire and says to stop because daylight is near and vengeance
+    is full.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 5930-5933
+  quote_or_summary: Euryalus leaves many valuables behind but takes Rhamnes' decorations,
+    a gold-embossed sword-belt with a history of gift, inheritance, and war-capture,
+    and Messapus' plumed helmet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 5933-5934
+  quote_or_summary: The raiders issue from the camp and make for safety.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. Motif labels are descriptive and
+    mostly not mapped to supplied taxonomy families because the excerpt does not clearly
+    support those controlled references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or invented taxonomy IDs were added; the only taxonomy symbol reference used is the supplied symbol ref "fire" for the camp fires.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l5892-l5934
+  passage_sha256=098c2330e74dc0b3063a4188f90aad08b54b6e069db17966b76bc9185f4cf8b5
+

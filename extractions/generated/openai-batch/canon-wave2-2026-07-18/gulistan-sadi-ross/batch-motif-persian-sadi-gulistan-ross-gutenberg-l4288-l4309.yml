@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4288-l4309
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIV / XXXVI / XXXVII / XXXVIII; lines 4288-4309
+  start: '4288'
+  end: '4309'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Patience accomplishes its object, while hurry speeds to its ruin
+  summary: Two didactic sections contrast patient progress with destructive haste,
+    and commend silence and measured speech over foolish or abusive speech. The passage
+    uses brief exempla of travelers in a desert and a fool attempting to teach an
+    ass to speak.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that patience accomplishes its object while hurry speeds
+    toward ruin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says he saw in the desert that a deliberate man outstripped
+    a person who had hurried on.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage contrasts a wing-footed steed broken down by speed with a camel-driver
+    who jogs on with his beast to the end of the journey.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that nothing is so good for an ignorant man as silence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage advises keeping watch over the tongue when speech lacks eloquence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says the tongue, by abuse, renders a man contemptible.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Levity in a nut is described as a sign that the nut is empty.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A fool devotes his time to instructing an ass.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A wise man tells the fool that a brute cannot learn speech from him and that
+    he should learn silence from the brute.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The passage concludes that one should either arrange speech with judgment
+    like a man or sit silent like a brute.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker who reports seeing an example in the desert.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: deliberate man
+  description: A man who proceeds deliberately and outstrips the one who hurried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hurried person
+  description: The person who had hurried on and is outstripped by the deliberate
+    man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: wing-footed steed
+  description: A swift horse that is broken down in its speed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: camel-driver
+  description: A driver who jogs on with his beast to the end of the journey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: camel-driver's beast
+  description: The beast accompanying the camel-driver to the end of the journey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: ignorant man
+  description: A generic ignorant man for whom silence is described as good.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: fool
+  description: A fool who undertakes the instruction of an ass.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: ass
+  description: The animal that the fool attempts to instruct; also called a brute
+    in the wise man's speech.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: wise man
+  description: A wise man who admonishes the fool about the vain attempt to teach
+    the ass.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: witness
+  assigned_to:
+  - fig:1
+  basis: The speaker says, with his own eyes, that he saw the desert example.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deliberate traveler
+  assigned_to:
+  - fig:2
+  basis: The figure is identified as deliberate and is said to outstrip the hurried
+    person.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hasty traveler
+  assigned_to:
+  - fig:3
+  basis: The figure is identified by having hurried on and being outstripped.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: over-swift mount brought down by speed
+  assigned_to:
+  - fig:4
+  basis: The steed is described as wing-footed but broken down in its speed.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: steady journeyer
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The camel-driver and beast continue jogging to the journey's end.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: one benefited by silence
+  assigned_to:
+  - fig:7
+  basis: The passage says silence is best for an ignorant man.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: foolish instructor
+  assigned_to:
+  - fig:8
+  basis: The fool undertakes to instruct an ass and devotes his time to it.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: silent brute
+  assigned_to:
+  - fig:9
+  basis: The ass is treated as a brute that cannot learn speech and from which silence
+    may be learned.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: wise admonisher
+  assigned_to:
+  - fig:10
+  basis: The wise man rebukes the fool's vain attempt and advises learning silence.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: desert journey
+  literal_form: a journey through the desert, including an end of the journey
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: broken swift steed
+  literal_form: wing-footed steed broken down in speed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: steady camel-driver and beast
+  literal_form: camel-driver jogging on with his beast to the end of the journey
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: tongue under watch
+  literal_form: the tongue in the mouth guarded when eloquence is lacking
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: empty nut
+  literal_form: a nut whose levity is a sign of emptiness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: ass as silent brute
+  literal_form: an ass or brute from whom the fool is told to learn silence
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Desert example of patience and haste
+  summary: The first-person speaker reports seeing in the desert that a deliberate
+    man surpassed a hurried person; the same section contrasts a swift steed broken
+    down by speed with a camel-driver and beast reaching the journey's end.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maxims on silence and the tongue
+  summary: The passage says silence is best for an ignorant man, warns that an uneloquent
+    person should watch the tongue, and says abusive speech makes a man contemptible.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fool instructing an ass
+  summary: A fool attempts to teach an ass; a wise man calls the attempt vain and
+    tells him that the animal cannot learn speech from him, while he should learn
+    silence from it.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Final rule for speech or silence
+  summary: The passage concludes by advising either judged, ordered speech or silence.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom through didactic exempla
+  taxonomy_refs:
+  - wisdom
+  basis: 'Both sections give moral maxims supported by brief concrete examples: patient
+    travel in the desert and the fool with the ass.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a didactic literary pattern rather than a mythological narrative
+    episode.
+- id: motif:2
+  label: Slow steadiness surpasses haste
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says patience succeeds while hurry ruins itself, then
+    illustrates this with the deliberate man, the hurried person, the broken swift
+    steed, and the camel-driver reaching the journey's end.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader comparative claim is made by the passage.
+- id: motif:3
+  label: Silence as wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says silence is best for an ignorant man, advises guarding the
+    tongue, and concludes that one should speak with judgment or sit silent.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The motif is ethical and proverbial, not tied to a specific mythic figure.
+- id: motif:4
+  label: Fool rebuked for trying to teach speech to an animal
+  taxonomy_refs:
+  - wisdom
+  basis: A fool tries to instruct an ass, and a wise man rebukes the effort by saying
+    the brute cannot learn speech and the fool should learn silence from it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The episode is brief and functions as an exemplum for silence; it should
+    not be expanded into an animal-tale cycle without outside evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4288-4295; section XXXVII
+  quote_or_summary: '"Patience accomplishes its object, while hurry speeds to its
+    ruin"; the speaker says he saw a deliberate man outstrip a hurried one in the
+    desert, and contrasts a broken swift steed with a camel-driver reaching the journey''s
+    end.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; short quotation and summary.
+- id: ev:2
+  type: quote
+  locator: lines 4297-4304; section XXXVIII
+  quote_or_summary: '"Nothing is so good for an ignorant man as silence"; the passage
+    advises guarding the tongue, says abusive speech makes a man contemptible, and
+    compares levity in a nut to emptiness.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; short quotation and summary.
+- id: ev:3
+  type: summary
+  locator: lines 4304-4308; section XXXVIII
+  quote_or_summary: A fool undertakes to instruct an ass; a wise man says the attempt
+    is vain, that a brute cannot learn speech from him, and that he should learn silence
+    from it.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary.
+- id: ev:4
+  type: quote
+  locator: lines 4308-4309; section XXXVIII
+  quote_or_summary: '"Either like a man arrange thy speech with judgment, or like
+    a brute sit silent."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are limited to the supplied
+    wisdom taxonomy and remain didactic/proverbial. No comparison claims are made
+    because the supplied passage does not itself establish cross-textual or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy item is directly present in the passage; symbol taxonomy references are therefore empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4288-l4309
+  passage_sha256=b34f2affc3cc372927e768a90ddc3653d67fc4310bfe73e3ec84b6943571936b
+

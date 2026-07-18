@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11572-l11581
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE SEVENTH. / EXPLANATION. / EXPLANATION.; lines 11572-11581
+  start: '11572'
+  end: '11581'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: changed into an eagle by Jupiter, while his wife was transformed into an
+    osprey
+  summary: Two explanatory footnotes identify Periphas as an ancient Attic king transformed
+    into an eagle by Jupiter, with his wife transformed into an osprey; and identify
+    Polypemon as Procrustes, slain by Theseus, while Halcyone, daughter of Scyron,
+    is thrown into the sea by her father and changed into a kingfisher.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Periphas is described as a very ancient king of Attica before the time of
+    Cecrops.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Periphas is said to have been changed into an eagle by Jupiter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wife of Periphas is said to have been transformed into an osprey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Polypemon is identified as a name of the robber Procrustes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Procrustes is said to have been slain by Theseus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Halcyone is described as the daughter of Scyron.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Halcyone is said to have been thrown into the sea by her father.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Halcyone is said to have been changed into a kingfisher, which bore her name.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Periphas
+  description: A very ancient king of Attica before Cecrops, said to have been changed
+    into an eagle by Jupiter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jupiter
+  description: Named as the agent by whom Periphas was changed into an eagle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Wife of Periphas
+  description: The wife of Periphas, said to have been transformed into an osprey.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Polypemon / Procrustes
+  description: Polypemon is given as a name of the robber Procrustes, who was slain
+    by Theseus.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Theseus
+  description: Named as the slayer of Procrustes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Halcyone
+  description: Daughter of Scyron, said to have been thrown into the sea by her father
+    and changed into a kingfisher.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Scyron
+  description: Father of Halcyone; his son is described as father of Halcyone in relation
+    to Procrustes, and he throws Halcyone into the sea.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ancient king of Attica
+  assigned_to:
+  - fig:1
+  basis: The note calls Periphas a very ancient king of Attica before Cecrops.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transformed human
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:6
+  basis: Periphas, his wife, and Halcyone are each described as changed or transformed
+    into birds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: agent of transformation
+  assigned_to:
+  - fig:2
+  basis: Periphas is said to have been changed into an eagle by Jupiter.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: transformed spouse
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the woman as Periphas's wife and says she was transformed
+    into an osprey.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: robber
+  assigned_to:
+  - fig:4
+  basis: Polypemon is identified as a name of the robber Procrustes.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: slain figure
+  assigned_to:
+  - fig:4
+  basis: Procrustes is said to have been slain by Theseus.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: slayer of Procrustes
+  assigned_to:
+  - fig:5
+  basis: The note states that Procrustes was slain by Theseus.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: daughter cast into sea and transformed
+  assigned_to:
+  - fig:6
+  basis: Halcyone is called Scyron's daughter, thrown into the sea by her father,
+    and changed into a kingfisher.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: father who casts daughter into sea
+  assigned_to:
+  - fig:7
+  basis: The note says Halcyone was thrown into the sea by her father.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: eagle
+  literal_form: eagle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: osprey
+  literal_form: osprey
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: kingfisher
+  literal_form: kingfisher
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Periphas and wife transformed into birds
+  summary: Periphas, an ancient king of Attica, is said to have been changed into
+    an eagle by Jupiter, while his wife is transformed into an osprey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Procrustes slain by Theseus
+  summary: Polypemon is identified as the robber Procrustes, who is said to have been
+    slain by Theseus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Halcyone cast into the sea and changed into a kingfisher
+  summary: Halcyone, daughter of Scyron, is said to have been thrown into the sea
+    by her father and changed into a kingfisher bearing her name.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: human-to-bird transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes Periphas becoming an eagle, his wife becoming an osprey,
+    and Halcyone becoming a kingfisher.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term is 'shapeshifter,' but the passage describes
+    transformation imposed on or happening to figures, not voluntary shape-shifting.
+- id: motif:2
+  label: child cast into sea and transformed
+  taxonomy_refs: []
+  basis: Halcyone is thrown into the sea by her father and changed into a kingfisher.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a compressed footnote account and does not elaborate
+    the cause or mechanics of the transformation.
+- id: motif:3
+  label: robber slain by named avenger or hero figure
+  taxonomy_refs: []
+  basis: The robber Procrustes is said to have been slain by Theseus.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage identifies the killing but does not provide a narrative scene
+    or explicitly assign a heroic function to Theseus.
+comparison_claims:
+- id: claim:1
+  claim: The Periphas note and the Halcyone note share a human-to-bird transformation
+    pattern within the same passage.
+  claim_level: same_motif
+  target: human-to-bird metamorphosis pattern
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers brief explanatory notes only; it does not state
+    that the episodes are connected historically or ritually.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11572-11575, Footnote 72
+  quote_or_summary: Periphas was “a very ancient king of Attica” and was “changed
+    into an eagle by Jupiter,” while his wife was “transformed into an osprey.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 11577-11579, Footnote 73
+  quote_or_summary: Polypemon is identified as “a name of the robber Procrustes,”
+    who “was slain by Theseus.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 11579-11581, Footnote 73
+  quote_or_summary: Halcyone, daughter of Scyron, was “thrown into the sea by her
+    father” and “changed into a kingfisher.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The figures and actions are explicit in the footnotes. Motif labels are cautious
+    because the passage is explanatory and compressed rather than a full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied line range and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l11572-l11581
+  passage_sha256=af71bd8bc039264f635bd8366fd095765a7450a19393328cf62ac2e2af3a553b
+

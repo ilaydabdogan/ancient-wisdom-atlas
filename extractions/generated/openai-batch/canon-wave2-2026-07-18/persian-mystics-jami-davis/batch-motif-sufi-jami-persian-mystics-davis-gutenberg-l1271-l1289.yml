@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1271-l1289
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE GOD BEHIND THE VEIL / THE DIVINE SELF-SUFFICIENCY / OUR NEED OF THE BELOVED
+    / THE HIDDEN TRUTH; lines 1271-1289
+  start: '1271'
+  end: '1289'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: 'The being of the world''s a wave: it lasts / One moment, and the next it
+    has to go.'
+  summary: The passage contrasts an unchanging ocean with transient waves, presents
+    the world as a momentary wave, describes insight discerning hidden Truth through
+    a turbulent stream, and criticizes philosophers who call the world an idea while
+    missing the great Idealist behind it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The ocean is described as neither shrinking nor growing larger while waves
+    ebb and flow.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The world's being is compared to a wave that lasts one moment and then passes
+    away.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men of insight may discern a stream with currents that swirl, surge, and churn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: From the force working within the stream, men of insight may learn the hidden
+    working of the Truth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Philosophers devoid of reason are said to find the world a mere idea of the
+    mind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the world is an idea, but criticizes the philosophers for
+    failing to see the great Idealist behind it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: men of insight
+  description: Human observers who may discern the stream and learn the hidden working
+    of the Truth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: philosophers devoid of reason
+  description: Philosophers who identify the world as a mere idea of the mind but
+    fail to see the great Idealist.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the Truth
+  description: A hidden reality whose working may be learned from the force within
+    the stream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the great Idealist
+  description: The one who looms behind the idea-world and is not seen by the criticized
+    philosophers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: insightful discerner
+  assigned_to:
+  - fig:1
+  basis: They discern the stream and learn from the force working within it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: limited philosopher
+  assigned_to:
+  - fig:2
+  basis: They call the world an idea of the mind but fail to see what looms behind
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hidden truth
+  assigned_to:
+  - fig:3
+  basis: The Truth is described as having a hidden working that may be learned.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hidden originator behind the world-idea
+  assigned_to:
+  - fig:4
+  basis: The great Idealist is said to loom behind the idea of the world.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: ocean
+  literal_form: ocean that does not shrink or grow despite moving waves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wave
+  literal_form: wave that lasts one moment and then goes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stream and currents
+  literal_form: stream with currents that swirl, surge, and churn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: world as idea
+  literal_form: the world described as a mere idea of the mind
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unchanging ocean and passing waves
+  summary: The passage presents the ocean as unchanged while waves ebb and flow, and
+    likens the world's being to a wave that quickly passes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Insight into the hidden Truth through a stream
+  summary: Men of insight discern a turbulent stream and learn the hidden working
+    of the Truth from the force within it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Philosophers miss the great Idealist
+  summary: Philosophers call the world an idea of the mind, but the passage says they
+    fail to see the great Idealist behind that idea.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: transient world compared to wave on unchanging ocean
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts an unchanging ocean with waves that ebb and flow, and
+    compares the world's being to a momentary wave.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage offers a metaphysical image, not a narrative episode.
+- id: motif:2
+  label: hidden Truth discerned by insight
+  taxonomy_refs:
+  - wisdom
+  basis: Men of insight learn the hidden working of the Truth from the force within
+    a turbulent stream.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The text does not describe a formal quest or initiation.
+- id: motif:3
+  label: hidden originator behind the world as idea
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage states that the world is an idea but criticizes those who fail
+    to see the great Idealist behind it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity of the great Idealist is not explicitly named within the
+    quoted passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1273-1276
+  quote_or_summary: "“The ocean does not shrink or vaster grow” while waves ebb and
+    flow; “The being of the world's a wave” that lasts one moment and then goes."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1278-1281
+  quote_or_summary: Men of insight discern a turbulent stream and learn the hidden
+    working of the Truth from the force within it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1285-1288
+  quote_or_summary: Philosophers without reason see the world as an idea of the mind,
+    but fail to see the great Idealist behind it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are interpretive because
+    the passage is aphoristic and symbolic rather than narrative. No comparison claims
+    were made because the passage itself does not explicitly compare traditions or
+    motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were limited to available provided refs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1271-l1289
+  passage_sha256=c1a4bd9952715a5cf7f34ed052ac026df54e54244d3223ff13966071f6f31bc6
+

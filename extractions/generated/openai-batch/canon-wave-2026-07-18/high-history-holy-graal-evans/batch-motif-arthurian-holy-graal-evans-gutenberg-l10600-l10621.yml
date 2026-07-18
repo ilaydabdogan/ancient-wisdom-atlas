@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l10600-l10621
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXII. / XXIII. / XXIV. / XXVI.; lines 10600-10621
+  start: '10600'
+  end: '10621'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Perceval, armed on horseback, is blessed by hermits and commended to God
+    before attacking knights guarding bridges. He defeats the three knights at the
+    first bridge and throws them into the river. At the second bridge, Joseus asks
+    whether helping him would be sinful; the hermits say it would be a work of mercy
+    to destroy the enemies of Our Lord. Joseus helps by hurling one opponent into
+    the river, and Perceval kills the other two and throws them into the river as
+    well.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Perceval is armed on his horse before approaching the bridge guards.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hermits make the sign of the cross over Perceval, bless him, and commend
+    him to God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Three knights guard the first bridge and attack Perceval at once, breaking
+    their spears on his shield.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Perceval knocks one knight and his horse into the wide, deep, swift river
+    beneath the bridge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Perceval defeats the remaining two first-bridge knights with sword-play, cuts
+    them down, and throws their bodies into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Knights from the second bridge come forward and fight Perceval in hard bouts
+    and attacks.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Joseus, identified as the son of Perceval's uncle, wants to help him but fears
+    it may be sinful.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The other hermits tell Joseus not to heed that fear, saying it would be a
+    great work of mercy to destroy the enemies of Our Lord.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Joseus removes his grey cape, prepares himself in his frock, lifts one opponent
+    onto his neck, and throws him fully armed into the river.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Perceval kills the other two second-bridge opponents and hurls them into the
+    river in the same manner.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: An armed horseman who is blessed by hermits and fights the bridge-guarding
+    knights.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Hermits
+  description: Religious figures who bless Perceval, make the sign of the cross over
+    him, commend him to God, and advise Joseus that helping Perceval is not sinful.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Three knights guarding the first bridge
+  description: Three knights who guard the first bridge, attack Perceval together,
+    and are defeated and thrown into the river or water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Knights of the second bridge
+  description: Knights who come from the second bridge and fight Perceval; one is
+    thrown into the river by Joseus and two are killed by Perceval.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Joseus
+  description: Perceval's uncle's son, who asks whether aiding Perceval would be sinful
+    and then helps by throwing an armed opponent into the river.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: blessed combatant
+  assigned_to:
+  - fig:1
+  basis: Perceval receives the sign of the cross, blessing, and commendation to God
+    before entering battle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious blessers
+  assigned_to:
+  - fig:2
+  basis: The hermits bless Perceval and commend him to God.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bridge guardians and opponents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The knights guard the first bridge or come from the second bridge and fight
+    Perceval.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: kinsman-helper in combat
+  assigned_to:
+  - fig:5
+  basis: Joseus is named as Perceval's uncle's son and assists him after consulting
+    the hermits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: moral authorizers of violence
+  assigned_to:
+  - fig:2
+  basis: The hermits tell Joseus that helping Perceval would be a work of mercy because
+    the opponents are enemies of Our Lord.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sign of the cross
+  literal_form: gesture made over Perceval by the hermits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bridge
+  literal_form: first bridge and second bridge guarded or approached by knights
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: river beneath the bridge
+  literal_form: wide, deep, swift river under the bridge into which defeated knights
+    are thrown
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: horse and arms
+  literal_form: Perceval armed on his horse; a defeated knight and his horse fall
+    into the river; Joseus throws an opponent into the river fully armed
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Blessing before combat
+  summary: Perceval is armed on horseback, and hermits make the sign of the cross
+    over him, bless him, and commend him to God before he advances toward the bridge
+    guards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Combat at the first bridge
+  summary: Three knights guarding the first bridge attack Perceval. He knocks one
+    knight and horse into the river, then defeats the other two and throws their bodies
+    into the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Joseus seeks moral permission to help
+  summary: As knights from the second bridge fight Perceval, Joseus says he would
+    gladly help but fears sin; the hermits tell him it would be a merciful act to
+    destroy the enemies of Our Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Combat at the second bridge
+  summary: Joseus casts off his grey cape, prepares himself, lifts one opponent and
+    throws him armed into the river; Perceval kills the other two and hurls them into
+    the river likewise.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: blessed warrior enters battle against guarded threshold
+  taxonomy_refs:
+  - mystical_quest
+  basis: Perceval is ritually blessed and commended to God before confronting armed
+    knights who guard bridges, a threshold-like setting within the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The broader quest context is supplied by the source title and tradition,
+    but this passage itself only shows blessing, combat, and bridge guardians.
+- id: motif:2
+  label: bridge guardians defeated and cast into water
+  taxonomy_refs: []
+  basis: Knights guard bridges, fight the hero, and are repeatedly thrown into the
+    river or water after defeat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level action pattern rather than a mapped taxonomy motif.
+- id: motif:3
+  label: religious sanction for violent aid
+  taxonomy_refs: []
+  basis: Joseus hesitates because helping may be sinful, and the hermits authorize
+    the act as a work of mercy against enemies of Our Lord.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the hermits' judgment but does not provide wider theological
+    explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10600-10603
+  quote_or_summary: Perceval is armed on horseback; hermits make the sign of the cross
+    over him, bless him, and commend him to God before he advances toward the three
+    knights guarding the first bridge.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10603-10608
+  quote_or_summary: The three first-bridge knights attack together and break their
+    spears on Perceval's shield; Perceval strikes one so that knight and horse fall
+    into the wide, deep, swift river beneath the bridge.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10608-10610
+  quote_or_summary: Perceval defeats the other two first-bridge knights in sword-play,
+    cuts them down, and throws their bodies into the water.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10610-10616
+  quote_or_summary: Knights from the second bridge come to fight; Joseus, Perceval's
+    uncle's son, wants to help but fears sin, and the hermits tell him it would be
+    a work of mercy to destroy the enemies of Our Lord.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10616-10621
+  quote_or_summary: Joseus removes his grey cape, prepares himself in his frock, lifts
+    one opponent onto his neck, and throws him fully armed into the river; Perceval
+    kills the other two and throws them into the river likewise.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and figures are explicit in the passage. Motif labels are
+    passage-level candidates and should be reviewed, especially the connection to
+    the broader mystical quest taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond the local motif candidates.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l10600-l10621
+  passage_sha256=70c5da792b04c858de6b8bbd954d0391dcef2b2fe924cd32be5cdfc9629f08c8
+

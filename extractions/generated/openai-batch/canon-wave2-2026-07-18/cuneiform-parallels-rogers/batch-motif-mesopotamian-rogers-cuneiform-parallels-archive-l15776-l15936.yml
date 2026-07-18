@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l15776-l15936
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: ASSYRIAN  EPONYM  LIST  223 / ASSYRIAN  EPONYM  LIST  225 / EPONYM  LIST  WITH  NOTES  227
+    / EPONYM  LIST  WITH  NOTES  229; lines 15776-15936
+  start: '15776'
+  end: '15936'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A segment of an Assyrian eponym list gives entries for years 816-790.
+    Each entry names an eponym, often with a city, land, or office, and commonly records
+    a campaign destination introduced by “Against.” Two brief notes stand out: in
+    the entry for 815, the great god went to Der, and in the entry for 803, a plague
+    is noted after a campaign toward the sea coast.'
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as a numbered sequence of yearly entries from 816
+    through 790.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Most entries name an eponym and then record a destination or target with the
+    formula “Against” a named land or city.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The entry for 815 names Bel-balat, records action against the city of Der,
+    and adds that the great god went to Der.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The entry for 810 identifies Adad-nirari as King of Assyria and records action
+    against Media.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Nergal-malik is identified as commander-in-chief in entries associated with
+    action against Kaldu and Guzana.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The entry for 803 records action toward the sea coast and adds the note “A
+    plague.”
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Several entries in the passage record action against Media.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The city of Der appears as a target in multiple entries, including 815, 796,
+    and 795.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:9
+  text: The passage presents English entries followed by corresponding transliterated
+    cuneiform text.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Listed eponyms and officials
+  description: The passage names individual eponyms for years 816-790, often with
+    an associated city, land, or office.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bel-balat
+  description: An eponym in the entry for 815, associated with action against Der
+    and the note that the great god went to Der.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Great god
+  description: An unnamed deity described as going to Der in the entry for 815.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Adad-nirari
+  description: Identified in entry 810 as King of Assyria; the entry records action
+    against Media.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Nergal-malik
+  description: Identified as commander-in-chief in entries 813 and 809.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: eponym or annual official
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The list assigns yearly entries to named persons, frequently followed by
+    origin, office, or campaign notice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: king of Assyria
+  assigned_to:
+  - fig:4
+  basis: Entry 810 explicitly identifies Adad-nirari as King of Assyria.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: commander-in-chief
+  assigned_to:
+  - fig:5
+  basis: Entries for Nergal-malik identify him as commander-in-chief.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: deity moving to a city
+  assigned_to:
+  - fig:3
+  basis: Entry 815 states that the great god went to Der.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Yearly eponym entries with campaign destinations
+  summary: The passage lists annual entries from 816 to 790, naming eponyms and regularly
+    recording action against cities or lands.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Der notice with divine movement
+  summary: In the entry for 815, Bel-balat is named, action against Der is recorded,
+    and the great god is said to have gone to Der.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sea-coast entry with plague note
+  summary: The entry for 803 records action toward the sea coast and adds a brief
+    plague notice.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Repeated Media entries
+  summary: Multiple named eponyms have entries recording action against Media.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Annual campaign notice against named lands or cities
+  taxonomy_refs: []
+  basis: The repeated list formula names an eponym and records action “Against” a
+    specific land or city.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an administrative-historical pattern rather than a mythological
+    narrative motif.
+- id: motif:2
+  label: Deity goes to a city
+  taxonomy_refs: []
+  basis: The entry for 815 states that the great god went to Der.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The deity is unnamed, and the passage gives no narrative purpose, ritual
+    context, or symbolic explanation.
+- id: motif:3
+  label: Plague noted in a year entry
+  taxonomy_refs: []
+  basis: The entry for 803 adds the brief note “A plague” after recording action toward
+    the sea coast.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not attribute the plague to divine action or explain
+    its cause.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15776-15936, entries 816-790
+  quote_or_summary: The passage lists yearly eponyms from 816 to 790, commonly naming
+    a person and recording action against a land or city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 15776-15936, entry 815
+  quote_or_summary: "“Bel-balat ... Against the city of Der. The great god went to
+    Der.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 15776-15936, entries 810, 801, 800, 794, 793, 790
+  quote_or_summary: Several entries in this passage record action against Media.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 15776-15936, entry 803
+  quote_or_summary: "“Against the sea coast. A plague.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 15776-15936, entry 810
+  quote_or_summary: "“Adad-nirari, King of Assyria. Against Media.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 15776-15936, entries 813 and 809
+  quote_or_summary: Nergal-malik is listed as commander-in-chief in entries recording
+    action against Kaldu and against Guzana.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15776-15936, entries 796 and 795
+  quote_or_summary: Entries 796 and 795 record action against the city of Der by Marduk-shadua
+    and Ukin-abua respectively.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: lines 15776-15936
+  quote_or_summary: The passage includes English translations followed by corresponding
+    transliterated entries.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The administrative sequence and literal details are clear. Motif candidates
+    are limited because the passage is an eponym list, not a mythological narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol was assigned because the passage does not clearly support one.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l15776-l15936
+  passage_sha256=0c81b6a647257c0abe94b36ed89c4e4c98096f12cda1454600edfc3f3fb7097d
+

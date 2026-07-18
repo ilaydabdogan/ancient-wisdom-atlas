@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5114-l5258
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: STANZA / STANZA / STANZAS WHICH APPEAR IN THE SECOND EDITION ONLY / QUATRAINS
+    OF OMAR KHAYYAM; lines 5114-5258
+  start: '5114'
+  end: '5258'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a comparative table of stanza numbering across four editions
+    associated with FitzGerald, followed by a note on FitzGerald's liberties with
+    the original, including an added first stanza, two lines from Attar, and Professor
+    Cowell's comment that a snake-related line lacks an original and may derive from
+    a mistaken rendering of a Nicolas quatrain addressed to God for repentance and
+    acceptance of excuses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a comparative table aligning stanza numbers in the first,
+    second, third, and fourth editions of FitzGerald.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that FitzGerald took great liberties with the original in
+    his version of Omar Khayyam.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that the first stanza is entirely FitzGerald's own.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that stanza XXXI of the fourth edition, numbered XXXVI in
+    the second edition, includes two lines from Attar.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Professor Cowell is quoted as saying there is no original for the line about
+    the snake.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Professor Cowell says the last line may be FitzGerald's mistaken version of
+    Quatrain 236 in Nicolas's edition.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The quoted quatrain addresses God as one who knows the secrets of minds, grasps
+    hands in weakness, gives repentance, and accepts excuses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Professor Cowell says he wrote to FitzGerald about the issue, but FitzGerald
+    did not alter it.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: FitzGerald
+  description: Named as the maker of the version of Omar Khayyam and as responsible
+    for liberties, an added first stanza, introduced lines from Attar, and a disputed
+    snake-related line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Omar Khayyam
+  description: Named in the title and in the phrase describing FitzGerald's version
+    of Omar Khayyam.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Attar
+  description: Named as the source from whom two lines were introduced into one stanza.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Professor Cowell
+  description: Quoted as a commentator on the absence of an original for a snake-related
+    line and on FitzGerald's possible mistaken rendering.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Nicolas
+  description: Named as the editor whose edition contains Quatrain 236, cited by Cowell
+    as a possible source for FitzGerald's mistaken version.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: God
+  description: Addressed in the quoted quatrain as knowing secrets, grasping hands
+    in weakness, giving repentance, and accepting excuses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: speaker of the quoted quatrain
+  description: An unnamed speaker who addresses God and asks for repentance and acceptance
+    of excuses.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: translator-adapter under discussion
+  assigned_to:
+  - fig:1
+  basis: The note attributes liberties in the version of Omar Khayyam, an added first
+    stanza, introduced lines from Attar, and a disputed rendering to FitzGerald.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named source poet or title figure
+  assigned_to:
+  - fig:2
+  basis: The section is titled as quatrains of Omar Khayyam, and the note refers to
+    FitzGerald's version of Omar Khayyam.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: intertextual source
+  assigned_to:
+  - fig:3
+  basis: The note says two lines from Attar were introduced into a FitzGerald stanza.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: textual commentator
+  assigned_to:
+  - fig:4
+  basis: Cowell is quoted explaining the absence of an original for the snake line
+    and proposing a source in Nicolas's edition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: edition source
+  assigned_to:
+  - fig:5
+  basis: Nicolas's edition is named as containing Quatrain 236, which Cowell identifies
+    as a possible source for FitzGerald's mistaken version.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine addressee and helper
+  assigned_to:
+  - fig:6
+  basis: The quoted quatrain addresses God as knowing secrets, grasping hands in weakness,
+    giving repentance, and accepting excuses.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: supplicant speaker
+  assigned_to:
+  - fig:7
+  basis: The speaker asks God to give repentance and accept excuses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snake line
+  literal_form: snake
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hand in weakness
+  literal_form: hand grasped in the hour of weakness
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: secrets of every mind
+  literal_form: secrets of every one's mind
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: comparative edition table
+  summary: A table aligns stanza numbers across the first, second, third, and fourth
+    editions of FitzGerald.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: editorial note on FitzGerald's liberties
+  summary: The note states that FitzGerald took liberties with the original, made
+    the first stanza his own, and inserted two lines from Attar into a later stanza.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cowell's source comment on the snake line
+  summary: Professor Cowell says the snake-related line lacks an original and may
+    be FitzGerald's mistaken version of a quatrain in Nicolas's edition.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: quoted prayer for repentance
+  summary: An unnamed speaker addresses God, describes divine knowledge and aid in
+    weakness, and asks for repentance and acceptance of excuses.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine knowledge of hidden minds
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted quatrain addresses God as one who knows the secrets of every mind.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this within a quoted quatrain used for textual comparison,
+    not as a developed narrative episode.
+- id: motif:2
+  label: divine aid and repentance
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker asks God to give repentance and accept excuses, and describes
+    God as grasping hands in weakness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not depict an explicit judgment scene; the taxonomy link
+    is based on divine repentance and acceptance of excuses.
+- id: motif:3
+  label: disputed snake image
+  taxonomy_refs:
+  - serpent
+  basis: The note refers to a 'line about the snake' and says Cowell found no original
+    for it.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not quote the snake line itself and explicitly presents
+    it as textually unsupported or mistaken.
+comparison_claims:
+- id: claim:1
+  claim: 'The note explicitly reports an intertextual insertion: two lines in a FitzGerald
+    stanza are said to come from Attar.'
+  claim_level: historical_contact
+  target: Attar as a nearby Persian/Sufi literary source for a FitzGerald stanza
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not quote the two Attar lines or identify their motif
+    content.
+- id: claim:2
+  claim: Cowell compares FitzGerald's disputed snake-related last line with Quatrain
+    236 in Nicolas's edition and explains it as a mistaken version.
+  claim_level: linguistic_similarity
+  target: Nicolas's edition, Quatrain 236
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The comparison is text-critical rather than a confirmed motif parallel;
+    Cowell also says there is no original for the snake line itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5114-5258, comparative table section
+  quote_or_summary: A table headed as a comparative table of stanzas in four editions
+    of FitzGerald aligns stanza numbers across edition columns.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5114-5258, NOTE opening paragraph
+  quote_or_summary: The note says FitzGerald took liberties with the original, that
+    the first stanza is entirely his own, and that one stanza includes two lines from
+    Attar.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5114-5258, NOTE, Professor Cowell quotation
+  quote_or_summary: Cowell says there is 'no original for the line about the snake'
+    and that the last line may be FitzGerald's mistaken version of Quatrain 236 in
+    Nicolas's edition.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 5114-5258, indented quatrain quoted from Nicolas's Quatrain 236
+  quote_or_summary: The quatrain addresses God as knowing the secrets of every mind
+    and grasping every hand in weakness; it asks God to give repentance and accept
+    excuses.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5114-5258, closing sentence of Cowell quotation
+  quote_or_summary: Cowell says he wrote to FitzGerald about the issue while in Calcutta,
+    but FitzGerald did not alter the line.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward because the passage is mostly editorial
+    note and table. Motif candidates are limited because the only symbolic or devotional
+    material appears inside a cited quatrain and a disputed reference to a snake line.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No additional motifs or comparisons were inferred beyond the table, note, quoted quatrain, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l5114-l5258
+  passage_sha256=3154da625ab8f68642d957d00159815b02a834c5411a3d3a9a4e177b4250b5fd
+

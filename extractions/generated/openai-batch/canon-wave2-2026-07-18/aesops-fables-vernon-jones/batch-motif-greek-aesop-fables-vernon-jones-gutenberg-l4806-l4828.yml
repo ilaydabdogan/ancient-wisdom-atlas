@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4806-l4828
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOWLER, THE PARTRIDGE, AND THE COCK / THE GNAT AND THE LION / THE FARMER
+    AND HIS DOGS / THE EAGLE AND THE FOX; lines 4806-4828
+  start: '4806'
+  end: '4828'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: False faith may escape human punishment, but cannot escape the divine.
+  summary: An Eagle and a Fox become close neighbors. After the Eagle takes the Fox's
+    cubs to feed her young, the Fox curses her. The Eagle later carries burning sacrificial
+    flesh to her nest; wind sets the nest on fire, her fledglings fall, and the Fox
+    devours them. The moral states that false faith cannot escape divine punishment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Eagle and the Fox become friends and choose to live near one another.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Eagle builds a nest at the top of a high tree, while the Fox settles in
+    a thicket at the foot of the tree and has cubs.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While the Fox is out foraging, the Eagle takes the Fox's cubs from the thicket
+    and carries them into the tree as food for herself and her family.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Fox returns, cannot reach the Eagle to punish her, and sits nearby cursing
+    her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Villagers are sacrificing a goat on a neighboring altar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Eagle carries a piece of burning flesh to her nest, and a strong wind
+    causes the nest to catch fire.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The Eagle's fledglings fall half-roasted to the ground, and the Fox devours
+    them in the Eagle's sight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The closing moral states that false faith may escape human punishment but
+    not the divine.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: A bird who befriends the Fox, nests high in a tree, takes the Fox's
+    cubs to feed her own family, later carries burning sacrificial flesh to her nest,
+    and witnesses the loss of her fledglings.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Fox
+  description: An animal who befriends the Eagle, lives in a thicket at the foot of
+    the Eagle's tree, loses her cubs to the Eagle, curses the Eagle, and later devours
+    the Eagle's fallen fledglings.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Fox's cubs
+  description: The Fox's litter, taken from the thicket by the Eagle and carried into
+    the tree as food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Eagle's fledglings
+  description: The Eagle's young in the nest; after the nest catches fire, they fall
+    to the ground and are eaten by the Fox.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Villagers
+  description: People sacrificing a goat on a neighboring altar when the Eagle carries
+    off burning flesh.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: friend-neighbor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Eagle and Fox become great friends and decide to live near one another.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parent and food-provider
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Fox has cubs and goes foraging; the Eagle wants food for her young.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: treacherous taker of cubs
+  assigned_to:
+  - fig:1
+  basis: The Eagle takes the Fox's cubs despite the friendship, and the Fox regards
+    the act as treachery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wronged curser and avenger
+  assigned_to:
+  - fig:2
+  basis: The Fox curses the Eagle after losing her cubs and later devours the Eagle's
+    fallen fledglings.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: offspring-victim
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Fox's cubs are taken for a meal, and the Eagle's fledglings fall from
+    the burning nest and are eaten.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: sacrificing villagers
+  assigned_to:
+  - fig:5
+  basis: The villagers are described as sacrificing a goat on a neighboring altar.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: High tree
+  literal_form: The high tree with the Eagle's nest at the top and the Fox's thicket
+    at the foot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Fire
+  literal_form: A piece of burning flesh and the fire that catches the Eagle's nest.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Altar sacrifice
+  literal_form: A goat being sacrificed on a neighboring altar, from which burning
+    flesh is carried off.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Nest
+  literal_form: The Eagle's nest at the top of the tree, later burned by wind-fed
+    fire.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Neighboring homes of friends
+  summary: The Eagle and the Fox become friends and settle near each other, with the
+    Eagle in a high tree and the Fox in a thicket at its foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle takes the Fox's cubs
+  summary: While the Fox is away foraging, the Eagle takes the Fox's cubs and carries
+    them to the tree as food for herself and her family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox curses the unreachable Eagle
+  summary: The Fox returns, is furious at the loss of her cubs, cannot reach the Eagle,
+    and curses her from nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sacrificial fire and revenge
+  summary: Villagers sacrifice a goat; the Eagle carries burning flesh to her nest;
+    wind sets the nest on fire; the fledglings fall and the Fox eats them in the Eagle's
+    sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Closing moral
+  summary: The fable concludes that false faith may evade human punishment but cannot
+    evade the divine.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: False friendship and betrayed trust
+  taxonomy_refs: []
+  basis: The Eagle and Fox become friends and neighbors, but the Eagle takes the Fox's
+    cubs for food; the moral calls this kind of conduct false faith.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No formal oath or covenant is described; the betrayal is framed as friendship
+    violated.
+- id: motif:2
+  label: Divine punishment of false faith
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the Eagle's treachery, her own fledglings die through the fire, and
+    the closing moral says false faith cannot escape the divine.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The narrative does not depict a named deity acting; divine agency is stated
+    in the moral interpretation.
+- id: motif:3
+  label: Appropriated sacrificial fire brings harm
+  taxonomy_refs:
+  - sacrifice
+  - sacred_theft
+  basis: The Eagle carries burning flesh from a goat sacrifice on an altar to her
+    nest, after which the nest catches fire and her fledglings fall.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage says the Eagle carries off the flesh but does not explicitly
+    call it theft or sacrilege.
+- id: motif:4
+  label: Reciprocal predation on offspring
+  taxonomy_refs: []
+  basis: The Eagle takes the Fox's cubs as food for her family; later the Fox devours
+    the Eagle's fledglings.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage frames the second act as revenge rather than as an exchange
+    or formal retribution.
+comparison_claims:
+- id: claim:1
+  claim: The fable can be compared at the motif-family level to divine judgment narratives
+    because the moral explicitly says false faith cannot escape the divine after the
+    Eagle's betrayal is punished.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No named deity appears in the narrative action; the divine framing
+    comes from the closing moral.
+- id: claim:2
+  claim: The episode of burning flesh carried from an altar and causing destruction
+    can be cautiously compared by function to sacred-theft or sacrilege-punishment
+    patterns.
+  claim_level: same_function
+  target: sacred_theft / sacrifice pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly state that the flesh was stolen, that
+    a deity owned it, or that a deity directly caused the fire.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4806-4828; opening settlement
+  quote_or_summary: The Eagle and Fox become friends, decide to live near each other,
+    and settle with the Eagle's nest high in a tree and the Fox's thicket at its foot,
+    where she has cubs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 4806-4828; cub-taking episode
+  quote_or_summary: While the Fox is foraging, the Eagle seeks food for her young,
+    takes the Fox's cubs from the thicket, and carries them up the tree for a meal
+    for herself and her family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 4806-4828; Fox's response
+  quote_or_summary: The Fox returns, learns what happened, is furious because she
+    cannot reach the Eagle to punish the treachery, and sits nearby cursing her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 4806-4828; altar episode
+  quote_or_summary: Villagers are sacrificing a goat on a neighboring altar, and the
+    Eagle carries off a piece of burning flesh to her nest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: 4806-4828; fire and revenge
+  quote_or_summary: A strong wind makes the nest catch fire; the Eagle's fledglings
+    fall half-roasted to the ground, and the Fox devours them in the Eagle's sight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: quote
+  locator: 4806-4828; closing moral
+  quote_or_summary: False faith may escape human punishment, but cannot escape the
+    divine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear. Divine-judgment motif is supported by the moral,
+    but direct divine agency is not narrated. Sacred-theft comparison is cautious
+    because the text does not explicitly call the taking of burning flesh theft or
+    sacrilege.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references limited to supplied motif families and symbols.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4806-l4828
+  passage_sha256=754c4bcaa5aea1b0eb73d16519ba142090806f7eefa01f7960219fd0428f0ae9
+

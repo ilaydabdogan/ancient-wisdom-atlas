@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l9405-l9486
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I       I       I / THE    BOOK   OF   AM-TUAT / I  I  I / CHAPTER   IX.;
+    lines 9405-9486
+  start: '9405'
+  end: '9486'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter IX introduces the Ninth Division of the Tuat, named Best-aru-ankhet-kheperu.
+    The boat of the sun arrives there during the Ninth Hour of night. The great god
+    takes his place in the Circle, speaks from his boat, and divine sailors join his
+    boat in the City. The passage names the gate, the City, and the guiding Hour,
+    and then describes the hidden Circle of Amentet and the importance of making the
+    figure with its names and knowing the names and places in Amenti while on earth;
+    the supplied passage breaks off before completing the result clause.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies this section as the Ninth Division of the Tuat and
+    gives its name as Best-aru-ankhet-kheperu.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After passing through the Eighth Division, the boat of the sun arrives at
+    the Ninth Division, which the sun passes through during the Ninth Hour of the
+    night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The great god takes up his place in this Circle and addresses words from his
+    boat to those who are in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Divine sailors join the boat of the great god in this City.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage names the gate through which the god enters as Saa-em-keb, the
+    City as Best-aru-ankhet-kheperu, and the guiding Hour of the night as Tuatet-maketet-en-neb-s.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A line above the upper register calls the place the hidden Circle of Amentet,
+    through which the great god travels and in which he takes up his place in the
+    Tuat.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that if these things are made with their names according
+    to the depicted figure, and if a man knows their names and places in Amenti while
+    on earth, a result follows; the supplied text ends before the result is completed.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: this great god / sun
+  description: The solar divine figure whose boat arrives in the Ninth Division, who
+    takes his place in the Circle, speaks from his boat, and travels through the hidden
+    Circle of Amentet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: divine sailors
+  description: Sailors described as divine who join the boat of the great god in the
+    City.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tuatet-maketet-en-neb-s
+  description: The named Hour of the night which guides the great god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: solar traveler through the Ninth Division
+  assigned_to:
+  - fig:1
+  basis: The boat of the sun arrives in the Ninth Division; the great god enters,
+    takes his place, and travels through the hidden Circle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine boat-joiners
+  assigned_to:
+  - fig:2
+  basis: The passage says the divine sailors join the boat of the great god in the
+    City.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: guiding Hour of the night
+  assigned_to:
+  - fig:3
+  basis: The passage names Tuatet-maketet-en-neb-s as the Hour of the night which
+    guides the great god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: boat of the sun
+  literal_form: boat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stream in the City
+  literal_form: stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Saa-em-keb
+  literal_form: named gate of the City
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Best-aru-ankhet-kheperu
+  literal_form: named Ninth Division / City of the Tuat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: hidden Circle of Amentet
+  literal_form: hidden Circle through which the great god travels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: depicted figure with names
+  literal_form: figure made with names, connected to knowing names and places in Amenti
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival at the Ninth Division
+  summary: After the Eighth Division, the solar boat reaches the Ninth Division of
+    the Tuat, associated with the Ninth Hour of the night.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The great god in the City
+  summary: The great god takes his place in the Circle, speaks from his boat, divine
+    sailors join the boat, and the gate, City, stream, and guiding Hour are named.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Instruction concerning the hidden Circle
+  summary: The text identifies the hidden Circle of Amentet as a place traversed by
+    the great god and states a conditional instruction about making the figure with
+    names and knowing the names and places in Amenti.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Mapped afterlife journey through named divisions and gates
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes the solar god's movement through a specific division
+    of the Tuat, names the gate, City, Hour, Circle, and places in Amenti, and refers
+    to a depicted figure with names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied passage is a short section of a larger underworld itinerary
+    and breaks off mid-sentence.
+- id: motif:2
+  label: Divine travel by sacred boat
+  taxonomy_refs:
+  - ark_vessel
+  basis: The boat of the sun arrives in the Ninth Division; the great god speaks from
+    his boat and divine sailors join it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage specifically describes a solar
+    boat, not a flood-rescue ark.
+- id: motif:3
+  label: Efficacious knowledge of names and places
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that making the figure with names and knowing the names
+    and places in Amenti while on earth leads to a result, although the result is
+    not fully preserved in the supplied excerpt.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The sentence is truncated at the end of the provided passage, so the specific
+    promised effect is not available here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9405-9415
+  quote_or_summary: Chapter IX names the Ninth Division of the Tuat as Best-aru-ankhet-kheperu;
+    after the Eighth Division, the boat of the sun arrives there and the sun passes
+    through it during the Ninth Hour of night.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 9434-9449
+  quote_or_summary: The great god takes his place in the Circle and speaks from his
+    boat; divine sailors join his boat in the City. The gate is named Saa-em-keb,
+    the City Best-aru-ankhet-kheperu, and the guiding Hour Tuatet-maketet-en-neb-s.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 9480-9486
+  quote_or_summary: A line above the upper register identifies the hidden Circle of
+    Amentet through which the great god travels and takes his place in the Tuat; it
+    says that making these things with their names according to the depicted figure
+    and knowing their names and places in Amenti while on earth produces a result,
+    but the excerpt ends before the result is complete.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English prose content is sufficient for passage-level extraction, though
+    the excerpt contains OCR artifacts and ends mid-sentence. No comparison claims
+    were made because the passage itself does not explicitly compare this material
+    to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy references limited to provided available refs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l9405-l9486
+  passage_sha256=1dedf23a5fcef8b82db9a5cd65887281b031b93820eddd51155014dd859e0121
+

@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l3233-l3240
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER XXI. / UNNA GOES TO SEE GUNNAR. / CHAPTER XXII. / NJAL'S ADVICE.;
+    lines 3233-3240
+  start: '3233'
+  end: '3240'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Njal gives instructions for a quiet nighttime departure, concealment in
+    the hills for three nights, travel by night and rest by day, and later help at
+    the Thing; Gunnar thanks Njal and rides home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker instructs the addressees to rise when people are sound asleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressees are told to take bridles and saddles, leave the house quietly,
+    saddle fat horses in the fields, ride off on them, and leave the other horses
+    behind.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressees are told to ride into the hills away from the home pastures
+    and remain there for three nights.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated reason for the three-night stay is that others will seek the addressees
+    for about that length of time.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the three nights, the addressees are told to ride home south, riding
+    by night and resting by day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says his group will ride to the Thing that summer and help in
+    the addressee's suit.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Gunnar thanks Njal and then rides home.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Njal
+  description: Named person whom Gunnar thanks after the advice; associated by the
+    passage with the counsel just given.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Gunnar
+  description: Named person who thanks Njal and rides home after the advice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed addressees or riders
+  description: Persons addressed in the instructions to rise, take riding gear, leave
+    quietly, hide in the hills, and later ride home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: unidentified seekers
+  description: Persons expected to seek the addressees for about three nights.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: speaker's group
+  description: The group referred to as 'us' or 'we' who will ride to the Thing and
+    help in the suit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: adviser or planner
+  assigned_to:
+  - fig:1
+  basis: The passage is labeled as Njal's advice, and Gunnar thanks Njal after the
+    detailed instructions.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: recipient who thanks the adviser
+  assigned_to:
+  - fig:2
+  basis: Gunnar thanks Njal and rides home after the counsel is given.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: instructed riders
+  assigned_to:
+  - fig:3
+  basis: The addressees are told how to depart, where to hide, and how to travel afterward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: expected searchers
+  assigned_to:
+  - fig:4
+  basis: The passage says others will seek the addressees for about three nights.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: promised legal helpers
+  assigned_to:
+  - fig:5
+  basis: The speaker says his group will ride to the Thing and help in the suit.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: riding gear
+  literal_form: bridles and saddles
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chosen mounts
+  literal_form: fat horses in the fields
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: remote hills
+  literal_form: hills away from the home pastures
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: three-night concealment period
+  literal_form: three nights
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: legal assembly
+  literal_form: the Thing
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quiet departure by night
+  summary: The addressees are instructed to rise while others sleep, take riding gear,
+    leave the house softly, saddle selected horses, and ride away.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Concealment and evasive travel
+  summary: The addressees are instructed to hide in hills away from the home pastures
+    for three nights while others seek them, then travel south by night and rest by
+    day.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Promise of help at the Thing
+  summary: The speaker's group promises to ride to the Thing in summer and help in
+    the suit; Gunnar thanks Njal and rides home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wise counsel before action
+  taxonomy_refs:
+  - wisdom
+  basis: Njal is associated with a detailed plan for departure, concealment, travel,
+    and legal assistance, after which Gunnar thanks him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents practical saga counsel rather than explicitly sacred
+    or supernatural wisdom.
+- id: motif:2
+  label: secret departure and evasive return
+  taxonomy_refs:
+  - departure
+  basis: The addressees are told to leave quietly while others sleep, ride off on
+    selected horses, hide in the hills, and later travel by night while resting by
+    day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The episode is a tactical social/legal maneuver, not necessarily a mythic
+    exile or heroic quest departure.
+- id: motif:3
+  label: allied help in a legal suit at the assembly
+  taxonomy_refs: []
+  basis: The speaker's group promises to ride to the Thing and help the addressee
+    in his suit.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy family directly matches this legal-support pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3233-3236
+  quote_or_summary: The addressees are told to rise when people are asleep, take bridles
+    and saddles, leave softly, saddle fat horses in the fields, ride away, and leave
+    the other horses behind.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 3236-3238
+  quote_or_summary: '"ride up into the hills away from the home pastures and stay
+    there three nights"; the passage adds that searchers will seek them for about
+    that long.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: lines 3238-3239
+  quote_or_summary: '"After that ride home south, riding always by night and resting
+    by day."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 3239-3240
+  quote_or_summary: The speaker says his group will ride to the Thing in summer and
+    help in the suit; Gunnar thanks Njal and rides home.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and named figures are clear. Motif labels are candidate
+    narrative-pattern classifications only; no cross-tradition comparison is made
+    from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available motif families directly supported by the passage.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l3233-l3240
+  passage_sha256=471b7d6cedfbb83fb33a2dbb25ee1e43d1cbc70db91043e238db108220fdf14a
+

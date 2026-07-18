@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1553-l1574
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXI. / LXXII. / LXXIII. / LXXIV.; lines 1553-1574
+  start: '1553'
+  end: '1574'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three quatrains lament the passing of spring, rose, youth, and the nightingale;
+    imagine Love and the speaker conspiring with Fate to shatter and remake the scheme
+    of things; and address an unwaning beloved moon while the heavenly moon rises
+    over the same garden after the speaker is gone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spring is said to vanish together with the Rose.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Youth is described as a sweet-scented manuscript that closes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A nightingale is described as having sung in the branches and then flown away,
+    with its origin and destination unknown.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker addresses Love and imagines that the two could conspire with Fate.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker imagines grasping the whole scheme of things, shattering it, and
+    remolding it nearer to the heart's desire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker addresses a 'Moon of my Delight' as knowing no wane.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Moon of Heaven is described as rising once again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says that in the future the rising moon will look through the
+    same garden after him in vain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice that laments, addresses Love and the Moon of Delight,
+    and anticipates absence from the garden.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Love
+  description: Addressed by the speaker as a possible co-conspirator with Fate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Fate
+  description: Named as the power or party with which the speaker and Love might conspire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moon of my Delight
+  description: Vocative addressee described as knowing no wane.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: nightingale
+  description: Bird that sang in the branches and is later described as flown away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Moon of Heaven
+  description: Celestial moon described as rising again and later looking through
+    the same garden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: lamenting and desiring speaker
+  assigned_to:
+  - fig:1
+  basis: The voice laments loss, imagines remaking the scheme of things, and refers
+    to its future absence from the garden.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: addressed companion in hypothetical conspiracy
+  assigned_to:
+  - fig:2
+  basis: Love is directly addressed as one who might conspire with the speaker and
+    Fate.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named determining power
+  assigned_to:
+  - fig:3
+  basis: Fate is named as the party with whom Love and the speaker might conspire.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: unwaning beloved addressee
+  assigned_to:
+  - fig:4
+  basis: The addressee is called the speaker's delight and is said to know no wane.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: departed singer
+  assigned_to:
+  - fig:5
+  basis: The nightingale sang in the branches and is then said to have flown away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recurring celestial observer
+  assigned_to:
+  - fig:6
+  basis: The heavenly moon rises again and is imagined looking through the same garden
+    after the speaker.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Spring and Rose
+  literal_form: Spring vanishing with the Rose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Youth's closing manuscript
+  literal_form: Youth's sweet-scented Manuscript closing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: nightingale in branches
+  literal_form: A nightingale that sang in branches and then flew away
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Scheme of Things
+  literal_form: The sorry Scheme of Things grasped, shattered, and remolded
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: moon imagery
+  literal_form: Moon of my Delight and Moon of Heaven
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: same Garden
+  literal_form: The same Garden through which the moon will look after the speaker
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Vanishing spring and departed song
+  summary: The passage laments that spring, the rose, youth, and the nightingale's
+    song pass away or depart.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Imagined remaking of the scheme of things
+  summary: The speaker addresses Love and imagines conspiring with Fate to shatter
+    and remold the whole scheme of things according to the heart's desire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Moon rising over the garden after the speaker
+  summary: The speaker addresses an unwaning Moon of Delight while the heavenly moon
+    rises again and is imagined later looking through the same garden after the speaker
+    in vain.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: passing of spring, flower, and youth
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Spring vanishes with the Rose, and Youth's manuscript closes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The quatrain emphasizes loss rather than narrating a complete seasonal
+    renewal cycle.
+- id: motif:2
+  label: unknown departure of the singer
+  taxonomy_refs:
+  - departure
+  basis: The nightingale that sang in the branches is said to have flown away, with
+    whence and whither unknown.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The bird's departure is lyrical imagery, not a developed journey episode.
+- id: motif:3
+  label: shattering and remolding the world-order
+  taxonomy_refs: []
+  basis: The speaker imagines grasping the scheme of things, shattering it, and remolding
+    it closer to the heart's desire.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a hypothetical wish, not an enacted cosmogonic or apocalyptic
+    narrative.
+- id: motif:4
+  label: recurring moon outlasting human presence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The heavenly moon rises again and is imagined continuing to look through
+    the same garden after the speaker is absent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly describe afterlife, resurrection, or ritual
+    return.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared at the level of function to seasonal-cycle
+    imagery, because it juxtaposes vanishing spring and rose with the recurring rise
+    of the moon while the human speaker anticipates absence.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a lyric meditation and does not narrate a full seasonal
+    myth or ritual cycle.
+evidence:
+- id: ev:1
+  type: quote
+  locator: LXXII, lines 1555-1556
+  quote_or_summary: '"Alas, that Spring should vanish with the Rose!" and "That Youth''s
+    sweet-scented Manuscript should close!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: LXXII, lines 1557-1558
+  quote_or_summary: '"The nightingale that in the Branches sang" is described as "flown
+    again," with whence and whither unknown.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: LXXIII, lines 1562-1565
+  quote_or_summary: The speaker addresses Love, imagines conspiring with Fate, and
+    asks whether they would "shatter it to bits" and "Re-mould it nearer to the Heart's
+    Desire."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: LXXIV, lines 1569-1570
+  quote_or_summary: '"Ah, Moon of my Delight who know''st no wane" and "The Moon of
+    Heav''n is rising once again."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: LXXIV, lines 1571-1572
+  quote_or_summary: '"How oft hereafter rising shall she look / Through this same
+    Garden after me--in vain!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal imagery is clear, but motif classification is cautious because the
+    passage is lyric and philosophical rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include rose, bird, moon, manuscript, or garden. Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1553-l1574
+  passage_sha256=7a64ecdc85bca0fe7e91f3ad2faa5eadeec157765a562d7f9e359e18ef175012
+

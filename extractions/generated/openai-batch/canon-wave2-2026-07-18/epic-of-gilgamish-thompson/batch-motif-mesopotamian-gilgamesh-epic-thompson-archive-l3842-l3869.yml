@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-epic-thompson-archive-l3842-l3869
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+passage_locator:
+  label: THE EPIC OF GILGAMISH. 53 / THE EPIC OF GILGAMISH. / THE EPIC OF GILGAMISH.
+    55 / THE EPIC OF GILGAMISH.; lines 3842-3869
+  start: '3842'
+  end: '3869'
+  translation: The Epic of Gilgamish
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary lines describe an unnamed female subject whose shoulders are
+    no longer veiled with a mantle. A following speech concerns Enkidu ascending out
+    of the earth and states that he was not seized by Namtar, fever, Nergal, or mortal
+    battle, but by the earth. The offspring of Nin-sun sorrowed for Enkidu. Editorial
+    notes describe the poem as possibly a professional mourner’s lament and note textual
+    uncertainty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed female subject is described as no longer having her fair shoulders
+    veiled with a mantle, and her bosom is compared with a lard cruse.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A speech or cry concerns Enkidu ascending out of the earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speech denies that Namtar, fever, Nergal, or mortal battle seized Enkidu.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speech repeats that the earth seized Enkidu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The offspring of Nin-sun sorrowed for his servitor Enkidu.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes state that the short poem may be a regular lament of a professional
+    mourner and that several lines are textually confused in comparison with a previous
+    parallel text.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed female subject
+  description: A female figure referred to as “her,” with shoulders and bosom described
+    in fragmentary lament-like lines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Enkidu
+  description: Named figure said to be seized by the earth and later mourned as a
+    servitor.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Namtar / Plague-god
+  description: Named in the speech as a possible seizer of Enkidu, but explicitly
+    denied as the cause.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Nergal / the Croucher
+  description: Named as ruthless and as a possible seizer of Enkidu, but explicitly
+    denied as the cause.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: offspring of Nin-sun
+  description: A figure identified by descent from Nin-sun who sorrowed for Enkidu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Nin-sun
+  description: Named as the parent or source of the epithet “offspring of Nin-sun.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: described subject of fragmentary lament
+  assigned_to:
+  - fig:1
+  basis: The lines describe “her” shoulders and bosom in a lament-like fragment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: figure seized by earth
+  assigned_to:
+  - fig:2
+  basis: The speech says that Enkidu was seized not by deities, fever, or battle,
+    but by the earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mourned servitor
+  assigned_to:
+  - fig:2
+  basis: The passage says the offspring of Nin-sun sorrowed for his servitor Enkidu.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rejected divine seizer or death-cause
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Namtar and Nergal are named in the speech but denied as having seized Enkidu.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mourner
+  assigned_to:
+  - fig:5
+  basis: The offspring of Nin-sun is said to have sorrowed for Enkidu.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: named progenitor in epithet
+  assigned_to:
+  - fig:6
+  basis: Nin-sun appears in the phrase identifying the mourner as her offspring.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: earth as seizing place or agent
+  literal_form: earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mantle or veil
+  literal_form: mantle veiling shoulders
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lard cruse image
+  literal_form: lard cruse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: fragmentary description of female clothing and body
+  summary: An unnamed female subject is described through images of an absent mantle
+    or veil and a comparison involving the bosom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: speech on Enkidu and the earth
+  summary: A cry or speech concerns Enkidu ascending from the earth and states that
+    he was seized by the earth rather than by Namtar, fever, Nergal, or mortal battle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: sorrow for Enkidu
+  summary: The offspring of Nin-sun sorrowed for Enkidu, who is called his servitor.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: lament for a dead or absent companion
+  taxonomy_refs: []
+  basis: The passage says the offspring of Nin-sun sorrowed for Enkidu, and the notes
+    suggest the short poem may be a regular lament of a professional mourner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The poem is fragmentary and the professional-lament identification is
+    presented as a possibility in the notes.
+- id: motif:2
+  label: earth seizes the dead
+  taxonomy_refs: []
+  basis: The speech repeatedly denies other causes and says that only the earth seized
+    Enkidu.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The surrounding lines are marked as confused or uncertain by the notes.
+- id: motif:3
+  label: ascent from earth
+  taxonomy_refs:
+  - ascent
+  basis: The speech concerns Enkidu “out of the earth to ascend.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The wording is uncertain and the passage does not clearly narrate a completed
+    ascent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3842-3845
+  quote_or_summary: The text describes “her” shoulders as no longer veiled with a
+    mantle and compares her bosom with a lard cruse.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: stanza 50 within lines 3842-3869
+  quote_or_summary: A speech concerns Enkidu “out of the earth to ascend” and says
+    not Namtar, fever, Nergal, or battle, but the earth seized him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+- id: ev:3
+  type: summary
+  locator: after stanza 50 within lines 3842-3869
+  quote_or_summary: The passage says the offspring of Nin-sun sorrowed for his servitor
+    Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: note
+  locator: Notes within lines 3842-3869
+  quote_or_summary: The notes say the short poem may be a professional mourner’s regular
+    lament and that several lines are confused against a previous parallel text.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; summarized editorial note.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by fragmentary wording, uncertain restorations,
+    and editorial note material. No independent comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy reference is limited to the explicit ascent wording and is marked low confidence.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-gilgamesh-epic-thompson-archive__l3842-l3869
+  passage_sha256=951b187289e7bdd7802299c341e69c65872011f51a2caf320a85a36c0519cec1
+

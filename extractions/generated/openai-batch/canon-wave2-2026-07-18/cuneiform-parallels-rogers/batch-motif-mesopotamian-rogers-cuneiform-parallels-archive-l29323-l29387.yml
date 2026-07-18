@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29323-l29387
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 29323-29387
+  start: '29323'
+  end: '29387'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index excerpt listing names, places, genres, and page references, including
+    entries for Tammuz hymns, Tauthe/Tiamat, Tishpak as slayer of a dragon, a toothache
+    incantation, Uruk as the city of Gilgamesh, Ut-napishtim, wisdom literature, and
+    Xisuthros.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment consisting of entries and page references
+    rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:2
+  text: Tammuz is listed in connection with a hymn.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tauthe is listed with Tiamat in parentheses, and Tiamat also appears as a
+    separate index entry.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Tishpak is described as a slayer of a dragon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A toothache incantation is listed.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Uruk is described as the city of Gilgamesh; Ut-napishtim is also listed nearby.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A fragment of wisdom literature and an entry for Xisuthros are listed.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tammuz
+  description: Named in an index entry in connection with a hymn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tauthe / Tiamat
+  description: Tauthe is parenthetically identified as Tiamat, and Tiamat is also
+    listed separately.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tishpak
+  description: Named in an index entry as slayer of a dragon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dragon
+  description: The being named as slain by Tishpak in the index entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Gilgamesh
+  description: Named in the phrase identifying Uruk as the city of Gilgamesh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ut-napishtim
+  description: Listed as an index entry with page references.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Xisuthros
+  description: Listed as an index entry with page references.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hymn recipient or subject
+  assigned_to:
+  - fig:1
+  basis: The entry reads “Tammuz, hymn to.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parenthetically identified name
+  assigned_to:
+  - fig:2
+  basis: The entry reads “Tauthe (Tiamat).”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dragon slayer
+  assigned_to:
+  - fig:3
+  basis: The entry reads “Tishpak, slayer of dragon.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: slain dragon
+  assigned_to:
+  - fig:4
+  basis: The dragon is the object of the slaying attributed to Tishpak.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: figure associated with Uruk
+  assigned_to:
+  - fig:5
+  basis: The entry identifies Uruk as the city of Gilgamesh.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dragon
+  literal_form: dragon
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Index reference to dragon-slaying
+  summary: The index identifies Tishpak as slayer of a dragon, without narrating the
+    event.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: dragon-slaying
+  taxonomy_refs: []
+  basis: The passage explicitly names Tishpak as “slayer of dragon.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an index entry; it supplies no narrative context,
+    combat sequence, or cosmological interpretation.
+- id: motif:2
+  label: incantation against bodily affliction
+  taxonomy_refs: []
+  basis: The index lists “Toothache, incantation against.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The underlying incantation text is not included in this passage.
+- id: motif:3
+  label: wisdom literature
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lists “Wisdom literature, fragment of.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a genre/index entry, not a narrative motif description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 29325-29335
+  quote_or_summary: "“Tammuz, hymn to, 179, 182”; “Tauthe (Tiamat), 44”; “Tiamat,
+    3, 4, 5, 7, 10, 13, 14, 20, 22, 28, 29.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: '29342'
+  quote_or_summary: "“Tishpak, slayer of dragon, 62.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 29344-29345
+  quote_or_summary: "“Toothache, incantation against, 52.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 29366-29370
+  quote_or_summary: "“Ur-shanabi, 89”; “Uruk, city of Gilgamesh, 81”; “Ut-napishtim,
+    89, 90.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 29372-29375
+  quote_or_summary: "“Wisdom literature, fragment of, 164, 175”; “Xisuthros, 110,
+    111.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: 29323-29387
+  quote_or_summary: The line range is headed “INDEX” and consists of alphabetized
+    entries with names, places, descriptions, and page references.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is an index rather than a narrative or ritual text. No comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Index entries provide minimal context. Taxonomy mapping was kept conservative; the dragon entry was not mapped to serpent or chaos because the passage does not state those associations.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29323-l29387
+  passage_sha256=cff34f7a2699e94bc71d7738c49d15a827ffe62860a7aefc34fc1078c4cebccc
+

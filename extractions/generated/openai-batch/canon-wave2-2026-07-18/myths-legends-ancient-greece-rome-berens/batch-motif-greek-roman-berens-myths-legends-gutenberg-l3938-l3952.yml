@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3938-l3952
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: NIKE (VICTORIA). / VICTORIA. / HERMES (MERCURY). / MERCURY.; lines 3938-3952
+  start: '3938'
+  end: '3952'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Mercury was the Roman god of commerce and gain.
+  summary: The passage describes Roman Mercury as a god of commerce and gain, notes
+    his temples and sacred fount, describes a merchant ritual using holy water at
+    his festival, and explains a Roman priestly refusal and later acceptance of Mercury's
+    identification with Greek Hermes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mercury is described as the Roman god of commerce and gain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A temple to Mercury is said to have existed near the Circus Maximus as early
+    as 495 B.C.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mercury also had a temple and sacred fount near the Porta Capena.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Magic powers were ascribed to the sacred fount near the Porta Capena.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On Mercury's festival on 25 May, merchants customarily sprinkled themselves
+    and their merchandise with holy water to ensure large profits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Fetiales are described as Roman priests whose duty was to act as guardians
+    of the public faith.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Fetiales refused to recognize Mercury's identity with Hermes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Fetiales ordered Mercury to be represented with a sacred branch as an
+    emblem of peace instead of the Caduceus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: In later times Mercury was completely identified with Greek Hermes.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mercury
+  description: Roman god of commerce and gain, associated with temples, a sacred fount,
+    a festival, and later identification with Greek Hermes.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Merchants
+  description: Participants in Mercury's festival who sprinkle themselves and their
+    merchandise with holy water to ensure profits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Fetiales
+  description: Roman priests identified as guardians of the public faith who regulate
+    Mercury's representation and reject his identity with Hermes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hermes
+  description: Greek deity whose identity with Mercury is rejected by the Fetiales
+    but later completely accepted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: god of commerce and gain
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly defines Mercury in this role.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual participants seeking profit
+  assigned_to:
+  - fig:2
+  basis: Merchants sprinkle themselves and merchandise with holy water to ensure large
+    profits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: guardians of public faith and iconographic authorities
+  assigned_to:
+  - fig:3
+  basis: The Fetiales are described as guardians of public faith and as ordering Mercury's
+    representation with a sacred branch.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: identified Greek-Roman counterparts
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes rejected and later complete identification between
+    Mercury and Hermes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred fount and holy water
+  literal_form: A sacred fount near the Porta Capena whose holy water is sprinkled
+    by merchants.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sacred branch
+  literal_form: A sacred branch ordered as Mercury's emblem of peace.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Caduceus
+  literal_form: The Caduceus, rejected in this passage as Mercury's emblem by the
+    Fetiales in favor of a sacred branch.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Mercury festival date
+  literal_form: The festival of Mercury on the 25th of May.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Merchant ritual at Mercury's festival
+  summary: At Mercury's festival on 25 May, merchants sprinkle themselves and their
+    merchandise with holy water from the sacred fount to ensure large profits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Priestly refusal and later identification with Hermes
+  summary: The Fetiales refuse to recognize Mercury as identical with Hermes and require
+    a sacred branch rather than the Caduceus; later Mercury is completely identified
+    with Greek Hermes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: holy water blessing for commercial gain
+  taxonomy_refs: []
+  basis: Merchants use holy water associated with Mercury's sacred fount to ritually
+    secure large profits from their wares.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes the custom but does not explain a mythic narrative
+    or reciprocal exchange with the deity.
+- id: motif:2
+  label: deity represented by contested emblems
+  taxonomy_refs: []
+  basis: The Fetiales reject the Caduceus for Mercury and order a sacred branch as
+    an emblem of peace.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an iconographic and cultic detail, not a full narrative motif.
+- id: motif:3
+  label: Greek-Roman divine identification
+  taxonomy_refs: []
+  basis: The passage states that Mercury's identity with Hermes was first rejected
+    by the Fetiales and later fully accepted.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports identification but gives little detail on shared myths
+    or functions beyond Mercury's commerce role.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Mercury and Greek Hermes as deities whose identification
+    was disputed by the Fetiales but later accepted completely.
+  claim_level: same_function
+  target: Greek Hermes
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The schema category 'same_function' is an approximation; the passage
+    states identity and later syncretism but provides limited functional comparison
+    within this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3938-3942
+  quote_or_summary: '"Mercury was the Roman god of commerce and gain" and had a temple
+    near the Circus Maximus by 495 B.C., as well as a temple and sacred fount near
+    the Porta Capena.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3942-3947
+  quote_or_summary: Magic powers were ascribed to the sacred fount; on Mercury's festival
+    on 25 May, merchants sprinkled themselves and their merchandise with holy water
+    to ensure large profits.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3948-3951
+  quote_or_summary: The Fetiales, Roman priests and guardians of public faith, refused
+    to identify Mercury with Hermes and ordered Mercury to be represented with a sacred
+    branch as an emblem of peace instead of the Caduceus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3951-3952
+  quote_or_summary: '"In later times, however, he was completely identified with the
+    Greek Hermes."'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and explicit about cult practice and Mercury-Hermes
+    identification. Motif labels are cautious because the excerpt is mainly handbook
+    exposition rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used; taxonomy references are limited to the supplied list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3938-l3952
+  passage_sha256=57a84f4a3bdb68bac38806550c6b958cb4fa237e6a06015852a762f2afdcde3a
+

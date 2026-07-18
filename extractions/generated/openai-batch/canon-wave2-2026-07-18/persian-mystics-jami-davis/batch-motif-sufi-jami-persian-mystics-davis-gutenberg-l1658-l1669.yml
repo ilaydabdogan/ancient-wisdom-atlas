@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1658-l1669
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: SELF DIES IN LOVE / THE FREEING OF ZULAIKHA'S SOUL / BREAKING THE IDOL /
+    ZULAIKHA'S YOUTH RETURNS; lines 1658-1669
+  start: '1658'
+  end: '1669'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the section titled “Zulaikha's Youth Returns,” Zulaikha’s lost beauty
+    and youth are described as restored through images of revived splendor, renewed
+    waters, blooming youth, dark hair, and bodily smoothness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage title states that Zulaikha's youth returns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Beauty that had been ruined and dead is said to return, and the cheek regains
+    splendor.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Waters that had been dried by sad years shine again, and the rose-bed of youth
+    blooms again.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Musk is restored, camphor is withdrawn, and black night follows the grey of
+    dawn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cypress rises as before, silver is free from wrinkles, traces of white
+    leave the tresses, and beauty and light come to the black narcissus.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Zulaikha
+  description: Named in the section title as the figure whose youth returns; the passage
+    describes restored beauty and youth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: figure whose youth and beauty are restored
+  assigned_to:
+  - fig:1
+  basis: The title names Zulaikha, and the verses repeatedly describe the return of
+    beauty, splendor, waters, blooming youth, dark hair, and bodily smoothness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: renewed waters
+  literal_form: waters that sad years had dried shine again
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: rose-bed of youth
+  literal_form: the rose-bed of youth blooming again
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cypress
+  literal_form: a cypress rising stately and tall as of old
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: black night and grey dawn
+  literal_form: black night following the grey of dawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: musk and camphor contrast
+  literal_form: musk restored and camphor withdrawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: black narcissus
+  literal_form: the black narcissus receiving beauty and light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Return of Zulaikha's youth
+  summary: The passage presents a single restoration scene in which Zulaikha's lost
+    beauty and youth return, expressed through natural, color, floral, and bodily
+    images.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rejuvenation after decay
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage describes beauty as ruined and dead, then returned; dried waters
+    shine again and youth blooms again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents poetic restoration of youth and beauty, not a literal
+    death and rebirth of a person.
+- id: motif:2
+  label: restoration of youthful bodily signs
+  taxonomy_refs: []
+  basis: The restored state is marked by splendor in the cheek, dark hair replacing
+    white traces, absence of wrinkles, and renewed beauty and light.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a descriptive pattern within the passage rather than a named taxonomy
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared at a motif-family level to renewal
+    or death-rebirth patterns because qualities described as dead, dried, or faded
+    return and bloom again.
+  claim_level: same_function
+  target: death_rebirth motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The evidence is metaphorical and limited to restored youth and beauty;
+    the passage does not narrate an actual death, rebirth, or historical contact with
+    another tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 1658
+  quote_or_summary: "“ZULAIKHA'S YOUTH RETURNS”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1660-1661
+  quote_or_summary: "“The beauty returned which was ruined and dead” and the cheek
+    regained splendor."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt and summary used.
+- id: ev:3
+  type: quote
+  locator: lines 1662-1663
+  quote_or_summary: "“Again shone the waters which sad years had dried,” and “the
+    rose-bed of youth bloomed again.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpts used.
+- id: ev:4
+  type: quote
+  locator: lines 1664-1665
+  quote_or_summary: "“The musk was restored and the camphor withdrawn,” followed by
+    the image of black night and grey dawn."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt and summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1666-1669
+  quote_or_summary: The passage describes a cypress rising tall, silver freed from
+    wrinkles, white leaving the tresses, and beauty and light coming to the black
+    narcissus.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is short and internally clear. Motif classification is cautious
+    because the restoration language is poetic and bodily rather than a full mythic
+    death-rebirth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator, metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1658-l1669
+  passage_sha256=dbd541f3ef62affc616ad4430b8216aac0c8cfd90613d3c723828eeba9ac8451
+

@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l10527-l10615
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UBABUZE. / IZINGANEKWANE. / UMUNTU  NENYONI. / IZINGANEKWANE.; lines 10527-10615
+  start: '10527'
+  end: '10615'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman repeatedly goes to cultivate land, but each time finds her previous
+    work erased. A bird, identified in the editorial note as a wagtail, perches on
+    a tree before her and declares the land to be its father's land, which it refuses
+    to allow to be cultivated. The bird commands the clods to return, the seed to
+    scatter, the pick-handle to break, and the pick to fly off; the commands are fulfilled,
+    making the woman's labor vain.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman cannot see the ground she dug the previous day; the place has become
+    like grass again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman speaks to herself and asks where the ground she dug yesterday is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman digs the ground again after finding her earlier work undone.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:4
+  text: A bird comes and sits on a tree in front of the woman while she is digging.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bird says the land is its father's land and says it has always refused
+    to allow the land to be cultivated.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bird tells the woman that she has acted in opposition to it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bird commands the clods to turn back, the seeds to scatter, the pick-handle
+    to snap, and the pick to fly off.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The clods turn back, the seed is scattered, the handle breaks, and the pick
+    comes off or flies off.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The passage states that the wagtail renders the woman's labor vain as before.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: A woman who repeatedly goes to dig or cultivate the ground and finds
+    her previous digging undone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: the bird / wagtail
+  description: A bird, identified in the editorial note as a wagtail, that comes while
+    the woman is digging, perches on a tree, speaks, and issues commands affecting
+    the field and tools.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the bird's father
+  description: A referenced father whose land the bird says it is; the father does
+    not otherwise appear in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: repeated cultivator
+  assigned_to:
+  - fig:1
+  basis: The woman goes to dig again after her earlier work is no longer visible.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: speaking bird
+  assigned_to:
+  - fig:2
+  basis: The bird comes, sits on a tree, and speaks in repeated phrases.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: opponent of cultivation
+  assigned_to:
+  - fig:2
+  basis: The bird says it refuses to allow the land to be cultivated and tells the
+    woman she has opposed it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: reported landholder
+  assigned_to:
+  - fig:3
+  basis: The bird identifies the land as its father's land.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree perch
+  literal_form: The tree on which the bird sits in front of the woman.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: father's land
+  literal_form: The land or ground that the bird calls its father's land and refuses
+    to allow to be cultivated.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cultivation objects
+  literal_form: Clods, seeds, pick-handle, and pick affected by the bird's commands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: grass-like reversion of the field
+  literal_form: The formerly dug ground appears again like grass, so the woman's previous
+    work is no longer visible.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Woman finds her digging undone
+  summary: The woman returns to the place she had dug, cannot see the earlier work,
+    finds the place like grass, and digs again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird speaks from the tree
+  summary: While the woman is digging, the bird sits on a tree before her, declares
+    the land to be its father's, says it refuses cultivation, and commands the field
+    and tools to undo the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Commands are fulfilled and labor is vain
+  summary: The clods turn back, the seed scatters, the handle breaks, and the pick
+    flies off; the same pattern occurs again, making the woman's labor vain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Repeated cultivation undone by a speaking bird
+  taxonomy_refs: []
+  basis: The woman repeatedly digs, but the bird's speech leads to the clods returning,
+    seed scattering, and tools breaking or flying off.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the repeated action but does not supply a broader comparative
+    label.
+- id: motif:2
+  label: Animal guardian forbids cultivation of claimed land
+  taxonomy_refs: []
+  basis: The bird says the land is its father's and that it has refused to allow it
+    to be cultivated, then acts against the woman's digging.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The term 'guardian' is inferred from the bird's claim and opposition;
+    the passage itself says only that the bird refuses cultivation.
+- id: motif:3
+  label: Spoken command animates field and tools
+  taxonomy_refs: []
+  basis: The bird directly addresses clods, seed, pick-handle, and pick, and the described
+    effects occur according to its saying.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No mechanism is explicitly explained beyond the bird's speech and the
+    fulfillment of the commands.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10527-10615, first translated episode
+  quote_or_summary: The woman arrives where she had dug the previous day, finds it
+    like grass, asks where the ground is, and digs again.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 10527-10615, first translated episode
+  quote_or_summary: '"there came the bird, and sat on a tree in front of her"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 10527-10615, bird's speech
+  quote_or_summary: '"That is the land of my father, which I have always refused to
+    allow to be cultivated. You have acted in opposition to me."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 10527-10615, bird's commands
+  quote_or_summary: '"Little clods, turn back again! Little seeds, be scattered...
+    Little pick-handle, snap to pieces! Little pick, fly off!"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 10527-10615, editorial transition
+  quote_or_summary: The editorial transition states that the woman tries again, but
+    the wagtail, as before, renders her labor vain.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 10527-10615, second translated episode
+  quote_or_summary: On the repeated attempt, the woman again cannot see the ground
+    dug the day before; the clods have turned back, the seed is scattered, the handle
+    is broken, and the pick is off. The bird repeats its commands, and the results
+    occur according to its saying.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: note
+  locator: footnote 29 within lines 10527-10615
+  quote_or_summary: The note explains that the diminutives in the bird's commands
+    are contemptuous rather than statements about size.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are explicit in the supplied passage. Motif
+    labels are descriptive and not tied to external taxonomy. No comparison claims
+    are made because the passage itself does not present comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote 29 was used only to clarify the contemptuous force of the diminutives in the translated bird-speech; it was not used to infer additional motifs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l10527-l10615
+  passage_sha256=c357ee11427961a7c01c5f283b0143015c8af6d983a323085bb6df12626c2c39
+

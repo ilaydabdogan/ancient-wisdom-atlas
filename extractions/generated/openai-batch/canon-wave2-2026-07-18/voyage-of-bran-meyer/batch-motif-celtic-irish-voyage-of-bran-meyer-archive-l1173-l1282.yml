@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l1173-l1282
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: IMRAM    BRAIN  5 / IMRAM    BRAIN / IMRAM    BRAIN / IMRAM    BRAIN  13;
+    lines 1173-1282
+  start: '1173'
+  end: '1282'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes a scholarly note about a quatrain recurring in another
+    Irish poem, followed by Irish verse and English stanzas. The English stanzas announce
+    a future great birth, describe a son of a woman whose mate is unknown, and attribute
+    to him rule, creation of the world and heavens, possession of earth and sea, purification
+    under pure water, and healing. The speaker then limits the audience of the speech,
+    tells Bran to hear wisdom, warns against sloth and intoxication, and urges him
+    to begin a sea voyage toward the land of women.
+  language: English with Middle Irish text and scholarly notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A scholarly note says a quatrain reappears in modified form in a poem addressed
+    to Colum Cille by Mongan, who came from the Land of Promise.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:2
+  text: The passage announces a future great birth after ages.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The born figure is described as the son of a woman whose mate will not be
+    known, and he is said to seize rule over many thousands.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The same figure is associated with rule without beginning or end, creation
+    of a perfect world, and possession of earth and sea.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The figure is said to have made the heavens, to purify hosts under pure water,
+    and to heal sicknesses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A person with a white heart is described as happy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says the speech is not for all and tells Bran to hear wisdom from
+    the crowd of the world.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker warns against sloth and intoxication and commands a voyage across
+    the clear sea toward the land of women.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Prophesied son / Christ in gloss
+  description: A future-born son of a woman whose mate will not be known; the verse
+    attributes rule, creation, purification, and healing to him, and an editorial
+    gloss identifies the great birth as Christ.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Woman whose mate will not be known
+  description: The woman named only through her relation to the son whose mate will
+    not be known.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bran
+  description: The named addressee who is to hear wisdom and begin a voyage across
+    the clear sea toward the land of women.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Unnamed speaker
+  description: The speaker who says the speech is not for everyone and gives Bran
+    instructions and warnings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Hosts
+  description: A collective group said to be purified under pure water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prophesied extraordinary son
+  assigned_to:
+  - fig:1
+  basis: The passage announces a great birth after ages and describes a son whose
+    mother's mate will not be known.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: eternal creator-ruler and judge
+  assigned_to:
+  - fig:1
+  basis: He is said to have rule without beginning or end, to have created the world,
+    to possess earth and sea, and to bring woe to those under his unwill.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: purifier and healer
+  assigned_to:
+  - fig:1
+  basis: He is said to purify hosts under pure water and heal sicknesses.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: mother with unknown mate
+  assigned_to:
+  - fig:2
+  basis: The son is described as born of a woman whose mate will not be known.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: wisdom recipient and potential voyager
+  assigned_to:
+  - fig:3
+  basis: Bran is told to hear wisdom and to begin a voyage across the clear sea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: admonishing instructor
+  assigned_to:
+  - fig:4
+  basis: The speaker limits the audience of the speech, tells Bran to hear wisdom,
+    warns him, and commands him to voyage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: purified collective
+  assigned_to:
+  - fig:5
+  basis: The hosts are said to be purified under pure water.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: earth and sea
+  literal_form: earth and sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heavens
+  literal_form: heavens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pure water
+  literal_form: pure water
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: white heart
+  literal_form: white heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: clear sea
+  literal_form: clear sea
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: land of women
+  literal_form: land of women
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: bed of sloth
+  literal_form: bed of sloth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prophecy of birth and rule
+  summary: A future great birth is announced; the born figure is a woman's son whose
+    mate is unknown and will seize rule over many thousands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Cosmic rule, purification, and healing
+  summary: The figure is described as an eternal ruler and creator who made the heavens,
+    owns earth and sea, purifies hosts under pure water, and heals sicknesses.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: Selective wisdom addressed to Bran
+  summary: The speaker states that the speech is not for everyone and tells Bran to
+    hear what wisdom has been told to him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Exhortation to sea voyage
+  summary: The speaker warns against sloth and intoxication and tells Bran to begin
+    a voyage across the clear sea in hopes of reaching the land of women.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacred or miraculous birth of an extraordinary son
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: The stanza announces a great birth after ages and describes a son of a woman
+    whose mate will not be known; the note glosses the birth as Christ.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The Christian identification is supplied by a gloss; the verse excerpt
+    itself does not elaborate the conception beyond the unknown mate.
+- id: motif:2
+  label: Eternal creator-ruler with judgment
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_judgment
+  basis: The figure has rule without beginning or end, creates the world, possesses
+    earth and sea, and brings woe on one under his unwill.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is hymnic or prophetic rather than a full royal accession
+    narrative, so the royal-legitimacy reference is approximate.
+- id: motif:3
+  label: Water purification and healing
+  taxonomy_refs:
+  - initiation
+  basis: The figure purifies hosts under pure water and heals sicknesses; the note
+    identifies the water as an allusion to baptism.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The initiation reading depends on the baptism note; the stanza itself
+    states purification under water.
+- id: motif:4
+  label: Selective transmission of wisdom to Bran
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker says the speech is not for all and directs Bran to hear what
+    wisdom has been told to him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Departure by sea toward the land of women
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: Bran is told to begin a voyage across the clear sea, with the possibility
+    of reaching the land of women.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The destination's nature is not further described in this excerpt, so
+    broader otherworld or afterlife classifications are not asserted.
+comparison_claims:
+- id: claim:1
+  claim: The source note states that a quatrain from this passage reappears in modified
+    form in a poem addressed to Colum Cille by Mongan, linking this wording to a nearby
+    Irish literary context.
+  claim_level: linguistic_similarity
+  target: A modified quatrain in a poem addressed to Colum Cille by Mongan from the
+    Land of Promise
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not provide the modified form of the parallel quatrain,
+    so only the reported textual recurrence can be asserted.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1173-1282, stanza 26
+  quote_or_summary: '"A great birth will come after ages... The son of a woman whose
+    mate will not be known, / He will seize the rule of the many thousands."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 1173-1282, stanza 27
+  quote_or_summary: '"A rule without beginning, without end... He has created the
+    world... Whose are earth and sea. / Woe to him that shall be under His unwill!"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 1173-1282, stanza 28
+  quote_or_summary: '"''Tis He that made the heavens... Happy he that has a white
+    heart, / He will purify hosts under pure water... heal your sicknesses."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 1173-1282, stanza 29
+  quote_or_summary: '"Not to all of you is my speech... Let Bran hear... What of wisdom
+    has been told to him."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 1173-1282, stanza 30
+  quote_or_summary: '"Do not fall on a bed of sloth... Let not thy intoxication overcome
+    thee... Begin a voyage across the clear sea... reach the land of women."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:6
+  type: note
+  locator: lines 1173-1282, opening scholarly note
+  quote_or_summary: The note says the quatrain reappears in modified form in a poem
+    addressed to Colum Cille by Mongan, who came from the Land of Promise.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; summarized note used for extraction.
+- id: ev:7
+  type: note
+  locator: lines 1173-1282, notes to stanzas 26 and 28
+  quote_or_summary: The notes gloss the great birth as Christ and state that the purification
+    under pure water is an allusion to baptism.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source metadata; summarized note used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based chiefly on the English stanzas and editor's notes within
+    the supplied range. The range also contains untranslated Irish text and apparatus,
+    so unglossed details from those portions were not expanded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, motifs, or comparisons beyond the supplied passage and available taxonomy references have been added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l1173-l1282
+  passage_sha256=0ef20bdc732ad470a7c7b711174e3628b6cc2336a90f8a434557e40282b7c337
+

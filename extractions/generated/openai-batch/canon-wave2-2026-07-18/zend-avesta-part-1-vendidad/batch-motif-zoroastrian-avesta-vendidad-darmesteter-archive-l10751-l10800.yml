@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l10751-l10800
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD    VIII.  101 / FARGARD    VIII. / FARGARD    VIII.  IO5 / I06  VENDIDAD.;
+    lines 10751-10800
+  start: '10751'
+  end: '10800'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a repeated question-and-answer sequence, an unnamed questioner asks
+    Ahura Mazda where the Drug Nasu rushes when the good waters reach successive body
+    parts. Ahura Mazda answers with a sequence of locations: left ear, right shoulder,
+    left shoulder, right armpit, left armpit, chest in front, and back.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ahura Mazda is repeatedly presented as answering questions.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:2
+  text: The questions ask where the Drug Nasu rushes when the good waters reach a
+    specified body part.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:3
+  text: The Drug Nasu is described as rushing upon the left ear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When the good waters reach the left ear, the Drug Nasu is said to rush upon
+    the right shoulder.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the good waters reach the right shoulder, the Drug Nasu is said to rush
+    upon the left shoulder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the good waters reach the left shoulder, the Drug Nasu is said to rush
+    upon the right armpit.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the good waters reach the right armpit, the Drug Nasu is said to rush
+    upon the left armpit.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the good waters reach the left armpit, the Drug Nasu is said to rush
+    in front upon the chest.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When the good waters reach the chest in front, the Drug Nasu is said to rush
+    upon the back.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage orders the movement across paired left and right body locations
+    before moving to the chest and back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named speaker who answers where the Drug Nasu rushes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Drug Nasu
+  description: Entity described as rushing from one bodily location to another as
+    the good waters reach body parts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Unnamed questioner
+  description: Voice asking Ahura Mazda where the Drug Nasu rushes when good waters
+    reach successive body parts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: divine respondent
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says, “Ahura Mazda answered,” followed by instructions
+    or description.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: rushing contaminating entity
+  assigned_to:
+  - fig:2
+  basis: The Drug Nasu is repeatedly said to rush upon different parts of the body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: ritual questioner
+  assigned_to:
+  - fig:3
+  basis: The passage contains repeated questions addressed to the “Maker of the material
+    world” and asks what happens when the good waters reach each body part.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: good waters
+  literal_form: waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: body-part path
+  literal_form: left ear, shoulders, armpits, chest, back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Question-and-answer sequence on waters and Drug Nasu
+  summary: An unnamed questioner asks Ahura Mazda where the Drug Nasu rushes when
+    good waters reach successive parts of the body, and Ahura Mazda names the next
+    bodily location in the sequence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: purifying water drives impurity through the body
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts “good waters” reaching a body part with
+    the Drug Nasu rushing to another body part.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state purification in this excerpt; the
+    motif label is inferred from the repeated opposition between good waters and Drug
+    Nasu.
+- id: motif:2
+  label: ritual body-mapping sequence
+  taxonomy_refs: []
+  basis: 'The answers organize the Drug Nasu’s movement across a sequence of bodily
+    locations: ear, shoulders, armpits, chest, and back.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No external taxonomy reference is assigned because the available motif
+    list does not contain a close body-mapping ritual category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10751-10755
+  quote_or_summary: Ahura Mazda answers that the Drug Nasu rushes upon the left ear.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:2
+  type: summary
+  locator: lines 10757-10764
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the left ear; Ahura Mazda answers that it rushes upon the right shoulder.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:3
+  type: summary
+  locator: lines 10766-10773
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the right shoulder; Ahura Mazda answers that it rushes upon the left shoulder.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:4
+  type: summary
+  locator: lines 10775-10782
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the left shoulder; Ahura Mazda answers that it rushes upon the right armpit.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:5
+  type: summary
+  locator: lines 10784-10791
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the right armpit; Ahura Mazda answers that it rushes upon the left armpit.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:6
+  type: summary
+  locator: lines 10793-10799
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the left armpit; Ahura Mazda answers that it rushes in front upon the chest.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+- id: ev:7
+  type: summary
+  locator: lines 10799-10800 and preceding visible text
+  quote_or_summary: The question asks where the Drug Nasu rushes when the good waters
+    reach the chest in front; Ahura Mazda answers that it rushes upon the back.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summarized rather than quoted extensively.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt is formulaic and clear, but the line range ends mid-numbering
+    after the beginning of section 52, so the immediate continuation is unavailable.
+    Motif interpretation is limited to the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this sequence to another text, tradition, or broader motif family beyond the available water and duality references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l10751-l10800
+  passage_sha256=190e0e3579192cf931a0dd3a919a7d3f237fbc4004d0ff5e9ec1d088a0a1d308
+

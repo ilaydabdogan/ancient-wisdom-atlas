@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l7245-l7295
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7245-7295
+  start: '7245'
+  end: '7295'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Perseus is borne by winds across the sky and stops in the western kingdom
+    of Atlas. Atlas, fearing an oracle that a son of Jove would take gold from his
+    tree, has walled his orchard and set a dragon to guard it. He refuses Perseus
+    hospitality and tries to expel him. Perseus exposes Medusa's features, and Atlas
+    is transformed into a mountain whose body becomes woods, ridges, summit, and stones,
+    with heaven and stars resting on him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Perseus is carried by winds through the sky over the whole world and stops
+    in the western part of the world in Atlas's kingdom as day declines.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atlas is described as son of Iapetus, a king of immense bodily size whose
+    realm lies at the extremity of the earth near the sea associated with the Sun's
+    horses and chariot.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Atlas possesses many flocks and herds, and trees with golden leaves, golden
+    branches, and golden apples.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Perseus asks Atlas for hospitality and rest, invoking his descent from Jupiter
+    and his exploits.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Atlas remembers an oracle from Parnassian Themis that a time would come when
+    his tree would be stripped of gold and a son of Jove would receive the prize.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Atlas encloses his orchard with solid walls, assigns a huge dragon to guard
+    it, and expels strangers from his territory.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:7
+  text: Atlas orders Perseus to leave, denies the claims about his exploits and Jupiter,
+    and adds physical force to his threats.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Perseus, being inferior in strength to Atlas, turns his own face away and
+    exposes Medusa's horrible features on his left side.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'Atlas becomes a mountain: his beard and hair become woods, shoulders and
+    hands become ridges, head becomes the summit, bones become stones, and the whole
+    heaven with its stars rests upon him.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The footnote identifies the dragon as Ladon.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Perseus
+  description: A wind-borne traveler who seeks hospitality from Atlas, claims descent
+    from Jupiter, and exposes Medusa's features to Atlas.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Atlas
+  description: Son of Iapetus, immense king at the western extremity of the earth;
+    owner of the golden orchard; transformed into a mountain bearing heaven and stars.
+  role_refs:
+  - role:2
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Parnassian Themis
+  description: The divine figure who gives Atlas the oracle concerning his golden
+    tree and a son of Jove.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Medusa
+  description: Her horrible features are exposed by Perseus and immediately precede
+    Atlas's transformation into a mountain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Huge dragon / Ladon
+  description: The huge dragon appointed by Atlas to guard the walled orchard; the
+    footnote names it Ladon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Jupiter / Jove
+  description: Named by Perseus as the author of his descent and by the oracle as
+    father of the son who would receive the golden prize.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: wind-borne guest-seeker
+  assigned_to:
+  - fig:1
+  basis: Perseus travels through the sky and asks Atlas for hospitality and a resting
+    place.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: king at the earth's western extremity
+  assigned_to:
+  - fig:2
+  basis: Atlas is described as king in the western part of the world, at the extremity
+    of the earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: oracle-giver
+  assigned_to:
+  - fig:3
+  basis: Themis gives the response about Atlas's tree and a son of Jove.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: source of transforming features
+  assigned_to:
+  - fig:4
+  basis: Perseus exposes Medusa's features just before Atlas becomes a mountain.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: orchard guardian
+  assigned_to:
+  - fig:5
+  basis: Atlas gives the orchard to be kept by a huge dragon, identified in the note
+    as Ladon.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: divine lineage figure
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Perseus invokes Jupiter as the author of his descent, and the oracle refers
+    to a son of Jove.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: resisting host
+  assigned_to:
+  - fig:2
+  basis: Atlas refuses Perseus, expels strangers, and tries to drive him away.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden tree and orchard
+  literal_form: Trees with golden leaves, golden branches, and golden apples inside
+    Atlas's guarded orchard.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: guardian dragon
+  literal_form: A huge dragon, named Ladon in the footnote, guarding Atlas's orchard.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: Medusa's features
+  literal_form: The horrible features of Medusa exposed by Perseus while he turns
+    his own face away.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: Atlas mountain
+  literal_form: Atlas's transformed body as a mountain with woods, ridges, summit,
+    stones, and immense height.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: heaven and stars resting on Atlas
+  literal_form: The whole heaven, with many stars, rests upon the transformed Atlas.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: western edge of the world
+  literal_form: The western kingdom of Atlas at the extremity of the earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Perseus flies to the western kingdom
+  summary: Perseus is carried by winds across the sky, sees celestial regions, and
+    stops at Atlas's western realm to rest for the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Atlas's golden orchard and oracle
+  summary: Atlas owns golden trees and recalls Themis's oracle that his tree would
+    be stripped by a son of Jove; he walls the orchard, sets a dragon over it, and
+    excludes strangers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: scene:3
+  label: Hospitality refused
+  summary: Perseus asks Atlas for hospitality and rest, but Atlas orders him away
+    and attempts to drive him from the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Medusa's features transform Atlas
+  summary: Perseus exposes Medusa's features; Atlas is changed into a mountain, and
+    heaven with its stars rests on him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sky-borne journey to the world's edge
+  taxonomy_refs:
+  - ascent
+  basis: Perseus is carried through the sky over the whole world and stops in the
+    western extremity associated with Atlas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes flight and aerial movement, but it does not frame
+    the episode as a formal initiation or full ascent narrative.
+- id: motif:2
+  label: dragon-guarded golden tree
+  taxonomy_refs:
+  - serpent
+  basis: Atlas has golden trees and apples, encloses the orchard, and assigns a huge
+    dragon to guard it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage calls the guardian a dragon; mapping it to the serpent motif
+    family depends on treating the dragon as a serpent-like guardian.
+- id: motif:3
+  label: prophecy-driven exclusion of strangers
+  taxonomy_refs: []
+  basis: Atlas fears Themis's oracle and therefore walls the orchard, sets a guard,
+    and expels strangers, including Perseus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to this social action
+    pattern.
+- id: motif:4
+  label: petrifying or transforming monstrous face
+  taxonomy_refs: []
+  basis: Perseus turns away and exposes Medusa's horrible features; Atlas immediately
+    becomes a mountain.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not quote the word 'petrify'; the transformation is inferred
+    from the described effect of Medusa's features and Atlas's bones becoming stones.
+- id: motif:5
+  label: being transformed into a heaven-bearing mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Atlas's body becomes mountain features, grows to immense height, and the
+    whole heaven with stars rests upon him.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage places Atlas at the extremity of the earth rather than explicitly
+    at a world center.
+- id: motif:6
+  label: hero of divine descent confronts giant host
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Perseus cites Jupiter as the author of his descent, while Atlas is a massive
+    son of Iapetus who refuses him hospitality.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The parent-child relation is invoked as lineage, not narrated as an active
+    parent-child episode.
+comparison_claims:
+- id: claim:1
+  claim: The guarded golden orchard in this passage supports a cautious same-function
+    comparison with serpent or dragon guardian patterns surrounding precious trees
+    or fruit.
+  claim_level: same_function
+  target: serpent guardian of precious tree or fruit pattern
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself names only Atlas's orchard, gold, and dragon; it
+    does not mention other traditions or a broader comparative framework.
+- id: claim:2
+  claim: Atlas's metamorphosis into a mountain that supports heaven and stars supports
+    a motif-family comparison with the cosmic mountain or sky-support pattern.
+  claim_level: same_motif
+  target: cosmic_mountain
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage emphasizes a western extremity and heaven-bearing function,
+    not an explicitly central cosmic axis.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7245-7254
+  quote_or_summary: Perseus is carried by fitful winds through the sky over the whole
+    world, sees the Bears and Crab, moves west and east, and stops in Atlas's western
+    kingdom to rest as day declines.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:2
+  type: summary
+  locator: 7254-7262
+  quote_or_summary: Atlas, son of Iapetus, is described as surpassing all men in bodily
+    vastness; his realm is at the earth's extremity, with many flocks and herds, and
+    trees with golden leaves, branches, and apples.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:3
+  type: quote
+  locator: 7262-7266
+  quote_or_summary: 'Perseus says: “Jupiter is the author of my descent” and asks
+    Atlas for “hospitality, and a resting place.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 7266-7274
+  quote_or_summary: Themis's oracle says Atlas's tree will be stripped of gold and
+    a son of Jove will have the prize; Atlas, dreading this, walls the orchard, sets
+    a huge dragon to guard it, and expels strangers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:5
+  type: summary
+  locator: 7274-7279
+  quote_or_summary: Atlas tells Perseus to go far away, says his claimed exploits
+    and Jupiter will not protect him, and attempts to drive him from the doors with
+    threats and violence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:6
+  type: quote
+  locator: 7279-7282
+  quote_or_summary: Perseus says, “accept {this} present,” turns his face away, and
+    “exposes on the left side the horrible features of Medusa.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: 7282-7289
+  quote_or_summary: 'Atlas becomes a mountain: hair and beard become woods, shoulders
+    and hands ridges, head the summit, bones stones; he grows immensely, and heaven
+    with many stars rests on him.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; summary used.
+- id: ev:8
+  type: quote
+  locator: 7293-7295
+  quote_or_summary: 'Footnote 76: “The name of the dragon was Ladon.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage explicitly describes the
+    figures, actions, objects, and metamorphosis. Motif and comparison fields require
+    review, especially taxonomy mappings for dragon as serpent and Atlas as cosmic
+    mountain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote 76 was treated as part of the provided passage evidence for the dragon's name.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l7245-l7295
+  passage_sha256=a535518c9341df8df3c117116c7de0953f64fbe76a297fd41d90e736105c3e2e
+

@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1820-l1837
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: OCCUPATION ENNOBLED BY A GREAT MAN / THIRD GARDEN / WISE MAXIMS / THE DOWNFALL
+    OF THE MIGHTY; lines 1820-1837
+  start: '1820'
+  end: '1837'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents wise maxims as jewels and sages as treasuries of philosophical
+    jewels, then warns that royal favorites in high positions are like climbers on
+    a precipitous mountain whose fall is made worse by their height.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes every wise maxim spoken by mouth and teeth as a jewel.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A happy person is described as one who has made the breast a casket of jewels.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sage is described as a treasury of the jewels of philosophy, and the listener
+    is instructed not to separate from this treasure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The favourites of Sultáns are compared to people climbing a precipitous mountain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fall of those favourites is associated with quakes of anger and the vicissitudes
+    of time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that falling from a higher position is more disastrous
+    than coming down from a lower position.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: happy person with a breast as casket
+  description: A generic happy person who has made the breast a casket of jewels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sage
+  description: A sage described as a treasury of the jewels of philosophy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: favourites of Sultáns
+  description: Royal favourites compared to people climbing a precipitous mountain
+    and liable to fall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Sultáns
+  description: Rulers whose favourites are mentioned in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: people climbing a precipitous mountain
+  description: Comparative figures used to describe the position of the favourites
+    of Sultáns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: internal holder of wisdom-jewels
+  assigned_to:
+  - fig:1
+  basis: The person is happy because the breast has become a casket of jewels.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of philosophical treasure
+  assigned_to:
+  - fig:2
+  basis: The sage is called a treasury of the jewels of philosophy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: precariously elevated court favourite
+  assigned_to:
+  - fig:3
+  basis: The favourites of Sultáns are likened to climbers high on a precipitous mountain
+    and exposed to disastrous falls.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: royal patron or ruler
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the endangered favourites as favourites of Sultáns.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: simile for hazardous elevation
+  assigned_to:
+  - fig:5
+  basis: Mountain climbers are the explicit comparison used for the favourites of
+    Sultáns.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wisdom as jewels
+  literal_form: jewel; jewels of philosophy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: breast as casket
+  literal_form: breast made into a casket of jewels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sage as treasury
+  literal_form: treasury of the jewels of philosophy
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: precipitous mountain
+  literal_form: precipitous mountain
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fall from height
+  literal_form: fall from a higher position
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wise maxims as jewels and treasure
+  summary: Wise maxims are presented as jewels; a happy person stores them inwardly,
+    and a sage is described as a treasury of philosophical jewels from which one should
+    not separate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Downfall of the mighty from precarious height
+  summary: Royal favourites are compared to climbers on a precipitous mountain who
+    may fall because of anger and time; the higher the position, the worse the fall.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom as treasure
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly frames wise maxims and philosophical teaching as jewels,
+    a casket, and a treasury.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The imagery is didactic and proverbial rather than a narrative myth episode.
+- id: motif:2
+  label: downfall from high station
+  taxonomy_refs: []
+  basis: The passage compares the favourites of Sultáns in elevated positions to climbers
+    whose fall from a mountain is especially disastrous.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No divine judgment, cosmic mountain, or heroic ascent is stated; the mountain
+    is a moral-political simile.
+- id: motif:3
+  label: instability of royal favor
+  taxonomy_refs: []
+  basis: The favourites of Sultáns are portrayed as vulnerable to anger and the vicissitudes
+    of time.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate a specific court event or named ruler.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1820-1825
+  quote_or_summary: "“Every [wise], maxim by the mouth and teeth is a jewel”; the
+    happy person has made the breast “a casket of jewels.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1826-1827
+  quote_or_summary: "“A sage is a treasury of the jewels of philosophy,” followed
+    by an instruction not to separate from the treasure."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1828-1834
+  quote_or_summary: The favourites of Sultáns are likened to people climbing a precipitous
+    mountain and falling because of anger and the vicissitudes of time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1835-1837
+  quote_or_summary: The passage states that a fall from a higher position is more
+    disastrous than coming down from a lower one.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery and didactic motifs are clear. Taxonomic mapping is limited
+    because the passage is proverbial and metaphorical rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added; comparison_claims left empty because the passage itself does not name or directly invoke another text, tradition, or explicit comparative corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1820-l1837
+  passage_sha256=67b1ec0e9b707d4899b3f9e3c6252e0f4dd9c457cc0be3c810bfa64e12dc33b7
+

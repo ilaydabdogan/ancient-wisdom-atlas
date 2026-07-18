@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.egyptian-tales-first-series-petrie-gutenberg-l1145-l1157
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+passage_locator:
+  label: IXTH DYNASTY / THE PEASANT AND THE WORKMAN / GOING TO WAWAT, XIITH DYNASTY
+    / THE SHIPWRECKED SAILOR; lines 1145-1157
+  start: '1145'
+  end: '1157'
+  translation: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to
+    XIIth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: it shall be changed into waves
+  summary: A speaker who identifies himself as prince of Punt comments on incense,
+    perfumes, and a promised oil, foretells the narrator's departure and the isle's
+    transformation into waves, and later bids the narrator farewell when the ship
+    arrives, telling him to return home, see his children, and keep a good name in
+    his town.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker smiles at the narrator's speech before replying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the narrator is not rich in perfumes and that the narrator's
+    goods are common incense.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker identifies himself as prince of the land of Punt and says that
+    he has perfumes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says the oil the narrator had promised to bring is not common
+    on the isle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker says that when the narrator departs, he will never again see the
+    isle because it will be changed into waves.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: A ship draws near in accordance with what the speaker had previously told
+    the narrator.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The narrator climbs a high tree in an attempt to see those within the approaching
+    ship.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The narrator reports the matter to the speaker, but the matter is already
+    known to the speaker beforehand.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The speaker bids farewell and tells the narrator to go to his house, see his
+    children again, and let his name be good in his town.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker identifying himself as prince of Punt
+  description: A speaking figure who smiles, identifies himself as prince of the land
+    of Punt, says he has perfumes, foretells the narrator's departure and the isle's
+    change into waves, already knows of the ship's arrival, and gives farewell wishes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: narrator addressed as little one
+  description: The addressee of the prince's speech; he is associated with common
+    incense, a promised oil, departure from the isle, climbing a high tree to view
+    an approaching ship, and returning home to children and town.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: narrator's children
+  description: The children whom the speaker tells the narrator to see again when
+    he returns home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prince of Punt and possessor of perfumes
+  assigned_to:
+  - fig:1
+  basis: The speaker explicitly says he is prince of the land of Punt and that he
+    has perfumes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foreknowing farewell speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker foretells the narrator's departure and the isle's change into
+    waves, already knows about the arriving ship, and bids farewell with wishes for
+    the narrator.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: departing narrator and returning householder
+  assigned_to:
+  - fig:2
+  basis: The narrator is told he will depart, climbs a tree to view the ship, and
+    is instructed to go home, see his children, and have a good name in his town.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: family awaiting reunion
+  assigned_to:
+  - fig:3
+  basis: The children are named as those the narrator should see again when he goes
+    home.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: perfumes, common incense, and rare oil
+  literal_form: perfumes; common incense; oil not common on the isle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: isle changed into waves
+  literal_form: the isle that will be changed into waves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: approaching ship
+  literal_form: ship drawing near
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: high tree lookout
+  literal_form: high tree climbed to see those within the ship
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: home, children, and town
+  literal_form: house; children; town; good name in town
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prince of Punt speaks of perfumes and the isle's fate
+  summary: The speaker responds to the narrator by contrasting common incense with
+    his own perfumes, identifying himself as prince of Punt, mentioning the promised
+    oil, and saying that after the narrator departs the isle will be changed into
+    waves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ship arrival and tree lookout
+  summary: When the ship draws near as foretold, the narrator climbs a high tree to
+    see those on the ship and then reports the matter to the speaker, who already
+    knows it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Farewell and return-home blessing
+  summary: The speaker bids the narrator farewell and tells him to return to his house,
+    see his children again, and maintain a good name in his town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: vanishing or transformed isle
+  taxonomy_refs: []
+  basis: The speaker says that after the narrator departs he will never again see
+    the isle because it will be changed into waves.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the transformation but does not explain its cause or
+    whether it is natural, magical, or symbolic.
+- id: motif:2
+  label: departure from an isle by arriving ship
+  taxonomy_refs:
+  - departure
+  basis: The speaker predicts the narrator's departure, and the ship later draws near
+    as previously told.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt gives the approach of the ship but not the actual boarding
+    or departure.
+- id: motif:3
+  label: return home to family with farewell blessing
+  taxonomy_refs:
+  - return
+  basis: The speaker bids farewell and instructs the narrator to go to his house,
+    see his children again, and have a good name in his town.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the instruction and blessing, not the completed return.
+- id: motif:4
+  label: foreknowledge by a host figure
+  taxonomy_refs: []
+  basis: The speaker foretells the departure and the isle's change into waves, and
+    the ship's arrival is already known to him before the narrator reports it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state the source or nature of the speaker's prior
+    knowledge.
+- id: motif:5
+  label: elevated lookout for an approaching vessel
+  taxonomy_refs: []
+  basis: The narrator climbs a high tree in order to see those within the approaching
+    ship.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a concrete action pattern in the excerpt; broader mythic significance
+    is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1145-1151
+  quote_or_summary: The speaker smiles, says the narrator's goods are common incense,
+    identifies himself as prince of Punt with perfumes, mentions the promised oil
+    as uncommon on the isle, and says that after departure the narrator will never
+    again see the isle because it will be changed into waves.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1152-1155
+  quote_or_summary: When the ship draws near as previously foretold, the narrator
+    climbs a high tree to see those within it, then reports the matter to the speaker,
+    who already knows it beforehand.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1155-1157
+  quote_or_summary: The speaker bids farewell and tells the narrator to go to his
+    house, see his children again, and let his name be good in his town.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied English passage. Motif labels
+    are cautious because the excerpt is brief and does not explain the nature of the
+    isle's transformation or the source of the speaker's foreknowledge. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external context or figures were added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-first-series-petrie-gutenberg__l1145-l1157
+  passage_sha256=64c82010e7b021ceace200486455e19480b141b92ffb2caf08acbbf6ef141112
+

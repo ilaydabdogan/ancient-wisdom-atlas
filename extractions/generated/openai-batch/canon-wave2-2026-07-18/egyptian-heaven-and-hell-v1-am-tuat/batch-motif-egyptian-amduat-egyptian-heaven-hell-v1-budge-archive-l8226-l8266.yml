@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l8226-l8266
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: AWVNA / I    I    I / THE    BOOK   OF   AM-TUAT / THE    BOOK   OF   AM-TUAT;
+    lines 8226-8266
+  start: '8226'
+  end: '8266'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes figures on a path where a god is towed. The god calls
+    living figures by name; their task is to seize the enemies of Ea throughout a
+    City and put their heads under swords after the god has passed. A separate depicted
+    form is a ram with a solar disk between its horns and a symbol of linen bandages
+    in front of it; the ram is identified as an image or first form of Tathenen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Figures in the picture are described as being on the path along which a god
+    is towed.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figures have swathings before them in the form in which the god himself
+    had them.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The great god cries out to figures who have life in them and calls them by
+    their names.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The work of the addressed figures is to seize the enemies of Ea throughout
+    the City.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the god has passed, the enemies' heads are made to pass under swords.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A ram is described as having the solar disk between its horns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A symbol of linen bandages is placed in front of the ram.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The ram is identified as an image and first form of Tathenen.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A caption or label in the passage reads "Servants of the god Ea."
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: this god / our great god
+  description: An unnamed god who is towed along a path, cries out to figures by name,
+    and passes before the punitive action against enemies occurs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: figures on the path / servants of the god Ea
+  description: Plural figures on the god's path, associated with swathings, addressed
+    by the god, and assigned the work of seizing Ea's enemies; a nearby label names
+    servants of the god Ea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: enemies of Ea
+  description: Enemies who are seized throughout the City and whose heads are put
+    under swords after the god passes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: god Ea
+  description: Named deity whose enemies are seized and whose servants are mentioned
+    in a caption or label.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: ram with solar disk
+  description: A ram with the solar disk between its horns and a symbol of linen bandages
+    in front of it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Tathenen
+  description: A named deity of whom the ram is said to be an image or first form.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: towed and addressing deity
+  assigned_to:
+  - fig:1
+  basis: The passage says the god is towed along a path, cries out, calls figures
+    by name, and passes by before the enemy action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named workers or servants
+  assigned_to:
+  - fig:2
+  basis: The figures are called by name and their work is to seize Ea's enemies; the
+    passage also gives the label "Servants of the god Ea."
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: enemy targets
+  assigned_to:
+  - fig:3
+  basis: They are explicitly called enemies of Ea and are the objects of seizure and
+    sword action.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deity of affiliation and opposition
+  assigned_to:
+  - fig:4
+  basis: Ea is named as the deity whose enemies are seized and whose servants are
+    labeled.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: animal manifestation or depicted form
+  assigned_to:
+  - fig:5
+  basis: The ram is described with solar disk and linen-bandage symbol and is identified
+    as an image or form of Tathenen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: represented deity
+  assigned_to:
+  - fig:6
+  basis: Tathenen is named as the deity of whom the ram is an image and first form.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: path
+  literal_form: Path along which the god is towed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: swathings or linen bandages
+  literal_form: Swathings before the path figures; symbol of linen bandages before
+    the ram
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: swords
+  literal_form: Swords under which the enemies' heads pass
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heads of enemies
+  literal_form: Heads made to pass under swords
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: solar disk between horns
+  literal_form: Solar disk placed between the ram's horns
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: the City
+  literal_form: The City throughout which the enemies of Ea are seized
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: God towed past servants who seize enemies
+  summary: On a path, a god is towed and calls living figures by name. Their assigned
+    work is to seize the enemies of Ea throughout the City and make the enemies' heads
+    pass under swords after the god has passed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Ram as first form of Tathenen
+  summary: A ram with the solar disk between its horns is shown with a symbol of linen
+    bandages in front of it and is identified as an image or first form of Tathenen.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mapped divine passage through a path and City
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The source context identifies the passage as from the Book of the Am-Tuat,
+    and the excerpt describes a god moving along a path, figures stationed there,
+    a City, and a sequence of actions after the god passes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The excerpt itself is fragmentary and does not provide the whole map or
+    explicitly explain the afterlife setting beyond the supplied source metadata.
+- id: motif:2
+  label: Servants destroy enemies of a god
+  taxonomy_refs: []
+  basis: The figures' work is to seize the enemies of Ea throughout the City and put
+    their heads under swords after the god passes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage describes punitive destruction, but it does not describe a
+    trial or weighing scene, so no divine-judgment taxonomy is assigned.
+- id: motif:3
+  label: Animal form as image or first form of a deity
+  taxonomy_refs: []
+  basis: The ram with a solar disk is explicitly identified as an image or first form
+    of Tathenen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage identifies a form or image but does not narrate transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8226-8266, opening description
+  quote_or_summary: Figures are on the path along which the god is towed and have
+    swathings before them in the form the god had them.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8226-8266, divine address
+  quote_or_summary: The great god cries out to figures who have life in them and calls
+    them by their names.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8226-8266, enemy action
+  quote_or_summary: The figures' work is to seize the enemies of Ea throughout the
+    City and make their heads pass under swords after the god has passed.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 8226-8266, numbered item 3
+  quote_or_summary: '"A ram, having the solar disk between his horns"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quotation from public-domain text.
+- id: ev:5
+  type: summary
+  locator: lines 8226-8266, captions and following description
+  quote_or_summary: The passage labels "Servants of the god Ea" and "First form of
+    Tathenen," and describes a symbol of linen bandages in front of the ram, which
+    is an image of Tathenen.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized evidence with short labels.
+- id: ev:6
+  type: citation
+  locator: source metadata and passage heading
+  quote_or_summary: 'The passage is supplied as part of The Egyptian Heaven and Hell,
+    Volume I: The Book of the Am-Tuat, in an ancient Egyptian funerary context.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is OCR-fragmentary, so some labels are treated cautiously. No
+    external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage, source metadata, and available taxonomy references. Comparison claims are left empty because the passage does not itself support a separate comparative claim.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l8226-l8266
+  passage_sha256=6b3ee6fa688c4d81d0639e75dad2bdd6fed51ab6fa4893b4180cfe49452a97ec
+

@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l402-l493
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: PART I / PART II / HOW THE TURTLE SAVED HIS OWN LIFE / THE MERCHANT OF SERI;
+    lines 402-493
+  start: '402'
+  end: '493'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A brass-and-tinware merchant and a greedy fellow merchant enter a town
+    and divide the streets for trade. In a poor household, an old woman and her granddaughter
+    possess an old bowl without knowing it is gold. The greedy merchant tests it,
+    recognizes its value, falsely calls it worthless, and leaves hoping to return
+    for it cheaply. Another merchant recognizes the gold, says his goods are worth
+    less than the bowl, and gives all his money and wares while retaining eight pennies
+    for the boat fare. The greedy merchant returns too late, laments losing a fortune,
+    and cannot stop the other merchant’s boat from crossing the river.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two merchants selling brass and tinware travel together and divide the town
+    streets between them for selling and trading.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second merchant is described as greedy, taking as much as he can and giving
+    as little as possible.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A poor old woman and her granddaughter keep an old bowl from their formerly
+    wealthy household, not knowing it is made of gold.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The greedy merchant scratches the bowl with a needle and thereby finds that
+    it is golden.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After recognizing the bowl’s value, the greedy merchant says it is worth less
+    than a halfpenny, throws it on the ground, and leaves.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The other merchant recognizes the bowl as gold and says that everything he
+    has is not worth as much as the bowl.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The other merchant gives the old woman all his money and wares, keeping only
+    eight pennies, then uses those pennies to pay the boatman for a river crossing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: The greedy merchant returns to obtain the bowl but learns that another merchant
+    has already paid a great price and taken it away.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The greedy merchant calls for the boat to stop, but the man in the boat tells
+    the boatman not to stop and reaches the city on the other side.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: merchant of Seri / other merchant
+  description: A traveling seller of brass and tinware who recognizes the bowl as
+    gold, pays the old woman with his money and wares, and crosses the river by boat.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: greedy merchant
+  description: The companion merchant, explicitly described as greedy, who tests the
+    bowl, misrepresents its value, and later returns too late to acquire it.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: poor old woman / grandmother
+  description: An old woman living in a poor household with her granddaughter; she
+    keeps the old bowl from earlier family wealth and offers it in trade.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: granddaughter / little girl
+  description: The old woman’s granddaughter, who asks her grandmother to trade the
+    old bowl for something she wants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: boatman
+  description: The boatman paid eight pennies to take the merchant across the river;
+    he is later called on by the greedy merchant to stop the boat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: traveling wares seller
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both merchants sell brass and tinware from town to town and call their wares
+    in the streets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: greedy under-valuer
+  assigned_to:
+  - fig:2
+  basis: The passage calls the second merchant greedy and shows him falsely declaring
+    the golden bowl nearly worthless after testing it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: fair valuer and buyer
+  assigned_to:
+  - fig:1
+  basis: He identifies the bowl as gold, says his goods are worth less than it, and
+    gives the old woman all his money and wares except the boat fare.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: poor household sellers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The old woman and granddaughter are described as poor and try to trade the
+    old bowl for a desired dish or item.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: river-crossing participants
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The merchant pays the boatman eight pennies to take him across the river.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:6
+  label: belated pursuer
+  assigned_to:
+  - fig:2
+  basis: After learning the bowl is gone, the greedy merchant runs to the riverside
+    and calls for the boatman to stop the boat.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: golden bowl
+  literal_form: An old bowl kept among pots and pans, unknown to the family as gold
+    until the merchants test or recognize it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: needle test
+  literal_form: The greedy merchant scratches the bowl’s side with a needle to discover
+    that it is gold.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wares and money exchanged for the bowl
+  literal_form: The fair merchant gives all his wares and money, retaining eight pennies
+    for the boat fare.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: river crossing
+  literal_form: A river crossed by boat after the bowl is purchased; the greedy merchant
+    reaches the riverside too late to stop the boat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Merchants divide the streets
+  summary: The two traveling wares sellers enter a town, divide the streets, and call
+    out brass and tinware for sale or trade.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poor household offers the old bowl
+  summary: The granddaughter asks for something from the merchant, and the old woman
+    offers the unused old bowl in trade.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Greedy merchant rejects the golden bowl
+  summary: The greedy merchant tests the bowl, learns it is gold, falsely calls it
+    almost worthless, throws it down, and leaves.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fair merchant pays for the bowl
+  summary: The other merchant recognizes the bowl as gold, admits his goods are worth
+    less, and nevertheless gives the old woman all his money and wares while keeping
+    eight pennies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: River crossing and failed recall
+  summary: The merchant pays the boatman to cross the river; the greedy merchant runs
+    to the riverside and calls for the boat to stop, but the man in the boat tells
+    the boatman not to stop.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: hidden treasure in an ordinary household object
+  taxonomy_refs: []
+  basis: The poor household keeps an old bowl among common pots and pans without knowing
+    it is gold; both merchants recognize or test its true value.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the bowl as valuable but does not explicitly call
+    it treasure.
+- id: motif:2
+  label: greedy deception loses the prize
+  taxonomy_refs: []
+  basis: The greedy merchant lies about the bowl’s value to obtain it cheaply, but
+    his delay allows another merchant to buy it, and he laments losing a fortune.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The moral consequence is evident in the plot, though the passage excerpt
+    does not state an explicit moral lesson.
+- id: motif:3
+  label: fair valuation and generous exchange
+  taxonomy_refs:
+  - wisdom
+  basis: The other merchant identifies the bowl’s true value, refuses to treat it
+    as worthless, and gives all his money and wares except the needed boat fare.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy link to wisdom is based on ethical discernment in action;
+    the passage itself does not use the word wisdom.
+- id: motif:4
+  label: escape across water from a belated pursuer
+  taxonomy_refs: []
+  basis: After the fair merchant crosses the river with the bowl, the greedy merchant
+    arrives at the riverside and fails to stop the boat.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This is a small closing episode rather than the central exchange plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 404-412
+  quote_or_summary: A merchant of Seri and another brass-and-tinware seller travel
+    together, divide streets for trade, and the second man is described as greedy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 414-419
+  quote_or_summary: A poor old woman and her granddaughter live in a formerly rich
+    household whose remaining possession is a bowl the grandmother does not know is
+    gold.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 421-430
+  quote_or_summary: The greedy merchant passes the house; the granddaughter asks the
+    grandmother to buy something, and suggests trading the old bowl.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 432-439
+  quote_or_summary: The greedy merchant takes the bowl, scratches it with a needle,
+    discovers it is gold, hopes to get it for nothing, calls it worth less than a
+    halfpenny, throws it down, and leaves.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 441-459
+  quote_or_summary: The other merchant passes, is called in, takes the bowl, knows
+    it is gold, and says all he has is not worth as much as the bowl.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 461-467
+  quote_or_summary: The grandmother reports that the earlier merchant called the bowl
+    worthless; the other merchant gives all his money and wares and asks to keep eight
+    pennies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 469-470
+  quote_or_summary: The merchant takes the eight pennies and pays the boatman to carry
+    him across the river.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 472-480
+  quote_or_summary: The greedy merchant returns for the bowl, learns another merchant
+    has paid a great price and taken it, and cries that he has lost a small fortune.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 482-487
+  quote_or_summary: The greedy merchant runs to the riverside and calls for the boat
+    to stop, but the man in the boat says not to stop and reaches the city on the
+    other side.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main figures, objects, and action sequence are explicit in the passage.
+    Motif labels are candidate analytical tags and need human review, especially the
+    wisdom taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this story to another motif family, text, or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l402-l493
+  passage_sha256=f359f0bca462eb6a49857382553ffdcfeb4505dc795246ab3c55872409909ef3
+

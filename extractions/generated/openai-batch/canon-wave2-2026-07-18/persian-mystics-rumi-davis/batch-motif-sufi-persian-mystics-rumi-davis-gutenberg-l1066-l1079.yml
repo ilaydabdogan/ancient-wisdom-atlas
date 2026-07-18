@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1066-l1079
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE BELOVED THE DIVINE CONSOLER / THE SEA OF LOVE / THE BEAUTY OF THE BELOVED
+    / THE WATER OF ETERNAL LIFE; lines 1066-1079
+  start: '1066'
+  end: '1079'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Do not think of the Water failing, for this Water is without end.
+  summary: The passage teaches that visible forms have imperishable archetypes or
+    originals; it compares the Soul to a fountain and created things to rivers, urging
+    the hearer to abandon grief and drink from unfailing water.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Every visible form is said to have an archetype in a placeless world, and
+    the form's Original is described as everlasting even if the form perishes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hearer is told not to be cast down by the apparent perishing of fair shapes
+    or deep sayings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An undying Spring-head is described as continually giving water through its
+    branch.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Soul is to be conceived as a fountain, while created things are to be
+    conceived as rivers running from it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hearer is instructed to put away grief, keep drinking River-water, and
+    not think that the Water will fail.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Soul
+  description: An abstract entity compared to a fountain from which created things
+    flow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: created things
+  description: Created things are compared to rivers that run from the fountain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the Original
+  description: The everlasting archetype or original of perishable forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: addressed hearer
+  description: The addressee who is told not to lament and to keep drinking the River-water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: everlasting archetypal source
+  assigned_to:
+  - fig:3
+  basis: The passage says that if a form perishes, its Original remains everlasting.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fountain-like source
+  assigned_to:
+  - fig:1
+  basis: The Soul is explicitly compared to a fountain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: derived flowing manifestations
+  assigned_to:
+  - fig:2
+  basis: Created things are explicitly compared to rivers running from the fountain.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of consolation and instruction
+  assigned_to:
+  - fig:4
+  basis: The addressee is told not to grieve and to keep drinking unfailing water.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: unfailing water
+  literal_form: Water, River-water
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: spring-head and fountain
+  literal_form: Spring-head; fountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: rivers
+  literal_form: rivers
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: placeless world
+  literal_form: placeless world
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Imperishable archetype behind perishable form
+  summary: Visible forms may perish, but the passage says their archetype or Original
+    remains everlasting, so the hearer should not be cast down.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Undying source and flowing creations
+  summary: 'The passage presents a water-source analogy: an undying Spring-head gives
+    water, and the Soul is imagined as a fountain from which created things flow like
+    rivers.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Instruction to drink unfailing water
+  summary: The hearer is told to remove grief, keep drinking the River-water, and
+    trust that the Water is without end.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Perishable forms grounded in an imperishable original
+  taxonomy_refs:
+  - wisdom
+  basis: The passage teaches that forms may perish while their Original remains everlasting,
+    and uses this teaching to console the hearer.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is doctrinal and
+    poetic rather than a narrative wisdom tale.
+- id: motif:2
+  label: Inexhaustible water of eternal life
+  taxonomy_refs: []
+  basis: The passage describes water from an undying source and instructs the hearer
+    to keep drinking because the Water is without end.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No journey to obtain the water, healing episode, or resurrection scene
+    is narrated in this passage.
+- id: motif:3
+  label: Multiplicity flowing from a single source
+  taxonomy_refs: []
+  basis: The Soul is compared to a fountain and created things to rivers that run
+    from it while the fountain flows.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a metaphysical analogy, not a developed mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1066-1069
+  quote_or_summary: '"Every form you see has its archetype in the placeless world"
+    and its "Original is everlasting."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: 1070-1073
+  quote_or_summary: The Spring-head is described as undying, and its branch gives
+    water continually; the hearer is asked why they lament if neither can cease.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: quote
+  locator: 1074-1076
+  quote_or_summary: '"Conceive the Soul as a fountain, and these created things as
+    rivers."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: quote
+  locator: 1077-1079
+  quote_or_summary: '"Put grief out of your head and keep quaffing this River-water";
+    the Water is said to be "without end."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are inferred from the
+    passage's imagery and doctrine; no explicit cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator, metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1066-l1079
+  passage_sha256=3cd9d5aaa887054715a91133b1f842ff1f6b590503dee0c1fd38e1d85ddf09d6
+

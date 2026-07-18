@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l310-l435
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: HYMNS  AND  PRAYERS 139 / LITURGICAL  AND  DOCTRINAL  TEXTS 187 / CHRONOLOGICAL  MATERIALS
+    199 / HISTORICAL  TEXTS 241; lines 310-435
+  start: '310'
+  end: '435'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment under Historical Texts listing sections on
+    Hammurapi, the Tell-el-Amarna period, letters associated with named rulers and
+    cities, and later Assyrian historical texts and inscriptions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens a Historical Texts contents section and lists Hammurapi-related
+    entries, including Kudur-Mabuk, Arad-Sin (Eri-Aku), two letters of Hammurapi to
+    Sin-idinnam, and other Hammurapi texts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tell-el-Amarna period contents entries include discovery of letters, Egypt,
+    Syria and Palestine, and letters associated with Burraburiash, Tushratta, Rib-Adda
+    of Byblus, Abdi-Khiba of Jerusalem, Lachish, Gezer, and Ta'anek.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Later contents entries list Ashurnazirpal, Shalmaneser III, OCR-corrupted
+    royal headings, and Sargon II, along with annals, inscriptions, tablets, and campaigns.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage is formatted as a table of contents with headings and page numbers
+    rather than as a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hammurapi
+  description: Named as a Historical Texts section subject and in entries for letters
+    to Sin-idinnam.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kudur-Mabuk
+  description: Named as a subentry under the Hammurapi contents section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Arad-Sin (Eri-Aku)
+  description: Named as a subentry under the Hammurapi contents section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sin-idinnam
+  description: Named as the recipient in two entries for letters of Hammurapi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Burraburiash
+  description: Named in an entry for a letter to Amenophis IV.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Amenophis IV
+  description: Named as the recipient in an entry for a letter of Burraburiash.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Tushratta
+  description: Named in an entry for a letter to Amenophis III.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Amenophis III
+  description: Named as the recipient in an entry for a letter of Tushratta.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Rib-Adda of Byblus
+  description: Named in the contents as associated with letters from Byblus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Abdi-Khiba of Jerusalem
+  description: Named in the contents as associated with letters from Jerusalem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:11
+  name_or_label: Ashurnazirpal
+  description: Named as a Historical Texts section subject with annals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: Shalmaneser III
+  description: Named as a Historical Texts section subject with multiple dated inscriptions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:13
+  name_or_label: Sargon II
+  description: Named as a Historical Texts section subject with entries for conquest
+    and campaign.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: historical section subject
+  assigned_to:
+  - fig:1
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: These names appear as major numbered headings in the Historical Texts contents
+    list.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: named letter sender or letter-associated principal
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:7
+  basis: The contents use the form 'Letter of [name] to [name]' for these figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: named letter recipient
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: The contents identify these figures after 'to' in letter entries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: named contents subentry
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:9
+  - fig:10
+  basis: These figures are named in individual contents entries without a narrative
+    action in this passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 310-435, Hammurapi contents entries
+  quote_or_summary: Under 'I. Hammurapi' the contents list Kudur-Mabuk, Arad-Sin (Eri-Aku),
+    letters of Hammurapi to Sin-idinnam, and other Hammurapi texts.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 310-435, Tell-el-Amarna contents entries
+  quote_or_summary: The Tell-el-Amarna period section lists discovery, Egypt, Syria
+    and Palestine, and letters associated with Burraburiash, Amenophis IV, Tushratta,
+    Amenophis III, Rib-Adda of Byblus, Abdi-Khiba of Jerusalem, Lachish, Gezer, and
+    Ta'anek.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 310-435, later Historical Texts contents entries
+  quote_or_summary: Later contents entries name Ashurnazirpal with annals, Shalmaneser
+    III with several inscriptions, OCR-corrupted royal headings, and Sargon II with
+    conquest and campaign entries.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: lines 310-435
+  quote_or_summary: The passage consists of table-of-contents headings and page references,
+    not a mythological or ritual narrative passage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; descriptive note.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The line range appears to be an OCR-derived table of contents. Named historical
+    figures and document categories can be extracted, but the passage does not support
+    mythic symbols, scenes, motif candidates, or comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythology motifs were extracted because the supplied passage is a contents list rather than a narrative, hymn, prayer, or doctrinal text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l310-l435
+  passage_sha256=17d89ed1e9bbdc4b9d995ed29e58773599c0cf74fd675ddf746ce169267c8ac0
+

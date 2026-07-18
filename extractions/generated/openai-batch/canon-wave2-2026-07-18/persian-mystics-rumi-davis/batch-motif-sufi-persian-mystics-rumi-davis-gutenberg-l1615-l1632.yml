@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1615-l1632
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE DIVINE UNION / RESIGNATION THE WAY TO PERFECTION / LOVE THE SOURCE OF
+    LIGHT RATHER THAN VANISHING FORM / THE RELIGION OF LOVE; lines 1615-1632
+  start: '1615'
+  end: '1632'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Pain is a treasure, for it contains mercies;
+  summary: The passage presents lovers as having a distinct religion of love, describes
+    love as fearless amid fear, and portrays pain, darkness, abasement, and autumn
+    as containing mercy, life, exaltation, and springlike renewal.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the sect of lovers is distinct from all others and
+    that lovers have their own religion and faith.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A ruby is described as having no stamp, followed by the question of whether
+    that matters.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Love is described as fearless in the midst of a sea of fear.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pain is called a treasure and is said to contain mercies.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The kernel is described as soft when the rind has been scraped off.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker addresses a brother and says that the place of darkness and cold
+    is the fountain of Life and the cup of ecstasy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Endurance of pain, sickness, and disease is mentioned, followed by the statement
+    that exaltation proceeds from abasement.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Spring seasons are said to be hidden in autumns, and autumns are said to be
+    charged with springs.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: lovers
+  description: A group described as having a distinct sect, religion, and faith of
+    their own.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: brother
+  description: The addressee addressed by the speaker with the phrase “O brother.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: members of a distinct love-community
+  assigned_to:
+  - fig:1
+  basis: The lovers are said to belong to a sect distinct from all others and to have
+    their own religion and faith.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed listener
+  assigned_to:
+  - fig:2
+  basis: The speaker directly addresses the figure as “O brother.”
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: unstamped ruby
+  literal_form: a ruby with no stamp
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sea of fear
+  literal_form: the sea of fear
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pain as treasure
+  literal_form: pain called a treasure containing mercies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: kernel and rind
+  literal_form: a soft kernel revealed when the rind is scraped off
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: dark cold place as fountain and cup
+  literal_form: the place of darkness and cold; the fountain of Life; the cup of ecstasy
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: spring hidden in autumn
+  literal_form: spring seasons hidden in autumns; autumns charged with springs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The religion of lovers
+  summary: Lovers are presented as a distinct group with their own religion and faith;
+    an unstamped ruby is mentioned, and love is described as fearless amid a sea of
+    fear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pain, darkness, and seasonal reversal
+  summary: Pain is described as a treasure containing mercies; images of kernel and
+    rind, darkness and life-giving fountain, abasement and exaltation, and autumn
+    containing spring express a pattern of hidden benefit within hardship.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Lovers with a religion of their own
+  taxonomy_refs: []
+  basis: The passage explicitly says lovers are distinct from all others and possess
+    their own religion and faith.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not specify institutional practices or identify the beloved
+    as divine within this excerpt.
+- id: motif:2
+  label: Fearless love amid fear
+  taxonomy_refs: []
+  basis: Love is described as fearless in the midst of a sea of fear.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a compact metaphor rather than a developed narrative episode.
+- id: motif:3
+  label: Hidden mercy within pain
+  taxonomy_refs:
+  - wisdom
+  basis: Pain is called a treasure containing mercies, and the kernel-and-rind image
+    presents value revealed by removal of an outer covering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is interpretive; the passage itself frames
+    the motif through metaphor rather than explicit instruction.
+- id: motif:4
+  label: Renewal and exaltation hidden within hardship
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  - duality
+  basis: The passage says darkness and cold are the fountain of Life and cup of ecstasy,
+    abasement leads to exaltation, and spring is hidden in autumn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The death-rebirth reference is based on metaphorical renewal imagery,
+    not on a literal death or resurrection event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1617-1618
+  quote_or_summary: "“The sect of lovers is distinct from all others, / Lovers have
+    a religion and a faith of their own.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: '1619'
+  quote_or_summary: "“Though the ruby has no stamp, what matters it?”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: '1620'
+  quote_or_summary: "“Love is fearless in the midst of the sea of fear.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: 1622-1624
+  quote_or_summary: "“PAIN IS A TREASURE!” and “Pain is a treasure, for it contains
+    mercies;”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: '1625'
+  quote_or_summary: "“The kernel is soft when the rind is scraped off.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: 1626-1627
+  quote_or_summary: "“O brother, the place of darkness and cold / Is the fountain
+    of Life and the cup of ecstasy.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:7
+  type: quote
+  locator: 1628-1629
+  quote_or_summary: "“So also is endurance of pain and sickness and disease. / For
+    from abasement proceeds exaltation.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:8
+  type: quote
+  locator: 1630-1631
+  quote_or_summary: "“The spring seasons are hidden in the autumns, / And the autumns
+    are charged with springs.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif candidates
+    involving wisdom, duality, seasonal cycle, and death-rebirth are metaphorical
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself identify an external comparative tradition or explicit parallel.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1615-l1632
+  passage_sha256=35c3e565fcd6e6f601bb4832932a42e694adfcc925ce05804b707ab407d561f7
+

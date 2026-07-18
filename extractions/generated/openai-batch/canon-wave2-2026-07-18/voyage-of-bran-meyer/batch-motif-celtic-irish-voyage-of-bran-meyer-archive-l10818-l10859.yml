@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l10818-l10859
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: DEVELOPMENT    OF    TYPES  231 / DEVELOPMENT    OF    TYPES  233 / CHRISTIAN    AND    PAGAN    FORMS      235
+    / AVALON  237; lines 10818-10859
+  start: '10818'
+  end: '10859'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly passage quotes Latin descriptions of Avalon or a comparable
+    island as spontaneously fertile, ocean-encircled, peaceful, eternally springlike,
+    full of flowers and fruit, and free from old age, illness, pain, and private property.
+    It then compares the Avalon material with Manannan's land and with a healing promise
+    involving Liban, Cuchulinn, and Fann, while arguing that the Brythonic wonder
+    isle is akin to the Gaelic one and leaving the historical explanation uncertain.
+  language: English commentary with Latin verse excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted Latin passage describes land producing crops, grapes, and apples
+    of its own accord.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says Geoffrey barely mentions Avalon, while an unknown writer
+    cited as Pseudo-Gildas amplifies the mention in verse.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Pseudo-Gildas excerpt describes a memorable island encircled by Ocean
+    and lacking no good things.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The island is described as free from thief, robber, enemy, violence, and immoderate
+    winter or summer; peace and concord remain there.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The island has eternal spring, flowers, fruit, and a tree bearing flowers
+    and apples under the same branch.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The island's inhabitants are described as youths with virgins, without old
+    age, disease, or pain, full of joy, and sharing all things in common.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The commentary states that the island description reads in part as if taken
+    from a description of Manannan's land.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The land is said to be inhabited by a royal virgin who can heal Arthur of
+    his wounds.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The commentary compares this with Liban's promise to cure Cuchulinn if he
+    will come and live with Fann.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The commentary says that, without the Irish analogues, the Avalon passages
+    might be treated as un-Celtic and as a literary development of Geoffrey's Hesperides
+    theme.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The commentary maintains that the Brythonic wonder isle is akin to the Gaelic
+    one, while leaving uncertain whether this reflects prehistoric mythic community
+    or historic dependence of Brythonic romance on Gaelic romance.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: regia virgo / royal virgin
+  description: An inhabitant of the land who can heal Arthur of his wounds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Arthur
+  description: A wounded figure whom the royal virgin can heal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Liban
+  description: A figure whose promise to cure Cuchulinn is compared with the royal
+    virgin's healing of Arthur.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Cuchulinn
+  description: A wounded figure whom Liban promises to cure if he comes and lives
+    with Fann.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Fann
+  description: The figure with whom Cuchulinn is to live as part of Liban's promised
+    cure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: youths with virgins
+  description: Inhabitants of the island, described as always young and without old
+    age, disease, or pain.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Manannan
+  description: Named only through the phrase Manannan's land, which the commentary
+    uses as a comparison for the Avalon description.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: healer or promiser of cure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The royal virgin can heal Arthur; Liban promises to cure Cuchulinn.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: inhabitant of the wonder land
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The royal virgin inhabits the land; the youths with virgins inhabit the island.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: wounded recipient of healing
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Arthur is to be healed of wounds; Cuchulinn is promised a cure for his hurt.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: recipient of conditional residence promise
+  assigned_to:
+  - fig:4
+  basis: Cuchulinn is promised cure if he will come and live with Fann.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: named co-resident in cure condition
+  assigned_to:
+  - fig:5
+  basis: Fann is the person with whom Cuchulinn is to live under Liban's promise.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: ageless inhabitants
+  assigned_to:
+  - fig:6
+  basis: The island inhabitants are described as youths without senescence, disease,
+    or pain.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: eponymous figure of compared land
+  assigned_to:
+  - fig:7
+  basis: The comparison is made to Manannan's land; no action by Manannan is described
+    in the passage.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Ocean-encircled wonder island
+  literal_form: A memorable island encircled by Ocean, later discussed as Avalon or
+    the Brythonic wonder isle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: Spontaneous fertility
+  literal_form: Land or soil that produces crops, grapes, apples, and other things
+    of its own accord.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Flowering and fruiting tree
+  literal_form: A tree that bears flowers and apples under one branch.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Ageless joyful society
+  literal_form: Youths with virgins, no old age, no disease, no pain, full joy, and
+    all things common.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Manannan's land / Gaelic wonder isle
+  literal_form: Manannan's land and the Gaelic wonder isle are invoked as analogues
+    for the Avalon material.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: Healing royal virgin
+  literal_form: A royal virgin in the land able to heal Arthur's wounds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spontaneous fertility of the land
+  summary: The initial quoted Latin lines present a land whose soil produces grain,
+    grapes, apples, and other abundance without labor.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pseudo-Gildas island paradise
+  summary: A versified Avalon-like island is encircled by Ocean, free of violence
+    and weather extremes, marked by peace, eternal spring, flowers, fruit, ageless
+    inhabitants, joy, and common goods.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Healing woman and wounded hero comparison
+  summary: A royal virgin in the land can heal Arthur; this is compared with Liban's
+    promise to cure Cuchulinn if he comes to live with Fann.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Scholarly comparison of Brythonic and Gaelic wonder isles
+  summary: The commentary links the Avalon material to Manannan's land and to the
+    Gaelic wonder isle, while rejecting a simple Hesperides-only explanation as less
+    satisfactory in the presence of Irish analogues.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Wonder island of abundance and eternal spring
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The island is ocean-encircled, spontaneously fertile, peaceful, eternally
+    springlike, and rich in flowers and fruit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt describes the island but does not narrate an actual journey
+    or explicitly call it an afterlife place within this passage.
+- id: motif:2
+  label: Ageless and painless inhabitants of a blessed land
+  taxonomy_refs: []
+  basis: The inhabitants are described as youths with virgins, without old age, disease,
+    or pain, and full of joy.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a compressed Latin poetic description, not a full narrative
+    episode.
+- id: motif:3
+  label: Female healer in a wonder land cures a wounded hero
+  taxonomy_refs: []
+  basis: A royal virgin can heal Arthur of wounds, and the passage compares this with
+    Liban's promise to cure Cuchulinn.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage provides only a brief comparative note and does not give the
+    full surrounding narratives.
+- id: motif:4
+  label: Conditional cure linked to residence with a named woman
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Liban promises to cure Cuchulinn if he will come and live with Fann.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link is cautious because the passage states the condition
+    but does not elaborate a ritual or formal exchange.
+- id: motif:5
+  label: Brythonic and Gaelic wonder-isle analogue
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The commentary states that the Brythonic wonder isle is akin to the Gaelic
+    one and compares Avalon with Manannan's land.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage explicitly leaves uncertain whether the kinship reflects prehistoric
+    shared myth or later literary dependence.
+comparison_claims:
+- id: claim:1
+  claim: The Pseudo-Gildas island description is said to read in part like a description
+    of Manannan's land.
+  claim_level: same_motif
+  target: Manannan's land
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says only 'in part' and does not quote the Manannan description
+    itself.
+- id: claim:2
+  claim: The healing function of the royal virgin for Arthur is compared with Liban's
+    promise to cure Cuchulinn.
+  claim_level: same_function
+  target: Liban-Cuchulinn-Fann cure episode
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and depends on the commentator's summary rather
+    than full presentation of both episodes.
+- id: claim:3
+  claim: The Brythonic wonder isle is presented as akin to the Gaelic wonder isle.
+  claim_level: same_motif
+  target: Gaelic wonder isle
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage leaves the mechanism of kinship unresolved.
+- id: claim:4
+  claim: Prehistoric mythic community between Gaels and Brythons is named as one possible
+    explanation for the kinship of the wonder-isle traditions.
+  claim_level: common_inheritance
+  target: Gaelic and Brythonic wonder-isle traditions
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The author explicitly leaves this possibility uncertain.
+- id: claim:5
+  claim: Historic dependence of Brythonic romance upon Gaelic romance is named as
+    another possible explanation for the kinship of the wonder-isle traditions.
+  claim_level: historical_contact
+  target: Brythonic and Gaelic romance traditions
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The author explicitly leaves this possibility uncertain.
+- id: claim:6
+  claim: A Hesperides-theme derivation for the Avalon passages is mentioned only as
+    a conditional alternative that would be easier to assert if Irish analogues were
+    absent.
+  claim_level: same_motif
+  target: Hesperides theme
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The passage itself favors the Irish analogue explanation over a simple
+    Hesperides-only literary development.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10820-10822
+  quote_or_summary: Quoted Latin lines describe land that spontaneously produces fertile
+    crops, grapes, apples, and all things from the soil.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 10824-10828
+  quote_or_summary: The commentary says Geoffrey barely mentions Avalon, but an unknown
+    writer cited as Pseudo-Gildas versifies and amplifies the mention.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 10830-10839
+  quote_or_summary: The Pseudo-Gildas excerpt describes an island encircled by Ocean,
+    lacking no goods, without thieves, enemies, violence, or extreme seasons, marked
+    by peace, eternal spring, flowers, fruit, ageless inhabitants, joy, and common
+    goods.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 10843-10845
+  quote_or_summary: The commentary says the island description reads in part as if
+    from a description of Manannan's land.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 10845-10848
+  quote_or_summary: The land is said to be inhabited by a 'regia virgo' who can heal
+    Arthur; this is compared with Liban's promise to cure Cuchulinn if he comes and
+    lives with Fann.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 10850-10853
+  quote_or_summary: The commentary says that without the Irish analogues the Avalon
+    passages might be described as un-Celtic and as a simple literary development
+    of Geoffrey's Hesperides theme.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: 10854-10859
+  quote_or_summary: Because Irish analogues exist, the commentary maintains that the
+    Brythonic wonder isle is akin to the Gaelic one, while leaving uncertain whether
+    this means prehistoric mythic community or historic dependence of Brythonic romance
+    on Gaelic.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; supplied metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif and taxonomy
+    assignments are cautious because the excerpt is scholarly commentary and abbreviated
+    quotation rather than a complete narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims follow explicit comparisons made in the passage and preserve the author's stated uncertainty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l10818-l10859
+  passage_sha256=f4c30d6412d23c2055db2c43ae05ff144ff8750b70fb3bb59d0c605ed09e1108
+

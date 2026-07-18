@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1955-l1968
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OWL AND THE BIRDS / THE ASS IN THE LION'S SKIN / THE SHE-GOATS AND THEIR
+    BEARDS / THE OLD LION; lines 1955-1968
+  start: '1955'
+  end: '1968'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An aged lion, unable to hunt by force, hides in a cave and pretends to
+    be sick so that visiting animals enter and are eaten. A fox remains outside, notices
+    that footprints go into the cave but not out, and refuses the lion's invitation
+    to enter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lion is weakened by age and can no longer procure food by force.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion decides to obtain food by cunning rather than force.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion goes into a cave, lies down inside, and pretends to be sick.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Other animals enter the cave to ask about the lion's health, and the lion
+    attacks and eats them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A fox comes to the cave but speaks to the lion from outside because he suspects
+    the truth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lion invites the fox to come inside the cave.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fox says he would have entered if he had not noticed that all footprints
+    point toward the cave and none point away from it.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: An aged lion who cannot get food by force, pretends to be sick inside
+    a cave, and eats animals who enter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: other animals
+  description: Animals who enter the lion's cave to inquire after his health and are
+    devoured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Fox
+  description: A fox who comes to the cave, remains outside, questions the lion, observes
+    the footprints, and refuses to enter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: aged predator
+  assigned_to:
+  - fig:1
+  basis: The lion is described as enfeebled by age and unable to procure food by force.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver using feigned sickness
+  assigned_to:
+  - fig:1
+  basis: The lion lies in the cave and pretends to be sick so animals will enter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: victims entering the cave
+  assigned_to:
+  - fig:2
+  basis: The animals enter to inquire after the lion and are devoured.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cautious observer
+  assigned_to:
+  - fig:3
+  basis: The fox stays outside, notices the one-way footprints, and declines to enter.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: footprints toward the cave
+  literal_form: footprints pointing toward the cave with none pointing away
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: feigned sickness
+  literal_form: the lion lying down inside the cave and pretending to be sick
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Old lion adopts cunning
+  summary: The aged lion, no longer able to obtain food by force, decides to use cunning.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cave ambush
+  summary: The lion lies in a cave, pretends to be sick, and devours animals who enter
+    to ask after his health.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fox reads the footprints
+  summary: The fox remains outside the cave, speaks with the lion, and refuses to
+    enter after observing that footprints lead in but not out.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: danger detected from traces
+  taxonomy_refs:
+  - wisdom
+  basis: The fox infers danger from the direction of the footprints and avoids entering
+    the cave.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The taxonomy link to wisdom is based on the fox's prudent inference; the
+    passage does not state an explicit moral.
+- id: motif:2
+  label: feigned illness as predatory trap
+  taxonomy_refs: []
+  basis: The lion pretends to be sick inside the cave so that animals will enter and
+    be devoured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this fable pattern.
+- id: motif:3
+  label: weakness compensated by cunning
+  taxonomy_refs: []
+  basis: The lion cannot get food by force because of age and therefore turns to cunning.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local narrative pattern rather than a mapped taxonomy family
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1955-1958
+  quote_or_summary: The lion is enfeebled by age, can no longer procure food by force,
+    and decides to use cunning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1958-1960
+  quote_or_summary: The lion goes to a cave, lies down inside, and pretends to be
+    sick.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1960-1962
+  quote_or_summary: Animals enter to inquire after the lion's health; he springs upon
+    them and eats them, and many die this way.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1962-1965
+  quote_or_summary: A fox comes to the cave, suspects the truth, and addresses the
+    lion from outside instead of entering.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: lines 1965-1967
+  quote_or_summary: '"why do you stand outside? Pray come in."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 1967-1968
+  quote_or_summary: '"all the footprints point towards the cave and none the other
+    way."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct from the supplied passage. Motif taxonomy
+    assignment is limited to the available broad 'wisdom' family for the fox's inference;
+    no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; despite the broader locator label, the extraction covers the fable titled "THE OLD LION."
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1955-l1968
+  passage_sha256=0696f4fbb49285dbe6fa7fef5a1fcab69447f7f7808afc40174c9449cadebf3b
+

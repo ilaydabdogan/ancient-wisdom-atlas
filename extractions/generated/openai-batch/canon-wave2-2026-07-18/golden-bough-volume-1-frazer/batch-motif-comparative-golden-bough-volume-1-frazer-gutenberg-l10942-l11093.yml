@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10942-l11093
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10942-11093
+  start: '10942'
+  end: '11093'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of scholarly footnotes cites ethnographic, classical, biblical,
+    and folklore sources. Two notes contain extractable content: a Latin quotation
+    from Valerius Flaccus about preserved hair to be cut by a father at altars, and
+    a note on a reported explanation for delaying the cutting of girls’ nails among
+    Tinneh or Chepewyan Indians, compared with European explanations for a similar
+    custom.'
+  language: English, with a short Latin quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is primarily a numbered list of source citations rather than a
+    continuous mythic or ritual narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One footnote cites Valerius Flaccus and quotes Latin lines naming Tectus and
+    Eurytion in connection with preserved hair and a father who will cut it at Aonian
+    altars.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'One footnote reports that Tinneh or Chepewyan Indians gave a reason for not
+    cutting girls’ nails sooner: that the girls would otherwise become lazy and unable
+    to embroider in porcupine quill-work.'
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same note says this explanation is probably a late invention and compares
+    it to European reasons for a similar custom, especially the reason that the child
+    would become a thief.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Tectus
+  description: Named in the Latin quotation from Valerius Flaccus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Eurytion
+  description: Named in the Latin quotation from Valerius Flaccus in relation to preserved
+    hair.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Father
+  description: The Latin quotation says a father will cut the preserved hair at Aonian
+    altars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tinneh or Chepewyan girls
+  description: Girls whose nails, according to the reported explanation, were not
+    cut sooner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: person associated with preserved hair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The quoted Latin line links named figures with hair that has been preserved.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual cutter of hair
+  assigned_to:
+  - fig:3
+  basis: The quoted Latin line says the father will cut the preserved hair at altars.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: subject of delayed nail-cutting custom
+  assigned_to:
+  - fig:4
+  basis: The note reports an explanation for why girls’ nails were not cut sooner.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: preserved hair
+  literal_form: hair kept until it is cut at altars
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: uncut nails
+  literal_form: girls’ nails not cut sooner
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Aonian altars
+  literal_form: altars where the father will cut the preserved hair
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preserved hair cut at altars
+  summary: A quoted classical line refers to preserved hair that a father will cut
+    at Aonian altars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Explanation for delayed nail-cutting
+  summary: A footnote reports an explanation that girls’ nails were not cut sooner
+    because cutting them would make the girls lazy and unable to embroider in porcupine
+    quill-work; the note compares this with European explanations for a similar custom.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: preserved hair before ritual cutting
+  taxonomy_refs: []
+  basis: The Valerius Flaccus quotation links saved hair with later cutting by a father
+    at altars.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a footnote quotation, not the surrounding ritual
+    or narrative context.
+- id: motif:2
+  label: delayed cutting of children’s nails with behavioral explanation
+  taxonomy_refs: []
+  basis: The footnote reports a custom-related explanation for delaying the cutting
+    of girls’ nails and notes a similar European custom with a different explanatory
+    warning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports Frazer’s note about explanations for a custom, not
+    a full narrative or first-hand description of the practice.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the explanation for delayed nail-cutting
+    among Tinneh or Chepewyan Indians with European explanations for a similar custom.
+  claim_level: same_function
+  target: European similar custom of delayed nail-cutting with warning that the child
+    would become a thief
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to Frazer’s footnote and does not provide
+    detailed descriptions of either custom.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10942-11093; footnotes 647-694
+  quote_or_summary: The passage consists of numbered footnotes citing works on many
+    peoples, classical texts, biblical texts, and folklore collections.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: footnote 682
+  quote_or_summary: 'Valerius Flaccus, Argonaut, i. 378 sq.: “Tectus et Eurytion servato
+    colla capillo, / Quem pater Aonias reducem tondebit ad aras.”'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: footnote 690
+  quote_or_summary: The note cites Gibbs and Dall on Tinneh or Chepewyan Indians and
+    says the alleged reason for delaying girls’ nail-cutting was that earlier cutting
+    would make them lazy and unable to embroider in porcupine quill-work; Frazer calls
+    this probably a late invention, like European reasons for a similar custom, especially
+    that the child would become a thief.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The line range is mostly bibliographic footnotes, so extractable motif material
+    is sparse and context is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif-family or symbol reference was assigned because the passage’s extractable content concerns hair and nails, which are not among the supplied symbol taxonomy terms and do not clearly map to the supplied motif families without additional context.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10942-l11093
+  passage_sha256=e2fea8e9ab4e0967e8f3b245065a54e30842eac2507bb2450bcf9d997a62aa88
+

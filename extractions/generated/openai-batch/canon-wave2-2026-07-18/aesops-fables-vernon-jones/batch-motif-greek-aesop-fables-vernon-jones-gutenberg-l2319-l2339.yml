@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2319-l2339
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WILD BOAR AND THE FOX / MERCURY AND THE SCULPTOR / THE FAWN AND HIS MOTHER
+    / THE FOX AND THE LION; lines 2319-2339
+  start: '2319'
+  end: '2339'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hind tells her grown fawn that his strength and horns should make him
+    less fearful of hounds, but when distant hounds are heard she tells him to stay
+    and runs away herself. A fox who has never seen a lion is terrified at the first
+    meeting, less frightened at the second, and familiar enough at the third to approach
+    and speak with him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hind addresses her grown and strong fawn as her son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hind says the fawn has a powerful body and a stout pair of horns.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hind questions why the fawn runs away from hounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hind and fawn hear a pack in full cry at a considerable distance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hind tells the fawn to stay where he is and says not to mind her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hind then runs away as fast as she can.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A fox who had never seen a lion meets one and is extremely terrified.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At a second meeting with the lion, the fox remains frightened but less so
+    than at the first meeting.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: At a third sight of the lion, the fox is no longer afraid and begins to talk
+    to him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hind
+  description: A mother deer who speaks to her fawn and then flees when hounds are
+    heard.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Fawn
+  description: The hind's son, described as grown, strong, horned, and inclined to
+    run from hounds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Hounds / pack
+  description: A pack in full cry heard at a distance by the hind and fawn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fox
+  description: A fox who has never seen a lion and whose fear diminishes over three
+    encounters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Lion
+  description: A lion encountered three times by the fox.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: The hind calls the fawn her son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: admonisher who flees
+  assigned_to:
+  - fig:1
+  basis: The hind criticizes the fawn's fear of hounds and then runs away when a pack
+    is heard.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: admonished offspring
+  assigned_to:
+  - fig:2
+  basis: The fawn is addressed as the hind's son and criticized for running from hounds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: threatening pursuers
+  assigned_to:
+  - fig:3
+  basis: The hounds are heard in full cry, prompting the hind's flight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fearful observer becoming familiar
+  assigned_to:
+  - fig:4
+  basis: The fox is terrified at first, less afraid at a second encounter, and unafraid
+    enough to speak at the third.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: initially terrifying animal
+  assigned_to:
+  - fig:5
+  basis: The lion's appearance terrifies the fox at the first encounter and remains
+    the focus of repeated meetings.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: horns
+  literal_form: A stout pair of horns possessed by the grown fawn.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pack in full cry
+  literal_form: A distant pack of hounds heard in full cry.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: three encounters
+  literal_form: The fox sees or meets the lion first, again, and a third time.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hind admonishes the fawn
+  summary: The hind tells her grown fawn that his strength and horns should make him
+    less cowardly before hounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hind flees at the sound of hounds
+  summary: After the hind and fawn hear a distant pack in full cry, the hind tells
+    the fawn to stay and runs away herself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fox's fear of the lion decreases
+  summary: 'A fox reacts to three encounters with a lion: terror at the first, reduced
+    fear at the second, and confident speech at the third.'
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Counsel contradicted by conduct
+  taxonomy_refs: []
+  basis: The hind criticizes the fawn for running from hounds but then runs away herself
+    when hounds are heard.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the narrative action but does not state an explicit
+    moral in the supplied excerpt.
+- id: motif:2
+  label: Fear diminishes through repeated exposure
+  taxonomy_refs: []
+  basis: The fox is terrified by the lion at first, less frightened at the second
+    meeting, and unafraid enough to speak by the third.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly generalize the pattern beyond the fox
+    and lion.
+- id: motif:3
+  label: Inherited strength contrasted with fear
+  taxonomy_refs: []
+  basis: The fawn is described as strong and horned, yet the hind calls him cowardly
+    for fleeing hounds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a local narrative pattern rather than a named taxonomy motif in
+    the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2319-2321
+  quote_or_summary: A hind speaks to her fawn, who is now well grown and strong, and
+    calls him her son.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2321-2324
+  quote_or_summary: The hind says nature gave the fawn a powerful body and stout horns,
+    and asks why he is cowardly enough to run from hounds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 2324-2326
+  quote_or_summary: The hind and fawn hear a pack in full cry at a considerable distance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 2326-2328
+  quote_or_summary: The hind tells the fawn to stay where he is and not mind her,
+    then runs off as fast as her legs can carry her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 2331-2334
+  quote_or_summary: A fox who has never seen a lion meets one and is terrified enough
+    to be ready to die with fear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 2334-2336
+  quote_or_summary: The fox meets the lion again and is still frightened, but much
+    less than at the first meeting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 2336-2339
+  quote_or_summary: At the third sight of the lion, the fox is not afraid and goes
+    up to talk with him as if long acquainted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are local descriptive candidates rather than taxonomy-backed assignments.
+    No comparison claims are made because the supplied passage does not itself support
+    a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no taxonomy symbol refs were assigned because none of the listed symbols are present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2319-l2339
+  passage_sha256=e3767c3bcb5568b4f990784926e4bc89d179bb9fb0800b15c2fd816bfe4eb811
+

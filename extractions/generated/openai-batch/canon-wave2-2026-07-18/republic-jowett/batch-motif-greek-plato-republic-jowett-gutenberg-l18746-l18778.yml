@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l18746-l18778
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK III. / BOOK IV. / BOOK V. / BOOK VI.; lines 18746-18778
+  start: '18746'
+  end: '18778'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"using the hypotheses not as first principles, but only as hypotheses—that
+    is to say, as steps and points of departure"'
+  summary: A speaker describes dialectic as reason's movement beyond hypotheses to
+    a first principle and back through ideas. The interlocutor restates the distinction
+    between dialectical reason and hypothesis-based sciences, and the speaker maps
+    four faculties of the soul to four levels of clarity and truth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dialectic is described as knowledge attained by reason, using hypotheses as
+    steps and points of departure rather than as first principles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Reason is described as moving beyond hypotheses to the first principle of
+    the whole and then descending again through ideas without the aid of any sensible
+    object.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The replying interlocutor says that knowledge and being contemplated by dialectic
+    are clearer than the notions of the arts, which proceed from hypotheses only.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Geometry and related sciences are assigned to understanding rather than reason,
+    as intermediate between opinion and reason.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'Four faculties in the soul are named: reason, understanding, faith or conviction,
+    and perception of shadows.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The faculties are arranged on a scale in which their clearness corresponds
+    to the truth of their objects, and the interlocutor accepts the arrangement.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: primary speaker
+  description: The speaker who explains the divisions of knowledge, dialectic, and
+    the four faculties in the soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: replying interlocutor
+  description: The respondent who says he understands, restates the distinction between
+    dialectic and the sciences, and accepts the arrangement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: expositor of dialectic and soul faculties
+  assigned_to:
+  - fig:1
+  basis: This speaker describes dialectic's movement beyond hypotheses and proposes
+    the four faculties and their scale.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: respondent and assenter
+  assigned_to:
+  - fig:2
+  basis: This figure replies by restating the argument and then giving assent to the
+    arrangement.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: hypotheses as steps and departure points
+  literal_form: Hypotheses treated as steps and points of departure.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: intellectual ascent beyond hypotheses
+  literal_form: Reason soaring beyond hypotheses and ascending to a principle.
+  associated_figures: []
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: descent through ideas
+  literal_form: A successive descent through ideas without sensible objects.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: scale of faculties
+  literal_form: A scale arranging reason, understanding, faith or conviction, and
+    perception of shadows.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: shadows
+  literal_form: Perception of shadows as the lowest of the four faculties.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dialectic moves beyond hypotheses
+  summary: The primary speaker presents dialectic as reason's use of hypotheses as
+    steps toward the first principle and as a return through ideas without sensible
+    objects.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interlocutor restates the distinction
+  summary: The interlocutor says that dialectic contemplates clearer knowledge and
+    being than the arts or geometry, which remain tied to hypotheses and belong to
+    understanding rather than higher reason.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Four faculties are arranged on a scale
+  summary: The primary speaker assigns four faculties to four divisions and says their
+    clearness corresponds to the truth of their objects; the interlocutor accepts
+    this arrangement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: intellectual ascent to a first principle
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly describes reason as using hypotheses as steps, soaring
+    beyond them, and ascending to a principle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The ascent is philosophical and epistemological, not a narrative journey
+    by a mythic traveler.
+- id: motif:2
+  label: graded hierarchy of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage orders reason, understanding, conviction, and perception of shadows
+    by degrees of clearness and truth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy match is broad; the passage gives an epistemological classification
+    rather than a mythic wisdom episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18746-18754
+  quote_or_summary: Dialectic uses hypotheses not as first principles but as steps
+    and points of departure, moves beyond them to the first principle of the whole,
+    and descends again through ideas without sensible objects.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 18756-18768
+  quote_or_summary: The respondent says dialectic contemplates clearer knowledge and
+    being than arts that proceed from hypotheses; geometry and related sciences are
+    classed as understanding, intermediate between opinion and reason.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 18770-18775
+  quote_or_summary: '"let there be four faculties in the soul—reason answering to
+    the highest, understanding to the second, faith (or conviction) to the third,
+    and perception of shadows to the last—and let there be a scale of them"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: 18777-18778
+  quote_or_summary: '"I understand, he replied, and give my assent, and accept your
+    arrangement."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal structure of the passage is clear. Motif labels are cautious
+    because the passage is philosophical argument using ascent and scale imagery rather
+    than a mythic narrative. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l18746-l18778
+  passage_sha256=176a92182b00865abc6934c6ee79332406918cfac490309176922c77666eb3c8
+

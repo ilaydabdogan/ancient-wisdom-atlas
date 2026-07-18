@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l287-l410
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: CONTENTS / THE GIANT CRAB / THE HYPOCRITICAL CAT / THE CROCODILE AND THE
+    MONKEY; lines 287-410
+  start: '287'
+  end: '410'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A crocodile in a wide river tries to obtain a monkey's heart for his wife
+    by offering to carry the monkey across the river to fruit trees. Midstream he
+    reveals the plot and begins to sink. The monkey deceives him by claiming his heart
+    is left in a tree, reaches the opposite bank, climbs a fig-tree, and mocks the
+    crocodile's foolishness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes a deep, wide river where a crocodile lives and banks
+    with trees where a monkey lives.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The crocodile is described as large, scaly, sharp-toothed, and able to seize
+    small animals near him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The monkey spends the day climbing trees and eating nuts or wild fruit, but
+    nearby fruit has become scarce.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crocodile's wife cries and says she wants the monkey's heart to eat.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crocodile decides to try to satisfy his wife's request and devises a plan.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The crocodile tells the monkey about fruit trees on the other side of the
+    river and offers to carry him across on his back.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The monkey accepts the offer and jumps onto the crocodile's back.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: While crossing, the crocodile begins sinking and reveals that his wife wants
+    the monkey's heart.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The monkey claims that monkeys do not carry their hearts inside their bodies
+    and says his heart is in a tree.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The crocodile believes the monkey and swims to the opposite bank.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The monkey escapes into a fig-tree, eats figs, and refuses to give the crocodile
+    a heart.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The crocodile returns to his wife feeling foolish, while the monkey enjoys
+    a feast in the fig-tree.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Crocodile
+  description: A large crocodile living in the river; he tries to obtain the monkey's
+    heart for his wife and carries the monkey across the water.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Monkey
+  description: A clever monkey living by the river, climbing trees and eating fruit;
+    he escapes the crocodile by claiming his heart is in a tree.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Crocodile's wife
+  description: The crocodile's wife; she cries from hunger and asks for the monkey's
+    heart to eat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: predatory host or carrier
+  assigned_to:
+  - fig:1
+  basis: He offers to carry the monkey across the river but intends to deliver him
+    for his heart.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: deceiver
+  assigned_to:
+  - fig:1
+  basis: He presents the crossing as a helpful offer while concealing his purpose
+    until midstream.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: intended victim
+  assigned_to:
+  - fig:2
+  basis: The crocodile's wife wants the monkey's heart, and the crocodile tries to
+    drown or capture him while crossing.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: clever escapee
+  assigned_to:
+  - fig:2
+  basis: He invents the claim that his heart is in a tree, reaches safety, and refuses
+    the crocodile.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:5
+  label: foolish dupe
+  assigned_to:
+  - fig:1
+  basis: He believes the monkey's false statement about the heart being in a tree
+    and brings him safely across.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: requester of desired body part
+  assigned_to:
+  - fig:3
+  basis: She says she wants the monkey's heart to eat.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: river crossing
+  literal_form: deep and wide river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: fruit trees across the river
+  literal_form: trees on the other side with apples, pears, quinces, plums, and other
+    fruit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: heart sought as food
+  literal_form: the monkey's heart
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: fig-tree refuge
+  literal_form: fig-tree on the further bank, with figs resembling a bunch of hearts
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:5
+  label: crocodile's back as conveyance
+  literal_form: the crocodile's back used to carry the monkey across the river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Riverbank setting and animal contrast
+  summary: The passage introduces the deep river, the crocodile in the water, and
+    the monkey living among trees on the bank with scarce fruit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wife's demand for the monkey's heart
+  summary: The crocodile's wife cries and tells her husband that she wants the monkey's
+    heart to eat; he decides to attempt a plan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tempting offer of fruit and transport
+  summary: The crocodile approaches the monkey under a tree, describes abundant fruit
+    across the river, and offers to swim him there on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Midstream revelation
+  summary: During the crossing the crocodile sinks and reveals that the journey is
+    not charitable; his wife wants the monkey's heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: False external heart and escape into the tree
+  summary: The monkey says his heart is kept in a tree, persuading the crocodile to
+    continue to the bank; once there, he climbs the fig-tree, eats figs, and mocks
+    the crocodile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Crocodile's failure and monkey's feast
+  summary: The crocodile returns to his wife feeling foolish, and the monkey enjoys
+    the fruit in the fig-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: clever animal escapes predator by verbal trick
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The monkey survives the crocodile's plot by inventing a false explanation
+    about where his heart is kept and uses the crocodile's belief to reach safety.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The taxonomy references are broad motif-family labels; the passage itself
+    does not name a formal motif type.
+- id: motif:2
+  label: deceptive ferry or dangerous crossing
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crocodile offers a helpful river crossing but uses the crossing to place
+    the monkey in danger and disclose a predatory purpose midstream.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The crocodile is an animal carrier rather than a formal ferryman or ritual
+    guide.
+- id: motif:3
+  label: externalized heart claim used as ruse
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey falsely claims that his heart is outside his body in a tree, causing
+    the crocodile to abandon the immediate attack.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage presents the external heart as a lie, not as an actual soul-container
+    or magical external soul.
+- id: motif:4
+  label: appetite-driven demand for a victim's body part
+  taxonomy_refs: []
+  basis: The crocodile's wife specifically desires the monkey's heart to eat, motivating
+    the crocodile's plot.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this body-part-demand
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 287-300
+  quote_or_summary: A deep, wide river is inhabited by a large, sharp-toothed crocodile
+    who lies in mud and snaps up small animals.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 301-304
+  quote_or_summary: A monkey lives on the riverbank, climbs trees, eats nuts and wild
+    fruit, and has nearly exhausted the nearby fruit.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 305-320
+  quote_or_summary: '"But I want that Monkey''s heart!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 321-329
+  quote_or_summary: The crocodile, fond of his wife, thinks for an hour and believes
+    he has found a clever plan.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 330-355
+  quote_or_summary: The crocodile calls to the monkey beneath a tree, points out abundant
+    fruit on the other side of the river, and offers to carry him across on his back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 356-359
+  quote_or_summary: The monkey is tempted by the offer and jumps down onto the crocodile's
+    back without further thought.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 360-371
+  quote_or_summary: As the crocodile swims across, he sinks until water rises around
+    the monkey and then reveals that his wife wants the monkey's heart to eat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 372-384
+  quote_or_summary: The monkey says it is good he was told, claims monkeys do not
+    keep hearts inside their bodies, and points to round things in a tree as the hearts;
+    the narrator identifies them as figs resembling hearts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 378-387
+  quote_or_summary: The crocodile believes the monkey's statement, is glad he did
+    not drown him, and agrees to take him across so the heart can be dropped down.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 388-401
+  quote_or_summary: The monkey leaps from the crocodile's back into the fig-tree,
+    eats figs, and tells the crocodile that no creature keeps its heart in a tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 402-410
+  quote_or_summary: The crocodile snaps his jaws in disgust and returns to his wife
+    feeling foolish, while the monkey has an exceptional feast in the fig-tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied public-domain passage. Motif-family
+    assignments use broad available taxonomy labels and require human review for precise
+    indexing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l287-l410
+  passage_sha256=48cfb50ce1b9ee68d4123d9bed5d3052e062e5bf56ea6ceba60c9faa09a96f6c
+

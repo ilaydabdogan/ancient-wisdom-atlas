@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3127-l3150
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TOWN MOUSE AND THE COUNTRY MOUSE / THE LION AND THE BULL / THE WOLF,
+    THE FOX, AND THE APE / THE EAGLE AND THE COCKS; lines 3127-3150
+  start: '3127'
+  end: '3150'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Wolf accuses a Fox of theft, the Fox denies it, and an
+    Ape judges that the Wolf likely did not lose what he claims while the Fox is still
+    guilty. The moral states that dishonest people receive no credit even when they
+    act honestly. In another fable, two Cocks fight for mastery; the loser hides,
+    the victor crows from a stable roof, and an Eagle carries the victor away, allowing
+    the hidden Cock to rule. The moral states that pride comes before a fall.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Wolf charges a Fox with theft.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Fox denies the charge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The case is brought before an Ape, who hears evidence on both sides.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Ape judges that the Wolf likely never lost what he claims, while also
+    judging the Fox guilty of the theft despite the denials.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The stated moral says that dishonest people get no credit, even if they act
+    honestly.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Two Cocks in the same farmyard fight to decide who should be master.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The beaten Cock hides in a dark corner after the fight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The victorious Cock flies onto the roof of the stables and crows loudly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: An Eagle sees the victorious Cock from high in the sky, swoops down, and carries
+    him off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: After the victorious Cock is carried away, the other Cock comes out and rules
+    the roost without a rival.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The stated moral says that pride comes before a fall.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: The animal who charges the Fox with theft and is addressed in the Ape's
+    judgment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fox
+  description: The animal accused of theft, who denies the charge and is nevertheless
+    judged guilty by the Ape.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ape
+  description: The animal before whom the case is tried; he hears evidence and gives
+    judgment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Beaten Cock
+  description: One of the two Cocks; after losing the fight, he hides in a dark corner
+    and later rules the roost without a rival.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Victorious Cock
+  description: One of the two Cocks; after winning the fight, he crows from the stable
+    roof and is carried off by an Eagle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Eagle
+  description: The bird who sees the victorious Cock from high in the sky, swoops
+    down, and carries him off.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: accuser and claimant
+  assigned_to:
+  - fig:1
+  basis: The Wolf charges the Fox with theft and claims to have lost something.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accused denier judged guilty
+  assigned_to:
+  - fig:2
+  basis: The Fox denies the theft charge but is judged guilty by the Ape.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animal judge
+  assigned_to:
+  - fig:3
+  basis: The Ape hears the evidence on both sides and gives judgment.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: defeated rival who later rules
+  assigned_to:
+  - fig:4
+  basis: The beaten Cock hides after defeat, then comes out and rules the roost after
+    the victor is removed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: boastful victor and victim
+  assigned_to:
+  - fig:5
+  basis: The victor crows from the stable roof after winning and is then carried off
+    by an Eagle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: predator and remover of the victor
+  assigned_to:
+  - fig:6
+  basis: The Eagle sees the victorious Cock, swoops down, and carries him off.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: farmyard
+  literal_form: the same farmyard where the two Cocks live and fight
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dark corner
+  literal_form: the dark corner where the beaten Cock hides
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: stable roof
+  literal_form: the roof of the stables where the victorious Cock crows
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: high sky
+  literal_form: the high sky from which the Eagle sees the victorious Cock
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Animal trial over alleged theft
+  summary: A Wolf accuses a Fox of theft; the Fox denies it; an Ape hears both sides
+    and judges that the Wolf did not lose what he claims while the Fox is still guilty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farmyard fight for mastery
+  summary: Two Cocks fight in the same farmyard to decide who should be master; the
+    beaten Cock hides, while the victor climbs to the stable roof and crows.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Eagle seizes the crowing victor
+  summary: An Eagle sees the victorious Cock from high in the sky, carries him off,
+    and the hidden Cock emerges to rule without a rival.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Dishonest person receives no credit
+  taxonomy_refs: []
+  basis: The first fable's action and stated moral link prior dishonesty with lack
+    of credibility, even when the person may act honestly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is the passage's explicit moral pattern; no external analogue is
+    asserted.
+- id: motif:2
+  label: Judge distrusts both disputants
+  taxonomy_refs: []
+  basis: The Ape rejects the Wolf's claim of loss while also judging the Fox guilty
+    of theft.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fable emphasizes credibility and dishonesty more than formal legal
+    procedure.
+- id: motif:3
+  label: Rivals fight for mastery
+  taxonomy_refs: []
+  basis: Two Cocks fight in the same farmyard to decide who should be master.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is limited to the animal-fable setting provided.
+- id: motif:4
+  label: Proud victor brought down
+  taxonomy_refs: []
+  basis: The victorious Cock publicly crows from the roof after winning and is then
+    carried off by an Eagle; the stated moral is that pride comes before a fall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage itself supplies the pride/downfall interpretation through
+    its moral.
+- id: motif:5
+  label: Hidden loser benefits from victor's removal
+  taxonomy_refs: []
+  basis: The beaten Cock hides, but after the Eagle carries off the victor, he comes
+    out and rules the roost without a rival.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fable does not state whether the beaten Cock intended or caused the
+    victor's removal.
+comparison_claims:
+- id: claim:1
+  claim: The first fable is explicitly aligned with a moral-credibility pattern in
+    which a dishonest figure is not trusted, even when acting honestly.
+  claim_level: same_motif
+  target: dishonest-person-not-credited moral pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal pattern claim based on the fable's own stated moral;
+    it does not assert historical contact or comparison with a specific external text.
+- id: claim:2
+  claim: The second fable is explicitly aligned with a pride-before-downfall pattern.
+  claim_level: same_motif
+  target: pride-before-fall moral pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal pattern claim based on the fable's own stated moral;
+    it does not assert historical contact or comparison with a specific external text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3127-3134
+  quote_or_summary: In THE WOLF, THE FOX, AND THE APE, a Wolf accuses a Fox of theft;
+    the Fox denies it; an Ape hears both sides and judges that the Wolf did not lose
+    what he claims while the Fox is nevertheless guilty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:2
+  type: quote
+  locator: 3135-3136
+  quote_or_summary: The dishonest get no credit, even if they act honestly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: 3137-3148
+  quote_or_summary: In THE EAGLE AND THE COCKS, two Cocks fight to decide who should
+    be master; the defeated Cock hides; the victorious Cock crows from the stable
+    roof; an Eagle carries the victor off; the other Cock then rules the roost without
+    a rival.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:4
+  type: quote
+  locator: 3149-3150
+  quote_or_summary: Pride comes before a fall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Comparison claims are limited
+    to internal moral-pattern identifications explicitly supported by the fables'
+    stated morals.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs apply directly to the passage. No historical-contact or common-inheritance claims are made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3127-l3150
+  passage_sha256=ab674b4693c7baccc1cd15f5360bec9f05c7df53275fc27e38106c47680e6b7f
+

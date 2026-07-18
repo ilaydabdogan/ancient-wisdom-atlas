@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4041-l4057
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE THIEF AND THE INNKEEPER / THE PACK-ASS AND THE WILD ASS / THE ASS AND
+    HIS MASTERS / THE PACK-ASS, THE WILD ASS, AND THE LION; lines 4041-4057
+  start: '4041'
+  end: '4057'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: It is no use being your own master unless you can stand up for yourself.
+  summary: A Wild Ass mocks a burdened Pack-Ass for living under a master, but when
+    a Lion appears, the Pack-Ass is spared because of the driver while the unprotected
+    Wild Ass is killed and eaten. The fable closes with a moral about self-mastery
+    requiring self-defense.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Wild Ass sees a Pack-Ass moving along under a heavy load.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wild Ass taunts the Pack-Ass about living in slavery and carrying loads
+    under a master.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wild Ass describes himself as free, not working, and able to find abundant
+    fodder in the hills.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Lion appears and does not attack the Pack-Ass because a driver is present.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Lion attacks the unprotected Wild Ass and eats him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The stated moral says being one’s own master is useless unless one can defend
+    oneself.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wild Ass
+  description: A free wild ass who mocks the Pack-Ass and is later killed by the Lion.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pack-Ass
+  description: A domestic ass carrying a heavy load under a master and protected by
+    the driver’s presence when the Lion appears.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lion
+  description: A predator who appears, avoids the guarded Pack-Ass, and eats the Wild
+    Ass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: driver
+  description: The human presence associated with the Pack-Ass, whose presence deters
+    the Lion from attacking the Pack-Ass.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: master
+  description: The owner or controller on whom the Pack-Ass depends for food and who
+    makes him carry heavy loads, according to the Wild Ass.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: boaster or taunter
+  assigned_to:
+  - fig:1
+  basis: The Wild Ass taunts the Pack-Ass and contrasts his own freedom with the Pack-Ass’s
+    servitude.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: burdened domestic animal
+  assigned_to:
+  - fig:2
+  basis: The Pack-Ass is described as jogging under a heavy load and carrying heavy
+    loads daily.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:3
+  basis: The Lion falls upon the Wild Ass and makes a meal of him.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: unprotected free animal
+  assigned_to:
+  - fig:1
+  basis: The Wild Ass is free but has no one to protect him when the Lion attacks.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: human protection or control
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The driver’s presence protects the Pack-Ass, while the master is named as
+    the source of the Pack-Ass’s food and labor obligations.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: heavy load
+  literal_form: heavy load carried by the Pack-Ass
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hills with fodder
+  literal_form: hills where the Wild Ass finds fodder
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: driver’s presence
+  literal_form: the driver present near the Pack-Ass
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wild Ass mocks the Pack-Ass
+  summary: The Wild Ass observes the Pack-Ass under a heavy load and contrasts the
+    Pack-Ass’s servitude with his own freedom and access to fodder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lion kills the unprotected Wild Ass
+  summary: A Lion appears, avoids the Pack-Ass because the driver is present, and
+    kills and eats the Wild Ass, who has no protector.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Moral statement
+  summary: The fable concludes that self-mastery is not useful without the ability
+    to stand up for oneself.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: freedom without protection proves dangerous
+  taxonomy_refs: []
+  basis: The Wild Ass boasts of being free, but is killed because he has no protector,
+    while the burdened Pack-Ass is spared due to the driver.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level fable motif rather than a named mythological taxonomy
+    item.
+- id: motif:2
+  label: burdensome service provides safety
+  taxonomy_refs: []
+  basis: The Pack-Ass’s dependent condition is mocked, yet the associated driver prevents
+    the Lion from attacking him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage implies protection through servitude but does not explicitly
+    praise servitude apart from the closing moral.
+- id: motif:3
+  label: animal fable as practical moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Animal figures enact a contrast between freedom and vulnerability, followed
+    by an explicit moral about self-mastery and self-defense.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports a wisdom-teaching
+    function but not a specific named wisdom myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a wisdom-teaching animal fable, using animal behavior
+    and a closing maxim to express a practical lesson.
+  claim_level: same_function
+  target: wisdom motif family / moral animal-fable pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a functional comparison to a broad wisdom-teaching
+    pattern; it does not establish historical contact, common inheritance, or a specific
+    parallel text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4041-4044
+  quote_or_summary: "“A Wild Ass saw a Pack-Ass jogging along under a heavy load”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 4044-4050
+  quote_or_summary: The Wild Ass taunts the Pack-Ass for slavery, dependence on a
+    master for food, daily heavy loads, and beatings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4045-4048
+  quote_or_summary: "“I am free as the air, and never do a stroke of work”; the Wild
+    Ass says he finds more than enough fodder in the hills."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt with summary used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4051-4053
+  quote_or_summary: When a Lion appears, it does not molest the Pack-Ass because the
+    driver is present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4053-4055
+  quote_or_summary: The Lion attacks the Wild Ass, who has no one to protect him,
+    and eats him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 4056-4057
+  quote_or_summary: "“It is no use being your own master unless you can stand up for
+    yourself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal action and figure extraction is direct from the passage. Motif labels
+    are inferred from the explicit plot and moral; taxonomy linkage is limited to
+    the broad wisdom function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No sacred objects from the supplied symbol taxonomy appear literally in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4041-l4057
+  passage_sha256=8508e22c5f673e279780e2723fab521ceae698352c59b9c01ae69aa067154429
+

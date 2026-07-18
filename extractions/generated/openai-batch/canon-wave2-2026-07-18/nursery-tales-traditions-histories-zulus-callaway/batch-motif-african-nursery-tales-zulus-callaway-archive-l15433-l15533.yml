@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l15433-l15533
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: ADDITION  TO  THE  FOREGOING  TALE  BY  ANOTHER  NATIVE. / IZINGANEKWANE.
+    / THE  GIRL  AND  THE  CANNIBALS. / IZINGANEKWANE.; lines 15433-15533
+  start: '15433'
+  end: '15533'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied excerpt shows a brother and sister roasting and eating meat
+    in a house while a cannibal is denied food. The cannibal tries at night to take
+    contents from an ox's stomach, but the sister alerts the brother, who threatens
+    him and makes him put it down. After dawn the siblings continue eating the meat,
+    give the cannibal nothing, and watch him to keep him from taking scraps; an internal
+    heading says the cannibal dies.
+  language: Zulu original with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the house, the brother and sister roast and eat three strips of flesh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cannibal watches the eating and his mouth waters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The brother tells the cannibal not to let his mouth water and says he will
+    stab him if it does.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At night the cannibal lies near the fireplace, the flesh is placed near the
+    doorway, and the brother and sister lie at the upper part of the house.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the night the cannibal wakes, goes stealthily, and takes a handful
+    of the contents of the ox's stomach.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sister wakes and tells her brother that the cannibal is taking handfuls
+    from the ox's stomach contents.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The brother orders the cannibal to put the stomach contents down, asks who
+    gave them to him, threatens him, and the cannibal puts them down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After dawn, the brother and sister remain many days eating the meat, give
+    the cannibal nothing, cast the bones down, and watch him so he does not pick anything
+    up.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An internal heading in the passage reads that the cannibal dies.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Brother
+  description: A male sibling who directs the eating and threatens the cannibal when
+    the cannibal shows hunger or tries to take food.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Sister
+  description: A female sibling who wakes at night and alerts her brother that the
+    cannibal is taking the ox stomach contents.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Cannibal
+  description: A hungry cannibal who watches the siblings eat, tries stealthily to
+    take stomach contents at night, is threatened, and is given no food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies a brother and sister acting together in the house.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: food guardian and threatener
+  assigned_to:
+  - fig:1
+  basis: The brother controls access to the meat and stomach contents and threatens
+    to stab the cannibal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: night watcher and alerter
+  assigned_to:
+  - fig:2
+  basis: The sister wakes at night and warns her brother about the cannibal's action.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: denied hungry cannibal
+  assigned_to:
+  - fig:3
+  basis: The cannibal's mouth waters, he tries to take food secretly, and he is later
+    given nothing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: fireplace and roasting fire
+  literal_form: fireplace/fire used for roasting flesh and as the place near which
+    the cannibal lies
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: roasted flesh
+  literal_form: three strips of flesh/meat eaten by the brother and sister
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: contents of the ox's stomach
+  literal_form: contents of the ox's stomach taken by the cannibal and reclaimed by
+    the brother
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: bones cast down
+  literal_form: bones thrown down while the cannibal is watched
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Roasting and denied appetite
+  summary: Inside the house, the brother and sister roast and eat flesh while the
+    cannibal looks on hungrily; the brother threatens him for letting his mouth water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night theft attempt
+  summary: At night, with the cannibal near the fireplace and the meat near the doorway,
+    the cannibal stealthily takes stomach contents; the sister alerts the brother,
+    who forces the cannibal to put them down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prolonged deprivation of the cannibal
+  summary: After dawn, the siblings continue eating meat for many days, give the cannibal
+    nothing, and guard even the bones; the section heading announces the cannibal's
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair confronting a cannibal
+  taxonomy_refs:
+  - sibling_pair
+  basis: 'The brother and sister act as a pair against the cannibal: the sister alerts
+    the brother, and the brother confronts and threatens the cannibal.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt begins mid-action, so the full narrative role of the siblings
+    in the larger tale is not visible here.
+- id: motif:2
+  label: Cannibal appetite restrained by threat
+  taxonomy_refs: []
+  basis: The cannibal shows hunger, is warned not to let his mouth water, later tries
+    to take food stealthily, and is forced to put it back under threat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned because the available
+    taxonomy list does not include a specific cannibal-hunger motif.
+- id: motif:3
+  label: Predatory guest deprived of food until death
+  taxonomy_refs: []
+  basis: The siblings give the cannibal nothing, guard the bones, and an internal
+    heading states that the cannibal dies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The death is present as a heading in the supplied passage, but the visible
+    narrative excerpt ends before narrating the death event itself.
+- id: motif:4
+  label: Nighttime theft attempt of protected food
+  taxonomy_refs: []
+  basis: The cannibal waits until night, moves stealthily, and takes stomach contents
+    that the brother identifies as belonging to his bullock.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The food is protected or claimed, but the passage does not mark it as
+    sacred or ritually forbidden.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15433-15455
+  quote_or_summary: In the house, they roast three strips of flesh; the brother says
+    the flesh is ready, they eat it, and the cannibal looks at them with watering
+    mouth.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 15455-15462
+  quote_or_summary: The brother said, “Do not allow your mouth to water. I will stab
+    you, since your mouth waters.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15463-15495
+  quote_or_summary: At night, the cannibal lies near the fireplace, the flesh is near
+    the doorway, and the siblings lie in the upper part of the house; the cannibal
+    wakes, goes stealthily, takes a handful of ox stomach contents, and the sister
+    wakes her brother.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15495-15518
+  quote_or_summary: The brother orders the cannibal to put down the contents of his
+    bullock's stomach, asks who gave it to him, threatens to stab him, and the cannibal
+    puts it down.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15519-15533
+  quote_or_summary: After dawn they remain many days eating the meat; they give the
+    cannibal nothing, cast the bones down, and watch lest he pick anything up.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: section heading before 15519
+  quote_or_summary: The cannibal dies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short heading excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied line range, which begins mid-action
+    and ends while a sentence is continuing. No external tale context or comparisons
+    were used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage itself does not make or support a specific comparison beyond the local narrative pattern.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l15433-l15533
+  passage_sha256=82618a275ec2a754473cbf6b2a1f4922bbb23a62c3a31e50f9b1e19453d75d5f
+

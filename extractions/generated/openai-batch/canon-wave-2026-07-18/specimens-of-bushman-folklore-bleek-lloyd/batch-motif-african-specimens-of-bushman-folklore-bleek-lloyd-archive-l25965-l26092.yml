@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l25965-l26092
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: INDEX. / INDEX. / INDEX. / INDEX.; lines 25965-26092
+  start: '25965'
+  end: '26092'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An English index excerpt listing topics and page references, including
+    entries for prayer to celestial bodies, rain and rain-related beings or effects,
+    resurrection of several figures or groups, intended return home, animal respect,
+    and other grammatical or material-culture topics.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment with topical headings and page references
+    rather than a continuous story.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Prayer entry lists prayer to the Young Moon, prayer to a Star, and doings
+    when Canopus and Sirius come out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Rain entry lists rain sorcerers, rain falling, rain bringing lightning,
+    a Bull-related tale under the rain heading, and rain changing girls into flowers
+    or stars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Resurrection entry lists resurrection of the Mantis' son, the Ostrich,
+    man, and game.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes an entry for an intended return home by a named person
+    whose printed form is unclear in the excerpt.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes an entry for respect shown to animals.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Mantis' son
+  description: Listed in the index as a subject of resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: The Ostrich
+  description: Listed in the index as a subject of resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: man
+  description: Listed generically in the index as a subject of resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: game
+  description: Listed in the index as a subject of resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Rain
+  description: Index heading associated with sorcerers, falling, bringing lightning,
+    a Bull-related tale, and changing girls into flowers or stars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: girls
+  description: Listed as being changed by rain into flowers or stars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: the Bull
+  description: Named in the title 'A Woman of the Early Race and the Bull' under the
+    Rain entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: A Woman of the Early Race
+  description: Named in the title 'A Woman of the Early Race and the Bull' under the
+    Rain entry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: named person in intended return-home entry
+  description: The index entry names a person in connection with an intended return
+    home, but the printed/OCR form in the supplied passage is unclear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: resurrected subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each is listed under the index heading 'Resurrection.'
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: rain or weather power
+  assigned_to:
+  - fig:5
+  basis: Rain is the heading for entries involving sorcerers, falling rain, lightning,
+    and transformation of girls.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: transformed subjects
+  assigned_to:
+  - fig:6
+  basis: The Rain entry says girls are changed into flowers or stars.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animal or being in indexed tale title
+  assigned_to:
+  - fig:7
+  basis: The Bull appears in the indexed title 'A Woman of the Early Race and the
+    Bull.'
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: woman of the Early Race
+  assigned_to:
+  - fig:8
+  basis: The woman is named in the indexed title 'A Woman of the Early Race and the
+    Bull.'
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: intended returner
+  assigned_to:
+  - fig:9
+  basis: The Return Home entry concerns a named person's intended return home, but
+    the name is unclear in the excerpt.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: Rain
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lightning
+  literal_form: lightning brought by rain
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: flowers or stars
+  literal_form: flowers or stars into which girls are changed
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: celestial bodies addressed in prayer
+  literal_form: Young Moon, Star, Canopus, Sirius
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: animals receiving respect
+  literal_form: animals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Indexed prayer to celestial bodies
+  summary: The index lists prayer to the Young Moon and to a Star, along with doings
+    when Canopus and Sirius appear.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Indexed rain powers and transformations
+  summary: The rain entries associate rain with sorcerers, falling rain, lightning,
+    a Bull-related tale, and the changing of girls into flowers or stars.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Indexed resurrection cases
+  summary: The index groups resurrection cases involving the Mantis' son, the Ostrich,
+    man, and game.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Indexed intended return home
+  summary: The index lists an intended return home by a named person, though the name
+    is unclear in the supplied text.
+  figure_refs:
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: resurrection of beings
+  taxonomy_refs:
+  - resurrection
+  basis: The index explicitly has a Resurrection heading and lists resurrection of
+    the Mantis' son, the Ostrich, man, and game.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is an index; details of the actual resurrection narratives
+    are not present in this excerpt.
+- id: motif:2
+  label: return home
+  taxonomy_refs:
+  - return
+  basis: The index includes a Return Home entry concerning an intended return home.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The name and narrative circumstances are unclear from the index excerpt
+    alone.
+- id: motif:3
+  label: transformation into flowers or stars
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Rain entry states that rain changes girls into flowers or stars.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy lacks a general transformation category; 'shapeshifter'
+    is only an approximate reference because the excerpt does not say the girls transform
+    themselves.
+- id: motif:4
+  label: prayer to celestial bodies
+  taxonomy_refs: []
+  basis: The index lists prayers to the Young Moon and to a Star, and doings when
+    Canopus and Sirius come out.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides index headings only and no details about ritual words,
+    performers, or outcomes.
+- id: motif:5
+  label: rain as potent weather force
+  taxonomy_refs: []
+  basis: The Rain entry links rain with sorcerers, lightning, a Bull-related tale,
+    and transformative action affecting girls.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index does not supply the underlying story sequence or explain whether
+    Rain is personified in each referenced item.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25965-26092
+  quote_or_summary: The supplied passage is an index excerpt covering topics from
+    Plural through Rice, with headings and page references rather than narrative prose.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 25987-25994
+  quote_or_summary: Prayer entries include prayer to the Young Moon, prayer to a Star,
+    and doings when Canopus and Sirius come out.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 26034-26050
+  quote_or_summary: Rain entries mention rain sorcerers, falling rain, rain bringing
+    lightning, 'A Woman of the Early Race and the Bull,' and rain changing girls into
+    flowers or stars.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 26073-26081
+  quote_or_summary: The Resurrection entry lists resurrection of the Mantis' son,
+    the Ostrich, man, and game.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 26082-26083
+  quote_or_summary: The Return Home entry lists a named person's intended return home;
+    the printed/OCR name is unclear in the excerpt.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 26071-26072
+  quote_or_summary: The index includes 'Respect shown to animals.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The source excerpt is an index, so it supports identification of indexed
+    motifs and symbols but not detailed narrative structure. Some names appear typographically
+    or OCR distorted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cross-tradition comparison claims were added because the index excerpt does not provide comparative arguments or narrative details.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l25965-l26092
+  passage_sha256=f4e3c330e7493b67bb27519ae3318d129c0ce6b9cec0f62755d10739adb2bc8e
+

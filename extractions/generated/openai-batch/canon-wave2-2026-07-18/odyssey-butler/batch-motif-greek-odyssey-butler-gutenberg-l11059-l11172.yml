@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l11059-l11172
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 11059-11172
+  start: '11059'
+  end: '11172'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial footnotes discussing Greek wording, seals
+    and Phocaeans, Ithaca as goat-breeding or horse-related, Mt. Eryx and island geography,
+    irrigation near Trapani, an absent reference to cattle of the sun-god, a tidal
+    salt-water river, the Ogygian island, Eurymedusa and Apeira, and Polyphemus’ kinship
+    through Neptune with Nausithous, Alcinous, and Nausicaa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Footnotes [44]-[46] connect Greek wording with fish smell, seals, Phocaean
+    descent, Phocaean coins, and an editorial claim about Nausicaa and the writer
+    of the Odyssey.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Footnote [48] discusses a line about Ithaca as suitable for goats and not
+    for horses, and proposes an emended reading in which the island is described as
+    a horseman or rider.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Footnote [48] uses a view from the top of Mt. Eryx, including Marettimo and
+    Levanzo, as geographical support for the proposed reading.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Footnote [51] describes irrigation in gardens near Trapani, with water supplied
+    through ducts from wells by a mule turning a wheel with buckets.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Footnote [52] states that the discussed passage contains no mention of the
+    cattle of the sun-god.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Footnote [54] interprets a river flowing with salt water as tidal.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Footnote [55] says the Ogygian island was close enough that Nausicaa might
+    be assumed to know where it was.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Footnote [57] discusses Eurymedusa as having been brought from Apeira and
+    connects Apeira with the Greek word meaning inexperienced or ignorant.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Footnote [58] states that Polyphemus was a son of Neptune and therefore a
+    half-brother of Nausithous, half-uncle of King Alcinous, and half-great-uncle
+    of Nausicaa.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Footnote [60] says the writer shifts from past tenses into the present while
+    drawing on things actually existing.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Nausicaa
+  description: Named in editorial claims about the writer of the Odyssey, the Ogygian
+    island, and kinship with Polyphemus through the Phaeacian line.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Eurymedusa
+  description: Discussed in relation to having been brought from Apeira.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Polyphemus
+  description: Described as son of Neptune and as half-brother, half-uncle, and half-great-uncle
+    within the named kinship chain.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Neptune
+  description: Named as father of Polyphemus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Nausithous
+  description: Named as Polyphemus’ half-brother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: King Alcinous
+  description: Named as king and as a kinsman for whom Polyphemus is half-uncle.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine father
+  assigned_to:
+  - fig:4
+  basis: The footnote states that Polyphemus was son to Neptune.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: son of Neptune
+  assigned_to:
+  - fig:3
+  basis: The footnote explicitly identifies Polyphemus as son to Neptune.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: member of half-kinship chain
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The footnote derives a chain of half-brother, half-uncle, and half-great-uncle
+    relations involving Polyphemus, Nausithous, Alcinous, and Nausicaa.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: person brought from Apeira
+  assigned_to:
+  - fig:2
+  basis: The footnote refers to Eurymedusa having been brought from Apeira.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: person assumed to know the Ogygian island
+  assigned_to:
+  - fig:1
+  basis: The footnote says Nausicaa might be assumed to know where the Ogygian island
+    was.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: king
+  assigned_to:
+  - fig:6
+  basis: The passage names him as King Alcinous.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: mountain viewpoint
+  literal_form: The top of Mt. Eryx as a place from which island forms are observed.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: irrigation water
+  literal_form: Water in garden ducts drawn from wells by a mule-driven wheel with
+    buckets.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tidal salt-water river
+  literal_form: A river described as flowing with salt water and interpreted as tidal.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: island geography
+  literal_form: Ithaca, the Aegadean islands, Marettimo, Levanzo, Scheria, and the
+    Ogygian island as named or discussed islands.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: goat and horse contrast
+  literal_form: Ithaca as fit for breeding goats, contrasted with horse-breeding or
+    with an emended image of the island as a horseman or rider.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: seal and Phocaean sign
+  literal_form: Seals, the word connected with phoca, and seals on Phocaean coins.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Seals, Phocaeans, and Nausicaa note
+  summary: The footnotes discuss Greek wording, smell of fish, seals, Phocaean descent,
+    Phocaean coins, and an editorial claim connecting the writer with Nausicaa.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ithaca, horses, and Mt. Eryx interpretation
+  summary: The footnote discusses Ithaca’s description in relation to goats and horses,
+    proposes a textual emendation, and supports it through island views from Mt. Eryx.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Irrigation and tidal water notes
+  summary: The footnotes describe irrigation near Trapani and interpret a salt-water
+    river as tidal.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Ogygian island and Nausicaa
+  summary: The note says the Ogygian island was close enough that Nausicaa might know
+    its location.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Eurymedusa and Apeira
+  summary: The note comments on Eurymedusa having been brought from Apeira and suggests
+    a possible pun on Apeira.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Polyphemus and Neptune kinship
+  summary: The note identifies Polyphemus as son of Neptune and lays out his half-kinship
+    to Nausithous, Alcinous, and Nausicaa.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine parent-child kinship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The footnote explicitly says Polyphemus was son of Neptune and uses that
+    divine parentage to explain kinship with Nausithous, Alcinous, and Nausicaa.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is an editorial genealogical note, not a narrated mythic episode
+    in the extracted passage.
+- id: motif:2
+  label: mythic island geography mapped onto observed islands
+  taxonomy_refs: []
+  basis: The footnote claims the Aegadean islands did duty for the Ionian islands
+    and that Marettimo stood for Ithaca when viewed from Mt. Eryx.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive geographical hypothesis from the commentary rather
+    than a motif explicitly narrated in the Odyssey passage.
+comparison_claims:
+- id: claim:1
+  claim: The commentary asserts a visual and geographical correspondence in which
+    the Aegadean islands function as counterparts for the Ionian islands, with Marettimo
+    standing for Ithaca.
+  claim_level: visual_similarity
+  target: Aegadean islands and Marettimo compared with Ionian islands and Ithaca
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is the commentator’s interpretation and is supported here
+    only by the described view from Mt. Eryx.
+- id: claim:2
+  claim: The commentary cites a line ending in the hymn to the Pythian Apollo as strengthening
+    the proposed Odyssey line ending.
+  claim_level: linguistic_similarity
+  target: Hymn to the Pythian Apollo line ending compared with the proposed Odyssey
+    wording
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Greek text is represented in the provided passage by placeholders,
+    so the linguistic comparison cannot be independently checked from this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11059-11078; footnotes [44]-[46]
+  quote_or_summary: The notes discuss Greek wording, fish smell, Phocaean descent,
+    Nausicaa, seals, and seals on Phocaean coins.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11083-11112; footnote [48]
+  quote_or_summary: The note discusses Ithaca as fit for breeding goats, not good
+    for horses, and proposes an emendation translating the island as a horseman or
+    rider.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11113-11143; footnote [48]
+  quote_or_summary: The note describes Mt. Eryx, the Aegadean islands, Marettimo as
+    standing for Ithaca, Levanzo, the phrase meaning ‘How well it rides,’ and a supporting
+    comparison to the hymn to the Pythian Apollo.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11150-11152; footnote [51]
+  quote_or_summary: Irrigation near Trapani is described as water in ducts drawn from
+    wells by a mule turning a wheel with buckets.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: line 11153; footnote [52]
+  quote_or_summary: "“There is not a word here about the cattle of the sun-god.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 11156-11157; footnote [54]
+  quote_or_summary: The note says the river was flowing with salt water and therefore
+    was tidal.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11158-11159; footnote [55]
+  quote_or_summary: The note says the Ogygian island was not so far off that Nausicaa
+    could not know where it was.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11162-11166; footnote [57]
+  quote_or_summary: The note discusses Eurymedusa having been brought from Apeira
+    and connects Apeira with a Greek word meaning inexperienced or ignorant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 11167-11169; footnote [58]
+  quote_or_summary: The note states that Polyphemus was son to Neptune and therefore
+    half-brother to Nausithous, half-uncle to King Alcinous, and half-great-uncle
+    to Nausicaa.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 11171-11172; footnote [60]
+  quote_or_summary: The note says the writer shifts into the present tense while drawing,
+    with embellishments, from things actually existing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is chiefly editorial footnotes rather than primary narrative.
+    Motif extraction is therefore limited to explicit genealogical and interpretive-geographical
+    patterns in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Greek words in the supplied passage appear as placeholders, so claims involving Greek wording are recorded only at the level supported by the English footnotes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l11059-l11172
+  passage_sha256=86fe2270a90f0f0823a4a8ef756d367c59f2a7c603429d516f83e991046e38f1
+

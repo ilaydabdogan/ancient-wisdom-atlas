@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3710-l3720
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SICK STAG / THE ASS AND THE MULE / BROTHER AND SISTER / THE HEIFER AND
+    THE OX; lines 3710-3720
+  start: '3710'
+  end: '3720'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A heifer patronizingly pities an ox for hard plough work. During a village
+    festival the ox is released to pasture, while the heifer is taken for sacrifice.
+    The ox remarks that her earlier idleness was because she was intended for the
+    altar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A heifer approaches an ox while the ox is straining at the plough.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heifer sympathizes with the ox in a patronizing manner about the ox having
+    to work hard.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A village festival occurs, and everyone keeps holiday.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the festival, the ox is turned loose into the pasture.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the festival, the heifer is seized and led away to be sacrificed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ox says that the heifer’s idle time was because she had always been intended
+    for the altar.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Heifer
+  description: A heifer who has had idle time, pities the working ox, and is later
+    taken for sacrifice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ox
+  description: An ox straining at the plough who is later released to pasture and
+    comments on the heifer’s fate.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: patronizing observer
+  assigned_to:
+  - fig:1
+  basis: The heifer sympathizes with the ox in a patronizing way while he works.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacrificial victim
+  assigned_to:
+  - fig:1
+  basis: The heifer is seized, led off to sacrifice, and described as intended for
+    the altar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: laboring animal
+  assigned_to:
+  - fig:2
+  basis: The ox is straining hard at the plough.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: commenting survivor
+  assigned_to:
+  - fig:2
+  basis: The ox is released to pasture and then comments on why the heifer had been
+    idle.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: plough
+  literal_form: plough
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pasture
+  literal_form: pasture
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: altar
+  literal_form: altar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sacrifice
+  literal_form: being led off to sacrifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Heifer addresses the working ox
+  summary: The heifer approaches the ox as he strains at the plough and patronizingly
+    sympathizes with his hard work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Festival reversal
+  summary: During a village festival, the ox is released to pasture while the heifer
+    is taken for sacrifice; the ox remarks that her earlier idleness was due to her
+    intended sacrificial fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal intended for sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The heifer’s freedom from work is revealed to have been preparation for being
+    led to sacrifice and intended for the altar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a brief fable; the sacrifice motif is literal rather than
+    elaborated as a ritual myth.
+- id: motif:2
+  label: apparent privilege conceals danger
+  taxonomy_refs: []
+  basis: The heifer’s idle time appears favorable when contrasted with the ox’s labor,
+    but it is explained as connected to her coming sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an inferred narrative pattern from the fable’s reversal, not a
+    named taxonomy motif in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3710-3714
+  quote_or_summary: A heifer approaches an ox straining at the plough and patronizingly
+    sympathizes with his hard work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3714-3717
+  quote_or_summary: At a village festival, everyone keeps holiday and the ox is turned
+    loose into the pasture.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3717-3718
+  quote_or_summary: '"the Heifer was seized and led off to sacrifice"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 3718-3720
+  quote_or_summary: The ox says the heifer’s idle time was because she was always
+    intended for the altar.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels beyond the explicit sacrifice
+    are interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3710-l3720
+  passage_sha256=e49d95d1c8c587587a3b0df4e427d7a729e76c1e5d1720fa8aae63b8a5cc4467
+

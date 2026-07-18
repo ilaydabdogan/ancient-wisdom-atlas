@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l342-l384
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOY AND THE FILBERTS / THE FROGS ASKING FOR A KING / THE OLIVE-TREE AND
+    THE FIG-TREE / THE LION AND THE BOAR; lines 342-384
+  start: '342'
+  end: '384'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    THE BOY AND THE FILBERTS
+
+    THE FROGS ASKING FOR A KING
+
+    THE OLIVE-TREE AND THE FIG-TREE
+
+    THE LION AND THE BOAR
+  summary: The supplied passage is a list of fable title headings. The labelled portion
+    names a boy with filberts, frogs asking for a king, an olive-tree paired with
+    a fig-tree, and a lion paired with a boar.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The supplied passage text is a sequence of fable title headings.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:2
+  text: One title pairs a boy with filberts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title states that frogs are asking for a king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One title pairs an olive-tree with a fig-tree.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title pairs a lion with a boar.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Boy
+  description: Human child named in the title "THE BOY AND THE FILBERTS."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Frogs
+  description: Animal group named as asking for a king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: King
+  description: Ruler named as the object of the frogs' request.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Olive-tree
+  description: Tree figure named in a paired title with the fig-tree.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Fig-tree
+  description: Tree figure named in a paired title with the olive-tree.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lion
+  description: Animal figure named in a paired title with the boar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Boar
+  description: Animal figure named in a paired title with the lion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: titled human figure
+  assigned_to:
+  - fig:1
+  basis: The boy is named as one of the two elements in the title.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal petitioners
+  assigned_to:
+  - fig:2
+  basis: The title says the frogs are asking for a king.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: requested ruler
+  assigned_to:
+  - fig:3
+  basis: The king is the figure requested in the title.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: paired tree figures
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The olive-tree and fig-tree are joined in the same title.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: paired animal figures
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The lion and boar are joined in the same title.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: filberts
+  literal_form: filberts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: king or ruler
+  literal_form: king
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tree
+  literal_form: olive-tree and fig-tree
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boy and filberts title
+  summary: A title-level relation associates a boy with filberts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Frogs ask for a king title
+  summary: A title-level action presents frogs asking for a king.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Olive-tree and fig-tree title
+  summary: A title-level relation pairs an olive-tree and a fig-tree.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lion and boar title
+  summary: A title-level relation pairs a lion and a boar.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal community asks for a ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The title explicitly says that frogs are asking for a king.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the title is supplied; the narrative circumstances and outcome are
+    not present in the passage.
+- id: motif:2
+  label: paired trees
+  taxonomy_refs: []
+  basis: The title pairs an olive-tree with a fig-tree.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only a title, so no action, contrast, or symbolic function
+    can be confirmed.
+- id: motif:3
+  label: paired animal figures
+  taxonomy_refs: []
+  basis: The title pairs a lion with a boar.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives only a title; it does not state whether the animals
+    cooperate, compete, or merely appear together.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 342-384, title heading
+  quote_or_summary: THE BOY AND THE FILBERTS
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; short title quoted.
+- id: ev:2
+  type: quote
+  locator: lines 342-384, title heading
+  quote_or_summary: THE FROGS ASKING FOR A KING
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; short title quoted.
+- id: ev:3
+  type: quote
+  locator: lines 342-384, title heading
+  quote_or_summary: THE OLIVE-TREE AND THE FIG-TREE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; short title quoted.
+- id: ev:4
+  type: quote
+  locator: lines 342-384, title heading
+  quote_or_summary: THE LION AND THE BOAR
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; short title quoted.
+- id: ev:5
+  type: summary
+  locator: lines 342-384
+  quote_or_summary: The supplied passage consists of multiple uppercase fable title
+    headings, ending with the four titles quoted separately above.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the supplied passage contains title headings
+    only, not full fable narratives. Figures and patterns are therefore title-level
+    identifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not provide enough narrative context for comparative assertions beyond title-level motif candidates.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l342-l384
+  passage_sha256=ff8f55b9483ee8d3b9d81746cde2b969830df65ce3a9a341b6384a02a0f4b0bf
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2223-l2246
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MAN AND THE LION / THE TORTOISE AND THE EAGLE / THE KID ON THE HOUSETOP
+    / THE FOX WITHOUT A TAIL; lines 2223-2246
+  start: '2223'
+  end: '2246'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a kid on a roof jeers at a wolf below, and the wolf says
+    the roof, not the kid, is the real source of the mockery. In another, a fox loses
+    his tail in a trap, urges other foxes to cut off their tails, and is answered
+    by a fox who identifies his self-interest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Kid climbs onto the roof of an outhouse because grass and other things grow
+    in the thatch.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: From the roof, the Kid sees a Wolf passing below and jeers because the Wolf
+    cannot reach him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wolf replies that it is the roof, not the Kid, that mocks him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A fox falls into a trap, struggles free, and loses his brush or tail.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tailless fox is ashamed of his appearance and wants other foxes to lose
+    their tails too, so attention will be diverted from his own loss.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The tailless fox calls a meeting of the foxes and advises them to cut off
+    their tails, describing tails as ugly, heavy, and tiresome.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One of the other foxes says the tailless fox would not be so eager for others
+    to cut off their tails if he had not lost his own.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kid
+  description: A young goat that climbs onto an outhouse roof and jeers at a wolf
+    below.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Wolf
+  description: A wolf passing below the roof who answers the Kid's mockery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tailless fox
+  description: A fox who escapes a trap with the loss of his brush and then urges
+    other foxes to cut off their tails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Other Foxes
+  description: The foxes whom the tailless fox calls to a meeting and advises to cut
+    off their tails.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: One other fox
+  description: A fox among the others who answers the tailless fox and points to his
+    hidden motive.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: protected mocker
+  assigned_to:
+  - fig:1
+  basis: The Kid jeers from the roof because the Wolf below cannot reach him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rebuking target of mockery
+  assigned_to:
+  - fig:2
+  basis: The Wolf is mocked from above and replies that the roof is the true source
+    of the Kid's boldness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: self-interested adviser
+  assigned_to:
+  - fig:3
+  basis: After losing his tail, the fox advises the other foxes to cut off theirs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: persuasion audience
+  assigned_to:
+  - fig:4
+  basis: The other foxes are called to a meeting and addressed by the tailless fox.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: skeptical respondent
+  assigned_to:
+  - fig:5
+  basis: One fox replies that the advice would not be given if the speaker had not
+    lost his own tail.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: roof
+  literal_form: roof of an outhouse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tail or brush
+  literal_form: fox's brush/tail
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: trap
+  literal_form: trap that catches the fox
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Kid on the roof and Wolf below
+  summary: A Kid browses on an outhouse roof, mocks a Wolf below, and is told that
+    the roof is the cause of his boldness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fox loses his tail in a trap
+  summary: A fox falls into a trap, struggles free, and escapes without his brush.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Meeting of the foxes
+  summary: The tailless fox urges the other foxes to cut off their tails, and one
+    fox challenges the advice by referring to the speaker's own loss.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: borrowed boldness from a protected position
+  taxonomy_refs:
+  - wisdom
+  basis: The Kid's mockery depends on the roof keeping him out of the Wolf's reach,
+    and the Wolf explicitly attributes the mockery to the roof rather than to the
+    Kid.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the narrative exchange but no separate stated moral;
+    the taxonomy reference is broad.
+- id: motif:2
+  label: self-interested advice exposed
+  taxonomy_refs:
+  - wisdom
+  basis: The tailless fox advises others to cut off their tails after losing his own,
+    and another fox identifies the advice as motivated by that loss.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The interpretation is limited to the internal action and speech of the
+    fable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2223-2226
+  quote_or_summary: The fable titled THE KID ON THE HOUSETOP begins with a Kid climbing
+    onto an outhouse roof to browse on grass and growth in the thatch.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 2227-2230
+  quote_or_summary: The Kid jeers at a Wolf below; the Wolf says, "it is not you who
+    mock me, but the roof".
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2232-2235
+  quote_or_summary: In THE FOX WITHOUT A TAIL, a fox falls into a trap, struggles
+    free, and loses his brush.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 2235-2238
+  quote_or_summary: The fox is ashamed of his appearance and wants other foxes to
+    part with their tails so his own loss will draw less attention.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 2238-2241
+  quote_or_summary: The fox calls a meeting and says tails are "ugly," "heavy," and
+    "tiresome" to carry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 2241-2243
+  quote_or_summary: Another fox says, "if you hadn't lost your own tail," he would
+    not urge others to cut off theirs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and use the broad available wisdom taxonomy; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external Aesop corpus comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2223-l2246
+  passage_sha256=b2388e4a80d5b052f072ce041b72636629fb76922685d4ddaafa4731479aaeba
+

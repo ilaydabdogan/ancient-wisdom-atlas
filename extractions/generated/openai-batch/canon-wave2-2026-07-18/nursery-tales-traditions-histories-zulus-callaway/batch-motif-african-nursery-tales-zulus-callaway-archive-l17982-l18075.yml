@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l17982-l18075
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: U GUN  G QU-KUBAN  T WAN  A. / IZINGANEKWANE. / APPENDIX  (A). / UGUNGQU-KUBANTWANA.;
+    lines 17982-18075
+  start: '17982'
+  end: '18075'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ugungqu-kubantwana, also called Ugunggu, as the mother
+    and chief of all animals. Animals drink first at a special pool, because if she
+    drank first she would exhaust the water. Her body is described as containing land
+    on one side and rivers and great forests on the other; animals avoid those rivers
+    as common water and prefer the milk-like pool. Her name is associated with the
+    loud sound heard when she approaches. An editorial note compares the tale with
+    South African and Basuto animal traditions.
+  language: Zulu with English translation and editorial English notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ugungqu-kubantwana is described as the mother of all animals and as their
+    chief.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The animals go first to the pool, drink, and leave water for Ugungqu-kubantwana.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ugungqu-kubantwana cannot drink first because she would exhaust all the water
+    before the animals had drunk.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One side of Ugungqu-kubantwana’s body is described as a country, and the other
+    side as rivers and great forests.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The animals do not like to drink the rivers in her because they are like common
+    water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The pool where the animals drink is described as being as if it were milk.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ugunggu is said to be heard while still at a distance because her movement
+    makes a great noise rendered as gungqu, gungqu.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A footnote says the name imitates the animal’s noise and reports another native
+    explanation that she swallowed everything in her way so that her stomach contents
+    rattled when she moved.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ugungqu-kubantwana / Ugunggu
+  description: A female being described as mother and chief of all animals, whose
+    body includes land, rivers, and forests, and whose approach is marked by loud
+    noise.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the animals
+  description: The collective animals who drink first at the pool, leave water for
+    Ugungqu-kubantwana, and avoid the rivers in her body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: mother of animals
+  assigned_to:
+  - fig:1
+  basis: The translation states that Ugungqu-kubantwana was so called because she
+    was the mother of all animals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chief of animals
+  assigned_to:
+  - fig:1
+  basis: The translation states that she was the animals’ chief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animal drinkers and subjects
+  assigned_to:
+  - fig:2
+  basis: The animals drink at the pool before Ugungqu-kubantwana and leave water for
+    her.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: noisy approaching being
+  assigned_to:
+  - fig:1
+  basis: Her arrival is recognized by a loud gungqu sound heard from a distance.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: milk-like pool
+  literal_form: A pool where the animals drink, described as being as if it were milk.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rivers in the body
+  literal_form: Rivers in Ugungqu-kubantwana’s body, disliked by the animals because
+    they are like common water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: body as land and waters
+  literal_form: Ugungqu-kubantwana’s body with country on one side and rivers and
+    great forests on the other.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gungqu sound
+  literal_form: The loud gungqu, gungqu noise by which her approach is recognized.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of Ugungqu-kubantwana’s status
+  summary: Ugungqu-kubantwana is introduced as the mother and chief of all animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animals drink first at the pool
+  summary: The animals drink at the pool before Ugungqu-kubantwana, because her drinking
+    first would exhaust the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Body containing land, rivers, and forests
+  summary: Her body is described as having country on one side and rivers and great
+    forests on the other; the animals prefer the milk-like pool to those rivers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Approach heard by noise
+  summary: Ugunggu’s approach is known from a distance by the loud sound produced
+    when she moves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mother and ruler of animals
+  taxonomy_refs: []
+  basis: Ugungqu-kubantwana is explicitly described as both mother and chief of all
+    animals.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explicitly identify her as divine, so broader divine-mother
+    classifications should be reviewed before assignment.
+- id: motif:2
+  label: large being whose body contains landscape and waters
+  taxonomy_refs: []
+  basis: Her body is described as containing a country, rivers, and great forests.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a localized body-landscape description, not a full cosmogonic
+    account.
+- id: motif:3
+  label: communal water source protected by drinking order
+  taxonomy_refs: []
+  basis: Animals drink first at the pool and leave water for Ugungqu-kubantwana because
+    her drinking first would exhaust it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The ordering is practical within the episode; no explicit ritual or legal
+    rule is stated.
+- id: motif:4
+  label: special milk-like water source
+  taxonomy_refs: []
+  basis: The pool where the animals drink is described as being as if it were milk,
+    in contrast to common rivers.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The text says 'as it were' milk, so this should be treated as a descriptive
+    comparison rather than literal milk unless corroborated elsewhere.
+- id: motif:5
+  label: being named by characteristic sound
+  taxonomy_refs: []
+  basis: Ugunggu’s name is explained through the gungqu sound heard when she moves
+    or approaches.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an etymological or sound-symbolic explanation in the passage,
+    not an action sequence.
+- id: motif:6
+  label: devouring being with rattling stomach contents
+  taxonomy_refs: []
+  basis: A footnote reports another native explanation that she swallowed everything
+    in her way, and that her stomach contents rattled when she moved.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This detail appears in a footnote as an additional explanation, not in
+    the main translated paragraph.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note states that the Basuto tale of the Little Hare has many
+    elements in common with the Ugungqu-kubantwana tale and asserts a common origin.
+  claim_level: common_inheritance
+  target: Basuto tale of the Little Hare as summarized from Casalis
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial assertion within the passage; the full Basuto
+    tale is not provided here for independent verification.
+- id: claim:2
+  claim: The Ugungqu-kubantwana episode and the summarized Basuto tale share a pattern
+    involving an extraordinary being or person whose drinking affects a major water
+    source and the animals’ access to water.
+  claim_level: same_motif
+  target: Basuto Little Hare episode of the woman who drinks the great lake dry
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: In the Ugungqu-kubantwana passage the exhaustion of water is given
+    as a reason for drinking order, while in the Basuto summary the lake is actually
+    drunk dry by a woman.
+- id: claim:3
+  claim: The passage notes a nearby South African animal-rulership pattern in which
+    the elephant is represented as king of beasts, comparable in function to Ugungqu-kubantwana
+    as chief of the animals.
+  claim_level: same_function
+  target: Other South African legends of the elephant as king of beasts
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not explicitly identify Ugungqu-kubantwana as an elephant,
+    and the cited elephant comparison is brief.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17982-18075, English translation paragraph
+  quote_or_summary: Ugungqu-kubantwana is said to be called so because she was the
+    mother of all animals and their chief.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 17982-18075, English translation paragraph
+  quote_or_summary: The animals go first to the pool and drink, leaving water for
+    her; if she drank first, all water would be exhausted before they drank.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 17982-18075, English translation paragraph
+  quote_or_summary: Her body has country on one side and rivers and great forests
+    on the other; animals dislike those rivers as common water and drink at the milk-like
+    pool.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 17982-18075, English translation paragraph
+  quote_or_summary: She is called Ugunggu because she can be heard coming from a distance
+    by the loud gungqu, gungqu sound made when she moves.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: note
+  locator: lines 17982-18075, editorial comparative note
+  quote_or_summary: The note says other South African legends make the elephant king
+    of beasts; it compares the tale with the Basuto Little Hare tale, where a woman
+    eats the liver of a fabulous animal, drinks a lake dry, is struck so water returns,
+    and animals avoid the water until the hare drinks stealthily.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: note
+  locator: lines 17982-18075, footnote 17
+  quote_or_summary: The footnote explains gungqu as imitating the animal’s noise,
+    likened to a heavily laden wagon on a bad road, and adds another explanation that
+    she swallowed everything so her stomach rattled when she moved.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main descriptive extraction is direct from the translation. Motif labels
+    are provisional and avoid unsupported taxonomy assignments. Comparison claims
+    rely on the passage’s own editorial note and require human review against the
+    compared texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. No external taxonomy IDs were assigned beyond supplied symbol refs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l17982-l18075
+  passage_sha256=a8fba64e38f37a1c717707b93c471fe6f9b3738e88e78d777eea97815fe95f24
+

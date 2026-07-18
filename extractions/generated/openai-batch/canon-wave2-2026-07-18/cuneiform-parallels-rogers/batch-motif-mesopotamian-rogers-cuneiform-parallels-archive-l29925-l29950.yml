@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29925-l29950
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  26 / PLATE  NO.  27 / PLATE  NO.  28 / PLATE  NO.  29; lines
+    29925-29950
+  start: '29925'
+  end: '29950'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Plate caption describing a Tell-el-Amarna tablet associated with Abdi-Khiba
+    of Jerusalem and a basalt statue of Shalmaneser III found near the zikkurat of
+    Asshur. The statue is described with physical attributes, weapons, and a neck
+    cord bearing astrological symbols identified as Shamash, a corona, and Ishtar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plate 29 Figure 1 is described as a tablet from the Tell-el-Amarna collection,
+    one of the letters of Abdi-Khiba of Jerusalem, preserved in the Royal Museum of
+    Berlin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plate 29 Figures 2 and 3 are described as a basalt statue of Shalmaneser III,
+    dated 859-825 B.C.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The statue was found east of the zikkurat of the city of Asshur, the ancient
+    capital of Assyria.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When complete, the statue measured about two and one-quarter metres in height.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The statue's beard is described as showing typical Assyrian plaited treatment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The statue's belt contains two dirks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A cord suspended about the statue's neck bears astrological symbols identified
+    as Shamash, the corona, and Ishtar.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Shamash symbol is described as a sun disk with four cross-formed sun rays
+    and four narrow flames.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Ishtar symbol is described as a sun disk with eight rays.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The statue is covered with text that the caption says is translated elsewhere
+    in the book.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abdi-Khiba of Jerusalem
+  description: Named person associated with the letter represented by the Tell-el-Amarna
+    tablet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shalmaneser III
+  description: Named ruler represented by the basalt statue dated 859-825 B.C.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: letter-associated named person
+  assigned_to:
+  - fig:1
+  basis: The tablet is described as one of the letters of Abdi-Khiba of Jerusalem.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: statue subject
+  assigned_to:
+  - fig:2
+  basis: The object is identified as a basalt statue of Shalmaneser III.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: neck cord with astrological symbols
+  literal_form: Cord suspended about the neck of the statue, bearing astrological
+    symbols.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Shamash sign
+  literal_form: Sun disk with four cross-formed sun rays and four narrow flames.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: corona
+  literal_form: Corona listed among the discernible astrological symbols on the neck
+    cord.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Ishtar sign
+  literal_form: Sun disk with eight rays.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: two dirks
+  literal_form: Two dirks contained in the statue's belt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: zikkurat of Asshur
+  literal_form: Zikkurat east of which the statue was found.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Plate figure of the Amarna tablet
+  summary: The caption identifies a Tell-el-Amarna tablet connected with Abdi-Khiba
+    of Jerusalem and notes its preservation in Berlin.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plate figures of the Shalmaneser III statue
+  summary: The caption describes the basalt statue of Shalmaneser III, its findspot
+    near the zikkurat of Asshur, its physical features, weapons, and neck-cord astrological
+    symbols.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal statue bearing astral emblems
+  taxonomy_refs: []
+  basis: The statue of Shalmaneser III is described as wearing a neck cord with astrological
+    symbols, including signs named Shamash, corona, and Ishtar.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is a descriptive plate caption, not a mythic narrative; it
+    does not explain the ritual, theological, or political function of the symbols.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 29925-29930
+  quote_or_summary: Figure 1 is a Tell-el-Amarna tablet, one of the letters of Abdi-Khiba
+    of Jerusalem, preserved in the Royal Museum of Berlin.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 29931-29936
+  quote_or_summary: Figures 2 and 3 are a basalt statue of Shalmaneser III, dated
+    859-825 B.C., found east of the zikkurat of Asshur.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 29936-29940
+  quote_or_summary: The caption describes the statue's height, Assyrian plaited beard,
+    and belt containing two dirks.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 29940-29945
+  quote_or_summary: A cord about the statue's neck bears astrological symbols; discernible
+    forms include Shamash as a sun disk with four cross-formed rays and four narrow
+    flames, the corona, and Ishtar as a sun disk with eight rays.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 29945-29950
+  quote_or_summary: The caption notes that text covers the statue and is translated
+    elsewhere, and gives the illustration source.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material description is clear, but motif identification is limited because
+    the passage is a plate caption with no narrative or explicit interpretive comparison.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Symbol entries are limited to objects and iconographic elements explicitly described in the caption.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29925-l29950
+  passage_sha256=377268947d7b081a499ec265511110bc92ce842cbce84edcaadce4bba6cbf216
+

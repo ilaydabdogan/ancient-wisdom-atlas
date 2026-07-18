@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l28815-l28855
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGAXEKWAXE. / APPENDIX  (A). / SUPERSTITIOUS  ABSTINENCE  FROM  CERTAIN  KINDS
+    / OF  FOOD.; lines 28815-28855
+  start: '28815'
+  end: '28855'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: There is among black men the custom of abstaining from certain foods.
+  summary: 'The appendix describes a food-abstinence custom: when a cow''s calf is
+    removed dead and the cow also dies before the calf is taken away, young people
+    who have not had a child abstain from that cow''s flesh. Girls are described as
+    not even being considered possible eaters of it, because the cow is said to produce
+    a similar evil among women. The editor says these abstinences resemble the JEtoon
+    dab of West coast Africans.'
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that there is a custom of abstaining from certain foods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The specified case involves a cow whose calf is taken from her dead, while
+    the cow also dies before the calf is taken away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Young people who have never had a child abstain from the flesh of that cow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Girls are described as not even being considered possible eaters of the cow's
+    flesh.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The reason given is that the cow is said to produce a similar evil among women.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The editor states that these abstinence customs resemble the JEtoon dab of
+    West coast Africans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: young people who have never had a child
+  description: People who abstain from the flesh of the cow in the specified circumstance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: girls
+  description: Girls are mentioned as a group for whom there is not even a question
+    of eating the cow's flesh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: cow
+  description: A cow whose calf is dead and who dies before the calf is taken away;
+    her flesh is the prohibited food in the described custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: dead calf
+  description: The calf taken from the cow dead in the condition that triggers the
+    abstinence.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: abstainers from the cow's flesh
+  assigned_to:
+  - fig:1
+  basis: The passage says young people who have never had a child abstain from the
+    flesh of that cow.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: excluded potential eaters
+  assigned_to:
+  - fig:2
+  basis: The passage says there is not even a thought of whether girls can eat it.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: source of prohibited flesh and feared harm
+  assigned_to:
+  - fig:3
+  basis: The cow's flesh is avoided, and the cow is said to produce a similar evil
+    among women.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: prohibited cow flesh
+  literal_form: the flesh of the cow whose calf and mother both die before separation
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: dead calf condition
+  literal_form: a calf taken dead from its mother, with the mother dying before removal
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Food abstinence rule for a cow associated with calf death
+  summary: A custom is described in which childless young people abstain from the
+    flesh of a cow when her calf is dead and the cow dies before the calf is taken
+    away; girls are especially not considered as possible eaters because similar evil
+    among women is feared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: food taboo to avoid reproductive or analogous harm
+  taxonomy_refs: []
+  basis: The passage links abstention from the cow's flesh with a feared production
+    of a similar evil among women, and applies the abstention to young people who
+    have not had children.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief explanatory statement; the nature of the
+    'similar evil' is not fully specified in the excerpt.
+- id: motif:2
+  label: abstinence from an animal marked by death of mother and offspring
+  taxonomy_refs: []
+  basis: The tabooed food is the flesh of a cow in a specific death sequence involving
+    both the dead calf and the dead mother cow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a motif candidate derived from the local rule; no supplied taxonomy
+    reference directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: The editor says the described superstitious abstinence from certain foods
+    resembles the JEtoon dab of West coast Africans.
+  claim_level: same_function
+  target: JEtoon dab of the West coast Africans
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only the editor's comparison and does not describe
+    the JEtoon dab in detail, so the degree and basis of resemblance cannot be independently
+    evaluated from this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28815-28855
+  quote_or_summary: '"The following superstitions in abstaining from certain food
+    resembles the JEtoon dab of the West coast Africans"; English translation also
+    states a custom of abstaining from certain foods.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 28815-28855
+  quote_or_summary: The case described is a cow whose calf is taken from her dead,
+    and the cow also dies before the calf is taken away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 28815-28855
+  quote_or_summary: '"young people who have never had a child abstain from the flesh
+    of that cow."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 28815-28855
+  quote_or_summary: The narrator says he does not mean to speak of girls, because
+    there is not even a thought of whether they can eat it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 28815-28855
+  quote_or_summary: '"it is said that the cow will produce a similar evil among the
+    women"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The basic abstinence rule is explicit, but the passage is brief and the final
+    explanatory sentence appears truncated after 'among the' in the supplied excerpt,
+    limiting interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  A footnote about a king living in the chief house and not at the gateway appears in the supplied passage but is unrelated to the food-abstinence appendix and was not used in motif extraction.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l28815-l28855
+  passage_sha256=d37bca80e0ebcfc156951e19908b39c1e0ee915cc7ce1b3d5f8063c9d6886b23
+

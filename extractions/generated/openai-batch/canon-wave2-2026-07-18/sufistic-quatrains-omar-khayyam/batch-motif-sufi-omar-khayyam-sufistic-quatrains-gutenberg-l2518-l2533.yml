@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2518-l2533
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: EXPLANATION OF THE REFERENCES IN THE FOLLOWING PARALLELS / ANALYSIS OF EDWARD
+    FITZGERALD'S QUATRAINS / XIII. / XVII.; lines 2518-2533
+  start: '2518'
+  end: '2533'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: This worn caravanserai which is called the world
+  summary: The passage presents FitzGerald's quatrain XVII, which imagines the world
+    as a battered caravanserai with Night and Day as alternating portals, where successive
+    sultans stayed until a destined hour and then departed. The accompanying note
+    says the quatrain derives from C. 95, where the world is a worn caravanserai,
+    the resting-place of the piebald horse of night and day, a pavilion abandoned
+    by many Jamshyds, and a palace associated with many Bahrams.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The poetic voice tells the reader to think about a battered caravanserai.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The caravanserai's portals are described as alternate Night and Day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Successive sultans, accompanied by pomp, stayed until a destined hour and
+    then went away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The editorial note states that this quatrain owes its origin to C. 95.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: C. 95 calls the world a worn caravanserai.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: C. 95 describes the world-caravanserai as the resting-place of the piebald
+    horse of night and day.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: C. 95 describes a pavilion abandoned by a hundred Jamshyds and a palace that
+    is the resting-place of a hundred Bahrams.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage lists multiple reference sigla for C. 95 and related versions.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sultan after Sultan
+  description: Successive rulers with pomp who stayed for a destined hour and then
+    departed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: hundred Jamshyds
+  description: A group named as having abandoned the pavilion in the C. 95 parallel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: hundred Bahrams
+  description: A group named in relation to a palace that is their resting-place in
+    the C. 95 parallel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: departing royal occupant
+  assigned_to:
+  - fig:1
+  basis: The sultans stayed with pomp until a destined hour and then went their way.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: former royal exemplar
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The C. 95 parallel names many Jamshyds and Bahrams in connection with an
+    abandoned pavilion and a palace-resting-place.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: world as caravanserai
+  literal_form: battered or worn caravanserai called the world
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: night and day as temporal passage
+  literal_form: alternate Night and Day as portals; piebald horse of night and day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: destined hour
+  literal_form: the destined Hour after which the sultans depart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: abandoned pavilion and palace-resting-place
+  literal_form: pavilion abandoned by a hundred Jamshyds; palace that is the resting-place
+    of a hundred Bahrams
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reflection on the battered caravanserai
+  summary: The reader is asked to contemplate the world-like caravanserai through
+    which Night and Day alternate and in which successive sultans stay briefly before
+    departing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: C. 95 parallel image
+  summary: The cited parallel describes the world as a worn caravanserai, associates
+    it with the horse of night and day, and recalls many Jamshyds and Bahrams through
+    images of an abandoned pavilion and a palace-resting-place.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: world as temporary lodging for rulers
+  taxonomy_refs:
+  - wisdom
+  basis: Both the quatrain and C. 95 use the caravanserai image for the world and
+    emphasize the temporary presence or departure of royal occupants.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The wisdom taxonomy is inferred from the reflective instruction and impermanence
+    imagery; the passage does not state a doctrinal lesson explicitly.
+- id: motif:2
+  label: night and day as alternating passage of time
+  taxonomy_refs:
+  - duality
+  basis: Night and Day are named as alternate portals in the quatrain and as a piebald
+    horse in C. 95.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The paired night/day imagery is explicit, but the broader duality category
+    is a cautious taxonomy fit.
+- id: motif:3
+  label: destined departure from worldly station
+  taxonomy_refs:
+  - departure
+  basis: The sultans remain only until their destined hour and then go their way.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage implies an appointed departure but does not explicitly define
+    the departure as death or an afterlife journey.
+comparison_claims:
+- id: claim:1
+  claim: FitzGerald's quatrain XVII and C. 95 present the same central image of the
+    world as a worn caravanserai associated with the passage of night and day and
+    the transience of royal occupants.
+  claim_level: same_motif
+  target: C. 95 parallel cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives an editorial attribution of origin and parallel references,
+    but it does not provide manuscript evidence or a detailed transmission history.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2518-2523
+  quote_or_summary: '"Think, in this batter''d Caravanserai / Whose Portals are alternate
+    Night and Day"; sultans stay until a destined hour and depart.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: line 2525
+  quote_or_summary: '"This quatrain owes its origin to C. 95."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 2527-2531
+  quote_or_summary: 'C. 95: the worn caravanserai is called the world; it is the resting-place
+    of the piebald horse of night and day, an abandoned pavilion of many Jamshyds,
+    and a palace-resting-place of many Bahrams.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; brief quotation/summary from public domain source.
+- id: ev:4
+  type: citation
+  locator: lines 2532-2533
+  quote_or_summary: 'Reference list: C. 95, L. 203, B. 200, S.P. 67, P. 120, B. ii.
+    42, T. 79 and 357; W. 70, N. 67, V. 199.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation data.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the passage is reflective and symbolic but does not explicitly name doctrinal
+    categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs matched the caravanserai, night/day, or destined-hour imagery directly.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2518-l2533
+  passage_sha256=0a79ba0f263e256cff59488639c0415ce77354da825451cbdb127e14d66fcca3
+

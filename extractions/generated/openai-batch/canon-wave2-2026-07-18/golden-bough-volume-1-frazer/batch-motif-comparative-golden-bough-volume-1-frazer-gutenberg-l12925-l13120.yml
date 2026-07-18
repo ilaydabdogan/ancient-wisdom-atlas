@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l12925-l13120
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 12925-13120
+  start: '12925'
+  end: '13120'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A series of footnotes citing sources and adding brief comments on reported
+    sacrifices, ritual implements, an Earth Goddess represented in animal form, harvest
+    timing, viticultural scurrilities, calendar correspondences, and disputed evidence
+    for Egyptian human sacrifice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two accounts of the sacrifice of a Sioux girl are described as independent
+    and supplementary.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A branch of a green tree is mentioned as an object for which other accounts
+    give planks, bamboos, or a slit bamboo instead.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Earth Goddess is said to have been represented in elephant-form, and elsewhere
+    in peacock-form.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A post to which a victim was bound is said to have borne the effigy of a peacock.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Frazer states that harvest in Phrygia was probably later than on Mediterranean
+    coasts because of the country’s high upland character.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Scurrilous exchanges are said to occur in both ancient and modern times between
+    vine-dressers, vintagers, and passers-by.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A calendrical note argues that Lous corresponds to Ab in the Syro-Macedonian
+    calendar but likely corresponded to Tammuz in Babylon.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Herodotus is said to reject Egyptian human sacrifice, while Manetho is said
+    to affirm it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sioux girl
+  description: A girl whose sacrifice is mentioned as the subject of independent accounts
+    by Schoolcraft and De Smet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Earth Goddess
+  description: A goddess represented in elephant-form and, in the hill tracts of Goomsur,
+    in peacock-form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Victim bound to post
+  description: A victim bound to a post that bore the effigy of a peacock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Vine-dressers, vintagers, and passers-by
+  description: Groups described as exchanging scurrilities in ancient and modern times.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Sacrificial victim
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage mentions the sacrifice of a Sioux girl and a victim bound to
+    a post.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Animal-form goddess
+  assigned_to:
+  - fig:2
+  basis: The Earth Goddess is described as represented in elephant-form and peacock-form.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Participants in ritualized scurrilous speech
+  assigned_to:
+  - fig:4
+  basis: The passage identifies vine-dressers, vintagers, and passers-by as exchanging
+    scurrilities.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Branch of a green tree
+  literal_form: A branch of a green tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Planks or bamboo substitutes
+  literal_form: Two strong planks or bamboos, or a slit bamboo
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Elephant-form goddess representation
+  literal_form: Elephant-form representation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Peacock-form and peacock effigy
+  literal_form: Peacock-form representation and peacock effigy on a post
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Named calendar months
+  literal_form: Lous, Ab, Tammuz, Xanthicus, Nisan, and Adar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sioux girl sacrifice accounts
+  summary: The footnote cites sources and states that two accounts of the sacrifice
+    of a Sioux girl are independent and supplementary.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal-form Earth Goddess and victim post
+  summary: The Earth Goddess is described as represented in elephant and peacock forms,
+    and a victim is described as bound to a post bearing a peacock effigy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Alternative ritual implements
+  summary: A branch of a green tree is contrasted with accounts that mention planks,
+    bamboos, or a slit bamboo.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Viticultural scurrilous exchanges
+  summary: The footnote notes scurrilities exchanged in ancient and modern times among
+    vine-dressers, vintagers, and passers-by.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Calendar correspondence note
+  summary: A cited note reasons about correspondences among Syro-Macedonian and Babylonian
+    months, especially Lous, Ab, and Tammuz.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Human or ritual sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage mentions the sacrifice of a Sioux girl, a victim bound to a post,
+    and disputed testimony about Egyptian human sacrifices.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage is a footnote section; it gives brief references rather than
+    a full ritual narrative.
+- id: motif:2
+  label: Goddess represented in animal form
+  taxonomy_refs: []
+  basis: The Earth Goddess is explicitly described as represented in elephant-form
+    and peacock-form.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied taxonomy ref directly corresponds to this motif; the passage
+    does not state a mythic narrative around the goddess.
+- id: motif:3
+  label: Seasonal and harvest calendrical patterning
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage discusses harvest timing in Phrygia and month correspondences
+    involving Lous, Ab, and Tammuz.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The evidence is calendrical and agricultural but fragmentary; the larger
+    seasonal argument is outside the supplied excerpt.
+- id: motif:4
+  label: Ritualized scurrilous speech in viticulture
+  taxonomy_refs: []
+  basis: The passage identifies ancient and modern scurrilous exchanges among vine-dressers,
+    vintagers, and passers-by.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Frazer states that these exchanges seem to belong to a different category,
+    and the excerpt does not explain the function of the speech.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares scurrilous exchanges in ancient and modern
+    viticultural settings, while also distinguishing them as a different category.
+  claim_level: same_function
+  target: Ancient and modern exchanges among vine-dressers, vintagers, and passers-by
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt does not specify the ritual function or give detailed examples;
+    it only notes the comparison in passing.
+- id: claim:2
+  claim: The passage compares Syro-Macedonian and Babylonian month correspondences,
+    arguing that Lous likely aligned with Tammuz in Babylon rather than with Ab.
+  claim_level: same_function
+  target: Syro-Macedonian and Babylonian calendar month correspondences
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a calendrical comparison, not a direct mythic motif comparison;
+    the larger interpretive context is outside the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: fn. 1264 within lines 12925-13120
+  quote_or_summary: Frazer cites James, Schoolcraft, and De Smet, adding that Schoolcraft’s
+    and De Smet’s accounts of the sacrifice of the Sioux girl are independent and
+    supplement each other.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: fn. 1279 within lines 12925-13120
+  quote_or_summary: Frazer notes that instead of a branch of a green tree, Campbell
+    mentions two strong planks or bamboos, or a slit bamboo.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: fn. 1282 within lines 12925-13120
+  quote_or_summary: "“The elephant represented the Earth Goddess herself”; in Goomsur
+    she was represented in peacock-form, and the victim’s post bore a peacock effigy."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; short quotation and summary.
+- id: ev:4
+  type: summary
+  locator: fn. 1305 within lines 12925-13120
+  quote_or_summary: Frazer says he does not know when corn is reaped in Phrygia, but
+    infers from its high upland character that harvest is probably later there than
+    on Mediterranean coasts.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: fn. 1310 within lines 12925-13120
+  quote_or_summary: Frazer says scurrilities exchanged in ancient and modern times
+    between vine-dressers, vintagers, and passers-by seem to belong to a different
+    category.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: fn. 1314 within lines 12925-13120
+  quote_or_summary: Robertson Smith’s note says Lous represents Ab in the Syro-Macedonian
+    calendar, but likely differed in Babylon; an astronomical observation is used
+    to argue that Lous answered to the lunar month Tammuz.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: fn. 1316 within lines 12925-13120
+  quote_or_summary: Frazer notes that Herodotus discredits Egyptian human sacrifice,
+    but says his authority should not outweigh Manetho, who affirms that the Egyptians
+    did offer human sacrifices.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The supplied passage is mostly footnotes and citations, so extraction is
+    limited to brief explicit statements rather than full myths or ritual narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy IDs were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l12925-l13120
+  passage_sha256=2f3f9bfe264644fa425023b697d5c34c80daedfaf0b9a83545c770defa5e6e71
+

@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l7950-l8287
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: WAGONER. / VOCABULARY. / KORYAK-ENGLISH. / I  10; lines 7950-8287
+  start: '7950'
+  end: '8287'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Koryak-English vocabulary segment with English glosses, occasional Chukchee
+    comparisons, and entries for natural features, animals, named figures, objects,
+    actions, body/family terms, and ritual or speech-related terms.
+  language: English with transcribed Koryak terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a vocabulary list of Koryak headwords with English glosses
+    and occasional Chukchee forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes landscape and time-setting terms such as river, dawn, evening,
+    darkness, sunset, willow, and snowstorm beginning.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The list includes animal terms and animal-linked proper names, including magpie,
+    Magpie-Man, Raven, Raven-Man, Raven-Woman, and ringed seal.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: obs:4
+  text: The list includes a grass entry that is also glossed as Grass-Woman, marked
+    as a proper name.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:5
+  text: The list includes terms connected with human condition and family relation,
+    including death, getting with child, taking for a wife, father-in-law, and mamma.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:6
+  text: The list includes object terms such as tent, boots, boot-string, knife, thimble,
+    and elevated storehouse.
+  category: object
+  evidence_refs:
+  - ev:12
+- id: obs:7
+  text: The list includes material or substance terms such as slime, seal-oil, blubber,
+    edible seaweed, mucus, and saliva.
+  category: object
+  evidence_refs:
+  - ev:13
+- id: obs:8
+  text: The list includes movement and action terms such as going on foot, striding,
+    striding over, pursuing, going through, letting loose, and getting loose.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:9
+  text: One entry glosses a verb as dancing the ritual dance.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: One speech-related entry includes a note comparing talk with chattering or
+    gibbering of supernatural spirits, described as mostly ventriloquistic in character.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Magpie-Man
+  description: A proper-name-like gloss attached to the magpie entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Raven-Man
+  description: A proper-name-like gloss attached to the Raven entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Raven-Woman
+  description: A proper-name-like gloss attached to the Raven entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Grass-Woman
+  description: A proper name noted in the grass entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: animal-human compound named figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: 'The English glosses combine animal labels with Man or Woman: Magpie-Man,
+    Raven-Man, and Raven-Woman.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: plant-associated proper name
+  assigned_to:
+  - fig:4
+  basis: The grass entry states that the term is also Grass-Woman and marks it as
+    a proper name.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river
+  literal_form: vai'am, glossed as river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: willow
+  literal_form: vi'yiviy, glossed as willow
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Raven
+  literal_form: va'lla / va'lvuval / ve'lla, glossed as Raven
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: magpie
+  literal_form: va'kithm, glossed as magpie
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: grass
+  literal_form: vi8'yai / va8'ai / va8i'lifiin, glossed as grass and also Grass-Woman
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: ringed seal
+  literal_form: vi'tvit, glossed as ringed seal
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: dawn and darkness terms
+  literal_form: dawn, evening, darkness, sunset
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: ritual dance
+  literal_form: verb glossed as to dance the ritual dance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: knife
+  literal_form: vala, glossed as knife
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: animal or plant terms used in human-form proper names
+  taxonomy_refs: []
+  basis: The vocabulary segment gives Magpie-Man, Raven-Man, Raven-Woman, and Grass-Woman
+    as name-like glosses or proper names.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage is a vocabulary excerpt, not a narrative. It does not state
+    actions, mythic functions, transformations, or story roles for these names.
+- id: motif:2
+  label: ritual dance term
+  taxonomy_refs: []
+  basis: A lexical entry is glossed as 'to dance the ritual dance.'
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: Only the existence of a ritual-dance verb is shown; no ritual scene, initiatory
+    context, or mythic function is described.
+comparison_claims:
+- id: claim:1
+  claim: The vocabulary notes repeatedly place Koryak entries beside Chukchee forms,
+    supporting only a limited claim of linguistic similarity in this passage.
+  claim_level: linguistic_similarity
+  target: Chukchee forms cited in the vocabulary notes
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not establish shared mythic motifs, narrative borrowing,
+    historical contact, or common inheritance; it only records lexical comparisons.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7950-8287
+  quote_or_summary: Vocabulary segment containing Koryak headwords, English glosses,
+    reference numbers, and occasional Chukchee comparisons.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 7950-8287; entry 'vai'am'
+  quote_or_summary: '"vai''am (Ch. ve''em), river"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 7950-8287; entry 'vi'yiviy'
+  quote_or_summary: '"vi''yiviy, willow"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 7950-8287; entries 'vant' and 'volq'
+  quote_or_summary: The segment glosses vanti'ykm as 'it dawns', vantige'nin as 'dawn',
+    and volqi'giciiin / volqige'nm as 'evening, darkness, sunset'; it also includes
+    a verb for snowstorm beginning.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 7950-8287; entries 'vakith'
+  quote_or_summary: The magpie entry glosses va'kithm as 'magpie' and Vakithi'mtila8n
+    as 'Magpie-Man'.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 7950-8287; entries 'valv'
+  quote_or_summary: The Raven entry glosses va'lla / va'lvuval / ve'lla as 'Raven',
+    with Chukchee comparison, and lists Valvi'mtila8n as 'Raven-Man' and Va'cvi-na'wgut
+    as 'Raven-Woman'.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: 7950-8287; entry 'vis'yai, va8'ai, va8i'
+  quote_or_summary: '"grass, also Grass-Woman (proper name)"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: 7950-8287; entry 'vi'tvit'
+  quote_or_summary: '"vi''tvit, ringed seal"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: 7950-8287; entry 'mila, mla'
+  quote_or_summary: '"mila''wekin M, to dance the ritual dance"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: summary
+  locator: 7950-8287; entry 'migimg'
+  quote_or_summary: The entry for migi'mgm glosses 'talk' and compares it with chattering
+    or gibbering of supernatural spirits, mostly of ventriloquistic character.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:11
+  type: summary
+  locator: 7950-8287; entries 'vi8ya', 'vamya', 'mata', 'mama'
+  quote_or_summary: The segment includes entries glossed as 'to die', 'death', 'to
+    get with child', 'to take for a wife', 'father-in-law', and 'mamma', some with
+    Chukchee comparisons.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:12
+  type: summary
+  locator: 7950-8287; entries 'pola'tka', 'plak', 'vala', 'vel', 'mama'
+  quote_or_summary: The segment includes object entries for tent, boot, boot-string,
+    knife, thimble, forefinger literally associated with thimble-putting-on, and elevated
+    storehouse.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:13
+  type: summary
+  locator: 7950-8287; entries 'vapis-qa', 'vali', 'mitqa', 'mi'ciiol', 'vili8'yn'
+  quote_or_summary: The segment includes substance entries for slime, seal-oil, blubber,
+    edible seaweed, mucus, and saliva.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:14
+  type: summary
+  locator: 7950-8287; entries 'viyiw', 'vaicit', 'vaqat', 'vaqyiy', 'valaikila', 'vetho'
+  quote_or_summary: The segment includes action entries glossed as letting loose,
+    getting loose, going on foot, striding, striding over, pursuing, and going through.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Extraction confidence is limited because the passage is a vocabulary list
+    rather than a narrative episode. Named figures and lexical patterns are clear,
+    but motif status is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes are present in the supplied range; scenes are therefore left empty.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l7950-l8287
+  passage_sha256=06cefbf68aa7d5674873d7da7b877ed019dc7a09d7479b0bb37a43eb2a76f416
+

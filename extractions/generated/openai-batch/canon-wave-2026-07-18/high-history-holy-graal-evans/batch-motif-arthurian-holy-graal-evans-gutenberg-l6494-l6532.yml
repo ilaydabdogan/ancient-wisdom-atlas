@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l6494-l6532
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XVIII. / BRANCH X. / INCIPIT. / TITLE I.; lines 6494-6532
+  start: '6494'
+  end: '6532'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: '"Right close are we akin, I and you."'
+  summary: Lancelot and the hermit Joseus exchange names and learn they are close
+    kin. Lancelot notices weapons in the hermit's house. Joseus explains that the
+    lonely hermitage is defended against robbers by himself and his hardy squire,
+    while denying that he wounds or slays anyone. Lancelot and the squire praise Joseus's
+    strength, and Lancelot is lodged for the night.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Lancelot says he loves the speaker better because another man has shown him
+    much love, then asks the speaker's name.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker names himself Joseus; Lancelot names himself Lancelot of the Lake;
+    the hermit says he and Lancelot are closely akin, and Lancelot is glad.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lancelot sees a shield, spear, javelins, and habergeon in the hermit's house
+    and asks why the arms are there.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hermit says the forest is lonely, the hermitage is far from people, and
+    only he and his squire are within; he says they use the arms to defend themselves
+    when robbers come.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lancelot says he thought hermits never assaulted, wounded, or slew; the hermit
+    replies that God forbid he should wound or slay anyone.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hermit says that when robbers come, he and the squire arm themselves,
+    and that any robber he catches in his hands cannot escape.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hermit says his squire is well-grown and hardy and either slays a robber
+    or handles him so that he cannot help himself afterward.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Lancelot says the hermit would be valiant if he were not a hermit; the squire
+    says no one in Logres is so strong or hardy as the hermit.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Lancelot is lodged for the night as well as possible.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lancelot of the Lake
+  description: A named visitor who asks Joseus's name, identifies himself, observes
+    the arms in the hermit's house, questions their use, and is lodged for the night.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Joseus
+  description: A hermit who names himself Joseus, says he is close kin to Lancelot,
+    lives in a lonely hermitage with a squire, and explains how they defend themselves
+    against robbers.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the squire
+  description: The hermit's squire, described as well-grown and hardy; the hermit
+    says he kills or disables robbers, and the squire praises the hermit's strength
+    and hardiness.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: robbers
+  description: Threatening outsiders whom the hermit says come to the hermitage and
+    against whom he and the squire arm themselves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: name-exchanging visitor and questioner
+  assigned_to:
+  - fig:1
+  basis: Lancelot identifies himself, asks Joseus's name, and asks why weapons are
+    in the hermit's house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hermit kinsman
+  assigned_to:
+  - fig:2
+  basis: Joseus is called the hermit and says he and Lancelot are closely akin.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: defender of the hermitage
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The hermit says that he and his squire arm themselves and defend the hermitage
+    when robbers come.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: hardy squire
+  assigned_to:
+  - fig:3
+  basis: The squire is described as well-grown and hardy and speaks in praise of the
+    hermit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: overnight guest
+  assigned_to:
+  - fig:1
+  basis: The passage says Lancelot is lodged for the night.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: robber threat
+  assigned_to:
+  - fig:4
+  basis: The hermit describes robbers coming to the lonely hermitage, requiring defense.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: defensive arms
+  literal_form: shield, spear, javelins, and habergeon in the hermit's house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lonely hermitage
+  literal_form: a hermitage in a lonely forest, far from any folk
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Name exchange and kinship recognition
+  summary: Joseus and Lancelot exchange names, and the hermit states that he and Lancelot
+    are close kin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arms discovered in the hermit's house
+  summary: Lancelot notices weapons and armor in the hermit's house and asks why a
+    hermit has them; Joseus explains that the remote hermitage must be defended from
+    robbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation of non-knightly defense
+  summary: Lancelot questions whether hermits should assault, wound, or slay; Joseus
+    denies that he wounds or slays and describes seizing robbers while his squire
+    kills or disables them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Praise and lodging
+  summary: Lancelot and the squire praise the hermit's strength and courage, and Lancelot
+    is lodged for the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: recognition of kinship through name exchange
+  taxonomy_refs: []
+  basis: The figures exchange names, after which Joseus states that he and Lancelot
+    are close kin and Lancelot expresses gladness.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the kinship but does not explain the genealogy or its
+    narrative consequences.
+- id: motif:2
+  label: armed hermit in a remote refuge
+  taxonomy_refs: []
+  basis: A hermit in a lonely forest hermitage possesses arms and explains their use
+    for defense against robbers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames the arms as practical defense rather than giving an
+    explicit symbolic or ritual meaning.
+- id: motif:3
+  label: holy recluse contrasted with martial prowess
+  taxonomy_refs: []
+  basis: Lancelot remarks that hermits do not assault, wound, or slay, yet Joseus
+    and the squire are described as capable defenders, and Joseus is praised as strong,
+    hardy, and potentially valiant.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The label abstracts a contrast from dialogue; the passage does not explicitly
+    present a formal moral lesson.
+- id: motif:4
+  label: hospitality at the hermitage
+  taxonomy_refs: []
+  basis: After the conversation, Lancelot is lodged for the night as well as possible.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The lodging is briefly stated and not elaborated as a ritualized hospitality
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6494-6504
+  quote_or_summary: Lancelot asks the speaker's name; the speaker names himself Joseus;
+    Lancelot names himself Lancelot of the Lake; the hermit says they are close kin,
+    and Lancelot is glad.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6506-6512
+  quote_or_summary: Lancelot sees shield, spear, javelins, and habergeon in the hermit's
+    house. The hermit explains that the forest and hermitage are lonely and remote,
+    with only himself and his squire there, so they defend themselves from robbers.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6514-6524
+  quote_or_summary: Lancelot questions how hermits can defend themselves without assaulting,
+    wounding, or slaying. The hermit says God forbid that he wound or slay, but says
+    he and the squire arm themselves; if he catches a robber, the robber cannot escape,
+    and the hardy squire kills or disables him.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6526-6532
+  quote_or_summary: Lancelot says the hermit would be valiant if he were not a hermit.
+    The squire says no one in Logres is so strong or hardy as the hermit. Lancelot
+    is lodged for the night.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious and based
+    only on the passage. No comparison claims are made because the passage itself
+    does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned; none of the supplied motif-family or symbol IDs are directly supported by this passage.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l6494-l6532
+  passage_sha256=0eacfafc1e64c9eee0cd5b018431d383c7d3419545caf9487ef2f4f9824f845d
+

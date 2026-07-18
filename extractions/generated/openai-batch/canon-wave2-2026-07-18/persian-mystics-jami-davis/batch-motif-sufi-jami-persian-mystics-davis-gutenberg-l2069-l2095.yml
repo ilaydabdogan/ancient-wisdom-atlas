@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2069-l2095
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: A WEAVER AND A LEARNED PROFESSOR / A WORD TO THE WISE / THE EXPLICIT BEGGAR
+    / PHANTOM RELATIONS; lines 2069-2095
+  start: '2069'
+  end: '2095'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains three short didactic or anecdotal units: a maxim
+    about facial hair growing if not clipped; an exchange in which a mendicant asks
+    for bread and rejects a landlord''s irrelevant excuse; and an exchange in which
+    a stranger asserts hypothetical kinship, which the respondent turns into an absurd
+    inheritance implication.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first unit is headed "A WORD TO THE WISE."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first unit says that if a gentleman does not use a hair clipper daily
+    on his hirsute face, the hair will soon make his face seem to be his head.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A mendicant begs at the door of a house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The landlord says that the people of the house have gone out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The beggar answers that he wants a morsel of bread, not the people of the
+    house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A stranger visits a man and complains that the man does not know him or consider
+    his claims.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man replies that he knows nothing of what the stranger says.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stranger says that his father desired to wed the man's mother and that,
+    if the marriage had happened, they would be brothers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The man answers that this relationship would make each of them the other's
+    heir.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: gentleman
+  description: A conditional figure in the grooming maxim who may fail to clip facial
+    hair daily.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mendicant or beggar
+  description: A mendicant who begs at a house door and asks for bread.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: landlord
+  description: The householder who answers the beggar by saying the people of the
+    house have gone out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: people of the house
+  description: Absent household members mentioned by the landlord and beggar.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: man visited by the stranger
+  description: The man who is visited, denies knowing the stranger's claim, and replies
+    about heirship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: stranger
+  description: A visitor who complains and claims a hypothetical brotherly relationship.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: stranger's father
+  description: The father whom the stranger says desired to wed the man's mother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: man's mother
+  description: The mother whom the stranger says his father desired to wed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: conditional subject of didactic maxim
+  assigned_to:
+  - fig:1
+  basis: The maxim describes what will happen if this gentleman fails to clip his
+    facial hair daily.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beggar requesting bread
+  assigned_to:
+  - fig:2
+  basis: The mendicant begs and states that he wants a morsel of bread.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: householder giving an excuse
+  assigned_to:
+  - fig:3
+  basis: The landlord apologizes by saying that the people have gone out.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: absent household members
+  assigned_to:
+  - fig:4
+  basis: The people of the house are said to have gone out and are contrasted with
+    the bread the beggar wants.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: visited respondent
+  assigned_to:
+  - fig:5
+  basis: The man responds first with amazement and denial, then with a reply about
+    mutual inheritance.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: kinship claimant
+  assigned_to:
+  - fig:6
+  basis: The stranger asserts a claim based on a hypothetical marriage between his
+    father and the man's mother.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: hypothetical suitor in kinship claim
+  assigned_to:
+  - fig:7
+  basis: The stranger says his father desired to wed the man's mother.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: hypothetical bride in kinship claim
+  assigned_to:
+  - fig:8
+  basis: The man's mother is named as the woman whom the stranger's father desired
+    to wed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hair clipper
+  literal_form: hair clipper
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hirsute countenance
+  literal_form: hair-covered face
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: morsel of bread
+  literal_form: bread
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: house door
+  literal_form: door of a house
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Grooming maxim
+  summary: A didactic saying presents a gentleman whose unclipped facial hair may
+    soon make his face appear to be his head.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beggar at the house door
+  summary: A mendicant begs at a house; the landlord says the people are away, and
+    the beggar replies that he wants bread, not the people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Phantom kinship claim
+  summary: A stranger claims hypothetical brotherhood through an unrealized parental
+    marriage, and the man answers by extending the claim to mutual inheritance.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Didactic wisdom maxim
+  taxonomy_refs:
+  - wisdom
+  basis: The unit is explicitly headed "A WORD TO THE WISE" and gives a conditional
+    lesson through the image of neglected grooming.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief maxim rather than a developed mythic narrative.
+- id: motif:2
+  label: Witty literal answer to an irrelevant excuse
+  taxonomy_refs:
+  - wisdom
+  basis: The beggar counters the landlord's statement about absent people by plainly
+    stating that he asked for bread, not people.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The classification rests on the anecdote's concise verbal wit; no broader
+    mythic framework is supplied.
+- id: motif:3
+  label: Imaginary kinship claim answered by counter-absurdity
+  taxonomy_refs:
+  - wisdom
+  basis: The stranger constructs a brotherhood from a hypothetical marriage, and the
+    man answers by pushing the supposed relationship into an absurd mutual-heir consequence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage labels the relation as phantom, but it does not connect the
+    anecdote to a named comparative tale type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2069-2074
+  quote_or_summary: Under the heading "A WORD TO THE WISE," the text says that a gentleman
+    who fails to use a hair clipper daily on his hirsute face will soon have hair
+    that makes his face seem to be his head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2076-2082
+  quote_or_summary: Under "THE EXPLICIT BEGGAR," a mendicant begs at a house; when
+    the landlord says the people have gone out, the beggar replies that he wants a
+    morsel of bread, not the people of the house.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2084-2095
+  quote_or_summary: Under "PHANTOM RELATIONS," a stranger claims he and a man would
+    be brothers if his father had married the man's mother; the man replies that such
+    a relationship would make each the other's heir.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif candidates are limited to the available wisdom family and remain broad.
+    No passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction is limited to the supplied passage_text and metadata; no taxonomy symbol refs apply from the provided symbol list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2069-l2095
+  passage_sha256=ac4418fd36991e2a3ddba8c18653e319fb6241e8356e25109d1c923464760579
+

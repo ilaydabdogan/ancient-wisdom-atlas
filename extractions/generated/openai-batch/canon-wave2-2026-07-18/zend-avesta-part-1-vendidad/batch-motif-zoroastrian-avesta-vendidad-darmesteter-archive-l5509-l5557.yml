@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l5509-l5557
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: OLD  PERSIAN. / GREEK. / MODERN  NAME. / FARGARD    I.; lines 5509-5557
+  start: '5509'
+  end: '5557'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage comments on the mythical geography of Fargard I: Vanguhi and
+    Rangha are described as heavenly rivers surrounding the earth, Rangha as a horizon
+    or Okeanos-like boundary sometimes dividing gods from fiends, and Airyana Vaejo
+    by the Vanguhi Daitya as a mythical paradise-like region associated with Yima
+    and the righteous. It also notes later attempts to localize these rivers and regions
+    in historical geography.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vanguhi and Rangha are described as originally celestial rivers that came
+    down from heaven to surround the earth, one in the east and one in the west.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The creation sequence is said to begin with a land by the Vanguhi and end
+    with a land by the Rangha.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The passage says that Rangha is treated in Avesta passages as mythical: a
+    far-off horizon river, surrounding Okeanos, and sometimes a river dividing gods
+    from fiends.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Airyana Vaejo by the Vanguhi Daitya is described as having remained a mythical
+    region.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Airyana Vaejo is described as originally the abode of Yima and of the righteous,
+    and as a particular form of paradise.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage notes later localization of Airyana Vaejo north of Adarbaijan
+    and a resulting division of Vanguhi Daitya into an Araxes identification and an
+    eastward world-surrounding Veh or Vanguhi identification.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yima
+  description: Named as one of those whose abode was originally Airyana Vaejo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the righteous
+  description: A collective group whose abode was originally Airyana Vaejo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: gods
+  description: One side of the groups divided by the Rangha/Rasa-like boundary river
+    in the passage's description.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: fiends
+  description: One side of the groups divided by the Rangha/Rasa-like boundary river
+    in the passage's description.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: inhabitants of a mythical paradise region
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Airyana Vaejo is described as the original abode of Yima and of the righteous,
+    and as a form of paradise.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: opposed groups separated by a mythical boundary river
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Rangha is described as sometimes resembling the Vedic Rasa as a river
+    that divides gods from fiends.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: heavenly encircling rivers
+  literal_form: Vanguhi and Rangha as two celestial rivers descending from heaven
+    and surrounding the earth east and west
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Rangha as horizon and boundary river
+  literal_form: Rangha as far-off horizon river, surrounding Okeanos, and dividing
+    river between gods and fiends
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Airyana Vaejo as mythical paradise region
+  literal_form: Airyana Vaejo by the Vanguhi Daitya, described as a mythical region
+    and abode of Yima and the righteous
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: localized divided river
+  literal_form: Vanguhi Daitya divided into an Araxes identification and a Veh/Vanguhi
+    world-surrounding river identification
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Celestial rivers encircle the earth
+  summary: Vanguhi and Rangha are presented as heavenly rivers that came down to surround
+    the earth, structuring the first and last lands in the creation list.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rangha as cosmic boundary
+  summary: Rangha is described as a mythical horizon or encircling river, sometimes
+    functioning as a boundary between gods and fiends.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Airyana Vaejo as paradise abode
+  summary: The first land, Airyana Vaejo by the Vanguhi Daitya, is described as a
+    mythical region and as the abode of Yima and the righteous.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mythic geography localized in historical geography
+  summary: The passage describes later efforts to locate Airyana Vaejo north of Adarbaijan
+    and to identify the Vanguhi Daitya with historical or world-surrounding rivers.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: heaven-descended world-encircling rivers
+  taxonomy_refs: []
+  basis: The two rivers Vanguhi and Rangha are said to come down from heaven and surround
+    the earth in east and west positions.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No exact available motif-family taxonomy item directly corresponds to
+    world-encircling rivers; symbol taxonomy supports water only.
+- id: motif:2
+  label: cosmic boundary river separating gods and fiends
+  taxonomy_refs:
+  - duality
+  basis: Rangha is described as sometimes resembling the Vedic Rasa as the river that
+    divides gods from fiends.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says this resemblance appears 'now and then,' so the boundary
+    function may not be universal in all references to Rangha.
+- id: motif:3
+  label: mythical paradise abode of Yima and the righteous
+  taxonomy_refs: []
+  basis: Airyana Vaejo is described as a mythical region, originally the abode of
+    Yima and of the righteous, and a particular form of paradise.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not narrate an afterlife journey or judgment scene; it
+    only identifies a paradise-like region.
+- id: motif:4
+  label: mythic geography mapped onto historical rivers
+  taxonomy_refs: []
+  basis: The passage describes later geographical identifications of Airyana Vaejo
+    and Vanguhi Daitya with areas north of Adarbaijan, the Araxes, and the Veh/Oxus-Indus
+    complex.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a commentary pattern of localization rather than a narrative motif
+    within the myth itself.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly compares Rangha with the Vedic Rasa by homonymy
+    and by a shared boundary-river role dividing gods from fiends.
+  claim_level: linguistic_similarity
+  target: Vedic Rasa
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the commentary; the passage does not quote
+    or analyze a Vedic source directly.
+- id: claim:2
+  claim: The commentary treats Rangha as analogous in function to Okeanos as a far-horizon,
+    world-surrounding cosmic water.
+  claim_level: same_function
+  target: Okeanos
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The analogy is supplied by the commentary, and no separate Greek text
+    is included in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5509-5517
+  quote_or_summary: Vanguhi and Rangha are described as celestial rivers that came
+    down from heaven to surround the earth, one east and one west; the creation begins
+    by Vanguhi and ends by Rangha.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5518-5527
+  quote_or_summary: 'Rangha is described in Avesta passages as mythical: a far-off
+    horizon river, surrounding Okeanos, and sometimes like the Vedic Rasa, the river
+    dividing gods from fiends.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5528-5533
+  quote_or_summary: Airyana Vaejo by the Vanguhi Daitya is described as a mythical
+    region, originally the abode of Yima and of the righteous, a particular form of
+    paradise.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5533-5557
+  quote_or_summary: The passage says Airyana Vaejo was later sought north of Adarbaijan,
+    leading to a division of Vanguhi Daitya into a river identified with the Araxes
+    and an eastward world-surrounding Veh/Vanguhi associated with the Oxus-Indus.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary on mythic geography rather than a primary narrative
+    episode. Literal geography and explicit commentary comparisons are clear, but
+    motif-family taxonomy mapping is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied entries and applied only where directly supported.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l5509-l5557
+  passage_sha256=bf8762f32f6c0df3e9dab9cf1fd2b0893b689efa26bcb34793acc7d362ca78aa
+

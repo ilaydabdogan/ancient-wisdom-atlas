@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l11576-l11584
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: BRANCH XX. / TITLE I. / VIII. / XIII.; lines 11576-11584
+  start: '11576'
+  end: '11584'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Lancelot looks from the hall windows over a populous city. Clerks and priests
+    process while praising God because they can return to their church, and they bless
+    the knight through whom they have been freed. Lancelot is honored in the city,
+    waited upon by two damsels, and shown worship by clergy and others present or
+    arriving.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lancelot leans at the windows of the hall and looks out upon the city.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The city is described as populated by very fair folk, with crowds in the broad
+    streets and great palace.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Clerks and priests come in a long procession, praising and blessing God.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The clerks and priests give thanks because they may return to their church.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The clerks and priests give benison to the knight through whom they are free
+    to return.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Lancelot is much honored throughout the city.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Two damsels attend Lancelot with great care.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Lancelot receives great worship from those within the city and from those
+    who come there, including clerks and priests.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Lancelot
+  description: The knight who watches from the hall windows and is honored as the
+    one through whom the clergy are free to return to their church.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: clerks and priests
+  description: Religious figures who process, praise God, bless the knight, and are
+    able to return to their church.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: two damsels
+  description: Two women who take pains to wait upon Lancelot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: folk of the city
+  description: The people of the city, described as fair folk and present in crowds;
+    they honor Lancelot.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: observer at the hall windows
+  assigned_to:
+  - fig:1
+  basis: Lancelot leans at the hall windows and sees the city.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: liberating knight
+  assigned_to:
+  - fig:1
+  basis: The clergy bless him as the knight through whom they are free to return to
+    their church.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: honored guest
+  assigned_to:
+  - fig:1
+  basis: He is honored throughout the city and waited upon by the two damsels.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: processional clergy
+  assigned_to:
+  - fig:2
+  basis: Clerks and priests come in long procession praising God.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: beneficiaries of restoration to church
+  assigned_to:
+  - fig:2
+  basis: They praise God because they may now return to their church.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: attendants
+  assigned_to:
+  - fig:3
+  basis: The two damsels are at great pains to wait upon Lancelot.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: honoring community
+  assigned_to:
+  - fig:4
+  basis: The passage describes the city’s people and says Lancelot had great worship
+    from those there and those coming there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: city
+  literal_form: A peopled city with broad streets, a great palace, and crowds.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: church
+  literal_form: The church to which the clerks and priests are now free to return.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: procession
+  literal_form: A long procession of clerks and priests praising God.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: benison
+  literal_form: A blessing given to the knight by the clerks and priests.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Lancelot sees the populated city
+  summary: Lancelot leans at the hall windows and observes the populous city, its
+    broad streets, great palace, and crowds.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Clergy process and give thanks
+  summary: Clerks and priests come in a long procession, praise God for their restored
+    ability to return to church, and bless Lancelot as the knight through whom they
+    are free.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lancelot is honored and attended
+  summary: Lancelot receives honor throughout the city; two damsels wait upon him,
+    and clergy and others give him great worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Return to a sacred place after liberation
+  taxonomy_refs:
+  - return
+  basis: The clerks and priests praise God because they may now return to their church,
+    and they bless the knight through whom they are free to do so.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the return to church but does not give details of the
+    prior captivity or obstruction.
+- id: motif:2
+  label: Liberating knight honored by clergy and city
+  taxonomy_refs: []
+  basis: Lancelot is identified as the knight through whom the clergy are free, is
+    blessed by them, honored throughout the city, and waited upon by two damsels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader heroic cycle is summarized in this passage; the extraction
+    is limited to the honor and blessing described here.
+- id: motif:3
+  label: Religious procession of thanksgiving
+  taxonomy_refs: []
+  basis: Clerks and priests come in a long procession praising God and blessing Him
+    after their restoration to the church.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not specify liturgical details beyond procession, praise,
+    blessing, and benison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11576-11578
+  quote_or_summary: Lancelot leans at the windows of the hall and sees a populous
+    city, broad streets, a great palace, and crowds.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 11578-11582
+  quote_or_summary: Clerks and priests come in long procession, praising God because
+    they may return to their church, and giving benison to the knight through whom
+    they are free to go there.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 11582-11584
+  quote_or_summary: Lancelot is honored throughout the city; two damsels wait upon
+    him, and he receives great worship from those within the city and those who come
+    there, including clerks and priests.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are conservative and
+    based only on the passage. No comparison claims are made because the passage itself
+    does not explicitly compare traditions or motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; taxonomy references were limited to available refs and used only where directly supported.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l11576-l11584
+  passage_sha256=2dd610387efee6f415004d3b5b255e0707f3e61372db9b35552117202f9f5218
+

@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l17037-l17045
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXIV. / XXVI. / XXVII. / THE AUTHOR'S CONCLUSION; lines 17037-17045
+  start: '17037'
+  end: '17045'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: let Messire Johan de Neele well understand that he ought to hold this story
+    dear
+  summary: The author states that the Lord of Neele caused this book to be written,
+    notes that the subject had previously been treated in Romance only once in an
+    ancient and difficult-to-read book, and warns Messire Johan de Neele to value
+    the story and not tell it to ill-understanding people.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as the author's conclusion.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord of Neele is said to have caused this book to be written.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the material had previously been treated in Romance only
+    one other time.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The earlier book is described as so ancient that its letters can be made out
+    only with great difficulty.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Messire Johan de Neele is told that he ought to hold the story dear.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Messire Johan de Neele is told not to tell the story to ill-understanding
+    people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that a good thing squandered upon bad people is not remembered
+    by them for good.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lord of Neele / Messire Johan de Neele
+  description: A named lord associated with having the book written and addressed
+    as someone who should value and guard the story.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lord of Cambrein
+  description: A named lord mentioned in connection with the book being written.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: ill-understanding folk / bad folk
+  description: People to whom Messire Johan de Neele is told not to tell the story;
+    they are described as not remembering a good thing for good.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: book sponsor or commissioner
+  assigned_to:
+  - fig:1
+  basis: The passage says the Lord of Neele made this book be written.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: admonished keeper of the story
+  assigned_to:
+  - fig:1
+  basis: Messire Johan de Neele is instructed to hold the story dear and not tell
+    it to ill-understanding people.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: named party connected with the book's writing
+  assigned_to:
+  - fig:2
+  basis: The Lord of Cambrein is named in the statement about the book being written.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unworthy audience
+  assigned_to:
+  - fig:3
+  basis: The passage says the story should not be told to ill-understanding folk and
+    generalizes that good things squandered on bad folk are not remembered for good.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: ancient book
+  literal_form: an earlier book so ancient that its letters are difficult to make
+    out
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dear story
+  literal_form: the story that Johan de Neele is told to hold dear and not disclose
+    to unsuitable hearers
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Authorial conclusion on the book's origin and guarded transmission
+  summary: The author closes by naming the Lord of Neele in connection with the book's
+    writing, emphasizing the rarity and antiquity of a prior Romance treatment, and
+    instructing Johan de Neele to value the story and not share it with ill-understanding
+    people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: guarded transmission of a valued story
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the story as rare and precious, associates it with an
+    ancient prior book, and warns that it should not be told to ill-understanding
+    people.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an authorial colophon or conclusion rather than a narrative mythic
+    episode; the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: restriction of knowledge from unworthy hearers
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Johan de Neele is told not to tell the story to ill-understanding folk because
+    good things squandered on bad folk are not remembered for good.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage advises discretion rather than describing a prohibition backed
+    by supernatural danger or explicit forbidden knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '17037'
+  quote_or_summary: The passage heading identifies this section as the author's conclusion.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: 17039-17040
+  quote_or_summary: '"the Lord of Neele made the Lord of Cambrein this book be written"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 17040-17041
+  quote_or_summary: The book's subject is said to have been treated in Romance only
+    one previous time.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 17042-17043
+  quote_or_summary: The earlier book is described as ancient and hard to read because
+    its letters can be made out only with great pains.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: 17043-17044
+  quote_or_summary: '"he ought to hold this story dear"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: '17044'
+  quote_or_summary: Messire Johan de Neele is told not to tell the story to ill-understanding
+    folk.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 17044-17045
+  quote_or_summary: The passage says that a good thing squandered upon bad folk is
+    never remembered by them for good.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a concluding authorial note with explicit statements about
+    textual transmission and guarded disclosure, but it contains little narrative
+    action and only broad motif relevance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond broad candidate motif families.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l17037-l17045
+  passage_sha256=5921462998e51d03078c91537bb948c8d466ca76599a8ce275ff25df0ec17705
+

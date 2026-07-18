@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l1837-l1874
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: XXY111  INTRODUCTION. / INTRODUCTION.  XXIX / XXX  INTKODTJCTION. / INTRODUCTION.  XXXI;
+    lines 1837-1874
+  start: '1837'
+  end: '1874'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes early white settlers and neighboring groups as taking
+    land, water sources, and game from the Bushmen, treating them as without land
+    rights, waging war after retaliation, and expanding inland until no land in South
+    Africa remained to the ancient race.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says early white settlers were not ethnologists and primarily
+    sought livelihoods and homes in the new country.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says white settlers came to regard the Bushmen as beings without
+    a right to the soil over which they roamed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says settlers took possession of fountains and shot game on which
+    the Bushmen depended for food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Bushmen retaliated by driving off oxen and sheep, after which
+    open war was made against them as so-called marauders.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Europeans, Hottentot groups, and Bantu groups moved inland
+    or spread farther, until no land in South Africa was left to the ancient race.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the Bushmen passed out of sight while fighting stubbornly
+    and refusing compromise or quarter.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bushmen / ancient race
+  description: The group described as roaming over the land, depending on game for
+    food, retaliating against loss of resources, and ultimately losing land in South
+    Africa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: early white settlers / Europeans
+  description: The passage describes them as settlers seeking homes and livelihoods,
+    taking fountains, shooting game, expanding inland, and making war against Bushmen
+    after retaliation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hottentots — Koranas and Griquas
+  description: The passage says these groups abandoned the coast and made their way
+    into the interior.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Bantu
+  description: The passage says the Bantu spread themselves farther and farther.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dispossessed group
+  assigned_to:
+  - fig:1
+  basis: The passage states that no land in South Africa was left to the ancient race
+    and that they passed out of sight.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: settler expansion group
+  assigned_to:
+  - fig:2
+  basis: The passage states that settlers took fountains and game, made war, and extended
+    possessions inland.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: inland-moving neighboring groups
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage states that Koranas and Griquas moved into the interior and that
+    Bantu spread farther and farther.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fountains / water sources
+  literal_form: fountains
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: game as food resource
+  literal_form: game animals shot for food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: domestic cattle
+  literal_form: oxen and sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: resource seizure and retaliation
+  summary: Settlers take fountains and shoot game used by the Bushmen; the Bushmen
+    retaliate by driving off oxen and sheep; settlers then make open war on them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: inland expansion and dispossession
+  summary: European, Hottentot, and Bantu expansion into the interior is described
+    as leaving no land in South Africa to the ancient race.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1841-1847
+  quote_or_summary: Early white settlers are described as lacking ethnological interest
+    and seeking bread and homes in the new country.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1847-1853
+  quote_or_summary: The passage says settlers regarded the Bushmen as without a right
+    to the soil and as robbers whom they believed it their duty to destroy.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1853-1856
+  quote_or_summary: They took possession of the fountains and shot the game that the
+    Bushmen depended upon for food.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt/paraphrase from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 1856-1860
+  quote_or_summary: After the Bushmen drove off oxen and sheep in retaliation, open
+    war was made upon the so-called marauders.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1864-1871
+  quote_or_summary: Europeans extended inland, Koranas and Griquas moved into the
+    interior, and Bantu spread farther, until no land in South Africa was left to
+    the ancient race.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1871-1874
+  quote_or_summary: The passage says every man's hand was against the Bushmen, and
+    they passed out of sight while fighting stubbornly and refusing compromise or
+    quarter.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is historical introductory prose about dispossession and conflict,
+    not a narrative myth passage. No candidate mythological motifs or comparative
+    claims are supported by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Colonial and pejorative wording in the source has been summarized neutrally where possible while preserving the passage's literal relationships and actions.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l1837-l1874
+  passage_sha256=826553d3813c38dc1f64d7ccdb79470137b5bff58c209f19d14a49ee274a2e3b
+

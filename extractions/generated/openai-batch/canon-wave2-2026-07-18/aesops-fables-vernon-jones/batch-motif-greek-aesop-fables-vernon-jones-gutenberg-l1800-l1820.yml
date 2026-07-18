@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1800-l1820
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CRAB AND HIS MOTHER / THE ASS AND HIS SHADOW / THE FARMER AND HIS SONS
+    / THE DOG AND THE COOK; lines 1800-1820
+  start: '1800'
+  end: '1820'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Be shy of favours bestowed at the expense of others.
+  summary: A rich man prepares a banquet. His dog invites another dog to share in
+    the feast. The invited dog enters the kitchen expecting to eat well, but the cook
+    throws him out of the window. Injured and embarrassed, the dog later claims to
+    other dogs that he had drunk so much wine he cannot remember leaving the house.
+    The fable ends with a caution about favours bestowed at another’s expense.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A rich man invites friends and acquaintances to a banquet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rich man’s dog invites another dog, described as his friend, to come and
+    dine at the feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The invited dog sees preparations in the kitchen and expects to eat enough
+    to last two or three days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The invited dog wags his tail to show delight at being asked.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cook sees a strange dog in the kitchen, becomes annoyed, catches him by
+    the hind legs, and throws him out of the window.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the fall, the dog limps away while howling.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Other dogs ask the expelled dog what sort of dinner he got.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The expelled dog replies that he had a splendid time and drank so much wine
+    that he cannot remember how he got out of the house.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The closing maxim advises caution toward favours bestowed at the expense of
+    others.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: rich man
+  description: The owner or master who invites friends and acquaintances to a banquet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the rich man’s dog
+  description: The master’s dog who invites another dog to the feast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: invited dog
+  description: A dog, friend of the master’s dog, who comes to the kitchen expecting
+    to eat at the feast and is thrown out by the cook.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: cook
+  description: The cook who finds the strange dog in the kitchen and throws him out
+    of the window.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: other dogs
+  description: Dogs who meet the expelled dog afterward and ask him about his dinner.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: banquet host and master
+  assigned_to:
+  - fig:1
+  basis: He gives the feast and is called the master of the dog who issues the invitation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: unauthorized inviter
+  assigned_to:
+  - fig:2
+  basis: He invites another dog to his master’s feast, though the feast belongs to
+    the master.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:3
+  label: invited outsider guest
+  assigned_to:
+  - fig:3
+  basis: He comes to dine after being invited by the master’s dog and is later treated
+    as a strange dog in the kitchen.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: kitchen enforcer
+  assigned_to:
+  - fig:4
+  basis: He reacts to the strange dog in the kitchen and removes him by force.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: embarrassed sufferer who gives a false-sounding account
+  assigned_to:
+  - fig:3
+  basis: After being thrown out and injured, he tells other dogs that wine explains
+    why he cannot remember leaving the house.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:6
+  label: questioners
+  assigned_to:
+  - fig:5
+  basis: They ask the expelled dog what sort of dinner he got.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: banquet or feast
+  literal_form: banquet, feast, fine spread
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: kitchen
+  literal_form: kitchen where preparations are being made
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: window
+  literal_form: window through which the dog is thrown
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wine
+  literal_form: wine mentioned in the expelled dog’s explanation
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Banquet and invitation
+  summary: A rich man prepares a banquet, and his dog invites a dog friend to dine
+    at the feast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Expectation in the kitchen
+  summary: The invited dog enters the kitchen, sees the preparations, expects to eat
+    abundantly, and shows delight by wagging his tail.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Expulsion from the kitchen
+  summary: The cook sees the strange dog in the kitchen and throws him out of the
+    window; the dog falls, limps away, and howls.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Question and face-saving reply
+  summary: Other dogs ask what dinner he got, and the expelled dog claims he had a
+    splendid time with wine and cannot remember how he left the house.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Closing maxim
+  summary: The passage ends by advising caution toward favours bestowed at another’s
+    expense.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Cautionary wisdom about accepting favours at another’s expense
+  taxonomy_refs:
+  - wisdom
+  basis: The closing maxim explicitly states the caution, and the plot shows a dog
+    suffering after accepting hospitality offered by someone who did not control the
+    feast.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a fable with an explicit
+    moral rather than a mythic wisdom episode.
+- id: motif:2
+  label: Unauthorized guest expelled from a feast
+  taxonomy_refs: []
+  basis: The invited dog enters the kitchen of a feast to which he was invited by
+    the master’s dog, but the cook treats him as a strange dog and throws him out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this fable motif.
+- id: motif:3
+  label: Face-saving boast after humiliation
+  taxonomy_refs: []
+  basis: After being thrown out and injured, the dog tells others he enjoyed himself
+    and drank so much that he cannot remember how he left.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly say the dog is lying; the inference rests
+    on the sequence of expulsion followed by his boastful reply.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1800-1820
+  quote_or_summary: A rich man invites friends and acquaintances to a banquet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1800-1820
+  quote_or_summary: "“My master is giving a feast: there'll be a fine spread, so come
+    and dine with me to-night.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1800-1820
+  quote_or_summary: The invited dog sees kitchen preparations and says he is lucky
+    and will eat enough to last two or three days.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1800-1820
+  quote_or_summary: The invited dog wags his tail briskly to show delight at the invitation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1800-1820
+  quote_or_summary: The cook sees a strange dog in the kitchen, is annoyed, catches
+    him by the hind legs, and throws him out of the window.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1800-1820
+  quote_or_summary: The dog has a nasty fall and limps away as quickly as he can,
+    howling.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 1800-1820
+  quote_or_summary: "“Well, what sort of a dinner did you get?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 1800-1820
+  quote_or_summary: "“I had a splendid time: the wine was so good, and I drank so
+    much of it, that I really don't remember how I got out of the house!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 1800-1820
+  quote_or_summary: "“Be shy of favours bestowed at the expense of others.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and mostly lack direct matches in the supplied taxonomy except the broad wisdom
+    family. No comparison claims are made because the passage provides no explicit
+    comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line-range label mentions multiple fables, but the supplied passage text is limited to “THE DOG AND THE COOK”; extraction is therefore limited to that fable.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1800-l1820
+  passage_sha256=ebcca6ee1312e71fdc2542e2bea202358c11031edb2c1ac16703a41eaf7eb22a
+

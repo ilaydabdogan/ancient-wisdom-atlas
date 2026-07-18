@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4516-l4537
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: IN THE FIRST EDITION. / XXXIII. / XXXVII. / IN THE SECOND EDITION.; lines
+    4516-4537
+  start: '4516'
+  end: '4537'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces quatrain XIV as peculiar to the second edition.
+    The quatrain calls it folly to spin away the thread of present life like a spider
+    for an uncertain gain, since people do not know whether the breath now breathed
+    in will be breathed out. An editorial note says the quatrain is inspired by O.136,
+    which asks why the speaker should grieve over possessions or the course of life,
+    tells someone to fill the wine-cup, and repeats the uncertainty of the next breath.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the heading for the second edition and says
+    the following quatrains are peculiar to that edition.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Quatrain XIV asks whether it is folly to spin the thread of present life away
+    in order to win an unspecified object.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Quatrain XIV uses a spider-like image for spinning and calls present life
+    a thread.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Quatrain XIV says that 'ourselves' do not know whether the current inhaled
+    breath will be breathed out.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An editorial note states that quatrain XIV is inspired by O.136.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cited O.136 asks how long the speaker should grieve over what is or is
+    not possessed and whether life will pass light-heartedly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cited O.136 tells someone to fill the wine-cup because the speaker does
+    not know whether the breath being drawn in will be breathed out.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker in quatrain XIV
+  description: A poetic voice using rhetorical questioning about folly, present life,
+    and uncertain breath.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: collective 'ourselves' in quatrain XIV
+  description: The people referred to as not knowing whether they will breathe out
+    the breath they now breathe in.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: speaker in cited O.136
+  description: A first-person speaker who asks about grieving and says he does not
+    know if the drawn-in breath will be exhaled.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rhetorical questioning speaker
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both poetic voices frame the reflection through questions or first-person
+    uncertainty.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: uncertain mortal subject
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The figures are described as not knowing whether a breath now drawn in will
+    be breathed out.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: spider-like spinning
+  literal_form: Spider-like spinning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: thread of present life
+  literal_form: The Thread of present Life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: breath drawn in and breathed out
+  literal_form: Breath now breathed in / breath being drawn in and breathed out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: wine-cup
+  literal_form: wine-cup
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quatrain XIV reflection on present life
+  summary: The speaker questions the folly of spending present life like a spider
+    spinning a thread, because people do not know whether the present breath will
+    be exhaled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Cited O.136 reflection on grief and the wine-cup
+  summary: The cited quatrain asks why the speaker should grieve over possessions
+    or the manner of passing life, then calls for the wine-cup because the next breath
+    is uncertain.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: uncertain next breath as counsel
+  taxonomy_refs:
+  - wisdom
+  basis: Both quatrains use uncertainty about whether the current breath will be breathed
+    out as the basis for a reflective counsel against anxious concern.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad; the available taxonomy has no
+    specific breath or mortality motif.
+- id: motif:2
+  label: present life as a thread spun away
+  taxonomy_refs: []
+  basis: Quatrain XIV explicitly presents present life as a thread being spun away
+    in a spider-like manner.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This image appears in the extracted passage only in quatrain XIV.
+- id: motif:3
+  label: wine-cup response to grief and uncertainty
+  taxonomy_refs:
+  - wisdom
+  basis: The cited O.136 tells someone to fill the wine-cup after asking why the speaker
+    should grieve and after stating uncertainty about the next breath.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The extraction treats the wine-cup literally and does not infer a wider
+    Sufi symbolism from this passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies quatrain XIV as inspired by O.136, and
+    the printed texts share the pattern of uncertainty about whether the current breath
+    will be breathed out.
+  claim_level: historical_contact
+  target: O.136 within the cited Omar Khayyam quatrain tradition
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests on the passage's editorial statement and visible parallel
+    wording; it does not establish broader transmission beyond this cited relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4516-4520
+  quote_or_summary: '"IN THE SECOND EDITION." The passage adds that the quatrains
+    peculiar to the second edition follow, then labels the item "XIV."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 4522-4525
+  quote_or_summary: '"Were it not Folly, Spider-like to spin / The Thread of present
+    Life away to win-- / What? ... Breathe out the very Breath we now breathe in!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:3
+  type: quote
+  locator: line 4527
+  quote_or_summary: '"This quatrain is inspired by O. 136."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:4
+  type: quote
+  locator: lines 4529-4532
+  quote_or_summary: 'The cited O.136 asks how long the speaker shall grieve over what
+    he has or has not, then says: "Fill up the wine-cup, for I do not know / That
+    I shall breathe out the breath that I am drawing in."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; excerpt use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is reflective poetry rather than a narrative mythic episode; the comparison
+    claim is supported by the passage's explicit editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol reference applies directly to spider, thread, breath, or wine-cup; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4516-l4537
+  passage_sha256=c161cee28b08ebd0e1db923b9954621992aa98d214b589632804c880b0ff24c9
+

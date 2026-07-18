@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25866-l25970
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  411 / THE  CODE  OF  HAMMURAPI  413 / THE  CODE  OF  HAMMURAPI  415
+    / THE  CODE  OF  HAMMURAPI  417; lines 25866-25970
+  start: '25866'
+  end: '25970'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives clauses from the Code of Hammurapi concerning gardens,
+    fields, gardeners, landowners, produce shares, penalties for neglected cultivation,
+    textual loss in several columns, and a later preserved clause about a debtor,
+    merchant-creditor, garden dates, and repayment.
+  language: English with Akkadian transliteration printed alongside portions
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the fifth year of garden care, the garden owner and the gardener are to
+    share equally, and the owner marks off and takes his share.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a gardener does not plant the whole field and leaves a waste place, the
+    waste space is assigned to the gardener's portion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a gardener fails to plant an assigned arable field as a garden, he must
+    measure out compensation to the field owner based on adjacent fields, perform
+    the required work, and restore the field.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the field was unreclaimed land, the gardener must work and restore the
+    field and measure out ten GUR of grain per GAN for each year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When a garden is given to a gardener to manage, the gardener gives two thirds
+    of the garden produce to the owner and keeps one third while he holds the garden.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If a gardener has not properly tilled a garden and has reduced its produce,
+    he must measure out the garden produce according to adjacent gardens.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The edition notes that five columns of text are erased and that the omitted
+    sections concerned gardening, house tenancy, and merchant-tenant relations; the
+    numbering of restored sections is described as doubtful.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the debt clause, a man who borrowed money from a merchant and had nothing
+    to give offers the dates produced in his already cultivated garden for the debt.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The debt clause says the merchant shall not assent to taking all the dates;
+    the garden possessor may take the dates and then pay the merchant.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: owner of the garden or field
+  description: The person identified as owner of the garden or field, who receives
+    shares of produce, compensation, or restored land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: gardener
+  description: The cultivator or manager who cares for, plants, tills, manages, or
+    restores gardens and fields under the law clauses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: man who borrowed money
+  description: A man who borrowed money from a merchant, had nothing to give, and
+    offered garden dates connected with his cultivated garden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: merchant creditor
+  description: The merchant from whom the man borrowed money and who is warned or
+    asked to take garden dates for the debt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: landowner and recipient of produce or restored land
+  assigned_to:
+  - fig:1
+  basis: The owner marks off a share, receives two thirds of produce in one clause,
+    and receives restored field land in another.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: cultivator-manager with legal obligations
+  assigned_to:
+  - fig:2
+  basis: The gardener plants, manages, tills, shares produce, and must compensate
+    or restore when cultivation obligations are unmet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: borrower or debtor
+  assigned_to:
+  - fig:3
+  basis: The man has borrowed money from a merchant and lacks goods to pay at the
+    time of warning.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: merchant creditor
+  assigned_to:
+  - fig:4
+  basis: The merchant is the lender or creditor in the debt clause and is told not
+    to assent to taking all garden dates directly for the money.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: garden
+  literal_form: cultivated garden managed, shared, pledged, or producing dates
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: field and unreclaimed land
+  literal_form: field, arable land, waste space, or unreclaimed land assigned for
+    planting or restoration
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: garden produce and dates
+  literal_form: produce of the garden, including dates in the debt clause
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: grain measure
+  literal_form: ten GUR of grain per GAN for each year
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: money debt
+  literal_form: borrowed money owed to a merchant, with payment due after the garden
+    possessor takes dates
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: equal division after garden care
+  summary: A garden owner and gardener divide the garden equally in the fifth year,
+    with the owner marking off and taking his portion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: failed or incomplete cultivation and restitution
+  summary: Clauses assign waste space to a negligent gardener, require compensation
+    based on adjacent fields or gardens, and require work and restoration of arable
+    or unreclaimed land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: managed garden produce share
+  summary: A garden given to a gardener to manage yields two thirds of its produce
+    to the owner and one third to the gardener.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: debt claim against garden dates rejected
+  summary: A debtor offers garden dates to a merchant creditor for borrowed money,
+    but the merchant is not to accept all the dates; the possessor takes the dates
+    and pays the merchant.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: produce-sharing between landowner and cultivator
+  taxonomy_refs: []
+  basis: Multiple clauses regulate how garden produce or garden portions are divided
+    between owner and gardener.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is a legal-economic pattern in the passage, not a mythological motif.
+- id: motif:2
+  label: neglected land compensated by measurement and restoration
+  taxonomy_refs: []
+  basis: Clauses require the negligent gardener to accept waste space, measure compensation
+    by adjacent fields or gardens, perform work, restore the land, or provide grain
+    by fixed measure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage states legal remedies; no supernatural or mythic interpretation
+    is supported.
+- id: motif:3
+  label: creditor's claim limited by garden-produce rights
+  taxonomy_refs: []
+  basis: The debt clause prevents the merchant from taking all dates directly for
+    the debt and reserves the dates to the garden possessor before payment to the
+    merchant.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The end of the clause is cut off in the supplied passage, so the final
+    payment details are only partially visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Continuation before §61, within lines 25866-25970
+  quote_or_summary: After care of the garden, in the fifth year the garden owner and
+    gardener share equally; the owner marks off and takes his share.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: "§61, within lines 25866-25970"
+  quote_or_summary: If the gardener has not planted the whole field and has left a
+    waste place, the waste space is assigned to his portion.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: "§62, within lines 25866-25970"
+  quote_or_summary: If a field given to the gardener was arable but not planted as
+    a garden, he must measure out to the owner according to adjacent fields, work
+    the field, and restore it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: "§63, within lines 25866-25970"
+  quote_or_summary: If the field was unreclaimed, the gardener must work and restore
+    it, and measure out ten GUR of grain per GAN for each year.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: "§64, within lines 25866-25970"
+  quote_or_summary: If a man gives his garden to a gardener to manage, the gardener
+    gives the owner two thirds of the produce and takes one third while he holds the
+    garden.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: "§65, within lines 25866-25970"
+  quote_or_summary: If the gardener does not properly till the garden and diminishes
+    produce, he measures out produce on the basis of adjacent gardens.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: Editorial note after §65, within lines 25866-25970
+  quote_or_summary: The editor states that five columns are erased; the omitted material
+    concerned gardening, houses let to tenants, and merchant-tenant relations, and
+    the numbering is very doubtful.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: "§A opening, within lines 25866-25970"
+  quote_or_summary: A man borrowed money from a merchant; after the creditor warned
+    him to pay and he had nothing to give, he gave over his already cultivated garden
+    and said the dates produced there should be taken for the money.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: "§A continuation, within lines 25866-25970"
+  quote_or_summary: The merchant is not to assent; the dates produced in the garden
+    may be taken only by the possessor of the garden, who then pays the merchant.
+    The supplied passage breaks off shortly after mention of money and interest in
+    transliteration.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal contents are clear enough for literal extraction. Motif candidates
+    are treated as legal-economic patterns rather than mythological motifs. No comparison
+    claims are made because the supplied passage does not itself support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage supports legal garden, field, produce, and debt patterns rather than the listed mythic-symbolic categories.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25866-l25970
+  passage_sha256=9b7647d94544b7e44a6b74b7b064607a69a94c920fdf2ccf4d152f197a4a1465
+

@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1786-l1797
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOASTING TRAVELLER / THE CRAB AND HIS MOTHER / THE ASS AND HIS SHADOW
+    / THE FARMER AND HIS SONS; lines 1786-1797
+  start: '1786'
+  end: '1797'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"Dig, and you will find it."'
+  summary: A dying farmer tells his sons that a hidden treasure lies in his vineyard.
+    After his death, they dig the vineyard thoroughly but find no buried treasure;
+    instead, the vines produce an exceptional crop.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A farmer is near death and calls his sons to him to impart an important secret.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer tells his sons that a hidden treasure lies in his vineyard and
+    instructs them to dig for it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the farmer dies, the sons use a spade and fork to turn up the vineyard
+    soil repeatedly while searching for the supposed treasure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sons do not find buried treasure.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the thorough digging, the vines produce an unprecedented crop.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A dying farmer who speaks to his sons about a hidden treasure in the
+    vineyard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sons
+  description: The farmer's sons, who dig the vineyard after their father's death
+    while searching for treasure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Dying father and instructor
+  assigned_to:
+  - fig:1
+  basis: He is at death's door, calls his sons, and gives them instructions about
+    the vineyard.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Heirs and diggers
+  assigned_to:
+  - fig:2
+  basis: They act after their father's death and dig the vineyard in search of the
+    supposed treasure.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Hidden treasure
+  literal_form: A treasure said to lie hidden in the vineyard
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Vineyard
+  literal_form: The farmer's vineyard
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Spade and fork
+  literal_form: Tools used by the sons to turn up the soil
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Exceptional crop
+  literal_form: A crop from the vines greater than any previously seen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dying farmer gives the secret
+  summary: The farmer, near death, gathers his sons and tells them that hidden treasure
+    lies in the vineyard, instructing them to dig for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sons dig the vineyard
+  summary: After the farmer dies, the sons dig the vineyard thoroughly with spade
+    and fork while looking for the supposed treasure.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: No treasure but abundant vines
+  summary: The sons find no buried treasure, but the thoroughly dug vines produce
+    an exceptional crop.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Hidden treasure that teaches labor
+  taxonomy_refs:
+  - wisdom
+  basis: The father's statement about hidden treasure leads the sons to cultivate
+    the vineyard, producing abundance rather than discovering literal treasure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state the moral; the motif label infers
+    the didactic function from the sequence of events.
+- id: motif:2
+  label: Dying parent's final instruction
+  taxonomy_refs:
+  - wisdom
+  basis: A father at death's door gives his sons a final directive presented as an
+    important secret.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy has no specific dying-parent-instruction category,
+    so the broader wisdom reference is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1786-1790
+  quote_or_summary: A farmer near death calls his sons and tells them that a hidden
+    treasure lies in his vineyard, instructing them to dig for it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 1790-1794
+  quote_or_summary: After the father's death, the sons use spade and fork to turn
+    over the vineyard soil repeatedly while searching for the supposed buried treasure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 1794-1797
+  quote_or_summary: The sons find no treasure, but after the thorough digging the
+    vines produce an unprecedented crop.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the passage gives the narrative outcome but not an explicit
+    moral in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage locator label mentions multiple fables, but the supplied passage text contains only 'THE FARMER AND HIS SONS'; extraction is limited to the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1786-l1797
+  passage_sha256=7bf3077d12bbe3cadfb26bed9c57e751d61787364177385caac215715bb61840
+

@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3073-l3081
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ARCADIAN ARTEMIS. / EPHESIAN ARTEMIS. / BRAURONIAN ARTEMIS. / SELENE-ARTEMIS.;
+    lines 3073-3081
+  start: '3073'
+  end: '3081'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a later identification of Artemis with Selene, the
+    moon-goddess, by analogy with Apollo acquiring attributes of Helios. In this Selene-Artemis
+    form she is depicted with a crescent on her forehead, a star-spangled veil reaching
+    her feet, and a long enveloping robe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes Artemis's earlier terrestrial character from a later
+    lunar identification.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artemis is said to have become identified in later times with Selene, the
+    moon-goddess.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Apollo is described as Artemis's brother and as having gradually drawn into
+    himself attributes of Helios, the sun-god.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Selene-Artemis representation, the figure wears a glittering crescent
+    on her forehead.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The represented figure has a flowing veil bespangled with stars reaching to
+    her feet.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The represented figure is completely enveloped by a long robe.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Artemis
+  description: A goddess whose terrestrial character is contrasted with a later identification
+    with Selene.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Selene
+  description: The moon-goddess with whom Artemis is said to have been identified
+    in later times.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Apollo
+  description: Artemis's brother, described as gradually drawing into himself attributes
+    of Helios.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Helios
+  description: An older divinity and sun-god whose attributes Apollo is said to have
+    drawn into himself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: terrestrial Artemis
+  assigned_to:
+  - fig:1
+  basis: The passage says Artemis has previously been seen in phases of her terrestrial
+    character.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: later lunar-identified goddess
+  assigned_to:
+  - fig:1
+  basis: The passage states that Artemis came to be identified with Selene, the moon-goddess.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: moon-goddess
+  assigned_to:
+  - fig:2
+  basis: Selene is explicitly called the moon-goddess.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: brother of Artemis acquiring solar attributes
+  assigned_to:
+  - fig:3
+  basis: Apollo is called Artemis's brother and is said to have drawn attributes from
+    Helios.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: older sun-god
+  assigned_to:
+  - fig:4
+  basis: Helios is described as a more ancient divinity and the sun-god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: glittering crescent
+  literal_form: crescent on the forehead
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: star-spangled veil
+  literal_form: flowing veil bespangled with stars reaching to the feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: enveloping long robe
+  literal_form: long robe completely enveloping the figure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: moon-goddess identification
+  literal_form: Selene as moon-goddess identified with Artemis
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Later identification of Artemis with Selene
+  summary: The passage explains that Artemis, previously discussed in terrestrial
+    aspects, later came to be identified with Selene, the moon-goddess, in a manner
+    compared to Apollo's assimilation of Helios's attributes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Iconographic description of Selene-Artemis
+  summary: The Selene-Artemis form is represented with a crescent on the forehead,
+    a star-spangled veil reaching the feet, and a long enveloping robe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deity identified with a celestial goddess
+  taxonomy_refs: []
+  basis: The passage states that Artemis came to be identified with Selene, the moon-goddess.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy motif directly names divine syncretism or lunar identification.
+- id: motif:2
+  label: celestial iconography of a goddess
+  taxonomy_refs: []
+  basis: The representation includes a crescent and star-spangled veil as attributes
+    of the Selene-Artemis form.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents iconographic attributes rather than a narrative episode.
+- id: motif:3
+  label: sibling deities aligned with sun and moon
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage names Apollo as Artemis's brother and compares Apollo's assimilation
+    of Helios's solar attributes with Artemis's identification with Selene, the moon-goddess.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes analogical identifications rather than a full sibling-pair
+    narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Artemis's later identification with Selene
+    to Apollo's gradual acquisition of attributes from Helios.
+  claim_level: same_function
+  target: Apollo-Helios assimilation pattern within the same passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the passage's stated analogy and does
+    not establish broader historical contact or development beyond this handbook account.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3073-3078
+  quote_or_summary: Artemis has previously been viewed in terrestrial phases, but
+    later came to be identified with Selene, the moon-goddess.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3075-3077
+  quote_or_summary: Apollo, Artemis's brother, is described as gradually drawing into
+    himself the attributes of the older sun-god Helios.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3078-3081
+  quote_or_summary: In the Selene-Artemis representation, she wears a glittering crescent
+    on her forehead, a star-spangled veil reaching her feet, and a long robe enveloping
+    her.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The iconographic and relational details are explicit. Motif labeling is less
+    certain because the available taxonomy lacks a direct syncretism or lunar-goddess
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the supplied symbol list does not include crescent, moon, stars, veil, or robe.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3073-l3081
+  passage_sha256=916c4b377f6c9e75abea2ba2afc1dcec4b01dfbc9eb4c3186db7c8ba58a116f1
+

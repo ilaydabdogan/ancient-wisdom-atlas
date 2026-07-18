@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-epic-thompson-archive-l3323-l3385
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+passage_locator:
+  label: THE EPIC OF GILGAMISH. 45 / THE EPIC OF GILGAMISH. 47 / THE EPIC OF GILGAMISH.
+    49 / THE EPIC OF GILGAMISH.; lines 3323-3385
+  start: '3323'
+  end: '3385'
+  translation: The Epic of Gilgamish
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After six days and seven nights of hurricane, deluge, and tempest, the
+    storm ceases on the seventh day. The narrator opens a hatchway, weeps, sees land,
+    and the ark grounds on the Mountain of Nisir. After days on the mountain, the
+    narrator releases a dove, a swallow, and a raven; the first two return, while
+    the raven does not. The narrator frees the beasts, sacrifices, pours a libation,
+    and devotes offerings on the mountain peak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hurricane, deluge, and tempest continue for six days and seven nights
+    and are quelled on the seventh day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the deluge is stilled, the passage states that all human life has returned
+    to clay and that fen is level with the roof-tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator opens a hatchway, receives sunlight on his cheek, bows, sits
+    weeping, and gazes toward the bounds of the Ocean.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Land appears at twelve points, and the Ark grounds on the Mountain of Nisir.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Mountain of Nisir holds the Ark fast and does not allow it to shift over
+    a period counted as one through six days.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the seventh day after the Ark grounds, the narrator releases a dove, which
+    returns because it finds no resting-place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator releases a swallow, which also returns because it finds no resting-place.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator releases a raven; it sees the abating waters, eats while wading
+    and splashing, and does not return.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator frees all the beasts to the four winds of heaven.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator sacrifices an offering, pours a libation on the mountain peak,
+    and devotes twice seven flagons with sweet cane, cedar, and myrtle.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person narrator
+  description: The speaker who survives in the Ark, observes the flood’s aftermath,
+    releases birds and beasts, and performs the offering.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: dove
+  description: A bird released by the narrator that returns because it finds no resting-place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: swallow
+  description: A bird released by the narrator that returns because it finds no resting-place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: raven
+  description: A bird released by the narrator that sees the abating waters, eats
+    while wading and splashing, and does not return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: all the beasts
+  description: The animals freed by the narrator to the four winds of heaven.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: surviving observer
+  assigned_to:
+  - fig:1
+  basis: The narrator opens the hatchway after the deluge, sees sunlight, weeps, and
+    looks out over the Ocean.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: releaser of birds
+  assigned_to:
+  - fig:1
+  basis: The narrator sends out the dove, swallow, and raven in sequence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: sacrificer and libation-pourer
+  assigned_to:
+  - fig:1
+  basis: The narrator sacrifices an offering and pours a libation on the mountain
+    peak.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: released scouting bird
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each bird is put forth or released after the Ark has rested on the mountain;
+    their return or non-return is reported.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: released beasts
+  assigned_to:
+  - fig:5
+  basis: The narrator frees all the beasts to the four winds of heaven.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: deluge waters
+  literal_form: hurricane, deluge, tempest, sea, and abating waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Ark
+  literal_form: Ark grounded on the Mountain of Nisir
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mountain of Nisir
+  literal_form: mountain that holds the Ark fast and whose peak receives sacrifice
+    and libation
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: released birds
+  literal_form: dove, swallow, and raven released in sequence
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: sacrificial offering and libation
+  literal_form: offering, libation, twice seven flagons, sweet cane, cedar, and myrtle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: four winds of heaven
+  literal_form: directional phrase marking the release of all the beasts
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cessation of the deluge
+  summary: The storm and deluge rage for six days and seven nights, then cease on
+    the seventh day; the land is silent and humanity is described as returned to clay.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opening of the hatchway and grounding on Nisir
+  summary: The narrator opens a hatchway, weeps, looks out over the Ocean, sees land,
+    and the Ark grounds on the Mountain of Nisir, which holds it fast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Release of the birds
+  summary: On the seventh day the narrator releases a dove, then a swallow, and then
+    a raven; the dove and swallow return for lack of resting-place, while the raven
+    does not return after seeing the waters abate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Release of beasts and mountain offering
+  summary: The narrator frees the beasts to the four winds, sacrifices, pours a libation
+    on the peak of the mountain, and devotes flagons and aromatics.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: destructive flood followed by abatement and renewed landfall
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage recounts a prolonged deluge that ceases, the appearance of land,
+    the grounding of the Ark, the release of animals, and a subsequent offering.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The larger causes of the flood and the full social renewal after the episode
+    are outside this excerpt.
+- id: motif:2
+  label: ark or vessel preserving life through flood
+  taxonomy_refs:
+  - ark_vessel
+  basis: An Ark survives the flood, grounds on the Mountain of Nisir, and later beasts
+    are released from the survivor’s keeping.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the Ark’s construction or loading.
+- id: motif:3
+  label: birds sent out to test for dry land
+  taxonomy_refs: []
+  basis: The narrator releases a dove, swallow, and raven in sequence; the first two
+    return for lack of resting-place, while the raven does not return after observing
+    the abating waters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No provided taxonomy reference directly names this bird-test pattern.
+- id: motif:4
+  label: sacrifice after survival from catastrophe
+  taxonomy_refs:
+  - sacrifice
+  basis: After the flood subsides and the animals are freed, the narrator sacrifices,
+    pours a libation, and devotes offerings on the mountain peak.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not report the recipient or divine response within the
+    supplied lines.
+- id: motif:5
+  label: mountain landing after flood
+  taxonomy_refs: []
+  basis: The Ark grounds on the Mountain of Nisir, which holds it fast, and the later
+    offering is performed on the mountain peak.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: Although the mountain is central to the episode, the excerpt does not
+    explicitly assign it a cosmic or world-axis role.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a flood-and-renewal motif family
+    because it presents a world-covering deluge, its abatement, the reappearance of
+    land, release of living creatures, and a post-flood offering.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt does not include the flood’s divine cause or the subsequent
+    restoration of human society.
+- id: claim:2
+  claim: The Ark functions as the survival vessel within the flood episode, matching
+    the ark-vessel pattern at the level of narrative function.
+  claim_level: same_function
+  target: ark_vessel motif family
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names the Ark and its grounding but does not narrate its
+    building, contents, or departure.
+- id: claim:3
+  claim: The sequential release of birds provides a test for the condition of the
+    flooded world, especially the availability of resting-place and the abatement
+    of waters.
+  claim_level: same_function
+  target: bird reconnaissance after flood pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This target is a descriptive pattern rather than one of the supplied
+    taxonomy motif-family identifiers.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3323-3328
+  quote_or_summary: The hurricane, deluge, and tempest last six days and seven nights,
+    cease on the seventh day, and the passage describes humanity as returned to clay.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3330-3332
+  quote_or_summary: The narrator opens a hatchway, sunlight streams onto his cheek,
+    he bows and weeps, and he gazes toward the furthest bounds of the Ocean.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3334-3338
+  quote_or_summary: Land appears at twelve points; the Ark grounds on the Mountain
+    of Nisir, and the mountain holds it fast for days counted from one through six.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 3340 and line 3342
+  quote_or_summary: On the seventh day, the narrator releases a dove; it goes to and
+    fro and returns because no resting-place is available.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3343-3346
+  quote_or_summary: The narrator releases a swallow, which returns for lack of a resting-place;
+    he then releases a raven, which sees the waters abating, eats while wading and
+    splashing, and does not return.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3347-3350
+  quote_or_summary: The narrator frees all the beasts to the four winds, sacrifices
+    an offering, pours a libation on the mountain peak, and devotes twice seven flagons
+    with sweet cane, cedar, and myrtle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about the flood’s end, Ark grounding, bird releases,
+    animal release, and offering. Comparison claims are limited to motif-family or
+    functional pattern comparison supported by the excerpt, without claims of historical
+    contact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Page numbers, line-number artifacts, and the note after the excerpt were not treated as narrative content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-gilgamesh-epic-thompson-archive__l3323-l3385
+  passage_sha256=ad4fae8f9f57bb2ea29a8675a6a66c7d1eb268b5f3b90d750040de548eaf0bd1
+

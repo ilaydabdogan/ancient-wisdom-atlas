@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4775-l4790
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOGS AND THE HIDES / THE LION, THE FOX, AND THE ASS / THE FOWLER, THE
+    PARTRIDGE, AND THE COCK / THE GNAT AND THE LION; lines 4775-4790
+  start: '4775'
+  end: '4790'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A gnat challenges a lion, denies the lion's superiority, wounds him on
+    the nose, and escapes unharmed. The victorious gnat is then caught in a spider's
+    web and eaten by the spider.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gnat approaches a lion and says it is not afraid of him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The gnat claims the lion is not a match for it in strength and challenges
+    him to fight.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gnat sounds its horn, darts in, and bites the lion on the nose.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lion attempts to crush the gnat but scratches his own nose badly, makes
+    it bleed, and fails to harm the gnat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The gnat leaves in triumph, elated by its victory.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gnat becomes entangled in a spider's web and is caught and eaten by the
+    spider.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage calls the lion the King of the Beasts.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gnat
+  description: A gnat that challenges and bites the lion, then is caught in a spider's
+    web and eaten.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lion
+  description: A lion challenged by the gnat; he wounds his own nose while trying
+    to crush it and is called the King of the Beasts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Spider
+  description: The spider catches and eats the gnat after it becomes entangled in
+    the web.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: challenger
+  assigned_to:
+  - fig:1
+  basis: The gnat asserts superiority and proposes a fight with the lion.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: defeated powerful opponent
+  assigned_to:
+  - fig:2
+  basis: The lion, called King of the Beasts, fails to harm the gnat and injures himself.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: victor who later becomes prey
+  assigned_to:
+  - fig:1
+  basis: The gnat buzzes off in triumph but later is caught and eaten by the spider.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: final predator
+  assigned_to:
+  - fig:3
+  basis: The spider catches and eats the gnat in its web.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: horn
+  literal_form: The gnat's horn sounded before attacking.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: nose wound
+  literal_form: The lion's nose is bitten by the gnat and then scratched until it
+    bleeds by the lion himself.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spider's web
+  literal_form: A spider's web entangles the gnat before the spider eats it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: King of the Beasts
+  literal_form: The lion is named as the King of the Beasts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gnat challenges the lion
+  summary: The gnat tells the lion that it is not afraid, denies the lion's superiority
+    in strength, and proposes a fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Gnat defeats the lion
+  summary: The gnat sounds its horn, bites the lion's nose, and escapes while the
+    lion injures himself trying to crush it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Victorious gnat caught by spider
+  summary: After departing in triumph, the gnat becomes entangled in a spider's web
+    and is eaten by the spider.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: small creature defeats powerful beast
+  taxonomy_refs: []
+  basis: The gnat successfully attacks the lion, who is later described as the King
+    of the Beasts, and the lion fails to harm it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The label is descriptive and not tied to a supplied taxonomy motif family.
+- id: motif:2
+  label: victory followed by sudden downfall
+  taxonomy_refs: []
+  basis: The gnat leaves elated by victory over the lion but soon becomes trapped
+    in a spider's web and eaten.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the sequence clearly, but no explicit moral is included
+    in the supplied excerpt.
+- id: motif:3
+  label: self-injury while attacking an elusive opponent
+  taxonomy_refs: []
+  basis: The lion tries to crush the gnat but scratches his own nose badly and fails
+    to hurt it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is extracted as a local narrative pattern rather than a named
+    taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '4775'
+  quote_or_summary: 'Title: THE GNAT AND THE LION.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; quotation permitted.
+- id: ev:2
+  type: summary
+  locator: 4777-4783
+  quote_or_summary: The gnat approaches the lion, says it is not afraid, denies the
+    lion is a match in strength, and challenges him to fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 4783-4786
+  quote_or_summary: The gnat sounds its horn and bites the lion's nose; the lion scratches
+    his own nose badly, makes it bleed, and fails to hurt the gnat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 4786-4790
+  quote_or_summary: The gnat departs in triumph, then becomes entangled in a spider's
+    web and is eaten, after having triumphed over the King of the Beasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. No comparison claims
+    are made because the passage itself does not provide an explicit cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. Available taxonomy symbol refs did not match the literal symbols in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4775-l4790
+  passage_sha256=febf991dd631821b9c3937332f1dce41b875b247e76ae7dc1b76915fc8ad7496
+

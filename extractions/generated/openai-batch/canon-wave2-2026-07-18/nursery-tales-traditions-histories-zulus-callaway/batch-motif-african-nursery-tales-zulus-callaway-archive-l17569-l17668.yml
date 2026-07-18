@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l17569-l17668
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UGUNGQU-KUBANTWANA. / IZINGANEKWANE. / U GUN  G QU-KU  BAN  T W ANA. / IZINGANEKWANE.;
+    lines 17569-17668
+  start: '17569'
+  end: '17668'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A newly arrived ingogo goes hunting with others, later says he has stomach
+    pain and asks for a leg of meat to be set aside. The next morning, when the others
+    go hunting, he remains with the little ones, sends them to fetch water in a leaking
+    vessel, and while they are delayed he kills the absent izingogo’s grandmother
+    with a spear, opens her body, and takes out her liver.
+  language: English with Zulu parallel text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker says they have returned from hunting and that the little ones have
+    not gone to fetch firewood.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Game is cooked; the group eats and lies down.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the morning the group goes hunting with the newly arrived ingogo and returns
+    in the afternoon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The little ones return from fetching wood, and game is cooked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The newly arrived ingogo says his stomach is painful and asks for a leg of
+    meat to be set aside for him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The next morning, the ingogo says his stomach is still painful.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The others go hunting, leaving the ingogo alone with the little ones.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The ingogo tells the little ones to fetch water for him from the river.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The little ones take a water-vessel that leaks because it has a hole in the
+    bottom.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The little ones are delayed at the river until midday because the vessel leaks.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: After the little ones leave, the ingogo takes a spear and kills the grandmother
+    of the absent izingogo.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The ingogo cuts open the grandmother’s chest and bowels, the liver appears,
+    and he takes it out.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: A note identifies the newly arrived ingogo as a man who had arrived pretending
+    to be an ingogo.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: newly arrived ingogo
+  description: A newly arrived ingogo, identified in a note as a man pretending to
+    be an ingogo; he feigns stomach pain, sends the little ones for water, and kills
+    the grandmother.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: absent izingogo / hunters
+  description: The izingogo who go hunting and are absent when their grandmother is
+    killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: little ones
+  description: The younger ones who fetch firewood and are later sent to fetch water
+    in a leaking vessel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: grandmother
+  description: The grandmother of the absent izingogo; she is killed and cut open
+    by the ingogo.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pretender
+  assigned_to:
+  - fig:1
+  basis: A note says the man had arrived pretending to be an ingogo.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: deceiver who feigns illness
+  assigned_to:
+  - fig:1
+  basis: He says his stomach is painful and cannot eat meat, and the next morning
+    says the pain continues.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: killer and organ-taker
+  assigned_to:
+  - fig:1
+  basis: He takes a spear, kills the grandmother, cuts her open, and takes out the
+    liver.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: absent hunters
+  assigned_to:
+  - fig:2
+  basis: They go hunting and are absent when their grandmother is killed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: children sent on delaying errand
+  assigned_to:
+  - fig:3
+  basis: They are told to fetch water from the river and are delayed by a leaking
+    vessel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: elder victim
+  assigned_to:
+  - fig:4
+  basis: She is called the grandmother of the absent izingogo and is killed while
+    they are away.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water from the river
+  literal_form: water / river
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: leaking water-vessel
+  literal_form: water-vessel with a hole in the bottom
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: spear
+  literal_form: spear
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: liver
+  literal_form: liver removed from the grandmother’s opened body
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: reserved leg of meat
+  literal_form: leg of cooked game set aside for the ingogo
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hunting and cooking
+  summary: The group returns from hunting; the little ones have not fetched firewood;
+    game is cooked, eaten, and the group lies down.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feigning stomach pain
+  summary: After a later hunt, the newly arrived ingogo asks for a leg of meat to
+    be set aside because his stomach is painful and he cannot eat meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Children sent to fetch water
+  summary: When the hunters leave again, the ingogo remains with the little ones and
+    sends them to fetch water from the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Killing of the grandmother
+  summary: While the little ones are delayed, the ingogo takes a spear, kills the
+    grandmother of the absent izingogo, cuts open her body, and removes her liver.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceptive outsider impersonates a group member
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The note says the man pretends to be an ingogo, and the passage shows him
+    accepted among the group before harming their grandmother.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link is functional rather than explicitly named in the passage;
+    the passage does not call him a trickster.
+- id: motif:2
+  label: feigned illness used to create an opportunity
+  taxonomy_refs: []
+  basis: The ingogo claims stomach pain, avoids eating, and is later left behind when
+    the others go hunting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly state that the illness is false, but the
+    subsequent actions support treating it as a narrative device.
+- id: motif:3
+  label: children delayed by leaking vessel
+  taxonomy_refs: []
+  basis: The little ones are sent to fetch water in a vessel with a hole, causing
+    a long delay until midday.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly state that the ingogo chose the leaking
+    vessel, only that the vessel leaked.
+- id: motif:4
+  label: elder killed while protectors are absent
+  taxonomy_refs: []
+  basis: The hunters are absent, the children are away, and the ingogo kills the grandmother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The broader story context is not included in this extract.
+- id: motif:5
+  label: removal of victim’s liver
+  taxonomy_refs: []
+  basis: After killing the grandmother, the ingogo cuts open her body and removes
+    the liver.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage excerpt ends shortly after the liver is removed, so the later
+    use or significance of the liver is not available here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17569-17577
+  quote_or_summary: A speaker says they have returned from hunting and that the little
+    ones have not fetched firewood; the game is cooked, they eat, and they lie down.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 17578-17602
+  quote_or_summary: In the morning they go hunting with the newly arrived ingogo;
+    on return, the little ones are back from fetching wood, game is cooked, and the
+    ingogo asks them to set aside a leg because his stomach is painful.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 17603-17622
+  quote_or_summary: The next morning he says his stomach is still painful; the others
+    go hunting; he remains with the little ones and tells them to fetch water from
+    the river for him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 17623-17644
+  quote_or_summary: The little ones take a water-vessel with a hole in the bottom;
+    at the river it leaks, and they take a long time returning, until midday.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 17645-17666
+  quote_or_summary: After the little ones leave, the ingogo takes a spear, kills the
+    grandmother of the absent izingogo, cuts open her chest and bowels, and takes
+    out the liver.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: quote
+  locator: lines 17666-17668, note 10
+  quote_or_summary: "“the man who had just arrived pretending to be an ingogo”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short quotation from passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an OCR-like bilingual extract and appears to begin and end
+    mid-story. Literal actions are clear, but some figure identities and Zulu terms
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly support a cross-text comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l17569-l17668
+  passage_sha256=444f43734adc02afe8ec155db3fcd8d256b8da0b7b478dc051d69545582ab6c4
+

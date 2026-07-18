@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-epic-thompson-archive-l1420-l1455
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+passage_locator:
+  label: THE EPIC OF GILGAMISH. 23 / THE EPIC OF GILGAMISH. / THE FOURTH TABLET. /
+    THE ARRIVAL AT THE GATE OF THE FOREST.; lines 1420-1455
+  start: '1420'
+  end: '1455'
+  translation: The Epic of Gilgamish
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a fragmentary section of the Fourth Tablet, an editorial note says the
+    connected text begins after the heroes have reached the Gate of the Forest. Enkidu
+    addresses the Gate as if it were human, calling it without understanding or sentience.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the section as the Fourth Tablet and as the
+    arrival at the Gate of the Forest.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Column I is partly mutilated or missing and that,
+    when the text becomes connected, the heroes have reached the Gate of the Forest.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Enkidu lifts his eyes and speaks with the Gate as if it were human, according
+    to the damaged text.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Enkidu's speech addresses the Gate of the Forest and describes it as lacking
+    understanding or sentience.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note in the passage identifies the cited material as the Assyrian Version.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: Named figure who lifts his eyes and speaks with the Gate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Gate of the Forest
+  description: Gate at the Forest, addressed as if human and described as lacking
+    understanding or sentience.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the heroes
+  description: Unnamed heroes said to have reached the Gate of the Forest when the
+    text becomes connected.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker to the Gate
+  assigned_to:
+  - fig:1
+  basis: Enkidu is named as the one who speaks with the Gate.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: addressed threshold-object
+  assigned_to:
+  - fig:2
+  basis: The Gate is spoken with as if human and directly addressed in speech.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: arrived heroes
+  assigned_to:
+  - fig:3
+  basis: The editorial note says the heroes have reached the Gate of the Forest.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Gate of the Forest
+  literal_form: gate
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Forest
+  literal_form: forest
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrival at the Gate of the Forest
+  summary: In the connected portion of the fragmentary text, the heroes have reached
+    the Gate of the Forest.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Enkidu addresses the Gate
+  summary: Enkidu lifts his eyes and speaks with the Gate as if it were human, addressing
+    it as lacking understanding or sentience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Arrival at a liminal forest gate
+  taxonomy_refs: []
+  basis: The section heading and editorial note place the heroes at the Gate of the
+    Forest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text is fragmentary and the passage gives little narrative development
+    beyond arrival at the gate.
+- id: motif:2
+  label: Address to a personified threshold-object
+  taxonomy_refs: []
+  basis: Enkidu speaks with the Gate as if it were human and directly addresses it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wording is damaged and includes translator uncertainty marks; the
+    Gate is also described as lacking sentience.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1420-1424
+  quote_or_summary: The heading identifies the Fourth Tablet and the section title,
+    “THE ARRIVAL AT THE GATE OF THE FOREST.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 1425-1428
+  quote_or_summary: 'Editorial note: Column I lines 1-36 are mutilated or missing;
+    when the text becomes connected, the heroes have reached the Gate of the Forest.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: Column I, line 36; within lines 1420-1455
+  quote_or_summary: "“Enkidu lifted ‘his eyes’ . . . and spake with the Gate as ...
+    human(?)”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: Column I, following line 36; within lines 1420-1455
+  quote_or_summary: "“O thou Gate of the Forest without understanding(?) . . . Sentience
+    which thou hast not”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: note
+  locator: Notes within lines 1420-1455
+  quote_or_summary: The passage note identifies the material as “Assyrian Version.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary and damaged state of the passage.
+    No external comparison claims are made because the passage itself does not support
+    a specific comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were left empty because the available taxonomy did not include a direct gate or threshold symbol/motif, and broader mappings would be interpretive.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-gilgamesh-epic-thompson-archive__l1420-l1455
+  passage_sha256=d7f86d093075f9a79fd2e92e0130665eb37c2dbc9bc6bf200ecb755a9990d1ac
+

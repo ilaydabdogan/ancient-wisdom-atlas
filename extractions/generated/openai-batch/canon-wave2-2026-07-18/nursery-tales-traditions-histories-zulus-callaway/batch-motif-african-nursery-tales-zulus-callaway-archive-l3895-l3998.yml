@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l3895-l3998
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UHLAKANYANA. / TZINGANEKWANE. / UHLAKANYANA. / UHLAKANYANA.; lines 3895-3998
+  start: '3895'
+  end: '3998'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Uthlakanyana gathers a bagful of poisonous biting creatures, returns to
+    the cannibal’s house, deceives the cannibal with talk of a narrow doorway and
+    a journey to fetch a cousin, hides the bag, and at night builds up the doorway
+    so that the cannibal cannot easily leave. In the morning he calls to the cannibal
+    and claims to bring bad news; the cannibal tries to open the door and finds it
+    firm.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uthlakanyana takes a bag and departs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: He catches or places a snake, a wasp, a scorpion, and other biting poisonous
+    animals into the bag until it is full.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: He ties the full bag and carries it back to the house where the cannibal comes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Uthlakanyana tells the cannibal that the doorway should be made small, but
+    the cannibal says he does not want a narrow doorway.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Uthlakanyana says he is going to his mother’s kraal to fetch his cousin so
+    that she may live there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Uthlakanyana takes the bag with him and hides it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After dark, he returns to the cannibal’s house with rods for contracting the
+    doorway, enters and exits, and builds the doorway small enough that even a child
+    cannot go out through it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the morning, Uthlakanyana remains at the doorway, calls to the cannibal,
+    asks him to open the door, and claims to have bad news from the road.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The cannibal rises and tries to open the door, but the door is firm.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: The named actor who gathers poisonous animals in a bag, deceives the
+    cannibal, hides the bag, and alters the doorway of the cannibal’s house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the cannibal
+  description: The cannibal at the house, addressed as uncle, who refuses a narrow
+    doorway and later cannot open the firm door.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: poisonous biting animals
+  description: A snake, a wasp, a scorpion, and other biting deadly poisonous animals
+    collected into Uthlakanyana’s bag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: trap-maker and deceiver
+  assigned_to:
+  - fig:1
+  basis: Uthlakanyana gives the cannibal a false explanation about going to fetch
+    a cousin, returns at night, and builds up the doorway so it is too small for exit.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: cannibal antagonist confined at the doorway
+  assigned_to:
+  - fig:2
+  basis: The figure is named as a cannibal, resists narrowing the doorway, and later
+    finds the door firm when he tries to open it.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: collected poisonous force
+  assigned_to:
+  - fig:3
+  basis: The animals are described as biting and deadly poisonous and are gathered
+    into a full bag; the heading calls them a little army against the cannibal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: bag of poisonous animals
+  literal_form: A bag filled with a snake, wasp, scorpion, and other biting poisonous
+    animals.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: snake
+  literal_form: A snake caught by Uthlakanyana and put into the bag.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: contracted doorway
+  literal_form: A doorway built up until it is not large enough for a child to go
+    out.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: rods for narrowing the doorway
+  literal_form: Rods brought by Uthlakanyana for the purpose of contracting the doorway.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gathering the poisonous animals
+  summary: Uthlakanyana takes a bag and fills it with a snake, a wasp, a scorpion,
+    and other biting poisonous animals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: The doorway proposal and false errand
+  summary: At the cannibal’s house, Uthlakanyana proposes that the doorway be made
+    small; after the cannibal refuses, Uthlakanyana says he will go to his mother’s
+    kraal to fetch a cousin, then hides the bag.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Nighttime alteration of the doorway
+  summary: After dark, Uthlakanyana returns with rods, enters and leaves the house,
+    and builds up the doorway until it is too narrow for even a child to go out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Morning call to the cannibal
+  summary: Uthlakanyana calls from the doorway, claims he has bad news, and asks the
+    cannibal to open; the cannibal attempts to open the door and finds it firm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trickster confines a cannibal by manipulating a doorway
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uthlakanyana deceives the cannibal, returns at night, and changes the doorway
+    into a boundary that prevents exit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied passage ends while the cannibal is discovering the door is
+    firm; the later outcome is not included except for the heading.
+- id: motif:2
+  label: Poisonous creatures gathered as a hidden force against a monster
+  taxonomy_refs: []
+  basis: The heading describes Uthlakanyana bringing a little army against the cannibal,
+    and the narrative shows him filling a bag with deadly poisonous animals and hiding
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not yet show the animals being released or directly attacking
+    the cannibal.
+- id: motif:3
+  label: False journey used as trickster deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uthlakanyana tells the cannibal he is leaving for his mother’s kraal to fetch
+    a cousin, but instead hides the bag and later returns at night to alter the doorway.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The deception is clear in sequence, but the passage does not explicitly
+    state Uthlakanyana’s intention.
+comparison_claims:
+- id: claim:1
+  claim: 'This episode can be cautiously compared with a trickster-boundary pattern:
+    a deceptive actor turns an architectural threshold into a means of confining a
+    dangerous opponent.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The classification is based only on the supplied episode segment; the
+    final defeat of the cannibal is not fully present in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3895-3901; episode heading
+  quote_or_summary: The heading states that Uthlakanyana brings a little army against
+    the cannibal, which proves too much for him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3902-3936
+  quote_or_summary: Uthlakanyana takes a bag, catches a snake, places a wasp in it,
+    catches a scorpion, and puts all biting deadly poisonous animals into the bag
+    until it is full.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3937-3960
+  quote_or_summary: He ties the bag and carries it back to the house; when the cannibal
+    comes, Uthlakanyana says the doorway should be contracted and made small, but
+    the cannibal refuses a narrow doorway.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3961-3975
+  quote_or_summary: Uthlakanyana says he is going to his mother’s kraal to fetch his
+    cousin so she may live there; he takes the bag with him and hides it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3976-3989
+  quote_or_summary: When it is dark, Uthlakanyana returns to the cannibal’s house
+    with rods for contracting the doorway, enters and exits, and builds the doorway
+    so small that a child cannot go out through it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3990-3998
+  quote_or_summary: In the morning, Uthlakanyana calls to the cannibal from the doorway,
+    asks him to open, claims he has bad news from the road, and the cannibal rises
+    to open but finds the door firm.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions are explicit in the English translation. Motif confidence
+    is limited because the passage range stops before any full resolution, though
+    the heading previews the cannibal’s defeat.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; the English translation was used for summaries while preserving awareness that the passage also includes Zulu text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l3895-l3998
+  passage_sha256=b801414bfeb204c11dd730909fc5f64fcfbe48f2f8de3e3c89695cb72d78dcbb
+

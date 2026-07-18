@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5964-l6002
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: TABLET / TABLET  XO.  3 / NO.  2 / TABLET  NO.  3; lines 5964-6002
+  start: '5964'
+  end: '6002'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Adapa is to wear mourning at heaven's portal as though for Tammuz/Dumuzi
+    and Gishzida/Gišzida, so as to gain their interest and sympathy; the prose note
+    says the ruse succeeds. The transliterated lines place Dumuzi and Gishzida at
+    the gate of Anu, and Tablet No. 3 states that Adapa goes before Anu the king.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adapa is instructed or described as wearing mourning at heaven's portal as
+    though for Tammuz and Gishzida.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of the mourning is to excite the interest and sympathy
+    of Tammuz and Gishzida, and the passage note states that the ruse is successful.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dumuzi/Tammuz and Gishzida/Gišzida are located standing at the gate of Anu.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Adapa is described as going before Anu, who is called king in the Tablet No.
+    3 excerpt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The setting includes heaven or the sky and the portal or gate of Anu.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Adapa
+  description: The person who is to wear mourning at heaven's portal and who goes
+    before Anu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Tammuz / Dumuzi
+  description: A divine figure for whom Adapa is to appear to mourn; the transliterated
+    lines place Dumuzi at the gate of Anu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Gishzida / Gišzida
+  description: A divine figure for whom Adapa is to appear to mourn; the transliterated
+    lines place Gishzida at the gate of Anu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Anu
+  description: The deity associated with the heavenly gate; Tablet No. 3 refers to
+    Anu as king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: heavenly petitioner or visitor
+  assigned_to:
+  - fig:1
+  basis: Adapa is placed at heaven's portal and is described as going before Anu.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine figures at the gate
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Dumuzi and Gishzida are said to stand at the gate of Anu.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: divine king associated with the gate
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the gate of Anu and to Adapa going before Anu the king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: heaven's portal / gate of Anu
+  literal_form: portal or gate in heaven associated with Anu
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mourning display
+  literal_form: wearing mourning as though for Tammuz and Gishzida
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mourning ruse at heaven's portal
+  summary: Adapa is to wear mourning at heaven's portal as though for Tammuz and Gishzida
+    in order to gain their interest and sympathy; the passage note says the ruse succeeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Approach to Anu's gate
+  summary: Adapa approaches heaven and goes before Anu, while Dumuzi and Gishzida
+    stand at the gate of Anu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ascent or approach to the heavenly divine realm
+  taxonomy_refs:
+  - ascent
+  basis: The passage places Adapa at heaven's portal and describes him going before
+    Anu, with divine figures standing at Anu's gate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt preserves mainly the threshold episode rather than a complete
+    ascent narrative.
+- id: motif:2
+  label: ruse at a sacred boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Adapa is to use a display of mourning at heaven's portal to gain sympathy
+    from figures stationed at the gate; the passage note calls it a successful ruse.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy match is approximate; the passage supports a deceptive boundary
+    action but does not characterize Adapa broadly as a trickster.
+- id: motif:3
+  label: divine figures stationed at a heavenly gate
+  taxonomy_refs: []
+  basis: Dumuzi/Tammuz and Gishzida/Gišzida stand at the gate of Anu as Adapa approaches.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this gate-station motif.
+- id: motif:4
+  label: mourning display to win divine sympathy
+  taxonomy_refs: []
+  basis: The prose note states that Adapa should wear mourning as though for Tammuz
+    and Gishzida to excite their interest and sympathy.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The broader ritual or mythic significance of the mourning is not specified
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5964-5967; NO. 2 prose note
+  quote_or_summary: Adapa is to wear mourning at heaven's portal as though for Tammuz
+    and Gishzida, thereby exciting their interest and sympathy; the ruse proves successful.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Tablet No. 2 continued, lines 18-21
+  quote_or_summary: The transliterated lines refer to heaven or sky, the gate of Anu,
+    and Dumuzi and Gishzida standing there.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Tablet No. 3, lines 15-18
+  quote_or_summary: The transliterated lines state that Adapa goes before Anu the
+    king and refer again to the gate of Anu, where Dumuzi and Gishzida stand.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short prose note and damaged transliterated lines.
+    Names and settings are clear enough for basic motif candidates, but the excerpt
+    is fragmentary and no external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No supplied symbol taxonomy item matched the gate or mourning display.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5964-l6002
+  passage_sha256=be99f9b762abe6afa57f7442ddbdba2cdb3d66df4b34772c66357dc5e4e68cd6
+

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5083-l5122
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HORSE AND THE STAG / THE FOX AND THE BRAMBLE / THE FOX AND THE SNAKE
+    / THE LION, THE FOX, AND THE STAG; lines 5083-5122
+  start: '5083'
+  end: '5122'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“a creature who twice walked into a Lion's den can't have got any.”"
+  summary: A sick Lion in his den asks the Fox to lure a Stag so the Lion can eat
+    the Stag's heart and brains. The Fox twice deceives the Stag with claims about
+    royal succession and safety; the first attack fails, but the second succeeds.
+    The Fox steals the brains, then tells the Lion that a creature who twice entered
+    a Lion's den could not have had any brains.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Lion lies sick in his den and cannot provide himself with food.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion asks his friend the Fox to lure the Stag from the wood to the den
+    because he wants to eat the Stag's heart and brains.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox tells the Stag that the Lion, described as King, is near death and
+    has appointed the Stag as successor over the beasts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The flattered Stag follows the Fox to the Lion's den without suspecting danger.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The Lion springs at the Stag, misjudges the attack, tears the Stag's ears,
+    and the Stag escapes back to the wood.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the Fox's second visit, the Stag accuses him of trying to lure him to death
+    and threatens to kill him with his horns.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Fox denies harmful intent, says the Lion only wished to whisper royal
+    secrets into the Stag's ear, warns that the wolf may be made king, and promises
+    the Stag safety and service.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Stag is persuaded to return; the Lion overpowers him and feasts on his
+    carcass.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Fox secretly takes the Stag's brains while the Lion is not looking.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When the Lion searches for the brains, the Fox says that a creature who twice
+    walked into a Lion's den could not have had any.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A sick Lion lying in his den; called King by the Fox; seeks the Stag
+    as food, later kills and eats him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Fox
+  description: The Lion's friend; twice persuades the Stag to enter the Lion's den;
+    steals the Stag's brains and explains their absence with a taunt.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Stag
+  description: A large Stag living in the wood; lured by promises of royal succession,
+    escapes the first attack, returns after further persuasion, and is killed.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Wolf
+  description: Mentioned by the Fox as a possible king if the Stag does not return;
+    does not act in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sick predator seeking food
+  assigned_to:
+  - fig:1
+  basis: The Lion is sick, unable to get food, and asks for the Stag to be lured so
+    he can eat him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king of the beasts in Fox's speech
+  assigned_to:
+  - fig:1
+  basis: The Fox calls the Lion “our King” and says he rules over the beasts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceptive intermediary
+  assigned_to:
+  - fig:2
+  basis: The Fox carries the Lion's request into the wood and twice uses persuasive
+    claims to bring the Stag to the den.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: lured victim
+  assigned_to:
+  - fig:3
+  basis: The Stag is persuaded to enter the den twice; the second time the Lion kills
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: purported royal successor
+  assigned_to:
+  - fig:3
+  basis: The Fox tells the Stag that the dying Lion has appointed him successor to
+    rule the beasts.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: secret thief of the brains
+  assigned_to:
+  - fig:2
+  basis: The Fox takes the brains while the Lion is not looking.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: mentioned possible replacement king
+  assigned_to:
+  - fig:4
+  basis: The Fox warns that the Lion may make the wolf king instead.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Lion's den
+  literal_form: den
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: wood
+  literal_form: wood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: heart and brains
+  literal_form: body parts of the Stag
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: torn ears and royal whisper
+  literal_form: ears
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: Stag's horns
+  literal_form: horns
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sick Lion's request in the den
+  summary: The Lion lies sick in his den and asks the Fox to lure the Stag from the
+    wood so the Lion can eat the Stag's heart and brains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First deception in the wood
+  summary: The Fox finds the Stag and claims that the dying Lion has appointed the
+    Stag to succeed him as ruler of the beasts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed attack and escape
+  summary: The Stag enters the den unsuspectingly; the Lion attacks but misses, tearing
+    only the Stag's ears, and the Stag escapes to the wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Second deception after the Stag's warning
+  summary: The Fox returns to the wood; after the Stag accuses him and threatens him
+    with horns, the Fox reframes the Lion's attack as an attempt to whisper royal
+    secrets and warns that the wolf may be made king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Killing, theft, and closing taunt
+  summary: The Stag returns, the Lion kills and eats him, the Fox steals the brains,
+    and the Fox explains their absence by saying the Stag could not have had brains
+    if he twice entered the Lion's den.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceptive lure into a predator's dwelling
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Fox repeatedly moves the Stag from the relative safety of the wood into
+    the Lion's den through deceptive speech, first causing injury and then death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The supplied taxonomy label is broad; the passage does not name a formal
+    motif family.
+- id: motif:2
+  label: false royal succession as bait
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Fox's lure depends on the claim that the dying Lion has appointed the
+    Stag as successor to rule the beasts; a later warning invokes the wolf as an alternative
+    king.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The royal succession claim occurs only in the Fox's persuasive speech
+    and is probably deceptive within the story.
+- id: motif:3
+  label: foolish credulity shown by repeated return to danger
+  taxonomy_refs:
+  - wisdom
+  basis: The Stag returns to the Lion's den after surviving an attack, and the Fox's
+    closing statement treats the repeated return as evidence that the Stag had no
+    brains.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the point through
+    lack of brains rather than an explicit abstract term such as wisdom.
+- id: motif:4
+  label: trickster steals a hidden reward from the kill
+  taxonomy_refs: []
+  basis: After the Lion kills the Stag, the Fox secretly takes the brains as a reward
+    for his trouble and then deflects the Lion's search with a joke.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this narrower action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5083-5088
+  quote_or_summary: The Lion lies sick in his den, unable to provide himself with
+    food, and asks the Fox to lure the Stag from the wood because he wants the Stag's
+    heart and brains for dinner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5088-5095
+  quote_or_summary: The Fox tells the Stag that the Lion, described as their King,
+    is near death and has appointed the Stag his successor to rule the beasts; the
+    Fox urges him to come to the Lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5095-5102
+  quote_or_summary: The Stag, flattered and unsuspecting, follows the Fox to the Lion's
+    den; the Lion springs at him but misjudges, tearing only his ears, and the Stag
+    escapes to the wood.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5102-5108
+  quote_or_summary: The Fox goes back to the wood a second time; the Stag, recovering
+    from fright, calls him a scoundrel and threatens to kill him with his horns for
+    trying to lure him to death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5108-5116
+  quote_or_summary: The Fox calls the Stag cowardly, says the Lion only meant to whisper
+    royal secrets into his ear, warns that the wolf may be made king instead, and
+    promises not to hurt him and to serve him faithfully.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 5116-5120
+  quote_or_summary: The Stag is persuaded to return; the Lion overpowers him and feasts
+    on his carcass, while the Fox secretly takes the brains when the Lion is not looking.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:7
+  type: quote
+  locator: 5120-5122
+  quote_or_summary: "“I don't think it's much use your looking for the brains: a creature
+    who twice walked into a Lion's den can't have got any.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied public-domain passage.
+    Motif labels use only supplied broad taxonomy references and should be reviewed
+    for fit. No separate comparison claims were made because the passage itself provides
+    no explicit cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources, motif indexes, or comparisons were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5083-l5122
+  passage_sha256=00f40a7dba2747e569d5d5b100c54faa98bb095cde3e146c3732e40c88ece120
+

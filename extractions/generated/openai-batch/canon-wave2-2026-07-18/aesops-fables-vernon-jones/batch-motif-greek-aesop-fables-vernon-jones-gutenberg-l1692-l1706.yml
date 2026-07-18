@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1692-l1706
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOY AND THE SNAILS / THE APES AND THE TWO TRAVELLERS / THE ASS AND HIS
+    BURDENS / THE SHEPHERD'S BOY AND THE WOLF; lines 1692-1706
+  start: '1692'
+  end: '1706'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: You cannot believe a liar even when he tells the truth.
+  summary: A shepherd boy repeatedly deceives villagers by falsely shouting that a
+    wolf is attacking the sheep. When a wolf really comes and the boy cries for help,
+    the villagers ignore him, and the wolf kills many sheep. The passage ends with
+    a moral about disbelief toward liars.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A shepherd boy tends his flock near a village.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy decides to deceive the villagers by pretending that a wolf is attacking
+    the sheep and shouts “Wolf! wolf!”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The villagers come running in response to the shout, and the boy laughs at
+    them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boy repeats the false alarm more than once, and the villagers find each
+    time that there is no wolf.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A wolf eventually does come, and the boy again cries “Wolf! wolf!” as loudly
+    as he can.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The villagers, accustomed to his earlier calls, take no notice of his cries
+    for help.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wolf kills sheep after sheep.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The explicit moral states that a liar is not believed even when telling the
+    truth.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Shepherd's Boy
+  description: A boy tending a flock near a village; he repeatedly gives a false wolf
+    alarm and later gives the same cry when a wolf actually comes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Villagers / people
+  description: People from the village who initially run to the boy’s call, discover
+    the hoax, and later ignore his real cries for help.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Wolf
+  description: A wolf falsely claimed to be present during the hoaxes and later actually
+    present, killing sheep.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Flock / sheep
+  description: The shepherd boy’s flock near the village; the sheep are the claimed
+    and actual targets of the wolf attack.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: shepherd / flock tender
+  assigned_to:
+  - fig:1
+  basis: The passage says the boy was tending his flock.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hoaxer / liar
+  assigned_to:
+  - fig:1
+  basis: He falsely claims a wolf is attacking and repeats the deception; the moral
+    refers to a liar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: true caller ignored after deception
+  assigned_to:
+  - fig:1
+  basis: When a wolf actually comes, he cries for help but is ignored because of his
+    previous calls.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: summoned responders
+  assigned_to:
+  - fig:2
+  basis: The people come running when the boy first shouts.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: nonresponders after repeated hoax
+  assigned_to:
+  - fig:2
+  basis: The people take no notice of the boy’s later cries for help.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: predator / attacker
+  assigned_to:
+  - fig:3
+  basis: The wolf actually comes and kills sheep.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: vulnerable flock / prey
+  assigned_to:
+  - fig:4
+  basis: The sheep are the alleged target of the false alarms and are later killed
+    by the wolf.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: wolf
+  literal_form: Wolf
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: flock / sheep
+  literal_form: flock; sheep
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: warning cry
+  literal_form: "“Wolf! wolf!”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: False wolf alarm near the village
+  summary: The shepherd boy tends his flock near a village and falsely shouts that
+    a wolf is attacking the sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Repeated hoaxes produce disbelief
+  summary: The boy repeats the false alarm more than once, and the villagers learn
+    that his calls do not indicate a real wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Real wolf and ignored cry
+  summary: When a wolf actually appears, the boy cries out, but the villagers ignore
+    him, and the wolf kills many sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Stated moral
+  summary: The fable states that a liar cannot be believed even when he tells the
+    truth.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: false alarm about a predator
+  taxonomy_refs: []
+  basis: The boy falsely shouts that a wolf is attacking the sheep, repeats the hoax,
+    and later faces a real wolf attack.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No narrower supplied taxonomy reference directly names this fable pattern.
+- id: motif:2
+  label: liar not believed when truthful
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative sequence culminates in villagers ignoring the boy’s true cry
+    after repeated deception, and the explicit moral states that a liar is not believed
+    even when telling the truth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference “wisdom” is broad; the specific liar-not-believed
+    motif is inferred from the passage and moral.
+- id: motif:3
+  label: loss of trust through repeated deception
+  taxonomy_refs:
+  - wisdom
+  basis: Repeated hoaxes cause the villagers to disregard the later genuine call for
+    help.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a plain motif label derived from the passage rather than a supplied
+    formal taxonomy ID.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1692-1706
+  quote_or_summary: A shepherd boy tends his flock near a village.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1692-1706
+  quote_or_summary: The boy pretends a wolf is attacking and shouts, “Wolf! wolf!”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1692-1706
+  quote_or_summary: The people come running, the boy laughs at them, and repeated
+    calls prove to be hoaxes with no wolf present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1692-1706
+  quote_or_summary: A wolf really comes; the boy cries out, but the villagers are
+    used to his calls and ignore his cries for help.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1692-1706
+  quote_or_summary: The wolf “killed off sheep after sheep.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1692-1706
+  quote_or_summary: "“You cannot believe a liar even when he tells the truth.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied fable passage. No comparison claims are
+    made because no explicit comparative target is supplied in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The provided locator label lists several nearby fables, but the supplied passage_text contains only “THE SHEPHERD'S BOY AND THE WOLF”; this record is limited to that passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1692-l1706
+  passage_sha256=0c2f3a6475b3dd636eabbf77e54938e133dc8f3f601abaf45efdb46fb32146e6
+

@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14544-l14648
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: MAN    WHO    FOUND    LION   IN    CAVE.  263 / MAN   WHO    FOUND    LION    IN    CAVE.  265
+    / MAN    WHO    FOUND    LION    IN    CAVE.  267 / MAN    WHO    FOUND    LION    IN    CAVE.  269;
+    lines 14544-14648
+  start: '14544'
+  end: '14648'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man in a cave hears breathing that does not sound human, feels hair,
+    realizes that a lion is sleeping there, and turns back quietly. He tells other
+    people to watch for the lion. The lion follows his spoor or scent to a house,
+    seeks the man, and threatens the people until daybreak. When the sun rises, the
+    lion leaves. The supplied range then begins a new section titled “Certain Hunting
+    Observances, called !nanna-sse,” with attribution and transcribed Katkop-dialect
+    text.
+  language: English with transcribed Katkop-dialect material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker hears breathing in the cave that does not sound like a man.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker feels gently about while still holding his things, touches hair,
+    and becomes aware that a lion is sleeping sitting in the cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After recognizing the lion, the speaker turns softly back.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The man tells the other people about the lion and says they must watch for
+    it because it will come after finding his spoor.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lion seeks the man, asks where he is, and follows the man’s spoor or scent
+    to a house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The lion threatens the people until daybreak and then goes away when the sun
+    rises.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage range then shifts to a separate section titled “Certain Hunting
+    Observances, called !nanna-sse,” attributed to Diajkwain, who heard it from his
+    mother, +kamme-an.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the man / speaker
+  description: A man who enters or is in the cave, discovers the sleeping lion by
+    touch, retreats, and later is sought by the lion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the lion
+  description: A lion sleeping sitting in the cave; later it follows the man’s spoor
+    or scent, seeks him at a house, threatens the people, and leaves at sunrise.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the other people
+  description: People who are told about the lion, told to watch for it, and threatened
+    by it until daybreak.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: cave entrant and witness
+  assigned_to:
+  - fig:1
+  basis: The man hears non-human breathing in the cave, feels hair, recognizes a lion,
+    and turns back.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: person sought by the lion
+  assigned_to:
+  - fig:1
+  basis: The lion asks where the man is and follows the scent of his spoor to the
+    house.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cave-sleeping animal
+  assigned_to:
+  - fig:2
+  basis: The lion is described as sleeping, sitting in the cave.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: pursuer and threatener
+  assigned_to:
+  - fig:2
+  basis: The lion seeks the man by spoor or scent, threatens the people, and leaves
+    at sunrise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: warned people
+  assigned_to:
+  - fig:3
+  basis: The other people are told to watch for the lion and are threatened by it
+    until daybreak.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: spoor or scent-trail
+  literal_form: the man’s spoor and scent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sunrise
+  literal_form: daybreak and the rising sun
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Discovery in the cave
+  summary: The man hears non-human breathing in the cave, feels hair, realizes a lion
+    is sleeping there, and retreats quietly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning and spoor pursuit
+  summary: The man warns the other people to watch for the lion, and the lion seeks
+    him by following his spoor or scent to a house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Threat ends at daybreak
+  summary: The lion threatens the people until daybreak, then leaves because the sun
+    is rising.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Dangerous animal discovered inside a cave
+  taxonomy_refs: []
+  basis: The man hears unfamiliar breathing in the cave, touches hair, and realizes
+    a lion is sleeping there.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader taxonomy motif is assigned; the passage only supports the literal
+    cave encounter.
+- id: motif:2
+  label: Predator tracks a person by spoor or scent to a dwelling
+  taxonomy_refs: []
+  basis: The lion seeks the man after finding his spoor, and the scent of the spoor
+    is said to cease at the house.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state a comparative tradition or wider motif family.
+- id: motif:3
+  label: Daybreak or sunrise ends a predator’s threat
+  taxonomy_refs: []
+  basis: The lion threatens the people until daybreak and then leaves because the
+    sun is rising.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The text gives a practical explanation about lions and daylight; no cosmological
+    sun motif is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14544-14560; page 269; text nos. 4919-4921
+  quote_or_summary: The speaker hears breathing unlike a man, feels gently while holding
+    his things, touches hair, realizes a lion is sleeping sitting in the cave, and
+    turns back softly.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 14561-14578; page 269; text nos. 4922-4924
+  quote_or_summary: The man tells the other people; they must watch for the lion because
+    it will come after finding his spoor. The lion seeks him, asks where he is, and
+    follows the scent of his spoor to a house.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 14579-14591; page 269; text nos. 4925-4926
+  quote_or_summary: At daybreak, as the sun rises, the lion goes away and leaves the
+    people; the text adds that a lion is unwilling to come when the sun stands in
+    the sky.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: citation
+  locator: lines 14592-14608; page 270; section VII-161 heading
+  quote_or_summary: 'A new section begins: “Certain Hunting Observances, called !nanna-sse,”
+    dictated in September 1875 in the Katkop dialect by Diajkwain, who heard it from
+    his mother, +kamme-an.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; brief citation/summary.
+- id: ev:5
+  type: note
+  locator: lines 14609-14648; text nos. 5301-5307
+  quote_or_summary: The supplied passage continues with transcribed Katkop-dialect
+    text for the next section; no English translation is included in the supplied
+    excerpt.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is high for the translated lion-in-cave portion. The line range
+    also includes the start of a new, untranslated/transcribed section, so no motif
+    claims are made from that material beyond its title and attribution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Candidate motifs are limited to the translated narrative portion. No comparison claims are included because the supplied passage itself does not support cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14544-l14648
+  passage_sha256=bc4860b9f4dcb7dfb9c6f29e1c0164a9b237d5654961b0f4c527f51e549e6887
+

@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4365-l4377
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: BACCHUS OR LIBER. / AIDES (PLUTO). / PLUTO. / PLUTUS.; lines 4365-4377
+  start: '4365'
+  end: '4377'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Plutus, the son of Demeter and a mortal called Iasion, was the god of wealth...
+  summary: The passage identifies Plutus as the son of Demeter and the mortal Iasion,
+    describes him as god of wealth, assigns him attributes of lameness, wings, blindness,
+    and foolishness, explains these attributes through the indiscriminate distribution
+    of wealth, and notes that his subterranean abode led in later times to confusion
+    with Aides.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Plutus is identified as the son of Demeter and a mortal named Iasion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plutus is identified as the god of wealth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plutus is represented as lame when he appears and winged when he departs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Plutus is said to be blind and foolish because he gives gifts without discrimination,
+    often to unworthy recipients.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Plutus was believed to dwell in the bowels of the earth.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that, in later times, Aides became confounded with Plutus,
+    probably because of Plutus's subterranean abode.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Plutus
+  description: Son of Demeter and the mortal Iasion; god of wealth; represented as
+    lame on arrival, winged on departure, blind and foolish in his giving of wealth.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Demeter
+  description: Named as the mother of Plutus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Iasion
+  description: A mortal named as the father of Plutus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Aides
+  description: A divinity who, according to the passage, became confounded with Plutus
+    in later times.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: god of wealth
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Plutus the god of wealth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: indiscriminate giver of gifts
+  assigned_to:
+  - fig:1
+  basis: The passage says Plutus bestows his gifts without discrimination and often
+    upon unworthy objects.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subterranean dweller
+  assigned_to:
+  - fig:1
+  basis: The passage says Plutus had his abode in the bowels of the earth.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divine mother
+  assigned_to:
+  - fig:2
+  basis: Demeter is named as Plutus's mother.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: mortal father
+  assigned_to:
+  - fig:3
+  basis: Iasion is named as a mortal and as Plutus's father.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: later-confounded divinity
+  assigned_to:
+  - fig:4
+  basis: The passage says Aides became confounded with Plutus in later times.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wealth
+  literal_form: wealth and gifts bestowed by Plutus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: lameness on arrival
+  literal_form: Plutus represented as lame when he makes his appearance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wings on departure
+  literal_form: Plutus represented as winged when he takes his departure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: blindness
+  literal_form: Plutus supposed to be blind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bowels of the earth
+  literal_form: subterranean abode in the bowels of the earth
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Plutus and his attributes
+  summary: Plutus is introduced through his parentage, function as god of wealth,
+    physical representations, and manner of distributing gifts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Subterranean abode and later confusion with Aides
+  summary: Plutus is said to dwell in the bowels of the earth, which the passage presents
+    as the probable reason Aides later became confounded with him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine-mortal parentage of a deity
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Plutus is described as the son of the goddess Demeter and the mortal Iasion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief genealogical statement and does not narrate
+    a birth or parent-child episode.
+- id: motif:2
+  label: Blind distribution of wealth
+  taxonomy_refs: []
+  basis: Plutus is described as blind and foolish because he gives wealth without
+    discrimination, often to unworthy recipients.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this wealth-distribution
+    pattern.
+- id: motif:3
+  label: Subterranean wealth divinity associated with underworld god
+  taxonomy_refs: []
+  basis: Plutus is said to dwell in the bowels of the earth, and this is given as
+    the probable reason he was later confounded with Aides.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states later confusion but gives no extended mythic narrative
+    of underworld activity.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Plutus and Aides on the
+    basis of later confusion between the two divinities, probably due to Plutus's
+    abode in the bowels of the earth.
+  claim_level: same_motif
+  target: Aides / Pluto as a nearby Greek-Roman underworld divinity
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames the connection as later confusion and supplies only
+    one probable reason; it does not state full identity or shared cult function.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4365-4368
+  quote_or_summary: "“Plutus, the son of Demeter and a mortal called Iasion, was the
+    god of wealth”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4367-4369
+  quote_or_summary: Plutus is represented as lame when he appears and winged when
+    he departs.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4369-4371
+  quote_or_summary: Plutus is described as blind and foolish because he gives his
+    gifts indiscriminately, often to unworthy recipients.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4373-4376
+  quote_or_summary: Plutus was believed to live in the bowels of the earth, which
+    is presented as the probable reason Aides later became confounded with him.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a concise handbook description. Literal attributes and relationships
+    are clear; motif assignment is limited because no extended narrative is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the provided symbol taxonomy are directly present; subterranean abode is recorded without assigning an unsupported taxonomy symbol.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4365-l4377
+  passage_sha256=aa030df0a2a7b5ecf7a5ea33b38c431c1a86110b8a9e3d45af1c8338e8330e08
+

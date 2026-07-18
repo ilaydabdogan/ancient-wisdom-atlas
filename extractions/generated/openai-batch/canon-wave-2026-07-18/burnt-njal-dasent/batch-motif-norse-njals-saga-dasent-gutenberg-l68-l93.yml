@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l68-l93
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga / THE STORY
+    OF BURNT NJAL; lines 68-93'
+  start: '68'
+  end: '93'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: "“Fair is Lithe... and now I will ride back home, and not fare abroad at
+    all.”"
+  summary: The passage is a title-page section for Dasent’s translation of Njal’s
+    Saga and includes a quoted speaker praising Lithe, noting harvest-ready fields
+    and a mown home meadow, and deciding to ride home rather than go abroad.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Story of Burnt Njal, translated from
+    the Icelandic of Njal’s Saga by George Webbe Dasent.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quoted first-person speaker describes Lithe as exceptionally fair.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The quoted description says the corn fields are white to harvest and the home
+    mead is mown.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quoted speaker says they will ride back home and will not fare abroad
+    at all.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person speaker
+  description: The speaker within the opening quotation who praises Lithe and states
+    an intention to ride home rather than go abroad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker choosing homeward return
+  assigned_to:
+  - fig:1
+  basis: The figure speaks in the first person and says they will ride back home and
+    not fare abroad.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Lithe
+  literal_form: A place named Lithe, described as fair.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: harvest-ready corn fields
+  literal_form: Corn fields described as white to harvest.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mown home mead
+  literal_form: The home mead described as mown.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Opening quotation on Lithe and return home
+  summary: An unnamed speaker praises the beauty of Lithe, observes harvest and mowing
+    at home, and resolves to ride back home rather than travel abroad.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: return home instead of going abroad
+  taxonomy_refs:
+  - return
+  basis: The quoted speaker explicitly says they will ride back home and not fare
+    abroad.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an isolated title-page quotation; no wider journey episode is
+    present in the supplied passage.
+- id: motif:2
+  label: fertile homeland at harvest
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes fields ready for harvest and a mown home mead in connection
+    with the speaker’s attachment to Lithe.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The seasonal or symbolic function is only a candidate inference from agricultural
+    imagery; the passage does not explain a ritual or mythic cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 68-93
+  quote_or_summary: Title-page material names The Story of Burnt Njal, identifies
+    it as from the Icelandic of Njal’s Saga, and credits Sir George Webbe Dasent.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; supplied metadata states full text and training
+    use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 68-93, opening quotation
+  quote_or_summary: "“Fair is Lithe: so fair that it has never seemed to me so fair;
+    the corn fields are white to harvest, and the home mead is mown: and now I will
+    ride back home, and not fare abroad at all.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; supplied metadata states full text and training
+    use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the supplied passage is a title-page quotation without broader narrative context.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Generated only from the provided passage and metadata.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l68-l93
+  passage_sha256=ef0f786ac26ef3d610b3248dd39bfff1278a24b544ed43b3a5926b9ab655ae9e
+

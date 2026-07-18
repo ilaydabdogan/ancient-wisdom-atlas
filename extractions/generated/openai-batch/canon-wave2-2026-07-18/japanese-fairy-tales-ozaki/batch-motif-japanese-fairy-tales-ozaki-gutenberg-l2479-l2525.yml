@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l2479-l2525
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF URASHIMA TARO, THE FISHER LAD / THE FARMER AND THE BADGER /
+    THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE STORY OF THE MAN WHO DID NOT WISH
+    TO DIE; lines 2479-2525
+  start: '2479'
+  end: '2525'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sentaro dreams that a storm destroys his paper crane and leaves him in
+    the sea, where a shark threatens him. He awakens before a shrine and receives
+    a visit from a messenger sent by Jofuku, who explains that the dream was a test
+    of Sentaro's desire to avoid death. The messenger tells him to abandon the search
+    for hermit life and the Elixir of Life, return home, fulfill family and ancestral
+    duties, and study a book of precepts. Sentaro obeys and prospers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A storm makes the wonderful paper crane damp and crumpled, and the crane falls
+    into the sea with Sentaro.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sentaro fears drowning, calls loudly to Jofuku, sees no ship, and swallows
+    sea-water while trying to stay afloat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A monstrous shark swims toward Sentaro, opens its mouth as if to devour him,
+    and Sentaro screams again for Jofuku to rescue him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sentaro awakens from his own screams and finds that he had fallen asleep before
+    the shrine during a long prayer; the adventures were a dream.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A bright light approaches, and a messenger stands in the light holding a book.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The messenger says he was sent by Jofuku, who allowed Sentaro in a dream to
+    see the land of Perpetual Life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The messenger says Jofuku tested Sentaro by allowing him to drop into the
+    sea and sending a shark to swallow him, and that Sentaro's cry for help showed
+    his desire for death was not real.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The messenger tells Sentaro that becoming a hermit or finding the Elixir of
+    Life is not for him, and instructs him to return home, live industriously, observe
+    ancestral anniversaries, provide for his children, and abandon the wish to escape
+    death.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The messenger gives Sentaro a book of precepts, disappears, and Sentaro returns
+    home, changes his conduct, follows the book's lessons, and prospers with his household.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sentaro
+  description: The man who falls with the paper crane in the dream, awakens before
+    the shrine, receives instruction, returns home, and prospers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Jofuku
+  description: The named figure to whom Sentaro prays and who, according to the messenger,
+    sends the messenger, permits the dream, and tests Sentaro.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Messenger or angel
+  description: A figure standing in bright light, holding a book, speaking on behalf
+    of Jofuku, giving Sentaro precepts, and disappearing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Monstrous shark
+  description: A shark that swims toward Sentaro, opens its mouth to devour him, and
+    is later said to have been sent as part of Jofuku's test.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: tested seeker of escape from death
+  assigned_to:
+  - fig:1
+  basis: Sentaro's dream and the messenger's speech frame his wish for deathlessness,
+    hermit life, or the Elixir of Life as something being tested and corrected.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sender and tester
+  assigned_to:
+  - fig:2
+  basis: The messenger says Jofuku sent him, permitted the dream, allowed Sentaro
+    to drop into the sea, and sent the shark.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: supernatural instructor
+  assigned_to:
+  - fig:3
+  basis: The messenger appears in light, speaks for Jofuku, gives moral instructions,
+    and gives Sentaro a book of precepts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: threatening devourer in the test
+  assigned_to:
+  - fig:4
+  basis: The shark opens its mouth to devour Sentaro and is later explained as sent
+    to swallow him during the test.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: paper crane vehicle
+  literal_form: wonderful paper crane
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea peril
+  literal_form: sea and sea-water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: devouring shark
+  literal_form: monstrous shark with open mouth
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: shrine of prayer and awakening
+  literal_form: shrine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bright light of arrival
+  literal_form: bright light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: book of precepts
+  literal_form: book held and given by the messenger
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:7
+  label: land of Perpetual Life
+  literal_form: land of Perpetual Life seen in a dream
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Elixir of Life
+  literal_form: Elixir of Life named as an object of vain desire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dream sea peril
+  summary: A storm ruins the paper crane; Sentaro falls into the sea, fears drowning,
+    calls on Jofuku, and is threatened by a shark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Awakening before the shrine
+  summary: Sentaro awakens from his screams and realizes that his frightful adventures
+    occurred in a dream while he slept before the shrine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Messenger's explanation of the test
+  summary: A messenger appears in light with a book and explains that Jofuku allowed
+    Sentaro to see the land of Perpetual Life in a dream and then tested his professed
+    desire for death by sea and shark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Instruction, return, and prosperity
+  summary: The messenger tells Sentaro to abandon the search for hermit life, immortality,
+    and escape from death; he gives him a book of precepts, after which Sentaro returns
+    home, reforms his life, and prospers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: failed quest to escape death
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage explicitly rejects Sentaro's wish to become a hermit, find the
+    Elixir of Life, or escape death, and says that no man can do so.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as moral instruction rather than a successful
+    immortality quest.
+- id: motif:2
+  label: dream-vision as supernatural test
+  taxonomy_refs:
+  - initiation
+  basis: The messenger says Jofuku permitted Sentaro to see the land of Perpetual
+    Life in a dream and then tested him by sea and shark.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage calls the ordeal a test, but it does not use formal initiation
+    language.
+- id: motif:3
+  label: supernatural messenger delivers moral wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: A messenger appears in light, explains the dream, instructs Sentaro, gives
+    him a book of precepts, and his later prosperity follows his observance of the
+    lessons.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage's term for the figure shifts from messenger to angel; no further
+    identity is given.
+- id: motif:4
+  label: return to household duties after extraordinary journey
+  taxonomy_refs:
+  - return
+  basis: After the dream and instruction, Sentaro is told to return to his paternal
+    home and later returns to his old home, gives up vain wishes, and prospers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The return is from a dream-ordeal and shrine setting, not necessarily
+    from a physical journey in the final explanation.
+- id: motif:5
+  label: supernatural trial of declared desire
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jofuku is said to test Sentaro's request by letting him fall into the sea
+    and sending a shark; Sentaro's cries reveal that his desire for death was not
+    real.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the action as a trial or test rather than an explicit
+    judgment or punishment.
+- id: motif:6
+  label: threat of devouring sea monster
+  taxonomy_refs: []
+  basis: In the dream, a monstrous shark approaches Sentaro and opens its mouth ready
+    to devour him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The shark is a literal threat in the narrated dream and later part of
+    the test; no broader monster taxonomy is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2479-2488
+  quote_or_summary: A storm ruins the paper crane, Sentaro falls into the sea, calls
+    on Jofuku while struggling in the water, and a monstrous shark opens its mouth
+    to devour him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 2490-2493
+  quote_or_summary: Sentaro awakens from his screams before the shrine and learns
+    that the extraordinary adventures occurred during a dream while he slept in prayer.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2495-2496
+  quote_or_summary: A bright light approaches; within it stands a messenger holding
+    a book and addressing Sentaro.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2498-2504
+  quote_or_summary: The messenger says Jofuku sent him, permitted Sentaro to see the
+    land of Perpetual Life in a dream, and tested him by the sea and shark, revealing
+    that his desire for death was not real.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2506-2514
+  quote_or_summary: The messenger says it is vain for Sentaro to become a hermit,
+    find the Elixir of Life, or escape death, and advises him to return home, live
+    industriously, honor ancestors, and provide for children.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 2516-2525
+  quote_or_summary: The messenger gives Sentaro a book of precepts, disappears, and
+    Sentaro returns home, gives up his old vain wishes, follows the lessons, and prospers
+    with his house.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    candidate classifications using the supplied taxonomy and require human review.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external parallels or taxonomy IDs beyond the supplied lists were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l2479-l2525
+  passage_sha256=8963e9dc1b9bfdf999079b7de243553c7cc2aa2cff6d50cb94babbd2b6a4039b
+

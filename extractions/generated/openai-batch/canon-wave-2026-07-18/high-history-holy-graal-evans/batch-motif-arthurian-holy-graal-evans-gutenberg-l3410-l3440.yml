@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l3410-l3440
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: VIII. / BRANCH V. / INCIPIT. / TITLE I.; lines 3410-3440
+  start: '3410'
+  end: '3440'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Messire Gawain exchanges mounts with a burgess, takes leave, and rides
+    into a great forest until sundown. In a broad meadow he finds an ornate white
+    and red tent with silk, ivory, gold, and golden eagles. He leaves his horse, spear,
+    and shield outside, enters, observes a richly furnished couch, paired seats, candles,
+    and a set table with vessels, then sits armed on the couch and wonders why the
+    tent is richly prepared but empty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The burgess dismounts, mounts Messire Gawain's horse, while Gawain mounts
+    the burgess's horse, and they part.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Messire Gawain enters a large forest beyond the city and rides until sundown
+    without finding castle or city.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gawain finds a broad meadow in the midst of the forest, described with a spring-like
+    stream in the middle.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the edge of the meadow near the forest, Gawain sees a large tent with silk
+    cords, ivory pegs, golden pole-tops, and a golden eagle on each pole.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tent is white around the outside and has a red samite-like silk hanging
+    above.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gawain dismounts before the tent, removes his horse's bridle, lets the horse
+    feed, and leans his spear and shield outside.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Inside the tent Gawain sees a couch of silk and gold, coverings of ermine
+    and vair, rich pillows, silken cloths on the ground, ivory seats, cushions, and
+    two gold candlesticks with two tall wax tapers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A table of ivory, gold bands, and precious stones stands in the midst of the
+    tent, set with a napkin, silver basin, ivory-handled knife, and golden vessels.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Gawain sits on the rich couch while still armed and marvels that the richly
+    furnished tent contains no person.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Gawain is minded to disarm himself after sitting in the tent.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Messire Gawain
+  description: An armed traveler who exchanges mounts with a burgess, rides into the
+    forest, finds the tent, examines it, and sits on the couch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: the burgess
+  description: A burgess who dismounts, mounts Messire Gawain's horse, and parts from
+    him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gawain's horse or mount
+  description: The horse associated with Gawain after the exchange; Gawain removes
+    its bridle and lets it feed on grass before the tent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: armed forest traveler and tent-discoverer
+  assigned_to:
+  - fig:1
+  basis: Gawain rides into the forest, reaches the tent, leaves spear and shield outside,
+    enters, and sits armed inside.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: departing burgess in mount exchange
+  assigned_to:
+  - fig:2
+  basis: The burgess exchanges mounts with Gawain and then Gawain takes leave of him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mount left to graze
+  assigned_to:
+  - fig:3
+  basis: Gawain removes the horse's bridle and lets it feed on the grass outside the
+    tent.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great forest
+  literal_form: a right great forest beyond the city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: meadow with spring-like stream
+  literal_form: a broad meadow in the forest with what is described as the stream
+    of a spring in the midst
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ornate white and red tent
+  literal_form: large tent with silk cords, ivory pegs, gold pole-tops, white exterior,
+    and red samite-like hanging
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: golden eagles on tent poles
+  literal_form: a golden eagle upon each golden pole-top of the tent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spear and shield outside the tent
+  literal_form: Gawain's spear and shield leaned without the tent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: rich couch and fragrant pillows
+  literal_form: couch of silk and gold, ermine and vair coverlid, rich pillows giving
+    a balm-like sweet smell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: paired seats and tapers
+  literal_form: two ivory seats, two cushions, two golden candlesticks, and two tall
+    waxen tapers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: set table and vessels
+  literal_form: ivory and gold-banded table with precious stones, napkin, silver basin,
+    ivory-handled knife, and golden vessels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Mount exchange and departure
+  summary: The burgess and Gawain exchange mounts; Gawain takes leave and rides into
+    the forest beyond the city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of the meadow tent
+  summary: After riding without finding castle or city, Gawain reaches a meadow in
+    the forest and sees an ornate tent near the forest edge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Inspection of the empty rich tent
+  summary: Gawain leaves his horse and arms outside, inspects the luxurious furnishings
+    within, sits on the couch still armed, and wonders that no one is present.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Knight's departure into the forest
+  taxonomy_refs:
+  - departure
+  basis: Gawain takes leave of the burgess and rides into a great forest beyond the
+    city until sundown.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wider narrative context of the departure is outside the provided passage.
+- id: motif:2
+  label: Questing knight encounters a mysterious empty pavilion
+  taxonomy_refs:
+  - mystical_quest
+  basis: Gawain rides through the forest, finds an elaborately furnished tent, enters
+    it, and marvels that no one is inside.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage establishes marvel and absence, but does not yet reveal the
+    tent's owner or supernatural significance.
+- id: motif:3
+  label: Prepared hospitality without visible host
+  taxonomy_refs: []
+  basis: The tent contains a rich couch, cushions, candles, and a table set with napkin,
+    basin, knife, and vessels, yet Gawain sees no person there.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No actual act of hospitality, meal, or host appears in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3410-3415
+  quote_or_summary: The burgess and Gawain exchange horses; Gawain takes leave, enters
+    a great forest beyond the city, and rides until sundown without finding a castle
+    or city.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 3415-3418
+  quote_or_summary: Gawain finds a broad meadow in the forest, described with a spring-like
+    stream in its midst.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 3418-3425
+  quote_or_summary: At the foot of the meadow near the forest he sees a large tent
+    with silk cords, ivory pegs, gold pole-tops, golden eagles, a white exterior,
+    and red samite-like silk above.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 3425-3428
+  quote_or_summary: Gawain goes to the tent, dismounts, unbridles his horse, lets
+    it feed, leans spear and shield outside, and looks within.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 3428-3436
+  quote_or_summary: Inside are a rich couch of silk and gold, ermine and vair covering,
+    fragrant pillows, silken cloths, ivory seats with cushions, and two gold candlesticks
+    with two tall wax tapers.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 3436-3439
+  quote_or_summary: A table in the middle of the tent is made of ivory, gold bands,
+    and precious stones, and is set with napkin, silver basin, ivory-handled knife,
+    and golden vessels.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 3439-3440
+  quote_or_summary: Gawain sits armed on the rich couch, marvels that the richly furnished
+    tent contains no soul, and is minded to disarm.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are cautious and passage-limited; no explicit intertextual comparison
+    is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l3410-l3440
+  passage_sha256=d83cc8454773b83e20b9d3742c63d3922d71f0f92449683b186ec30e6a8c3e1f
+

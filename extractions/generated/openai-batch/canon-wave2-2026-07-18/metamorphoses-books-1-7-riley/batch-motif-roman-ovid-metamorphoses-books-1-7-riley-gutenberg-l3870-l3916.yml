@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l3870-l3916
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3870-3916
+  start: '3870'
+  end: '3916'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“he turned his perjured breast into a hard stone, which even now is called
+    the ‘Touchstone’”"
+  summary: Mercury bribes an old man to deny seeing stolen herds, then returns in
+    altered form and voice to test him with a greater reward. The old man reveals
+    the herds’ location, and Mercury turns him into a hard stone later called the
+    Touchstone.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mercury takes the stranger aside, asks him to deny seeing the herds if questioned,
+    and gives him a handsome cow as a reward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After receiving the cow, the stranger says Mercury may go safely and points
+    to a stone, saying that the stone should first mention Mercury’s theft.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mercury feigns leaving, then returns after changing his form and his voice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the changed form, Mercury asks the countryman to speak about any cows he
+    has seen and offers a female with its bull as a reward.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the reward is doubled, the old man says the cattle are beneath the hills,
+    and the passage states that they really are there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mercury accuses the old man of betraying him to himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mercury turns the old man’s perjured breast into a hard stone called the Touchstone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The footnote reports uncertainty over whether “index” means a general touchstone
+    or the individual stone into which Battus was changed, and notes that “Index”
+    was a name of infamy.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mercury
+  description: Named as Mercury, also called the son of Jupiter and the son of Atlas;
+    he bribes the old man, changes form and voice, tests him, and transforms him into
+    stone.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the stranger / old man / Battus
+  description: A stranger later called the old man; he receives a cow, promises silence,
+    reveals the hidden herds after a doubled reward, and is turned into stone. The
+    footnote names him Battus.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: buyer of silence
+  assigned_to:
+  - fig:1
+  basis: Mercury asks the stranger to deny seeing the herds and gives him a cow as
+    reward.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disguised tester
+  assigned_to:
+  - fig:1
+  basis: Mercury returns after changing his form and voice and asks again about the
+    cows and the theft.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: transforming punisher
+  assigned_to:
+  - fig:1
+  basis: Mercury turns the old man’s perjured breast into a hard stone.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: bribed witness
+  assigned_to:
+  - fig:2
+  basis: The old man accepts the first reward and later speaks after the reward is
+    doubled.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: petrified perjurer
+  assigned_to:
+  - fig:2
+  basis: The passage calls his breast perjured and says it is turned into a hard stone.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stone witness / Touchstone
+  literal_form: A stone first invoked as the imagined teller of Mercury’s theft, and
+    later the hard stone called the Touchstone into which the old man is changed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: cattle reward and hidden herd
+  literal_form: A handsome cow, a female with its bull, and herds or cows hidden beneath
+    the hills.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: changed form and voice
+  literal_form: Mercury’s altered bodily form and altered voice during the second
+    inquiry.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hills concealing the herds
+  literal_form: The hills beneath which the old man says the cattle are located.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bribe for silence
+  summary: Mercury asks the stranger to deny seeing the herds, gives him a cow, and
+    the stranger points to a stone as the only possible witness to the theft.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Disguised inquiry and doubled reward
+  summary: Mercury returns in changed form and voice, asks about the cows, and offers
+    an increased cattle reward; the old man reveals that the cattle are beneath the
+    hills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Betrayal and petrification
+  summary: Mercury names the old man’s act as betrayal and transforms his perjured
+    breast into a hard stone called the Touchstone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Disguised return to test a witness
+  taxonomy_refs:
+  - shapeshifter
+  basis: Mercury pretends to leave, returns with changed form and voice, and questions
+    the old man about the theft.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is based on the explicit change of form and voice;
+    the passage gives only this brief testing episode.
+- id: motif:2
+  label: Cattle theft concealed by bribed silence
+  taxonomy_refs:
+  - sacred_theft
+  basis: Mercury asks the stranger to deny seeing the herds and the passage refers
+    to Mercury’s theft; the cattle are hidden beneath the hills.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the theft’s aftermath, not the stealing itself; the
+    “sacred” aspect depends on Mercury’s identity rather than an explicit ritual framing.
+- id: motif:3
+  label: Petrification as punishment for betrayal or perjury
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the old man reveals the herds’ location, Mercury calls him treacherous
+    and turns his perjured breast into stone.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The judgment is enacted by Mercury, but the passage does not present a
+    formal trial or court scene.
+- id: motif:4
+  label: Origin of a named stone through metamorphosis
+  taxonomy_refs: []
+  basis: The old man is transformed into a hard stone said to be called the Touchstone,
+    with a footnote discussing whether it is a general or individual stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly names etiological metamorphosis
+    into stone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3870-3874
+  quote_or_summary: Mercury asks the stranger to deny seeing the herds if questioned
+    and gives him a handsome cow as reward.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 3874-3876
+  quote_or_summary: The stranger accepts the cow, says Mercury may go safely, and
+    points to a stone as the first thing that should mention the theft.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 3876-3881
+  quote_or_summary: Mercury pretends to leave, returns after changing form and voice,
+    asks the countryman about cows passing that way, and offers a female with its
+    bull as reward.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 3881-3883
+  quote_or_summary: The old man, after the reward is doubled, says the cattle will
+    be beneath the hills, and the passage confirms they are there.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:5
+  type: quote
+  locator: lines 3883-3887
+  quote_or_summary: Mercury says, “Dost thou, treacherous man, betray me to my own
+    self?” and turns the old man’s “perjured breast into a hard stone” called the
+    “Touchstone.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 3908-3916, Footnote 82
+  quote_or_summary: The note states that commentators doubt whether “index” means
+    a general touchstone or the individual stone into which Battus was changed, and
+    adds that “Index” was a name of infamy comparable to a spy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif mapping is strongest for disguise/change
+    of form and petrification punishment; sacred-theft classification is more cautious
+    because the passage gives only the aftermath of the theft. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l3870-l3916
+  passage_sha256=0ed16bc8c01b9c36ec5fed967065bfb5d66d32b7c21dde34839288247208d7d9
+

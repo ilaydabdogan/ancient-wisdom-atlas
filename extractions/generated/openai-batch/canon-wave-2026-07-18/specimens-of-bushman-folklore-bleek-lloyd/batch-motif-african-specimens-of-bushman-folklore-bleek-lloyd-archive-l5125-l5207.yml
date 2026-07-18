@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5125-l5207
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    ORIGIN    OF    DEATH.  59 / THE    ORIGIN    OF    DEATH.  61 / THE    ORIGIN    OF   DEATH.  63
+    / THE    ORIGIN    OF   DEATH.  65; lines 5125-5207
+  start: '5125'
+  end: '5207'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In this Moon and Hare version of the origin of death, the narrator says
+    people should have resembled the Moon and should not have died altogether. The
+    hare's story, actions, and contradiction of the Moon are named as the cause of
+    the Moon's curse on people, who now die altogether and go away. The Moon also
+    curses the hare to lie in bare places, without bush or tree shelter, where vermin
+    bite him; this explains why the hare springs up and shakes his head to dislodge
+    vermin. An editorial note identifies the passage as one among different versions
+    of the Moon and Hare story called "The Origin of Death."
+  language: English, with a subsequent untranslated transcribed Kathop-dialect excerpt
+    in the supplied passage
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People are said to have been meant to resemble the Moon and not altogether
+    die.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hare's doings and the story told by the hare are named as the cause for
+    the Moon cursing people, after which people die altogether and go away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hare did not assent to the Moon and contradicted the Moon when the Moon
+    intended to tell him about the matter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Moon says the hare should lie on a bare place where vermin bite him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Moon says the hare should not inhabit bushes and should not lie under
+    a tree.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hare is described as springing up and shaking his head so that vermin
+    fall from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An editorial note says this is one of different versions of the Moon and Hare
+    story called "The Origin of Death."
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A personified Moon who had said people should not altogether die, is
+    contradicted by the hare, curses people, and speaks a curse concerning the hare.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: hare
+  description: The animal whose story and actions are blamed for human complete death;
+    he does not assent to and contradicts the Moon, and is cursed to lie in bare places
+    and suffer vermin.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: people / we
+  description: The human collective who should have resembled the Moon and not altogether
+    died, but who die altogether and go away after the Moon's curse.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: vermin
+  description: Creatures that bite the hare and hang in his head in the curse and
+    its etiological explanation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: speaker of intended non-total death
+  assigned_to:
+  - fig:1
+  basis: The Moon had formerly said that people should not altogether die.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: curser
+  assigned_to:
+  - fig:1
+  basis: The Moon is said to curse people, and then speaks the curse concerning the
+    hare's exposed resting place and vermin.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: contradictor of the Moon
+  assigned_to:
+  - fig:2
+  basis: The hare did not assent to the Moon and contradicted the Moon.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named cause of complete human death
+  assigned_to:
+  - fig:2
+  basis: The hare's doings and story are stated to be the reason people die altogether
+    and go away.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cursed exposed animal
+  assigned_to:
+  - fig:2
+  basis: The Moon says the hare should lie in a bare place, not under a tree or in
+    bushes, and be bitten by vermin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: human collective whose mortality is explained
+  assigned_to:
+  - fig:3
+  basis: The narrator states that people should have resembled the Moon but now die
+    altogether because of the curse.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: biting infestation in the hare's curse
+  assigned_to:
+  - fig:4
+  basis: Vermin are said to bite the hare and hang in his head, prompting the hare
+    to shake them out.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Moon as model for non-total death
+  literal_form: the Moon, which people should have resembled
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bare place without tree or bush shelter
+  literal_form: a bare place; not in the bushes; not under a tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: vermin on the hare
+  literal_form: vermin biting the hare and hanging in his head
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: hare's head-shaking
+  literal_form: the hare springs up and shakes his head to make vermin fall
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Human complete death explained
+  summary: The narrator says people should have resembled the Moon and not died altogether,
+    but the hare's story and actions led to the Moon's curse so that people die altogether
+    and go away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moon curses the hare
+  summary: The Moon declares that the hare must lie in a bare place, without bush
+    or tree shelter, and be bitten by vermin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hare's head-shaking explained
+  summary: The hare springs up and shakes his head to dislodge the vermin hanging
+    in it.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Origin of complete human death through the hare's contradiction of the Moon
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage explicitly says people should have resembled the Moon and not
+    altogether died, but the hare's doings and contradiction caused the Moon's curse
+    and human complete death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage concerns the loss
+    of non-total death associated with the Moon, but the supplied excerpt does not
+    fully narrate a death-and-rebirth cycle.'
+- id: motif:2
+  label: Animal behavior explained by a curse
+  taxonomy_refs: []
+  basis: The Moon curses the hare to lie in bare places and suffer vermin; the passage
+    then explains the hare's head-shaking as an attempt to shake out the vermin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    list has no specific animal-etiology category.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note identifies this passage as one version within a set of
+    different Moon and Hare stories called "The Origin of Death."
+  claim_level: same_motif
+  target: different versions of the Moon and Hare story called "The Origin of Death"
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide the contents of the other versions, so
+    only the editorial identification of a shared story group is supported.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5193-5195
+  quote_or_summary: People should have resembled the Moon, and the Moon had formerly
+    said they should not altogether die; the hare's doings and story caused the Moon
+    to curse people, who now die altogether and go away.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5195-5196
+  quote_or_summary: The hare did not assent to the Moon and contradicted the Moon
+    when the Moon intended to tell him about the matter.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5196-51964
+  quote_or_summary: The Moon says the hare should lie on a bare place, be bitten by
+    vermin there, not inhabit bushes, and not lie under a tree.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5197-5198
+  quote_or_summary: The hare springs up and shakes his head so that vermin fall from
+    his head.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: editorial note following line 5198
+  quote_or_summary: An editorial note states that this is among different versions
+    of the Moon and Hare story called "The Origin of Death" and was selected because
+    of its opening prayer to the young Moon.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction from the English translated Origin of Death portion is
+    strong. Confidence is reduced because the supplied passage includes only the end
+    of that narrative and then begins a following section with untranslated transcribed
+    text, from which no motif details were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No motifs were extracted from the untranslated Kathop-dialect lines at the end of the supplied passage beyond noting that a new section begins.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5125-l5207
+  passage_sha256=563b8f4cd8dc9fea58e93d36e3c7a89bbb05bba305f8ea60975f7527161316e5
+

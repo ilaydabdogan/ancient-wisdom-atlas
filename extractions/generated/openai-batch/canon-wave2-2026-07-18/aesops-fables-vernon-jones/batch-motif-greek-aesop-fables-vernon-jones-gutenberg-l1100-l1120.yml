@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1100-l1120
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HORSE AND THE GROOM / THE WOLF AND THE LAMB / THE PEACOCK AND THE CRANE
+    / THE CAT AND THE BIRDS; lines 1100-1120
+  start: '1100'
+  end: '1120'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Peacock mocks a Crane for dull plumage, and the Crane answers
+    that she can fly into the clouds while the Peacock remains on the earth. In another,
+    a Cat disguises himself as a doctor and asks after sick Birds in an aviary, but
+    the Birds refuse him entry and say they will be well when he is gone. The passage
+    ends with a moral about disguise failing to deceive the wise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Peacock taunts a Crane about the dullness of the Crane's plumage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Peacock claims that her brilliant colours are finer than the Crane's feathers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Crane replies that the Peacock's colours are gayer, but says the Crane
+    can soar into the clouds while the Peacock is confined to the earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Cat hears that Birds in an aviary are ailing.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cat dresses as a doctor, brings professional instruments, appears at the
+    door, and asks about the Birds' health.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Birds answer without letting the Cat in and say they will do well when
+    they have seen the last of him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stated moral says that a villain may disguise himself but will not deceive
+    the wise.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Peacock
+  description: A Peacock with brilliant colours who taunts a Crane over plumage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Crane
+  description: A Crane with duller plumage who answers by contrasting her power of
+    flight with the Peacock's earthbound state.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Cat
+  description: A Cat who disguises himself as a doctor, carries instruments, and comes
+    to the aviary door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Birds
+  description: Ailing Birds in an aviary who refuse to let the disguised Cat enter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: taunting boaster
+  assigned_to:
+  - fig:1
+  basis: The Peacock taunts the Crane and praises her own brilliant colours.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: respondent asserting practical ability
+  assigned_to:
+  - fig:2
+  basis: The Crane replies by admitting the Peacock's gayer colours but emphasizing
+    her own ability to soar into the clouds.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: disguised visitor
+  assigned_to:
+  - fig:3
+  basis: The Cat gets himself up as a doctor, brings instruments, and presents himself
+    at the door.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wary respondents
+  assigned_to:
+  - fig:4
+  basis: The Birds answer without admitting the Cat and indicate they want him gone.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: brilliant plumage
+  literal_form: The Peacock's brilliant colours and the Crane's duller feathers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: flight into clouds
+  literal_form: The Crane's ability to soar into the clouds contrasted with the Peacock
+    being confined to earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: doctor disguise
+  literal_form: The Cat's doctor appearance and professional instruments.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: aviary door
+  literal_form: The door of the aviary where the Cat presents himself and the Birds
+    refuse entry.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Peacock and Crane compare plumage and flight
+  summary: The Peacock mocks the Crane's dull feathers, and the Crane answers that
+    flight into the clouds is superior to the Peacock's earthbound beauty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cat disguised as doctor is refused by Birds
+  summary: The Cat comes to the aviary as a supposed doctor with instruments, asks
+    after the Birds' health, and is denied entry by Birds who say they will be well
+    when he is gone.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: outer splendor contrasted with practical ability
+  taxonomy_refs: []
+  basis: The Peacock's superior colours are contrasted with the Crane's superior flight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable pattern stated within the passage; no supplied taxonomy
+    family directly names it.
+- id: motif:2
+  label: disguised threat rejected by the wise
+  taxonomy_refs:
+  - wisdom
+  basis: The Cat disguises himself as a doctor, but the Birds refuse him entry; the
+    moral explicitly says disguise will not deceive the wise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the wisdom aspect explicitly; broader trickster or
+    predator-prey classifications are not asserted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1100-1104
+  quote_or_summary: '"A Peacock taunted a Crane with the dullness of her plumage"
+    and praised her own brilliant colours as finer than the Crane''s feathers.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 1104-1107
+  quote_or_summary: The Crane says the Peacock's colours are gayer, but "I can soar
+    into the clouds, whereas you are confined to the earth."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 1109-1114
+  quote_or_summary: A Cat hears that Birds in an aviary are ailing, dresses as a doctor,
+    takes professional instruments, presents himself at the door, and asks after their
+    health.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: 1114-1117
+  quote_or_summary: 'The Birds reply without letting him in: "We shall do very well"
+    when they have seen the last of him.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 1118-1120
+  quote_or_summary: '"A villain may disguise himself, but he will not deceive the
+    wise."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    passage-level abstractions and should be reviewed against project taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish historical contact, common inheritance, or explicit comparison with another tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1100-l1120
+  passage_sha256=4b1032bf980dc6c7c6096903fa7667d06c599aef609c4f3e4ad1572fb6bfb007
+

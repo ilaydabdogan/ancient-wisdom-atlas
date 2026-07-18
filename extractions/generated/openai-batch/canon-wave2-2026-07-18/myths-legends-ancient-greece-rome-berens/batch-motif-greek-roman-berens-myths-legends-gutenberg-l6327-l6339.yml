@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6327-l6339
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SACRIFICES. / ORACLES. / SOOTHSAYERS (AUGURS). / AUGURS.; lines 6327-6339
+  start: '6327'
+  end: '6339'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that, beyond oracles, Greeks believed certain men
+    could foretell future events through dreams, bird flight, sacrificial entrails,
+    and altar flames or smoke. It adds that Roman soothsayers were called augurs and
+    were consulted before enterprises to judge their likely success.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes soothsaying from oracles as another way the will
+    of the gods could be known.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Greeks believed certain men called soothsayers had power to foretell future
+    events.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The listed means of prediction include dreams, the flight of birds, entrails
+    of sacrificed animals, and the direction of flames and smoke from the altar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Roman soothsayers were called augurs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Roman augurs were consulted before enterprises concerning their ultimate success.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Greek soothsayers
+  description: Certain men believed by Greeks to be gifted with foretelling future
+    events.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Roman augurs
+  description: Roman soothsayers who played an important part in Roman history and
+    were consulted before enterprises.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: gods
+  description: Divine beings whose will is said to be manifested through oracles and
+    associated with divinatory knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divinatory specialist
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Greek soothsayers and Roman augurs are described as persons who foretell
+    or are consulted about future outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: advisor before enterprise
+  assigned_to:
+  - fig:2
+  basis: Roman augurs are said to be consulted before any enterprise regarding its
+    ultimate success.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine source of will
+  assigned_to:
+  - fig:3
+  basis: The passage refers to manifestations of the will of the gods by oracles before
+    discussing soothsaying.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dreams as omens
+  literal_form: dreams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bird flight as omen
+  literal_form: flight of birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrificial entrails as omen
+  literal_form: entrails of sacrificed animals
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: altar flames and smoke as omen
+  literal_form: direction of flames and smoke from the altar
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Greek soothsaying by multiple signs
+  summary: Greek soothsayers are described as foretelling future events through dreams,
+    birds, sacrificial entrails, and altar fire or smoke.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Roman consultation of augurs
+  summary: Roman augurs are described as important religious specialists consulted
+    before enterprises to determine likely success.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: foretelling the future through omens
+  taxonomy_refs: []
+  basis: The passage lists several observable signs used by soothsayers to foretell
+    future events.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a later handbook summary and does not narrate a specific
+    mythic episode.
+- id: motif:2
+  label: sacrificial divination
+  taxonomy_refs:
+  - sacrifice
+  basis: One listed method is reading the entrails of sacrificed animals, with altar
+    flames and smoke also used as signs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Sacrifice appears as a divinatory medium rather than as a developed sacrifice
+    narrative.
+- id: motif:3
+  label: ritual consultation before undertaking an enterprise
+  taxonomy_refs: []
+  basis: Roman enterprises are said not to be undertaken without first consulting
+    augurs about success.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the practice generally and gives no particular example.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Greek soothsayers and Roman augurs as functionally comparable
+    divinatory specialists.
+  claim_level: same_function
+  target: Greek soothsayers and Roman augurs
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the handbook passage's general description
+    of their divinatory function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6327-6332
+  quote_or_summary: Beyond oracles, Greeks believed certain men called soothsayers
+    could foretell future events; this is framed in relation to manifestations of
+    the will of the gods.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 6331-6334
+  quote_or_summary: The listed divinatory signs are dreams, bird flight, entrails
+    of sacrificed animals, and the direction of altar flames and smoke.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 6337-6338
+  quote_or_summary: Roman soothsayers are identified as augurs.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 6338-6339
+  quote_or_summary: Augurs are described as important in Roman history, with no enterprise
+    undertaken without consulting them about its ultimate success.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are generalized from
+    a non-narrative handbook passage and should be reviewed for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons or taxonomy IDs beyond the provided lists were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6327-l6339
+  passage_sha256=5bb2fcb6ad92d142f8ade0518dd0d418861d44cec39be7fa35c7c11a920148f8
+

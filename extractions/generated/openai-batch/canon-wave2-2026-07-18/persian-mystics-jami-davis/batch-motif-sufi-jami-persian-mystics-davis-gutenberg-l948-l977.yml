@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l948-l977
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: REASON / THE MOON OF LOVE / MORTAL PARAMOUR / THE DIVINE UNION; lines 948-977
+  start: '948'
+  end: '977'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed speaker asks Wámik why he moves silently like a shadow, meditating
+    night and day, and calls him wounded by Azra. Wámik answers by imagining withdrawal
+    with Azra to a remote desert fountain, pitching a tent there forever and gazing
+    on his Beloved until the distinction between gazer and beloved disappears into
+    one undivided being. He states that whatever is not One suffers absence and that
+    Love's city has room only for One. A following couplet counsels doing good and
+    turning from ill.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed speaker whispers to Wámik and asks why he moves silently like a
+    shadow while meditating night and day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker calls Wámik a victim of the wound of Azra.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wámik says he would fly with Azra to the desert.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wámik describes the desired place as a remote fountain where a traveler could
+    go league after league without meeting any human face.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wámik would pitch his tent there forever and gaze on his Beloved.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Wámik says gazing would grow into being the one gazed on, so that he and she
+    would be blended in one undivided being.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Wámik states that all that is not One suffers from the wound of absence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Wámik states that whoever enters Love's city finds room only for One and finds
+    Union only in Oneness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The closing couplet advises doing well so that good may happen in return,
+    and turning from ill so that ill turns aside.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wámik
+  description: The addressed figure who is called wounded by Azra and who answers
+    by describing union with the Beloved.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Azra
+  description: The named figure associated with Wámik's wound and the one with whom
+    Wámik wishes to go to the desert; the passage identifies the beloved in feminine
+    terms within this answer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed whispering speaker
+  description: An unidentified speaker who questions Wámik about his silent, meditative
+    state.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wounded lover
+  assigned_to:
+  - fig:1
+  basis: Wámik is called a victim of Azra's wound and describes suffering from absence
+    and seeking union.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: speaker of union doctrine
+  assigned_to:
+  - fig:1
+  basis: Wámik explains that gazing becomes being the beloved and that Love's city
+    has room only for One.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: beloved
+  assigned_to:
+  - fig:2
+  basis: Azra is named as the source of Wámik's wound and the companion he wishes
+    to take to the desert, followed by his language of gazing on the Beloved.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: questioner
+  assigned_to:
+  - fig:3
+  basis: The unnamed speaker whispers a question to Wámik about his condition.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wound of Azra / wound of absence
+  literal_form: wound
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: shadow-like movement
+  literal_form: shadow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: remote fountain
+  literal_form: fountain in the desert
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: desert solitude
+  literal_form: desert where no human face is met
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tent forever pitched
+  literal_form: tent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Love's city
+  literal_form: city of Love with room for One
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: One / Oneness
+  literal_form: One, Oneness, Union
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question to Wámik
+  summary: An unnamed speaker asks Wámik about his silent, shadow-like meditative
+    state and names his wound as connected to Azra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imagined desert withdrawal
+  summary: Wámik imagines fleeing with Azra to a desert fountain so remote that no
+    other human would be encountered, and pitching a tent there forever.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gazing becomes union
+  summary: Wámik describes gazing on the Beloved until gazing becomes being her and
+    the two are blended into one undivided being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Doctrine of Oneness in Love's city
+  summary: Wámik states that all that is not One suffers absence, and that Love's
+    city admits only One and only Oneness as Union.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Moral reciprocity couplet
+  summary: A brief maxim counsels doing well and avoiding ill so that good rather
+    than ill may return to the person addressed.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Union through annihilation of separation
+  taxonomy_refs:
+  - annihilation_union
+  basis: Wámik describes gazing on the Beloved until gazer and beloved are no longer
+    two but one undivided being, and then states that Union exists only in Oneness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives mystical union language directly, but the extraction
+    does not add doctrinal details beyond the passage.
+- id: motif:2
+  label: Beloved as focus of mystical union
+  taxonomy_refs:
+  - divine_beloved
+  basis: The heading names divine union, Wámik calls the figure gazed upon his Beloved,
+    and the union language moves beyond ordinary separation into Oneness.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Azra is also a named beloved in the literal frame; the explicitly divine
+    reading is supported by the heading and mystical language but should be reviewed.
+- id: motif:3
+  label: Withdrawal to remote solitude for love-union
+  taxonomy_refs:
+  - mystical_quest
+  basis: Wámik imagines flying with Azra to a deserted place by a remote fountain,
+    away from all human encounter, to remain and gaze on the Beloved.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a desired withdrawal and union, not a narrated journey
+    completed in action.
+- id: motif:4
+  label: 'Moral reciprocity: good and ill return'
+  taxonomy_refs:
+  - wisdom
+  basis: The closing maxim teaches that doing well brings well-being in turn and turning
+    from ill causes ill to turn aside.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This couplet is separate from the Wámik-Azra union scene and functions
+    as aphoristic instruction rather than mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage aligns at motif-family level with annihilation-union, because
+    individual distinction between lover and beloved is dissolved into one undivided
+    being and Oneness is named as the condition of Union.
+  claim_level: same_motif
+  target: motif_family:annihilation_union
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level alignment only; it does not claim historical
+    contact with any other text.
+- id: claim:2
+  claim: The passage can cautiously be read as a divine-beloved pattern, since the
+    heading is 'The Divine Union' and the Beloved is the object of transformative
+    gazing into Oneness.
+  claim_level: same_function
+  target: motif_family:divine_beloved
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The literal narrative names Azra as the beloved, so a purely divine
+    identification should remain under review.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 948-955
+  quote_or_summary: Heading 'THE DIVINE UNION'; an unnamed speaker whispers to Wámik,
+    calls him wounded by Azra, and asks why he moves silently like a shadow while
+    meditating night and day.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 956-963
+  quote_or_summary: Wámik answers that he would fly with Azra to the desert, to a
+    remote fountain where even long travel would not meet the face of man.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 964-970
+  quote_or_summary: Wámik would pitch his tent forever and gaze on his Beloved until
+    'She and I no more' were 'in one / Undivided being blended.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 971-975
+  quote_or_summary: Wámik says all that is not One suffers the wound of absence, and
+    that in Love's city there is room only for One and Union only in Oneness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 976-977, 'DO WELL' couplet
+  quote_or_summary: A separate maxim advises doing well so that good may come in turn,
+    and turning away from ill so that ill turns aside.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct. Motif assignment to annihilation-union is strong;
+    divine-beloved and mystical-quest readings depend partly on the title and Sufi
+    context supplied in metadata, so they require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text, locator, metadata, and available taxonomy references. No external identifications of Wámik or Azra were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l948-l977
+  passage_sha256=b23509dd0f2c1707003f1ed04d084680cb657455198d2f840b7ec8a70d95c201
+

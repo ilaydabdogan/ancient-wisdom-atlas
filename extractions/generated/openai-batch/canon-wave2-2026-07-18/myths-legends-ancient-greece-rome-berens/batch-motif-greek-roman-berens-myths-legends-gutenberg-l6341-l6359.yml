@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6341-l6359
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ORACLES. / SOOTHSAYERS (AUGURS). / AUGURS. / FESTIVALS.; lines 6341-6359
+  start: '6341'
+  end: '6359'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes festivals as periods of rest, rejoicing, thanksgiving,
+    and commemoration. It notes early harvest or vintage festivals with first-fruits
+    offered to the gods, and city festivals for divinities or events with processions,
+    games, chariot races, and dramatic performances about gods and heroes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Festivals are described as seasons of rest, rejoicing, thanksgiving, and as
+    anniversaries commemorating nationally important events.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The most ancient festivals are said to have been held after the ingathering
+    of the harvest or vintage and to have included rejoicings and merry-making lasting
+    many days.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: First-fruits of the fields were offered to the gods with prayers and thanksgiving.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: City festivals in honor of special divinities or in commemoration of particular
+    events were conducted with elaborate ceremonial.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gorgeous processions, games, chariot races, and dramatic performances were
+    conspicuous features of these festivals.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dramatic performances represented particular episodes in the lives of
+    gods and heroes.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: gods and divinities
+  description: The gods receive first-fruits, prayers, and thanksgiving; special divinities
+    are honored in city festivals; gods are also subjects of dramatic performances.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: heroes
+  description: Heroes are subjects of dramatic performances representing episodes
+    in their lives.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Recipients of offerings and prayer
+  assigned_to:
+  - fig:1
+  basis: The passage states that first-fruits were offered to the gods with prayers
+    and thanksgiving.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Honored divinities
+  assigned_to:
+  - fig:1
+  basis: The passage states that some city festivals were held in honor of special
+    divinities.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Subjects of dramatic representation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that dramatic performances represented episodes in the
+    lives of gods and heroes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: first-fruits offering
+  literal_form: first-fruits of the fields offered to the gods
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: harvest or vintage ingathering
+  literal_form: ingathering of the harvest or vintage before ancient festivals
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: festival procession and contests
+  literal_form: gorgeous processions, games, and chariot races
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dramatic representation of divine and heroic episodes
+  literal_form: dramatic performances representing episodes in the lives of gods and
+    heroes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: General purposes of festivals
+  summary: Festivals are presented as times of rest, rejoicing, thanksgiving, and
+    commemoration of nationally important events.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ancient harvest or vintage festival
+  summary: After the ingathering of harvest or vintage, celebrations lasted many days,
+    and first-fruits were offered to the gods with prayers and thanksgiving.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: City festival ceremonial
+  summary: Festivals in cities honored special divinities or commemorated events through
+    elaborate ceremonial, processions, games, chariot races, and dramatic performances
+    about gods and heroes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Seasonal harvest or vintage festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links the most ancient festivals to the post-ingathering period
+    of harvest or vintage and multi-day rejoicing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes festival practice rather than a narrative myth episode.
+- id: motif:2
+  label: First-fruits offered to gods with thanksgiving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that first-fruits of the fields were offered to the gods
+    with prayers and thanksgiving.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe an explicit reciprocal divine response or
+    a detailed sacrificial rite.
+- id: motif:3
+  label: Ritual commemoration through public ceremonial performance
+  taxonomy_refs: []
+  basis: The passage describes city festivals commemorating events or honoring divinities
+    with processions, games, chariot races, and dramatic performances.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches ceremonial procession, contest,
+    or dramatic commemoration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6343-6347
+  quote_or_summary: Festivals are described as periods of rest, rejoicing, thanksgiving,
+    and commemoration; the oldest are linked to the ingathering of harvest or vintage
+    and multi-day merrymaking.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6347-6349
+  quote_or_summary: First-fruits of the fields were offered to the gods, accompanied
+    by prayers and thanksgiving.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6350-6355
+  quote_or_summary: City festivals for special divinities or events used elaborate
+    ceremonial, including processions, games, chariot races, and dramatic performances
+    about gods and heroes.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6357-6359
+  quote_or_summary: The passage introduces a forthcoming list of Greek and Roman festivals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and explicit about festival practices. Motif labeling
+    is limited because the passage is a handbook summary rather than a mythic narrative;
+    no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims added because the passage itself does not compare these festival practices to another tradition or motif family beyond candidate motif classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6341-l6359
+  passage_sha256=b0522866886b19856954b5a9372f92b6ee2a3dabc1e10be04f7cc6de5179dcfb
+

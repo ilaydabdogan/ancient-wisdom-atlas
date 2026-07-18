@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l38333-l38424
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: KEY  TO  THE  RIDDLES. / IZIKGANEKWANE. / KEY  TO  THE  RIDDLES. / IZINGANEKWANE.;
+    lines 38333-38424
+  start: '38333'
+  end: '38424'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A bilingual Zulu-English key to riddles explains the tongue as a man among
+    enemies because it dwells among teeth during chewing; explains the closing-poles
+    of a cattle-pen as night guards that block cattle from escaping and lie down after
+    the gateway is opened in the morning; and begins an explanation of fingers as
+    ten matched parts that go in pairs.
+  language: Zulu and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During chewing, the tongue moves from side to side between the teeth and is
+    on guard.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The food is described as being constantly killed by the teeth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The tongue is not killed by the teeth because it is known as belonging to
+    that place, but it continually meets accidents because fighting occurs where it
+    dwells.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When food is eaten, the tongue knows it is in danger and may be injured though
+    no charge has been made against it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The riddle answer identifies the man in the midst of enemies as the tongue.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The closing-poles of the cattle-pen work at night by watching the cattle and
+    closing the gateway.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The closing-poles are close together so the cattle cannot find a place of
+    escape, and their strength prevents a cow from getting out.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: In the morning the cattle go out because the gateway is opened, and the closing-poles
+    lie on the ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The fingers are described as properly numbering ten and being matched in pairs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A note explains the pairing as including the index and middle fingers, the
+    ring and little fingers, and the thumbs.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the tongue
+  description: A body part described as dwelling among the teeth, moving during chewing,
+    being in danger, and named as the man in the midst of enemies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the teeth
+  description: Body parts described as chewing and killing the food, surrounding the
+    tongue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the food
+  description: The object chewed by the teeth and described as being killed by them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the closing-poles of the cattle-pen
+  description: Objects that close the gateway at night, guard the cattle, prevent
+    escape, and lie down when opened in the morning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the cattle
+  description: Animals kept inside the cattle-pen overnight and released through the
+    opened gateway in the morning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: the fingers
+  description: Body parts described as ten in number, matched, and going in pairs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: endangered resident among enemies
+  assigned_to:
+  - fig:1
+  basis: The tongue is called the man in the midst of enemies and is said to dwell
+    where fighting occurs during chewing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chewers and killers of food
+  assigned_to:
+  - fig:2
+  basis: The teeth chew and are said to kill the food constantly.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: victim of chewing
+  assigned_to:
+  - fig:3
+  basis: The food is described as being killed by the teeth.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: night guards and barriers
+  assigned_to:
+  - fig:4
+  basis: The closing-poles watch the cattle at night, close the gateway, and block
+    escape.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: guarded herd
+  assigned_to:
+  - fig:5
+  basis: The cattle are kept from escaping overnight and are let out in the morning
+    when the gateway is opened.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: matched pair set
+  assigned_to:
+  - fig:6
+  basis: The fingers are said to be ten and matched in pairs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tongue as man among enemies
+  literal_form: tongue dwelling among teeth during chewing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: teeth as hostile surrounding force
+  literal_form: teeth around the tongue killing food
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: closing-poles as protective barrier
+  literal_form: cattle-pen poles closing the gateway at night
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ten fingers in pairs
+  literal_form: ten matched fingers paired together
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tongue endangered during chewing
+  summary: The tongue moves among the teeth while they chew and kill food; it is treated
+    as a resident in a place of battle and identified as a man among enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Closing-poles guard the cattle-pen overnight
+  summary: The closing-poles shut the cattle-pen gateway at night, prevent cattle
+    from escaping, and are laid down when the cattle are released in the morning.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fingers counted and paired
+  summary: The fingers are described as a set of ten matched parts that go in pairs,
+    with a note clarifying the paired fingers and thumbs.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: personified body part among enemies
+  taxonomy_refs: []
+  basis: The passage personifies the tongue as a man living among hostile teeth and
+    facing danger during the act of eating.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a riddle-key explanation rather than a narrative episode; the
+    motif label is descriptive and not tied to a supplied taxonomy family.
+- id: motif:2
+  label: protective night barrier preventing escape
+  taxonomy_refs: []
+  basis: The closing-poles guard cattle overnight by barring the gateway and preventing
+    escape until the morning opening.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an explanatory riddle answer, not an explicit mythic narrative.
+- id: motif:3
+  label: ordered body set in matched pairs
+  taxonomy_refs: []
+  basis: The fingers are explained as ten matched parts arranged in pairs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Only the beginning of the finger explanation is present in the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38333-38424, tongue riddle-key section
+  quote_or_summary: The English translation says the tongue moves between the teeth
+    during chewing, the teeth kill the food, the tongue is in danger where fighting
+    occurs, and the answer is 'the man who is in the midst of enemies, the tongue.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 38333-38424, closing-poles riddle-key section
+  quote_or_summary: The closing-poles of the cattle-pen watch cattle at night by closing
+    the gateway, block cattle from escaping, and lie on the ground after the gateway
+    is opened in the morning.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 38333-38424, fingers riddle-key section
+  quote_or_summary: The fingers are described as properly numbering ten, being matched,
+    and going in pairs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: note
+  locator: line 38333-38424, footnote 26
+  quote_or_summary: The note clarifies that the pairing refers to the index and middle
+    fingers, the ring and little fingers, and the thumbs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English translation makes the literal riddle explanations clear, though
+    the passage is a key to riddles rather than a continuous tale. No comparison claims
+    are made because the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was directly applicable to the literal objects in this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l38333-l38424
+  passage_sha256=0dfcc6e8c50062bc748f20b22b1b5f7d3aee81758ea862af541422ce0c0e5032
+

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l35876-l35974
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / ISITSHAKAMANA. / ISITSHAKAMANA. / IZINGANEKWANE.; lines
+    35876-35974
+  start: '35876'
+  end: '35974'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A person encounters a beast associated with a pool while fishing. After
+    its gaze meets his, he flees home and asks to be hidden under a pot, blankets,
+    and in a corn-hole, but reports that the beast is still looking at him. Another
+    man identifies the animal as Isitshakamana and says it knows the names of old
+    people. The frightened witness says the beast calls names of his ancestors and
+    generations unknown to them, and he dies because he saw it.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker associated with the pool says it does not leave the pool, lives
+    there constantly, and is afraid of the sun.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The witness's eyes meet the beast's eyes, and he flees home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The witness says he saw a great thing or beast while going to catch fish,
+    and that its eyes are still staring at him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The witness describes the beast as having its eyes, nostrils, ears, and mouth
+    all together in one place.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A man identifies the caught animal as Isitshakamana and says it knows the
+    names of all the old people.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The witness is hidden or moved by means of a pot, village blankets, a corn-hole,
+    and finally the house, but he continues to say the beast is looking at him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The witness says fear tears him apart as the beast calls names of his father,
+    grandfather, grandfather's father, and unknown generations; he then dies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unidentified fishing witness
+  description: A person who went to catch fish, saw the beast, fled home, sought concealment,
+    reported the continued gaze of the beast, and died.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Isitshakamana
+  description: A beast or animal associated with the pool, afraid of the sun, visually
+    strange, persistently looking at the witness, and said to know or call ancestral
+    names.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: identifying man
+  description: A man who says he had warned them they would catch an Isitshakamana
+    and identifies the animal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: people at home
+  description: People who respond to the witness's requests by removing coverings,
+    covering him with blankets, placing him in the corn-hole, and taking him out.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: frightened witness and victim
+  assigned_to:
+  - fig:1
+  basis: He sees the beast while fishing, repeatedly seeks concealment from its gaze,
+    and dies after the encounter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: water-dwelling beast
+  assigned_to:
+  - fig:2
+  basis: The being is linked to the pool, says it lives there constantly, and is identified
+    as the animal Isitshakamana.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: deadly gazer
+  assigned_to:
+  - fig:2
+  basis: The witness repeatedly says the beast is still looking at him despite attempts
+    at concealment, and dies because he saw it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: knower and caller of ancestral names
+  assigned_to:
+  - fig:2
+  basis: The animal is said to know names of old people, and the witness says it calls
+    names of his ancestors and unknown generations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: identifier and warning speaker
+  assigned_to:
+  - fig:3
+  basis: He identifies the caught animal as Isitshakamana and says he has been warning
+    them about catching one.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: helpers in attempted concealment
+  assigned_to:
+  - fig:4
+  basis: They remove coverings and place or remove the witness from the requested
+    hiding places.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pool
+  literal_form: The pool in which the being says it lives constantly.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sun
+  literal_form: The sun, which the pool-being says it fears.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pot over the head
+  literal_form: A pot requested as concealment for the witness's head and then removed.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: village blankets
+  literal_form: All the blankets in the village used to cover the witness.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: corn-hole
+  literal_form: A hot corn-hole where the witness is briefly placed after a stone
+    is removed so it can cool.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: house
+  literal_form: The house into which the witness asks to be taken before his death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: concentrated face of the beast
+  literal_form: The beast's eyes, nostrils, ears, and mouth are described as all being
+    together in one place.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: encounter at the pool
+  summary: At the pool, the being is associated with living in the water and fearing
+    the sun; the witness's eyes meet the beast's eyes, and he flees home after seeing
+    it while fishing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: identification and failed concealment
+  summary: At home, the witness asks to be hidden. A man identifies the beast as Isitshakamana.
+    The witness is covered or placed in several hiding places but reports that the
+    beast is still looking at him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: final house scene and death
+  summary: The witness asks to be taken into the house, says he is torn apart by fear
+    as the beast calls ancestral names and unknown generations, and dies because he
+    saw Isitshakamana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: encounter with a water-dwelling beast while fishing
+  taxonomy_refs: []
+  basis: The witness reports seeing the beast when he went to catch fish, and the
+    being is linked to living in the pool.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage begins mid-speech, so the exact preceding circumstances of
+    catching or removing the being are not fully present in this excerpt.
+- id: motif:2
+  label: deadly sight or gaze of a monster
+  taxonomy_refs: []
+  basis: The witness's eyes meet the beast's eyes; he repeatedly says it is still
+    looking at him, and he dies because he saw Isitshakamana.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the death through fear and sight, but does not explicitly
+    state a magical mechanism for the gaze.
+- id: motif:3
+  label: failed concealment from supernatural perception
+  taxonomy_refs: []
+  basis: A pot, blankets, and a corn-hole fail to stop the witness's sense that the
+    beast is still looking at him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage reports the witness's perception; it does not independently
+    narrate the beast entering the home.
+- id: motif:4
+  label: dangerous supernatural knowledge of ancestors
+  taxonomy_refs:
+  - wisdom
+  basis: The Isitshakamana is said to know the names of old people, and the witness
+    says it calls names of ancestors and unknown generations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage presents knowledge as
+    terrifying or harmful rather than as beneficial instruction.
+- id: motif:5
+  label: death from overwhelming fear after monster encounter
+  taxonomy_refs: []
+  basis: The witness says he is torn apart by fear and dies on account of seeing the
+    Isitshakamana.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The text links fear, sight, and death, but does not describe a physical
+    wound.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35876-35974, opening pool and eye-encounter portion
+  quote_or_summary: A being associated with the pool says it lives there constantly
+    and is afraid of the sun; the witness's eyes meet the eyes of the beast, and he
+    flees home.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 35876-35974, witness's first report at home
+  quote_or_summary: The witness asks to be hidden, says he has seen a great thing
+    or beast while catching fish, describes its eyes as still staring, and says its
+    eyes, nostrils, ears, and mouth are all in one place.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 35876-35974, identification of the animal
+  quote_or_summary: A man says he has been telling them they would one day catch an
+    Isitshakamana; he identifies this as the animal caught that day and says it knows
+    names of all the old people.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 35876-35974, attempted concealment sequence
+  quote_or_summary: The witness has the pot removed, is covered with all the village
+    blankets, asks to be taken to a corn-hole, is placed there briefly after it cools,
+    and asks to be taken out because the beast is still looking at him and the heat
+    is killing him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 35876-35974, final speech and death
+  quote_or_summary: The witness asks to be taken into the house and dies because he
+    saw the Isitshakamana; he says fear tears him apart as the beast calls names of
+    his father, grandfather, grandfather's father, and generations unknown to them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is extractable from the supplied English translation, but it
+    begins mid-speech and some pronoun references are context-dependent. No external
+    comparison claims are made because the passage itself does not supply a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to available refs and used conservatively.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l35876-l35974
+  passage_sha256=069fb2e9193c9711bb301cddd5a87492bb69f1c02cdc394d82fea7f8f6219186
+

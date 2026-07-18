@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1171-l1194
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: GOD THE ONLY LOVE ETERNAL / FINITE AND INFINITE BEAUTY / HOW TO OBTAIN UNION
+    WITH THE DIVINE / TRUTH; lines 1171-1194
+  start: '1171'
+  end: '1194'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    At every moment brings a world to naught,
+    And fashions such another in its place.
+  summary: The passage states that Truth is hidden in attractive forms and is the
+    essence of what appears as the world. It says that the world appears when Truth
+    shines in partial modes and that Truth remains if all is gathered into the Whole.
+    It then describes God as merciful and gracious, continually annihilating and recreating
+    worlds, with divine Names linked to special gifts, annihilation, and creation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Truth is said to lie hidden in fair idols and cynosures.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: What is seen as relative appears as the world, while viewed in its essence
+    it is Truth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When Truth shines in partial modes, a world of loss and gain appears.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the world and its inhabitants were gathered back into the Whole, Truth
+    would still remain.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God is described as glorious and as possessing bounty, mercy, grace, and loving-kindness
+    that embrace the world.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God is said to bring a world to nothing at every moment and to fashion another
+    in its place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: All gifts are said to be due to God, while special gifts proceed from special
+    Names.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At every breath one Name annihilates and one creates outward things anew.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Truth
+  description: Truth is hidden in visible attractions, is the essence of the world,
+    shines in partial modes, and remains if all returns into the Whole.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The glorious God
+  description: God is described as glorious, merciful, gracious, loving-kind, the
+    source of gifts, and the one who annihilates and refashions worlds.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Special Names
+  description: Special Names are associated with special gifts; one Name annihilates
+    and one creates outward things anew.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hidden and enduring metaphysical reality
+  assigned_to:
+  - fig:1
+  basis: Truth is described as hidden in forms, as the essence of the world, and as
+    remaining when all is gathered into the Whole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: world-embracing divine benefactor
+  assigned_to:
+  - fig:2
+  basis: God's bounty, mercy, grace, and loving-kindness are said to embrace the world,
+    and all gifts are due to God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: agent of annihilation and creation
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: God is said to bring a world to naught and fashion another; the Names are
+    said to annihilate and create outward things anew.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fair idols
+  literal_form: fair idols
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cynosures
+  literal_form: all cynosures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: world
+  literal_form: the world; a world of loss and gain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Whole
+  literal_form: the Whole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: special Names
+  literal_form: special "Names"
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Truth hidden in apparent forms
+  summary: Truth is said to be hidden in attractive visible forms, and the world seen
+    relatively is identified in essence as Truth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Manifestation and return into the Whole
+  summary: Truth shines in partial modes and the world of loss and gain appears; if
+    the world and inhabitants return into the Whole, Truth remains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Continuous divine annihilation and creation
+  summary: God is described as world-embracing in mercy and grace, bringing a world
+    to naught and fashioning another; special Names are linked to gifts, annihilation,
+    and creation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: return of manifested multiplicity into the Whole
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says the world and its inhabitants could be gathered back into
+    the Whole while Truth remains.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage speaks cosmologically of the world and the Whole; it does
+    not narrate an individual mystic's explicit union experience.
+- id: motif:2
+  label: perpetual annihilation and recreation of the world
+  taxonomy_refs: []
+  basis: God is said to bring a world to naught at every moment and fashion another,
+    while divine Names annihilate and create outward things anew at every breath.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific mythic episode or named created world is narrated; the motif
+    is expressed as a doctrinal-poetic statement.
+- id: motif:3
+  label: hidden Truth within visible attractions
+  taxonomy_refs:
+  - wisdom
+  basis: Truth is said to lie hidden in fair idols and cynosures, and the world's
+    essence is identified as Truth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage emphasizes metaphysical
+    Truth rather than a wisdom teacher or explicit quest for knowledge.
+- id: motif:4
+  label: paired divine functions of annihilation and creation
+  taxonomy_refs:
+  - duality
+  basis: The passage presents one Name as annihilating and one as creating outward
+    things anew.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives paired functions but does not develop a full dualistic
+    cosmology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1171-1194, TRUTH stanza 1
+  quote_or_summary: '"In the fair idols... And in all cynosures lies hid the ''Truth'';
+    ... Viewed in its essence is the very ''Truth.''"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 1171-1194, TRUTH stanza 2
+  quote_or_summary: '"When in His partial modes Truth shone out plain... Were it and
+    all who dwell there gathered back / Into the Whole, the ''Truth'' would still
+    remain."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 1171-1194, THE GLORIOUS GOD stanza 1
+  quote_or_summary: '"The glorious God, whose bounty, mercy, grace, / And loving-kindness
+    all the world embrace... brings a world to naught, / And fashions such another
+    in its place."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 1171-1194, THE GLORIOUS GOD stanza 2
+  quote_or_summary: '"All gifts soever unto God are due... At every breath one ''Name''
+    annihilates, / And one creates all outward things anew."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is short and explicit. Motif
+    assignments are interpretive, especially where broad taxonomy labels are applied
+    to metaphysical poetry. No comparison claims were added because the passage itself
+    does not compare this material to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol refs were applied because none of the available symbol refs appear literally in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1171-l1194
+  passage_sha256=fd47353deec2e333fdfa78e7b686674bf3ab3947822a3927d121375d00f7453f
+

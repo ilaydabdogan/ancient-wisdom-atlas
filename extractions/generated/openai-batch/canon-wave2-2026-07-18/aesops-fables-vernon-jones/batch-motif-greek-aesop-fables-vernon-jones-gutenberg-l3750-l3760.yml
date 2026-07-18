@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3750-l3760
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HEIFER AND THE OX / THE KINGDOM OF THE LION / THE ASS AND HIS DRIVER
+    / THE LION AND THE HARE; lines 3750-3760
+  start: '3750'
+  end: '3760'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"I should have been content with what I had got, instead of hankering after
+    a better prize."'
+  summary: A lion finds a sleeping hare and is about to eat her, but abandons her
+    to chase a passing stag. After failing to catch the stag, he returns and finds
+    the hare gone, then admits he should have been content with what he already had.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lion finds a hare sleeping in her form and is about to devour her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion sees a passing stag and leaves the hare to pursue the stag.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After a long chase, the lion cannot overtake the stag and abandons the pursuit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lion returns to the place where he left the hare and finds that she is
+    gone.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lion says that he should have been content with what he had instead of
+    wanting a better prize.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who first targets a sleeping hare, then chases a passing stag,
+    and finally loses both.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hare
+  description: A hare sleeping in her form; she is left by the lion and is gone when
+    he returns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Stag
+  description: A passing stag whom the lion pursues but cannot overtake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The lion prepares to devour the hare and then pursues the stag.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: abandoned prey
+  assigned_to:
+  - fig:2
+  basis: The hare is initially available to the lion but is dropped when the lion
+    chases the stag.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: larger quarry
+  assigned_to:
+  - fig:3
+  basis: The stag is described as the bigger game and is pursued unsuccessfully by
+    the lion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: speaker of the moral reflection
+  assigned_to:
+  - fig:1
+  basis: The lion states that he should have been content with what he had.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Lion abandons the hare for the stag
+  summary: The lion finds a sleeping hare and is about to eat her, but when he sees
+    a passing stag he leaves the hare and pursues the larger animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lion loses both prey
+  summary: The lion fails to catch the stag, returns for the hare, finds she has disappeared,
+    and goes without dinner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lion states the lesson
+  summary: The lion says his loss serves him right because he should have been content
+    with what he already had.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Abandoning a sure gain for a larger uncertain prize leads to loss
+  taxonomy_refs:
+  - wisdom
+  basis: The lion leaves the hare to pursue the larger stag, fails to catch the stag,
+    returns to find the hare gone, and explicitly says he should have been content
+    with what he had.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical moral
+    rather than a developed mythic wisdom narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3750-3752
+  quote_or_summary: A lion finds a hare sleeping in her form and is about to devour
+    her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3752-3754
+  quote_or_summary: The lion sees a passing stag, drops the hare, and goes after the
+    bigger game.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3754-3756
+  quote_or_summary: After a long chase, the lion cannot overtake the stag and gives
+    up the attempt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3756-3758
+  quote_or_summary: The lion returns to the hare's spot, finds her gone, and has no
+    dinner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 3758-3760
+  quote_or_summary: '"I should have been content with what I had got, instead of hankering
+    after a better prize."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and explicit. No comparison claims are made because
+    the passage itself does not establish links to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy items are present in the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3750-l3760
+  passage_sha256=9ee19bb7697d1b4dfff933f2ab6585c53582ce557890d5c7aefd3141cb8b4434
+

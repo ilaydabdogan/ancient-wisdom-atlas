@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2625-l2657
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XVII. / XVIII. / XXII. / XXIII.; lines 2625-2657
+  start: '2625'
+  end: '2657'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Quatrain XXIII says that present merrymakers occupy a room left by others
+    and, despite summer bloom, must descend beneath the earth and become a couch for
+    unknown successors. The notes relate this to translated rubaiyat on the fleeting
+    world, the succession of turns, and verdure or greensward growing from human clay
+    or dust.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first-person plural group presently makes merry in a room left by earlier
+    persons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Summer is described as dressing the scene in new bloom.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first-person plural group says it must descend beneath the Couch of Earth
+    and itself make a couch for an unspecified future recipient.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A cited source quatrain instructs the hearer to arise, not sorrow for the
+    fleeting world, and pass through the world peacefully and happily.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited source quatrain says that if the world's nature were constant, the
+    turn of others would not have descended to the hearer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A cited recurring sentiment describes present verdure as a pleasure-ground
+    until verdure springing from the speaker's clay becomes a pleasure-ground for
+    someone else.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Another cited quatrain addresses an Idol, asking the Idol to sit on the greensward
+    and saying the greensward will soon grow from the speaker's dust and the Idol's
+    dust.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker or group
+  description: The speaker appears as 'we' in the main quatrain and as a first-person
+    speaker in cited quatrains, associated with present enjoyment and eventual descent
+    into earth, clay, or dust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: earlier persons / others
+  description: Persons who left the room now occupied by the speaker's group, and
+    whose turn is mentioned as having descended to the hearer in the cited source
+    quatrain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: unspecified future recipient
+  description: An unnamed 'whom' for whom the speaker's group may become a couch or
+    for whom future verdure from the speaker's clay may become a pleasure-ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Idol
+  description: An addressed figure asked to sit upon the greensward; the cited quatrain
+    says the greensward will grow from both the speaker's dust and the Idol's dust.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: present mortal participant
+  assigned_to:
+  - fig:1
+  basis: The speaker or group presently enjoys the room or greensward but is also
+    described as descending to earth or becoming clay or dust.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: predecessor
+  assigned_to:
+  - fig:2
+  basis: Earlier persons left the room, and the cited source speaks of the turn of
+    others descending to the hearer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: implied successor
+  assigned_to:
+  - fig:3
+  basis: The main quatrain asks for whom the speakers become a couch, and a cited
+    line asks for whom future verdure from the speaker's clay becomes a pleasure-ground.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: addressed companion
+  assigned_to:
+  - fig:4
+  basis: The cited quatrain directly addresses 'O Idol' and asks that figure to sit
+    upon the greensward.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: inherited room
+  literal_form: Room left by earlier persons and occupied by present merrymakers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Couch of Earth
+  literal_form: Earth figured as a couch beneath which the speakers descend and into
+    which they become a couch
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: summer bloom
+  literal_form: Summer dressing the scene in new bloom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: verdure / greensward
+  literal_form: Vegetation used as a pleasure-ground and said to grow from clay or
+    dust
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: clay and dust
+  literal_form: Human clay or dust from which verdure or greensward will grow
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: merrymaking before descent into earth
+  summary: The speaker's group enjoys the room left by earlier persons while summer
+    blooms, but anticipates descending beneath earth and becoming a couch for an unknown
+    future recipient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: counsel about the fleeting world
+  summary: A cited source tells the hearer not to sorrow over the fleeting world,
+    to pass through it happily, and explains that worldly succession occurs because
+    the world is not constant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: vegetation from human remains
+  summary: Cited quatrains describe verdure or greensward as present pleasure-ground
+    and as future growth from the speaker's clay or dust, including the dust of the
+    addressed Idol.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: succession of occupants in a fleeting world
+  taxonomy_refs:
+  - wisdom
+  basis: The passage joins present merrymakers, predecessors who left the room, and
+    the cited teaching that the world is fleeting and not constant, so turns pass
+    from others to the hearer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad; the passage frames this as reflective
+    counsel rather than a narrative quest or doctrine.
+- id: motif:2
+  label: descent into earth after present pleasure
+  taxonomy_refs:
+  - death_rebirth
+  basis: The speaker's group enjoys the present scene but says it must descend beneath
+    the Couch of Earth and become a couch for an unknown future recipient.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage supports death and transformation into earth; it does not
+    state personal resurrection or return.
+- id: motif:3
+  label: human remains becoming later vegetation
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Cited quatrains describe verdure or greensward growing from the speaker's
+    clay or dust, and from the dust of the addressed Idol.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The renewal is vegetal and material; the passage does not identify it
+    as spiritual rebirth.
+- id: motif:4
+  label: enjoyment despite impermanence
+  taxonomy_refs:
+  - wisdom
+  basis: A cited quatrain counsels arising, not sorrowing for the fleeting world,
+    being at peace, and passing through the world with happiness.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical or reflective motif rather than a mythic episode with
+    named divine agents.
+comparison_claims:
+- id: claim:1
+  claim: The passage's commentary identifies C. 388 as the main inspiration for Quatrain
+    XXIII, linking the main quatrain's succession of occupants with the cited teaching
+    on the fleeting, nonconstant world and the descent of others' turn to the hearer.
+  claim_level: same_motif
+  target: C. 388 and Quatrain XXIII within The Sufistic Quatrains of Omar Khayyam
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based only on the provided commentary and translated excerpt,
+    not on independent manuscript or source analysis.
+- id: claim:2
+  claim: 'The passage''s commentary says Quatrain XXIII combines its C. 388 inspiration
+    with an echo of a recurring sentiment found in C. 82 and O. 129: present ground
+    or verdure will later grow from the speaker''s clay or dust.'
+  claim_level: same_motif
+  target: C. 82 and O. 129 as cited parallels to Quatrain XXIII
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the cited English translations and the
+    passage's own cross-references.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2625-2630
+  quote_or_summary: 'Quatrain XXIII: present merrymakers occupy the room others left;
+    summer is in bloom; they must descend beneath the Couch of Earth and themselves
+    make a couch ''for whom?'''
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2631-2641
+  quote_or_summary: Commentary says the main inspiration is C. 388; the cited quatrain
+    says to arise, not sorrow for the fleeting world, pass through it happily, and
+    notes that if the world were constant others' turn would not have descended to
+    the hearer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2643-2652
+  quote_or_summary: Commentary says an echo of a recurring sentiment appears in C.
+    82; the cited lines describe present verdure as the speaker's pleasure-ground
+    until verdure springing from the speaker's clay becomes a pleasure-ground for
+    someone else.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2654-2657
+  quote_or_summary: 'O. 129: ''Sit upon the greensward, O Idol,'' because soon the
+    greensward will grow from the speaker''s dust and the Idol''s dust.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; public-domain short quotation included.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the supplied passage. Motif taxonomy
+    assignments are cautious because the available taxonomy has broad categories and
+    no exact symbol for earth, dust, couch, verdure, or room.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbol taxonomy references were assigned because the available symbol list does not include the passage's main literal forms: earth, dust, clay, couch, room, verdure, or greensward.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2625-l2657
+  passage_sha256=7b42eef194a912c9349d947ad730758c6ff2264e6ce158e3d053a1ba7905b29c
+

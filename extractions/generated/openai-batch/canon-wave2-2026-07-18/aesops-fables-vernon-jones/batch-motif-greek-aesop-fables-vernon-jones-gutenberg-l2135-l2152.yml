@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2135-l2152
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TWO BAGS / THE OXEN AND THE AXLETREES / THE BOY AND THE FILBERTS / THE
+    FROGS ASKING FOR A KING; lines 2135-2152
+  start: '2135'
+  end: '2152'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Frogs, discontented without a ruler, ask Jupiter for a king. Jupiter
+    sends a log into their pool, which first frightens them but later becomes an object
+    of contempt. They ask for a better king, and Jupiter, annoyed, sends a Stork,
+    which begins eating them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Frogs are described as discontented because they have no one to rule over
+    them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Frogs send a deputation to Jupiter asking him to give them a king.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jupiter casts a log into the pool and says it should be the Frogs’ king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Frogs are initially frightened by the splash and retreat to the deepest
+    parts of the pool.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After seeing that the log remains motionless, the Frogs return, grow bolder,
+    and sit upon it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Frogs ask Jupiter a second time to remove the sluggish king and give them
+    another, better one.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jupiter, annoyed at repeated requests, sends a Stork to rule over the Frogs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Stork begins catching and eating the Frogs as fast as he can.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Frogs
+  description: Pool-dwelling animals who want a ruler, reject the log as inadequate,
+    and are eaten by the Stork.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Jupiter
+  description: Divine figure petitioned by the Frogs; he sends first a log and then
+    a Stork.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: The Stork
+  description: A bird sent by Jupiter to rule over the Frogs; upon arrival, he catches
+    and eats them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Petitioners for rule
+  assigned_to:
+  - fig:1
+  basis: The Frogs send a deputation to Jupiter asking for a king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Divine responder to petitions
+  assigned_to:
+  - fig:2
+  basis: Jupiter receives the Frogs’ requests and appoints rulers for them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Predatory ruler
+  assigned_to:
+  - fig:3
+  basis: The Stork is sent to rule over the Frogs and immediately catches and eats
+    them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Subjects harmed by requested ruler
+  assigned_to:
+  - fig:1
+  basis: The Frogs ask for another king and are then preyed upon by the Stork sent
+    to rule them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pool
+  literal_form: pool where the Frogs lived
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Log appointed as king
+  literal_form: log cast into the pool
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Stork appointed as king
+  literal_form: Stork sent to rule over the Frogs
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Frogs petition Jupiter for a king
+  summary: The Frogs, unhappy because they lack a ruler, send a deputation to Jupiter
+    asking him to give them a king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jupiter sends the log
+  summary: Jupiter sends a log into the Frogs’ pool and identifies it as their king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Frogs move from fear to contempt
+  summary: The Frogs first flee from the splash, then return when the log remains
+    still, become bold, and sit on it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Frogs request a better king
+  summary: The Frogs judge the log to be an insult to their dignity and ask Jupiter
+    to replace it with a better ruler.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: The Stork rules by eating the Frogs
+  summary: Jupiter sends a Stork to rule them, and the Stork begins catching and eating
+    the Frogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Petition to a deity for a king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Frogs ask Jupiter to give them a king, and Jupiter supplies rulers in
+    response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage treats kingship satirically rather than as straightforward
+    legitimation; the taxonomy reference is broad.
+- id: motif:2
+  label: Discontent with harmless rule leads to destructive rule
+  taxonomy_refs:
+  - wisdom
+  basis: The Frogs reject the motionless log as inadequate and receive a Stork who
+    eats them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state an explicit moral in the provided text; the
+    motif is inferred from the narrative sequence.
+- id: motif:3
+  label: Punitive divine escalation after repeated petition
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter first gives the Frogs a harmless log, then, annoyed by their second
+    request, sends a predatory Stork.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage says Jupiter is annoyed, but does not explicitly frame the
+    Stork as divine judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2135-2139
+  quote_or_summary: The Frogs are discontented because they have no ruler and send
+    a deputation to Jupiter asking him to give them a king.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2139-2141
+  quote_or_summary: Jupiter despises the request, casts a log into the pool where
+    the Frogs live, and says it will be their king.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2141-2146
+  quote_or_summary: The Frogs are frightened by the splash and hide in the deep pool,
+    but later, seeing the log motionless, they return, grow bold, and sit upon it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2146-2150
+  quote_or_summary: The Frogs consider the log-king an insult, ask Jupiter to remove
+    the sluggish king, and request another, better one.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2150-2152
+  quote_or_summary: Jupiter, annoyed at being pestered, sends a Stork to rule the
+    Frogs, and the Stork begins catching and eating them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are clear. Motif taxonomy assignments
+    are broad and should be reviewed, especially royal_legitimacy and divine_judgment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text was used. No comparison claims were added because the passage does not itself make an explicit comparison to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2135-l2152
+  passage_sha256=9497ad4d79febfad4687d6ce5112bd1a2bdc743ace5440ba1553c69d7205e936
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3933-l3943
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DEBTOR AND HIS SOW / THE BALD HUNTSMAN / THE HERDSMAN AND THE LOST BULL
+    / THE MULE; lines 3933-3943
+  start: '3933'
+  end: '3943'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Mule, overfed and idle, boasts that his father was a high-spirited horse
+    and that he takes after him. After being harnessed and made to travel far with
+    a heavy load, he ends the day exhausted and concludes that his father must instead
+    have been an ass.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage centers on a Mule who has had too much to eat and too little to
+    do.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mule becomes proud, frisks about, and says that his father was a high-spirited
+    horse and that he takes after him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Soon afterward, the Mule is put into harness and compelled to go a long distance
+    with a heavy load behind him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the end of the day, the Mule is exhausted by the exertions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The exhausted Mule says dejectedly that he must have been mistaken and that
+    his father can only have been an ass.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage presents a sequence from boastful noble self-attribution, to enforced
+    labor, to a reversal of that self-attribution.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mule
+  description: The speaking animal protagonist who first boasts of horse-like ancestry
+    and later revises that claim after hard labor.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Mule's father as described by the Mule
+  description: An absent parental figure whom the Mule first describes as a high-spirited
+    horse and later says can only have been an ass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: boastful speaker
+  assigned_to:
+  - fig:1
+  basis: The Mule thinks himself a fine fellow, frisks about, and declares that he
+    takes after a high-spirited horse father.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: burdened laborer
+  assigned_to:
+  - fig:1
+  basis: The Mule is put in harness and compelled to travel far with a heavy load.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: claimed parentage figure
+  assigned_to:
+  - fig:2
+  basis: The father is invoked only through the Mule's own statements, first as a
+    horse and then as an ass.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mule
+  literal_form: Mule
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: harness
+  literal_form: harness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heavy load
+  literal_form: heavy load
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: contrasted father-images
+  literal_form: high-spirited horse; ass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Idle boast of noble ancestry
+  summary: The overfed and idle Mule thinks highly of himself, frisks about, and claims
+    that his father was a high-spirited horse whose nature he inherits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Harnessed labor
+  summary: The Mule is placed in harness and made to travel a very long way with a
+    heavy load.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Exhausted reversal
+  summary: At day's end, the exhausted Mule dejectedly decides he was mistaken about
+    his father and says his father must have been an ass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: pride corrected by hardship
+  taxonomy_refs:
+  - wisdom
+  basis: The Mule's proud claim of noble horse-like ancestry is reversed only after
+    he experiences exhausting labor under harness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy mapping to wisdom is broad; the passage is a fable episode
+    rather than a mythic or divine narrative.
+- id: motif:2
+  label: mistaken noble ancestry revised downward
+  taxonomy_refs:
+  - wisdom
+  basis: The Mule first claims descent from a high-spirited horse, then after exertion
+    concludes that his father must have been an ass.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents the ancestry claims through the Mule's speech; it
+    does not independently verify the father's identity.
+- id: motif:3
+  label: speaking animal as moral exemplum
+  taxonomy_refs:
+  - wisdom
+  basis: An animal protagonist speaks, misjudges himself, and undergoes a corrective
+    experience that implies a practical lesson.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit moral sentence is included in the provided passage; the exemplum
+    function is inferred from the fable form and narrative sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3933-3936
+  quote_or_summary: "“One morning a Mule, who had too much to eat and too little to
+    do...”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 3936-3938
+  quote_or_summary: The Mule “began to think himself a very fine fellow” and said,
+    “My father was undoubtedly a high-spirited horse and I take after him entirely.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 3938-3941
+  quote_or_summary: The Mule was “put into the harness and compelled to go a very
+    long way with a heavy load behind him.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 3941-3943
+  quote_or_summary: Exhausted at day's end, the Mule said, “I must have been mistaken
+    about my father; he can only have been an ass after all.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate interpretive
+    summaries of the fable's sequence. No comparison claims are made because the passage
+    itself does not explicitly support comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supportable; no symbol taxonomy refs matched the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3933-l3943
+  passage_sha256=13d2abfe482cdd9fa5cad0fc035b6de8b374e3703ce619e90d3a90c4ea3a6d76
+

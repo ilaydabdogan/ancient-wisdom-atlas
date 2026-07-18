@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l455-l503
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE THREE FISHES / THE TRICKY WOLF AND THE RATS / THE WOODPECKER, TURTLE,
+    AND DEER / THE GOLDEN GOOSE; lines 455-503
+  start: '455'
+  end: '503'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A goose with golden feathers sees a poor woman and her two daughters struggling.
+    He offers to give his feathers one at a time so they can sell them and live comfortably.
+    The mother grows greedy and plucks all his feathers against his will; the feathers
+    turn white and lose their value. After his feathers grow back white, the goose
+    flies home and never returns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a goose with beautiful golden feathers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A poor woman and her two daughters live not far from the goose and have difficulty
+    getting along materially.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The goose decides to give the woman his feathers one by one so she can sell
+    them for the family’s support.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The goose repeatedly returns and leaves another feather each time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mother proposes taking all the goose’s feathers at the next visit because
+    she fears he may stop returning.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The daughters object that taking all the feathers will hurt the goose and
+    refuse to do it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The mother takes hold of the goose and pulls out all his feathers.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Feathers plucked from the goose against his wish become white and lose their
+    special value; later feathers also grow in plain white.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After his feathers grow again, the goose flies home and never returns.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Golden Goose
+  description: A goose with beautiful golden feathers who gives feathers to support
+    a poor woman and her daughters.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Poor woman / mother
+  description: A very poor woman with two daughters; she accepts the goose’s feathers,
+    later grows greedy, and plucks all his feathers.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Two daughters
+  description: The daughters of the poor woman; they object to hurting the goose.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: animal benefactor
+  assigned_to:
+  - fig:1
+  basis: The goose gives valuable feathers so the poor family can sell them and live
+    in comfort.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: wronged donor
+  assigned_to:
+  - fig:1
+  basis: The mother forcibly plucks all his feathers against his wish, causing the
+    feathers to lose value and ending his visits.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: recipient of aid
+  assigned_to:
+  - fig:2
+  basis: The mother receives feathers from the goose and sells them to support herself
+    and her daughters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: greedy violator of restraint
+  assigned_to:
+  - fig:2
+  basis: She proposes taking all the feathers and then pulls them out despite the
+    daughters’ objections.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: compassionate objectors
+  assigned_to:
+  - fig:3
+  basis: The daughters refuse to take all the feathers because doing so would hurt
+    the goose.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: golden feathers
+  literal_form: beautiful golden feathers that can be sold for enough money to keep
+    the family in comfort
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: white valueless feathers
+  literal_form: feathers that turn white and become no more valuable than chicken-feathers
+    when plucked against the goose’s wish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: repeated feather gift
+  literal_form: one feather given at a time during repeated visits
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: The goose notices poverty and offers aid
+  summary: The golden-feathered goose sees the hardship of the poor woman and her
+    daughters and offers feathers that can be sold for their comfort.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Repeated gifts sustain the family
+  summary: The goose returns from time to time, each time leaving another feather;
+    the family sells the feathers and lives in comfort.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: The mother plans to seize all feathers
+  summary: The mother says they should not trust the goose to keep returning and proposes
+    taking all his feathers, while the daughters refuse because it would hurt him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Forced plucking and loss of value
+  summary: The mother plucks every feather from the goose; because the feathers were
+    taken against his wish, they turn white and lose their value.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Departure of the goose
+  summary: After the goose’s feathers grow back, he flies home and never returns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: generous animal benefactor gives wealth-producing body parts
+  taxonomy_refs: []
+  basis: The goose repeatedly gives his golden feathers so the poor family can sell
+    them and live comfortably.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the goose as an animal donor, but does not provide
+    a formal motif classification.
+- id: motif:2
+  label: greed destroys a continuing gift
+  taxonomy_refs: []
+  basis: The mother’s attempt to take all the feathers at once causes them to turn
+    white and become valueless, and the goose never returns.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a thematic motif label derived from the passage, not a cited taxonomy
+    ID.
+- id: motif:3
+  label: compassionate restraint contrasted with greedy action
+  taxonomy_refs: []
+  basis: The daughters refuse to hurt the goose, but the mother proceeds to pluck
+    all his feathers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The contrast is explicit in action and speech, though the passage does
+    not expand it into a separate episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 455-503
+  quote_or_summary: "“Once upon a time there was a Goose who had beautiful golden
+    feathers.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 455-503
+  quote_or_summary: A very poor woman with two daughters lives near the goose and
+    struggles to get along.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 455-503
+  quote_or_summary: The goose says he will give his feathers one by one so the woman
+    can sell them and support herself and her daughters in comfort.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 455-503
+  quote_or_summary: The goose gives one feather, then returns from time to time, leaving
+    another feather; the family sells them for enough money to live comfortably.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 455-503
+  quote_or_summary: The mother says they should not trust the goose to keep returning
+    and suggests taking all his feathers the next time he comes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 455-503
+  quote_or_summary: "“This will hurt the Goose. We will not do such a thing.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 455-503
+  quote_or_summary: The mother takes hold of the Golden Goose with both hands and
+    pulls out every one of his feathers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 455-503
+  quote_or_summary: Feathers plucked against the goose’s wish do not remain golden;
+    they turn white and become no more valuable than chicken feathers, and new feathers
+    also grow in plain white.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: 455-503
+  quote_or_summary: When the goose’s feathers grow again, he flies home and never
+    comes back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is self-contained and literal extraction is straightforward.
+    Motif labels are descriptive and not mapped to a supplied taxonomy family. No
+    comparison claims are made because the passage itself does not support a specific
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Golden Goose passage was used; no external Jataka context or tale-type classification was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l455-l503
+  passage_sha256=89a0f26ddfcda4af5d3e11e6fa045bdeae6672f9f5a8aebc3ad0e5e552d745b4
+

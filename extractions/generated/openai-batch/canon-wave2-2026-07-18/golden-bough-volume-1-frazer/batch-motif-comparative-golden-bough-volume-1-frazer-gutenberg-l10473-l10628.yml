@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10473-l10628
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10473-10628
+  start: '10473'
+  end: '10628'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: These men were sacred to the war-god (Ares), and were always spared in battle.
+  summary: The passage consists mainly of numbered footnotes citing ethnographic,
+    travel, folklore, and classical sources. A few notes mention Raskolnik peculiarities
+    attributed to exaggerated Puritanism, demons on Mt. Kilimanjaro, and men sacred
+    to Ares who were spared in battle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a sequence of numbered footnotes, 487 through 540, listing
+    source references and occasional explanatory notes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:2
+  text: A note states that the peculiarities of the Raskolniks are largely due to
+    exaggerated Puritanism, according to W. Robertson Smith.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note refers to demons on Mt. Kilimanjaro and cites Krapf as an additional
+    source for them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note states that certain men were sacred to the war-god Ares and were always
+    spared in battle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Raskolniks
+  description: A religious group whose peculiarities are described in the note as
+    largely due to exaggerated Puritanism.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: demons on Mt. Kilimanjaro
+  description: Demonic beings associated with Mt. Kilimanjaro in a citation note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: men sacred to Ares
+  description: Men described as sacred to the war-god and always spared in battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ares / war-god
+  description: The war-god to whom the men are described as sacred.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: religious group described through Puritanical explanation
+  assigned_to:
+  - fig:1
+  basis: The note attributes Raskolnik peculiarities largely to exaggerated Puritanism.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mountain-associated demons
+  assigned_to:
+  - fig:2
+  basis: The note refers to demons on Mt. Kilimanjaro.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sacred persons spared in battle
+  assigned_to:
+  - fig:3
+  basis: The note says these men were sacred to Ares and always spared in battle.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: war-god
+  assigned_to:
+  - fig:4
+  basis: The note explicitly identifies Ares as the war-god.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mt. Kilimanjaro
+  literal_form: mountain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: war-god Ares
+  literal_form: deity named as a war-god
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Raskolnik explanatory note
+  summary: A footnote reports Robertson Smith's explanation that Raskolnik peculiarities
+    are largely due to exaggerated Puritanism.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kilimanjaro demons citation
+  summary: A footnote directs readers to Krapf for demons on Mt. Kilimanjaro.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ares-sacred men spared
+  summary: A footnote states that certain men were sacred to the war-god Ares and
+    were always spared in battle.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: demons associated with a mountain
+  taxonomy_refs: []
+  basis: The passage refers to demons on Mt. Kilimanjaro.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage only names the topic in a citation note and gives no narrative
+    details about the demons.
+- id: motif:2
+  label: sacred persons exempted from battle killing
+  taxonomy_refs: []
+  basis: The passage states that certain men sacred to Ares were always spared in
+    battle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The antecedent of 'these men' and the larger narrative context are not
+    included in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: footnote 487
+  quote_or_summary: Professor W. Robertson Smith informs me that the peculiarities
+    of the Raskolniks are largely due to exaggerated Puritanism.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: footnote 496
+  quote_or_summary: For the demons on Mt. Kilimanjaro, see also Krapf, Travels, Researches
+    etc. in Eastern Africa, p. 192.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: footnote 517
+  quote_or_summary: These men were sacred to the war-god (Ares), and were always spared
+    in battle.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: footnotes 487-540
+  quote_or_summary: The line range is a sequence of numbered footnotes citing works
+    on Russian, African, Oceanic, American, classical, and other ethnographic or historical
+    materials.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly bibliographic footnotes with very sparse narrative
+    or symbolic content; motif candidates are limited to brief explanatory notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not give enough detail to identify a specific shared motif beyond brief citation notes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10473-l10628
+  passage_sha256=9eabc684935096ce60859349683b4495ad5884932d5593ed528d01d8345bc32f
+

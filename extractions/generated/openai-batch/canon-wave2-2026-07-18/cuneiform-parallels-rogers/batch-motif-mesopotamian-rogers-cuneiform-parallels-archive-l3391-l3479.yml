@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l3391-l3479
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE    FIFTH    TABLET / THE    FIFTH   TABLET / THE  STORY  OF  CREATION  33
+    / THE  STORY  OF  CREATION  35; lines 3391-3479
+  start: '3391'
+  end: '3479'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"And its third name shall be the Bow Star, in the heaven"'
+  summary: A fragmentary portion of the Fifth Tablet reports praise for a completed
+    work, Anu rising in the assembly of the gods, kissing and naming the bow, assigning
+    it names including Longwood and Bow Star, and fixing a station and throne for
+    it in heaven. The closing lines are highly fragmentary and mention gods speaking,
+    the heavens, a son, life, and splendor.
+  language: English with transliterated Akkadian fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A completed work done by an unspecified male figure is praised by others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anu rises in the assembly of the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anu kisses the bow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anu names the bow with multiple names, including Longwood and Bow Star; the
+    second name is lost in the fragment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Bow Star is placed in heaven, and a station is fixed for it.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: A throne is set in heaven in a fragmentary line following the bow's naming
+    and stationing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The concluding fragmentary lines mention gods speaking, the heavens, a son,
+    life, and splendor, but the syntactic connections are mostly lost.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unspecified male figure whose work is praised
+  description: A male figure referred to only by pronoun as having done work that
+    is praised.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Anu
+  description: A deity who rises in the assembly of the gods, kisses the bow, names
+    it, and fixes its station.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: The gods
+  description: A divine assembly in which Anu rises; later fragmentary lines say that
+    the gods spoke.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: Praised doer of work
+  assigned_to:
+  - fig:1
+  basis: The passage says the work he had done was praised, without naming him in
+    the excerpt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Divine assembly participant
+  assigned_to:
+  - fig:2
+  basis: Anu rises in the assembly of the gods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Namer and station-fixer of the bow
+  assigned_to:
+  - fig:2
+  basis: Anu kisses the bow, names its names, and fixes a station for it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Divine assembly
+  assigned_to:
+  - fig:3
+  basis: The passage names the assembly of the gods and later says the gods spoke.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bow
+  literal_form: A bow kissed and named by Anu.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Longwood
+  literal_form: One named designation of the bow.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Bow Star
+  literal_form: The bow's third name, placed in heaven.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Heaven
+  literal_form: The heavenly location where the Bow Star is named and where a throne
+    is set.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Throne in heaven
+  literal_form: A throne set in heaven in a fragmentary line.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Praise and divine assembly
+  summary: A completed work is praised, and Anu rises in the assembly of the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming and stationing of the bow
+  summary: Anu kisses the bow, gives it names including Longwood and Bow Star, identifies
+    it in heaven, and fixes a station for it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fragmentary close of the tablet
+  summary: The closing fragmentary lines mention gods speaking, the heavens, a son,
+    life, and splendor, but the sequence is not recoverable from the excerpt.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine naming and celestial installation of a bow
+  taxonomy_refs: []
+  basis: The passage has Anu name the bow, identify one name as Bow Star in heaven,
+    and fix a station for it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt is fragmentary, and no supplied taxonomy family directly corresponds
+    to a bow-star installation motif.
+- id: motif:2
+  label: Divine assembly acclaiming completed cosmic work
+  taxonomy_refs: []
+  basis: The passage says a completed work is praised and locates Anu's action in
+    the assembly of the gods.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The nature of the completed work and the identity of the praised doer
+    are not supplied in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3391-3393
+  quote_or_summary: '"The work which he had done they praised. Then Anu arose in the
+    assembly of the gods"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3394-3402; tablet line 80 and following
+  quote_or_summary: Anu kisses the bow and names the names of the bow; one name is
+    Longwood, another is lost, and the third is Bow Star in heaven.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3403-3408; tablet lines 84-87
+  quote_or_summary: After naming the bow, the text says a station is fixed for it
+    and a throne is set in heaven, though the lines are fragmentary.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 3409-3479; reverse of K. 11641 and K. 8526, fragmentary close
+  quote_or_summary: The concluding fragmentary lines include references to gods speaking,
+    the heavens, a son, causing to live, and splendor, with much text missing.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Major actions involving Anu and the bow are clear enough, but much of the
+    passage is fragmentary and several pronoun references cannot be safely resolved
+    from the excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text, tradition, or motif family. Available taxonomy symbol refs did not include bow, star, heaven, or throne.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l3391-l3479
+  passage_sha256=d1630068e8e6e878cf56107f723f5591ed920402cf97c9eef85aa8376bb6f0f7
+

@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2608-l2622
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XIII. / XVII. / XVIII. / XXII.; lines 2608-2622
+  start: '2608'
+  end: '2622'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Have drunk their Cup a Round or two before
+  summary: 'The quatrain reflects that beloved companions have gone before the speaker:
+    Time has pressed them from its vintage, they have drunk their cup ahead of the
+    speaker, and they have silently gone to rest. A cited parallel says sympathetic
+    friends left one by one, sank at the foot of Death, and as cup-companions became
+    drunk before the speaker.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The quatrain refers to loved companions described as the loveliest and best.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quatrain says those loved companions drank their cup a round or two before
+    the speaker’s group and then crept silently to rest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The quatrain presents rolling Time as having a Vintage from which the loved
+    companions have been pressed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The cited parallel says sympathetic friends left the speaker one by one and
+    sank low at the foot of Death.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cited parallel identifies the departed friends as cup-companions in a
+    fellowship of souls who became drunk a turn or two before the speaker.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An editorial note states that the inspiration for the quatrain is found in
+    C. 185.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: departed loved companions
+  description: The loved, loveliest, and best companions who drank their cup before
+    the speaker and went to rest; in the parallel, sympathetic friends who left and
+    sank at the foot of Death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: speaker or narrating voice
+  description: The implied speaker whose loved companions have gone before; in the
+    parallel, the speaker says the companions became drunk before me.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: rolling Time
+  description: Time is named with a possessive Vintage from which the loved companions
+    are pressed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Death
+  description: Death is named in the cited parallel as the place or force at whose
+    foot the friends have sunk low.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: departed companion
+  assigned_to:
+  - fig:1
+  basis: The companions have drunk their cup before the speaker, gone to rest, and
+    in the parallel have left and sunk at the foot of Death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: surviving witness
+  assigned_to:
+  - fig:2
+  basis: The speaker refers to loved companions who went before, and the parallel
+    contrasts their prior drunkenness with the speaker’s remaining perspective.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: temporal agent
+  assigned_to:
+  - fig:3
+  basis: The quatrain attributes a Vintage to rolling Time and says the companions
+    were pressed from it.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deathly endpoint
+  assigned_to:
+  - fig:4
+  basis: The parallel says the friends sank low at the foot of Death.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cup and drinking round
+  literal_form: Cup; Round or two; became drunk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Vintage of Time
+  literal_form: his Vintage; rolling Time; prest
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: silent rest
+  literal_form: crept silently to rest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: foot of Death
+  literal_form: the foot of Death
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fellowship of souls
+  literal_form: fellowship of souls; cup-companions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Loved companions drink before and go to rest
+  summary: The quatrain states that beloved companions, pressed from Time’s Vintage,
+    drank their cup ahead of the speaker’s group and silently went to rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parallel of friends at the foot of Death
+  summary: The cited C. 185 parallel says the speaker’s sympathetic friends departed
+    one by one, sank at the foot of Death, and as cup-companions became drunk before
+    the speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: beloved companions depart one by one before the speaker
+  taxonomy_refs: []
+  basis: Both the quatrain and the cited parallel describe loved or sympathetic friends
+    going before the speaker into rest or Death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames the departure through poetic images rather than explicit
+    narrative action.
+- id: motif:2
+  label: death or departure figured as drinking before others
+  taxonomy_refs: []
+  basis: The quatrain says the companions have drunk their cup a round or two before,
+    and the parallel says cup-companions became drunk before the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The exact doctrinal meaning of cup and drunkenness is not specified in
+    the supplied passage.
+- id: motif:3
+  label: Time as vintage or press acting on lives
+  taxonomy_refs: []
+  basis: The quatrain presents rolling Time as possessing a Vintage from which the
+    beloved companions are pressed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is present in the quatrain but not repeated explicitly in the
+    cited parallel excerpt.
+- id: motif:4
+  label: death as rest or a foot-of-Death endpoint
+  taxonomy_refs: []
+  basis: The quatrain describes the companions as silently going to rest, while the
+    parallel places them at the foot of Death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not elaborate an afterlife journey, judgment, or rebirth
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note and cited parallel support reading quatrain XXII and C.
+    185 as sharing a motif of companions who precede the speaker in death or departure,
+    expressed through cup-companion and drunkenness imagery.
+  claim_level: same_motif
+  target: C. 185 as quoted in the passage note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the translated excerpt and reference note are provided; other
+    listed references are not quoted in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2608-2613; quatrain XXII
+  quote_or_summary: The quatrain says some loved companions, the loveliest and best,
+    were pressed from Time’s Vintage, drank their Cup a round or two before, and crept
+    silently to rest.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary with short quoted phrases.
+- id: ev:2
+  type: quote
+  locator: line after quatrain XXII
+  quote_or_summary: "“The inspiration for this quatrain is found in C. 185.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: C. 185 parallel quoted in lines 2608-2622
+  quote_or_summary: The cited C. 185 parallel says sympathetic friends left the speaker,
+    sank one by one at the foot of Death, and as cup-companions in a fellowship of
+    souls became drunk a turn or two before the speaker.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary with short quoted phrases.
+- id: ev:4
+  type: citation
+  locator: reference line following C. 185 excerpt
+  quote_or_summary: 'References listed: C. 185, L. 381, B. 377, P. ii. 4, B. ii. 141;
+    W. 219, V. 379.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal imagery and the C. 185 comparison are explicit. Motif taxonomy mapping
+    is left empty because the supplied taxonomy does not include a precise death-as-cup
+    or departed-companions category, and the passage does not state rebirth, judgment,
+    or an afterlife journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is directly supported by this passage; cup, vintage, rest, and Death imagery are recorded without taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2608-l2622
+  passage_sha256=d726a483283a341174dd95d4c642240589278123d193413044f05eeda50331e5
+

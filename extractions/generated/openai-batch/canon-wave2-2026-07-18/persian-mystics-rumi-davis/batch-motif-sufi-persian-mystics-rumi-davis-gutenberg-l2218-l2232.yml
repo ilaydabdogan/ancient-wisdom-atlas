@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2218-l2232
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE DIVINE ABSORPTION / LOVE MORE THAN SORROW AND JOY / SEPARATION / A MOTHER
+    WHOSE CHILDREN WERE IN THE BELOVED'S KEEPING; lines 2218-2232
+  start: '2218'
+  end: '2232'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman repeatedly loses infants in early months, cries to God, receives
+    a vision of Paradise with gardens, mansions, and her name inscribed, hears a heavenly
+    voice explaining that her sorrows are accepted in place of battle-blood, and then
+    sees her lost children safe with God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman bore many children in succession, and none lived beyond three or four
+    months.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In great distress, the woman cried to God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman beheld a vision of beautiful gardens of Paradise and many fair mansions.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman read her own name inscribed on one of the mansions.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A voice from heaven informed her that God would accept her endured sorrows
+    in place of her blood shed in holy war.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The voice stated that the substitution applied because, owing to her sex,
+    she was unable to go out to battle like men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The woman then saw in Paradise all the children she had lost.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The woman addressed God, saying the children were lost to her but safe with
+    God.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the woman / mother
+  description: A woman who bore many children, lost them in infancy, cried to God,
+    saw Paradise, and recognized her children there.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: God / the Beloved
+  description: The divine addressee of the woman's cry; the heavenly voice says God
+    accepts her sorrows, and the woman says her children are safe with God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: voice from heaven
+  description: A heavenly voice that informs the woman about the acceptance of her
+    sorrows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lost children
+  description: The woman's many children who died by three or four months and are
+    later seen by her in Paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: grieving mother
+  assigned_to:
+  - fig:1
+  basis: She bore many children, none surviving beyond infancy, and cried to God in
+    distress.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine keeper and acceptor of sorrow
+  assigned_to:
+  - fig:2
+  basis: God is said to accept the woman's sorrows, and the children are described
+    by the woman as safe with God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: heavenly informant
+  assigned_to:
+  - fig:3
+  basis: The voice from heaven explains the divine acceptance of the woman's sorrows.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: vision recipient
+  assigned_to:
+  - fig:1
+  basis: The woman beholds Paradise, the mansions, her name, and her children in the
+    vision.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: deceased children safe in Paradise
+  assigned_to:
+  - fig:4
+  basis: The children died in infancy and are later beheld in Paradise, where the
+    woman says they are safe with God.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Paradise gardens and mansions
+  literal_form: beautiful gardens of Paradise and many fair mansions
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: inscribed name on mansion
+  literal_form: the woman's own name inscribed upon one mansion
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood shed in holy war
+  literal_form: blood shed in holy war, contrasted with endured sorrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: children in divine keeping
+  literal_form: the lost children seen in Paradise and described as safe with God
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Repeated infant loss and prayer
+  summary: A woman loses many children in infancy and cries to God in distress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vision of Paradise and named mansion
+  summary: The woman sees Paradise with gardens and mansions, including one marked
+    with her own name.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Heavenly explanation of accepted sorrow
+  summary: A voice from heaven says God will accept the woman's sorrows in place of
+    blood shed in holy war, since she cannot go to battle like men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Children seen safe with God
+  summary: The woman sees all her lost children in Paradise and declares that they
+    were lost to her but safe with God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lost children kept by the divine beloved
+  taxonomy_refs:
+  - divine_beloved
+  - divine_parent_child
+  basis: The title frames the children as in the Beloved's keeping, and the woman
+    sees her lost children in Paradise and says they are safe with God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage itself uses both the title's 'Beloved' framing and the main
+    text's address to God; the parent-child taxonomy is thematic rather than explicitly
+    named as divine parenthood.
+- id: motif:2
+  label: vision of Paradise after grief
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: In response to distress and prayer, the woman beholds gardens and mansions
+    of Paradise and later sees her deceased children there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a vision of Paradise but not a detailed journey or map
+    through the afterlife.
+- id: motif:3
+  label: sorrow accepted in place of sacrificial battle-blood
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: A heavenly voice states that God will accept the woman's endured sorrows
+    in lieu of blood she would have shed in holy war.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the equivalence through a heavenly statement; it does
+    not describe an actual battlefield death or ritual sacrifice.
+- id: motif:4
+  label: grief transformed into divine assurance
+  taxonomy_refs:
+  - annihilation_union
+  basis: The woman moves from distress over loss to recognition that the children
+    are safe with God, a movement from personal bereavement toward divine trust.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The passage appears in a section on divine absorption, but the excerpt
+    does not explicitly state annihilation or union terminology.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the mother's endured sorrows with blood shed
+    in holy war as something God accepts in its place.
+  claim_level: same_function
+  target: martyrdom or battle-blood as an accepted offering
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage, not evidence for
+    historical contact or a cross-traditional parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2218-2222
+  quote_or_summary: A woman bore many children in succession; none lived beyond three
+    or four months; in distress she cried to God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 2222-2226
+  quote_or_summary: She saw a vision of beautiful gardens of Paradise, many fair mansions,
+    and her own name inscribed on one mansion.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 2226-2230
+  quote_or_summary: A voice from heaven said God would accept her endured sorrows
+    in lieu of blood shed in holy war, since her sex prevented her from going to battle
+    like men.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 2230-2232
+  quote_or_summary: On looking again, she saw all the children she had lost in Paradise
+    and cried, “they were lost to me, but safe with Thee!”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; short quotation from public domain source.
+- id: ev:5
+  type: citation
+  locator: passage title
+  quote_or_summary: The passage title identifies the episode as a mother whose children
+    were in the Beloved's keeping.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; summarized title citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is strongest for sorrow
+    accepted in lieu of battle-blood and more tentative for broader afterlife or divine-belonging
+    motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added; taxonomy references are limited to supplied motif families.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2218-l2232
+  passage_sha256=3f127605ecf422b9db20850c55d31942fa5c9728df7b4dc3e295e4a9fd5cb249
+

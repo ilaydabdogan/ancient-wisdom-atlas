@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l20281-l20373
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UMKXAKAZA-WAKOGINGQWAYO. / LZIN  GANEKWANE. / UMKXAKAZA-WAKOGINGQWAYO.;
+    lines 20281-20373
+  start: '20281'
+  end: '20373'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the morning Umkrakaza sits outside and sees two leaping beings. They
+    sit under a tree, go to the tobacco garden, pluck tobacco, notice footprints,
+    put the tobacco outside, and enter the cave. Umkrakaza then thrusts out both hands
+    and recognizes the beings as Amadhlungundhlebe. Editorial notes comment on the
+    beings' strange dialect and compare them with half-men or one-legged beings in
+    other traditions.
+  language: English translation with Zulu source text present
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Umkrakaza goes out in the morning and sits outside.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She sees two beings described as “two things” coming by leaps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two beings sit in the shade of a tree before going to the tobacco garden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the tobacco garden, the beings pluck tobacco.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One being notices footprints, becomes startled and afraid, and asks where
+    the footprints came from.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The beings put the tobacco outside and then enter the cave.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Umkrakaza rises and thrusts out both hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Umkrakaza perceives that the two beings are Amadhlungundhlebe.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A note says the creatures speak a strange dialect resembling that of the Amaswazi
+    and that the dialect is introduced to make them appear ridiculous.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: An editorial note connects this tale with a class of “Half-men” and mentions
+    one-legged or half-human beings in other sources.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Umkrakaza
+  description: The named actor who sits outside, observes the approaching beings,
+    enters or remains associated with the cave, thrusts out both hands, and recognizes
+    the visitors as Amadhlungundhlebe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Two strange beings / Amadhlungundhlebe
+  description: Two beings described as “things” that come by leaps, sit under a tree,
+    pluck tobacco, react to footprints, put tobacco outside, enter the cave, and are
+    identified as Amadhlungundhlebe.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: observer of approaching beings
+  assigned_to:
+  - fig:1
+  basis: Umkrakaza sits outside and sees the two beings coming.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cave-associated revealer of hands
+  assigned_to:
+  - fig:1
+  basis: After the beings enter the cave, Umkrakaza rises and thrusts out both hands.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: leaping visitors
+  assigned_to:
+  - fig:2
+  basis: The beings are described as coming by leaps and moving from the tree shade
+    to the tobacco garden and cave.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: tobacco pluckers and footprint witnesses
+  assigned_to:
+  - fig:2
+  basis: They pluck tobacco; one notices footprints and speaks about them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree shade
+  literal_form: tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tobacco garden and tobacco
+  literal_form: tobacco garden; plucked tobacco
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: footprints
+  literal_form: footprints seen in the garden area
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: thrust-out hands
+  literal_form: two hands thrust out by Umkrakaza
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Leaping beings arrive and sit under a tree
+  summary: In the morning Umkrakaza sits outside and sees two leaping beings arrive
+    and sit in the shade of a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tobacco plucking and footprints
+  summary: The two beings enter the tobacco garden, pluck tobacco, and one reacts
+    fearfully to footprints.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Entry into the cave and recognition
+  summary: The beings put the tobacco outside and enter the cave; Umkrakaza rises,
+    thrusts out both hands, and recognizes them as Amadhlungundhlebe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: leaping strange beings visit a cave
+  taxonomy_refs: []
+  basis: Two unusual beings come by leaps, later enter the cave, and are identified
+    as Amadhlungundhlebe.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives little direct description of their bodies; fuller identification
+    as half-men comes from the editorial note.
+- id: motif:2
+  label: footprints reveal or betray a hidden presence
+  taxonomy_refs: []
+  basis: One being notices footprints, becomes afraid, and asks where they came from.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not yet state the consequence of the discovery.
+- id: motif:3
+  label: intruding beings harvest tobacco before entering a cave
+  taxonomy_refs: []
+  basis: The visitors pluck tobacco, place it outside, and enter the cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state whether the tobacco taking is permitted, theft,
+    ritualized, or ordinary gathering.
+- id: motif:4
+  label: half-men or one-legged beings
+  taxonomy_refs: []
+  basis: The editorial note explicitly says this tale belongs to a class of Half-men
+    and compares it with one-legged and half-human beings in other sources.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is based on editorial comparison; the narrative excerpt itself names
+    Amadhlungundhlebe but does not fully describe their anatomy here.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note groups the Amadhlungundhlebe episode with a wider “Half-men”
+    pattern, including traditions of one-legged or half-human beings.
+  claim_level: same_motif
+  target: Half-men / one-legged beings motif pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the editor; this excerpt of the tale
+    itself does not fully describe the beings' anatomy.
+- id: claim:2
+  claim: The note draws a visual and behavioral comparison between the tale’s beings
+    and figures such as the Nesnas, described as half-human and hopping with one arm
+    and one leg.
+  claim_level: visual_similarity
+  target: Nesnas and related Shikk traditions as cited in the editorial note
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited comparison depends on the editorial note and on external
+    sources quoted there, not on a detailed anatomical description in the narrative
+    passage.
+- id: claim:3
+  claim: The editor speculates that very similar half-men tales in different peoples
+    may point to a common origin.
+  claim_level: common_inheritance
+  target: Half-men tales across different peoples as discussed by the editor
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial speculation within the note, not demonstrated
+    by the narrative evidence in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 20281-20373, main narrative: morning arrival'
+  quote_or_summary: Umkrakaza goes outside in the morning and sees two beings coming
+    by leaps; they sit in the shade of a tree.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 'lines 20281-20373, main narrative: tobacco garden'
+  quote_or_summary: The beings enter the tobacco garden and pluck tobacco; one notices
+    footprints and asks where they came from, while afraid.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 'lines 20281-20373, main narrative: cave entry and hands'
+  quote_or_summary: The beings put the tobacco outside, enter the cave, and Umkrakaza
+    rises and thrusts out both hands; she perceives that they are Amadhlungundhlebe.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: note
+  locator: footnote 42 within lines 20281-20373
+  quote_or_summary: The note says the creatures speak a strange dialect resembling
+    Amaswazi and that it is used to make them appear ridiculous.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: note
+  locator: footnote 43 within lines 20281-20373
+  quote_or_summary: The editorial note compares this “Half-men” tale with one-legged
+    men, Pliny’s Monosceli, the Shikk, and the Nesnas, described as half-human and
+    hopping on one arm and one leg.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions are explicit in the passage. Motif and comparison claims
+    are more tentative because the main excerpt is brief and the broader half-men
+    comparison is editorial commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy symbol refs were applied only for cave and tree; no motif-family taxonomy ref was assigned.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l20281-l20373
+  passage_sha256=cc2a1c201f77d3a2656d9e224cf9fe2d516d5ccc5fbd63fc80d0f8fb669ccf38
+

@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1609-l1619
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SLAVE AND THE LION / THE FLEA AND THE MAN / THE BEE AND JUPITER / THE
+    OAK AND THE REEDS; lines 1609-1619
+  start: '1609'
+  end: '1619'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An oak on a riverbank is uprooted by a severe gale and thrown into the
+    stream among reeds. The oak asks how the frail reeds survived the storm while
+    it was torn up. The reeds answer that the oak resisted the storm, while they bowed
+    and yielded to each breeze, allowing the gale to pass over them harmlessly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An oak grew on the bank of a river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A severe gale uprooted the oak and threw it across the stream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The oak fell among reeds growing by the water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The oak asked the reeds how they survived the storm despite being frail and
+    slender, while it had been uprooted and hurled into the river.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The reeds replied that the oak was stubborn and fought against the stronger
+    storm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reeds said they bow and yield to every breeze, so the gale passed harmlessly
+    over their heads.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Oak
+  description: An oak tree on the bank of a river, described as strong but uprooted
+    by a severe gale.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Reeds
+  description: Reeds growing by the water, described by the oak as frail and slender,
+    and by themselves as bending and yielding to breezes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Gale of wind / storm
+  description: A severe gale or storm that uproots the oak but passes harmlessly over
+    the reeds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: uprooted strong tree
+  assigned_to:
+  - fig:1
+  basis: The oak is described as having strength, yet being torn up by the roots and
+    hurled into the river.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: The oak asks the reeds why they survived the storm when it did not.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: frail survivors
+  assigned_to:
+  - fig:2
+  basis: The reeds are called frail and slender but are said to have weathered the
+    storm.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: respondents explaining survival
+  assigned_to:
+  - fig:2
+  basis: The reeds reply that they bow and yield to every breeze.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: destructive force
+  assigned_to:
+  - fig:3
+  basis: The gale uproots the oak and is described as stronger than the oak.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Oak tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water
+  literal_form: River, stream, and water by which the reeds grow
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: reeds
+  literal_form: Reeds growing by the water
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: storm wind
+  literal_form: Severe gale of wind / storm / breeze
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Oak uprooted and cast into the river
+  summary: A severe gale uproots an oak on a riverbank and throws it across the stream
+    among reeds growing by the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oak questions the reeds
+  summary: The oak asks why the frail reeds survived the storm while it was torn up
+    by the roots and hurled into the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reeds explain yielding
+  summary: The reeds answer that the oak resisted the stronger storm, while they bend
+    and yield to each breeze so the gale passes over them harmlessly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: flexibility survives destructive force
+  taxonomy_refs:
+  - wisdom
+  basis: The reeds survive the gale by bending and yielding, while the stronger oak
+    is uprooted after resisting the storm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied taxonomy contains only broad motif-family labels; this is
+    classified under wisdom because the passage presents an explanatory moral pattern
+    rather than an explicit mythic episode.
+- id: motif:2
+  label: strength defeated by rigidity
+  taxonomy_refs:
+  - wisdom
+  basis: The oak’s strength does not save it because it fights the storm; the reeds
+    identify stubborn resistance as the cause of its defeat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable lesson motif rather than a named taxonomy item in the
+    supplied list.
+- id: motif:3
+  label: personified plants debate conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The oak and reeds speak to one another, and their exchange contrasts two
+    responses to danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The motif label is descriptive and not a supplied taxonomy identifier.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1609-1613
+  quote_or_summary: An oak growing on a riverbank is uprooted by a severe gale, thrown
+    across the stream, and falls among reeds growing by the water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 1613-1617
+  quote_or_summary: The oak asks how the reeds, “so frail and slender,” weathered
+    the storm while it was “torn up by the roots and hurled into the river.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 1617-1619
+  quote_or_summary: The reeds answer that the oak was “stubborn” and fought the stronger
+    storm, while they “bow and yield to every breeze.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and self-contained. Motif candidates are limited to
+    descriptive wisdom-fable patterns supported by the supplied text; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1609-l1619
+  passage_sha256=c82c3c65de0371ba216cb3e1408a03b56e345030e874ceafeadba0fd53b1f5c1
+

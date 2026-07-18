@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1593-l1606
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BEAR AND THE TRAVELLERS / THE SLAVE AND THE LION / THE FLEA AND THE MAN
+    / THE BEE AND JUPITER; lines 1593-1606
+  start: '1593'
+  end: '1606'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Evil wishes, like fowls, come home to roost.
+  summary: A Queen Bee brings honey to Jupiter, asks that bees receive stings to kill
+    honey robbers, and receives stings that cause a bee to die when it stings a man.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Queen Bee from Hymettus flies to Olympus with fresh honey from the hive
+    as a present for Jupiter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jupiter is pleased with the gift and promises to give the Queen Bee anything
+    she asks for.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Queen Bee asks Jupiter to give bees stings so they can kill people who
+    rob them of honey.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jupiter is displeased by the request because he loves mankind, but he says
+    the bees will have stings because he had given his word.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stings Jupiter gives bees remain in the wound when a bee stings a man,
+    and the bee dies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stated moral says that evil wishes return to the one who makes them.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Queen Bee from Hymettus
+  description: A Queen Bee who brings honey to Jupiter and asks for stings for bees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Jupiter
+  description: The recipient of the honey gift, pleased by it, who promises a boon
+    and then grants stings with a fatal condition for bees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bees
+  description: The collective for whom the Queen Bee requests stings and who receive
+    stings that cause their own death when used on a man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mankind / people who rob honey
+  description: People whom the Queen Bee wants bees to kill if they rob honey; Jupiter
+    is said to love mankind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: gift-bearing supplicant
+  assigned_to:
+  - fig:1
+  basis: The Queen Bee brings honey as a present and then makes a request of Jupiter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine boon-giver
+  assigned_to:
+  - fig:2
+  basis: Jupiter promises to give the Queen Bee what she asks for and grants stings
+    to bees.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: armed collective with self-harming weapon
+  assigned_to:
+  - fig:3
+  basis: The bees receive stings, but a bee dies whenever it stings a man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: intended victims protected by divine reluctance
+  assigned_to:
+  - fig:4
+  basis: The Queen Bee asks for stings to kill people who rob honey, while Jupiter
+    is displeased because he loves mankind.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Honey gift
+  literal_form: fresh honey from the hive
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Sting
+  literal_form: stings given to bees
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Olympus
+  literal_form: Olympus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Honey offering at Olympus
+  summary: The Queen Bee brings fresh honey from the hive to Olympus as a gift for
+    Jupiter, who promises her a boon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for deadly stings
+  summary: The Queen Bee asks for stings that would let bees kill people who rob their
+    honey; Jupiter is displeased but bound by his promise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Boon with fatal consequence
+  summary: Jupiter gives bees stings, but the sting remains in the wound when used
+    on a man and the bee dies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Moral conclusion
+  summary: The fable states that evil wishes return to the one who sends them out.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Gift to deity followed by requested boon
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Queen Bee gives honey to Jupiter, and Jupiter responds by promising to
+    give her whatever she asks.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a fable exchange rather than an explicit ritual or
+    cultic exchange; the taxonomy link is broad.
+- id: motif:2
+  label: Harmful wish rebounds on the wisher
+  taxonomy_refs: []
+  basis: The Queen Bee asks for a weapon to kill honey robbers, but the granted stings
+    cause bees to die when they sting a man; the moral states that evil wishes come
+    home to roost.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this rebound pattern.
+- id: motif:3
+  label: Divine boon limited by unintended consequence
+  taxonomy_refs: []
+  basis: Jupiter grants the requested stings after giving his word, but gives them
+    in a form that kills the bee using them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call the result a punishment or judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1593-1597
+  quote_or_summary: The Queen Bee from Hymettus brings fresh honey from the hive to
+    Olympus as a present to Jupiter; pleased, Jupiter promises her anything she asks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 1598-1601
+  quote_or_summary: The Queen Bee asks for stings to kill honey robbers; Jupiter is
+    displeased because he loves mankind but says bees will have stings because he
+    gave his word.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 1601-1603
+  quote_or_summary: The stings Jupiter gives bees are such that when a bee stings
+    a man, the sting remains in the wound and the bee dies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: 1605-1606
+  quote_or_summary: "“Evil wishes, like fowls, come home to roost.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is cautious because the closest supplied taxonomy category is broad. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1593-l1606
+  passage_sha256=818f6f13916f7e477834708aed30522edfc6dcc44310615ecccff41813a07e4d
+

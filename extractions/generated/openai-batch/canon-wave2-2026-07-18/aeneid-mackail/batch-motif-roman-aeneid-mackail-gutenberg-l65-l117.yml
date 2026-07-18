@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l65-l117
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: The Aeneid of Virgil / THE AENEID OF VIRGIL / PREFACE; lines 65-117
+  start: '65'
+  end: '117'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives the title and publication information for J. W. Mackail's
+    English translation of Virgil's Aeneid, then opens the preface by discussing the
+    limitations of prose translation, Mackail's textual basis, his use of commentary
+    attributed to Servius, and acknowledgments of assistance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as an English translation of Virgil's Aeneid
+    by J. W. Mackail, published in London by MacMillan and Co. in 1885.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface states that prose translation of poetry cannot fully convey the
+    poetical quality of poetry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The preface says Virgil depends especially on poetical quality throughout
+    his work.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface compares prose translation to a copy of a great painting made
+    in mosaic, and also mentions Berlin wool as a possible closer analogy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The translator says he mainly followed the text of Conington and Nettleship
+    and used their notes throughout.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The translator says he made constant use of ancient commentary going under
+    the name of Servius and sometimes followed its explanations against modern editors.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The translator thanks Evelyn Abbott and H. C. Beeching for suggestion and
+    criticism.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: J. W. Mackail
+  description: Named translator of the English version and speaker of the preface.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Virgil
+  description: Named poet whose work is being translated; described as depending strongly
+    on poetical quality and as his own best interpreter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Conington and Nettleship
+  description: Named editors whose text and notes the translator mainly followed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Servius
+  description: Name under which a mass of ancient commentary is said to go.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Evelyn Abbott
+  description: Named Fellow and Tutor of Balliol thanked for suggestion and criticism.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: H. C. Beeching
+  description: Named person thanked for suggestion and criticism.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: translator and preface speaker
+  assigned_to:
+  - fig:1
+  basis: The title page names J. W. Mackail as translator, and the preface uses first-person
+    statements about the translation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: source poet
+  assigned_to:
+  - fig:2
+  basis: Virgil is named as the poet whose poetry is being translated and interpreted.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: textual authorities used by translator
+  assigned_to:
+  - fig:3
+  basis: The translator states that he mainly followed their text and used their notes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ancient commentary authority
+  assigned_to:
+  - fig:4
+  basis: The translator describes using ancient commentary under the name Servius
+    and sometimes following it over modern editors.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: acknowledged advisers and critics
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The translator thanks them for valuable suggestion and criticism.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: translation as mosaic copy
+  literal_form: a copy of a great painting executed in mosaic
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: translation as Berlin wool copy
+  literal_form: a copy in Berlin wool
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: poetic and prose language as material states
+  literal_form: language in fusion; language fixed and crystallised
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preface on the limits of prose translation
+  summary: The translator discusses why prose translation of poetry is inadequate
+    to convey poetry's poetical quality, especially in Virgil, and uses visual craft
+    analogies for the translation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Translator states textual and commentary sources
+  summary: The translator identifies his use of Conington and Nettleship's text and
+    notes, ancient commentary attributed to Servius, and a principle of reading Virgil
+    through Virgil himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Acknowledgments
+  summary: The translator thanks Evelyn Abbott and H. C. Beeching for suggestion and
+    criticism.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 65-82
+  quote_or_summary: Title and publication matter identify The Aeneid of Virgil, translated
+    into English by J. W. Mackail, London, MacMillan and Co., 1885, followed by the
+    heading 'PREFACE.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 84-97
+  quote_or_summary: The preface argues that prose translation of poetry cannot convey
+    poetry's poetical quality; it describes poetic language as 'language in fusion,'
+    prose as 'fixed and crystallised,' and compares the translation to a copy of a
+    painting in mosaic or Berlin wool.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; short excerpts within summary.
+- id: ev:3
+  type: summary
+  locator: lines 98-103
+  quote_or_summary: The translator says he mainly followed Conington and Nettleship's
+    text, noted important deviations, and used their notes throughout.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 105-111
+  quote_or_summary: The translator says he used ancient commentary under the name
+    Servius, sometimes following it against modern editors, and adds that Virgil seems
+    increasingly to be his own best interpreter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 113-114
+  quote_or_summary: The translator thanks Evelyn Abbott and H. C. Beeching for valuable
+    suggestion and criticism.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is prefatory and contains no mythic narrative episode. Extracted
+    items are limited to stated persons, textual roles, analogical images, and preface
+    actions. Motif and comparison arrays are intentionally empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif refs were applied because the passage does not itself present a mythological motif or comparative claim.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l65-l117
+  passage_sha256=a16a03b0bd11a9a08d2758c844ab25e3c8b5dcd6a753bf9769a03e64f8c215b8
+

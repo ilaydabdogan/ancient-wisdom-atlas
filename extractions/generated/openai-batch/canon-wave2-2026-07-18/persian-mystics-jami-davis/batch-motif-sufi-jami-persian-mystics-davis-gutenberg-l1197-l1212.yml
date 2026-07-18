@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1197-l1212
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FINITE AND INFINITE BEAUTY / HOW TO OBTAIN UNION WITH THE DIVINE / TRUTH
+    / THE GOD BEHIND THE VEIL; lines 1197-1212
+  start: '1197'
+  end: '1212'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Without a veil none could endure the sight
+  summary: The speaker addresses a beautiful, veiled figure and asks why the face
+    remains hidden. The figure replies that, unlike earthly beauties, he can still
+    be described while veiled. The passage explains that the unveiled face would be
+    too bright for any eye, comparing divine brightness to sunlight softened by cloud.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is titled “THE GOD BEHIND THE VEIL.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker addresses a beautiful figure as a rose with a rosebud
+    mouth and asks why the figure hides the face.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed figure smiles and says that, unlike earthly beauties, he may
+    still be described while veiled.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the figure’s uncovered face would be too bright and
+    that no one could endure seeing it without a veil.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage asks what eye could gaze on the dazzling splendour of the fount
+    of light.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage compares intense sunlight in the sky to light tempered by a veil
+    of cloud, which becomes soft and pleasant to the eye.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: First-person speaker
+  description: The “I” who sighs and asks why the beautiful figure hides the face.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Veiled divine figure
+  description: The figure addressed as the fairest rose; identified by the passage
+    title as God behind the veil, described as veiled, bright, and linked to the fount
+    of light.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker sighs and asks why the addressed figure hides the face.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Veiled beloved
+  assigned_to:
+  - fig:2
+  basis: The figure is addressed in imagery of beauty and is said to remain veiled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Unendurable source of light
+  assigned_to:
+  - fig:2
+  basis: The face would be too bright uncovered, and the passage links it with the
+    dazzling fount of light.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Veil
+  literal_form: Veil covering or tempering the face/light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Rose and rosebud mouth
+  literal_form: Fairest rose; rosebud mouth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Hidden face
+  literal_form: Face hidden and potentially uncovered
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Fount of light
+  literal_form: Dazzling splendour of the fount of light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sun and cloud
+  literal_form: Sun blazing in the sky; veil of cloud softening its light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Question to the veiled figure
+  summary: The speaker addresses the beautiful veiled figure and asks why the face
+    is hidden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reply from the veiled figure
+  summary: The veiled figure answers that he can still be described while veiled,
+    unlike earthly beauties.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanation of veiled brightness
+  summary: The passage explains that the uncovered face would be intolerably bright,
+    like intense sunlight made bearable by a veil of cloud.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Veiled divine beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage presents a beautiful veiled figure identified by the title as
+    God, addressed in beloved imagery and described as hidden behind a veil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The beloved language is poetic; the passage does not narrate a full courtship
+    or union episode.
+- id: motif:2
+  label: Unendurable divine radiance tempered for perception
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the uncovered face would be too bright to endure and uses
+    the sun softened by cloud as an analogy for mediated perception.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy has no specific category for veiled revelation
+    or moderated divine light; “wisdom” is a broad fit.
+- id: motif:3
+  label: Mystical approach through concealment
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker asks why the divine figure is hidden, and the answer explains
+    the necessity of veiling for human sight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is primarily lyric and explanatory rather than a full quest
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1197'
+  quote_or_summary: 'Title: “THE GOD BEHIND THE VEIL.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 1199-1200
+  quote_or_summary: "“O fairest rose, with rosebud mouth,” the speaker asks why the
+    figure hides the face."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 1201-1202
+  quote_or_summary: The figure smiles and says that, unlike earthly beauties, “Even
+    when veiled I still may be described.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 1204-1205
+  quote_or_summary: The face uncovered would be too bright; without a veil none could
+    endure the sight.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 1206-1207
+  quote_or_summary: The passage asks what eye can gaze on “the dazzling splendour
+    of the fount of light.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 1209-1212
+  quote_or_summary: Sunlight blazing in the sky causes pain by intensity, but when
+    tempered by a veil of cloud it is soft and pleasant to the eye.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the available taxonomy lacks a precise label for divine veiling or moderated revelation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1197-l1212
+  passage_sha256=291d3969080f759b861b18a6db3dcb50aa75c79e42d9d192d80fbca2a067b424
+

@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l22647-l22755
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZING.A  NEK  WANE. / UBONGOPA-KAMAGADHLELA. / UBONGOPA-KAMAGADHLELA. / IZINGANEKWANE.;
+    lines 22647-22755
+  start: '22647'
+  end: '22755'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A male figure returns with cattle, calls Ubongopa-kamagadhlela into the
+    pen, and eats on top of his ox. He grows up without knowing fire, without wearing
+    a garment, and without touching the ground. Thieves from another tribe repeatedly
+    try to steal the cattle at night, but the cattle do not rise when beaten and the
+    thieves' sticks break. In the morning, the male figure wakes the named ox and
+    commands the herd to graze and return.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The named ox and all the cattle enter the pen after the male figure speaks
+    an entry command.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Food is brought to the male figure, and he eats it on top of his ox.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: The male figure grows up without knowing fire, without wearing a garment,
+    and without having trodden on the ground.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thieves from another tribe come at night to steal the cattle, open the gate,
+    and carry sticks while the people are asleep.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the thieves beat the cattle, the cattle do not get up and the thieves'
+    sticks break.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: In the morning the male figure wakes Ubongopa-kamagadhlela and directs the
+    ox and cattle to go graze, eat, and return.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the evening the gateway is closed and the people shut themselves in their
+    houses before the thieves return.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male youth or young man
+  description: A male figure who speaks commands to Ubongopa-kamagadhlela and the
+    cattle, eats on top of his ox, and grows into a young man without fire, garment,
+    or treading on the ground.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Ubongopa-kamagadhlela
+  description: The named ox addressed by the male figure; the ox enters the pen, is
+    awakened in the morning, and serves as the place where the male figure eats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the cattle
+  description: The herd that enters the pen, goes to graze and returns on command,
+    and does not rise when thieves beat it.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: thieves from another tribe
+  description: Men who come at night to steal the cattle, open the gateway, carry
+    sticks, and beat the cattle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: the people
+  description: People who are asleep during the theft attempts and later shut themselves
+    in their houses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: commanding cattle-speaker
+  assigned_to:
+  - fig:1
+  basis: He gives verbal commands for entry, waking, grazing, eating, and returning,
+    and the ox and cattle comply.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: named ox and elevated support
+  assigned_to:
+  - fig:2
+  basis: Ubongopa-kamagadhlela is named in commands and is the ox on which the male
+    figure eats.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: obedient herd
+  assigned_to:
+  - fig:3
+  basis: The cattle enter the pen, graze, and return after commands.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: target of theft attempt
+  assigned_to:
+  - fig:3
+  basis: Thieves come to steal the cattle and beat them, but they do not rise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:5
+  label: attempted cattle thieves
+  assigned_to:
+  - fig:4
+  basis: They come from another tribe by night, open the gateway, and try to drive
+    off the cattle with sticks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:6
+  label: sleeping community
+  assigned_to:
+  - fig:5
+  basis: The people are asleep during the first attempt and later shut themselves
+    in houses and sleep.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: secluded or unusually reared youth
+  assigned_to:
+  - fig:1
+  basis: He grows up unacquainted with fire, without a garment, and without treading
+    on the ground.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: named ox as elevated place
+  literal_form: ox, Ubongopa-kamagadhlela
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: cattle herd
+  literal_form: cattle
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire unknown to the youth
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: untrodden ground
+  literal_form: ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: gate or gateway
+  literal_form: gate/gateway of the cattle enclosure
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:6
+  label: breaking sticks
+  literal_form: sticks carried by the thieves
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return and entry into the pen
+  summary: The male figure returns with the cattle, addresses Ubongopa-kamagadhlela,
+    and the named ox and all the cattle enter the pen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Life and growth on the ox
+  summary: Food is brought to the male figure; he eats on top of his ox and grows
+    to young manhood without knowing fire, wearing a garment, or touching the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First night theft attempt
+  summary: Thieves from another tribe enter by the gate while the people sleep, beat
+    the cattle with sticks, but the cattle do not rise and the sticks break.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Morning herding commands
+  summary: In the morning the male figure wakes Ubongopa-kamagadhlela and commands
+    the ox and cattle to graze, eat, and return; the cattle obey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Second evening theft attempt
+  summary: After the gateway is closed and the people sleep in their houses, the thieves
+    return, open the gateway, beat the cattle, and their sticks break again.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: youth reared apart from ordinary human conditions
+  taxonomy_refs:
+  - miraculous_child
+  basis: The male figure grows into a young man while unacquainted with fire, without
+    wearing a garment, and without treading on the ground.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes an unusual upbringing but does not describe the
+    figure's birth or explicitly call him miraculous.
+- id: motif:2
+  label: animal-supported youth
+  taxonomy_refs: []
+  basis: The male figure eats on top of his ox and is associated with remaining above
+    the ground on the ox.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the passage gives only
+    the local narrative form.
+- id: motif:3
+  label: herd obeys spoken commands
+  taxonomy_refs: []
+  basis: The named ox and the cattle enter the pen, graze, eat, and return when the
+    male figure commands them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern rather than a matched external motif type.
+- id: motif:4
+  label: attempted cattle theft thwarted by immovable cattle and breaking sticks
+  taxonomy_refs: []
+  basis: Thieves repeatedly beat the cattle to make them rise, but the cattle do not
+    rise and the thieves' sticks break.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly state the cause of the cattle's resistance
+    or the breaking sticks.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22647-22755; opening return and pen-entry formula
+  quote_or_summary: The male figure tells Ubongopa-kamagadhlela to enter the pen;
+    he enters and all the cattle enter.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: 22647-22755; growth description after pen entry
+  quote_or_summary: His food is brought and he eats on top of his ox; he grows up
+    unacquainted with fire, without a garment, and without treading on the ground.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: 22647-22755; first theft attempt begins
+  quote_or_summary: Thieves from another tribe come to steal the cattle, open the
+    gate, and enter with sticks while the people are asleep.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: 22647-22755; first theft attempt outcome
+  quote_or_summary: The thieves beat the cattle, but the cattle do not arise; the
+    sticks break and the thieves leave by night.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: 22647-22755; morning herding sequence
+  quote_or_summary: In the morning he wakes Ubongopa-kamagadhlela and commands the
+    ox and cattle to graze, eat, and return; they obey, and he eats on the ox.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: 22647-22755; evening repetition of theft attempt
+  quote_or_summary: In the evening the gateway is closed, the people sleep in their
+    houses, and the thieves return, open the gateway, beat the cattle, and the sticks
+    break.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. The passage appears to
+    be an excerpt from a longer tale, so names and prior context for the male figure
+    may be missing. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison_claims were added because the supplied passage itself does not make or support a specific comparison to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l22647-l22755
+  passage_sha256=d1269afaf4c3c6d90212bd1f59db097f0e7a7cff7449ada7d354d86e9106342f
+

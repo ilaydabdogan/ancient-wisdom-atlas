@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1415-l1424
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF IN SHEEP'S CLOTHING / THE STAG IN THE OX-STALL / THE MILKMAID AND
+    HER PAIL / THE DOLPHINS, THE WHALES, AND THE SPRAT; lines 1415-1424
+  start: '1415'
+  end: '1424'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"We would rather go on fighting till we''re all killed than be reconciled
+    by a Sprat like you!"'
+  summary: Dolphins and Whales quarrel and fight fiercely. A Sprat tries to mediate,
+    but a Dolphin rejects reconciliation through such a mediator, preferring continued
+    fighting even to mutual death.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Dolphins quarrel with the Whales and begin fighting one another.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The battle is described as very fierce and continuing for some time without
+    signs of ending.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Sprat steps in and tries to persuade the fighters to stop and make friends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One Dolphin answers contemptuously that the Dolphins would rather keep fighting
+    until all are killed than be reconciled by the Sprat.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dolphins
+  description: A collective party in the quarrel and battle; one Dolphin speaks contemptuously
+    to the Sprat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Whales
+  description: A collective party opposed to the Dolphins in the quarrel and battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Sprat
+  description: A smaller sea creature who attempts to stop the fighting and bring
+    about friendship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: warring parties
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Dolphins and Whales quarrel and fight each other.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rejected mediator
+  assigned_to:
+  - fig:3
+  basis: The Sprat attempts to stop the battle and persuade the combatants to make
+    friends, but is rejected.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: contemptuous rejecting speaker
+  assigned_to:
+  - fig:1
+  basis: One of the Dolphins contemptuously refuses reconciliation by the Sprat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dolphins
+  literal_form: collective marine animals in conflict
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Whales
+  literal_form: collective marine animals in conflict
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Sprat
+  literal_form: small marine animal acting as mediator
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fierce battle between Dolphins and Whales
+  summary: The Dolphins and Whales quarrel, begin fighting, and continue in a fierce
+    battle that shows no sign of ending.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sprat's rejected peacemaking attempt
+  summary: The Sprat intervenes to persuade the combatants to stop fighting and make
+    friends, but a Dolphin rejects reconciliation through the Sprat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal groups locked in destructive conflict
+  taxonomy_refs: []
+  basis: Two collective animal groups quarrel and fight in a fierce battle that does
+    not seem near an end.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a supplied mythological
+    taxonomy match.
+- id: motif:2
+  label: humble mediator rejected by proud combatant
+  taxonomy_refs: []
+  basis: A Sprat attempts to mediate, but a Dolphin rejects being reconciled by a
+    Sprat and speaks contemptuously.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports the social contrast between mediator and combatants
+    through the contemptuous rejection, but gives no explicit moral in the supplied
+    text.
+- id: motif:3
+  label: preference for mutual destruction over lowly reconciliation
+  taxonomy_refs: []
+  basis: The Dolphin says they would rather continue fighting until all are killed
+    than accept reconciliation by the Sprat.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The formulation is limited to the Dolphin's speech in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1415-1418
+  quote_or_summary: '"The Dolphins quarrelled with the Whales" and soon began fighting
+    with one another.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 1418-1420
+  quote_or_summary: The battle is described as very fierce and lasting for some time
+    with no sign that it will end.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1420-1422
+  quote_or_summary: A Sprat thinks he might stop the fighting, steps in, and tries
+    to persuade the combatants to stop and make friends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1422-1424
+  quote_or_summary: A Dolphin says they would rather fight until all are killed than
+    "be reconciled by a Sprat like you."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The literal action and roles are explicit. Motif labels are descriptive passage-level
+    patterns without taxonomy matches. No comparison claims are made because the supplied
+    passage does not itself establish external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1415-l1424
+  passage_sha256=fb869c4e7e7534280625531df184170890d9be4801f94366895cc4c6774f032f
+

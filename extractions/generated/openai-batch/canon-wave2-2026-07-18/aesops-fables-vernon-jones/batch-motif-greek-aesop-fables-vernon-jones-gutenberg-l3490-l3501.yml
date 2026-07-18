@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3490-l3501
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MONKEY AND THE CAMEL / THE SICK MAN AND THE DOCTOR / THE TRAVELLERS AND
+    THE PLANE-TREE / THE FLEA AND THE OX; lines 3490-3501
+  start: '3490'
+  end: '3501'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"Men are very kind to me, and so I am grateful to them"'
+  summary: A Flea asks an Ox why the strong Ox serves humans and does their work while
+    the tiny Flea lives on human bodies, drinks blood, and does no work. The Ox says
+    humans feed, house, and fondly pat him, so he is grateful. The Flea replies that
+    if it allowed humans to pat it, nothing would be left of it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The supplied passage is headed "THE FLEA AND THE OX."
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Flea speaks to an Ox.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Flea describes the Ox as big and strong, serving mankind and doing hard
+    work for humans.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Flea describes itself as very small, living on human bodies, drinking
+    human blood, and doing no work for it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Ox replies that humans are kind to him, feed and house him well, and sometimes
+    pat his head and neck.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Flea says humans would pat it too if it allowed them, but it avoids this
+    because nothing would be left of it.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Flea
+  description: A small flea that says it lives on human bodies, drinks human blood,
+    does no work, and avoids being patted by humans.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Ox
+  description: A big, strong ox that serves mankind, does hard work, and says it is
+    grateful to humans because they feed, house, and pat it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mankind / Men
+  description: Humans who are served by the Ox, are lived on and bitten for blood
+    by the Flea, and who feed, house, and pat the Ox.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The Flea initiates the dialogue by questioning the Ox about serving humans.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: laboring servant of humans
+  assigned_to:
+  - fig:2
+  basis: The Flea says the Ox is content to serve mankind and do hard work for humans.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: grateful recipient of care
+  assigned_to:
+  - fig:2
+  basis: The Ox says humans are kind, feed and house him well, and pat him affectionately.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: blood-drinking nonworker
+  assigned_to:
+  - fig:1
+  basis: The Flea says it lives on human bodies, drinks its fill of their blood, and
+    does no work.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: human masters and caretakers
+  assigned_to:
+  - fig:3
+  basis: Humans receive the Ox's labor and also feed, house, and pat the Ox.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Ox
+  literal_form: Large strong working animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Flea
+  literal_form: Small blood-drinking parasite
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Patting on the head and neck
+  literal_form: Human gesture of patting an animal's head and neck
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Blood
+  literal_form: Human blood drunk by the Flea
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Flea questions the Ox
+  summary: The Flea asks why the strong Ox serves mankind and works hard while the
+    Flea lives on humans, drinks blood, and does no work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ox explains gratitude toward humans
+  summary: The Ox answers that humans treat him kindly by feeding and housing him
+    and by patting him on the head and neck.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Flea explains danger of being patted
+  summary: The Flea says it avoids being patted by humans because such contact would
+    leave nothing of it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal dialogue contrasting service and parasitism
+  taxonomy_refs: []
+  basis: 'The Flea and the Ox discuss two different relations to humans: the Ox works
+    for humans and receives care, while the Flea feeds on humans without working.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif label summarizes
+    the dialogue pattern.
+- id: motif:2
+  label: Boast answered by admission of vulnerability
+  taxonomy_refs: []
+  basis: The Flea initially contrasts its idle blood-drinking life with the Ox's labor,
+    but then admits that human patting would destroy it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The text does not explicitly call the Flea's first speech a boast; that
+    characterization is inferred from the contrast it makes.
+- id: motif:3
+  label: Gratitude for care in exchange for labor
+  taxonomy_refs: []
+  basis: The Ox explains its willingness to serve humans by citing human kindness,
+    food, housing, and affectionate patting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local fable pattern rather than a mapped taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '3490'
+  quote_or_summary: '"THE FLEA AND THE OX"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3492-3497
+  quote_or_summary: The Flea asks why the big strong Ox serves mankind and does hard
+    work, while the tiny Flea lives on human bodies, drinks blood, and does no work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3497-3500
+  quote_or_summary: 'The Ox replies that humans are kind to him: they feed and house
+    him well and sometimes pat his head and neck.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3500-3501
+  quote_or_summary: The Flea says humans would pat it too if it let them, but it prevents
+    this because otherwise nothing would be left of it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    summarize local fable patterns and should be reviewed. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text and metadata. No available taxonomy motif or symbol reference was assigned because the passage does not directly support one of the supplied taxonomy labels.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3490-l3501
+  passage_sha256=5574872b0aee4836502c3fcb3691bcf8561a54bee6569a4a89f529358496e20c
+

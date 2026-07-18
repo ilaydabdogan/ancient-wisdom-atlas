@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2730-l2771
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXIV. / XXVI. / XXVII. / XXVIII.; lines 2730-2771
+  start: '2730'
+  end: '2771'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: I came like Water, and like Wind I go.
+  summary: Two quatrains describe a speaker's youthful attendance on learned and holy
+    authorities, an unchanged return by the same door, and an attempt to cultivate
+    Wisdom whose harvest is the statement that the speaker came like water and goes
+    like wind. The accompanying notes connect these quatrains with source quatrains
+    about teachers, a falcon's ascent and return, and the unsolved secrets of eternity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In XXVII, the first-person speaker says that, when young, he frequented Doctor
+    and Saint and heard great argument.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he came out by the same door through which he entered.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In XXVIII, the speaker says he sowed the seed of Wisdom, worked with his own
+    hand to make it grow, and reaped a harvest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated harvest is the declaration that the speaker came like Water and
+    goes like Wind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentary says that XXVII and XXVIII must be considered together and
+    are inspired by O. 121, C. 281, and O. 72.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The O. 121 source quatrain describes youthful attendance on a teacher, contentment
+    with proficiency, and the conclusion that the speakers came like water and went
+    like wind.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The C. 281 source quatrain describes a speaker who was once a falcon, flew
+    from the World of mystery toward heights above, found no intimate friend, and
+    came out by the same door by which he entered.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The O. 72 source quatrain states that no one has solved the tangled secrets
+    of eternity or gone beyond the orbit of human understanding, and that all men
+    born of women are impotent in this matter.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker of XXVII-XXVIII
+  description: A speaker who recalls youthful study with Doctor and Saint, attempts
+    to cultivate Wisdom, and states that he came like water and goes like wind.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Doctor
+  description: A learned authority whom the young speaker frequented.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Saint
+  description: A holy authority whom the young speaker frequented.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: teacher in O. 121
+  description: A teacher frequented for a while by the speakers in the source quatrain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: plural speakers in O. 121
+  description: Speakers who frequented a teacher, were content with proficiency, and
+    came like water and went like wind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: falcon-speaker in C. 281
+  description: A speaker who says he was once a falcon, flew from the World of mystery
+    to heights above, found no intimate friend, and returned by the same door.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: all men born of women
+  description: A collective human figure described in O. 72 as unable to solve the
+    secrets of eternity or pass beyond human understanding.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wisdom seeker or student
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: The figures attend teachers or authorities, pursue proficiency or wisdom,
+    or fly toward higher mystery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: learned or holy authority
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The Doctor, Saint, and teacher are figures whom the seekers frequent for
+    argument, teaching, or proficiency.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: ascending and returning solitary figure
+  assigned_to:
+  - fig:6
+  basis: The falcon-speaker flies upward from the World of mystery, finds no intimate
+    friend, and returns by the same door.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cultivator of Wisdom
+  assigned_to:
+  - fig:1
+  basis: The speaker sows the seed of Wisdom, works to make it grow, and reaps a harvest.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: humanly limited knower
+  assigned_to:
+  - fig:7
+  basis: O. 72 says no one has solved eternity's secrets or passed beyond the orbit
+    of human understanding.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seed and harvest of Wisdom
+  literal_form: The seed of Wisdom is sown, cultivated by hand, and harvested.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Water
+  literal_form: Water in the phrase about coming like Water.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Wind
+  literal_form: Wind in the phrase about going like Wind.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: same door
+  literal_form: The door by which the speaker enters and exits.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - return
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: falcon
+  literal_form: A falcon-form speaker in the source quatrain.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: World of mystery and heights above
+  literal_form: The World of mystery, below, and the heights above toward which the
+    falcon flies.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mystical_quest
+  - ascent
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: tangled secrets of eternity
+  literal_form: Unsolved secrets of eternity and the orbit of human understanding.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Youthful attendance on Doctor and Saint
+  summary: The speaker recalls attending Doctor and Saint, hearing arguments, and
+    leaving by the same door through which he entered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cultivation and harvest of Wisdom
+  summary: The speaker sows and cultivates Wisdom and identifies the harvest as the
+    statement that he came like Water and goes like Wind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: O. 121 teacher parallel
+  summary: The source quatrain describes speakers who attend a teacher, are satisfied
+    with proficiency, and conclude that they came like water and went like wind.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: C. 281 falcon ascent and return
+  summary: The falcon-speaker flies from the World of mystery toward heights above,
+    finds no intimate friend, and returns through the same door.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: O. 72 limits of human understanding
+  summary: The source quatrain states that the secrets of eternity remain unsolved
+    and that humans cannot pass beyond the orbit of understanding.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unresolved quest for wisdom
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage repeatedly presents study, argument, cultivation of Wisdom, and
+    the unsolved secrets of eternity without attaining final knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is lyric and reflective rather than a narrative quest episode.
+- id: motif:2
+  label: return by the same door
+  taxonomy_refs:
+  - return
+  basis: Both XXVII and the C. 281 source quatrain state that the speaker comes out
+    by the same door through which he entered.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The door is metaphorical in context; no literal building or threshold
+    is specified.
+- id: motif:3
+  label: ephemeral coming and going as water and wind
+  taxonomy_refs:
+  - departure
+  basis: XXVIII and O. 121 use the formula of coming like water and going like wind.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no direct wind or transience motif; departure
+    is a broad fit.
+- id: motif:4
+  label: ascent from mystery toward heights
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The C. 281 source quatrain describes a falcon flying from the World of mystery
+    from below to heights above.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif appears in the cited source quatrain included in the passage,
+    not directly in FitzGerald's two quatrains.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly links XXVII and XXVIII to O. 121, C. 281, and O.
+    72 as inspirations or contributors.
+  claim_level: historical_contact
+  target: O. 121, C. 281, and O. 72 source quatrains
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the passage's editorial note and is not independently
+    verified within the extraction.
+- id: claim:2
+  claim: XXVIII and O. 121 share a learning context and the water/wind arrival-and-departure
+    formula.
+  claim_level: same_motif
+  target: O. 121
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the cited motifs and wording in this passage.
+- id: claim:3
+  claim: XXVII and C. 281 share the pattern of return through the same door after
+    an attempted pursuit beyond ordinary knowledge.
+  claim_level: same_motif
+  target: C. 281
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The C. 281 source includes explicit falcon-ascent imagery that is absent
+    from XXVII.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2730-2735
+  quote_or_summary: 'XXVII: the speaker, when young, frequents Doctor and Saint, hears
+    argument, and comes out by the same door wherein he went.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2736-2742
+  quote_or_summary: 'XXVIII: the speaker sows the seed of Wisdom, cultivates it, and
+    reaps the harvest: “I came like Water, and like Wind I go.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2743-2753
+  quote_or_summary: The commentary says XXVII and XXVIII should be considered together
+    and are inspired by O. 121, C. 281, and O. 72; O. 121 describes attending a teacher
+    and coming like water, going like wind.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2754-2764
+  quote_or_summary: 'C. 281: a speaker, once a falcon, flies from the World of mystery
+    from below to heights above, finds no intimate friend, and comes out by the same
+    door wherein he went.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2765-2771
+  quote_or_summary: 'O. 72: no one has solved the tangled secrets of eternity or set
+    foot beyond the orbit of human understanding; all men born of women are described
+    as impotent in this matter.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal elements and editorial source links are clear in the provided
+    passage. Motif labels are candidate classifications and should be reviewed, especially
+    where broad taxonomy labels are used for lyric metaphors.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2730-l2771
+  passage_sha256=f7d7956cf204da66120640081a53f928eb4e458cccc92820f93123678f2b0901
+

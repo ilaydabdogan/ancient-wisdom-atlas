@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8208-l8226
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE FIFTH. / EXPLANATION.; lines 8208-8226
+  start: '8208'
+  end: '8226'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes identifying Thessalian Achaia;
+    Aganippe, a Boeotian fountain near Helicon sacred to the Muses; a Fasti story
+    in which Venus becomes a fish to escape the Giants; the Egyptian ibis as a serpent-eating
+    bird; and the origin of the Muses' name Aonides from mountainous Aonia in Boeotia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Achaia mentioned is identified as Hæmonian or Thessalian Achaia, distinct
+    from other parts of Thessaly named Phthiotis and Pelasgiotis.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aganippe is identified as a fountain in Boeotia near Helicon and sacred to
+    the Muses.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aganippe is called Hyantean from the ancient name of the inhabitants of the
+    country.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A story says Venus was transformed into a fish to escape the fury of the Giants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The story of Venus becoming a fish is said to be told at length in the second
+    book of the Fasti.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ibis is described as a bird of Egypt resembling a crane or stork.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The ibis is said to have peculiarly unclean habits and to subsist upon serpents.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Muses obtained the name Aonides from Aonia, a mountainous district of
+    Boeotia.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Venus
+  description: A deity said to have been transformed into a fish to escape the fury
+    of the Giants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Giants
+  description: A group whose fury Venus escapes in the referenced story.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Muses
+  description: A divine collective to whom the fountain Aganippe is sacred and who
+    obtained the name Aonides from Aonia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Ibis
+  description: An Egyptian bird resembling a crane or stork, said to have unclean
+    habits and to subsist upon serpents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: transformed escapee
+  assigned_to:
+  - fig:1
+  basis: Venus is said to become a fish to escape the fury of the Giants.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: threatening group
+  assigned_to:
+  - fig:2
+  basis: The Giants are associated with the fury from which Venus escapes.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sacred recipients and named collective
+  assigned_to:
+  - fig:3
+  basis: Aganippe is sacred to the Muses, and the Muses receive the name Aonides from
+    Aonia.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: serpent-eating bird
+  assigned_to:
+  - fig:4
+  basis: The ibis is said to subsist upon serpents.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Aganippe fountain
+  literal_form: Fountain in Boeotia near Helicon sacred to the Muses.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fish form
+  literal_form: Fish form into which Venus is said to have been transformed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: serpents
+  literal_form: Serpents on which the ibis is said to subsist.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Aonia
+  literal_form: Mountainous district of Boeotia from which the Muses obtained the
+    name Aonides.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Ibis
+  literal_form: Egyptian bird resembling a crane or stork.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Aganippe identified as sacred fountain
+  summary: The note identifies Aganippe as a fountain near Helicon in Boeotia and
+    as sacred to the Muses.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Venus transformed into fish
+  summary: The note alludes to a story in which Venus becomes a fish to escape the
+    fury of the Giants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ibis described with serpents
+  summary: The note describes the ibis as an Egyptian bird resembling a crane or stork
+    and said to subsist upon serpents.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Muses named from Aonia
+  summary: The note says the Muses obtained the name Aonides from Aonia, a mountainous
+    district of Boeotia.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine transformation into animal form for escape
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that Venus was transformed into a fish to escape the fury
+    of the Giants.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The transformation episode is only alluded to in a footnote and is said
+    to be told elsewhere at length.
+- id: motif:2
+  label: Sacred fountain associated with divine figures
+  taxonomy_refs: []
+  basis: Aganippe is identified as a fountain near Helicon sacred to the Muses.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives an explanatory identification, not a narrative episode.
+- id: motif:3
+  label: Serpent-eating bird
+  taxonomy_refs:
+  - serpent
+  basis: The ibis is said to subsist upon serpents.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The serpent association is zoological or explanatory in this note, not
+    developed as a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects the Venus-as-fish transformation story with
+    a fuller treatment in the second book of the Fasti.
+  claim_level: same_motif
+  target: Ovid, Fasti, Book 2
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note reports the connection but does not include the Fasti passage
+    itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8208-8211; Footnote 35
+  quote_or_summary: Achaia is identified as Hæmonian or Thessalian Achaia; other parts
+    of Thessaly are Phthiotis and Pelasgiotis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8213-8216; Footnote 36
+  quote_or_summary: Aganippe is a fountain in Boeotia near Helicon, sacred to the
+    Muses, and called Hyantean from an ancient local name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8218-8220; Footnote 37
+  quote_or_summary: The note refers to the story of Venus transformed into a fish
+    to escape the Giants and says it is told at length in Fasti Book 2.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8222-8225; Footnote 38
+  quote_or_summary: The ibis is described as an Egyptian bird resembling a crane or
+    stork, with unclean habits and a diet of serpents.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8226; Footnote 39
+  quote_or_summary: The Muses are said to have obtained the name Aonides from Aonia,
+    a mountainous district of Boeotia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explanatory footnote material rather than continuous narrative.
+    Literal identifications are clear; motif candidates are limited by the brief allusive
+    form.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported external details were added; motif and comparison entries are based only on the provided footnotes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8208-l8226
+  passage_sha256=b36c80bd9f944db3880f2d0a264b1bd63f4891f7f5248dc395b1628e67a9729e
+

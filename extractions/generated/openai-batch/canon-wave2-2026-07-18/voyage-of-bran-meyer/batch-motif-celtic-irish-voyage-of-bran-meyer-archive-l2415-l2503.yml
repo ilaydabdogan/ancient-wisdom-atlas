@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l2415-l2503
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: IMRAM    BRAIN  35 / FINIT / NOTES / NOTES  37; lines 2415-2503
+  start: '2415'
+  end: '2503'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on readings and translations in The Voyage of Bran. The
+    notes include philological comments, a comparison to Serglige Conculaind in which
+    Manannan comes in a chariot across the sea, and a cited quatrain from a description
+    of Mag Meld mentioning a tree at a fort doorway and a silver tree.
+  language: English with quoted Old Irish forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor suggests that esnach may be cognate with esnad, meaning music or
+    song, and notes that esnad can be used for animal cries such as the bellowing
+    of a stag.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor compares the phrase about a chariot and the sea with Serglige Conculaind,
+    where Manannan is said to come in a chariot across the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The quoted Serglige Conculaind verse includes a rider seen over the sea and
+    imagery of the sea as mane-bearing.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A quoted quatrain in a description of Mag Meld mentions a tree in the doorway
+    of a fort and a silver tree.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Manannan
+  description: Named in the editorial note as the figure who comes in a chariot across
+    the sea in Serglige Conculaind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: chariot-borne sea-crosser
+  assigned_to:
+  - fig:1
+  basis: The note states that Manannan comes in a chariot across the sea in the cited
+    parallel passage.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea-crossing chariot
+  literal_form: A chariot traveling across the sea.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sea
+  literal_form: The sea crossed by Manannan and described in the quoted verse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tree and silver tree
+  literal_form: A tree at the doorway of a fort and a silver tree in the cited Mag
+    Meld quatrain.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Manannan crossing the sea in a chariot
+  summary: In a cited parallel from Serglige Conculaind, Manannan comes in a chariot
+    across the sea; the quoted verse also describes a rider over the sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tree imagery in Mag Meld description
+  summary: A cited quatrain from a description of Mag Meld includes a tree at a fort
+    doorway and a silver tree.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: chariot crossing the sea
+  taxonomy_refs: []
+  basis: The passage explicitly notes a parallel in which Manannan comes in a chariot
+    across the sea, and quotes verse describing a rider over the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is extracted from an editorial comparison rather than from the main
+    narrative passage itself; no broader motif-family assignment is asserted.
+- id: motif:2
+  label: tree at fort doorway and silver tree
+  taxonomy_refs: []
+  basis: The cited Mag Meld quatrain contains tree imagery, including a tree at a
+    fort doorway and a silver tree.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives this as a comparative quotation in a note and does not
+    explain the symbolic function of the tree imagery.
+comparison_claims:
+- id: claim:1
+  claim: The note identifies a parallel between the chariot-at-sea phrase and a Serglige
+    Conculaind passage where Manannan comes in a chariot across the sea.
+  claim_level: same_motif
+  target: Serglige Conculaind, Ir. Texte, p. 225
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the explicit editorial comparison; it does
+    not establish historical contact beyond the cited nearby Irish corpus parallel.
+- id: claim:2
+  claim: The note compares its tree phrase with a quatrain in a description of Mag
+    Meld that also contains tree imagery.
+  claim_level: visual_similarity
+  target: Description of Mag Meld quoted in the notes
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on a short quoted quatrain and does not state
+    a narrative function or shared symbolic meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2415-2503, note 20
+  quote_or_summary: The editor says esnach may be cognate with esnad, 'music, song,'
+    and that esnad can refer to animal notes or cries, such as the bellowing of a
+    stag.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2415-2503, note 32
+  quote_or_summary: "“Manannan comes in a chariot across the sea.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 2415-2503, note 32, quoted Serglige Conculaind verse
+  quote_or_summary: "“Atchiu dar in muir ille ... marcach in tnara mongaig”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 2415-2503, note 43, quoted Mag Meld quatrain
+  quote_or_summary: "“Ata crand i n-dorus liss ... crand airgit”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial notes section with OCR-corrupted Old Irish quotations.
+    Clear motif extraction is limited to the explicit Manannan sea-chariot comparison
+    and the quoted tree imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy motif-family refs were assigned. Available symbol refs were used only for directly present sea/water and tree imagery.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l2415-l2503
+  passage_sha256=469eba80f76545068f01585a4f7df7da8ad926fe4fa8faa47ea4c3f22152f4de
+

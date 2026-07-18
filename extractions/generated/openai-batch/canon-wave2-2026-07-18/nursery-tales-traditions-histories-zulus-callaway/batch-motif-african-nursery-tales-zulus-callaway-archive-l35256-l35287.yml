@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l35256-l35287
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / THE  GREAT  TORTOISE. / THE  GREAT  TORTOISE. / IZIXGANEKWANE.;
+    lines 35256-35287
+  start: '35256'
+  end: '35287'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A group is lost after an event ending at a pool; only one person escapes
+    and returns home crying. Men ask him to show where a rock had been. At the place,
+    he identifies the former location of the rock. The men ask whether it was actually
+    a tortoise and whether the children have been devoured. The children are not seen
+    again; mourning follows, and the account is told to all the people.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The English translation begins with a fragment ending in “pool,” indicating
+    that a pool belongs to the immediate narrative context, though the full prior
+    sentence is outside the supplied passage.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All of the group are lost except one person, who escapes and goes home crying.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men go out and ask the escaped person to show them where the rock had been.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The escaped person points out the place where the rock used to be.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The men ask whether the rock was a tortoise and whether the children have
+    been devoured.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The missing children are not seen again; mourning follows, and the history
+    is told to all the people.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: escaped survivor
+  description: The one person who escapes, returns home crying, and guides the men
+    to the former place of the rock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the men
+  description: Men who go out to investigate, ask to be shown where the rock was,
+    and question whether the children were devoured by a tortoise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the children
+  description: The children referred to by the men as possibly devoured; they are
+    not seen again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: possible tortoise
+  description: A tortoise named in the men’s question about whether the former rock
+    was actually a tortoise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: survivor-witness and guide
+  assigned_to:
+  - fig:1
+  basis: This figure alone escapes, returns crying, and points out the place where
+    the rock had been.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: investigators
+  assigned_to:
+  - fig:2
+  basis: The men go out, ask for the location of the rock, and pose questions about
+    the tortoise and the devouring of the children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: missing or devoured children
+  assigned_to:
+  - fig:3
+  basis: The men explicitly ask whether the children have been devoured, and the passage
+    says they are not seen again.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: suspected devouring animal
+  assigned_to:
+  - fig:4
+  basis: The tortoise is not directly described acting in this excerpt, but the men
+    ask whether the rock was a tortoise and whether the children were devoured.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pool
+  literal_form: pool
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vanished rock
+  literal_form: rock
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tortoise
+  literal_form: tortoise
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Loss and escape
+  summary: In a context ending with a pool, all are lost except one person, who escapes
+    and returns home crying.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Search for the former rock
+  summary: The men take the survivor to identify the place where the rock had been,
+    and he points it out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Question of tortoise and devouring
+  summary: The men ask whether the rock was a tortoise and whether the children were
+    devoured; the missing children are never seen again, and mourning follows.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: possible rock-like tortoise devours children
+  taxonomy_refs:
+  - shapeshifter
+  basis: The men connect the former rock with a tortoise and ask whether the children
+    have been devoured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The supplied lines preserve a question rather than an explicit account
+    of transformation or disguise; the taxonomy reference is therefore tentative.
+- id: motif:2
+  label: sole survivor reports the disappearance of a group
+  taxonomy_refs: []
+  basis: Only one person escapes, returns home crying, and later guides others to
+    the place connected with the loss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The exact preceding circumstances of the group’s loss are not included
+    in the supplied passage.
+- id: motif:3
+  label: irrecoverable loss followed by communal mourning
+  taxonomy_refs: []
+  basis: The missing children are not seen again; mourning follows, and the account
+    is communicated to all the people.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only the aftermath and communal response, not the full
+    earlier event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 35256-35287, English translation fragment
+  quote_or_summary: The translation opens with the fragment “pool.” It then says that
+    “all” were lost except one who went home crying.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 35256-35287, English translation
+  quote_or_summary: The men ask him to show “the place where the rock was,” and he
+    answers that this is where the rock “used to be.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 35256-35287, English translation
+  quote_or_summary: The men ask, “Was it then a tortoise? Have then the children been
+    devoured?”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 35256-35287, English translation
+  quote_or_summary: The children are seen no more; people mourn, and the history is
+    told to all the people.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt appears to be the ending of a tale, so the immediate cause of
+    the loss is partly outside the supplied passage. Literal extraction is strongest
+    for the survivor, vanished rock, tortoise question, and mourning; motif identification
+    involving shapeshifting is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied Zulu passage and English translation metadata. No external comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l35256-l35287
+  passage_sha256=867c757432ed29c7daf703b89312818f009933c3a19917479fea9b16422bdd0a
+

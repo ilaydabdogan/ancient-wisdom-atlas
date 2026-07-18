@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l6925-l7004
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    BOOK   OF   AM-TUAT / I  O     I / D    D / I    I    I; lines 6925-7004
+  start: '6925'
+  end: '7004'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: hack asunder Apep in the Tuat each day
+  summary: The passage identifies material from the Seventh Division, Thephet-Asar.
+    It describes goddesses in the Tuat who hold knives, hack at Apep, and nullify
+    the affairs of the enemies of Ra. It also introduces the four coffers of Osiris
+    and states that the fourth contains the form of Osiris.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as part of the Seventh Division, named Thephet-Asar.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fourth item is said to contain the form of Osiris.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes goddesses who hack at Apep in the Tuat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same goddesses repulse or bring to nought the affairs of the enemies of
+    Ra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The goddesses in the picture hold knives.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hacking asunder of Apep in the Tuat is described as occurring each day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage introduces four coffers of Osiris.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: A deity whose form is said to be contained in the fourth item and whose
+    four coffers are introduced.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Goddesses who hack at Apep
+  description: A group of goddesses in the Tuat who hold knives, hack at Apep, and
+    repulse the affairs of the enemies of Ra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Apep
+  description: A being hacked at and hacked asunder in the Tuat each day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ra
+  description: A deity whose enemies' affairs are repulsed or brought to nought by
+    the goddesses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Enemies of Ra
+  description: A group whose affairs or matters are repulsed or brought to nought.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deity associated with coffers and contained form
+  assigned_to:
+  - fig:1
+  basis: The text mentions the form of Osiris and the four coffers of Osiris.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: knife-bearing attackers and repulsers
+  assigned_to:
+  - fig:2
+  basis: The goddesses hold knives, hack at Apep, and repulse the affairs of the enemies
+    of Ra.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: daily hacked adversary in the Tuat
+  assigned_to:
+  - fig:3
+  basis: Apep is hacked at and hacked asunder in the Tuat each day.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deity opposed by enemies
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the enemies of Ra whose affairs are repulsed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: opposing enemy group
+  assigned_to:
+  - fig:5
+  basis: The passage names the enemies of Ra as the group whose affairs are repulsed
+    or nullified.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: knives
+  literal_form: Knives held by the goddesses in the picture.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Tuat
+  literal_form: The underworld location in which the goddesses hack at Apep.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: four coffers of Osiris
+  literal_form: Four coffers associated with Osiris.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: form of Osiris
+  literal_form: The form of Osiris contained in the fourth item mentioned in the passage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Seventh Division setting
+  summary: The passage identifies the setting as the Seventh Division, Thephet-Asar.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Goddesses hack Apep in the Tuat
+  summary: Knife-bearing goddesses in the Tuat hack at Apep, hack him asunder each
+    day, and repulse the affairs of the enemies of Ra.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Coffers of Osiris
+  summary: The passage introduces the four coffers of Osiris and mentions that a fourth
+    item contains the form of Osiris.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Daily attack on Apep in the Tuat
+  taxonomy_refs:
+  - chaos
+  basis: The passage describes goddesses who hold knives and hack Apep asunder in
+    the Tuat each day while nullifying the affairs of Ra's enemies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly call Apep chaos or identify Apep's form;
+    the taxonomy link is based only on the adversarial function described in the supplied
+    passage.
+- id: motif:2
+  label: Mapped afterlife division
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage is placed in the Seventh Division, Thephet-Asar, and describes
+    beings and actions located in the Tuat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not provide the full map or sequence
+    of the division.
+- id: motif:3
+  label: Sacred coffers of Osiris
+  taxonomy_refs: []
+  basis: The passage introduces four coffers of Osiris and states that a fourth item
+    contains the form of Osiris.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not preserve the full description of the coffers or their
+    ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6925-7004
+  quote_or_summary: The passage includes the heading, "THE SEVENTH DIVISION — THEPHET-ASAR."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata supplied; short citation from provided
+    passage.
+- id: ev:2
+  type: quote
+  locator: lines 6925-7004
+  quote_or_summary: '"contains the form of Osiris"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata supplied; short quote from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 6925-7004
+  quote_or_summary: The passage describes "The goddesses who hack at Apep in the Tuat,"
+    who repulse the affairs of Ra's enemies, hold knives, and "hack asunder Apep in
+    the Tuat each day."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata supplied; short quoted phrases from provided
+    passage.
+- id: ev:4
+  type: quote
+  locator: lines 6925-7004
+  quote_or_summary: '"The four coffers of Osiris" are introduced near the end of the
+    passage.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata supplied; short quote from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by OCR fragmentation and missing surrounding context.
+    Literal figures and actions are clear where the English prose is legible; motif
+    taxonomy assignments are cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No serpent taxonomy was assigned because the excerpt does not explicitly describe Apep's form.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l6925-l7004
+  passage_sha256=0ffdc241ee981cfd3ad5e1a997ed3b4fbc1247ef804a0e4f28418657f6d34439
+

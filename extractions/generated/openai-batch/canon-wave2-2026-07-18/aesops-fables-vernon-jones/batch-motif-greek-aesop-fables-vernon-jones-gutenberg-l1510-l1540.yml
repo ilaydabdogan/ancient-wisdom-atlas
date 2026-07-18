@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1510-l1540
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FROGS' COMPLAINT AGAINST THE SUN / THE DOG, THE COCK, AND THE FOX / THE
+    GNAT AND THE BULL / THE BEAR AND THE TRAVELLERS; lines 1510-1540
+  start: '1510'
+  end: '1540'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a gnat rests on a bull's horn, asks whether the bull minds
+    its departure, and is told that the bull neither noticed its arrival nor will
+    notice its leaving. The attached moral says people may overestimate their consequence
+    to others. In the next fable, two travellers meet a bear; one hides in a tree
+    while the other feigns death. The bear leaves him, and the survivor says the bear
+    advised him not to travel with a friend who deserts him at the first sign of danger.
+    The attached moral says misfortune tests friendship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gnat lands on one horn of a bull and remains there for a considerable time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before leaving, the gnat asks the bull whether the bull minds if it goes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bull replies that it did not notice the gnat's arrival and will not know
+    when it leaves.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fable's stated moral says people may be of more consequence in their own
+    eyes than in the eyes of neighbours.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Two travellers are on a road together when a bear suddenly appears.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One traveller climbs into a roadside tree and hides before the bear observes
+    them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The other traveller cannot escape, lies on the ground, pretends to be dead,
+    keeps still, and holds his breath.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The bear sniffs around the still traveller, takes him for a corpse, and goes
+    away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the bear leaves, the traveller from the tree asks what the bear whispered
+    to the other traveller.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The other traveller says the bear told him never again to travel with a friend
+    who deserts him at the first sign of danger.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The fable's stated moral says misfortune tests the sincerity of friendship.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gnat
+  description: A gnat that alights on a bull's horn, rests there, and speaks before
+    leaving.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bull
+  description: A bull whose horn the gnat uses as a resting place; it responds with
+    indifference to the gnat's departure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Bear
+  description: A bear that appears before two travellers, sniffs around one traveller
+    who is pretending to be dead, and then leaves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Traveller who climbs the tree
+  description: One of two travellers; he climbs into a roadside tree and hides, later
+    asking what the bear whispered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Traveller who feigns death
+  description: One of two travellers; unable to escape, he lies still, holds his breath,
+    is taken for a corpse by the bear, and later reports a lesson about deserted friendship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: small visitor on another animal's horn
+  assigned_to:
+  - fig:1
+  basis: The gnat alights on the bull's horn and remains there before flying away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: indifferent animal whose horn is occupied
+  assigned_to:
+  - fig:2
+  basis: The bull says it did not notice the gnat's arrival and will not know when
+    it goes away.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sudden dangerous animal on the road
+  assigned_to:
+  - fig:3
+  basis: The bear appears suddenly before the travellers and approaches the traveller
+    lying on the ground.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: companion who hides in danger
+  assigned_to:
+  - fig:4
+  basis: One traveller climbs a tree and hides when the bear appears; the later speech
+    describes a friend who deserts at the first sign of danger.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: abandoned companion who survives by feigning death
+  assigned_to:
+  - fig:5
+  basis: The other traveller cannot escape, pretends to be dead, survives the bear's
+    inspection, and gives the concluding reply.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: bull's horn as resting perch
+  literal_form: one of the horns of a Bull
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: roadside tree as hiding place
+  literal_form: a tree at the side of the road with branches
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: feigned corpse posture
+  literal_form: throwing oneself on the ground, keeping still, and holding one's breath
+    to appear dead
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gnat rests on the bull's horn
+  summary: The gnat alights on the bull's horn, stays there for a time, and prepares
+    to fly away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bull dismisses the gnat's importance
+  summary: The gnat asks whether the bull minds its departure, and the bull answers
+    that it did not notice the gnat's arrival and will not notice its leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Travellers react to the bear
+  summary: A bear appears on the road; one traveller hides in a tree, while the other
+    lies down and pretends to be dead because he cannot escape.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Bear leaves and the survivor states the lesson
+  summary: The bear sniffs the still traveller and leaves; afterward, the survivor
+    says the bear advised him not to travel with a friend who deserts him in danger,
+    and the moral states that misfortune tests friendship.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Self-importance corrected by another's indifference
+  taxonomy_refs:
+  - wisdom
+  basis: The gnat assumes its coming or going matters to the bull, while the bull
+    says it did not notice either; the moral generalizes this into a lesson about
+    overestimating one's consequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference to wisdom is based on the explicit fable moral,
+    not on a broader mythic wisdom cycle.
+- id: motif:2
+  label: Escape from a predator by feigning death
+  taxonomy_refs: []
+  basis: The traveller who cannot escape lies still, holds his breath, is taken by
+    the bear for a corpse, and survives.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this survival stratagem.
+- id: motif:3
+  label: Danger tests the sincerity of friendship
+  taxonomy_refs:
+  - wisdom
+  basis: One traveller hides and leaves his companion exposed; the survivor's reply
+    and the attached moral explicitly state that danger or misfortune reveals whether
+    a friend is sincere.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference to wisdom is limited to the passage's explicit
+    moral instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1510-1515, THE GNAT AND THE BULL
+  quote_or_summary: A gnat alights on one horn of a bull and remains there for a considerable
+    time before preparing to leave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1514-1518, THE GNAT AND THE BULL
+  quote_or_summary: The gnat asks, "Do you mind if I go now?" The bull replies that
+    it did not notice when the gnat came and will not know when it goes away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:3
+  type: quote
+  locator: moral after THE GNAT AND THE BULL
+  quote_or_summary: '"We may often be of more consequence in our own eyes than in
+    the eyes of our neighbours."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: opening of THE BEAR AND THE TRAVELLERS
+  quote_or_summary: Two travellers are on the road when a bear appears; one traveller
+    climbs into a roadside tree and hides before the bear observes them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: middle of THE BEAR AND THE TRAVELLERS
+  quote_or_summary: The other traveller cannot escape, lies on the ground, pretends
+    to be dead, keeps still and holds his breath; the bear sniffs around him, takes
+    him for a corpse, and goes away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: closing dialogue of THE BEAR AND THE TRAVELLERS
+  quote_or_summary: After the bear leaves, the traveller from the tree asks what the
+    bear whispered; the other says the bear told him never again to travel with a
+    friend who deserts him at the first sign of danger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: moral after THE BEAR AND THE TRAVELLERS
+  quote_or_summary: '"Misfortune tests the sincerity of friendship."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif candidates
+    are direct abstractions from the fables and their stated morals. No passage-internal
+    comparative claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Although the supplied locator label names four fables, the provided passage text includes only THE GNAT AND THE BULL and THE BEAR AND THE TRAVELLERS; extraction is limited to the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1510-l1540
+  passage_sha256=b464892b53c84e6351eaf60d3da5cdb431d1e8e51250c464fb459c27869c77c5
+

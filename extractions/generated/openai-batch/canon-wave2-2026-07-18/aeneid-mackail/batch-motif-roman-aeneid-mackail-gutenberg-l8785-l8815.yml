@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8785-l8815
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / BOOK SIXTH / BOOK EIGHTH / BOOK NINTH; lines 8785-8815
+  start: '8785'
+  end: '8815'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Book Ninth notes passage records manuscript omissions, discusses a Latin
+    reading at line 281 involving brave deeds and favorable or adverse Fortune, and
+    discusses a Latin reading at line 412 involving Sulmo, a strike on the back or
+    shield, and the phrase in tergum. It also compares wording in other Aeneid lines
+    and mentions a boar and Mezentius as possible referents in a separate textual
+    issue.
+  language: English with Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a notes section for Book Ninth and records omitted lines at
+    l. 29, l. 122, and l. 529.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The note for l. 281 quotes a Latin first-person statement about not being
+    judged unlike brave deeds, whether Fortune is favorable or adverse.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor says the adopted reading at l. 281 was chosen with hesitation,
+    while the manuscript authority favors a different reading, haud adversa.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note for l. 412 quotes Latin in which something comes to or against Sulmo’s
+    tergum, breaks there, and split wood passes through the vitals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor discusses possible meanings of in tergum as on the back, backward,
+    or shield, and says a separate passage may refer to a boar rather than to Mezentius.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor concludes that the available manuscript evidence does not justify
+    reading aversi against the good manuscripts.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sulmo
+  description: Named in the quoted Latin line for l. 412 as the figure whose tergum
+    is involved in the described strike.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mezentius
+  description: Named in the editorial discussion as a possible referent in another
+    Aeneid line, contrasted with a possible boar referent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: boar
+  description: An animal mentioned in the editorial discussion as a possible referent
+    in another Aeneid line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fortuna
+  description: Named in the Latin reading at l. 281 as favorable or adverse; the passage
+    does not further specify whether this is abstract fortune or personification.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named target in quoted combat line
+  assigned_to:
+  - fig:1
+  basis: Sulmo is named in the l. 412 quotation where a strike involving tergum and
+    split wood is described.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: named possible referent in textual discussion
+  assigned_to:
+  - fig:2
+  basis: The editor says another phrase may refer to the boar, not to Mezentius.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal possible referent in textual discussion
+  assigned_to:
+  - fig:3
+  basis: The editor identifies the boar as a possible referent of tergo decutit hastas
+    in another line.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: favorable or adverse force in quoted reading
+  assigned_to:
+  - fig:4
+  basis: The Latin reading names Fortuna as secunda or adversa.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: favorable or adverse Fortuna
+  literal_form: Fortuna secunda / Aut adversa
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: back or shield
+  literal_form: tergum / in tergum, discussed as back, backward, or shield
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: split wood
+  literal_form: fisso ... ligno
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Book Ninth textual notes
+  summary: The passage records manuscript omissions and editorial decisions for selected
+    lines in Book Ninth.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Quoted strike involving Sulmo
+  summary: A quoted Latin line describes a strike involving Sulmo’s tergum and split
+    wood passing through the vitals; the editor then discusses whether tergum means
+    back, backward, or shield in related passages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8785-8791
+  quote_or_summary: Book Ninth heading; notes say l. 29 and l. 122 are omitted with
+    the best manuscripts, then introduce l. 281.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8793-8800
+  quote_or_summary: "“Fortuna secunda / Aut adversa cadat”; the editor says the reading
+    is adopted with hesitation and compares haud adversa and the position of tantum."
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 8802-8813
+  quote_or_summary: "“in tergum Sulmonis” and “fisso transit praecordia ligno”; the
+    editor discusses in tergum as back, backward, or shield and mentions the boar
+    and Mezentius in another line."
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:4
+  type: summary
+  locator: line 8815
+  quote_or_summary: The note says l. 529 is omitted with most manuscripts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is primarily textual commentary rather than a continuous mythic
+    narrative. Literal extraction is feasible, but no robust motif-family assignment
+    or comparative claim is supported by the supplied passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motif or comparison claim was added because the supplied passage does not itself support a clear mythological motif-family classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8785-l8815
+  passage_sha256=4ed37eb465cde1a230a62c1853763aba74243cd2382f0b32e5fc3d3a33332306
+

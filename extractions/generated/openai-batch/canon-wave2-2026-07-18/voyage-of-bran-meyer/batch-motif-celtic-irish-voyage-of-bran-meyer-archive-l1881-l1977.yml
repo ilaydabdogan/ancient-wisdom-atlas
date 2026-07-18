@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l1881-l1977
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: IMRAM    BRAIN  21 / IMRAM    BRAIN  23 / IMRAM    BRAIN  25 / IMRAM    BRAIN  27;
+    lines 1881-1977
+  start: '1881'
+  end: '1977'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt begins with Old Irish verse and critical apparatus. In the
+    translated portion, a male figure is foretold to have a short time in the world
+    and to be killed by a dragonstone from the sea. A white host then takes him under
+    a wheel of clouds to a gathering without sorrow. Bran is instructed to row toward
+    the Land of Women, Emne, before sunset. Bran leaves the speaker, encounters an
+    island of laughing and gaping people who will not converse, and sends one companion
+    ashore; the companion joins the islanders and imitates their behavior.
+  language: English with Old Irish verse and editorial notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure is predicted to live fifty years in this world and to be killed
+    by a dragonstone from the sea in a fight at Senlabor.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An editorial note connects the stone episode with the 'Death of Mongan' and
+    explains the stone as thrown from a sling.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same figure is said to ask for a drink from Loch Ló while looking at a
+    stream of blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A white host takes the figure under a wheel of clouds to a gathering where
+    there is no sorrow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bran is told to row steadily because the Land of Women, Emne, is not far and
+    will be reached before sunset.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Bran leaves an unnamed male interlocutor, sees an island, and rows around
+    it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A large host on the island gapes and laughs at Bran and his people but will
+    not stay to converse with them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Bran sends one of his people onto the island; that person joins the islanders
+    and gapes at Bran's group like the others.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bran
+  description: Voyager who is instructed to row toward the Land of Women and later
+    rows around an island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mongan, gloss-identified subject of prophecy
+  description: Male figure foretold to live fifty years, die by a stone from the sea,
+    ask for a drink, and be taken by a white host; the note identifies the death episode
+    as the 'Death of Mongan.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: White host
+  description: Group that takes the foretold figure under a wheel of clouds to a sorrowless
+    gathering; an editorial note glosses the host as angels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bran's people
+  description: Companions of Bran who are looked at by the island host; one of them
+    is sent onto the island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Companion sent onto the island
+  description: One of Bran's people who is sent onto the island and then joins the
+    islanders in gaping.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Large host on the island
+  description: Island inhabitants or assembly who gape, laugh, look at Bran and his
+    people, and refuse conversation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Unnamed male interlocutor
+  description: Person from whom Bran departs after the speech instructing him to row
+    toward the Land of Women.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: voyager and rower
+  assigned_to:
+  - fig:1
+  basis: Bran is instructed to row and then rows around an island.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: voyage companions
+  assigned_to:
+  - fig:4
+  basis: The island host looks at Bran and his people, and one of Bran's people is
+    sent ashore.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: foretold death subject
+  assigned_to:
+  - fig:2
+  basis: The speech predicts a short life, death by dragonstone, and subsequent conveyance
+    by the white host.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: post-death conveying host
+  assigned_to:
+  - fig:3
+  basis: The white host takes the figure under a wheel of clouds to a gathering without
+    sorrow.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: laughing island host
+  assigned_to:
+  - fig:6
+  basis: The island host gapes, laughs, and does not converse with Bran's group.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: sent companion who imitates islanders
+  assigned_to:
+  - fig:5
+  basis: The companion sent onto the island ranges himself with the others and gapes
+    like them.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: unnamed instructor or interlocutor
+  assigned_to:
+  - fig:7
+  basis: The speech gives Bran rowing instructions, and the next prose sentence says
+    Bran went from him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: dragonstone from the sea
+  literal_form: Stone from the sea that kills the foretold figure at Senlabor
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Loch Ló and stream of blood
+  literal_form: Lake from which a drink is requested and stream of blood seen by the
+    foretold figure
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wheel of clouds
+  literal_form: Cloud-wheel, glossed in a note as a chariot, under which the white
+    host takes the figure
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Land of Women, Emne
+  literal_form: Destination named as the Land of Women and Emne, with many hues of
+    hospitality
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: island of gaping and laughter
+  literal_form: Island inhabited by a large host that gapes and laughs without conversing
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: sea voyage by rowing
+  literal_form: Rowing route by which Bran is told to reach the Land of Women and
+    by which he circles the island
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prophecy of death and conveyance
+  summary: A male figure, identified by an editorial note with Mongan, is foretold
+    to die by a stone from the sea; afterward a white host conveys him under a wheel
+    of clouds to a sorrowless gathering.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Instruction to row to the Land of Women
+  summary: The unnamed speaker tells Bran to row steadily because the Land of Women,
+    Emne, is near and will be reached before sunset.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Encounter with the laughing island
+  summary: Bran rows around an island whose large host gapes and laughs without conversing;
+    a companion sent ashore joins them and gapes like them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: foretold death by stone from the sea
+  taxonomy_refs: []
+  basis: The speech foretells a short life and death by a dragonstone from the sea,
+    with a note linking it to the 'Death of Mongan.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The translated speech uses a pronoun; the identification with Mongan comes
+    from the supplied editorial note.
+- id: motif:2
+  label: white-host conveyance to a sorrowless gathering after death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: After the predicted death, the white host takes the figure under a wheel
+    of clouds to a gathering where there is no sorrow.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The narrative phrase is 'white host'; the identification of the host as
+    angels is supplied by an editorial note.
+- id: motif:3
+  label: seaborne approach to the Land of Women
+  taxonomy_refs:
+  - mystical_quest
+  basis: Bran is instructed to row toward the Land of Women, Emne, and is told he
+    will reach it before sunset.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the instruction and destination but not the fuller context
+    of the quest within the wider text.
+- id: motif:4
+  label: island of non-conversing laughter
+  taxonomy_refs: []
+  basis: The island host repeatedly gapes and laughs at Bran's party and will not
+    remain to converse with them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No name for the island is provided in the supplied passage.
+- id: motif:5
+  label: companion sent ashore adopts the islanders' behavior
+  taxonomy_refs: []
+  basis: One of Bran's people is sent onto the island, then ranges himself with the
+    inhabitants and gapes at Bran's party like them.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage reports the behavioral change but does not explicitly explain
+    its cause.
+comparison_claims:
+- id: claim:1
+  claim: The supplied editorial note explicitly links the dragonstone death episode
+    with the 'Death of Mongan' and explains the weapon as a sling-stone.
+  claim_level: same_motif
+  target: "'Death of Mongan' tradition"
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The linkage is supplied by the note/gloss in this excerpt; no independent
+    version of the 'Death of Mongan' is included here.
+- id: claim:2
+  claim: Because the note glosses the 'white host' as angels, the passage supports
+    a cautious same-function comparison between the host and an angelic escort conveying
+    a dead person to a sorrowless destination.
+  claim_level: same_function
+  target: angelic escort to a post-mortem sorrowless gathering
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The main translated wording says 'white host'; the angelic identification
+    is explanatory and editorial in the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1881-1977, stanza 58
+  quote_or_summary: The translated stanza says the figure's time will be short, gives
+    fifty years in this world, and says a dragonstone from the sea will kill him in
+    the fight at Senlabor.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: note
+  locator: lines 1881-1977, notes to stanza 58
+  quote_or_summary: The note says the episode is the 'Death of Mongan,' explains the
+    stone as thrown from a sling, and notes that Senlabor is a stronghold whose location
+    has not been identified.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized editorial note.
+- id: ev:3
+  type: summary
+  locator: lines 1881-1977, stanza 59 and notes
+  quote_or_summary: The stanza says he asks a drink from Loch Ló while seeing a stream
+    of blood; a white host takes him under a wheel of clouds to a gathering with no
+    sorrow. Notes gloss the white host as angels and the wheel as a chariot.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1881-1977, stanza 60
+  quote_or_summary: The speaker tells Bran to row steadily; the Land of Women is not
+    far, and Emne with hospitality will be reached before sunset.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1881-1977, prose after stanza 60
+  quote_or_summary: Bran goes from the interlocutor, sees an island, rows around it,
+    and observes a large host gaping and laughing at Bran and his people while refusing
+    conversation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1881-1977, final prose sentences
+  quote_or_summary: Bran sends one of his people onto the island; the person joins
+    the others and gapes at Bran's party like the islanders, while Bran keeps rowing
+    around.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The translated English portion supports the main extraction. Stanzas 54-57
+    are presented here in Old Irish with critical apparatus and were not independently
+    interpreted beyond the supplied English notes and translated material. Some figure
+    identification, especially Mongan and the angels, depends on editorial notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the available taxonomy list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l1881-l1977
+  passage_sha256=e5299a76dc89ba899699ef49636fd4a4c7cf5bd7b7c8a4ce5615e850d60fa014
+

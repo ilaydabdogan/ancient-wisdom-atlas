@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l987-l999
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE GRAPES / THE GOOSE THAT LAID THE GOLDEN EGGS / THE CAT AND
+    THE MICE / THE MISCHIEVOUS DOG; lines 987-999
+  start: '987'
+  end: '999'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Notoriety is often mistaken for fame.
+  summary: A dog that bites people without provocation is fitted with a bell by his
+    master to warn visitors. The dog treats the bell as a source of pride, but an
+    old dog tells him it is not a reward but a badge of disgrace. The closing moral
+    states that notoriety is often mistaken for fame.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A dog habitually snaps at people and bites them without provocation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog is described as a nuisance to everyone who comes to his master's house.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The master fastens a bell around the dog's neck.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bell is intended to warn people of the dog's presence.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dog is proud of the bell and struts about while it tinkles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An old dog tells the dog that the bell was not given as a reward of merit
+    but is a badge of disgrace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage concludes with the moral that notoriety is often mistaken for
+    fame.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mischievous dog
+  description: A dog who snaps at and bites people without provocation, later wearing
+    a bell and taking pride in it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: master
+  description: The dog's master, who fastens a bell around the dog's neck to warn
+    people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: people visiting the master's house
+  description: People who come to the master's house and need warning of the dog's
+    presence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: old dog
+  description: An old dog who explains that the bell is a badge of disgrace rather
+    than a reward.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dangerous nuisance
+  assigned_to:
+  - fig:1
+  basis: The dog bites without provocation and is a nuisance to those who come to
+    the house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mistakenly proud recipient of a warning mark
+  assigned_to:
+  - fig:1
+  basis: The dog takes pride in the bell even though it was attached to warn others
+    and is identified as disgraceful.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: owner who imposes warning device
+  assigned_to:
+  - fig:2
+  basis: The master fastens a bell around the dog's neck to warn people.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potential victims or warned visitors
+  assigned_to:
+  - fig:3
+  basis: Visitors to the master's house are affected by the biting dog and are meant
+    to be warned by the bell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: corrective elder speaker
+  assigned_to:
+  - fig:4
+  basis: The old dog corrects the dog’s misunderstanding of the bell’s meaning.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: warning bell as badge of disgrace
+  literal_form: bell fastened around the dog's neck
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Unprovoked biting at the master's house
+  summary: A dog snaps at and bites people without provocation and becomes a nuisance
+    to visitors at his master's house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bell attached as warning
+  summary: The master fastens a bell around the dog's neck so people will be warned
+    of his presence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pride corrected as disgrace
+  summary: The dog proudly struts with the tinkling bell, but an old dog tells him
+    the bell is not an honor but a badge of disgrace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Explicit moral
+  summary: The passage states that notoriety is often mistaken for fame.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Disgrace mistaken for honor
+  taxonomy_refs: []
+  basis: The dog mistakes the bell for a mark of distinction, while the old dog identifies
+    it as a badge of disgrace; the moral generalizes this as notoriety mistaken for
+    fame.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level fable motif label, not a supplied taxonomy family.
+- id: motif:2
+  label: Warning mark imposed on a dangerous animal
+  taxonomy_refs: []
+  basis: The master attaches a bell to the biting dog to warn people of his presence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the device practically and morally; no broader mythological
+    taxonomy reference is supplied.
+- id: motif:3
+  label: Elder correction of foolish pride
+  taxonomy_refs:
+  - wisdom
+  basis: An old dog corrects the proud dog's misunderstanding and explains the bell's
+    disgraceful meaning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage supports corrective
+    speech by an elder but does not explicitly name wisdom as a theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 987-990
+  quote_or_summary: The dog snaps at people and bites them without provocation, becoming
+    a nuisance to everyone coming to his master's house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 990-992
+  quote_or_summary: The master fastens a bell around the dog's neck to warn people
+    of the dog's presence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 992-993
+  quote_or_summary: The dog is very proud of the bell and struts about while it tinkles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 993-998
+  quote_or_summary: The old dog says the bell was not given as “a reward of merit”
+    but is “a badge of disgrace.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: line 999
+  quote_or_summary: "“Notoriety is often mistaken for fame.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are local, passage-level
+    candidates; only the broad wisdom taxonomy reference is used, and no comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; despite the locator label naming several fables, the provided passage contains only “THE MISCHIEVOUS DOG.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l987-l999
+  passage_sha256=1e5d108b5edfd091266866171b82ec9170f95e910389d3e30f9a7711b709f74e
+

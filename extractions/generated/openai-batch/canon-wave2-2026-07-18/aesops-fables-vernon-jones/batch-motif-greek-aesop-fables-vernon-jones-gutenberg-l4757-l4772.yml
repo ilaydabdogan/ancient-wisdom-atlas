@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4757-l4772
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE IMPOSTOR / THE DOGS AND THE HIDES / THE LION, THE FOX, AND THE ASS /
+    THE FOWLER, THE PARTRIDGE, AND THE COCK; lines 4757-4772
+  start: '4757'
+  end: '4772'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fowler with only herbs and bread receives an unexpected friend. With
+    his larder empty, he first catches a tame decoy partridge, but spares her after
+    she argues that she is needed for fowling. He then catches a young cock, who pleads
+    that he tells time and wakes the fowler for work. The fowler acknowledges the
+    cock’s usefulness but kills him to provide supper for the friend.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fowler is preparing a scanty meal of herbs and bread when a friend arrives
+    unexpectedly.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The larder is empty, prompting the fowler to seek another source of food for
+    the visitor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fowler catches a tame partridge that he keeps as a decoy and prepares
+    to kill her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The partridge argues that she should not be killed because she is useful for
+    bringing birds to the fowler’s nets.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fowler releases the partridge after her plea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The fowler goes to the hen-house and selects a plump young cock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cock pleads for his life by saying that he tells the time at night and
+    wakes the fowler in the morning for work.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The fowler admits that the cock is useful for telling time but says he cannot
+    send his friend to bed without supper.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fowler catches the cock and wrings his neck.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fowler
+  description: A bird-catcher who has little food, keeps a tame partridge as a decoy,
+    owns a cock, and kills the cock to feed an unexpected friend.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Friend
+  description: An unexpected visitor who arrives while the fowler is eating a scanty
+    supper.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Tame Partridge
+  description: A female partridge kept by the fowler as a decoy; she pleads for her
+    life by citing her usefulness in fowling and is released.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cock
+  description: A plump young cock from the hen-house; he pleads for his life by citing
+    his timekeeping and morning-waking functions, but is killed.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: host-provider
+  assigned_to:
+  - fig:1
+  basis: The fowler seeks food because he cannot send his unexpected friend supperless
+    to bed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: unexpected guest
+  assigned_to:
+  - fig:2
+  basis: The friend drops in unexpectedly during the fowler’s scanty supper.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: decoy bird
+  assigned_to:
+  - fig:3
+  basis: The partridge is kept as a decoy and is useful for bringing birds to the
+    nets.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: killer of domestic bird
+  assigned_to:
+  - fig:1
+  basis: The fowler catches the cock and wrings his neck after deciding to feed the
+    friend.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: supplicant for life
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both birds plead against being killed by explaining their usefulness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: timekeeper and morning-waker
+  assigned_to:
+  - fig:4
+  basis: The cock claims he tells the time of night and wakes the fowler in the morning.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Scanty supper
+  literal_form: Herbs and bread
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Empty larder
+  literal_form: Empty food store
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Fowling nets
+  literal_form: Nets used to catch birds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Hen-house
+  literal_form: Place where the fowler keeps the cock
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unexpected guest and lack of food
+  summary: The fowler is eating a small meal when a friend arrives, and the empty
+    larder creates a need for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Partridge spared after plea
+  summary: The fowler catches his tame decoy partridge to kill her, but she argues
+    that she is needed for fowling, so he lets her go.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cock killed despite plea
+  summary: The fowler takes a cock from the hen-house; the cock pleads that he provides
+    timekeeping and waking services, but the fowler kills him to feed the guest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal pleads for life by citing usefulness
+  taxonomy_refs: []
+  basis: Both the partridge and the cock attempt to avoid death by explaining the
+    practical service each provides to the fowler.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no explicit moral in the supplied lines; the motif is
+    inferred from repeated narrative action.
+- id: motif:2
+  label: First intended victim spared, second victim killed
+  taxonomy_refs: []
+  basis: The fowler first releases the partridge after her plea, then turns to the
+    cock and kills him despite a similar plea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative pattern within the passage, not a claimed cross-cultural
+    motif.
+- id: motif:3
+  label: Immediate hospitality need overrides a useful servant animal
+  taxonomy_refs: []
+  basis: The fowler acknowledges the cock’s usefulness but kills him because he does
+    not want his friend to go supperless.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the choice pragmatically; no sacred or ritual sacrifice
+    is indicated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4757-4761
+  quote_or_summary: The fowler sits down to a scanty supper of herbs and bread; a
+    friend arrives unexpectedly; the larder is empty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 4761-4766
+  quote_or_summary: The fowler catches a tame partridge kept as a decoy and prepares
+    to kill her; she pleads that she is needed to bring birds to his nets, and he
+    lets her go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 4766-4770
+  quote_or_summary: The fowler goes to the hen-house for a plump young cock; the cock
+    pleads that he tells the time at night and wakes the fowler for work in the morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 4770-4772
+  quote_or_summary: The fowler says the cock is useful for telling time, but he cannot
+    send his friend supperless to bed; he then catches the cock and wrings his neck.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied fable. Motif candidates
+    describe internal narrative patterns only; no taxonomy motif family or cross-tradition
+    comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol applies directly to this passage; taxonomy references are left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4757-l4772
+  passage_sha256=1abb712bf4a00c01aa4322091206690ca670c8ebb6593e49d405ed942f2b36e3
+

@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l6746-l6782
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: SIXTH   TABLET / THE  GILGAMESH  EPIC  87 / SEVENTH  TABLET / EIGHTH    TABLET;
+    lines 6746-6782
+  start: '6746'
+  end: '6782'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Engidu dies, with the cause left uncertain between disease and the curses
+    of Ishtar. Gilgamesh first thinks his friend is asleep, addresses him, recalls
+    past exploits, discovers that his heart no longer beats, mourns him with bride
+    and lion imagery, and then flees into the wilderness in grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Engidu dies and that the cause is unknown, either
+    disease or the smiting of Ishtar's curses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gilgamesh initially thinks his friend is merely asleep.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: Gilgamesh addresses Engidu as his young friend and as a tiger of the desert.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gilgamesh recalls that he and Engidu climbed a mountain, slew Heaven's bull,
+    and slew Khumbaba in the cedar forest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Engidu does not lift his eyes, and when Gilgamesh touches his heart it no
+    longer beats.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Gilgamesh drapes his friend like a bride.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The mourning scene includes comparisons to a crying lion and a lioness deprived
+    of her whelps.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Gilgamesh turns away and goes into the wilderness, crazed with grief.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Engidu
+  description: Gilgamesh's friend, described as dead or unresponsive; Gilgamesh calls
+    him his young friend and tiger of the desert.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Gilgamesh
+  description: Engidu's friend; he speaks to Engidu, touches his heart, mourns him,
+    and flees into the wilderness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Ishtar
+  description: Named as the possible source of curses that may have caused Engidu's
+    death, though the cause is stated to be unknown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Heaven's bull
+  description: A bull associated with Heaven that Gilgamesh recalls as having been
+    taken and slain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Khumbaba
+  description: A being who dwelt in the cedar forest and whom Gilgamesh recalls as
+    slain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dead companion
+  assigned_to:
+  - fig:1
+  basis: Engidu is said to die and is treated by Gilgamesh as his friend whose heart
+    no longer beats.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: mourning surviving friend
+  assigned_to:
+  - fig:2
+  basis: Gilgamesh addresses Engidu, discovers the lack of heartbeat, drapes him,
+    and departs in grief.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: possible divine source of curse
+  assigned_to:
+  - fig:3
+  basis: The prose introduction names Ishtar's curses as one possible but uncertain
+    cause of Engidu's death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: slain heavenly creature
+  assigned_to:
+  - fig:4
+  basis: The speech recalls that Heaven's bull was taken and slain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: slain cedar-forest dweller
+  assigned_to:
+  - fig:5
+  basis: The speech recalls that Khumbaba, who dwelt in the cedar forest, was slain.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: The mountain climbed in the recalled past exploit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Heaven's bull
+  literal_form: The bull of Heaven, taken and slain in the recalled exploit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cedar forest
+  literal_form: The cedar forest where Khumbaba dwelt.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bride image
+  literal_form: Gilgamesh drapes his friend like a bride.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: lion and lioness grief images
+  literal_form: The mourning is compared to a lion crying and a lioness deprived of
+    her whelps.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: wilderness
+  literal_form: The wilderness into which Gilgamesh goes after turning away in grief.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: sleep
+  literal_form: Gilgamesh describes Engidu's condition as sleep before recognizing
+    death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Engidu's death and Gilgamesh's first misunderstanding
+  summary: The passage states that Engidu dies, with the cause uncertain, while Gilgamesh
+    first thinks that his friend is asleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Recalled exploits of the companions
+  summary: 'Gilgamesh recalls earlier deeds shared with Engidu: climbing a mountain,
+    slaying Heaven''s bull, and slaying Khumbaba in the cedar forest.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recognition of death and mourning
+  summary: Engidu remains unresponsive, Gilgamesh finds that his heart no longer beats,
+    and he mourns him with bride and lion imagery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Flight into the wilderness
+  summary: Gilgamesh turns away and goes into the wilderness, crazed with grief.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Companion's death mistaken for sleep
+  taxonomy_refs: []
+  basis: Engidu's death is stated directly, while Gilgamesh initially treats the condition
+    as sleep and then verifies death by touching the heart.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt gives recognition of death, not any later afterlife journey
+    or resurrection.
+- id: motif:2
+  label: Mourning over the dead companion
+  taxonomy_refs: []
+  basis: Gilgamesh drapes his dead friend and the scene uses lion and bereaved lioness
+    imagery for grief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The quoted lines are fragmentary in places.
+- id: motif:3
+  label: Grief-driven departure into wilderness
+  taxonomy_refs:
+  - departure
+  basis: After the death and mourning, Gilgamesh turns away and goes into the wilderness
+    in a state of grief.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage excerpt shows departure but does not by itself describe a
+    complete quest or return.
+- id: motif:4
+  label: Ambiguous divine curse or illness as cause of death
+  taxonomy_refs: []
+  basis: The prose introduction explicitly leaves Engidu's death uncertain between
+    disease and Ishtar's curses.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text states the cause is unknown, so this should not be treated as
+    a confirmed divine punishment motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The final movement functions like a departure pattern: after recognizing
+    and mourning his companion''s death, Gilgamesh leaves for the wilderness.'
+  claim_level: same_function
+  target: departure motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supports only the departure function; it does not include
+    the wider quest structure or a return.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6746-6751
+  quote_or_summary: The Eighth Tablet prose introduction says Engidu dies; whether
+    from disease or Ishtar's curses is unknown, and Gilgamesh first thinks his friend
+    is asleep.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6755-6758
+  quote_or_summary: '"Engidu, my young friend, thou tiger of the desert"; the speech
+    also recalls that they climbed a mountain.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 6760-6763
+  quote_or_summary: Gilgamesh recalls that they took and slew Heaven's bull and slew
+    Khumbaba, who dwelt in the cedar forest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 6763-6765
+  quote_or_summary: '"Now, what is this sleep that has seized thee? / Sombre art thou,
+    and thou hearkenest not to me."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 6767-6769
+  quote_or_summary: '"But he lifted not his eyes"; "He (Gilgamesh) touched his heart;
+    it beat no more."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 6771-6774
+  quote_or_summary: Gilgamesh drapes his friend like a bride; the broken lines compare
+    the mourning to a lion crying and a lioness deprived of her whelps.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 6776-6779
+  quote_or_summary: Gilgamesh turns away and then flies away into the wilderness,
+    crazed with grief.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for death, mourning, remembered exploits, and
+    departure. Motif mapping is limited because the excerpt is fragmentary and does
+    not include the broader narrative aftermath.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. The name is retained as spelled in the passage: Engidu.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l6746-l6782
+  passage_sha256=3a8cea852380588a068f73caa64dd2f113c62564a23e71db68a1ea20a4b0cc5a
+

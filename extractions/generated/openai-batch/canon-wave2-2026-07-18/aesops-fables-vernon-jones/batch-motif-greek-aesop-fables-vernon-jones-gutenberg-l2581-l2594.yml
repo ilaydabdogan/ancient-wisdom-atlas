@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2581-l2594
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE BEAR, AND THE FOX / THE BLACKAMOOR / THE TWO SOLDIERS AND THE
+    ROBBER / THE LION AND THE WILD ASS; lines 2581-2594
+  start: '2581'
+  end: '2594'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Might makes right.
+  summary: A Lion and a Wild Ass hunt together. The Wild Ass uses speed to run down
+    prey, and the Lion dispatches it. After success, the Lion divides the spoil into
+    three parts, claims the first because he is king, claims the second as partner,
+    and threatens the Wild Ass into surrendering the third. The stated moral is that
+    might makes right.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is titled “THE LION AND THE WILD ASS.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Lion and a Wild Ass go hunting together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wild Ass is assigned to run down the prey because of superior speed, while
+    the Lion is to come up and dispatch it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hunt is successful.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When sharing the spoil, the Lion divides it into three equal portions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Lion says he will take the first portion because he is King of the beasts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lion says he will take the second portion because, as partner, he is entitled
+    to half of what remains.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Lion threatens the Wild Ass over the third portion unless the Wild Ass
+    gives it up and leaves quickly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The stated moral is “Might makes right.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A hunting partner who dispatches prey, divides the spoil, claims all
+    three portions, identifies himself as King of the beasts, and threatens the Wild
+    Ass.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Wild Ass
+  description: A hunting partner whose superior speed is used to run down prey and
+    who is threatened into giving up the third portion of the spoil.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: Hunting partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Lion and Wild Ass go out hunting together.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Swift prey-runner
+  assigned_to:
+  - fig:2
+  basis: The Wild Ass is described as having superior speed and running down the prey.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Prey-dispatcher
+  assigned_to:
+  - fig:1
+  basis: The Lion is to come up and dispatch the prey.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Self-identified King of the beasts
+  assigned_to:
+  - fig:1
+  basis: The Lion says he will take the first portion because he is King of the beasts.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Coercive claimant
+  assigned_to:
+  - fig:1
+  basis: The Lion claims the portions and threatens the Wild Ass over the third.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Threatened partner
+  assigned_to:
+  - fig:2
+  basis: The Wild Ass is told to give up the third portion and leave quickly or suffer
+    consequences.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Divided spoil
+  literal_form: The spoil from the successful hunt, divided into three equal portions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Three portions
+  literal_form: Three equal portions of the spoil.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Kingship title
+  literal_form: The Lion’s statement that he is “King of the beasts.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Joint hunt
+  summary: The Lion and Wild Ass hunt together, with the Wild Ass running down prey
+    and the Lion dispatching it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Division of the spoil
+  summary: After a successful hunt, the Lion divides the spoil into three equal portions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Lion claims the shares
+  summary: The Lion claims the first portion by kingship, the second by partnership,
+    and threatens the Wild Ass into surrendering the third.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Stated moral
+  summary: The passage ends with the moral that might makes right.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Unequal hunting partnership
+  taxonomy_refs: []
+  basis: Two partners hunt together, but the stronger partner controls the division
+    of the successful hunt’s spoil.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a matched external taxonomy
+    motif.
+- id: motif:2
+  label: Might used to justify taking all shares
+  taxonomy_refs: []
+  basis: The Lion claims the first two portions by status and partnership, then threatens
+    the Wild Ass over the third; the moral states that might makes right.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif label follows the internal moral and action of the passage;
+    no external comparison is asserted.
+- id: motif:3
+  label: Royal status invoked for privilege
+  taxonomy_refs: []
+  basis: The Lion claims the first portion because he identifies himself as King of
+    the beasts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a brief self-justifying speech, not an extended royal-legitimacy
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2581-2594
+  quote_or_summary: "“THE LION AND THE WILD ASS”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: 2581-2594
+  quote_or_summary: The Lion and Wild Ass go hunting together; the Wild Ass runs down
+    prey by superior speed, and the Lion dispatches it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2581-2594
+  quote_or_summary: The hunt succeeds, and the Lion divides the spoil into three equal
+    portions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2581-2594
+  quote_or_summary: The Lion claims the first portion because he is King of the beasts
+    and the second because, as partner, he is entitled to half of what remains.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2581-2594
+  quote_or_summary: The Lion tells the Wild Ass to give up the third portion and leave
+    quickly, warning that otherwise the third will make him sorry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 2581-2594
+  quote_or_summary: "“Might makes right.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for the stated moral.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Candidate motifs are internal
+    passage-level patterns. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy refs were assigned because the supplied taxonomy list does not contain a close, passage-supported fable motif for coercive appropriation or unequal partnership.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2581-l2594
+  passage_sha256=042fa7c5612c0766f095d225fc17984f46c05c434b77ae2d1a336a33b29f924d
+

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l1508-l1544
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 1508-1544'
+  start: '1508'
+  end: '1544'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“he was drowned in a holy spring”"
+  summary: Frazer discusses Osiris’s identification with the bulls Apis and Mnevis,
+    considers whether these bulls were corn-spirit embodiments or separate deities
+    fused by syncretism, proposes a possible stratification of Egyptian religion by
+    hunting, pastoral, and agricultural stages, notes Isis’s association with cows,
+    and describes the prescribed drowning of the bull Apis after a set lifespan.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Osiris is said to have been regularly identified with the bull Apis of Memphis
+    and the bull Mnevis of Heliopolis.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states uncertainty over whether Apis and Mnevis were embodiments
+    of Osiris as corn-spirit or separate deities later fused with Osiris by syncretism.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Apis and Mnevis are distinguished from ordinary local sacred animals because
+    they were worshipped by all Egyptians, whereas ordinary sacred animal cults were
+    local.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage proposes a conditional three-part religious stratification: local
+    sacred animals or totemism for hunting society, cattle worship for pastoral society,
+    and cultivated-plant or corn worship for agricultural society.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Egyptian cows are described as revered and never killed; they were regarded
+    as sacred to, or embodiments of, Isis, who was represented with cow’s horns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bull Apis was worshipped as a god with pomp and reverence, but was not
+    allowed to live beyond a prescribed period and was drowned in a holy spring when
+    that period expired.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Plutarch is cited for a twenty-five-year limit for Apis, while tomb inscriptions
+    are said to show that two Apis bulls of the twenty-second dynasty lived more than
+    twenty-six years.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: A figure identified with Apis and Mnevis and classified by the author
+    with cultivated-plant or corn worship.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Isis
+  description: A figure worshipped with Osiris in the author’s agricultural-stage
+    category and represented with cow’s horns; cows were regarded as sacred to or
+    embodiments of her.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Apis of Memphis
+  description: A bull identified with Osiris, widely worshipped by Egyptians, worshipped
+    as a god, and drowned in a holy spring after a prescribed term.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Mnevis of Heliopolis
+  description: A bull identified with Osiris and described with Apis as worshipped
+    by all Egyptians.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: local sacred animals
+  description: Ordinary sacred animals whose cults are described as purely local and
+    possibly evolved from totems.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Egyptian cows
+  description: Cows revered by Egyptians, never killed, and regarded as sacred to
+    or embodiments of Isis.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: red oxen
+  description: Oxen referred to as apparent embodiments of Osiris as corn-spirit.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: deity identified with sacred bulls
+  assigned_to:
+  - fig:1
+  basis: Osiris is stated to have been regularly identified with Apis and Mnevis.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: identified sacred bull
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Apis and Mnevis are named as bulls with whom Osiris was regularly identified
+    and who were worshipped by all Egyptians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: cultivated-plant or corn-worship figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The author says the worship of cultivated plants, especially corn, would
+    be represented by worship of Osiris and Isis.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cow-associated worship figure
+  assigned_to:
+  - fig:2
+  basis: Cows are described as sacred to or embodiments of Isis, and Isis is described
+    as represented with cow’s horns.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sacred bull subject to prescribed drowning
+  assigned_to:
+  - fig:3
+  basis: Apis was worshipped as a god but drowned in a holy spring after the period
+    prescribed by sacred books.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: local sacred animal cult object
+  assigned_to:
+  - fig:5
+  basis: Ordinary sacred animals are described as having purely local cults and possibly
+    deriving from totems.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: sacred cows or embodiments of Isis
+  assigned_to:
+  - fig:6
+  basis: Cows are described as never killed and as sacred to, or embodiments of, Isis.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: apparent corn-spirit embodiment
+  assigned_to:
+  - fig:7
+  basis: The passage refers to red oxen as appearing to have been embodiments of Osiris
+    as corn-spirit.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred bull
+  literal_form: the bulls Apis of Memphis and Mnevis of Heliopolis
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cow and cow’s horns
+  literal_form: cows never killed; Isis represented with cow’s horns
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: corn or cultivated plants
+  literal_form: cultivated plants, especially corn; corn-spirit; corn-god Osiris
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: holy spring
+  literal_form: holy spring in which Apis was drowned
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: local sacred animals
+  literal_form: ordinary sacred animals with local cults
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Identification of Osiris with Apis and Mnevis
+  summary: The passage states that Osiris was regularly identified with the bulls
+    Apis and Mnevis, while noting uncertainty about whether these bulls were corn-spirit
+    embodiments or separate deities joined to Osiris by syncretism.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hypothetical stratification of Egyptian religion
+  summary: The author conditionally arranges Egyptian cults into local sacred-animal
+    worship, cattle worship, and cultivated-plant worship corresponding to hunting,
+    pastoral, and agricultural stages of society.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cows associated with Isis
+  summary: Cows are described as revered, never killed, and regarded as sacred to
+    or embodiments of Isis, whose representation included cow’s horns; the passage
+    also notes possible syncretism.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Prescribed drowning of Apis
+  summary: Apis is described as a bull worshipped as a god but killed by drowning
+    in a holy spring after a prescribed period, with later evidence complicating the
+    stated lifespan limit.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: killing of a worshipped god-animal
+  taxonomy_refs:
+  - sacrifice
+  basis: Apis is explicitly described as worshipped as a god yet drowned in a holy
+    spring after a prescribed term, in a chapter context named as dealing with the
+    custom of killing the god.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states a ritualized killing but does not describe an offering
+    recipient or sacrificial exchange; the taxonomy reference is therefore broad.
+- id: motif:2
+  label: sacred animal as divine embodiment
+  taxonomy_refs: []
+  basis: Apis and Mnevis are discussed as possible embodiments of Osiris; cows are
+    regarded as sacred to or embodiments of Isis; red oxen are referred to as apparent
+    corn-spirit embodiments.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage repeatedly marks some identifications as uncertain or possibly
+    due to syncretism.
+- id: motif:3
+  label: cultivated plant or corn deity worship
+  taxonomy_refs: []
+  basis: The author identifies worship of cultivated plants, especially corn, with
+    the worship of Osiris and Isis and discusses Osiris as corn-god or corn-spirit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No seasonal cycle, death-and-return, or resurrection episode is narrated
+    in this passage.
+- id: motif:4
+  label: religious strata aligned with subsistence stages
+  taxonomy_refs: []
+  basis: The passage proposes that ancient Egypt may show local sacred-animal worship,
+    cattle worship, and cultivated-plant worship corresponding respectively to hunting,
+    pastoral, and agricultural society.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is presented as a conditional comparative hypothesis by the author
+    rather than as a narrative motif within a primary myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage proposes a comparative pattern in which Egyptian local sacred-animal
+    cults, Apis and Mnevis cattle cults, and Osiris-Isis cultivated-plant worship
+    correspond to hunting, pastoral, and agricultural stages of society.
+  claim_level: same_function
+  target: three-stage hunting/pastoral/agricultural pattern of religious worship
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  limitations: The claim is explicitly conditional and qualified by the author’s uncertainty
+    about syncretism and the original relationship between Apis, Mnevis, Osiris, Isis,
+    and cattle symbolism.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1508-1510
+  quote_or_summary: "“Osiris was regularly identified with the bull Apis of Memphis
+    and the bull Mnevis of Heliopolis.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1510-1518
+  quote_or_summary: The author says it is hard to decide whether Apis and Mnevis embodied
+    Osiris as corn-spirit or were separate deities fused with him; their worship by
+    all Egyptians is contrasted with purely local sacred animal cults.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; summary of provided passage.
+- id: ev:3
+  type: summary
+  locator: 1519-1529
+  quote_or_summary: 'The author conditionally proposes that ancient Egypt could display
+    three religious types: local sacred animals or totemism for hunting society, cattle
+    worship through Apis and Mnevis for pastoral society, and cultivated-plant or
+    corn worship through Osiris and Isis for agricultural society.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; summary of provided passage.
+- id: ev:4
+  type: summary
+  locator: 1529-1536
+  quote_or_summary: Egyptian cows are described as never killed and as sacred to or
+    embodiments of Isis, who was represented with cow’s horns; the passage notes this
+    identification may also be syncretic.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; summary of provided passage.
+- id: ev:5
+  type: quote
+  locator: 1536-1541
+  quote_or_summary: Apis was “worshipped as a god” but, after the prescribed time,
+    “was drowned in a holy spring.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; short excerpt from provided passage.
+- id: ev:6
+  type: summary
+  locator: 1541-1544
+  quote_or_summary: Plutarch gives the Apis limit as twenty-five years, but tomb inscriptions
+    from the twenty-second dynasty show two bulls lived more than twenty-six years,
+    so the rule was not always enforced.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: public_domain; summary of provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based entirely on the supplied passage. Motif classification
+    is cautious because much of the passage is Frazer’s conditional comparative interpretation
+    and includes explicit uncertainty about syncretism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Public-domain comparative scholarship passage; candidate motifs reflect the passage’s own discussion of sacred bulls, animal embodiments, agricultural worship, and prescribed killing of Apis.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l1508-l1544
+  passage_sha256=8fa25b6a242f40874935a6af16702296a9b8b7c54c398b91c60871f718211ab2
+

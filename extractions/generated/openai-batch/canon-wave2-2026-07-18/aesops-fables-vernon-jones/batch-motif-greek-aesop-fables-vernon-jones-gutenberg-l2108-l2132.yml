@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2108-l2132
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG IN THE MANGER / THE TWO BAGS / THE OXEN AND THE AXLETREES / THE BOY
+    AND THE FILBERTS; lines 2108-2132
+  start: '2108'
+  end: '2132'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, oxen pulling a heavy wagon complain that the axletrees make
+    noise while the oxen do the work; the moral states that those who suffer least
+    complain most. In another, a boy traps his hand in a jar by grasping too many
+    filberts and is advised by a bystander to take fewer so he can withdraw his hand;
+    the moral warns against attempting too much at once.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pair of Oxen draw a heavily loaded wagon along a highway while tugging and
+    straining at the yoke.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Axletrees creak and groan, and the Oxen turn around indignantly to ask
+    why they make noise when the Oxen do all the work.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated moral of the Oxen fable says that those who suffer least complain
+    most.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Boy puts his hand into a jar of Filberts and grasps as many as his fist
+    can hold.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The jar neck is too small for the Boy to withdraw his hand while holding such
+    a large handful.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Boy is unwilling to lose the nuts, cannot withdraw his hand, and bursts
+    into tears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A bystander advises the Boy not to be greedy, to be content with half, and
+    says he will then be able to remove his hand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stated moral of the Filberts fable warns not to attempt too much at once.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pair of Oxen
+  description: Two oxen drawing a heavily loaded wagon, straining at the yoke, and
+    speaking indignantly to the Axletrees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Axletrees
+  description: Wagon axletrees that creak and groan while the oxen draw the wagon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Boy
+  description: A boy who grasps too many filberts in a jar, cannot withdraw his hand,
+    and cries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bystander
+  description: An observer who identifies the Boy's trouble and advises him to take
+    fewer filberts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: burden-bearers and workers
+  assigned_to:
+  - fig:1
+  basis: The Oxen are described as drawing the heavily loaded wagon and doing the
+    work.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: noisy non-workers
+  assigned_to:
+  - fig:2
+  basis: The Axletrees creak and groan while the Oxen say that the Oxen do all the
+    work.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: greedy overreacher
+  assigned_to:
+  - fig:3
+  basis: The Boy grasps as many filberts as possible and is unwilling to release any,
+    leaving his hand trapped.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: practical adviser
+  assigned_to:
+  - fig:4
+  basis: The bystander sees the cause of the trouble and gives corrective advice to
+    the Boy.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heavily loaded wagon
+  literal_form: A heavily loaded waggon drawn along the highway.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: yoke
+  literal_form: The yoke at which the Oxen tug and strain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: creaking axletrees
+  literal_form: Axletrees that creak and groan terribly.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: jar of filberts
+  literal_form: A jar containing filberts with a neck too small for a large handful
+    to pass through.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: large handful of nuts
+  literal_form: As many filberts as the Boy's fist could possibly hold.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Oxen rebuke the noisy axletrees
+  summary: Two Oxen pull a heavily loaded wagon; when the Axletrees creak and groan,
+    the Oxen ask why they make noise although the Oxen do the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boy trapped by grasping too many filberts
+  summary: A Boy takes too large a handful from a jar, cannot remove his hand, cries,
+    and receives advice from a bystander to take only half.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Those who suffer least complain most
+  taxonomy_refs:
+  - wisdom
+  basis: The Oxen fable explicitly contrasts the oxen's labor with the Axletrees'
+    noise and states this moral directly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: Taxonomy reference to wisdom is broad; no narrower supplied taxonomy entry
+    matches this exact fable pattern.
+- id: motif:2
+  label: Greed traps the greedy
+  taxonomy_refs:
+  - wisdom
+  basis: The Boy's hand remains stuck because he grasps too many filberts and will
+    not release them; the bystander identifies greed as the problem.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The label summarizes the local fable pattern rather than a supplied named
+    motif type.
+- id: motif:3
+  label: Moderation enables release
+  taxonomy_refs:
+  - wisdom
+  basis: The bystander says the Boy can free his hand if he is content with half,
+    and the final moral says not to attempt too much at once.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an abstract moral pattern inferred from the explicit advice and
+    moral, not a separate narrated event beyond the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: THE OXEN AND THE AXLETREES section, lines 2108-2132
+  quote_or_summary: A pair of Oxen draw a heavily loaded wagon; the Axletrees creak
+    and groan, and the Oxen ask why they make noise when the Oxen do all the work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: THE OXEN AND THE AXLETREES moral, lines 2108-2132
+  quote_or_summary: '"They complain most who suffer least."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: THE BOY AND THE FILBERTS section, lines 2108-2132
+  quote_or_summary: A Boy grasps too many filberts in a jar, cannot pull his hand
+    through the narrow neck, cries, and is advised by a bystander to take only half
+    so he can withdraw his hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: THE BOY AND THE FILBERTS moral, lines 2108-2132
+  quote_or_summary: '"Do not attempt too much at once."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims were
+    made because the passage does not itself support a specific cross-textual or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were used only where broadly supported by the explicit fable morals.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2108-l2132
+  passage_sha256=e83d532dd6764848fdf67996bd242d69f5a999c124765f05777ad3ac569db7c9
+

@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l1572-l1645
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I     (2  III / I    I    I    A      I / I    1 / I  I  I; lines 1572-1645
+  start: '1572'
+  end: '1645'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains non-prose glyph/OCR material followed by an English
+    translation in which the Majesty of a god stands in a Court, addresses gods within
+    it, asks them to open doors, admit him into their Courts, give him light, and
+    guide him. He states that the addressed gods came into being from his members,
+    were made from his bodies, and were fashioned from his soul. The supplied excerpt
+    ends mid-sentence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage begins with non-prose glyph/OCR material before the English
+    translation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Majesty of this god stands up after taking his position in a Court.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The god addresses words to gods who are in the Court.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaking god asks the addressed gods to open their doors and let him come
+    into their Courts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaking god asks the addressed gods to give him light and make themselves
+    guides to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaking god says the addressed gods came into being from his members
+    and were made from his bodies and soul.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The supplied excerpt ends mid-sentence after the phrase about being made by
+    means of something not included in the passage.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Majesty of this god
+  description: A god who stands in a Court, addresses the gods there, asks for doors,
+    light, and guidance, and states that he created or fashioned the addressed gods
+    from himself.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Gods in the Court
+  description: Gods addressed by the speaking god; they are asked to open doors, give
+    light, become guides, and are described as having come into being from the speaker's
+    members, bodies, and soul.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: speaking god seeking entry and guidance
+  assigned_to:
+  - fig:1
+  basis: The god addresses the gods in the Court and asks for doors to be opened,
+    for light, and for guidance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: creator or fashioner of the addressed gods
+  assigned_to:
+  - fig:1
+  basis: The speaker says the addressed gods came from his members and were made or
+    fashioned from his bodies and soul.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: addressed gods asked to open and guide
+  assigned_to:
+  - fig:2
+  basis: They are the recipients of the request to open doors, give light, and serve
+    as guides.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: beings derived from the speaking god
+  assigned_to:
+  - fig:2
+  basis: The speaker describes them as beings who came into being from his members
+    and were made from his bodies and soul.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Court or Courts
+  literal_form: Court; Courts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Doors
+  literal_form: doors
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Light
+  literal_form: light
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Members, bodies, and soul as source of beings
+  literal_form: members; bodies; soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: God stands and addresses the Court
+  summary: After taking his position in a Court, the Majesty of the god stands and
+    speaks to the gods who are there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Request for opened doors, light, and guides
+  summary: The speaking god asks the gods to open their doors, admit him into their
+    Courts, provide light, and become guides for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Statement of divine derivation
+  summary: The speaking god tells the addressed gods that they came into being from
+    his members and were made or fashioned from his bodies and soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Passage through divine courts with opened doors
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage presents a god in a Court asking other gods to open doors and
+    let him enter their Courts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt itself does not give the broader route or map context beyond
+    the Court and requested entry.
+- id: motif:2
+  label: Light and divine guidance requested for passage
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The speaking god asks the gods to give him light and make themselves guides
+    to him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The destination and full journey sequence are not included in the supplied
+    excerpt.
+- id: motif:3
+  label: Divine beings fashioned from a god's own body and soul
+  taxonomy_refs: []
+  basis: The speaker says the addressed gods came into being from his members, were
+    made of his bodies, and were fashioned from his soul.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this literal body-and-soul
+    derivation motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1572-1645, opening non-prose portion
+  quote_or_summary: The supplied passage opens with glyph-like or OCR-fragment material
+    before the English prose translation.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: quote
+  locator: 1572-1645, English prose opening
+  quote_or_summary: '"The Majesty of this god standeth up" after taking position in
+    the Court and addresses the gods therein.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:3
+  type: quote
+  locator: 1572-1645, speech requesting entry
+  quote_or_summary: '"Open_ye to me your doors, and let me come into your Courts!"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:4
+  type: quote
+  locator: 1572-1645, speech requesting light and guides
+  quote_or_summary: '"Give ye light unto me, and make ye yourselves guides to me"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:5
+  type: summary
+  locator: 1572-1645, speech on origin of addressed gods
+  quote_or_summary: The speaker says the addressed gods came into being from his members,
+    were made of his bodies, fashioned from his soul, and created by him; the excerpt
+    then breaks off mid-sentence.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the OCR/glyph-like opening material and by the English
+    passage ending mid-sentence. No comparison claims were extracted because the excerpt
+    itself does not explicitly compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator, source metadata, and available taxonomy references. Taxonomy references were applied only where the Court, doors, light, and guidance language supported an afterlife-journey-map reading in the context of the supplied Am-Tuat source metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l1572-l1645
+  passage_sha256=4ce200a862b33def28e3b7dbb5dbbe281397e2469fa85ba90f5b4b2bd79e4948
+

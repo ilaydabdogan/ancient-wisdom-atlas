@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3072-l3107
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE THREE TRADESMEN / THE MOUSE AND THE BULL / THE HARE AND THE HOUND / THE
+    TOWN MOUSE AND THE COUNTRY MOUSE; lines 3072-3107
+  start: '3072'
+  end: '3107'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"it''s one thing to be running for your dinner, but quite another to be
+    running for your life."'
+  summary: A hound fails to catch a hare and explains that the hare was fleeing for
+    her life while he was only seeking dinner. In a second fable, a country mouse
+    visits a town mouse's well-stocked larder but rejects its dangers, preferring
+    simple food in peace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Hound starts a Hare from her form and pursues her for some distance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hare gains on the Hound, and the Hound gives up the chase.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A rustic who saw the race taunts the Hound for his defeat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Hound answers by contrasting running for dinner with running for life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Town Mouse and Country Mouse are acquaintances, and the Country Mouse
+    invites the Town Mouse to his home in the fields.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The country meal consists of barleycorns and roots with an earthy flavor.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Town Mouse criticizes the Country Mouse's way of living and says his own
+    larder is a regular horn of plenty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Town Mouse takes the Country Mouse to a town larder containing flour,
+    oatmeal, figs, honey, and dates.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Unidentified entrants come into the larder twice, and the two mice hide in
+    a narrow, uncomfortable hole.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Country Mouse leaves, saying the Town Mouse lives in luxury but amid danger,
+    while he can eat roots and corn in peace at home.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hound
+  description: A hound that pursues a hare, abandons the chase, and explains his failure
+    by the difference between appetite and mortal danger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hare
+  description: A hare started from her form who escapes because she is running for
+    her life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Rustic
+  description: A rustic who witnesses the race and taunts the hound after the chase
+    fails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Town Mouse
+  description: An urban mouse who visits the Country Mouse, criticizes his fare, and
+    hosts him in a well-stocked town larder.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Country Mouse
+  description: A rural mouse who hosts the Town Mouse, visits the town larder, and
+    chooses to return to simple food in peace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Unidentified entrants
+  description: Unidentified persons who enter the larder and cause the mice to hide.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pursuer whose motive is appetite
+  assigned_to:
+  - fig:1
+  basis: The Hound pursues the Hare but later says he was running for dinner.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fleeing quarry under mortal threat
+  assigned_to:
+  - fig:2
+  basis: The Hare is pursued and the Hound says she was running for her life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: observer and taunter
+  assigned_to:
+  - fig:3
+  basis: The rustic sees the race and taunts the Hound with defeat.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: urban host of abundance
+  assigned_to:
+  - fig:4
+  basis: The Town Mouse describes his larder as abundant and brings the Country Mouse
+    to it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: rural host who chooses peaceful simplicity
+  assigned_to:
+  - fig:5
+  basis: The Country Mouse hosts a simple meal and later prefers roots and corn in
+    peace over luxurious danger.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: source of interruption and danger
+  assigned_to:
+  - fig:6
+  basis: The entrants come into the larder and cause the mice to flee and hide.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: simple country fare
+  literal_form: barleycorns and roots; later roots and corn
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: abundant town larder
+  literal_form: a larder containing flour, oatmeal, figs, honey, and dates; called
+    a horn of plenty
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: narrow hiding hole
+  literal_form: a narrow and exceedingly uncomfortable hole in which the mice hide
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Failed chase of the hare
+  summary: A Hound chases a Hare, the Hare gains ground, and the Hound abandons the
+    chase.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rustic's taunt and Hound's reply
+  summary: A rustic taunts the Hound, and the Hound explains that the Hare's motive
+    was stronger because she ran for life rather than dinner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Country hospitality and urban invitation
+  summary: The Country Mouse serves barleycorns and roots in the fields; the Town
+    Mouse dislikes the fare and invites him to the town larder.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Interrupted feast in the town larder
+  summary: The two mice begin to enjoy the larder, but entrants interrupt them twice
+    and force them to hide in a narrow hole.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Country Mouse rejects dangerous luxury
+  summary: The Country Mouse leaves the town, contrasting luxury surrounded by dangers
+    with simple food in peace at home.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: running for life outweighs running for food
+  taxonomy_refs:
+  - wisdom
+  basis: The Hound explains the failed chase by contrasting his own pursuit for dinner
+    with the Hare's flight for life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a practical fable pattern rather than a supernatural or cultic
+    motif.
+- id: motif:2
+  label: peaceful simplicity preferred to dangerous luxury
+  taxonomy_refs:
+  - wisdom
+  basis: The Country Mouse rejects the town's luxury because it is surrounded by dangers
+    and prefers simple food in peace.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage states a moral contrast but
+    gives no explicit abstract maxim outside the characters' speech.
+- id: motif:3
+  label: country-town contrast through food and safety
+  taxonomy_refs: []
+  basis: The fable contrasts the Country Mouse's earthy field meal with the Town Mouse's
+    rich larder, then contrasts rural peace with urban danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a structural and thematic pattern in the passage, not a named
+    taxonomy item in the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The Town Mouse and Country Mouse episode can be cautiously compared to a
+    wisdom pattern in which secure modest living is favored over abundance accompanied
+    by danger.
+  claim_level: same_function
+  target: 'wisdom motif family: modest security over dangerous abundance'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and internal to the fable's moral contrast;
+    no historical contact or specific external parallel is asserted.
+- id: claim:2
+  claim: The Hare and the Hound episode can be cautiously compared to a wisdom pattern
+    about unequal motivation under different stakes, where mortal danger outweighs
+    ordinary appetite.
+  claim_level: same_function
+  target: 'wisdom motif family: life-stakes surpass appetite'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the practical contrast, but it does not name a
+    broader tradition or provide evidence for transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3072-3076
+  quote_or_summary: A Hound starts a Hare from her form, pursues her, and gives up
+    when she gains on him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3076-3081
+  quote_or_summary: The rustic taunts the Hound; the Hound replies that it is different
+    to run for dinner than to run for life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation/summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3083-3090
+  quote_or_summary: The Country Mouse invites the Town Mouse to the fields and serves
+    barleycorns and roots with an earthy flavor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3090-3095
+  quote_or_summary: The Town Mouse says the Country Mouse lives no better than ants,
+    calls his own larder a horn of plenty, and invites him to town.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3095-3099
+  quote_or_summary: In town, the Town Mouse shows a larder with flour, oatmeal, figs,
+    honey, and dates, and the Country Mouse begins to enjoy them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3099-3104
+  quote_or_summary: Someone enters the larder, the mice hide in a narrow uncomfortable
+    hole, then the same pattern repeats when someone else enters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 3104-3107
+  quote_or_summary: The Country Mouse says the Town Mouse has luxury but dangers,
+    while at home he can eat roots and corn in peace.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation/summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif taxonomy mapping
+    is limited to the broad supplied 'wisdom' family; no supernatural, ritual, or
+    historical-contact claims are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were applied because the passage's central objects do not match the supplied symbol list exactly.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3072-l3107
+  passage_sha256=9916eca799200695433e0f4a4ebeecf97f8559d516953d9f2d1180cf7e2a8d38
+

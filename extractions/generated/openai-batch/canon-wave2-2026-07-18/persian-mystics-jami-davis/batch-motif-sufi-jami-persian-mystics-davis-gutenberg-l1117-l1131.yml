@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1117-l1131
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE MAGIC MIRROR / A LAMENT / ONE HEART, ONE LOVE / GOD THE ONLY LOVE ETERNAL;
+    lines 1117-1131
+  start: '1117'
+  end: '1131'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Turn thy heart away from all of them, and firmly attach it to God.
+  summary: A didactic devotional passage contrasts the universe and transient objects
+    with God. The universe is described as a semblance without real existence, while
+    passions and glittering objects are called unreliable. The addressee is urged
+    to detach from all such things and cleave to God, who alone is eternal.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the universe did not exist or appear to exist yesterday,
+    appears to exist today without real existence, and will not be seen tomorrow.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The universe is described as a mere semblance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressee is questioned for being guided by vain passions and desires
+    and for relying on transient objects with false lustre.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressee is instructed to turn the heart away from transient things,
+    attach it to God, break loose from all these things, and cleave closely to Him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God is described as the one who always has been and always will continue to
+    be.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: God's eternity is described through the image of a countenance not scarred
+    by the thorn of contingency.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The eternal being to whom the addressee is told to attach the heart
+    and cleave closely.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: addressed person
+  description: The second-person addressee warned against passions, desires, and reliance
+    on transitory objects.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: eternal divine object of attachment
+  assigned_to:
+  - fig:1
+  basis: The passage commands attachment and cleaving to God and states that He always
+    has been and always will continue to be.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: admonished devotee or listener
+  assigned_to:
+  - fig:2
+  basis: The passage addresses a second-person 'thee' and instructs that person to
+    abandon passions and turn the heart to God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: transitory universe as semblance
+  literal_form: the universe that appears to exist but has no real existence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: glittering transient objects
+  literal_form: transitory objects that glitter with false lustre
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heart turned from all things toward God
+  literal_form: heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thorn of contingency
+  literal_form: thorn of contingency scarring the countenance of eternity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Renunciation of transient things and attachment to God
+  summary: The passage presents the world and its objects as transient semblances,
+    rebukes reliance on passions and desires, and instructs the addressee to turn
+    the heart away from all such things and cleave to eternal God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: impermanent world contrasted with eternal divine reality
+  taxonomy_refs:
+  - duality
+  basis: The passage opposes a universe with no real existence and transient objects
+    to God, who always has been and always will be.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is used broadly for the contrast between transient
+    appearance and eternal divine being.
+- id: motif:2
+  label: God as the only eternal love and object of attachment
+  taxonomy_refs:
+  - divine_beloved
+  basis: The title names God as the only eternal love, and the passage instructs the
+    addressee to attach the heart to God and cleave to Him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage frames divine love devotionally rather than through a narrative
+    beloved figure.
+- id: motif:3
+  label: mystical detachment from worldly desire
+  taxonomy_refs:
+  - mystical_quest
+  basis: The addressee is told to abandon vain passions, desires, and transitory objects,
+    and to direct the heart wholly toward God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No explicit journey narrative appears; the motif is inferred from the
+    inward devotional movement of detachment and attachment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1117-1121
+  quote_or_summary: "“Yesterday this universe neither existed nor appeared to exist,
+    while to-day it appears to exist but has no real existence: it is a mere semblance,
+    and to-morrow nothing thereof will be seen.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 1121-1124
+  quote_or_summary: "“What does it profit thee to allow thyself to be guided by vain
+    passions and desires? Why dost thou place reliance on these transitory objects
+    that glitter with false lustre?”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1125-1127
+  quote_or_summary: "“Turn thy heart away from all of them, and firmly attach it to
+    God. Break loose from all these, and cleave closely to Him.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 1128-1131
+  quote_or_summary: "“It is only He who always has been and always will continue to
+    be. The countenance of His eternity is never scarred by the thorn of contingency.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:5
+  type: quote
+  locator: line 1117 / passage title
+  quote_or_summary: "“GOD THE ONLY LOVE ETERNAL”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is doctrinal and devotional rather than narrative. No passage-supported
+    cross-text comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No symbol taxonomy references were assigned because none of the available symbol refs appear literally in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1117-l1131
+  passage_sha256=6600458358fc81593625cb2fa0f0548574a8303d87a6167c8084e0730716e53e
+

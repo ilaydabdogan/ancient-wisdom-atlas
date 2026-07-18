@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4529-l4625
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY
+    HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES
+    TO FLOWER; lines 4529-4625
+  start: '4529'
+  end: '4625'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage begins the story of a kind childless old couple and their beloved
+    white dog Shiro. Shiro leads his master to a yenoki tree where buried gold coins
+    are found. An envious cruel neighbor borrows Shiro, tries to force the dog to
+    find treasure beneath another yenoki tree, finds only refuse, then kills and buries
+    Shiro.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man and his wife are childless farmers who treat their dog Shiro with
+    great affection and share food with him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The neighboring old couple are described as wicked and cruel, and they hate
+    and sometimes injure Shiro.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Shiro barks in the field, pulls his master by the kimono to a large yenoki
+    tree, and digs there joyfully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old man digs at the place indicated by Shiro and uncovers a heap of old
+    valuable coins and gold coins.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage presents Shiro’s discovery as a return for the kindness shown
+    to him by his master.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The good old couple carries the treasure home, and the poor old man becomes
+    rich.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The envious neighbor secretly witnesses the treasure discovery and later asks
+    to borrow Shiro.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The neighbor forces Shiro to a yenoki tree in his own field and threatens
+    him to find gold coins.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The neighbor digs where Shiro scratches and finds a foul-smelling refuse heap
+    instead of treasure.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The neighbor blames Shiro, strikes him with a spade, kills him, and buries
+    the body in the hole.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: good old man
+  description: A poor elderly farmer and Shiro’s master; he is kind-hearted, follows
+    Shiro to the tree, finds buried coins, and later lends Shiro to the neighbor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: good old wife
+  description: The wife of the good old man; childless, affectionate toward Shiro,
+    and helps carry home the discovered treasure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Shiro
+  description: A white Japanese dog beloved by the good old couple; he leads his master
+    to buried coins and is later forced, blamed, killed, and buried by the wicked
+    neighbor.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: wicked old neighbor
+  description: The envious neighbor who hates Shiro, borrows him, tries to force him
+    to locate treasure, finds refuse, and kills him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: wicked neighbor’s wife
+  description: The wife of the wicked old neighbor; included in the neighboring couple
+    described as wicked and cruel toward Shiro.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: kind caretaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They lavish affection on Shiro and share food with him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal helper
+  assigned_to:
+  - fig:3
+  basis: Shiro guides his master to the yenoki tree where buried coins are found.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: envious imitator
+  assigned_to:
+  - fig:4
+  basis: He sees the neighbor’s good fortune, borrows Shiro, and tries to obtain the
+    same result for himself.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: cruel adversarial neighbor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The neighboring couple are described as wicked and cruel; the old man torments
+    and kills Shiro.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:5
+  label: victim of violence
+  assigned_to:
+  - fig:3
+  basis: Shiro is struck with a spade, killed, and buried by the wicked neighbor.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: yenoki tree
+  literal_form: A large yenoki tree where Shiro digs; later another yenoki tree in
+    the wicked neighbor’s field.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: buried gold coins
+  literal_form: A heap of old valuable coins and gold coins found under the good old
+    man’s tree.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: refuse heap
+  literal_form: A foul-smelling refuse heap found beneath the wicked neighbor’s tree
+    instead of gold.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: spade
+  literal_form: A digging tool used by the good old man to uncover coins and by the
+    wicked neighbor in the failed search and killing of Shiro.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Kind household and cruel neighbors introduced
+  summary: A childless old couple love and feed Shiro, while the neighboring couple
+    hate and mistreat him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shiro reveals buried treasure
+  summary: Shiro leads his master to a yenoki tree and digs; the old man digs there
+    and finds old and gold coins.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Treasure brought home and neighbor envies
+  summary: The good old couple carries the treasure home and becomes rich; the neighbor
+    has secretly witnessed the event and asks to borrow Shiro.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Forced imitation fails
+  summary: The wicked neighbor takes Shiro to his own yenoki tree, compels him to
+    scratch, digs, and finds only a foul-smelling refuse heap.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Shiro killed and buried
+  summary: Angered by failure, the neighbor blames Shiro, kills him with a spade,
+    and buries him in the hole.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: animal helper rewards kindness
+  taxonomy_refs: []
+  basis: Shiro, cherished by the old couple, leads his master to buried coins, and
+    the passage frames this as a return for kindness.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the dog’s action as grateful return, but no supernatural
+    agency is stated in this excerpt.
+- id: motif:2
+  label: treasure discovered beneath a tree by animal guidance
+  taxonomy_refs: []
+  basis: Shiro pulls the old man to a yenoki tree and digs there, after which the
+    old man finds buried coins.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The tree is a literal location in this excerpt; no explicit sacred status
+    is given.
+- id: motif:3
+  label: greedy imitation fails
+  taxonomy_refs: []
+  basis: The envious neighbor borrows Shiro to obtain similar treasure, but his forced
+    attempt yields a refuse heap.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The neighbor’s later consequences beyond killing Shiro are outside this
+    passage.
+- id: motif:4
+  label: cruelty toward a beneficent animal
+  taxonomy_refs: []
+  basis: After the failed treasure search, the neighbor blames the dog helper and
+    kills him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: Any later restoration or further moral recompense is not included in the
+    supplied passage.
+- id: motif:5
+  label: contrasted neighboring households
+  taxonomy_refs: []
+  basis: The passage contrasts a kind old couple who care for Shiro with a cruel neighboring
+    couple who hate and harm him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The contrast is social and moral within the passage; no broader taxonomy
+    reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4529-4625; opening household description
+  quote_or_summary: An old childless farming couple live peacefully, love their dog
+    Shiro, and give him good food from their own meals.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4529-4625; neighbor introduction
+  quote_or_summary: The neighboring old man and wife are described as wicked and cruel;
+    they hate Shiro and kick or throw things at him when possible.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4529-4625; Shiro barking in field
+  quote_or_summary: Shiro barks for a long time, runs to his master, seizes the end
+    of his kimono, pulls him under a large yenoki tree, and digs joyfully.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4529-4625; treasure discovery
+  quote_or_summary: The old man digs where Shiro indicated and finds old valuable
+    coins and more gold coins; Shiro sits proudly as though repaying his master’s
+    kindness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4529-4625; treasure carried home
+  quote_or_summary: The old man calls his wife, they carry home the treasure, the
+    poor old man becomes rich, and his gratitude to Shiro increases.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4529-4625; envious witness and borrowing
+  quote_or_summary: The cross old neighbor has secretly seen the treasure discovery,
+    envies it, and later asks permission to borrow Shiro; the good old man agrees
+    if Shiro is cared for.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 4529-4625; forced search at neighbor’s tree
+  quote_or_summary: The wicked old man takes a spade, forces unwilling Shiro to his
+    own field, threatens him at a yenoki tree to find gold coins, and holds his head
+    down so he scratches to free himself.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 4529-4625; failed digging
+  quote_or_summary: The neighbor digs where Shiro scratches, expects gold, notices
+    a foul smell, and finds a refuse heap.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 4529-4625; killing and burial of Shiro
+  quote_or_summary: The neighbor blames Shiro for the disappointment, strikes him
+    with the spade and kills him, throws the body into the hole, covers it with earth,
+    and hides the deed.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. The title points to later
+    events, but this record limits motifs to the included treasure-discovery, failed
+    imitation, and killing episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself identify an external tradition, shared corpus pattern, or historical relationship.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4529-l4625
+  passage_sha256=9d5f9fccc1bcac595eb2183980c13cca1a54d8a650ada4cdd1d8cef78e431adc
+

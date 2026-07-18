@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l12732-l12779
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: I42  VENDIDAD. / FARGARD    XI.  H; / FARGARD    XII.  I  45 / I46  VENDIDAD.;
+    lines 12732-12779
+  start: '12732'
+  end: '12779'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ahura Mazda answers questions about how long kin should stay after deaths
+    of children or siblings, distinguishing thirty days for the righteous and sixty
+    days for sinners. He also gives repeated instructions for cleansing a house: washing
+    bodies and clothes three times, chanting the Gathas three times, making offerings
+    to Fire, offering baresma, and bringing libations to good waters so that the house
+    becomes clean and sacred presences may enter.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the death of a son or daughter, the passage asks how long the father
+    or mother should stay, and Ahura Mazda answers with thirty days for the righteous
+    and sixty days for sinners.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: To cleanse the house, the instruction prescribes washing bodies three times,
+    washing clothes three times, and chanting the Gathas three times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The house-cleansing instruction also prescribes a sacrifice to Fire, offering
+    bundles of baresma, and bringing libations to the good waters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the cleansing rites, the house is said to be clean, and waters, fire,
+    and the Amesha-Spentas may enter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the death of a brother or sister, the passage asks how long a brother
+    or sister should stay, and Ahura Mazda again answers with thirty days for the
+    righteous and sixty days for sinners.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A second house-cleansing answer repeats the washing, clothing, Gathas, Fire-offering,
+    baresma, and water-libation instructions; the provided excerpt cuts off after
+    saying the waters may enter and beginning the next clause.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ahura Mazda is the speaker who answers the ritual questions, and one cleansing
+    answer addresses Spitama Zarathuitra.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The answering speaker who gives the stay-period and house-cleansing
+    instructions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Spitama Zarathuitra
+  description: The person addressed by Ahura Mazda at the end of the first house-cleansing
+    instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: father and mother
+  description: Parents named in the question about how long to stay after the death
+    of a son or daughter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: son and daughter
+  description: Children whose death occasions the question about the stay-period of
+    father or mother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: brother and sister
+  description: Siblings named in the question about how long to stay after the death
+    of a brother or sister.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the righteous
+  description: A moral category for whom the prescribed stay-period is thirty days.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:7
+  name_or_label: the sinners
+  description: A moral category for whom the prescribed stay-period is sixty days.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:8
+  name_or_label: Amesha-Spentas
+  description: Sacred beings who may enter the house after the cleansing rites.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine respondent and ritual instructor
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers each question and states the prescribed durations and
+    cleansing rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed recipient
+  assigned_to:
+  - fig:2
+  basis: The first house-cleansing instruction ends with a direct address to Spitama
+    Zarathuitra.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bereaved parent who must stay
+  assigned_to:
+  - fig:3
+  basis: The question asks how long the father stays for his son and the mother for
+    her daughter.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deceased child
+  assigned_to:
+  - fig:4
+  basis: The question begins with the death of a son or daughter.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: sibling mourner or sibling death relation
+  assigned_to:
+  - fig:5
+  basis: The question names the death of a brother or sister and asks about a brother
+    staying for his brother and a sister for her sister.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: moral category determining stay duration
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The answer distinguishes thirty days for the righteous and sixty days for
+    sinners.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:7
+  label: sacred beings admitted after cleansing
+  assigned_to:
+  - fig:8
+  basis: The Amesha-Spentas may enter after the house is clean.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: my Fire; fire may enter
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: good waters
+  literal_form: libations to the good waters; waters may enter
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: baresma bundles
+  literal_form: bundles of baresma
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Gathas chanted three times
+  literal_form: the Gathas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: house to be cleansed
+  literal_form: the house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: threefold repetition
+  literal_form: three times
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Stay-period after death of a child
+  summary: A question asks how long parents should stay after the death of a son or
+    daughter, and Ahura Mazda prescribes thirty days for the righteous and sixty days
+    for sinners.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: House cleansing after death
+  summary: Ahura Mazda instructs that bodies and clothes be washed three times, the
+    Gathas chanted three times, sacrifice made to Fire, baresma offered, and libations
+    brought to good waters; then the house becomes clean and sacred presences may
+    enter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Stay-period after death of a sibling
+  summary: A question asks how long siblings should stay after the death of a brother
+    or sister, and Ahura Mazda prescribes thirty days for the righteous and sixty
+    days for sinners.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Repeated house-cleansing instruction
+  summary: A second cleansing answer repeats the same pattern of threefold washing
+    and chanting, offerings to Fire and baresma, and libations to waters; the provided
+    excerpt ends before the sentence is complete.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: prescribed stay-period after kin death by moral category
+  taxonomy_refs: []
+  basis: For both child-death and sibling-death cases, the answer distinguishes a
+    thirty-day period for the righteous and a sixty-day period for sinners.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not explain the full ritual meaning of the stay-period.
+- id: motif:2
+  label: threefold ritual purification of house after death
+  taxonomy_refs: []
+  basis: The cleansing instructions require washing bodies and clothes three times
+    and chanting the Gathas three times before the house is clean.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The provided passage does not state why the number three is used.
+- id: motif:3
+  label: sacrifice and libation as purification rites
+  taxonomy_refs:
+  - sacrifice
+  basis: The house-cleansing rite includes a sacrifice to Fire, offering baresma bundles,
+    and bringing libations to the good waters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: Only the Fire offering is explicitly called a sacrifice; baresma and water
+    libations are adjacent ritual actions.
+- id: motif:4
+  label: sacred entry after ritual cleansing
+  taxonomy_refs: []
+  basis: After the house is cleaned, waters, fire, and the Amesha-Spentas may enter.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The second repetition is truncated, so the full repeated ending is not
+    available in the provided excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12737-12743
+  quote_or_summary: 'Question about a son or daughter dying; Ahura Mazda answers:
+    thirty days for the righteous and sixty days for sinners.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 12745-12760
+  quote_or_summary: Question about cleansing the house; answer prescribes washing
+    bodies and clothes three times, chanting the Gathas three times, offering sacrifice
+    to Fire, offering baresma, bringing libations to good waters, after which the
+    house is clean and waters, fire, and Amesha-Spentas may enter.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 12761-12769
+  quote_or_summary: Question about a brother or sister dying; Ahura Mazda answers
+    with the same thirty-day period for the righteous and sixty-day period for sinners.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 12770-12779
+  quote_or_summary: Second question about cleansing the house; answer repeats washing
+    bodies and clothes three times, chanting the Gathas three times, offering to Fire
+    and baresma, and bringing libations to good waters; the excerpt ends after 'then
+    the waters may enter, then'.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied excerpt. Motif labels are descriptive
+    and should be reviewed, especially because the passage begins and ends within
+    a larger ritual context and the final sentence is truncated. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Spelling of 'Spitama Zarathuitra' follows the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l12732-l12779
+  passage_sha256=4c13df38f95c6a879ca15d77f0a98886ed16feb2b936c0aac9a9ce626dc2c048
+

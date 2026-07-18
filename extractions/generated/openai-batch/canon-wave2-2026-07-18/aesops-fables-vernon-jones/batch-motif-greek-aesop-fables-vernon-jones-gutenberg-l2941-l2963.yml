@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2941-l2963
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE ASS / THE PROPHET / THE HOUND AND THE HARE / THE LION, THE
+    MOUSE, AND THE FOX; lines 2941-2963
+  start: '2941'
+  end: '2963'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a young Hound catches a Hare and alternates between snapping
+    at her as if to kill her and letting her go as if playing; the Hare asks him to
+    declare whether he is friend or enemy, and the stated moral condemns double-dealing
+    friendship. In the next fable, a Mouse runs over and tickles a sleeping Lion at
+    his den, waking him; a Fox jokes that the Lion is afraid of a Mouse, and the Lion
+    denies fear, objecting instead to the Mouse's bad manners.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young Hound starts and catches a Hare, then alternates between snapping
+    with his teeth and letting go to frisk as if playing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hare asks the Hound to show his true colors and contrasts the behavior
+    expected of a friend with that of an enemy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fable states the moral that a person who plays double is no friend.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Lion is asleep at the mouth of his den.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Mouse runs over the Lion's back and tickles him, causing the Lion to wake
+    and look around for the disturbance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Fox watches and jokes that this is the first time he has seen a Lion afraid
+    of a Mouse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Lion denies being afraid of the Mouse and says he cannot stand the Mouse's
+    bad manners.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young Hound
+  description: A young Hound who starts and catches a Hare, then alternates between
+    snapping and frisking around her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hare
+  description: A Hare caught by the Hound who questions the Hound's mixed behavior.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lion
+  description: A Lion lying asleep at the mouth of his den, awakened by a Mouse and
+    addressed by a Fox.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mouse
+  description: A Mouse who runs over the Lion's back and tickles him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Fox
+  description: A Fox who looks on and makes a joke at the Lion's expense.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pursuer with alternating bite/play behavior
+  assigned_to:
+  - fig:1
+  basis: The Hound catches the Hare, snaps as though to kill her, then lets go and
+    frisks as if playing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: pursued questioner
+  assigned_to:
+  - fig:2
+  basis: The Hare is caught by the Hound and asks him to clarify whether he is friend
+    or enemy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: disturbed sleeper
+  assigned_to:
+  - fig:3
+  basis: The Lion is asleep at his den until the Mouse runs over him and tickles him
+    awake.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: small disturber
+  assigned_to:
+  - fig:4
+  basis: The Mouse runs over the Lion's back and tickles him, causing the disturbance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: joking onlooker
+  assigned_to:
+  - fig:5
+  basis: The Fox is looking on and decides to make a joke at the Lion's expense.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: denying respondent
+  assigned_to:
+  - fig:3
+  basis: The Lion replies to the Fox's accusation of fear by denying it and criticizing
+    the Mouse's manners.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: teeth and bite
+  literal_form: snapping with teeth; the Hare's question, 'why do you bite me?'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: play or frisking around prey
+  literal_form: letting go and frisking as if playing with another dog
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: true colors
+  literal_form: the Hare's request that the Hound show himself in his 'true colours'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: den mouth
+  literal_form: the mouth of the Lion's den
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mouse on lion's back
+  literal_form: a Mouse running over the Lion's back and tickling him
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hound's mixed treatment of the Hare
+  summary: The Hound catches the Hare but alternates between threatening bites and
+    playful frisking, prompting the Hare to question whether he is friend or enemy
+    and leading to a moral against double dealing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mouse wakes Lion and Fox mocks him
+  summary: At the mouth of his den, the sleeping Lion is awakened by a Mouse running
+    over and tickling him; the Fox jokes that the Lion fears the Mouse, and the Lion
+    denies fear while objecting to bad manners.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ambiguous friend/enemy behavior
+  taxonomy_refs:
+  - wisdom
+  basis: The Hound's conduct shifts between attack and play, the Hare asks whether
+    he is friend or enemy, and the moral says one who plays double is no friend.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy link to wisdom is broad and rests on the explicit fable moral
+    rather than on a mythic wisdom episode.
+- id: motif:2
+  label: small creature disturbs powerful animal
+  taxonomy_refs: []
+  basis: A Mouse runs over and tickles a sleeping Lion, causing the Lion to wake;
+    the Fox's joke highlights the contrast between Lion and Mouse.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this animal-fable pattern.
+- id: motif:3
+  label: mockery answered by denial and reframing
+  taxonomy_refs: []
+  basis: The Fox jokes that the Lion is afraid of the Mouse, and the Lion answers
+    by denying fear and saying the issue is the Mouse's manners.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a localized narrative pattern in the passage, not a formal taxonomy
+    assignment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2941-2946, THE HOUND AND THE HARE
+  quote_or_summary: The Hound catches the Hare, snaps at her as if about to kill her,
+    then lets go and frisks around her as if playing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2946-2949, THE HOUND AND THE HARE
+  quote_or_summary: The Hare asks the Hound to show his true colors, asking why he
+    bites if he is a friend and why he plays if he is an enemy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: line 2951, THE HOUND AND THE HARE
+  quote_or_summary: He is no friend who plays double.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2955-2958, THE LION, THE MOUSE, AND THE FOX
+  quote_or_summary: A Lion lies asleep at the mouth of his den; a Mouse runs over
+    his back and tickles him, so that he wakes and looks for the cause.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2958-2963, THE LION, THE MOUSE, AND THE FOX
+  quote_or_summary: The watching Fox jokes that he has seen a Lion afraid of a Mouse;
+    the Lion denies fear and says he cannot stand the Mouse's bad manners.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif candidates are phrased as passage-level narrative patterns; only the broad
+    wisdom taxonomy reference is used, based on the explicit moral. No comparison
+    claims are generated because the passage gives no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage_locator label lists additional fable titles, but the provided passage_text contains only THE HOUND AND THE HARE and THE LION, THE MOUSE, AND THE FOX; extraction does not use titles or content absent from the supplied passage_text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2941-l2963
+  passage_sha256=ad80171472c5a8f8e72ed1b09b1444d1e69650f89aa6e667ae51cb56e51793e2
+

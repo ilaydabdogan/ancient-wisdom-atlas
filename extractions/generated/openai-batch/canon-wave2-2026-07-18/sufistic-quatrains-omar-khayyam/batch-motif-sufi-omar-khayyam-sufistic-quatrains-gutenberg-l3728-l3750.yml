@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3728-l3750
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXVIII. / LXIX. / LXXI. / LXXII.; lines 3728-3750
+  start: '3728'
+  end: '3750'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"that inverted Bowl they call the Sky"'
+  summary: The passage presents the sky or heavens as an inverted bowl or vault under
+    which humans live helplessly. It warns against seeking help from the sky/heavens,
+    which are described as more helpless than humans, and cites related Omar Khayyam
+    quatrains as inspiration.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sky is described as an inverted bowl under which humans live and die.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker tells the audience not to lift their hands to the sky for help.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sky is said to move as impotently as humans do.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An editorial note says the quatrain is inspired by O. 134, lines 1 and 2,
+    and O. 41.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited O. 134 passage describes the heavenly vault as an upside-down bowl
+    under which the wise have fallen helpless.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cited O. 41 passage says good and bad in human nature, and predestined
+    happiness and misery, should not be imputed to the heavens.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cited O. 41 passage says that, in the way of Wisdom, the heavens are much
+    more helpless than the human addressee.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: human collective / poetic 'we'
+  description: Humans who live and die under the sky and are compared with the sky
+    in helpless motion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sky / heavens
+  description: The sky or heavens are described as an inverted bowl or heavenly vault
+    and as helpless or impotent.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the wise
+  description: The cited O. 134 passage says all the wise have fallen helpless under
+    the heavenly vault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: enclosed mortal collective
+  assigned_to:
+  - fig:1
+  basis: The passage says humans live and die under the inverted bowl called the sky.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: helpless cosmic entity
+  assigned_to:
+  - fig:2
+  basis: The sky/heavens are said to move impotently and to be more helpless than
+    the human addressee.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: helpless wise group
+  assigned_to:
+  - fig:3
+  basis: The cited source passage says the wise have fallen helpless under the heavenly
+    vault.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rejected object of supplication or attribution
+  assigned_to:
+  - fig:2
+  basis: The speaker says not to lift hands to the sky for help and not to impute
+    predestined conditions to the heavens.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: inverted sky bowl
+  literal_form: An inverted bowl called the sky; a heavenly vault like a bowl fallen
+    upside down.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: lifted hands
+  literal_form: Hands lifted toward the sky for help.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: paired human conditions
+  literal_form: Good and bad in human nature; predestined happiness and misery.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Humans beneath the inverted sky
+  summary: The poetic voice describes humans as living and dying under the inverted
+    bowl called the sky and warns them not to ask it for help because it is impotent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cited source parallels
+  summary: 'The editorial material links the quatrain to two cited passages: one comparing
+    the heavenly vault to an upside-down bowl over helpless wise people, and another
+    denying that human fate should be blamed on the heavens.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cosmic enclosure by an inverted sky bowl
+  taxonomy_refs: []
+  basis: The main quatrain and cited O. 134 passage both describe the sky/heavenly
+    vault as an inverted or upside-down bowl over humans or the wise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches the sky-bowl image.
+- id: motif:2
+  label: helpless heavens and refusal of supplication
+  taxonomy_refs:
+  - wisdom
+  basis: The passage warns not to lift hands to the sky for help and explains, in
+    a cited wisdom frame, that the heavens are more helpless than the human addressee.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The wisdom taxonomy link is based on the explicit phrase 'way of Wisdom'
+    and the admonitory teaching, not on a developed narrative episode.
+- id: motif:3
+  label: predestined fortune and misery not blamed on heaven
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The cited O. 41 passage pairs good/bad and happiness/misery, calls happiness
+    and misery predestined, and tells the addressee not to impute them to the heavens.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The duality reference is limited to paired contrasts in the passage and
+    should not be read as a full dualistic cosmology.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents quatrain LXXII as related to O. 134 and O. 41,
+    with a shared pattern of an enclosing sky/heavens described as helpless rather
+    than salvific.
+  claim_level: same_motif
+  target: O. 134 lines 1-2 and O. 41 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the editorial relationship and excerpts supplied
+    in the passage; it does not establish wider historical transmission beyond the
+    cited textual relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3728-3733, LXXII
+  quote_or_summary: '"And that inverted Bowl they call the Sky, / Whereunder crawling
+    coop''d we live and die, / Lift not your hands to It for help--for It / As Impotently
+    moves as you or I."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: lines 3735-3736, editorial note
+  quote_or_summary: '"The inspiration for this quatrain comes from O. 134, ll. 1 and
+    2, and O. 41."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 3738-3740, cited O. 134
+  quote_or_summary: '"This heavenly vault is like a bowl fallen upside down, / Under
+    which all the wise have fallen helpless."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:4
+  type: quote
+  locator: lines 3746-3750, cited O. 41
+  quote_or_summary: '"The good and the bad that are in man''s nature" and predestined
+    happiness and misery should not be imputed to the heavens, which are "a thousandfold
+    more helpless than thou art."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied public-domain passage. Motif
+    taxonomy assignments are cautious because the available taxonomy has no exact
+    sky-bowl or helpless-heavens category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied LXXII passage and its cited editorial parallels were used; no external Khayyam or Sufi context was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3728-l3750
+  passage_sha256=ce95a37f47c14011e9ee658f75db1d85f86854552f951626363be60211aba968
+

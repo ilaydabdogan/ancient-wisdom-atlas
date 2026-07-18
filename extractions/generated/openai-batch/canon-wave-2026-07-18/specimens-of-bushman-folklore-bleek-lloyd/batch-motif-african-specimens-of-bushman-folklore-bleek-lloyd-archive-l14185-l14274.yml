@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14185-l14274
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: A    LION'S    STORY. / THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE. / MAN    WHO    FOUND    LION   IN    CAVE.  261
+    / THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE.; lines 14185-14274
+  start: '14185'
+  end: '14274'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE.
+  summary: A grandfather named \yugen-ddi is said to have told of a man who, when
+    rain fell, intended to sleep in a cave. The passage states that a lion had made
+    rain so that the man would miss his home in the darkness, go elsewhere, and be
+    seized by the lion. A separate note in the same passage mentions a lion's hair
+    being set on fire and bushes catching fire as he ran through them. The remainder
+    is largely a transcription without English translation in the supplied excerpt.
+  language: English and |Xam transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage title identifies the narrative as concerning a man who found a
+    lion in a cave.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator attributes the story to the narrator's grandfather, \yugen-ddi.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man, when rain fell, thought he would go and sleep in a cave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion is described as having made rain for the man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rain and darkness are described as causing the man not to know where his
+    home seemed to be, to pass it by, and to go to a different place where the lion
+    might get hold of him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note states that an unnamed female figure set the lion's hair on fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note states that as the lion ran through bushes, the bushes also caught
+    fire.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: "\\yugen-ddi"
+  description: The narrator's grandfather, named as the one who formerly told the
+    story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: man long ago
+  description: A man who, when rain fell, intended to go sleep in a cave and was to
+    be misled away from home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: lion
+  description: A lion associated with the cave, with making rain, and with intending
+    to get hold of the man; also mentioned in notes about burning hair and running
+    through bushes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: unnamed female figure
+  description: A figure referred to only as 'She' who set the lion's hair on fire.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: story transmitter
+  assigned_to:
+  - fig:1
+  basis: The passage says the narrator's grandfather formerly told the story.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: traveler seeking shelter
+  assigned_to:
+  - fig:2
+  basis: The man, during rain, thought of going to sleep in a cave and was misdirected
+    from home.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal adversary
+  assigned_to:
+  - fig:3
+  basis: The lion made rain and darkness so that the man would go elsewhere and the
+    lion might get hold of him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rain-maker
+  assigned_to:
+  - fig:3
+  basis: The lion is explicitly described as the one who had made rain for the man.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fire-setter
+  assigned_to:
+  - fig:4
+  basis: The note states that she set the lion's hair on fire.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rain
+  literal_form: rain falling and rain made by the lion
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: darkness
+  literal_form: darkness in which the man might pass his home by
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire
+  literal_form: lion's hair set on fire; bushes catching fire
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Transmission frame
+  summary: The narrator reports that the story was formerly told by the narrator's
+    grandfather, \yugen-ddi.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Rain, cave, and lion's trap
+  summary: During rain, a man considers sleeping in a cave. The lion is said to have
+    made the rain so the man would miss his home in darkness and go elsewhere, where
+    the lion could seize him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Fire note involving the lion
+  summary: A note says an unnamed female figure set the lion's hair on fire, and another
+    note says the bushes caught fire as he ran through them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal adversary creates rain to lure a person
+  taxonomy_refs: []
+  basis: The lion is said to have made rain so that the man would lose track of home
+    in the darkness and move to a place where the lion might get hold of him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The supplied excerpt gives only a brief English summary before a largely
+    untranslated transcription.
+- id: motif:2
+  label: shelter cave as place of danger
+  taxonomy_refs: []
+  basis: The man plans to sleep in a cave during rain, while the title frames the
+    story as a man finding a lion in a cave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The detailed cave encounter is not translated in the supplied excerpt.
+- id: motif:3
+  label: burning animal spreads fire to vegetation
+  taxonomy_refs: []
+  basis: A note says the lion's hair was set on fire, and another says bushes caught
+    fire as he ran through them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The fire statements appear as notes in the passage, but their exact relation
+    to the surrounding story is unclear from the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14185-14186
+  quote_or_summary: 'Title: "THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 14187-14195
+  quote_or_summary: The narrator says the grandfather \yugen-ddi formerly told of
+    a man who, when rain fell, planned to sleep in a cave; the lion had made rain
+    so the man would miss home in the darkness, go elsewhere, and be caught by the
+    lion.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: line 14197
+  quote_or_summary: '"She set the lion''s hair on fire."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: line 14199
+  quote_or_summary: A note says that as he ran through the bushes, the bushes also
+    caught fire.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: note
+  locator: lines 14202-14274
+  quote_or_summary: The supplied excerpt continues with |Xam transcription and page/header
+    artifacts; no English translation is provided in this passage segment.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; descriptive note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on the short English framing summary and two notes. The
+    later transcription is not interpreted because no translation is supplied in the
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14185-l14274
+  passage_sha256=b11fb50ac4bf13b664a48eee0f464b69272c6f7fe4db2e3044fd5c12b0fc9b05
+

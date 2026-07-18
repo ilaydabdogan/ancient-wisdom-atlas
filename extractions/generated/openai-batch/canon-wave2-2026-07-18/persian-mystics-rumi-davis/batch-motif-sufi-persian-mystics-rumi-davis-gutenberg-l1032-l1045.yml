@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1032-l1045
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: REMEMBER GOD AND FORGET SELF / MORTALITY AND IMMORTALITY / THE BELOVED THE
+    DIVINE CONSOLER / THE SEA OF LOVE; lines 1032-1045
+  start: '1032'
+  end: '1045'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Mankind, like waterfowl, are sprung from the sea--the Sea of Soul;
+  summary: The passage presents humankind as waterfowl, birds, and pearls originating
+    from and abiding in the Sea of Soul. It describes waves, billows, thunder, dawn,
+    union, eternity, divine largesse, purity, and the Light of God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mankind is compared to waterfowl sprung from the Sea of Soul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bird that has risen from the Sea is questioned for making its home here.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says “we” are pearls in the Sea and abide there.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wave follows wave from the Sea of Soul.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage names a time of Union’s attainment, Eternity’s beauty, favour,
+    largesse, and an Ocean of perfect purity.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A billow of largesse appears, the thunder of the Sea arrives, the morn of
+    blessedness dawns, and this dawn is identified as the Light of God.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mankind / we
+  description: Humankind is described through the images of waterfowl, a bird, and
+    pearls related to the Sea of Soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sea of Soul / Ocean of perfect purity
+  description: The Sea of Soul is the source from which mankind is sprung, the place
+    where pearls abide, the source of waves, and an Ocean of perfect purity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: God
+  description: God is named through the phrase “the Light of God” at the close of
+    the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: soul-like human collective
+  assigned_to:
+  - fig:1
+  basis: The human collective is described as waterfowl, bird, and pearls in relation
+    to the Sea of Soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: spiritual source and abiding place
+  assigned_to:
+  - fig:2
+  basis: The Sea of Soul is described as the origin of mankind and the place where
+    the pearls abide.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine light
+  assigned_to:
+  - fig:3
+  basis: The dawn of blessedness is corrected or clarified as the Light of God.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sea of Soul
+  literal_form: sea / ocean
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: waterfowl and bird
+  literal_form: waterfowl / bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: pearls in the Sea
+  literal_form: pearls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: waves and billow
+  literal_form: wave / billow
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: morn of blessedness
+  literal_form: morn / dawn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Light of God
+  literal_form: light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Origin and abiding in the Sea of Soul
+  summary: Humankind is depicted as arising from the Sea of Soul and also abiding
+    in that Sea as pearls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Union, largesse, and divine light
+  summary: The passage announces the time of union, eternity, favor, purity, the appearing
+    billow of largesse, the thunder of the Sea, and a blessed dawn identified as the
+    Light of God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Union with the divine source
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage speaks of Union’s attainment and ends by identifying the blessed
+    dawn with the Light of God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage names union but does not explicitly describe annihilation
+    of self in this selected excerpt.
+- id: motif:2
+  label: Return or belonging to a spiritual origin
+  taxonomy_refs:
+  - return
+  basis: Humankind is said to be sprung from the Sea of Soul, questioned for making
+    a home elsewhere, and described as abiding in that Sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage implies belonging to the origin rather than narrating an explicit
+    journey of return.
+- id: motif:3
+  label: Oceanic divine love and purity
+  taxonomy_refs:
+  - divine_beloved
+  basis: Under the title “The Sea of Love,” the passage presents the Sea/Ocean as
+    the setting of union, eternity, largesse, perfect purity, and the Light of God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The word “beloved” does not occur in the excerpt; the mapping rests on
+    love, union, and divine language in the passage title and imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1032-1033
+  quote_or_summary: "“Mankind, like waterfowl, are sprung from the sea--the Sea of
+    Soul;”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: '1034'
+  quote_or_summary: A bird risen from the Sea is questioned for making its home here.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: '1035'
+  quote_or_summary: "“we are pearls in that Sea, therein we all abide”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: '1036'
+  quote_or_summary: Wave follows wave from the Sea of Soul.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1037-1040
+  quote_or_summary: The passage announces the time of Union’s attainment, Eternity’s
+    beauty, favour, largesse, and the Ocean of perfect purity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 1041-1045
+  quote_or_summary: The billow of largesse appears, the thunder of the Sea arrives,
+    the morn of blessedness dawns, and the dawn is identified as the Light of God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery and figures are clear. Motif mappings are cautious because
+    the excerpt is lyric and metaphorical rather than narrative. No comparison claims
+    were added because the passage does not itself compare to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text and metadata. Taxonomy references limited to supplied motif families and symbols.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1032-l1045
+  passage_sha256=6ca392189a7f113abdc4f8cb011c71f6c81049cc2217a8fc418d878e9f258ead
+

@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14277-l14361
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE. / MAN    WHO    FOUND    LION   IN    CAVE.  261
+    / THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE. / MAN    WHO    FOUND    LION   IN    CAVE.  263;
+    lines 14277-14361
+  start: '14277'
+  end: '14361'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: The man, when he had entered the cave, heard a thing which seemed to breathe.
+  summary: In darkness and rain, a man who cannot find his way home seeks a cave in
+    which to sleep until morning. A lion has arrived first, intending to wait for
+    the man and catch him, but after warming itself in the cave it falls asleep. The
+    man enters, hears breathing, wonders whether silent people are present, and decides
+    to feel gently rather than call out, in case the breathing thing is not human.
+  language: English translation with /Xam transcription in the later part of the excerpt
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man is in a very dark place, goes into bushes, cannot see where he is
+    walking, and does not know where his home seems to be.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Because rain is falling on him, the man thinks he should look for a cave,
+    sleep in it if he finds one, and return home in the morning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion reaches the cave before the man and comes there to wait for him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion is wet, warms itself inside the cave, and falls fast asleep despite
+    having intended to catch the man if he entered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man enters the cave while the lion is asleep and hears something breathing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man wonders whether people have come to the cave and why they do not speak
+    if they are people.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man decides not to call out, but to feel gently with his hands to learn
+    whether the breathing presence is really people, because calling might awaken
+    a different thing.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man moving in darkness and rain who seeks shelter in a cave, enters
+    it, hears breathing, and reasons about whether the unseen presence is human.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the lion
+  description: A lion that reaches the cave first, waits for the man, warms itself,
+    and falls asleep after planning to catch him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: shelter-seeker in darkness and rain
+  assigned_to:
+  - fig:1
+  basis: The man cannot find his way home in the dark and rain and thinks of finding
+    a cave to sleep in until morning.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended target of the lion
+  assigned_to:
+  - fig:1
+  basis: The lion waits in the cave with the intention of catching the man if he comes
+    in.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: waiting predator in the cave
+  assigned_to:
+  - fig:2
+  basis: The lion arrives first at the cave, waits for the man, and plans to catch
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cautious tester of an unseen presence
+  assigned_to:
+  - fig:1
+  basis: After hearing breathing, the man decides to feel gently rather than call
+    out, to avoid awakening something non-human.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: a cave sought for sleep and already occupied by the lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: darkness
+  literal_form: a very dark place where the man cannot see his way
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rain and wetness
+  literal_form: falling rain on the man and wetness felt by the lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: breathing in the dark cave
+  literal_form: an unseen thing that seems to breathe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: The man seeks shelter
+  summary: In darkness and rain, the man cannot find his way home and decides to look
+    for a cave where he can sleep until morning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The lion waits and sleeps
+  summary: The lion arrives at the cave before the man, intending to catch him, but
+    after warming itself inside it falls asleep.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The man hears breathing in the cave
+  summary: The man enters the cave, hears breathing, wonders whether silent people
+    are there, and decides to investigate by touch rather than by calling out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dangerous shelter in a cave
+  taxonomy_refs: []
+  basis: The man seeks a cave as protection from darkness and rain, but the cave is
+    already occupied by a lion waiting for him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage excerpt ends before the full outcome of the encounter is shown.
+- id: motif:2
+  label: predator's ambush interrupted by sleep
+  taxonomy_refs: []
+  basis: The lion plans to catch the man in the cave, but becomes warm and falls fast
+    asleep before the man enters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Only the preparation and interruption of the ambush are visible in the
+    supplied passage.
+- id: motif:3
+  label: testing an unseen presence before speaking
+  taxonomy_refs: []
+  basis: The man hears breathing in the dark cave and decides to feel gently with
+    his hands before calling out, because the presence may not be human.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is based on the man's reasoning in this excerpt; the later result
+    is not included in the translated portion supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14277-14285; translation paragraphs (4892)-(4894)
+  quote_or_summary: The place is very dark; the man cannot see his path or identify
+    where home is, and because rain is falling on him he thinks of seeking a cave
+    to sleep in until morning.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14286-14298; translation paragraphs (4894)-(4897)
+  quote_or_summary: The lion has come first to the cave to wait for the man; wet at
+    first, it becomes warm inside and falls asleep despite intending to catch the
+    man if he comes in.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14299-14308; translation paragraphs (4898)-(4899)
+  quote_or_summary: The man enters the cave, hears something that seems to breathe,
+    and wonders whether people are present and why they do not speak.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 14309-14315; translation paragraph (4900)
+  quote_or_summary: The man decides not to call out; he will feel gently with his
+    hands to determine whether the presence is really people, since calling might
+    awaken a different thing.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: note
+  locator: lines 14316-14361; transcription paragraphs (4901)-(4909)
+  quote_or_summary: The later portion of the supplied excerpt consists of original-language
+    transcription; this extraction relies on the English translation visible earlier
+    in the supplied passage.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; note based on supplied passage layout.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English translation portion clearly supports the figures, actions, and
+    candidate motifs. The supplied passage also includes original-language transcription
+    and appears to end mid-sentence, so the extraction is limited to the translated
+    events visible here. No comparison claims are made because the passage itself
+    does not support a comparison to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Literal observations are separated from candidate motif labels; no historical or cross-cultural comparison claims were extracted.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14277-l14361
+  passage_sha256=fd359dc2fdaed2a68863447474ee824ba7467a45dcfdf54506b6f3f25ed5a9bf
+

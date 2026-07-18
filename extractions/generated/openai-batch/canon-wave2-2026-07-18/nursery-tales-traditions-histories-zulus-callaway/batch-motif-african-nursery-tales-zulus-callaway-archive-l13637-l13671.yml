@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l13637-l13671
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UICCOMBEKCANSINI. / IZINGANEKWANE. / APPENDIX.; lines 13637-13671
+  start: '13637'
+  end: '13671'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: People doubt Undayeni's claim to hear a bird. Later, while the group is
+    sitting in a cattle-pen, a wagtail jabbers; Undayeni says it brings news and interprets
+    it as saying that the next year will be a dry season. The listeners laugh and
+    say he is dreaming, questioning how anyone who is not a bird could understand
+    bird language. The passage then states that Ungoza came and that the group bought
+    many cattle with corn from the people of Ungoza, before the fragment cuts off.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people treat the saying as fable-like and ask Undayeni whether he says
+    he heard the bird say it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Undayeni replies that the bird will soon return and say something else.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After a few days, the group is sitting in the cattle-pen when a wagtail jabbers,
+    and the group does not understand what it says.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Undayeni tells the group to listen and says there is news.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The listeners say they understood nothing beyond hearing the wagtail jabbering
+    very much.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Undayeni says the wagtail says that the next year will be a dry season.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The listeners laugh at Undayeni's interpretation and later say he is dreaming.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: The passage states that the wagtail spoke many things which Undayeni heard.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The listeners ask who can understand the language of birds without being a
+    bird.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage states that Ungoza came that year, and that the group bought many
+    cattle with their corn from the people of Ungoza.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Undayeni
+  description: A named person who claims that the bird will return, hears the wagtail,
+    and interprets its jabbering as news about a coming dry season.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: wagtail
+  description: A bird that jabbers; Undayeni says it speaks news and predicts a dry
+    season.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: listener group / narrator's group
+  description: The people who question Undayeni, sit in the cattle-pen, fail to understand
+    the wagtail, laugh at Undayeni, and later buy cattle with corn.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: people of Ungoza
+  description: The people from whom the group buys many cattle with corn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bird-speech interpreter
+  assigned_to:
+  - fig:1
+  basis: Undayeni reports meanings from the wagtail's jabbering that the rest of the
+    group cannot understand.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: reported animal speaker
+  assigned_to:
+  - fig:2
+  basis: The wagtail jabbers, is described as speaking by jabbering, and is said by
+    Undayeni to deliver news.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: skeptical audience
+  assigned_to:
+  - fig:3
+  basis: The group laughs at Undayeni and says he is dreaming, questioning how a non-bird
+    could understand bird language.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: cattle buyers
+  assigned_to:
+  - fig:3
+  basis: The group buys many cattle with its corn.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: exchange partners
+  assigned_to:
+  - fig:4
+  basis: The people of Ungoza are the group from whom cattle are bought with corn.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wagtail speech
+  literal_form: the wagtail jabbering / the language of birds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cattle-pen
+  literal_form: the cattle-pen where the group is sitting when the wagtail jabbers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dry season prediction
+  literal_form: the statement that next year will be a dry season
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: corn-for-cattle exchange
+  literal_form: corn used to buy many cattle
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Questioning Undayeni about the bird
+  summary: The people ask Undayeni whether he claims to have heard the bird, and he
+    says it will soon return and speak again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wagtail jabbers in the cattle-pen
+  summary: A few days later, while the group sits in the cattle-pen, the wagtail jabbers;
+    Undayeni tells them to listen for news, but they say they do not understand it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dry-season interpretation and mockery
+  summary: Undayeni interprets the wagtail as predicting a dry season next year. The
+    listeners laugh, call him dreaming, and question how a human can understand birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ungoza and the cattle purchase
+  summary: The passage states that Ungoza came that year and that the group bought
+    many cattle with corn from the people of Ungoza.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: human understanding of bird language
+  taxonomy_refs:
+  - wisdom
+  basis: Undayeni is presented as hearing meanings in the wagtail's jabbering that
+    the others cannot understand.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage does not explain the
+    source, status, or sacred nature of Undayeni's ability.
+- id: motif:2
+  label: animal-borne weather omen
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Undayeni says the wagtail's message is that the next year will be a dry season.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment does not fully preserve the outcome of the dry-season
+    prediction.
+- id: motif:3
+  label: skeptical rejection of an animal-message interpreter
+  taxonomy_refs: []
+  basis: The group laughs, says Undayeni is dreaming, and questions how anyone who
+    is not a bird could understand bird language.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage rather than a matched
+    taxonomy motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the reported bird message as fable-like to the
+    listeners, supporting only a cautious functional comparison to an animal-speech
+    or fable-like pattern.
+  claim_level: same_function
+  target: animal-speech / fable-like narrative pattern
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No external fable corpus, tale type, or nearby tradition is cited in
+    the passage; the comparison rests only on the internal phrase that the saying
+    was like a fable to the people.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13637-13644
+  quote_or_summary: The people treat the saying as like a fable, ask Undayeni if he
+    heard the bird say it, and he replies that it will soon return and say something
+    else.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13644-13653
+  quote_or_summary: After a few days, while the group sits in the cattle-pen, the
+    wagtail jabbers; Undayeni tells them to listen because there is news, but they
+    say they do not understand.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 13653-13658
+  quote_or_summary: Undayeni says the wagtail is saying that next year will be a dry
+    season, and the group laughs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 13658-13664
+  quote_or_summary: The passage says the wagtail spoke many things which Undayeni
+    heard; when he told the group, they laughed, said he was dreaming, and questioned
+    who can understand bird language without being a bird.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 13665-13671
+  quote_or_summary: The passage states that Ungoza came that year, and that the group
+    bought many cattle with corn from the people of Ungoza; the sentence after this
+    is incomplete in the provided passage.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is clear for the bird-language and dry-season prediction material,
+    but it is a fragment and the final reference to Ungoza is not explained within
+    the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external identification of Ungoza or tale-type parallels has been added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l13637-l13671
+  passage_sha256=37088271e8a2e17059be7564be0b56da78cf0e61110e1bbca70ae8452b865f96
+

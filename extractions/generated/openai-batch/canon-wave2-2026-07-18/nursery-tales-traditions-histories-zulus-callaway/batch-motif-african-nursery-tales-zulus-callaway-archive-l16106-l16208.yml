@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l16106-l16208
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: CANNIBALS. / AMAZIMU. / IZINGANEKWANE. / CANNIBALS.; lines 16106-16208
+  start: '16106'
+  end: '16208'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes encounters between men and Amazimu. Men may recognize
+    approaching Amazimu, prepare weapons, form a line, and either fight or flee. Amazimu
+    are described as powerful, terrible, and very swift. They hunt people, pursue
+    those who run until they tire, capture them, carry them to a concealed wilderness
+    place, then boil and eat them.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men who see Amazimu approaching prepare their weapons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the Amazimu are numerous, both Amazimu and men form lines or rows before
+    approaching each other.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Amazimu are described as very powerful, terrible, and very swift.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Some men flee after seeing the Amazimu; some brave men fight them and may
+    beat them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Amazimu hunt, encounter other men, pursue those who run, and overtake them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some people hide themselves, and the Amazimu do not see them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A person who does not hide and relies only on running is pursued until tired
+    and overtaken.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After capture, the Amazimu carry the person to a concealed place in the wilderness,
+    boil him, and eat him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Amazimu
+  description: Man-eating beings described as powerful, terrible, swift hunters who
+    pursue, capture, boil, and eat people.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Men / people encountered by the Amazimu
+  description: Human opponents or victims who may prepare weapons, form lines, fight,
+    flee, hide, or be captured.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Brave men
+  description: Some men with courage who fight the Amazimu and may beat them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hidden people
+  description: People who hide themselves so that the Amazimu do not see them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Captured person
+  description: A person who does not hide, runs until tired, is overtaken, carried
+    away, boiled, and eaten.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: cannibal pursuers
+  assigned_to:
+  - fig:1
+  basis: The Amazimu hunt people, pursue them, capture them, and eat them.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: fearsome opponents
+  assigned_to:
+  - fig:1
+  basis: They are described as powerful, terrible, and swift; men may flee or fight
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: armed human fighters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Men prepare weapons, form lines, and some brave men fight the Amazimu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: human victims
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: People who are overtaken are seized, carried away, boiled, and eaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: concealed survivors
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Some people hide themselves and are not seen by the Amazimu.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: weapons
+  literal_form: weapons prepared by men before facing Amazimu
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: battle line
+  literal_form: lines or rows formed by Amazimu and men before they approach each
+    other
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hiding place
+  literal_form: self-concealment by people to avoid being seen by Amazimu
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: concealed wilderness place
+  literal_form: a place concealed from men in the wilderness where the captive is
+    taken
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: boiling and eating
+  literal_form: the captive is boiled and eaten by the Amazimu
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Armed encounter with Amazimu
+  summary: Men recognize approaching Amazimu, prepare weapons, and both sides may
+    form lines and draw near.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fight or flight
+  summary: Because the Amazimu are feared as powerful and terrible, some men flee,
+    while some brave men fight and may beat them; the Amazimu may then flee swiftly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hunt and pursuit
+  summary: Amazimu hunt and encounter people; those who run may be pursued and overtaken,
+    while some who hide are not seen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Capture and cannibal meal
+  summary: The captured person is carried to a concealed wilderness place, boiled,
+    and eaten.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cannibal beings hunt humans
+  taxonomy_refs: []
+  basis: The Amazimu repeatedly hunt, pursue, capture, boil, and eat people.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a description of Amazimu behavior, not a
+    complete tale episode with named characters.
+- id: motif:2
+  label: escape by hiding from pursuers
+  taxonomy_refs: []
+  basis: Some people hide themselves and are not seen by the Amazimu, while those
+    who only run are pursued until tired.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a general pattern rather than a single narrated escape.
+- id: motif:3
+  label: armed confrontation with monstrous enemies
+  taxonomy_refs: []
+  basis: Men prepare weapons, form a line, and may fight the powerful and terrible
+    Amazimu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage also emphasizes flight and pursuit; the fighting motif is
+    one possible outcome, not the sole pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16106-16208, opening English translation paragraph
+  quote_or_summary: When men see Amazimu coming, they prepare weapons; if the Amazimu
+    are numerous, both sides form lines or rows and draw near.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 16106-16208, opening English translation paragraph
+  quote_or_summary: The passage says men approach with great courage because Amazimu
+    are powerful and fight; many flee after seeing them, while some brave men fight
+    and may beat them; Amazimu are also described as terrible and very swift.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 16106-16208, second English translation paragraph
+  quote_or_summary: Amazimu hunt and encounter other men; when recognized, people
+    may run away, the Amazimu pursue until they overtake them, and some people hide
+    so the Amazimu do not see them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 16106-16208, second English translation paragraph
+  quote_or_summary: A person who has not hidden must run a great distance; if he relies
+    only on running, the Amazimu pursue until he becomes tired and is overtaken because
+    they do not readily tire.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: lines 16106-16208, end of second English translation paragraph
+  quote_or_summary: They carry the captive to a concealed wilderness place; when they
+    arrive, “they boil and eat him.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quote from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events and roles are clear in the supplied translation. Motif labels
+    are descriptive because the available taxonomy list does not include a direct
+    cannibal-ogre or pursuit motif. No comparison claims were added because the passage
+    does not itself make a comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty where no provided category directly matched the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l16106-l16208
+  passage_sha256=7887254f91a3b6b1bc955ae7affe9da2d7d8172f11129d08083d7c622bffe45f
+

@@ -1,0 +1,173 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8695-l8712
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: THE END. / NOTES / BOOK FIRST / BOOK SECOND; lines 8695-8712
+  start: '8695'
+  end: '8712'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: l. 616--_nimbo effulgens._ est fulgidum lumen quo deorum capita cinguntur.
+  summary: A notes passage for Book Second explains selected Latin phrases and textual
+    variants, including comments on cavalry, an omitted line, the meaning of _moenia_,
+    the color term _caerulum_, and a nimbus as shining light around the heads of gods.
+  language: English and Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note to Book Second line 30 says _Classibus hic locus_ should be referred
+    to cavalry and cites Servius with a cross-reference to vii.716.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note to line 76 says the line is omitted with the best manuscripts.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note to line 234 explains _moenia_ as referring to the rest of the city's
+    roofs or buildings, and says that in many Virgilian uses _city_ is the nearest
+    English equivalent.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note to line 381 defines _caerulum_ as green mixed with black and compares
+    it to the color of the sea after a storm.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note to line 616 defines _nimbo effulgens_ as a shining light by which
+    the heads of gods are encircled, and says it is usually painted this way.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gods
+  description: Generic gods whose heads are described as encircled by a shining light
+    in the note on _nimbo effulgens_.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine beings associated with radiant head-light
+  assigned_to:
+  - fig:1
+  basis: The note refers to the heads of gods, _deorum capita_, being encircled by
+    a fulgid light.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: nimbus / radiant head-light
+  literal_form: A fulgid light encircling the heads of gods.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sea after a storm
+  literal_form: The sea after a storm, cited as an example for the color _caerulum_.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: divine nimbus around the head
+  taxonomy_refs: []
+  basis: The passage defines _nimbo effulgens_ as a shining light around gods' heads
+    and states that this is also how it is usually painted.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an explicit commentarial and iconographic note rather than a narrative
+    episode; no provided motif-family taxonomy item maps directly to it.
+comparison_claims:
+- id: claim:1
+  claim: The note relates the verbal phrase _nimbo effulgens_ to a broader painted
+    convention in which gods' heads are encircled by shining light.
+  claim_level: visual_similarity
+  target: painted depictions of gods with a radiant head-light or nimbus
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no specific painting, date, medium, or cultural corpus
+    beyond the commentator's general statement.
+- id: claim:2
+  claim: The note compares the color term _caerulum_ with another Virgilian use describing
+    the sea after a storm.
+  claim_level: linguistic_similarity
+  target: Aeneid iii.208 use of _caerulum_ for the sea after a storm
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the cross-reference and its brief explanation are provided; the
+    target passage text is not included here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8697-8698; note to Book Second l.30
+  quote_or_summary: "“l. 30--_Classibus hic locus._ Ad equites referre debemus.--Serv.
+    Cf. also vii. 716.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 8700; note to Book Second l.76
+  quote_or_summary: "“l. 76--Omitted with the best MSS.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 8702-8705; note to Book Second l.234
+  quote_or_summary: The note explains _moenia_ as roofs or buildings, says it often
+    contrasts with _muri_ or is synonymous with _urbs_, and gives “city” as the nearest
+    English equivalent in most cases.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: 8707-8709; note to Book Second l.381
+  quote_or_summary: "“Caerulum est viride cum nigro” and the note adds that at iii.208
+    it is used of “the colour of the sea after a storm.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: 8711-8712; note to Book Second l.616
+  quote_or_summary: "“_nimbo effulgens._ est fulgidum lumen quo deorum capita cinguntur.
+    sic etiam pingi solet.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a commentary-notes section rather than a narrative episode.
+    Literal philological notes are clear; motif extraction is limited to the explicit
+    nimbus and color imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, or archetypal claims are made. The only taxonomy symbol reference assigned is water for the explicit sea image.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8695-l8712
+  passage_sha256=f4c425b334f811bc22b2d14f43c0738c61551dfe73b7051aa89c7803f825150d
+

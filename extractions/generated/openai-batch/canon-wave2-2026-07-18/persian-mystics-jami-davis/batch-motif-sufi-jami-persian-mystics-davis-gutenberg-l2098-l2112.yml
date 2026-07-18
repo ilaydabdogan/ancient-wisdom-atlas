@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2098-l2112
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: A WORD TO THE WISE / THE EXPLICIT BEGGAR / PHANTOM RELATIONS / AN OLD HAG
+    WHO DESIRED ONLY PLEASURE; lines 2098-2112
+  start: '2098'
+  end: '2112'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"She desires to share with me in all that gives rest and pleasure, but refuses
+    to be my partner in distress and misery."'
+  summary: A man prays to enter Paradise and be delivered from Hell. An old woman
+    behind him asks God to let her share whatever he asks for. The man then asks to
+    be hanged and die by scourging; the woman asks to be spared from that request.
+    The man rebukes her as a partner who wants only pleasure and not misery.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man says prayers and makes supplications for entry into Paradise and deliverance
+    from the fire of Hell.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old woman is behind the man, hears him, and asks the Lord to let her share
+    in whatever he supplicates for.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man, having listened, changes his supplication and asks to be hanged on
+    a gibbet and to die of scourging.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old woman asks the Lord to pardon her and preserve her from what the man
+    has asked for.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man describes the old woman as an unpleasant partner who wants to share
+    rest and pleasure but not distress and misery.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man who prays, supplicates, changes his request, and then speaks
+    to the old woman.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the old woman / hag
+  description: An old woman behind the man who asks to share his first supplication
+    and then asks to be spared from his second.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the Lord
+  description: The divine addressee of the man’s and old woman’s supplications.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: supplicant for Paradise and deliverance
+  assigned_to:
+  - fig:1
+  basis: The man prays and supplicates to enter Paradise and be delivered from Hell’s
+    fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: overhearing requester
+  assigned_to:
+  - fig:2
+  basis: The old woman is behind the man, hears him, and asks to share whatever he
+    requests.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: selective partner
+  assigned_to:
+  - fig:2
+  basis: She accepts partnership in desired benefits but asks to be spared from the
+    painful request.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: tester and rebuker
+  assigned_to:
+  - fig:1
+  basis: The man changes his supplication to hardship and then comments on the old
+    woman’s selective partnership.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: addressee of supplication
+  assigned_to:
+  - fig:3
+  basis: Both the man and the old woman address their requests to the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Paradise
+  literal_form: Paradise as the destination the man asks to enter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire of Hell
+  literal_form: the fire of Hell from which the man asks to be delivered
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gibbet
+  literal_form: a gibbet on which the man asks to be hanged
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: scourging
+  literal_form: scourging by which the man asks to die
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rest and pleasure versus distress and misery
+  literal_form: contrasted conditions named in the man’s rebuke
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial supplication and overheard sharing request
+  summary: The man prays for Paradise and deliverance from Hell, and the old woman
+    behind him asks the Lord to let her share in whatever he requests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Painful counter-supplication and withdrawal
+  summary: The man asks for hanging and death by scourging, and the old woman asks
+    to be pardoned and preserved from that request.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rebuke of selective partnership
+  summary: The man turns to the old woman and says she wants partnership in pleasure
+    but not in misery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sharing another’s prayer for benefit
+  taxonomy_refs: []
+  basis: The old woman asks the Lord to let her share in whatever the man supplicates
+    for after hearing his prayer for Paradise and deliverance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local anecdotal pattern; no broader taxonomy reference is asserted.
+- id: motif:2
+  label: reversal test exposing selfish partnership
+  taxonomy_refs:
+  - wisdom
+  basis: The man changes his prayer from desirable afterlife benefits to painful punishment;
+    the old woman immediately refuses to share, and the man draws a moral contrast
+    between pleasure and misery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wisdom classification is broad and based on the didactic structure
+    of the anecdote rather than an explicit taxonomy in the passage.
+- id: motif:3
+  label: supplication for Paradise and deliverance from Hell
+  taxonomy_refs: []
+  basis: The opening request names Paradise and the fire of Hell as desired and avoided
+    outcomes in prayer.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage mentions afterlife destinations but does not narrate an afterlife
+    journey or divine judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2098-2103
+  quote_or_summary: The passage introduces an old woman who desired pleasure; a man
+    prays and supplicates to enter Paradise and be delivered from the fire of Hell.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2103-2106
+  quote_or_summary: An old woman behind him hears and says, "O Lord, cause me to share
+    in whatever he supplicates for."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 2106-2109
+  quote_or_summary: The man says, "O Lord, hang me on a gibbet, and cause me to die
+    of scourging."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 2109-2110
+  quote_or_summary: The hag says, "O Lord, pardon me and preserve me from what he
+    asked for."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 2110-2112
+  quote_or_summary: The man calls her an unpleasant partner who shares in rest and
+    pleasure but refuses distress and misery.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and local
+    to the passage; only the broad wisdom taxonomy is used, with caution. No passage-supported
+    comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons added because the passage itself does not support them.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2098-l2112
+  passage_sha256=013dbb625271cd8fa801bc10cfab1b6e1ef78fc51062672aeb70695a652c2dcf
+

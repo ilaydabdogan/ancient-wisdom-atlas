@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2932-l2956
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXI. / XXXII. / XXXIV. / XXXV.; lines 2932-2956
+  start: '2932'
+  end: '2956'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Drink!--for, once dead, you never shall return.”"
+  summary: A first-person speaker leans to the lip of an earthen urn to learn the
+    secret of life. The vessel responds by urging the speaker to drink while alive,
+    because after death there is no return. The notes identify the quatrain as translated
+    from O. 100 and cite C. 489 as containing the same injunction.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first-person speaker leans toward the lip of a poor earthen urn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker seeks to learn the secret of life from the urn; the related O.
+    100 version frames the inquiry as asking how long life might be attained.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The urn or jar is described as joining lip to lip with the speaker and murmuring
+    or whispering.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The vessel's message is to drink or drink wine while alive, because after
+    death there is no return to this world.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: The passage states that the quatrain is translated from O. 100 and provides
+    reference listings for that version.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that C. 489 is a mystic and doctrinal quatrain containing
+    the same injunction, with the wording that there is no returning once gone.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: first-person speaker / inquirer
+  description: A first-person figure who presses or leans lips to the vessel in order
+    to learn about life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: earthen urn / jar
+  description: A poor earthen urn or jar with a lip; it murmurs or whispers the injunction
+    to drink and states that the dead do not return.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: inquirer into life and mortality
+  assigned_to:
+  - fig:1
+  basis: The speaker seeks the secret of life or asks how long life might be attained.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: speaking vessel and giver of counsel
+  assigned_to:
+  - fig:2
+  basis: The urn or jar whispers the command to drink and the statement of no return
+    after death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: earthen vessel
+  literal_form: poor earthen Urn / jar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lip-to-lip contact
+  literal_form: the speaker's lips pressed or joined to the lip of the vessel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: wine or drinking
+  literal_form: Drink / Drink wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Inquiry at the vessel
+  summary: The speaker approaches the earthen urn or jar, placing lips to the vessel's
+    lip to ask about life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Whispered injunction to drink
+  summary: The vessel answers by telling the speaker to drink or drink wine while
+    alive, since after death there is no return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Related doctrinal injunction
+  summary: A cited related quatrain, C. 489, repeats the command to drink wine and
+    the assertion that once gone there is no returning.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seeking wisdom from a speaking vessel
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks the urn or jar for the secret of life or how life may be
+    attained, and the vessel replies with counsel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has a broad wisdom category; the specific object-symbol
+    of an urn or jar is not among the supplied symbol taxonomy terms.
+- id: motif:2
+  label: drink while alive because the dead do not return
+  taxonomy_refs: []
+  basis: The main quatrain, the O. 100 translation, and the cited C. 489 passage all
+    link the injunction to drink wine with the assertion that there is no return after
+    death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a passage-level pattern without assigning it to a
+    broader rebirth, resurrection, or return taxonomy family.
+- id: motif:3
+  label: personified object as counselor on mortality
+  taxonomy_refs:
+  - wisdom
+  basis: The earthen urn or jar behaves as a speaking counselor, whispering a mortality-focused
+    instruction to the inquirer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the object as speaking, but no further mythic identity
+    or external taxonomy is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies the XXXV quatrain as translated from O. 100, and the
+    supplied O. 100 wording preserves the same structure of inquiry to a vessel followed
+    by the command to drink wine and the statement of no return.
+  claim_level: same_motif
+  target: O. 100 version cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the relationship explicitly stated in the
+    passage and does not infer broader historical transmission beyond the cited textual
+    relation.
+- id: claim:2
+  claim: 'The passage states that C. 489 contains the same injunction: to drink wine
+    because once gone there is no returning.'
+  claim_level: same_function
+  target: C. 489 quatrain cited in the passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage notes the same injunction, but it does not show the same
+    urn/jar inquiry scene for C. 489.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2932-2937
+  quote_or_summary: 'XXXV: the speaker leans to the lip of an earthen urn to learn
+    the secret of life; the urn murmurs, “Drink!--for, once dead, you never shall
+    return.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; passage supplied from Project Gutenberg-derived source.
+- id: ev:2
+  type: summary
+  locator: lines 2939-2947
+  quote_or_summary: The note says the quatrain is translated from O. 100. In the O.
+    100 wording, the speaker presses lips to the jar to ask how long life might be
+    attained; the jar joins lips and whispers to drink wine because the speaker will
+    not return to this world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; passage supplied from Project Gutenberg-derived source.
+- id: ev:3
+  type: quote
+  locator: lines 2949-2956
+  quote_or_summary: 'The note says C. 489 contains the same injunction: “Drink wine!”
+    and “There is no returning for you; when you are gone, you are gone!”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; passage supplied from Project Gutenberg-derived source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal details are explicit in the supplied passage. Motif labels are conservative;
+    the available taxonomy does not include urn, jar, wine, or vessel-specific symbol
+    terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy term directly matches the urn/jar, lip-to-lip gesture, or wine imagery; taxonomy references are therefore limited.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2932-l2956
+  passage_sha256=d6936e837096c3f59d2012cc10f2349d43c9c4fbfb311990b25246bcdd256fe8
+

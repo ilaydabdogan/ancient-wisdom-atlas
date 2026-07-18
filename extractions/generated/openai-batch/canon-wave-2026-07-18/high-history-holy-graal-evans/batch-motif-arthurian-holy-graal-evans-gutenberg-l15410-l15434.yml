@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l15410-l15434
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XIII. / XVII. / XVIII. / XXII.; lines 15410-15434
+  start: '15410'
+  end: '15434'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: They held her up and baptized her, both her and her damsels with her. Perceval
+    held her at the font.
+  summary: Perceval and a damsel negotiate a promise of proper knightly love linked
+    to her willingness to believe in his God and receive baptism. A hermit is summoned,
+    the damsel and her attendants are baptized, Perceval holds her at the font, she
+    is named Celestre, and afterward she is taught Christian belief and lives holily
+    with good works.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Perceval tells the damsel that further telling will not avail him, says that
+    if she were a man her end would have come with the others, and expresses hope
+    that her tribulation will tend to good.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The damsel says she is inclined to believe in Perceval's God if he promises
+    to love her as a knight ought to love a damsel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Perceval promises, as a Christian, to love her as one who firmly believes
+    in God ought to love a damsel, if she is willing to receive baptism.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The damsel says she asks no more of Perceval.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The damsel sends for a holy man, a hermit from the nearby forest, and he comes
+    gladly when he hears the news.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The damsel and her damsels are baptized.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Perceval holds the damsel at the font.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The history, through Josephus's witness, gives the baptized damsel the name
+    Celestre.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Celestre rejoices in her baptism and turns her affections toward good.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The hermit remains with Celestre, teaches her to understand the firm belief,
+    and performs the service of Our Lord.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Celestre is described as living a very good and holy life and later ending
+    in many good works.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: A Christian knight who speaks with the damsel, gives a conditional
+    promise concerning baptism, and holds her at the font.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Damsel / Celestre
+  description: A damsel who requests Perceval's promise, agrees to belief and baptism,
+    is baptized and named Celestre, rejoices in baptism, and later lives holily.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Celestre's damsels
+  description: Attendant damsels who are baptized along with Celestre.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Holy man / hermit
+  description: A hermit from the nearby forest who comes when summoned, remains with
+    Celestre, teaches firm belief, and performs the service of Our Lord.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Josephus
+  description: Named witness in the history who gives the damsel's name as Celestre.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Christian knight and holder at the font
+  assigned_to:
+  - fig:1
+  basis: Perceval identifies himself as a Christian in his promise and later holds
+    the damsel at the font.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Baptized convert
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The damsel and her damsels receive baptism; Celestre then rejoices in baptism
+    and is described as holy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Hermit instructor in Christian belief
+  assigned_to:
+  - fig:4
+  basis: The holy man is a hermit who remains with Celestre, teaches her firm belief,
+    and performs the service of Our Lord.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Participants in conditional promise
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The damsel links belief in Perceval's God to his promise of knightly love,
+    and Perceval links his promise to her willingness to receive baptism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: Textual witness to name
+  assigned_to:
+  - fig:5
+  basis: Josephus is cited as witness for the damsel's name, Celestre.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Baptismal font
+  literal_form: font
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Baptismal rite
+  literal_form: baptism of Celestre and her damsels
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Forest hermitage setting
+  literal_form: hermit in the forest appurtenant
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Christian God / Our Lord
+  literal_form: God; Our Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Conditional promise before baptism
+  summary: Perceval and the damsel exchange statements linking her willingness to
+    believe in his God and receive baptism with his promise to love her as a Christian
+    knight ought.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Summoning the hermit and baptism at the font
+  summary: The damsel summons a holy hermit from the forest; the damsel and her attendants
+    are baptized, and Perceval holds her at the font while the history names her Celestre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Instruction and holy life after baptism
+  summary: The hermit remains with Celestre, teaches Christian belief, performs the
+    service of Our Lord, and Celestre is described as living holily and ending in
+    good works.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Baptismal initiation and conversion
+  taxonomy_refs:
+  - initiation
+  basis: The passage centers on willingness to receive baptism, the baptism of Celestre
+    and her damsels, and subsequent instruction in firm belief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is specifically a Christian baptismal initiation in the passage;
+    no broader ritual sequence is inferred.
+- id: motif:2
+  label: Promise of love linked to conversion
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The damsel states willingness to believe if Perceval promises proper knightly
+    love, and Perceval promises such love if she will receive baptism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exchange is verbal and relational; the passage does not describe a
+    material exchange.
+- id: motif:3
+  label: Tribulation transformed into holy life and good works
+  taxonomy_refs: []
+  basis: Perceval hopes the damsel's tribulation will tend to good; after baptism
+    her affections turn to good and she lives holily with many good works.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents ethical and religious transformation, not physical
+    rebirth or resurrection.
+comparison_claims:
+- id: claim:1
+  claim: The baptism and subsequent instruction support a cautious comparison with
+    the available initiation motif family.
+  claim_level: same_motif
+  target: initiation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No claim is made about historical transmission or comparison to a specific
+    external text.
+- id: claim:2
+  claim: The reciprocal statements about belief, baptism, and proper knightly love
+    support a limited functional comparison with sacred exchange.
+  claim_level: same_function
+  target: sacred_exchange
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames the matter as promises around conversion and love;
+    it does not explicitly call the interaction an exchange or bargain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15410-15413
+  quote_or_summary: Perceval says further telling will not avail; if the damsel were
+    a man her end would have come with the others, but he hopes by God that her tribulation
+    will tend to good.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 15415-15417
+  quote_or_summary: '"So you are willing to promise me that you will love me like
+    as knight ought to love damsel, I am well inclined to believe in your God."'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15419-15421
+  quote_or_summary: Perceval promises as a Christian that, if the damsel is willing
+    to receive baptism, he will love her as one who firmly believes in God ought to
+    love a damsel.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15423-15426
+  quote_or_summary: The damsel asks no more, sends for a holy hermit from the nearby
+    forest, and she and her damsels are baptized.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15427-15428
+  quote_or_summary: Perceval holds her at the font; Josephus witnesses that her name
+    was Celestre; she rejoices in baptism and turns her affections to good.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 15429-15434
+  quote_or_summary: The hermit remains with Celestre, teaches her firm belief, performs
+    the service of Our Lord, and she lives holily and ends in many good works.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for baptism, naming, instruction, and holy life.
+    Motif and comparison confidence is lower where the passage implies a functional
+    exchange rather than naming one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available motif family refs explicitly supported by the passage.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l15410-l15434
+  passage_sha256=cdfe231c3cd5711967171d3721f9e23fb3dfe201acf05a26ebf05bd3d89de9cd
+

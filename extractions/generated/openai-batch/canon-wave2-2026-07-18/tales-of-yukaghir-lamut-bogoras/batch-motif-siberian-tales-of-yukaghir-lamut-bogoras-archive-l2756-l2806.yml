@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l2756-l2806
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: VI.  ANADYR  TALES . 136 / I.  TALES  OF  THE  TUNDRA  YUKAGHIR.1 / II.  TALES  OF  THE  LAMUT.1
+    / III.  KOLYMA  TALES.; lines 2756-2806
+  start: '2756'
+  end: '2806'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl sitting alone is seized by a bear and carried to his lair. During
+    the cold season she sleeps there with him and is fed by sucking fat from his paw.
+    As the days lengthen she becomes the bear's wife. In the warm season the bear
+    brings game, later obtains a firebrand, knife, ax, and meat for her, and she cooks
+    the meat on wooden spits. Footnotes state that similar tales occur among native
+    tribes of the region and describe local fear and avoidance of naming the bear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bear lifts the cover of the girl's sleeping room, enters partway, catches
+    her, covers her mouth with his paw, and carries her to his lair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bear places the girl in the lair in fall, enters himself, stops up the
+    entrance, and they sleep most of the time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When hungry, the girl signals to the bear; he extends a paw, and she sucks
+    fat from its thickest part until satisfied.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: As the days grow longer, a heavy weight presses the girl down; she cannot
+    resist and becomes the bear's wife.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the warm season the bear leaves the lair, hunts, and brings back game such
+    as reindeer, hare, or ptarmigan.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The girl addresses the bear as grandfather and asks him to bring fire because
+    she cannot eat raw meat.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The bear brings a firebrand, a knife, an ax, and large masses of meat; the
+    girl makes a fire and roasts meat on wooden spits.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note states that the bear is called 'he' or 'grandfather' and is regarded
+    by Russianized natives of the Kolyma as a mighty shaman and man of the wood.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the girl
+  description: A girl sitting alone in her sleeping room who is abducted, kept in
+    the bear's lair, fed, made the bear's wife, and later cooks meat with fire.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the bear
+  description: A bear who enters the girl's sleeping room, carries her to his lair,
+    feeds her from his paw, becomes her husband, hunts game, and brings fire and tools.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: abducted girl
+  assigned_to:
+  - fig:1
+  basis: The bear catches the girl, covers her mouth, and carries her to his lair.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bear abductor
+  assigned_to:
+  - fig:2
+  basis: The bear enters the room and carries the girl away.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bear's wife
+  assigned_to:
+  - fig:1
+  basis: The passage states that the girl became the wife of the bear.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal husband and provider
+  assigned_to:
+  - fig:2
+  basis: The bear is described as the girl's husband and as bringing game, fire, tools,
+    and meat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: revered bear figure
+  assigned_to:
+  - fig:2
+  basis: The girl addresses the bear as grandfather, and the note says the bear is
+    feared, not named directly, and considered a mighty shaman.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: bear
+  literal_form: bear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: lair
+  literal_form: bear's lair with stopped entrance
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: paw-fat nourishment
+  literal_form: fat dripping from the thickest part of the bear's paw
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fire
+  literal_form: firebrand and fire for roasting meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: tools
+  literal_form: knife and ax
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: cooked meat
+  literal_form: meat roasted on wooden spits
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: bear enters sleeping room and abducts girl
+  summary: A bear lifts the room covering, enters far enough to seize the girl, covers
+    her mouth, and carries her away to his lair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: winter in the bear's lair
+  summary: In fall the bear blocks the lair entrance and both sleep; when hungry,
+    the girl is fed by sucking fat from the bear's paw.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: girl becomes the bear's wife
+  summary: As the days lengthen, the girl is pressed down by a heavy weight, cannot
+    resist, and becomes the bear's wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: bear provides game, fire, and tools
+  summary: In the warm season the bear hunts and brings game; after the girl asks
+    for fire, he brings a firebrand, tools, and meat, and she cooks the meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: bear abduction of a human woman
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The bear seizes the girl from her sleeping room, covers her mouth, carries
+    her to his lair, and she later becomes his wife.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label 'stolen_beloved' is only an approximate fit
+    because the passage describes abduction into marriage, not the theft of an already
+    established beloved.
+- id: motif:2
+  label: human-animal marriage with bear husband
+  taxonomy_refs: []
+  basis: The girl becomes the bear's wife, and the bear subsequently provides food,
+    fire, tools, and meat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe transformation or offspring in this excerpt.
+- id: motif:3
+  label: nonhuman provider obtains fire for human food preparation
+  taxonomy_refs: []
+  basis: After the girl explains that she cannot eat raw meat, the bear brings a firebrand,
+    and she uses fire to roast meat.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain where the bear obtains the firebrand or make
+    a broader origin-of-fire claim.
+- id: motif:4
+  label: revered or taboo bear as powerful being
+  taxonomy_refs: []
+  basis: The girl addresses the bear as grandfather, and the note says the bear is
+    not named directly and is considered a mighty shaman and man of the wood.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The reverential explanation is supplied in an ethnographic note rather
+    than narrated as an event in the tale.
+comparison_claims:
+- id: claim:1
+  claim: The collector's note states that similar tales are found among all native
+    tribes of the region.
+  claim_level: same_motif
+  target: similar tales among native tribes of the region described by Bogoras
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note does not identify specific tale versions, plot details, or
+    individual traditions, so the comparison remains general.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2756-2762
+  quote_or_summary: A bear's muzzle appears under the lifted cover; the bear enters,
+    catches the frightened girl, covers her mouth with his paw, and carries her to
+    his lair.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2762-2766
+  quote_or_summary: In fall the bear puts the girl into the lair, enters himself,
+    stops the entrance as bears do, and they sleep most of the time.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2766-2770
+  quote_or_summary: When the girl wakes hungry and signals for food, the bear stretches
+    a paw toward her, and fat drips from the thickest part as she sucks it.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2770-2773
+  quote_or_summary: As days grow longer, the girl is awakened by a heavy weight pressing
+    her down; unable to resist, she becomes the bear's wife.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2774-2778
+  quote_or_summary: When the warm season returns, the bear leaves the lair, roams
+    for food, and brings back game including reindeer, hare, or ptarmigan.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2778-2806
+  quote_or_summary: The girl cannot eat raw meat and asks the bear, addressed as grandfather,
+    to bring fire; he later brings a firebrand, a knife, an ax, and meat, and she
+    makes a fire and roasts the meat on wooden spits.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: footnote 1 within lines 2784-2785
+  quote_or_summary: "“Similar tales are met among all the native tribes of these countries.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: footnote 2 within lines 2786-2801
+  quote_or_summary: A note says Russianized natives of the Kolyma fear the bear, avoid
+    naming it, call it 'he' or 'grandfather,' and regard it as a mighty shaman and
+    man of the wood who knows everything.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal plot extraction is straightforward. Motif taxonomy mapping is partly
+    approximate because the available taxonomy lacks a specific human-bear marriage
+    or bear-husband category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and footnotes were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l2756-l2806
+  passage_sha256=38bf880eb3063f37aee2d314c20703da63478b94859a3d2972b57a5ac348b495
+

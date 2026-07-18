@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2498-l2508
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BEAR AND THE FOX / THE ASS AND THE OLD PEASANT / THE OX AND THE FROG
+    / THE MAN AND THE IMAGE; lines 2498-2508
+  start: '2498'
+  end: '2508'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor man prays daily to a wooden image of a god for riches but remains
+    poor. In disgust he throws the image against a wall; its head splits open and
+    gold coins fall out. He gathers the coins and says the image did him no good when
+    honored, but made him rich when treated with insults and violence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man is described as poor.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The man has a wooden image of a god and prays to it daily for riches over
+    a long time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man remains as poor as before despite the repeated prayers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In disgust, the man throws the image with great force against a wall.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The blow splits open the image's head, and gold coins fall onto the floor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man gathers up the gold coins greedily.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man addresses the image, saying that honor brought no benefit, while insults
+    and violence made him rich.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: poor Man
+  description: A poor man who prays to the wooden image for riches, later throws it
+    against a wall, gathers the coins, and speaks to it.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: wooden Image of a god
+  description: A wooden image of a god to which the man prays; when struck against
+    the wall, its head splits and gold coins fall out.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: impoverished supplicant
+  assigned_to:
+  - fig:1
+  basis: The man is poor and prays daily to the image for riches.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: destroyer of the image
+  assigned_to:
+  - fig:1
+  basis: The man throws the image against a wall with force.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of discovered wealth
+  assigned_to:
+  - fig:1
+  basis: The man gathers the gold coins that fall from the image.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sacred image addressed in prayer
+  assigned_to:
+  - fig:2
+  basis: The image is of a god and is the object of the man's daily prayers for riches.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: container of hidden coins
+  assigned_to:
+  - fig:2
+  basis: When the image's head is split open, gold coins fall out.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wooden divine image
+  literal_form: wooden Image of a god
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: gold coins
+  literal_form: a quantity of gold coins
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: split head of the image
+  literal_form: the image's head split open by the blow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: daily prayer without enrichment
+  summary: The poor man prays for riches to the wooden image of a god for a long time,
+    but remains poor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: violent blow reveals coins
+  summary: The man throws the image against a wall; the image's head splits open and
+    gold coins fall out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: greedy collection and rebuke
+  summary: The man gathers the coins and tells the image that it rewarded insults
+    and violence rather than honor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: failed sacred exchange with a divine image
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The man honors and prays to the image for riches over a long time but receives
+    no benefit while doing so.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions prayer and honor but does not describe an explicit
+    offering or formal reciprocal covenant.
+- id: motif:2
+  label: hidden treasure released by breaking a sacred image
+  taxonomy_refs: []
+  basis: The image's head splits after being hurled against a wall, and gold coins
+    fall out.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain why the coins were inside the image.
+- id: motif:3
+  label: insult and violence succeed where honor fails
+  taxonomy_refs: []
+  basis: The man's final speech explicitly contrasts the image's failure to help when
+    honored with the wealth obtained after insults and violence.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an inferred motif from the speech and sequence; no separate moral
+    is supplied in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '2498'
+  quote_or_summary: 'Passage title: "THE MAN AND THE IMAGE."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2500-2502
+  quote_or_summary: A poor man has a wooden image of a god, prays daily to it for
+    riches for a long time, and remains poor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 2502-2504
+  quote_or_summary: The man throws the image against a wall; the blow splits open
+    its head and gold coins fall onto the floor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 2505-2508
+  quote_or_summary: The man gathers the coins greedily and says that honor did no
+    good, but "insults and violence" made him rich.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and literal events are clear. Motif labels are candidate
+    abstractions and should be reviewed, especially the sacred_exchange taxonomy assignment.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2498-l2508
+  passage_sha256=e0c84d2e94e7fc3c2a3e9ad8205ac1530c5eb0186896e1cb1807397a0881215e
+

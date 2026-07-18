@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1016-l1029
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CAT AND THE MICE / THE MISCHIEVOUS DOG / THE CHARCOAL-BURNER AND THE
+    FULLER / THE MICE IN COUNCIL; lines 1016-1029
+  start: '1016'
+  end: '1029'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“who is going to bell the cat?”"
+  summary: The mice gather in council to discuss protection from the cat. An experienced
+    mouse proposes fastening a bell around the cat’s neck so its sound will warn them.
+    The proposal is applauded and nearly adopted, but an old mouse asks who will perform
+    the dangerous task.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: All the Mice meet together in Council to discuss how to secure themselves
+    against the cat’s attacks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Mouse described as having standing and experience proposes fastening a bell
+    around the cat’s neck.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proposed bell would warn the Mice of the cat’s approach by tinkling.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The proposal is warmly applauded and is on the point of adoption.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An old Mouse agrees that the plan is admirable, then asks who will bell the
+    cat.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The cat is described as the enemy of the Mice and as the source of attacks
+    against them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: all the Mice
+  description: The collective group that meets in Council to discuss protection from
+    the cat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mouse of standing and experience
+  description: A Mouse who rises and proposes the plan of fastening a bell around
+    the cat’s neck.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: old Mouse
+  description: An old Mouse who questions who will carry out the plan of belling the
+    cat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the cat
+  description: The Mice’s enemy, whose attacks prompt the Council and whose neck is
+    to receive the bell in the proposed plan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: threatened council community
+  assigned_to:
+  - fig:1
+  basis: The Mice assemble to discuss how to secure themselves against the cat’s attacks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: proposal-maker
+  assigned_to:
+  - fig:2
+  basis: The experienced Mouse proposes fastening a warning bell to the cat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: practical questioner
+  assigned_to:
+  - fig:3
+  basis: The old Mouse asks who will perform the dangerous task required by the plan.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: enemy and attacker
+  assigned_to:
+  - fig:4
+  basis: The cat is identified as the Mice’s enemy and the source of attacks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: warning bell
+  literal_form: a bell fastened around the cat’s neck, whose tinkling warns of the
+    cat’s approach
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mice assemble in council
+  summary: The Mice gather and debate how to protect themselves from the cat.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bell plan proposed and approved
+  summary: The experienced Mouse proposes putting a bell on the cat, and the gathered
+    Mice applaud and move toward adopting the plan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Old Mouse questions execution
+  summary: The old Mouse acknowledges the plan’s appeal but asks who will bell the
+    cat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: council of threatened animals
+  taxonomy_refs: []
+  basis: The Mice meet collectively in Council to decide how to protect themselves
+    from the cat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a passage-level pattern label, not a supplied taxonomy motif.
+- id: motif:2
+  label: warning device placed on an enemy
+  taxonomy_refs: []
+  basis: The proposed plan is to fasten a bell to the cat so the Mice will hear its
+    approach.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents the plan, but it is not carried out.
+- id: motif:3
+  label: practical wisdom exposes an unworkable plan
+  taxonomy_refs:
+  - wisdom
+  basis: After the plan is praised, the old Mouse asks who will actually bell the
+    cat, shifting attention from approval to feasibility.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The connection to the broad taxonomy family “wisdom” is interpretive;
+    the passage itself does not state a moral.
+- id: motif:4
+  label: dangerous task left unassigned
+  taxonomy_refs: []
+  basis: The council approves the plan, but the old Mouse’s question identifies the
+    unresolved dangerous task of attaching the bell to the enemy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No outcome after the question is given in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1016-1029
+  quote_or_summary: All the Mice meet in Council and discuss the best means of securing
+    themselves against the cat’s attacks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 1016-1029
+  quote_or_summary: A Mouse proposes that they “fasten a bell round the neck of our
+    enemy the cat,” so its tinkling will warn them of her approach.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 1016-1029
+  quote_or_summary: The proposal is warmly applauded and has already been decided
+    for adoption.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 1016-1029
+  quote_or_summary: The old Mouse says the plan is admirable, then asks, “who is going
+    to bell the cat?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates;
+    only the broad “wisdom” taxonomy reference is used, and no comparison claims are
+    made because the passage itself does not establish a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The broader locator label mentions neighboring fables, but the supplied passage text contains only “THE MICE IN COUNCIL.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1016-l1029
+  passage_sha256=6ec115e8a856f875350721a3372f3a0230e2de221e5cb647b90c39f2ae7c1da8
+

@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l6436-l6459
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: EARLY  KINGS1 / PRIMITIVE  REVELATION  77 / THE  EARLY  KINGS  79 / THE  GILGAMESH  EPIC  81;
+    lines 6436-6459
+  start: '6436'
+  end: '6459'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Gilgamesh Epic text tradition, describing its
+    script forms, attribution to Sin-liki-unnini, copying from older originals, and
+    its contents as stories of Gilgamesh’s deeds and adventures, including a Deluge
+    episode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The version is described as written mostly in Assyrian script, with a few
+    fragments in neo-Babylonian.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poet who produced this version is named as Sin-liki-unnini.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tablets are said to contain allusions indicating that they were copied
+    from older originals.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two older originals are said to have been preserved from the first Babylonian
+    dynasty, circa 2000 B.C.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The poem is said to contain stories of the great deeds and wonderful adventures
+    of Gilgamesh.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gilgamesh is identified as the ruler of Uruk.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Gilgamesh is described as originally an historical personage whose name later
+    had myth and legend attached to it.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that the episode of the Deluge is given in full elsewhere
+    in the work.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sin-liki-unnini
+  description: Named as the poet who produced this version of the epic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gilgamesh
+  description: Described as ruler of Uruk, originally historical, and the subject
+    of stories of great deeds and adventures.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: poet or producer of the version
+  assigned_to:
+  - fig:1
+  basis: The passage names Sin-liki-unnini as the poet who produced this version.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ruler of Uruk
+  assigned_to:
+  - fig:2
+  basis: Gilgamesh is explicitly called the ruler of Uruk.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mythologized historical personage
+  assigned_to:
+  - fig:2
+  basis: The passage describes Gilgamesh as originally historical, with myth and legend
+    attached to his name.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Great deeds and adventures of a named ruler
+  taxonomy_refs: []
+  basis: The passage summarizes the poem as containing stories of the great deeds
+    and wonderful adventures of Gilgamesh, ruler of Uruk.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial introduction and does not narrate any specific
+    deed or adventure.
+- id: motif:2
+  label: Deluge episode
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage states that an episode of the Deluge is included in the epic.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the presence of the Deluge episode is stated here; details of destruction,
+    survival, or renewal are not included in this passage.
+- id: motif:3
+  label: Historical ruler overlaid with myth and legend
+  taxonomy_refs: []
+  basis: The passage describes Gilgamesh as originally historical, with myth and legend
+    attached to his illustrious name.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a characterization of the epic’s hero by the editor, not a narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6442-6444
+  quote_or_summary: The version is described as written mostly in Assyrian script,
+    with a few fragments in neo-Babylonian.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6444-6450
+  quote_or_summary: Sin-liki-unnini is named as the poet of this version; the tablets
+    allude to older originals, and two such originals from the first Babylonian dynasty
+    are said to be preserved.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 6451-6453
+  quote_or_summary: The poem contains “stories of the great deeds and wonderful adventures
+    of Gilgamesh,” who is identified as ruler of Uruk.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 6453-6456
+  quote_or_summary: Gilgamesh is described as originally an historical personage,
+    with clouds of myth and legend attached to his name.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 6456-6459
+  quote_or_summary: The Deluge episode is said to be given in full, preceded by a
+    synopsis and illustrative extracts to show its relationship to the whole epic.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily an editorial introduction rather than a mythic narrative.
+    Figure and text-transmission data are explicit; motif extraction is limited to
+    broad content labels stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make a motif-level comparison to another mythic tradition or corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l6436-l6459
+  passage_sha256=236966bb63a2ee3777efb7e43c20bd1e42a65de74c643ea645277c9841d146f2
+

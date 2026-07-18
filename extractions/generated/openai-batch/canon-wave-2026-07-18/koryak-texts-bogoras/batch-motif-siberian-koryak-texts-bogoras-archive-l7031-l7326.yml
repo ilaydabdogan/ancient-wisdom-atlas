@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l7031-l7326
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: WAGONER. / VOCABULARY. / KORYAK-ENGLISH. / I  10; lines 7031-7326
+  start: '7031'
+  end: '7326'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Koryak-English vocabulary segment listing headwords, parenthetical 'Ch.'
+    forms where supplied, English glosses, and references to occurrences in the text.
+    The segment includes lexical entries for proper names, animal terms, monster terminology,
+    moon/month, and heaven-related words, but it does not present a narrative scene.
+  language: English with Koryak headwords and parenthetical Ch. forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as vocabulary entries with Koryak forms, parenthetical
+    'Ch.' forms where given, English glosses, and textual references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yini'a-na'wgut is listed as a proper name.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yu'qya is glossed as bumblebee, and Yu'qya-na'ut is glossed as Bumblebee-Woman.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The yent/cent/tentin entries are glossed with meanings including monstrous,
+    something awful or monster, and monster-being.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Imca and related forms are glossed as ermine, and Imcana'mtila8n, abbreviated
+    Ca'nala8n, is glossed as Ermine-Man.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The segment lists animal or animal-material terms including gull, white whale,
+    cormorant, whale, and whale-skin.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The segment lists yi8'lhm as month or moon, and iya9/i'ya8n/iyas'kin as heaven
+    or of heaven.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yini'a-na'wgut
+  description: Listed only as a proper name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Yu'qya-na'ut
+  description: Glossed as Bumblebee-Woman; the related headword yu'qya is glossed
+    as bumblebee.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Imcana'mtila8n / Ca'nala8n
+  description: Glossed as Ermine-Man; nearby entries gloss imca and related forms
+    as ermine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: ye'ntin-ita]asn / ce'ntm-italan / te'ntm-i'tilan
+  description: A lexical category glossed as monster-being, with related entries glossed
+    as monstrous and monster.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: proper-name entry
+  assigned_to:
+  - fig:1
+  basis: The vocabulary explicitly glosses the form as a proper name.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal-woman compound name
+  assigned_to:
+  - fig:2
+  basis: The entry is glossed as Bumblebee-Woman and is adjacent to the bumblebee
+    headword.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal-man compound name
+  assigned_to:
+  - fig:3
+  basis: The entry is glossed as Ermine-Man and is adjacent to ermine headwords.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: monster-being
+  assigned_to:
+  - fig:4
+  basis: The relevant entries are glossed as monstrous, monster, and monster-being.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bumblebee
+  literal_form: yu'qya, glossed as bumblebee; appears in the compound name Yu'qya-na'ut,
+    Bumblebee-Woman
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Ermine
+  literal_form: imca/emcacoka forms, glossed as ermine; appears in the compound name
+    Imcana'mtila8n/Ca'nala8n, Ermine-Man
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Monster-being
+  literal_form: ye'ntin-ita]asn / ce'ntm-italan / te'ntm-i'tilan, glossed as monster-being
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Moon/month
+  literal_form: yi8'lhm, glossed as month or moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Heaven
+  literal_form: iya9/i'ya8n/iyas'kin, glossed as heaven or of heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Whale and whale-skin
+  literal_form: yiyi'na, glossed as white whale; yu'ni, glossed as whale; ithi'lhm,
+    glossed as whale-skin
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Animal-human compound named figures
+  taxonomy_refs: []
+  basis: The vocabulary lists Bumblebee-Woman and Ermine-Man as named or name-like
+    entries formed from animal terms plus human gender terms.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: This is a lexical naming pattern in a vocabulary list; the passage gives
+    no narrative action, transformation, or mythic role.
+- id: motif:2
+  label: Monster-being category
+  taxonomy_refs: []
+  basis: The vocabulary includes entries glossed as monstrous, monster, and monster-being.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage supplies only lexical glosses and text references, not a story
+    about a monster-being.
+comparison_claims:
+- id: claim:1
+  claim: The passage provides parenthetical 'Ch.' forms for many Koryak entries, including
+    monster-being and heaven-related terms; this supports only a lexical-similarity
+    claim between listed forms, not a motif-level or historical-contact claim.
+  claim_level: linguistic_similarity
+  target: parenthetical 'Ch.' equivalents cited in the vocabulary
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The abbreviation 'Ch.' is not expanded in the passage excerpt, and
+    the vocabulary gives lexical parallels rather than narrative parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7031-7326
+  quote_or_summary: Vocabulary segment with Koryak headwords, parenthetical 'Ch.'
+    forms in many entries, English glosses, and references such as 18.10, 44.5, 100.7,
+    and similar.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 7031-7326, entry 'Yini'a-na'wgut'
+  quote_or_summary: '"Yini''a-na''wgut, proper name 18.3"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 7031-7326, entries 'yu'qya' and 'Yu'qya-na'ut'
+  quote_or_summary: '"yu''qya ... bumblebee 45.2"; "Yu''qya-na''ut, Bumblebee-Woman
+    44.5"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 7031-7326, entries 'yent/cent/tentin'
+  quote_or_summary: Entries yent/cent/tentin are glossed as monstrous; something awful
+    or monster; and monster-being, with parenthetical 'Ch.' forms supplied for some
+    entries.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; summarized with short gloss terms.
+- id: ev:5
+  type: quote
+  locator: lines 7031-7326, entries 'imca' and 'Imcana'mtila8n'
+  quote_or_summary: '"imca, ermine"; "Imcana''mtila8n (abbrev. Ca''nala8n), Ermine-Man
+    62.1 ; 63.3"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 7031-7326, animal entries
+  quote_or_summary: The vocabulary includes ya'qyaq as gull, yiyi'na as white whale,
+    ivva'lun as cormorant, yu'ni as whale, and ithi'lhm as whale-skin.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 7031-7326, entries 'yi8'lhm' and 'iya9/i'ya8n/iyas'kin'
+  quote_or_summary: '"yi8''lhm ... month, moon"; "iya9, heaven"; "i''ya8n ... heaven";
+    "iyas''kin ... of heaven"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The lexical data are straightforward, but motif extraction is limited because
+    the passage is a vocabulary list rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes are present in this line range. Figures and symbols are extracted only as lexical entries or naming patterns attested in the vocabulary.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l7031-l7326
+  passage_sha256=2167dda674301d96a3140694683f1bc9ded010c05c0fbaf535fcb3e30c61f96c
+

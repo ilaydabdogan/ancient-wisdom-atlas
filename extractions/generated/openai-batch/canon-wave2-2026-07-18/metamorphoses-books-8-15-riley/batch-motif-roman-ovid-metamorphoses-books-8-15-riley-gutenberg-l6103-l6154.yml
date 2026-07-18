@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6103-l6154
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE ELEVENTH. / EXPLANATION. / EXPLANATION.; lines 6103-6154
+  start: '6103'
+  end: '6154'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Pan challenges Apollo in music before Tmolus. Tmolus judges Apollo's lyre
+    superior to Pan's reeds. Midas alone objects, and Apollo punishes him by changing
+    his ears into ass's ears. Midas conceals the change, but a servant who has seen
+    it whispers the secret into a buried hole. Reeds grow there and later repeat the
+    secret when moved by the wind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pan boasts of his music to the Nymphs and compares his reed-playing favorably
+    against Apollo's playing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contest is placed under the arbitration of Tmolus, described as an aged
+    umpire associated with his own mountain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tmolus is described with azure-colored hair, oak covering, acorns around his
+    temples, and freed ears from encumbering trees.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pan plays rustic reeds, and Midas is delighted by the music while present
+    by chance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Apollo is described with a yellow head wreathed in Parnassian laurel, a Tyrian
+    purple robe, a gem-and-ivory lyre, and a plectrum.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Apollo plays the lyre skillfully, and Tmolus judges that Pan's reeds should
+    submit to the lyre.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: All approve Tmolus's decision except Midas, who calls it unjust.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Apollo changes Midas's ears from human ears into long, grey-haired, moving
+    ass's ears while the rest of Midas remains human.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Midas hides his altered ears under a purple turban.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A servant who cuts Midas's hair sees the ears but does not dare disclose the
+    secret openly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The servant digs into the ground, whispers the secret about Midas's ears into
+    the earth, covers the ditch, and departs silently.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: A grove of reeds grows from the place and, after a year, repeats the buried
+    words when moved by the South wind.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pan
+  description: God of the flocks who plays rustic reeds and competes against Apollo.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Nymphs
+  description: Charming Nymphs before whom Pan boasts of his strains.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tmolus
+  description: Aged umpire and sacred mountain divinity who arbitrates the musical
+    contest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Apollo
+  description: Delian god who plays the lyre and alters Midas's ears after Midas rejects
+    the judgment.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Midas
+  description: Present at the contest, delighted by Pan's music, objects to the judgment,
+    receives ass's ears, and tries to hide them.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: servant hair-cutter
+  description: Servant accustomed to cutting Midas's hair who sees the altered ears
+    and whispers the secret into the earth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: musical contestant
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Pan and Apollo are opposed in a musical contest involving reeds and lyre.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: umpire
+  assigned_to:
+  - fig:3
+  basis: Tmolus arbitrates the contest and issues the judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: defeated reed-player
+  assigned_to:
+  - fig:1
+  basis: Tmolus bids Pan to hold his reeds in submission to Apollo's lyre.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine punisher
+  assigned_to:
+  - fig:4
+  basis: Apollo changes Midas's ears after Midas criticizes the judgment.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: dissenting spectator
+  assigned_to:
+  - fig:5
+  basis: Midas alone blames the decision and calls it unjust.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: punished concealer
+  assigned_to:
+  - fig:5
+  basis: Midas receives ass's ears and conceals them with a turban.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: secret witness
+  assigned_to:
+  - fig:6
+  basis: The servant sees Midas's ears and hides the disclosure in the earth rather
+    than announcing it openly.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain umpire
+  literal_form: Tmolus seated on his mountain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rustic reeds
+  literal_form: reeds joined with wax; Pan's rustic reeds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Apollo's lyre
+  literal_form: lyre adorned with gems and Indian ivory, played with plectrum
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ass's ears
+  literal_form: long, grey-haired, movable ears of an ass on Midas's otherwise human
+    body
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: concealing turban
+  literal_form: purple turban used by Midas to veil his altered ears
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: earth receiving secret
+  literal_form: dug ground into which the servant whispers and buries the secret
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: truth-telling reeds
+  literal_form: grove of quivering reeds that repeats the buried words in the wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Musical contest before Tmolus
+  summary: Pan plays reeds and Apollo plays the lyre before Tmolus, who judges Apollo
+    superior and requires Pan's reeds to submit to the lyre.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Midas punished with ass's ears
+  summary: Midas alone rejects Tmolus's judgment, and Apollo changes only Midas's
+    ears into ass's ears.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Secret buried in the earth
+  summary: Midas hides his ears; a servant sees them, whispers the secret into a dug
+    hole in the earth, covers it, and leaves silently.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Reeds reveal the secret
+  summary: Reeds grow where the secret was buried and later repeat the buried words
+    in the South wind, revealing Midas's ears.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and punishment for dissent
+  taxonomy_refs:
+  - divine_judgment
+  basis: A sacred umpire gives a judgment in a divine musical contest; Midas alone
+    rejects it, and Apollo punishes him by altering his ears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The judgment is musical and punitive rather than a legal or cosmic judgment.
+- id: motif:2
+  label: partial human-animal transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Apollo transforms only Midas's ears into ass's ears while the rest of his
+    body remains human.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a forced partial metamorphosis, not voluntary shapeshifting.
+- id: motif:3
+  label: concealed bodily mark exposed by nature
+  taxonomy_refs: []
+  basis: Midas hides the ass's ears; the servant buries the secret in the earth; reeds
+    grow and repeat the secret in the wind.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+- id: motif:4
+  label: musical contest between divine figures
+  taxonomy_refs: []
+  basis: Pan and Apollo compete through reeds and lyre under Tmolus's arbitration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names musical contests.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6103-6116
+  quote_or_summary: Pan boasts to the Nymphs, enters a contest against Apollo under
+    Tmolus's arbitration, and plays rustic reeds while Midas is present and delighted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 6117-6127
+  quote_or_summary: Apollo appears with laurel, Tyrian purple robe, jeweled ivory
+    lyre, and plectrum; he plays skillfully, and Tmolus judges the lyre superior to
+    Pan's reeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 6127-6135
+  quote_or_summary: Midas alone calls the judgment unjust; Apollo lengthens his ears,
+    fills them with grey hairs, makes them movable, and gives him ass's ears while
+    the rest remains human.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 6136-6147
+  quote_or_summary: Midas hides the ears with a purple turban; his hair-cutting servant
+    sees them, digs into the ground, whispers the secret into the earth, covers it,
+    and leaves silently.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 6148-6154
+  quote_or_summary: A grove of reeds grows there and, after a year, repeats the buried
+    words in the South wind, revealing the master's ears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence is explicit in the passage. Motif taxonomy mapping is partly
+    indirect, especially for partial transformation and secret-revealing reeds.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; footnotes were not treated as independent narrative events.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l6103-l6154
+  passage_sha256=fffc211274e33651e3a46a68db3c0c34a2962a3e3493438679c4a4d17a3bfc2d
+

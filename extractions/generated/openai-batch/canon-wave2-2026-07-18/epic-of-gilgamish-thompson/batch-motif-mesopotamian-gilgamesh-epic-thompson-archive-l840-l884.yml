@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-epic-thompson-archive-l840-l884
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+passage_locator:
+  label: THE EPIC OF GILGAMISH. 13 / THE EPIC OF GILGAMISH. 15 / THE EPIC OF GILGAMISH.
+    1? / THE EPIC OF GILGAMISH.; lines 840-884
+  start: '840'
+  end: '884'
+  translation: The Epic of Gilgamish
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage moves from instructions about city offerings and Gilgamish’s
+    royal greeting to Enkidu’s entry into broad-marketed Erech with a courtesan behind
+    him. The people gather and compare Enkidu to Gilgamish, noting both likeness and
+    physical strength. Enkidu is described as a former savage who has become a hero.
+    A couch is prepared for love-rites; Gilgamish comes at night to the woman, but
+    Enkidu blocks his passage, and the two meet in a confrontation at the door or
+    highway.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Offerings and city food are requested on behalf of the common weal and in
+    relation to the king of broad-marketed Erech.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gilgamish is identified as king of broad-marketed Erech.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Gilgamish first mates with the woman allotted by fate and
+    then speaks by divine counsel and omens concerning destiny.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Enkidu enters broad-marketed Erech in front, with the courtesan coming behind
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The populace gathers behind Enkidu and remarks that he is like Gilgamish,
+    slightly shorter, and stronger in composition.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Enkidu is described as having sucked the milk of wild beings and as a savage
+    who becomes a hero of proper appearance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A couch is strewn for love-rites, and Gilgamish comes at night to sleep with
+    or delight in the woman.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:8
+  text: Enkidu blocks the passage to Gilgamish in the highway and later bars the door
+    with his foot.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Gilgamish becomes enraged and rushes to attack Enkidu; they meet in the highway.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gilgamish
+  description: King of broad-marketed Erech; described as god-like later in the passage;
+    comes at night to the woman and confronts Enkidu.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Enkidu / Enkidw
+  description: The entrant into Erech, accompanied by the courtesan; compared to Gilgamish;
+    described as formerly savage and now heroic; blocks Gilgamish’s passage.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Courtesan / woman
+  description: A courtesan comes behind Enkidu during his entry into Erech; a woman
+    is associated with the prepared love-rite couch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Populace of Erech
+  description: The people gather behind Enkidu and verbally compare him with Gilgamish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king of Erech
+  assigned_to:
+  - fig:1
+  basis: The passage names Gilgamish as king of broad-marketed Erech.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: newcomer entering Erech
+  assigned_to:
+  - fig:2
+  basis: Enkidu is described as going in front and entering broad-marketed Erech.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: courtesan or love-rite woman
+  assigned_to:
+  - fig:3
+  basis: The passage describes a courtesan behind Enkidu and a woman connected with
+    the prepared couch for love-rites.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:4
+  label: savage become hero
+  assigned_to:
+  - fig:2
+  basis: The passage says the savage becomes a hero of proper appearance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rival combatants at passage or door
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Enkidu blocks Gilgamish, and Gilgamish rushes to attack him in the highway.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: public witnesses and speakers
+  assigned_to:
+  - fig:4
+  basis: The populace gathers and exclaims about Enkidu’s likeness to Gilgamish.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: city offerings and food
+  literal_form: offerings and food of the city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: milk of wild beings
+  literal_form: milk sucked by Enkidu from wild beings
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: love-rite couch
+  literal_form: strewn couch for the love-rites
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: blocked passage and door
+  literal_form: highway passage and door barred by Enkidu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: omens of destiny
+  literal_form: omens and destiny mentioned in connection with divine counsel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Instruction for city offerings and royal greeting
+  summary: The passage requests offerings and food for the city and refers to Gilgamish,
+    king of Erech, receiving a greeting and acting in relation to a woman, divine
+    counsel, omens, and destiny.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Enkidu enters Erech
+  summary: Enkidu enters broad-marketed Erech with the courtesan behind him, and the
+    populace gathers behind him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Public comparison of Enkidu and Gilgamish
+  summary: The people compare Enkidu to Gilgamish, describing him as slightly shorter
+    but stronger and saying his composition is equal to god-like Gilgamish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Blocked access to the love-rite couch
+  summary: A couch is prepared for love-rites, Gilgamish comes at night to the woman,
+    and Enkidu blocks his passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Highway confrontation
+  summary: Gilgamish becomes enraged, rushes to attack Enkidu, and the two meet in
+    the highway while Enkidu bars the door with his foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: savage transformed into a city hero
+  taxonomy_refs:
+  - initiation
+  - culture_hero
+  basis: Enkidu enters Erech and is described as a former savage who becomes a hero
+    of proper appearance.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage states the transformation but does not provide the full earlier
+    process in this excerpt.
+- id: motif:2
+  label: heroic double or rival equal to the king
+  taxonomy_refs:
+  - duality
+  basis: The populace says Enkidu is like Gilgamish, physically comparable, and equal
+    in composition to god-like Gilgamish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports likeness and equality, but broader twin or double
+    implications require context outside this excerpt.
+- id: motif:3
+  label: threshold confrontation blocking royal sexual access
+  taxonomy_refs: []
+  basis: The couch is prepared for love-rites; Gilgamish comes to the woman, and Enkidu
+    blocks his passage and bars the door, leading to confrontation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text is fragmentary, and the exact ritual or social meaning of the
+    confrontation is not fully explained in the passage.
+- id: motif:4
+  label: public recognition of the hero in the city
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The gathered populace publicly identifies Enkidu’s resemblance and equivalence
+    to Gilgamish within Erech.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage gives public recognition but does not clearly frame it as
+    royal legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 840-849
+  quote_or_summary: The passage requests offerings and city food for the common weal
+    and refers to Gilgamish, king of broad-marketed Erech, mating with the woman allotted
+    by fate and speaking by divine counsel, omens, and destiny.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 850-856
+  quote_or_summary: "“Enkidw going ‘in front’, with the courtesan coming behind him,”
+    enters broad-marketed Erech, where the populace gathers behind him."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 857-862
+  quote_or_summary: The people say Enkidu is truly like Gilgamish, slightly shorter,
+    and stronger in composition.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 863-870
+  quote_or_summary: The text refers to Enkidu as having sucked the milk of wild beings
+    and says a savage becomes a hero of proper appearance, equal in composition to
+    god-like Gilgamish.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 871-876
+  quote_or_summary: A couch is strewn for the love-rites, and Gilgamish comes at night
+    to sleep with or delight in the woman.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 876-884
+  quote_or_summary: Enkidu blocks the passage to Gilgamish in the highway; after a
+    gap, Gilgamish’s rage grows, he rushes to attack, they meet in the highway, and
+    Enkidu bars the door with his foot.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: note to love-rite line within lines 871-876
+  quote_or_summary: The translator’s note states that the phrase rendered “for the
+    love-rites” is literally “for Ishhara,” identified in the note as the goddess
+    of love.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain source; translator note summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains OCR or transcription irregularities,
+    but the main sequence of Enkidu’s entry, public comparison, love-rite setting,
+    and confrontation with Gilgamish is clear enough for draft extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-gilgamesh-epic-thompson-archive__l840-l884
+  passage_sha256=1fbeadeb36a5f3120e14898dcf81f4f145ab67eca1d4ee093ec9db7dfa693f47
+

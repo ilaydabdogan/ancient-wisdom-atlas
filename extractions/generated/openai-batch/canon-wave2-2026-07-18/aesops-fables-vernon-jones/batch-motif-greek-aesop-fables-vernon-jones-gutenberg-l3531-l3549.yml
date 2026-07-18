@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3531-l3549
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FLEA AND THE OX / THE BIRDS, THE BEASTS, AND THE BAT / THE MAN AND HIS
+    TWO SWEETHEARTS / THE EAGLE, THE JACKDAW, AND THE SHEPHERD; lines 3531-3549
+  start: '3531'
+  end: '3549'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Jackdaw sees an Eagle carry off a lamb and tries to imitate it by diving
+    onto a ram. The Jackdaw's claws become caught in the ram's wool. A Shepherd captures
+    the bird, clips its wings, and brings it to his children, explaining that it is
+    only a Jackdaw but wants to be taken for an Eagle. The moral warns that attempting
+    what is beyond one's power leads to wasted effort, misfortune, and ridicule.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Jackdaw observes an Eagle swoop down on a lamb and carry it away in its
+    talons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Jackdaw says it will do the same and flies high before diving onto the
+    back of a big ram.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Jackdaw's claws become caught fast in the ram's wool, and its flapping
+    makes the situation worse.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Shepherd arrives, addresses the Jackdaw, clips its wings, and carries it
+    home to his children.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The children ask what sort of bird it is, and the Shepherd says it is a Jackdaw
+    that wants to be taken for an Eagle.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The appended moral states that attempting what is beyond one's power wastes
+    effort and courts misfortune and ridicule.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jackdaw
+  description: A bird that sees an Eagle carry off a lamb, tries to do the same to
+    a ram, becomes stuck in the wool, and is captured by the Shepherd.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Eagle
+  description: A bird that swoops down on a lamb and carries it off in its talons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Lamb
+  description: The animal carried off by the Eagle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Big ram
+  description: The animal onto whose back the Jackdaw dives; its wool catches the
+    Jackdaw's claws.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Shepherd
+  description: A human who finds the trapped Jackdaw, clips its wings, carries it
+    home, and explains it to his children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Shepherd's children
+  description: Children who see the captured bird and ask their father what sort of
+    bird it is.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: successful predator and model for imitation
+  assigned_to:
+  - fig:2
+  basis: The Eagle successfully carries off a lamb, prompting the Jackdaw to say it
+    will do the same.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: failed imitator
+  assigned_to:
+  - fig:1
+  basis: The Jackdaw attempts to imitate the Eagle's action but becomes stuck in the
+    ram's wool and is captured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: carried-off prey
+  assigned_to:
+  - fig:3
+  basis: The lamb is taken by the Eagle in its talons.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: attempted target and entangling animal
+  assigned_to:
+  - fig:4
+  basis: The Jackdaw dives onto the ram, and the ram's wool catches the Jackdaw's
+    claws.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: captor and explainer
+  assigned_to:
+  - fig:5
+  basis: The Shepherd captures the Jackdaw, clips its wings, brings it home, and explains
+    its identity to the children.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: questioning witnesses
+  assigned_to:
+  - fig:6
+  basis: The children see the odd-looking bird and ask what sort of bird it is.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: eagle carrying lamb
+  literal_form: An Eagle carrying a lamb in its talons
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: jackdaw caught in wool
+  literal_form: A Jackdaw with claws caught fast in a ram's wool
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: clipped wings
+  literal_form: The Jackdaw's wings clipped by the Shepherd
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Eagle carries off lamb
+  summary: The Jackdaw observes the Eagle swoop down on a lamb and carry it away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackdaw imitates Eagle and becomes trapped
+  summary: The Jackdaw announces its intention to do the same, dives onto a big ram,
+    and gets its claws caught in the wool.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Shepherd captures Jackdaw
+  summary: The Shepherd finds the trapped Jackdaw, clips its wings, carries it home,
+    and identifies it to his children as a Jackdaw that wants to be taken for an Eagle.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral against overreach
+  summary: The fable's moral says that attempting what is beyond one's power brings
+    wasted effort, misfortune, and ridicule.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: failed imitation of a stronger creature
+  taxonomy_refs: []
+  basis: The Jackdaw tries to replicate the Eagle's successful seizure of a lamb but
+    fails when it attacks a ram and becomes trapped.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable-level pattern rather than a supplied taxonomy family.
+- id: motif:2
+  label: overreaching beyond one's power brings misfortune
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative shows the Jackdaw's overambitious imitation leading to capture,
+    and the stated moral explicitly warns against attempting what is beyond one's
+    power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The mapping to the broad taxonomy ref 'wisdom' is general and should be
+    reviewed.
+- id: motif:3
+  label: ridicule through mistaken aspiration to a higher identity
+  taxonomy_refs: []
+  basis: The Shepherd tells the children that the captured bird is only a Jackdaw
+    but wants to be taken for an Eagle, and the moral mentions ridicule.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage states aspiration to be taken for an Eagle, not an actual
+    transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3531-3534
+  quote_or_summary: The Jackdaw sees an Eagle swoop down on a lamb and carry it off
+    in its talons.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3534-3537
+  quote_or_summary: The Jackdaw says it will do that itself, flies high, and dives
+    onto the back of a big ram.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3537-3540
+  quote_or_summary: The Jackdaw's claws get caught fast in the ram's wool, and its
+    flapping only worsens the situation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3540-3542
+  quote_or_summary: The Shepherd comes up, comments on what the Jackdaw was trying
+    to do, clips its wings, and carries it home to his children.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3542-3545
+  quote_or_summary: The children ask what kind of bird it is; the Shepherd says it
+    is a Jackdaw and nothing but a Jackdaw, though it wants to be taken for an Eagle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3547-3549
+  quote_or_summary: The moral warns that attempting what is beyond one's power wastes
+    effort and courts misfortune and ridicule.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. No comparison claims
+    were made because the passage does not itself support a specific cross-textual
+    or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No external motif indexes or unsupported comparisons were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3531-l3549
+  passage_sha256=c9c19c2c7e7684e0f6a1bc599ed7833c041028966aedfef1d124599922a1cd67
+

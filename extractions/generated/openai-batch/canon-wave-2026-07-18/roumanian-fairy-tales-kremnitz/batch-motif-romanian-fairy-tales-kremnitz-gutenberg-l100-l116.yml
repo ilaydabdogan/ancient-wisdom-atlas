@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.romanian-fairy-tales-kremnitz-gutenberg-l100-l116
+source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+passage_locator:
+  label: NEW YORK / HENRY HOLT AND COMPANY / COPYRIGHT, 1885, / PREFACE.; lines 100-116
+  start: '100'
+  end: '116'
+  translation: Roumanian Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: This collection contains translations of Roumanian tales...
+  summary: The preface identifies the volume as a translation collection of Roumanian
+    tales and lists literary, periodical, and oral-attributed sources for specific
+    numbered stories in the collection.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The collection is described as containing translations of Roumanian tales
+    and only a small portion of a larger national store of tales.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The originals are described as scattered throughout Roumanian literature.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Stories numbered 2, 4, 6, 8, 10, 12, 13, and 17 are said to have been selected
+    from Herr P. Ispirescu's collection.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Story number 11 is said to come from Herr T. M. Arsenie's small collection,
+    while other stories are said to have been drawn from the periodical Convorbiri
+    Literare.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The preface attributes stories 5 and 14 to Herr J. Creanga, story 9 to Herr
+    Miron Pompilin, and stories 1, 3, 7, 16, and 18 to Herr Slavice.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Story number 15 is said to have been written specially for the volume by Herr
+    Slavice in the Roumanian language as it was related to him by peasants.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Herr P. Ispirescu
+  description: Named as the source of the finest collection from which several stories
+    in the present volume were selected.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Herr T. M. Arsenie
+  description: Named as the source of a small collection from which story number 11
+    was taken.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Herr J. Creanga
+  description: Named as the writer of stories 5 and 14.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Herr Miron Pompilin
+  description: Named as the writer of story number 9.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Herr Slavice
+  description: Named as the writer of stories 1, 3, 7, 16, and 18, and as the person
+    who wrote story 15 specially for the volume from peasant narration.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: the peasants
+  description: Described as the people who related story number 15 to Herr Slavice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: source-collection provider
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The preface identifies collections by Ispirescu and Arsenie as sources for
+    numbered stories in the volume.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named writer or contributor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The preface attributes specific numbered stories to Creanga, Pompilin, and
+    Slavice.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: writer from oral relation
+  assigned_to:
+  - fig:5
+  basis: The preface says Slavice wrote number 15 specially for the volume as it was
+    related to him by peasants.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: oral narrators
+  assigned_to:
+  - fig:6
+  basis: The preface says peasants related story number 15 to Slavice.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 100-105
+  quote_or_summary: The preface states that the collection contains translations of
+    Roumanian tales, a small part of a larger national treasure, and that the originals
+    are scattered throughout Roumanian literature.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 105-109
+  quote_or_summary: The preface calls Herr P. Ispirescu's collection the finest and
+    says stories 2, 4, 6, 8, 10, 12, 13, and 17 were selected from it.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 109-111
+  quote_or_summary: The preface says story 11 comes from Herr T. M. Arsenie's small
+    collection and that other stories were drawn from the periodical Convorbiri Literare.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 111-116
+  quote_or_summary: The preface attributes stories 5 and 14 to Herr J. Creanga, story
+    9 to Herr Miron Pompilin, stories 1, 3, 7, 16, and 18 to Herr Slavice, and story
+    15 to Slavice writing in Roumanian from peasant narration.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a preface/source-attribution notice rather than a mythic narrative.
+    No symbols, narrative scenes, motif candidates, or comparison claims are supported
+    by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparative mythology motif was extracted because the passage only describes collection sources and contributors.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:romanian-fairy-tales-kremnitz-gutenberg__l100-l116
+  passage_sha256=ef45b228e16e83599531d46166e81d5c24b26f4c0758054c3d7655e906eff60c
+

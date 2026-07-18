@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l10555-l10599
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: CHAPTER  X. / AAAAAA / THE    BOOK    OF    AM-TUAT / THE    BOOK   OF   AM-TUAT;
+    lines 10555-10599
+  start: '10555'
+  end: '10599'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents part of an illustrated register in the Book of Am-Tuat:
+    a caption for Aukh-ta with OCR uncertainty, a group of four male figures with
+    disks in place of heads carrying downward-pointing spear-headed arrows, and the
+    beginning of a description of four bearded human-headed figures carrying short
+    spears. Several associated names or labels are printed in the passage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A caption near the beginning reads, in the supplied OCR, “The serpcui Aukh-ta.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Item 4 describes four male figures, each with a disk in place of a head.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each of the four disk-headed figures grasps an arrow with a spear-shaped head
+    in his right hand; the weapon rests on his shoulder and points downward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The item 4 name list includes TEl'THld, Sheseha, Te.mau, and Utu as rendered
+    in the supplied passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Item 5 begins to describe four bearded, human-headed figures, each holding
+    a short spear in his right hand.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Later labels in the supplied passage read Tepthra, Shesera, Temau, and Utu.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Aukh-ta
+  description: A captioned being or figure labeled Aukh-ta; the preceding descriptive
+    word appears as “serpcui” in the supplied OCR, likely requiring review.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Four disk-headed male figures
+  description: A group of four male figures, each with a disk in place of a head and
+    each carrying a downward-pointing spear-headed arrow. The supplied item list gives
+    names including TEl'THld, Sheseha, Te.mau, and Utu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Four bearded human-headed figures
+  description: A group of four bearded, human-headed figures, each described as holding
+    a short spear in his right hand; the sentence is truncated in the supplied passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: captioned named being
+  assigned_to:
+  - fig:1
+  basis: The passage gives a caption naming Aukh-ta, with OCR uncertainty in the preceding
+    word.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: armed disk-headed male group
+  assigned_to:
+  - fig:2
+  basis: The figures are male, have disks in place of heads, and carry spear-headed
+    arrows.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: armed bearded human-headed group
+  assigned_to:
+  - fig:3
+  basis: The figures are described as bearded, human-headed, and holding short spears.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: possible serpent Aukh-ta
+  literal_form: A caption reading “The serpcui Aukh-ta” in the supplied OCR; this
+    appears to require human review before firm classification as serpent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: disk head
+  literal_form: A disk in place of the head of each of the four male figures.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: downward-pointing spear-headed arrow
+  literal_form: An arrow with a spear-shaped head, held in the right hand, resting
+    on the shoulder, and pointed downward.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: short spear
+  literal_form: A short spear held in the right hand of each bearded human-headed
+    figure.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Iconographic register of named and weapon-bearing figures
+  summary: 'The passage lists or captions figures in an Am-Tuat illustration: Aukh-ta,
+    four disk-headed male figures armed with spear-headed arrows, and four bearded
+    human-headed figures armed with short spears.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: possible serpent figure
+  taxonomy_refs:
+  - serpent
+  basis: The caption names Aukh-ta and appears, despite OCR uncertainty, to identify
+    the figure as a serpent.
+  evidence_refs:
+  - ev:1
+  confidence: uncertain
+  cautions: The supplied OCR reads “serpcui,” so the serpent classification needs
+    verification against the source image or a corrected text.
+- id: motif:2
+  label: weapon-bearing fourfold groups
+  taxonomy_refs: []
+  basis: The passage describes one group of four figures carrying spear-headed arrows
+    and another group of four figures carrying short spears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state the figures’ function, so no guardian, punitive,
+    or ritual role should be assumed.
+- id: motif:3
+  label: disk-headed beings
+  taxonomy_refs: []
+  basis: Item 4 explicitly states that each of the four male figures has a disk in
+    place of a head.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides a visual attribute but no narrative explanation for
+    the disk heads.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10555-10599, caption near beginning
+  quote_or_summary: "“The serpcui Aukh-ta.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10555-10599, item 4
+  quote_or_summary: Item 4 describes four male figures, each with a disk instead of
+    a head, each holding in the right hand an arrow with a spear-shaped head resting
+    on the shoulder and pointing downward; the listed names include TEl'THld, Sheseha,
+    Te.mau, and Utu as rendered in the supplied passage.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10555-10599, item 5 and following labels
+  quote_or_summary: Item 5 begins a description of four bearded, human-headed figures,
+    each holding a short spear in his right hand; later labels in the supplied passage
+    read Tepthra, Shesera, Temau, and Utu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR uncertainty and by the truncation of item 5.
+    No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Kept observations literal where possible. The serpent taxonomy reference is marked uncertain because the supplied OCR appears corrupted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l10555-l10599
+  passage_sha256=37a116df070a1fac24483b82845cedc2dcc7f51d573bc2e060e44b7c1e98cc3d
+

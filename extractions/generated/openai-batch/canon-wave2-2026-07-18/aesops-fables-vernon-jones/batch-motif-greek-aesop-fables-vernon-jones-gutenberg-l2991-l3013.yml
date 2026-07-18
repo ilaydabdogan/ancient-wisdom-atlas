@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2991-l3013
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE MOUSE, AND THE FOX / THE TRUMPETER TAKEN PRISONER / THE WOLF
+    AND THE CRANE / THE EAGLE, THE CAT, AND THE WILD SOW; lines 2991-3013
+  start: '2991'
+  end: '3013'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An Eagle nests at the top of a high tree, a Cat and her family live in
+    a hollow halfway down, and a Wild Sow and her young live at the foot. The Cat
+    separately frightens the Eagle and the Sow with false warnings about each other.
+    The Eagle and Sow remain in place from fear, perish with their families from hunger,
+    and their bodies feed the Cat and her kittens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Eagle builds a nest at the top of a high tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Cat and her family occupy a hollow in the trunk halfway down the tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Wild Sow and her young live at the foot of the tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Cat warns the Eagle that the Sow intends to uproot the tree and devour
+    both families.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Cat warns the Sow that the Eagle is waiting to carry off one of the little
+    pigs to feed her brood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Cat stays in her hole by day while pretending to be afraid and goes out
+    unseen at night to get food for her kittens.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Eagle is afraid to leave her nest and the Sow does not leave her home
+    among the roots.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Eagle, the Sow, and their families die of hunger, and their bodies provide
+    food for the Cat and her family.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: A nesting bird living at the top of the high tree with her family or
+    brood.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Cat
+  description: A mother Cat living with her family in a hollow in the tree trunk;
+    she frightens the Eagle and the Sow with separate warnings.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Wild Sow
+  description: A Wild Sow living with her young at the foot of the tree among the
+    roots.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Eagle's family or brood
+  description: The Eagle's family in the nest; they perish of hunger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Cat's family or kittens
+  description: The Cat's young, for whom she obtains food and who are fed by the dead
+    bodies of the others.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Wild Sow's young or little pigs
+  description: The Wild Sow's young living at the foot of the tree; they perish of
+    hunger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive instigator
+  assigned_to:
+  - fig:2
+  basis: The Cat separately tells the Eagle and the Sow frightening claims that make
+    each fear the other.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: frightened neighbor
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The Eagle is terrified by the warning about the Sow, and the Sow is frightened
+    by the warning about the Eagle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: beneficiary of the deaths
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The dead bodies of the Eagle, the Sow, and their families supply food for
+    the Cat's growing family.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: victim of hunger
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The Eagle, the Sow, and their families remain in place from fear and perish
+    of hunger.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: high tree
+  literal_form: A high tree containing the Eagle's nest, the Cat's hollow, and the
+    Wild Sow's quarters at the foot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nest
+  literal_form: The Eagle's nest at the top of the tree.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: hollow in the trunk
+  literal_form: The Cat's hole or hollow in the trunk halfway down the tree.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: roots or foot of the tree
+  literal_form: The Wild Sow's home at the foot of the tree among the roots.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Three animal households share a tree
+  summary: The Eagle, Cat, and Wild Sow establish homes at different levels of the
+    same high tree with their families.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cat frightens the Eagle
+  summary: The Cat climbs to the Eagle's nest and says that the Sow plans to uproot
+    the tree and devour both families.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cat frightens the Sow
+  summary: The Cat descends and tells the Sow that the Eagle is waiting to seize one
+    of the little pigs to feed her brood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cat hides and feeds at night
+  summary: The Cat returns to her hole, pretends to be afraid, remains hidden by day,
+    and goes out unseen at night to get food for her kittens.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fear leads to starvation
+  summary: The Eagle remains in the nest and the Sow stays among the roots; both families
+    die of hunger, and the Cat's family feeds on their bodies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceiver turns neighbors against each other
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Cat uses false warnings to make the Eagle and the Wild Sow fear each
+    other, then benefits from their deaths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents the Cat as cunning
+    and deceptive but does not name a formal trickster figure.
+- id: motif:2
+  label: false warning causes self-destructive fear
+  taxonomy_refs: []
+  basis: The Eagle and the Sow respond to the Cat's warnings by staying in their homes
+    until they and their families perish from hunger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family.
+- id: motif:3
+  label: predator profits from engineered deaths
+  taxonomy_refs: []
+  basis: After frightening the other animals into immobility, the Cat and her growing
+    family are fed by the dead bodies of the Eagle, Sow, and their families.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly state that the Cat planned the deaths
+    from the beginning, only that her cunning actions lead to this result.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2991-2995
+  quote_or_summary: An Eagle nests at the top of a high tree; a Cat and her family
+    occupy a hollow halfway down the trunk; a Wild Sow and her young live at the foot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2995-3002
+  quote_or_summary: The Cat climbs to the Eagle's nest and warns that the Sow intends
+    to uproot the tree and devour the Eagle's and Cat's families, terrifying the Eagle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3002-3007
+  quote_or_summary: The Cat then tells the Sow that the Eagle is waiting to carry
+    off one of the little pigs to feed her brood, frightening the Sow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3007-3010
+  quote_or_summary: The Cat returns to her hole, pretends to be afraid, stays hidden
+    by day, and goes out unseen at night to get food for her kittens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3010-3013
+  quote_or_summary: The Eagle stays in her nest and the Sow remains among the roots;
+    in time they and their families die of hunger, and their bodies feed the Cat's
+    family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    passage-level candidates; only the broad trickster_boundary taxonomy reference
+    is used, with caution. No comparison claims are made because the passage itself
+    does not provide an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used. The broader locator label names multiple fables, but extraction is limited to the supplied text of “THE EAGLE, THE CAT, AND THE WILD SOW.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2991-l3013
+  passage_sha256=337b4620013b3c0bd016f4781585172b774279e6901d67e38ca969b3197824ba
+

@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l12829-l12940
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: WISDOM  FRAGMENT  177 / HYMN  TO  TAMMUZ  179 / HYMN  TO  TAMMUZ  181 / CUNEIFORM  PARALLELS;
+    lines 12829-12940
+  start: '12829'
+  end: '12940'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“the lord of destiny (?) abides no more”"
+  summary: The passage contains a fragmentary reverse of a Berlin tablet mentioning
+    not drinking water, not eating food, the seizure of the gallu, a female figure
+    cast in gloom and sitting alone, and a colophon naming Nabu-nadin-sum as copyist/collator.
+    It then begins a Hymn to Tammuz with a repeated statement that the lord of destiny
+    abides no more; an editorial note says the hymn is spoken by Ishtar as a lament
+    for her consort and explains the phrase as meaning that he no longer abides on
+    earth.
+  language: English with Sumerian/Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure referred to as “he” did not drink water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same or another figure referred to as “he” did not eat food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gallu is said to be seized, and others have laid hold of the gallu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A female figure is cast in gloom and sits alone.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The colophon says the tablet was copied and collated by Nabu-nadin-sum, son
+    of Iddina-Papsukal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Hymn to Tammuz begins with the statement that the lord of destiny abides
+    no more.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An editorial note identifies Ishtar as the speaker of the hymn and says it
+    is a lament for her consort.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: An editorial note explains “abides no more” as meaning “abides no more on
+    earth” and notes the hymn’s refrains.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unnamed figure referred to as “he”
+  description: A figure in the fragment who did not drink water and did not eat food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: gallu
+  description: A named being or figure in the fragment that is seized and held.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unnamed female figure
+  description: A figure described as cast in gloom and sitting alone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nabu-nadin-sum son of Iddina-Papsukal
+  description: The person named in the colophon as having copied and collated the
+    tablet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Tammuz / lord of destiny (?)
+  description: The addressee or central divine figure of the hymn; the opening line
+    says the lord of destiny abides no more.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Ishtar
+  description: The goddess identified in an editorial note as the speaker of the hymn
+    and the one lamenting her consort.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: non-consuming figure
+  assigned_to:
+  - fig:1
+  basis: The fragment says he drank no water and ate no food.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seized figure
+  assigned_to:
+  - fig:2
+  basis: The fragment says the gallu is seized and held.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: solitary gloomy figure
+  assigned_to:
+  - fig:3
+  basis: The fragment says she is cast in gloom and sits alone.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: copyist and collator
+  assigned_to:
+  - fig:4
+  basis: The colophon names Nabu-nadin-sum as the person who copied and collated the
+    text.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: absent lord or consort
+  assigned_to:
+  - fig:5
+  basis: The hymn states that the lord of destiny abides no more, and the note calls
+    him Ishtar’s consort.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: lamenting goddess and speaker
+  assigned_to:
+  - fig:6
+  basis: The editorial note says the hymn is spoken by Ishtar as a lament for her
+    consort.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water not drunk
+  literal_form: water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: food not eaten
+  literal_form: food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gloom
+  literal_form: gloom cast over a solitary female figure
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fragmentary abstention and seizure on the reverse of the Berlin tablet
+  summary: The fragment reports that a figure did not drink water or eat food, and
+    that the gallu is seized and held.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Solitary gloom
+  summary: A female figure is described as being cast in gloom and sitting alone.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Tablet colophon
+  summary: The colophon identifies the tablet as copied and collated by Nabu-nadin-sum,
+    son of Iddina-Papsukal.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Opening lament in the Hymn to Tammuz
+  summary: The hymn opens by saying that the lord of destiny abides no more; an editorial
+    note identifies Ishtar as the speaker and describes the hymn as a lament for her
+    consort, who abides no more on earth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lament for an absent divine consort
+  taxonomy_refs:
+  - divine_beloved
+  basis: The editorial note says Ishtar speaks the hymn as a lament for her consort,
+    and the hymn’s opening says the lord of destiny abides no more.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the opening of the hymn and an editorial explanation;
+    it does not provide the full mythic sequence.
+- id: motif:2
+  label: divine absence from earth
+  taxonomy_refs:
+  - departure
+  basis: The note explains the refrain “abides no more” as meaning that the figure
+    abides no more on earth.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: No actual departure scene or journey is narrated in the provided passage.
+- id: motif:3
+  label: non-consumption of water and food
+  taxonomy_refs: []
+  basis: The tablet fragment says that water was not drunk and food was not eaten.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The lines are fragmentary, and the narrative context is not supplied.
+- id: motif:4
+  label: seizure of a named being
+  taxonomy_refs: []
+  basis: The fragment says the gallu is seized and held.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explain who seizes the gallu or why.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s editorial note explicitly compares the hymn’s refrain structure
+    to Psalm 136.
+  claim_level: same_function
+  target: Psalm 136 as a text with refrains
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to refrain usage; the passage does not claim
+    shared mythic content, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12829-12940; Reverse of Berlin Tablet, translated lines 2-4
+  quote_or_summary: "“water he drank not” and “food he ate not.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 12829-12940; Reverse of Berlin Tablet, translated lines 6-8
+  quote_or_summary: "“the gallu is seized” and “they have laid hold of the gallu.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 12829-12940; Reverse of Berlin Tablet, translated lines 13-15
+  quote_or_summary: "“she is cast in gloom” and “she sits alone.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 12829-12940; Reverse of Berlin Tablet, translated lines 16-18
+  quote_or_summary: The colophon identifies the fourth long tablet and says it was
+    copied and collated by Nabu-nadin-sum, son of Iddina-Papsukal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 12829-12940; Hymn to Tammuz opening
+  quote_or_summary: "“[The lord of destiny (?) abides no more], the lord of destiny
+    (?) abides no more.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 12829-12940; Hymn to Tammuz, footnote 2
+  quote_or_summary: The note says the hymn is spoken by the goddess Ishtar as a lament
+    for her consort.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12829-12940; Hymn to Tammuz, footnote 2
+  quote_or_summary: The note explains that “abides no more” means “abides no more
+    on earth,” calls attention to the hymn’s refrains, and says to compare Psalm 136.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized with brief quoted phrases.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The first portion is highly fragmentary and partly transliterated; motif
+    identification is strongest for the Tammuz-Ishtar lament because the editorial
+    note explicitly identifies the speaker and theme.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external context about Tammuz, Ishtar, or gallu was added beyond what appears in the provided text and notes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l12829-l12940
+  passage_sha256=d9d95a829f59f291a4e5798d703870787c70b522cec5b9dde9b5a84ffe32d226
+

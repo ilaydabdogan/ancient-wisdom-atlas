@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4847-l4860
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER AND HIS DOGS / THE EAGLE AND THE FOX / THE BUTCHER AND HIS CUSTOMERS
+    / HERCULES AND MINERVA; lines 4847-4860
+  start: '4847'
+  end: '4860'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Hercules travels on a narrow road and encounters an object that looks like
+    an apple. When he stamps on it and then strikes it with his club, it grows until
+    it blocks the road. Minerva appears, tells him to leave it alone, and identifies
+    it as the apple of discord, explaining that it stays small if not meddled with
+    but swells when met with violence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hercules is travelling along a narrow road.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: He sees an object on the ground that appears to be an apple.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hercules stamps on the apple-like object with his heel, and it doubles in
+    size instead of being crushed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hercules attacks the object again with his club, and it swells to an enormous
+    size and blocks the road.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hercules drops his club and looks at the enlarged object in amazement.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Minerva appears and speaks to Hercules.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Minerva identifies the object as the apple of discord and says it remains
+    small if left alone but swells if treated with violence.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hercules
+  description: A traveller on a narrow road who stamps on and then strikes the apple-like
+    object before dropping his club in amazement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Minerva
+  description: A named figure who appears after the object has blocked the road and
+    explains its nature to Hercules.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: forceful traveller confronting an obstacle
+  assigned_to:
+  - fig:1
+  basis: Hercules responds to the apple-like object by stamping on it and then striking
+    it with his club.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: explanatory advisor
+  assigned_to:
+  - fig:2
+  basis: Minerva appears and tells Hercules to leave the object alone, explaining
+    that violence makes it swell.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: apple of discord
+  literal_form: An apple-like object on the road, later identified by Minerva as the
+    apple of discord.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: club
+  literal_form: Hercules' club, used to strike the apple-like object and then dropped.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: blocked narrow road
+  literal_form: A narrow road that becomes blocked when the object swells to an enormous
+    size.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Encounter with the apple-like object
+  summary: Hercules travels along a narrow road, sees an object resembling an apple,
+    and stamps on it; the object doubles in size.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Violent attack and obstruction
+  summary: Hercules strikes the object with his club; it swells enormously, blocks
+    the road, and leaves him amazed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Minerva's explanation
+  summary: Minerva appears, advises Hercules to leave the object alone, and explains
+    that the apple of discord grows when met with violence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: violence enlarges discord
+  taxonomy_refs: []
+  basis: The object is called the apple of discord; Minerva explains that it stays
+    small if not meddled with but swells when violence is used against it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives this moralized pattern explicitly, but no external tradition
+    or historical connection is established within the passage.
+- id: motif:2
+  label: wise counsel against meddling with strife
+  taxonomy_refs:
+  - wisdom
+  basis: Minerva counsels Hercules to leave the apple of discord alone and explains
+    the consequence of violent engagement.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy family 'wisdom' is broad; the passage supports
+    advisory speech but does not state a formal wisdom doctrine.
+- id: motif:3
+  label: small object becomes a road-blocking obstacle
+  taxonomy_refs: []
+  basis: The apple-like object doubles after being stamped on, then swells to an enormous
+    size and blocks the whole road after being struck with a club.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literal narrative pattern in the passage; symbolic interpretation
+    beyond the stated apple of discord should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports comparison with a conflict-escalation pattern: discord
+    remains minor if left alone but grows when violently engaged.'
+  claim_level: same_function
+  target: apple of discord / conflict-escalation pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself supplies the apple-of-discord label and functional
+    explanation, but it does not establish a historical link to any other text or
+    tradition.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 4847-4860
+  quote_or_summary: Supplied passage is the fable titled HERCULES AND MINERVA within
+    the stated line range.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; citation only.
+- id: ev:2
+  type: summary
+  locator: 4847-4860; opening action
+  quote_or_summary: Hercules travels along a narrow road, sees something like an apple
+    on the ground, stamps on it, and it doubles in size instead of being crushed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: 4847-4860; escalation
+  quote_or_summary: Hercules attacks the object again with his club; it swells enormously,
+    blocks the road, and he drops the club while looking at it in amazement.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: quote
+  locator: 4847-4860; Minerva's speech
+  quote_or_summary: 'Minerva says: "Leave it alone" and identifies it as "the apple
+    of discord," explaining that if not meddled with it remains small, but if violence
+    is used it swells.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata supplied; short excerpt/close summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The fable is self-contained and the central pattern is explicitly explained
+    by Minerva. Broader taxonomy mapping is limited because the available motif families
+    do not include a specific discord or conflict-escalation category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications or historical-contact claims were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4847-l4860
+  passage_sha256=052f2a02308858099066abea4355c2b018849b9ccadda1982a0718ae57c7a659
+

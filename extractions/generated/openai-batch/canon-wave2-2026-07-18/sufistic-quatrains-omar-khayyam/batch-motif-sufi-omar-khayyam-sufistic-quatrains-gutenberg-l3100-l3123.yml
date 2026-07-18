@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3100-l3123
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXV. / XXXVI. / XXXVII. / XLII.; lines 3100-3123
+  start: '3100'
+  end: '3123'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives quatrain XLII, linking wine, a pressed lip, universal
+    beginning and ending, and continuity across yesterday, today, and tomorrow. It
+    then states that the quatrain is inspired by cited Khayyam quatrains in which
+    the addressee is told to be happy with wine and a tulip-cheeked companion, to
+    recognize that all ends in naught, to avoid dwelling on past or future, and to
+    drink wine now.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Quatrain XLII describes wine drunk and a lip pressed, and says they end in
+    what all begins and ends in, named as “Yes.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Quatrain XLII contrasts today, yesterday, and tomorrow, saying the addressed
+    person is today what they were yesterday and shall not be less tomorrow.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An editorial note says the inspiration for quatrain XLII is contained in passages
+    identified as O. 102 and C. 412.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cited quatrain addresses Khayyam and tells him to be happy if he is drunk
+    with wine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same cited quatrain tells the addressed person to be happy if he reposes
+    with a tulip-cheeked one.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cited quatrain states that the end of all things is that the addressed
+    person will be naught, and tells him to imagine that he is not.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Another cited quatrain tells the addressee not to remember the past day, not
+    to be hard upon the unarrived morrow, and not to think about coming or departure.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cited quatrain tells the addressee to drink wine now and not fling life
+    to the winds.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Second-person addressee / Khayyam in cited quatrain
+  description: The passage addresses a second-person figure with counsel about wine,
+    happiness, time, coming and departure; one cited quatrain names this addressee
+    as Khayyam.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Tulip-cheeked one
+  description: A person with whom the addressee may repose, described only as “one
+    tulip-cheeked.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Counseled addressee
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly uses second-person address and imperatives concerning
+    thought, happiness, memory, and drinking wine now.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Wine drinker and lover
+  assigned_to:
+  - fig:1
+  basis: The addressed figure is described as drinking wine, pressing a lip, being
+    drunk with wine, and possibly reposing with a tulip-cheeked companion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Tulip-cheeked companion
+  assigned_to:
+  - fig:2
+  basis: The cited quatrain describes the addressee reposing with “one tulip-cheeked.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Wine
+  literal_form: Wine drunk by the addressee, including the instruction to drink wine
+    now.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Pressed lip and tulip-cheeked companion
+  literal_form: A lip pressed by the addressee and a person described as tulip-cheeked.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Past, present, and future
+  literal_form: Today, yesterday, tomorrow, the passed-away day, the unarrived morrow,
+    and the present now.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: Naught
+  literal_form: The stated end of all things as the addressee becoming naught and
+    imagining that he is not.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - annihilation_union
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Winds
+  literal_form: The image of flinging life to the winds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: 'Yes'
+  literal_form: The word “Yes” named as what all begins and ends in.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: 'XLII: wine, lip, and temporal continuity'
+  summary: The quatrain asks the addressee to think of wine and a pressed lip as ending
+    in a universal “Yes,” then relates today, yesterday, and tomorrow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'Cited inspiration: wine, companion, and naughtness'
+  summary: A cited quatrain addresses Khayyam, associates happiness with wine and
+    a tulip-cheeked companion, and states that all ends in naught.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: 'Cited inspiration: rejecting past and future for present wine'
+  summary: Another cited quatrain tells the addressee not to dwell on the past, future,
+    coming, or departure, but to drink wine now and not waste life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Present enjoyment under impermanence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage counsels happiness and present wine-drinking while warning against
+    dwelling on past, future, coming, departure, and the final end in naught.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference “wisdom” is broad; the passage gives poetic counsel
+    rather than a formal doctrinal exposition.
+- id: motif:2
+  label: Annihilation or becoming naught
+  taxonomy_refs:
+  - annihilation_union
+  basis: The cited quatrain states that the end of all things is that the addressed
+    person will be naught and tells him to imagine that he is not.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Naughtness or nonbeing is explicit, but union is not explicitly stated
+    in this passage.
+- id: motif:3
+  label: Wine and bodily beloved or companion as immediate delights
+  taxonomy_refs: []
+  basis: The passage joins wine, a pressed lip, drunkenness, and reposing with a tulip-cheeked
+    one with the instruction to be happy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly identify the companion as divine, allegorical,
+    or symbolic.
+- id: motif:4
+  label: Temporal triad and refusal of past-future anxiety
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts today, yesterday, and tomorrow, and later instructs
+    the addressee not to remember the past day or be hard upon the unarrived morrow.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This overlaps with the broader present-enjoyment motif and is separated
+    here only as a recurring temporal pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents O. 102 and C. 412 as inspirations for quatrain
+    XLII; shared elements include wine-drinking, present-focused counsel, and end
+    or nonbeing language.
+  claim_level: same_motif
+  target: O. 102 and C. 412 in the cited Khayyam quatrain apparatus
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This relies on the edition’s own editorial note and does not independently
+    establish compositional history beyond the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3100-3104
+  quote_or_summary: Quatrain XLII links wine and a pressed lip with what all begins
+    and ends in, “Yes,” and contrasts today, yesterday, and tomorrow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3106-3107
+  quote_or_summary: The passage states that the inspiration for quatrain XLII is contained
+    in O. 102 and C. 412.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3109-3112
+  quote_or_summary: A cited quatrain addresses Khayyam, tells him to be happy with
+    wine and a tulip-cheeked one, and says the end of all things is that he will be
+    naught.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: citation
+  locator: lines 3114-3115
+  quote_or_summary: Reference list for the O. 102-related quatrain includes O. 102,
+    C. 291, and other catalog references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation metadata summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3117-3120
+  quote_or_summary: A cited quatrain says not to remember the past day, not to be
+    hard on the unarrived morrow, not to think about coming or departure, and to drink
+    wine now.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: citation
+  locator: lines 3122-3123
+  quote_or_summary: Reference list for the C. 412-related quatrain includes C. 412
+    and other catalog references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation metadata summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels involving annihilation
+    and wisdom are supported by the language of naughtness and counsel, but theological
+    or allegorical readings are not explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or interpretive Sufi allegories were added beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3100-l3123
+  passage_sha256=6fe4c4b806963afbffa0d000784dc4dee1bb30c2dd0874e2f4164a3802868461
+

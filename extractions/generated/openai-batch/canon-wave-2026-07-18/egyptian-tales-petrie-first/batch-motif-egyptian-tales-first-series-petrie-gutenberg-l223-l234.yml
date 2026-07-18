@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.egyptian-tales-first-series-petrie-gutenberg-l223-l234
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+passage_locator:
+  label: THE ADVENTURES OF SANEHAT / REMARKS / INTRODUCTION / TALES OF THE MAGICIANS;
+    lines 223-234
+  start: '223'
+  end: '234'
+  translation: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to
+    XIIth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces “Tales of the Magicians.” King Khufu summons his
+    sons and councillors through his chancellor and asks whether they know someone
+    who can tell tales about the deeds of magicians. The royal son Khafra offers to
+    tell a tale from the time of Khufu’s forefather Nebka, involving Nebka’s visit
+    to the temple of Ptah of Ankhtaui.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins under the heading “Tales of the Magicians.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: King Khufu is described as reigning over all the land.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Khufu tells his chancellor to call his sons and councillors before him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Khufu’s sons and councillors come and stand before him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Khufu asks whether they know a man who can tell tales of the deeds of the
+    magicians.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The royal son Khafra stands forth and offers to tell the king a tale.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Khafra identifies the tale as concerning the days of Khufu’s forefather Nebka,
+    who is called blessed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The tale is introduced as involving Nebka going into the temple of Ptah of
+    Ankhtaui.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King Khufu
+  description: Reigning king who summons his sons and councillors and asks for tales
+    of the deeds of magicians.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Khufu’s chancellor
+  description: Unnamed chancellor who stands before Khufu and is instructed to call
+    the king’s sons and councillors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Khufu’s sons and councillors
+  description: Collective group summoned to stand before Khufu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Khafra
+  description: Royal son who stands forth and offers to tell Khufu a tale from the
+    days of Nebka.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nebka
+  description: Khufu’s forefather, called blessed; the tale Khafra introduces concerns
+    what happened when Nebka went into the temple of Ptah of Ankhtaui.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: the magicians
+  description: Unnamed magicians whose deeds are the subject of the tales Khufu asks
+    about.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reigning king
+  assigned_to:
+  - fig:1
+  basis: Khufu is described as reigning over all the land.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: requester of magical tales
+  assigned_to:
+  - fig:1
+  basis: Khufu asks whether anyone knows a man who can tell tales of the deeds of
+    magicians.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal official ordered to summon the court
+  assigned_to:
+  - fig:2
+  basis: The chancellor stands before Khufu and is told to call the king’s sons and
+    councillors.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: summoned royal audience
+  assigned_to:
+  - fig:3
+  basis: The sons and councillors are called and come to stand before Khufu.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: court storyteller
+  assigned_to:
+  - fig:4
+  basis: Khafra stands forth and says he will tell the king a tale.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ancestral king in embedded tale
+  assigned_to:
+  - fig:5
+  basis: Nebka is named as Khufu’s forefather and as the figure whose temple visit
+    frames the tale Khafra will tell.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: subjects of requested tales
+  assigned_to:
+  - fig:6
+  basis: Khufu asks for tales concerning the deeds of the magicians.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: temple of Ptah of Ankhtaui
+  literal_form: temple
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Khufu convenes his court to ask for magical tales
+  summary: Khufu, reigning over the land, orders his chancellor to summon his sons
+    and councillors. When they stand before him, he asks if they know someone who
+    can tell tales about the deeds of magicians.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Khafra introduces a tale of Nebka
+  summary: Khafra stands forth and offers to tell Khufu a tale from the days of Nebka,
+    Khufu’s blessed forefather, concerning Nebka’s visit to the temple of Ptah of
+    Ankhtaui.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal request for tales of magical deeds
+  taxonomy_refs: []
+  basis: The king asks his assembled sons and councillors whether they know someone
+    who can tell him tales about the deeds of magicians.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a narrative frame; the magical deeds themselves are
+    not described in this excerpt.
+- id: motif:2
+  label: embedded ancestral court tale
+  taxonomy_refs: []
+  basis: A royal son introduces a tale set in the days of Khufu’s forefather Nebka,
+    creating a story-within-a-story structure in a royal court setting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt introduces the embedded tale but does not yet narrate its
+    events beyond Nebka’s temple visit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '223'
+  quote_or_summary: "“TALES OF THE MAGICIANS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 225-227
+  quote_or_summary: Khufu reigns over all the land and tells his chancellor, who stands
+    before him, to call his sons and councillors.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 227-230
+  quote_or_summary: Khufu’s sons and councillors come before him, and he asks whether
+    they know a man who can tell tales of the deeds of the magicians.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 231-233
+  quote_or_summary: The royal son Khafra stands forth and says he will tell the king
+    a tale of the days of Khufu’s blessed forefather Nebka.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 233-234
+  quote_or_summary: Khafra says the tale concerns what happened when Nebka went into
+    the temple of Ptah of Ankhtaui.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the excerpt functions mainly as a frame narrative and does not yet narrate the
+    magical events. No comparison claims are made because the passage itself does
+    not support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references were not assigned because the excerpt does not clearly support one of the provided motif-family identifiers.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-first-series-petrie-gutenberg__l223-l234
+  passage_sha256=50798cb81b5190f066f08d1afd9b19db5e946c561f1fdd7e27f6ad37125d29dc
+

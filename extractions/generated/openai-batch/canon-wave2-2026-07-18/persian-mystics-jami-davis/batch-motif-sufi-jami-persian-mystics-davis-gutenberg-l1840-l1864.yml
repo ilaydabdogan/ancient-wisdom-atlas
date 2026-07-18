@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1840-l1864
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THIRD GARDEN / WISE MAXIMS / THE DOWNFALL OF THE MIGHTY / JUSTICE AND VIRTUE;
+    lines 1840-1864
+  start: '1840'
+  end: '1864'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Two brief moral anecdotes: a culprit persuades the Khalifa to choose virtue
+    over strict vengeance, and a captive woman before Hajaj refuses to look at him,
+    saying she is ashamed before God to look upon one whom God does not look upon.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A culprit is brought before the Khalifa, who orders punishment for the transgression.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prisoner addresses the Khalifa as Commander of the Faithful and contrasts
+    vengeance as justice with passing over the crime as virtue.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prisoner argues that the Prince of the Faithful should prefer what is
+    higher over what is lower.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khalifa is pleased with the argument and condones the transgression.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A woman from a faction that had risen in arms against Hajaj is brought before
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When Hajaj speaks to the woman, she looks down, fixes her eyes on the ground,
+    does not reply, and does not glance at him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A person present asks the woman why she looks away while the Amir is speaking.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The woman replies that she is ashamed before God the Most High to look on
+    a man upon whom God the Most High does not look.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Khalifa / Commander of the Faithful
+  description: A ruling figure before whom a culprit is brought; he orders punishment
+    and then condones the transgression.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: The culprit / prisoner
+  description: A prisoner accused of a transgression who argues for virtue over vengeance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Hajaj / the Amir
+  description: An authority figure before whom a woman from an armed opposing faction
+    is brought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: The woman from the opposing faction
+  description: A woman brought before Hajaj who averts her gaze and gives a religiously
+    framed rebuke.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: One who was present
+  description: A present observer who asks why the woman looks away while the Amir
+    speaks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: God the Most High
+  description: The divine figure invoked in the woman’s statement about shame and
+    divine regard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ruling authority
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The Khalifa orders punishment; Hajaj is addressed as the Amir and speaks
+    to a captive woman.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: condemned speaker seeking clemency
+  assigned_to:
+  - fig:2
+  basis: The prisoner has been brought for punishment and speaks to reframe punishment
+    as justice but clemency as virtue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: captive moral rebuker
+  assigned_to:
+  - fig:4
+  basis: The woman is brought before Hajaj, refuses to look at him, and states that
+    God does not look upon him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: bystander questioner
+  assigned_to:
+  - fig:5
+  basis: A person present questions the woman’s refusal to look toward the Amir.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: invoked divine authority
+  assigned_to:
+  - fig:6
+  basis: The woman appeals to God the Most High as the standard for whether Hajaj
+    may be looked upon.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: justice and virtue contrast
+  literal_form: The prisoner’s verbal contrast between taking vengeance as justice
+    and passing over a crime as virtue.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: averted gaze
+  literal_form: The woman looks down, fixes her eyes on the ground, and does not glance
+    at Hajaj.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divine non-gaze
+  literal_form: The woman’s image of God the Most High not looking upon Hajaj.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Clemency before the Khalifa
+  summary: A culprit brought before the Khalifa persuades him that passing over the
+    offense is a higher virtue than taking vengeance, and the Khalifa condones the
+    transgression.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The woman’s refusal to look at Hajaj
+  summary: A woman from a faction opposed to Hajaj is brought before him, refuses
+    to look at him, and explains that she is ashamed before God to look upon one whom
+    God does not look upon.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Clemency surpassing strict retribution
+  taxonomy_refs:
+  - wisdom
+  basis: The prisoner’s maxim distinguishes vengeance as justice from passing over
+    the crime as virtue, and the Khalifa responds by forgiving the offense.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents a moral anecdote rather than a developed mythic narrative.
+- id: motif:2
+  label: Power rebuked through divine disfavor
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: The woman’s refusal to look at Hajaj is justified by her claim that God the
+    Most High does not look upon him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The divine judgment is reported within the woman’s speech; the passage
+    does not narrate an independent divine action.
+- id: motif:3
+  label: Wise speech before authority
+  taxonomy_refs:
+  - wisdom
+  basis: Both anecdotes turn on a concise statement made before a powerful ruler or
+    Amir that reframes the situation in moral or religious terms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a broad pattern inferred from two adjacent maxims in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The two anecdotes share the function of using brief speech by a vulnerable
+    or subordinate figure before political authority to assert a higher ethical or
+    divine standard.
+  claim_level: same_function
+  target: wise speech before ruling authority pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to functional similarity within this passage and
+    does not establish historical transmission or a broader comparative tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1840-1864; 'JUSTICE AND VIRTUE' anecdote
+  quote_or_summary: A culprit is brought before the Khalifa, who orders the punishment
+    due for the transgression.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1840-1864; 'JUSTICE AND VIRTUE' anecdote
+  quote_or_summary: '"to take vengeance for a crime is justice, but to pass it over
+    is virtue"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1840-1864; 'JUSTICE AND VIRTUE' anecdote
+  quote_or_summary: The Khalifa is pleased with the prisoner’s argument and condones
+    the transgression.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1840-1864; 'THE WOMAN WHO WAS ASHAMED...' anecdote
+  quote_or_summary: A woman from a faction that had risen in arms against Hajaj is
+    brought before him; when he speaks, she looks down and does not reply or glance
+    at him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1840-1864; 'THE WOMAN WHO WAS ASHAMED...' anecdote
+  quote_or_summary: A person present asks why the woman looks away while the Amir
+    is speaking.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 1840-1864; 'THE WOMAN WHO WAS ASHAMED...' anecdote
+  quote_or_summary: '"I am ashamed before God the Most High, to look on a man, upon
+    whom God the Most High does not look."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are broad and should
+    be reviewed because the passage consists of brief ethical maxims rather than extended
+    mythic episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to the provided available motif families.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1840-l1864
+  passage_sha256=420bf5f7d99c2a4877237a2897035e1c8c24ece0bbf72addd142b70e936f3ced
+

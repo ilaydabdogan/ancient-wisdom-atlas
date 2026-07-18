@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2371-l2387
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE LION / THE EAGLE AND HIS CAPTOR / THE BLACKSMITH AND HIS
+    DOG / THE STAG AT THE POOL; lines 2371-2387
+  start: '2371'
+  end: '2387'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: What is worth most is often valued least.
+  summary: A thirsty stag drinks at a pool, admires the appearance of his antlers
+    in his reflection, and despises his legs. When a lion attacks, the stag's legs
+    let him outrun the lion over open ground, but his antlers become caught in branches
+    in a wood, and the lion kills him. The stag recognizes too late that the despised
+    legs could have saved him while the admired horns caused his ruin.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A thirsty stag goes down to a pool to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stag sees his own reflection in the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stag admires his spreading antlers and feels disgust for his weak, slender
+    legs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A lion sees and attacks the stag.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the chase, the stag draws away from the lion while running over open
+    ground free of trees.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In a wood, the stag's antlers become caught in branches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stag falls victim to the lion's teeth and claws.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: With his last breath, the stag says he despised the legs that might have saved
+    him and gloried in the horns that caused his ruin.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The stated moral says that what is worth most is often valued least.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: A thirsty stag who admires his antlers, despises his legs, flees from
+    a lion, and is killed after his antlers catch in branches.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lion
+  description: A lion who sees, attacks, pursues, and kills the stag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: misjudging evaluator
+  assigned_to:
+  - fig:1
+  basis: The stag values his antlers and devalues his legs before events show the
+    practical importance of the legs and danger of the antlers.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: prey
+  assigned_to:
+  - fig:1
+  basis: The stag is attacked and pursued by the lion and is ultimately killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:2
+  basis: The lion attacks, pursues, and kills the stag.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water reflection
+  literal_form: The stag's own reflection in the water of the pool.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: antlers
+  literal_form: The stag's fine spreading antlers, later caught in branches.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: legs
+  literal_form: The stag's weak and slender legs, which allow him to outrun the lion
+    on open ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: wood and branches
+  literal_form: A wood whose branches catch the stag's antlers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Self-inspection at the pool
+  summary: The thirsty stag comes to a pool, sees his reflection in the water, admires
+    his antlers, and despises his legs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pursuit over open ground
+  summary: A lion attacks the stag, but the stag gains distance while running over
+    open ground without trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Antlers caught in the wood
+  summary: The stag enters a wood, his antlers catch in branches, and the lion kills
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Final recognition and moral
+  summary: The dying stag states that he despised the legs that could have saved him
+    and gloried in the horns that ruined him; the fable adds that what is worth most
+    is often valued least.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: misvaluing appearance over practical worth
+  taxonomy_refs:
+  - wisdom
+  basis: The fable contrasts the stag's admiration for ornamental antlers with his
+    contempt for useful legs, then shows the antlers causing danger and the legs providing
+    possible escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific moral pattern is not separately
+    listed in the supplied taxonomy.
+- id: motif:2
+  label: admired trait becomes cause of ruin
+  taxonomy_refs:
+  - wisdom
+  basis: The stag glories in his horns, but the horns catch in branches and lead to
+    his death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is extracted as a fable moral pattern rather than a named mythological
+    motif.
+- id: motif:3
+  label: despised trait proves lifesaving
+  taxonomy_refs:
+  - wisdom
+  basis: The stag despises his legs, yet in the chase they allow him to draw away
+    from the lion and might have saved his life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is paired with the antlers' failure and depends on the fable's explicit
+    final speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2371-2374
+  quote_or_summary: The fable is titled THE STAG AT THE POOL; a thirsty stag goes
+    to a pool, bends over the surface, and sees his own reflection in the water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2374-2377
+  quote_or_summary: The stag admires his fine spreading antlers while feeling disgust
+    for the weakness and slenderness of his legs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2377-2381
+  quote_or_summary: A lion sees and attacks the stag; in the chase, the stag draws
+    away and keeps his lead while running over open, treeless ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2381-2384
+  quote_or_summary: When the stag reaches a wood, his antlers are caught in the branches,
+    and he is killed by the lion's teeth and claws.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2384-2386
+  quote_or_summary: The dying stag says he despised the legs that might have saved
+    him and gloried in the horns that proved his ruin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: '2387'
+  quote_or_summary: '"What is worth most is often valued least."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage explicitly states the sequence and moral. Motif candidates are
+    limited to broad wisdom/fable patterns supported by the supplied taxonomy and
+    passage. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied fable text was used; despite the locator label naming several fables, the provided passage contains only THE STAG AT THE POOL.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2371-l2387
+  passage_sha256=965e00de56ba735480b38abd195b7b1bd9462898c1e614af71a81c5a9b8bda49
+

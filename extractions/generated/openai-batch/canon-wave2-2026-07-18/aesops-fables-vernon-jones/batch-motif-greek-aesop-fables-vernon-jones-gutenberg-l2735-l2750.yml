@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2735-l2750
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE VIPER AND THE FILE / THE CAT AND THE COCK / THE HARE AND THE TORTOISE
+    / THE SOLDIER AND HIS HORSE; lines 2735-2750
+  start: '2735'
+  end: '2750'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“You will have to go into battle on foot this time.”"
+  summary: A Soldier cares well for his Horse during war so that it can serve him
+    in danger. After peace returns, he overworks and underfeeds it. When war resumes,
+    he mounts the weakened Horse in armor, but the Horse collapses and tells him that
+    neglect has made it unable to serve as before.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: During wartime, the Soldier gives the Horse plentiful oats and careful tending.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Soldier wants the Horse to be strong for the field and swift enough to
+    carry him away from danger if needed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the war, the Soldier uses the Horse for drudgery, gives it little attention,
+    and feeds it only chaff.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When war begins again, the Soldier saddles and bridles the Horse, puts on
+    a heavy coat of mail, and mounts it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The half-starved Horse sinks down under the Soldier’s weight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Horse tells the Soldier that he must go into battle on foot this time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Horse says hard work and bad food have turned it from a Horse into an
+    ass, and that the Soldier cannot immediately turn it back into a Horse.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Soldier
+  description: A soldier who owns or uses the Horse, feeds and tends it in wartime,
+    neglects it after war, and later attempts to ride it back into battle.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Horse
+  description: The Soldier’s Horse, cared for during war, overworked and poorly fed
+    after war, later too weakened to carry the armored Soldier, and able to speak
+    in the fable.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: soldier-rider
+  assigned_to:
+  - fig:1
+  basis: The Soldier saddles and bridles the Horse, puts on armor, and mounts it to
+    go to war.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wartime caretaker
+  assigned_to:
+  - fig:1
+  basis: In time of war, he gives the Horse oats and careful tending.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: neglectful master or employer
+  assigned_to:
+  - fig:1
+  basis: After the war, he assigns drudgery, gives little attention, and feeds the
+    Horse only chaff.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: war mount and laboring animal
+  assigned_to:
+  - fig:2
+  basis: The Horse is prepared to endure military hardship, carry the Soldier, and
+    later perform drudgery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: speaking rebuker
+  assigned_to:
+  - fig:2
+  basis: The Horse speaks to the Soldier after collapsing under his weight.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: oats
+  literal_form: plentiful supply of oats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chaff
+  literal_form: nothing but chaff to eat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: military equipment
+  literal_form: saddled and bridled Horse; heavy coat of mail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Horse-to-ass contrast
+  literal_form: "“turned me from a Horse into an ass”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Care of the Horse during war
+  summary: The Soldier feeds the Horse oats and tends it carefully so that it can
+    endure battle and carry him away from danger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Neglect after the war
+  summary: Once the war is over, the Soldier makes the Horse do drudgery, gives it
+    little attention, and feeds it only chaff.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Renewed war and failed mounting
+  summary: When war resumes, the armored Soldier mounts the Horse, but the weakened
+    animal collapses and tells him that neglect has made it unable to serve as a Horse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Neglected helper cannot serve in crisis
+  taxonomy_refs:
+  - wisdom
+  basis: The Horse is well cared for when useful in war, then neglected in peace,
+    and is unable to carry the Soldier when war returns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the pattern through animal fable rather than explicit
+    mythic narrative.
+- id: motif:2
+  label: Speaking animal rebukes human mismanagement
+  taxonomy_refs:
+  - wisdom
+  basis: The weakened Horse speaks directly to the Soldier and explains the consequence
+    of hard work and bad food.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no specific speaking-animal motif; the wisdom
+    reference is a broad classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2735-2739
+  quote_or_summary: In wartime, the Soldier gives the Horse plentiful oats and careful
+    tending because he wants it strong for the field and swift enough to carry him
+    from danger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 2740-2743
+  quote_or_summary: After the war, the Soldier puts the Horse to drudgery, gives it
+    little attention, and feeds it only chaff.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 2743-2746
+  quote_or_summary: When war breaks out again, the Soldier saddles and bridles the
+    Horse, puts on a heavy coat of mail, and mounts it to go to the field.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 2747-2750
+  quote_or_summary: The half-starved Horse sinks under the Soldier’s weight and says
+    he must go into battle on foot because hard work and bad food have changed it
+    from a Horse into an ass, which cannot be immediately reversed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif classification
+    is limited to broad wisdom/fable patterns supported by the text; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish historical contact, common inheritance, or a specific cross-textual comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2735-l2750
+  passage_sha256=9009f9817a7ea202729a13d0f2b52eae75d7355cca971320cfb6548f230a76e7
+

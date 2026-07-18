@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l1234-l1273
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    1234-1273
+  start: '1234'
+  end: '1273'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains a Sufi poetic code in which terms such as wine, tavern,
+    rose, beauty, and other images are said to carry mystical meanings known to the
+    initiated. It then cautions that Hafiz should not be read as wholly mystical or
+    wholly material, and summarizes his outlook as a search for a desired but uncertain
+    truth, ending with the image of the unknown secret of the veil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that poets writing with a double sense insist that their
+    words convey mighty secrets.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quoted writer says that wise men, sometimes called drunkards and sometimes
+    seers, use words such as wine, cup, cup-bearer, musician, magian, and Christian
+    girdle to express profound mysteries.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the symbols used by these writers are more or less
+    the same and form an accepted Sufi code known to the initiated.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hafiz is quoted as saying that only the nightingale knows the full worth of
+    the rose, while many read the leaf without understanding its meaning.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage defines the tavern as a place of instruction or worship, the tavern-keeper
+    as a teacher or priest, and wine as the spirit of divine knowledge poured out
+    for disciples.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The passage gives further symbolic equivalents: the idol is God; beauty is
+    divine perfection; shining locks are the expansion of divine glory; cheek-down
+    is a cloud of spirits around the throne; and a black mole is the point of indivisible
+    unity.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage cautions that almost every word in the mystical vocabulary has
+    a vague and shifting significance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes Hafiz as a forerunner rather than the founder of this
+    school of poets and says that a wholly mystical or wholly material interpretation
+    of his songs is unsatisfactory.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage summarizes Hafiz's philosophy as a search by different roads for
+    the little that can be desired with certainty, with compensations by the wayside
+    and an unresolved secret of the veil.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hafiz
+  description: A poet quoted in the passage and described as the forerunner rather
+    than the founder of a school of poets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: wise men called drunkards and seers
+  description: Figures described by a quoted writer as expressing profound mysteries
+    through coded words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the initiated
+  description: Those acquainted with the accepted Sufi code.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tavern-keeper
+  description: A symbolic figure defined in the passage as the teacher or priest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: disciples
+  description: Recipients for whom the wine, defined as divine knowledge, is poured
+    out.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: poet and forerunner
+  assigned_to:
+  - fig:1
+  basis: The passage quotes Hafiz and calls him the forerunner rather than the founder
+    of a school of poets.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: encoded speakers of mysteries
+  assigned_to:
+  - fig:2
+  basis: The quoted writer says these wise men express profound mysteries through
+    symbolic terms.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: knowers of the code
+  assigned_to:
+  - fig:3
+  basis: The passage says the initiated are acquainted with the accepted Sufi code.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: teacher or priest
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly equates the tavern-keeper with the teacher or priest.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipients of divine knowledge
+  assigned_to:
+  - fig:5
+  basis: Wine is described as the spirit of divine knowledge poured out for disciples.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: coded Sufi vocabulary
+  literal_form: wine, cup, cup-bearer, musician, magian, Christian girdle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nightingale and rose
+  literal_form: nightingale, rose, leaf
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tavern
+  literal_form: tavern
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tavern-keeper
+  literal_form: tavern-keeper
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wine as divine knowledge
+  literal_form: wine
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: idol as God
+  literal_form: idol
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: beauty as divine perfection
+  literal_form: beauty
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: shining locks as divine glory
+  literal_form: shining locks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: cheek-down as cloud of spirits
+  literal_form: down on the cheek
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: black mole as indivisible unity
+  literal_form: black mole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:11
+  label: road of search
+  literal_form: different road, search, wayside
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:12
+  label: veil with hidden secret
+  literal_form: veil
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Explanation of double-sense Sufi poetic code
+  summary: The passage describes writers who use shared symbolic terms to convey mysteries
+    and says that the initiated know this Sufi code.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dictionary of symbolic equivalents
+  summary: The passage lists several mystical meanings assigned to common poetic terms,
+    including tavern, tavern-keeper, wine, idol, beauty, locks, cheek-down, and black
+    mole.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Assessment of Hafiz and the search for truth
+  summary: The passage presents Hafiz as neither wholly mystical nor wholly material
+    in interpretation, and summarizes his outlook as a difficult search along different
+    roads toward a desired but uncertain truth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Initiated code of hidden wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes an accepted Sufi code known to the initiated and says
+    symbolic words convey profound mysteries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is explanatory prose rather than a mythic narrative, and the
+    code is described as literary-mystical symbolism.
+- id: motif:2
+  label: Divine knowledge poured as wine
+  taxonomy_refs:
+  - wisdom
+  basis: Wine is explicitly defined as the spirit of divine knowledge poured out for
+    disciples by the tavern-keeper, who is defined as teacher or priest.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives this as one item in a symbolic dictionary; it does not
+    narrate an episode of instruction.
+- id: motif:3
+  label: Mystical quest by different roads
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage summarizes Hafiz's philosophy as each person setting out in search
+    of the desired certainty along a different road, with toil and compensations along
+    the way.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is inferred from Bell's summary of Hafiz's outlook, not from
+    a discrete narrative plot.
+- id: motif:4
+  label: Hidden truth behind the veil
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage ends with the question of who knows the secret of the veil and
+    links it to limited certainty and larger hope.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The veil image is brief and not fully elaborated in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Hafiz as related to a broader Sufi poetic practice in
+    which shared symbols carry mystical meanings, while also cautioning that he should
+    not be read as wholly belonging to a purely mystical system.
+  claim_level: same_function
+  target: accepted Sufi code and school of double-sense poets
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The claim is limited to the passage's own literary comparison; it does
+    not establish historical transmission or a complete identity of doctrine.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1234-1240
+  quote_or_summary: Poets writing with a double sense insist on secrets; a quoted
+    writer says wise men called drunkards or seers use words such as wine, cup, cup-bearer,
+    musician, magian, and Christian girdle to express profound mysteries.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1241-1247
+  quote_or_summary: The passage says these writers use similar symbols in an accepted
+    Sufi code known to the initiated, and quotes Hafiz on the nightingale knowing
+    the rose while others read the leaf without understanding.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1248-1252
+  quote_or_summary: The tavern is defined as the place of instruction or worship;
+    the tavern-keeper as teacher or priest; and wine as the spirit of divine knowledge
+    poured out for disciples.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1252-1257
+  quote_or_summary: The passage equates the idol with God, beauty with divine perfection,
+    shining locks with the expansion of divine glory, cheek-down with the cloud of
+    spirits around the throne, and the black mole with indivisible unity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1258-1261
+  quote_or_summary: The passage says the symbolic catalogue could be extended and
+    that almost every word has a vague, shifting significance in mystical language.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1262-1268
+  quote_or_summary: Hafiz is described as a forerunner rather than founder of this
+    school; the passage says a wholly mystical or wholly material interpretation of
+    his songs is unsatisfactory and that he wrote of pleasure and religion.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1268-1273
+  quote_or_summary: Bell summarizes Hafiz's philosophy as a search for the little
+    that can be certain, pursued by each person along a different road, and closes
+    with the question of the secret of the veil and a larger hope.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is interpretive introduction rather than narrative myth. Symbolic
+    equivalents are explicit, while motif classification is more cautious and based
+    on the passage's own descriptions of Sufi code, wisdom, search, and veil imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs matched the passage's symbols; symbol taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l1234-l1273
+  passage_sha256=a779da0c6db914db7b870460252171825235d8737ed8159a80e946f7063527f7
+

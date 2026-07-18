@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4212-l4244
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXIX. / XCII. / XCIII. / XCIV.; lines 4212-4244
+  start: '4212'
+  end: '4244'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"And then and then came Spring, and Rose-in-hand / My thread-bare Penitence
+    apieces tore."'
+  summary: The passage presents two quatrains and their cited source parallels. In
+    the first, the speaker repeatedly vows repentance, but spring and roses undo penitence.
+    In the second, wine damages the speaker’s honor or reputation, yet is treated
+    as so precious that the speaker wonders what vintners could buy that is better
+    than what they sell.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he has often sworn repentance and asks whether he was sober
+    when he swore.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spring arrives with a rose in hand and tears the speaker’s threadbare Penitence
+    to pieces.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cited parallel for the first quatrain says the speaker daily resolves
+    to repent in the evening and to repent of the brimful goblet and cup.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited parallel says that the season of roses has come and includes an
+    appeal to the Lord about penitence and repentance in that season.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The second quatrain says wine has played the infidel and robbed the speaker
+    of his Robe of Honour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker wonders what vintners buy that is half as precious as the wine
+    they sell.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cited original for the second quatrain says wine has rent the speaker’s
+    veil of reputation and that the speaker will not be separated from wine while
+    he has a soul.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The cited original repeats the speaker’s perplexity about vintners and asks
+    what they can buy that is better than what they sell.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: First-person speaker
+  description: A speaker who vows repentance, is overcome by spring and wine, and
+    reflects on vintners.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Spring
+  description: Spring is personified as arriving with a rose in hand and tearing Penitence
+    apart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Wine
+  description: Wine is personified as playing the infidel, robbing the speaker of
+    honor, and rending the veil of reputation in the cited original.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Vintners
+  description: Wine sellers whose buying and selling are the subject of the speaker’s
+    question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Lord
+  description: An addressed figure in the cited parallel quatrain’s appeal, “O Lord.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Repentant speaker whose resolve fails
+  assigned_to:
+  - fig:1
+  basis: The speaker swears or resolves repentance, but spring, roses, goblet, cup,
+    and wine undo or challenge that resolve.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Personified seasonal disruptor
+  assigned_to:
+  - fig:2
+  basis: Spring appears with a rose and tears Penitence to pieces.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Personified agent and precious intoxicant
+  assigned_to:
+  - fig:3
+  basis: Wine acts against the speaker’s honor or reputation and is still described
+    as something from which the speaker will not be separated and as more precious
+    than what vintners could buy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Sellers in wine-value paradox
+  assigned_to:
+  - fig:4
+  basis: The speaker asks what vintners can buy that is better or half so precious
+    as what they sell.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Invoked addressee
+  assigned_to:
+  - fig:5
+  basis: The cited parallel includes an appeal addressed to the Lord.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Repentance or Penitence
+  literal_form: A vowed repentance and a personified threadbare Penitence torn to
+    pieces.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Spring and season of roses
+  literal_form: Spring with a rose in hand; the season of roses in the cited parallel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Rose
+  literal_form: A rose held by Spring and the roses of the season.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Wine, goblet, and cup
+  literal_form: Wine; a brimful goblet and cup; wine sold by vintners.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Robe of Honour and veil of reputation
+  literal_form: A robe of honor in the quatrain and a veil of reputation in the cited
+    original.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Repentance undone by spring and roses
+  summary: The speaker’s repeated repentance is questioned and then defeated when
+    spring arrives with roses; the cited parallel frames the same situation as repentance
+    from cup and goblet becoming impossible in the season of roses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wine, lost honor, and the vintner paradox
+  summary: Wine is said to have damaged the speaker’s honor or reputation, but the
+    speaker remains attached to it and asks what vintners could buy that is better
+    than the wine they sell.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Repentance vowed and overturned by rose season
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The speaker repeatedly vows repentance, but spring or the season of roses
+    brings the collapse or abandonment of penitence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses spring and roses as a seasonal trigger, but it does not
+    present a full seasonal cycle.
+- id: motif:2
+  label: Personified virtue defeated by seasonal pleasure
+  taxonomy_refs: []
+  basis: Penitence is personified as threadbare and torn apart by Spring arriving
+    with a rose.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a local poetic personification; broader mythic status is not established
+    by the passage alone.
+- id: motif:3
+  label: Wine as a precious force that defeats renunciation and reputation
+  taxonomy_refs: []
+  basis: Wine is linked to failed repentance, damage to honor or reputation, refusal
+    of separation, and extraordinary value in the vintner question.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage permits a poetic motif of wine’s power and value, but does
+    not explicitly define wine as a theological or esoteric symbol.
+- id: motif:4
+  label: Seller paradox about a supremely valuable good
+  taxonomy_refs: []
+  basis: The speaker asks what vintners could buy that is better or half so precious
+    as what they sell.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exchange is literal in wording; any sacred or mystical exchange reading
+    would require evidence beyond this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents quatrain XCIV as inspired by C. 431, and
+    both texts use the same pattern of repentance being abandoned when the season
+    of roses arrives.
+  claim_level: same_motif
+  target: C. 431 quatrain cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the cited translations and the editor’s
+    note supplied in the passage.
+- id: claim:2
+  claim: The passage explicitly presents quatrain XCV as based on O. 62, and both
+    texts share the pattern of wine damaging reputation or honor while remaining supremely
+    valued in the vintner question.
+  claim_level: same_motif
+  target: O. 62 quatrain cited in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the cited translation and source note;
+    no independent historical claim is made beyond the passage’s editorial statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: XCIV, opening quatrain; lines 4212-4217 in supplied range
+  quote_or_summary: The speaker says he often swore repentance, asks if he was sober
+    when he swore, and says Spring came “Rose-in-hand” and tore his “thread-bare Penitence”
+    to pieces.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: XCIV, cited C. 431 parallel and references; lines 4219-4228 in supplied
+    range
+  quote_or_summary: The note says the quatrain is inspired by C. 431. The cited parallel
+    says the speaker resolves daily to repent from the brimful goblet and cup, but
+    in the season of roses cannot grieve and addresses the Lord concerning penitence
+    and repentance.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XCV, opening quatrain; lines 4230-4235 in supplied range
+  quote_or_summary: The speaker says wine has played the infidel and robbed him of
+    his Robe of Honour, then wonders what vintners buy that is half as precious as
+    what they sell.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XCV, cited O. 62 original and references; lines 4237-4244 in supplied range
+  quote_or_summary: The note says the original is O. 62. The cited original says wine
+    has rent the speaker’s veil of reputation, the speaker will not be separated from
+    wine while alive, and asks what vintners can buy that is better than what they
+    sell.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear, but the supplied locator label appears to name different
+    quatrain numbers than the provided passage text, which contains XCIV and XCV.
+    Motif readings are kept close to the literal poetic content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy IDs were assigned because the literal symbols in the passage are wine, rose, goblet, cup, repentance, honor robe, and veil, not the listed symbols cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4212-l4244
+  passage_sha256=cdaa42491f5004cda0571fd4dc196e6e8fd259dc35e69295c947aedb66dd14c4
+

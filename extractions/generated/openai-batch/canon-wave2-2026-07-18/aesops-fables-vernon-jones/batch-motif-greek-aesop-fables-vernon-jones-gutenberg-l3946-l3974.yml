@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3946-l3974
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HERDSMAN AND THE LOST BULL / THE MULE / THE HOUND AND THE FOX / THE FATHER
+    AND HIS DAUGHTERS; lines 3946-3974
+  start: '3946'
+  end: '3974'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In one fable, a hound chases a lion in the forest but flees when the lion
+    turns and roars, and a fox mocks him. In another, a father visits two married
+    daughters: the gardener''s wife wants rain, while the potter''s wife wants dry
+    weather; the father recognizes the conflict and decides not to pray for either
+    wish.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hound roams in a forest, sees a lion, and gives chase because he thinks
+    the lion would make fine quarry.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion perceives that he is being pursued, stops, turns on the hound, and
+    roars loudly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hound immediately turns and runs away after the lion roars.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A fox sees the hound fleeing and verbally mocks him as a coward who ran when
+    the lion roared.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A man has two daughters, one married to a gardener and the other married to
+    a potter.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gardener's wife says things are generally well but wishes for heavy rain
+    because the garden needs it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The potter's wife says she and her husband have nothing to complain of but
+    wishes for dry weather to dry the pottery.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The father notes that one daughter wants dry weather and the other wants rain,
+    and says he had better not pray about the subject.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hound
+  description: A hound roaming in the forest who chases a lion and then flees after
+    the lion roars.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Lion
+  description: A lion who is pursued by the hound, then stops, turns on the pursuer,
+    and roars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Fox
+  description: A fox who observes the hound running away and mocks him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Father / Man
+  description: A man with two daughters who visits them, hears their opposing weather
+    wishes, and decides not to pray for them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Gardener's wife / first daughter
+  description: One daughter, married to a gardener, who wishes for heavy rain for
+    the garden.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Potter's wife / second daughter
+  description: One daughter, married to a potter, who wishes for dry weather to dry
+    pottery.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Gardener
+  description: The husband of one daughter; his household is associated with a garden
+    that needs rain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Potter
+  description: The husband of one daughter; his household is associated with pottery
+    that needs dry weather.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: overreaching pursuer
+  assigned_to:
+  - fig:1
+  basis: The hound chases a lion as quarry but flees as soon as the lion turns and
+    roars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dangerous quarry that reverses pursuit
+  assigned_to:
+  - fig:2
+  basis: The lion, initially pursued, turns on the hound and roars, causing the hound
+    to flee.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: mocking observer
+  assigned_to:
+  - fig:3
+  basis: The fox sees the hound fleeing and jeers at him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: parent weighing incompatible wishes
+  assigned_to:
+  - fig:4
+  basis: The father hears one daughter ask for rain and another ask for dry weather,
+    then declines to pray for both.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: rain-seeking garden household
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The gardener's wife says the garden badly wants heavy rain.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: dry-weather-seeking pottery household
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The potter's wife wants dry weather to dry the pottery.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lion's roar
+  literal_form: loud roar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rain / water
+  literal_form: good heavy rain
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dry weather
+  literal_form: nice dry weather
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: garden
+  literal_form: the garden
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: pottery
+  literal_form: the pottery
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: prayer
+  literal_form: prayers that the daughters' wishes should be granted
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hound pursues lion and flees
+  summary: A hound in the forest chases a lion, but when the lion turns and roars,
+    the hound runs away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fox mocks the fleeing hound
+  summary: A fox sees the hound fleeing and mocks him for chasing a lion but running
+    away when the lion roared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Father hears wish for rain
+  summary: The father visits the daughter married to a gardener, and she says she
+    wishes for heavy rain because the garden needs it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Father hears wish for dry weather
+  summary: The father visits the daughter married to a potter, and she says she wishes
+    for dry weather to dry the pottery.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:5
+  label: Father declines conflicting prayer
+  summary: The father recognizes that the daughters' wishes oppose each other and
+    decides not to include the matter in his prayers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: pursuer frightened by stronger quarry
+  taxonomy_refs: []
+  basis: The hound confidently pursues a lion but flees immediately when the lion
+    turns and roars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable-level behavioral pattern rather than a named taxonomy
+    motif from the supplied list.
+- id: motif:2
+  label: mockery of exposed cowardice
+  taxonomy_refs: []
+  basis: The fox mocks the hound for chasing the lion and running away at the first
+    roar.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage provides the mockery but no explicit moral statement beyond
+    the fox's speech.
+- id: motif:3
+  label: incompatible wishes within one family
+  taxonomy_refs: []
+  basis: One daughter wants rain for the garden while the other wants dry weather
+    for the pottery.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No broader comparative claim is made here; the motif is extracted from
+    the local fable structure.
+- id: motif:4
+  label: prudent refusal to ask for mutually exclusive favors
+  taxonomy_refs:
+  - wisdom
+  basis: The father realizes the daughters' wishes conflict and decides not to pray
+    for either weather outcome.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: THE HOUND AND THE FOX; lines 3946-3949
+  quote_or_summary: A hound roaming in the forest sees a lion and chases him, thinking
+    he would make good quarry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: THE HOUND AND THE FOX; lines 3949-3952
+  quote_or_summary: The lion notices the pursuit, stops, turns on the hound, roars
+    loudly, and the hound immediately flees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: THE HOUND AND THE FOX; lines 3952-3955
+  quote_or_summary: 'The fox says: "There goes the coward who chased a lion and ran
+    away the moment he roared!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote used.
+- id: ev:4
+  type: summary
+  locator: THE FATHER AND HIS DAUGHTERS; lines 3957-3962
+  quote_or_summary: A man has two daughters, one married to a gardener and one to
+    a potter, and he goes to see how they are doing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: THE FATHER AND HIS DAUGHTERS; lines 3962-3966
+  quote_or_summary: The gardener's wife says they are doing well but wishes for "some
+    good heavy rain" because "the garden wants it badly."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote used.
+- id: ev:6
+  type: quote
+  locator: THE FATHER AND HIS DAUGHTERS; lines 3966-3970
+  quote_or_summary: The potter's wife wishes for "some nice dry weather, to dry the
+    pottery."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote used.
+- id: ev:7
+  type: quote
+  locator: THE FATHER AND HIS DAUGHTERS; lines 3970-3974
+  quote_or_summary: The father says one daughter wants dry weather and the other wants
+    rain, so he had better not refer to the subject in his prayers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise paraphrase with short quoted terms.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions and require human review; no cross-text comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. The supplied locator label references a broader range, but the provided passage text contains two fables.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3946-l3974
+  passage_sha256=335fd3ea0346111fe639c0cea44bdef06631b2a4a8bc6562c7c34df7c5521c80
+

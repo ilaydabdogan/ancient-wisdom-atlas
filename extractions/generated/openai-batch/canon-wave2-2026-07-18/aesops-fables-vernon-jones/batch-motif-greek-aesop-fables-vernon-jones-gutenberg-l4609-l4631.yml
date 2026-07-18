@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4609-l4631
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLVES, THE SHEEP, AND THE RAM / THE SWAN / THE SNAKE AND JUPITER / THE
+    WOLF AND HIS SHADOW; lines 4609-4631
+  start: '4609'
+  end: '4631'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents two fables. In the first, a snake complains to Jupiter
+    about being trodden on, and Jupiter says that biting the first trampler would
+    have made others more careful. In the second, a wolf is impressed by his enlarged
+    shadow at sunset, imagines himself superior to a lion, and is then attacked and
+    devoured by a lion; the wolf recognizes that fancies rather than facts caused
+    his ruin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A snake is repeatedly trodden upon by humans and beasts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snake's risk is attributed partly to the length of his body and partly
+    to his inability to raise himself above the ground.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The snake complains to Jupiter about the risks to which he is exposed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Jupiter shows little sympathy and says that biting the first being who trod
+    on the snake would have made others more careful.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wolf roams on a plain when the sun is low in the sky.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wolf is impressed by the size of his shadow and says he should not fear
+    a lion.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolf says that he, rather than the lion, ought to be king of the beasts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The wolf struts about heedless of danger.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A lion springs upon the wolf and begins to devour him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The wolf says that losing sight of facts caused him to be ruined by his fancies.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Snake
+  description: A snake with a long body who cannot raise himself above the ground
+    and is frequently trodden upon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jupiter
+  description: The deity to whom the snake complains; he responds with advice rather
+    than sympathy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Humans and beasts
+  description: Generic passers-by who tread upon the snake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Wolf
+  description: A wolf who overestimates himself after seeing the size of his shadow
+    and is devoured by a lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Lion
+  description: A lion feared by the wolf and later the animal who springs upon and
+    devours him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: injured petitioner
+  assigned_to:
+  - fig:1
+  basis: The snake suffers repeated trampling and complains to Jupiter about the danger.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine adviser
+  assigned_to:
+  - fig:2
+  basis: Jupiter answers the snake's complaint with advice about biting the first
+    trampler.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: trampling passers-by
+  assigned_to:
+  - fig:3
+  basis: Humans and beasts are described as treading upon the snake.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: self-misled boaster
+  assigned_to:
+  - fig:4
+  basis: The wolf treats his enlarged shadow as proof of greatness, boasts about being
+    greater than a lion, and then recognizes his error.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: attacking predator
+  assigned_to:
+  - fig:5
+  basis: The lion springs upon the wolf and begins to devour him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Enlarged shadow
+  literal_form: The wolf's shadow enlarged by the low sun
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Snake petitions Jupiter
+  summary: A snake who is often trodden on complains to Jupiter; Jupiter replies that
+    an early bite would have taught others to watch their steps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wolf ruined by enlarged shadow
+  summary: A wolf sees his large shadow at sunset, boasts that he should be king over
+    the lion, struts heedlessly, and is then attacked and devoured by a lion.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Serpent seeks divine response to vulnerability
+  taxonomy_refs:
+  - serpent
+  basis: The central figure of the first fable is a snake who complains to Jupiter
+    about being repeatedly trodden upon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage uses a snake as a fable character
+    rather than elaborating a larger serpent myth.
+- id: motif:2
+  label: Retaliation as deterrent counsel
+  taxonomy_refs: []
+  basis: Jupiter tells the snake that biting the first trampler would have caused
+    later passers-by to watch their feet.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is extracted as a local fable pattern, not as a named external motif.
+- id: motif:3
+  label: False greatness from a magnified shadow
+  taxonomy_refs: []
+  basis: The wolf interprets his enlarged shadow as evidence that he is greater than
+    a lion and should be king of the beasts.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No external taxonomy reference is supplied for this motif.
+- id: motif:4
+  label: Fancies overpower facts and lead to ruin
+  taxonomy_refs:
+  - wisdom
+  basis: After being attacked by the lion, the wolf says he was ruined because he
+    lost sight of facts and followed his fancies.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad and reflects the fable's explicit
+    lesson rather than a specific named mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4609-4616
+  quote_or_summary: The first fable describes a snake who is frequently trodden upon
+    by humans and beasts because of his long body and inability to rise above the
+    ground; he complains to Jupiter about the danger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata marks full text use as allowed.
+- id: ev:2
+  type: summary
+  locator: lines 4616-4619
+  quote_or_summary: Jupiter has little sympathy and replies that if the snake had
+    bitten the first being who stepped on him, others would have been more careful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata marks full text use as allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4621-4628
+  quote_or_summary: The second fable describes a wolf roaming on a plain at low sun,
+    seeing his large shadow, and imagining himself too great to fear a lion and fit
+    to be king of the beasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata marks full text use as allowed.
+- id: ev:4
+  type: summary
+  locator: lines 4628-4631
+  quote_or_summary: A lion springs upon the wolf and begins to devour him; the wolf
+    laments that losing sight of facts caused him to be ruined by his fancies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata marks full text use as allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are local
+    and cautious; no comparison claims are made because the passage itself does not
+    support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text and metadata. The passage locator label names additional fables, but only the two fables present in the supplied passage text were extracted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4609-l4631
+  passage_sha256=5a0c9faccb342cf6195e30df2a5fbfcbb4daee19da9394d7bcda8f2b7f55b0bf
+

@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3397-l3409
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TWO FROGS / THE COBBLER TURNED DOCTOR / THE ASS, THE COCK, AND THE LION
+    / THE BELLY AND THE MEMBERS; lines 3397-3409
+  start: '3397'
+  end: '3409'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The Members of the Body once rebelled against the Belly.
+  summary: The body’s members accuse the belly of idleness and refuse to serve it.
+    After they leave the belly to starve, the whole body weakens, the members share
+    in the collapse, and they recognize too late that their rebellion was foolish.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Members of the Body rebel against the Belly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Members address the Belly directly and accuse it of living in luxury and
+    sloth without working.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Members say they do hard work, act as slaves, and minister to the Belly’s
+    wants.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Members declare that they will no longer serve the Belly and that it must
+    shift for itself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Members act on their declaration and leave the Belly to starve.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the Belly is left to starve, the whole Body begins to fail.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Members share in the general collapse of the Body.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Members realize too late that they had been foolish.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Members of the Body
+  description: Anthropomorphized body members who rebel, speak against the Belly,
+    stop serving it, and later share in the Body’s collapse.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Belly
+  description: Anthropomorphized body part accused by the Members of living in luxury
+    and sloth; it is left to starve.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Whole Body
+  description: The collective body that begins to fail after the Belly is left to
+    starve.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: rebelling speakers
+  assigned_to:
+  - fig:1
+  basis: The Members rebel against the Belly and speak accusations and a refusal of
+    service.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: accused dependent recipient
+  assigned_to:
+  - fig:2
+  basis: The Belly is accused of receiving service while doing no work and is then
+    left to starve.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: participants in collapse
+  assigned_to:
+  - fig:1
+  basis: The Members share in the general collapse after the whole Body begins to
+    fail.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: collective body affected by internal conflict
+  assigned_to:
+  - fig:3
+  basis: The whole Body begins to fail after the Belly is deprived.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: belly
+  literal_form: Belly as an anthropomorphized body part
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: body members
+  literal_form: Members of the Body as anthropomorphized parts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: whole body
+  literal_form: Whole Body affected by the Members’ action toward the Belly
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rebellion and accusation
+  summary: The Members of the Body rebel against the Belly and accuse it of idleness
+    while they perform labor and service.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Refusal of service
+  summary: The Members announce that they will no longer minister to the Belly and
+    then leave it to starve.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Collapse and recognition
+  summary: The whole Body begins to fail; the Members share in the collapse and realize
+    too late that their action was foolish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: rebellious body parts learn mutual dependence
+  taxonomy_refs:
+  - wisdom
+  basis: The Members rebel against the Belly, stop serving it, and suffer collapse
+    with the whole Body, leading to a late recognition of folly.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no specific “body politic” or “interdependence”
+    category; the “wisdom” reference is broad and based on the explicit recognition
+    of foolishness.
+- id: motif:2
+  label: anthropomorphized body as social order
+  taxonomy_refs: []
+  basis: Distinct parts of the Body speak and act as social agents in a conflict over
+    labor, service, and dependence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a descriptive motif candidate from the passage; no supplied taxonomy
+    reference directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '3399'
+  quote_or_summary: "“The Members of the Body once rebelled against the Belly.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 3399-3403
+  quote_or_summary: The Members tell the Belly that it lives in luxury and sloth,
+    does no work, while they do hard work, act as slaves, and minister to its wants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: 3403-3404
+  quote_or_summary: "“Now, we will do so no longer, and you can shift for yourself
+    for the future.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 3404-3405
+  quote_or_summary: The Members keep their word and leave the Belly to starve.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 3405-3407
+  quote_or_summary: The whole Body begins to fail, and the Members and all share in
+    the general collapse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: quote
+  locator: 3407-3409
+  quote_or_summary: "“And then they saw too late how foolish they had been.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit. Motif labels are passage-derived; only
+    the broad taxonomy reference “wisdom” is used, and no comparison claims are made
+    because the passage itself does not supply an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line subranges are inferred from the supplied stable range and passage formatting.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3397-l3409
+  passage_sha256=5403e7a08580d541881a7341aad3c37e85eb1f5eefff5cae957e805c19291b6e
+

@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3389-l3500
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 3389-3500
+  start: '3389'
+  end: '3500'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A jealous stepmother complains about her stepdaughter, decides to drive
+    her from the house, and tells her husband that the girl is using image-magic to
+    kill her. The father doubts the accusation but investigates. The daughter, who
+    has actually been withdrawing to look into a mirror and remember her dead mother,
+    hides the mirror when her father enters. Misreading her behavior, he angrily questions
+    her about cursing her stepmother; she does not understand the accusation and tries
+    to clear herself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The stepmother complains about the stepdaughter, but the father takes no notice
+    and becomes more concerned for his daughter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman begins thinking about how to drive her stepchild out of the house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After watching the girl, the woman tells her husband she wants permission
+    to leave because she says her life is in danger.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman says the daughter has shut herself in her room and claims she has
+    made an image of the stepmother and curses it daily to kill her by magic art.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The father knows of a popular belief that making and cursing an image of a
+    hated person can cause that person’s gradual death, but he initially cannot believe
+    his daughter guilty.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The father decides to go to his daughter’s room to find out the truth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The daughter has been unhappy, has tried to be amiable and obedient, and believes
+    the stepmother mistrusts her and carries unkind and untrue tales to her father.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Morning and evening, the daughter goes to her room, closes the screens, takes
+    out a mirror, and gazes at it as though at her mother’s face.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When her father enters, the daughter is confused at being found looking at
+    the mirror and slips it into her long sleeve.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The father asks if she is cursing her stepmother and praying for her death;
+    the daughter has never heard of the superstition and prepares to explain herself.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: stepmother / new wife / woman
+  description: The father’s wife complains of the stepdaughter, seeks to drive her
+    out, and accuses her of image-magic against herself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: father / husband
+  description: The man hears his wife’s accusation, doubts and weighs it, goes to
+    investigate, and confronts his daughter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: daughter / stepdaughter / girl
+  description: The lonely child is accused of cursing her stepmother; she has actually
+    been grieving privately and gazing into a mirror associated with her mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: deceased mother
+  description: The daughter’s own mother is remembered as having been alive a little
+    more than a year earlier; the daughter gazes into the mirror as though at her
+    mother’s face and keeps her mother’s last promise secret.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: accusing step-parent
+  assigned_to:
+  - fig:1
+  basis: The woman seeks to drive out the stepchild and tells the father that the
+    daughter is trying to kill her by magic.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: parental investigator and judge
+  assigned_to:
+  - fig:2
+  basis: The father is torn between wife and child, goes to find the truth, and questions
+    the daughter severely.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: accused grieving child
+  assigned_to:
+  - fig:3
+  basis: The girl is accused of image-cursing but is described as unhappy, obedient,
+    grieving for her mother, and ignorant of the superstition.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:4
+  label: remembered dead mother
+  assigned_to:
+  - fig:4
+  basis: The daughter remembers her own mother and gazes into the mirror as though
+    at her mother’s face.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: The mirror the daughter takes out in private, gazes into as though
+    seeing her mother’s face, and hides in her sleeve.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: image used for alleged death-magic
+  literal_form: An alleged image of the stepmother, said to be cursed daily to cause
+    her death by magic art.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: secluded room and closed screens
+  literal_form: The daughter’s room, with screens slid closed, where she withdraws
+    morning and evening.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Stepmother’s resentment and plan
+  summary: The stepmother complains about the girl, sees that the father is more concerned
+    for his daughter, and begins considering how to drive the stepchild out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accusation of image-magic
+  summary: The stepmother tells her husband that she must leave because the daughter
+    has shut herself away and is trying to kill her by cursing an image.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Father weighs the tale and investigates
+  summary: The father doubts that his daughter is guilty but recalls the belief in
+    image-cursing and goes quietly to her room to find the truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Daughter’s private grief with the mirror
+  summary: The daughter withdraws to her room, closes the screens, and looks into
+    the mirror as a comfort connected with the memory of her dead mother.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Discovery, concealment, and confrontation
+  summary: The father enters, sees the girl bending over the mirror, notices her hide
+    it, and accuses her of cursing her stepmother; the girl does not know the superstition
+    and tries to answer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Persecuted stepchild and hostile step-parent
+  taxonomy_refs: []
+  basis: The stepmother complains, plans to drive the stepchild out, mistrusts her,
+    and carries unkind and untrue tales to the father.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage presents one episode within a longer tale; the full outcome
+    is outside this extract.
+- id: motif:2
+  label: False accusation of harmful image-magic
+  taxonomy_refs: []
+  basis: The stepmother claims the daughter made an image and curses it daily to kill
+    her, while later evidence says the girl has never heard of the superstition.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The harmful magic is alleged, not performed in the passage.
+- id: motif:3
+  label: Mirror as link to deceased mother
+  taxonomy_refs: []
+  basis: The daughter privately looks into a mirror as though at her mother’s face
+    and treats her mother’s last promise as a sacred secret.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage states the daughter’s perception and comfort, but does not
+    explain the mother’s promise within this excerpt.
+- id: motif:4
+  label: Hidden innocent object mistaken for guilt
+  taxonomy_refs: []
+  basis: The daughter hides the mirror from embarrassment, and the father interprets
+    her confusion and concealment as supporting the accusation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The misinterpretation is strongly suggested by sequence, but the passage
+    ends before the daughter’s explanation is given.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the accusation to a broader belief pattern in
+    which a person can cause another’s death by making and cursing an image of the
+    hated person.
+  claim_level: same_function
+  target: sympathetic image-cursing / harmful image-magic belief pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names the belief as popular superstition but provides no
+    external examples or historical transmission evidence.
+- id: claim:2
+  claim: The daughter’s situation is framed within a broader step-parent and step-child
+    conflict pattern, since the narration refers to a general wall of prejudice and
+    misunderstanding between step-parents and step-children.
+  claim_level: same_motif
+  target: persecuted stepchild / hostile step-parent narrative pattern
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the passage’s internal generalization;
+    no specific outside tale or corpus is cited.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3389-3397
+  quote_or_summary: The woman complains about her stepdaughter; the father ignores
+    the complaints and grows more concerned for his child; the woman considers how
+    to drive the child out.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 3399-3418
+  quote_or_summary: The woman watches the girl, thinks she has found a grave sin,
+    uses false tears, and tells her husband she must leave because her life is in
+    danger.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: 3425-3431
+  quote_or_summary: "“she has made an image of me and is trying to kill me by magic
+    art, cursing me daily.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: 3433-3442
+  quote_or_summary: The father doubts his gentle daughter is guilty, but knows the
+    popular superstition that a person can cause another’s gradual death by making
+    and cursing an image of the hated one; he recalls his daughter’s seclusion.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 3444-3448
+  quote_or_summary: The father is torn between doubting his wife and trusting his
+    child, and decides to go to his daughter’s room to find out the truth.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 3450-3463
+  quote_or_summary: The daughter has been unhappy, tries obedience and amiability,
+    finds the stepmother mistrustful, remembers her dead mother, and privately takes
+    out the mirror to gaze as though at her mother’s face.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 3465-3476
+  quote_or_summary: The father enters through the fusama, sees the girl bending over
+    something, and she hides the mirror in her sleeve because she has kept her mother’s
+    last promise secret; he asks what she has hidden.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 3478-3494
+  quote_or_summary: The girl is frightened and silent; the father, thinking appearances
+    support his wife’s story, asks whether she is cursing her stepmother and praying
+    for her death.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: 3496-3500
+  quote_or_summary: The girl has never heard of the superstition that praying over
+    an image can cause a hated person’s death; she wishes to clear herself and puts
+    her hand on her father’s knee.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the figure, object, and scene extraction. Motif
+    and comparison labels are cautious because the extract ends before the daughter’s
+    explanation and gives only internal references to broader belief or family-conflict
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy symbols did not include mirror or image, so symbol taxonomy references were left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3389-l3500
+  passage_sha256=4907cde5abfdd2bb0ee6a1bd045040783c7b0524acaae10d6fe564d73b51d83f
+

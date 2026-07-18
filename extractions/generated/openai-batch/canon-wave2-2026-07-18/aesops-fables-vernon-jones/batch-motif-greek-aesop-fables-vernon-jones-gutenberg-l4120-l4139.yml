@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4120-l4139
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FROGS AND THE WELL / THE CRAB AND THE FOX / THE FOX AND THE GRASSHOPPER
+    / THE FARMER, HIS BOY, AND THE ROOKS; lines 4120-4139
+  start: '4120'
+  end: '4139'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“They have a way of saying one thing and meaning another”"
+  summary: A farmer guards a newly sown wheat field from rooks and starlings. The
+    birds at first flee whenever the farmer asks his boy for the sling, but the farmer
+    substitutes the coded word “humph,” allowing him to strike several birds with
+    stones. A rook later warns cranes not to approach men because men say one thing
+    while meaning another.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A farmer has sown a field of wheat and watches it because rooks and starlings
+    repeatedly settle on it and eat the grain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer’s boy accompanies him while carrying a sling.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the farmer asks for the sling, the starlings understand the word, warn
+    the rooks, and the birds leave quickly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The farmer decides to use the word “humph” instead of “sling” and tells the
+    boy to hand him the sling when he says it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the flock returns, the farmer says “Humph,” the starlings do not react,
+    and he slings stones that hit several birds before they escape.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A rook tells cranes to avoid men, explaining that men say one thing and mean
+    another and that this caused the death of several of their friends.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer who has sown a wheat field, keeps watch over it, and devises
+    a verbal trick to use the sling against the birds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Boy
+  description: The farmer’s boy, who goes with him and carries the sling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Rooks
+  description: Birds that eat the grain, are warned by starlings, suffer losses from
+    the farmer’s stones, and later warn cranes about men.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Starlings
+  description: Birds that eat the grain, understand the farmer’s initial request for
+    the sling, warn the rooks, and fail to react to the coded word “humph.”
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Cranes
+  description: Birds who meet the fleeing rooks and ask what the matter is.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Cultivator and field watcher
+  assigned_to:
+  - fig:1
+  basis: The farmer has just sown wheat and is keeping careful watch over the field.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: User of a verbal trick
+  assigned_to:
+  - fig:1
+  basis: The farmer decides to say “humph” instead of “sling,” then uses the delay
+    to shoot stones at the birds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Assistant carrying the sling
+  assigned_to:
+  - fig:2
+  basis: The boy accompanies the farmer carrying a sling and is instructed to hand
+    it over at the coded word.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Grain-eating birds
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Rooks and starlings repeatedly settle on the wheat field and eat the grain.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Birds who warn others after harm
+  assigned_to:
+  - fig:3
+  basis: A rook warns cranes not to go near men after several birds have been killed.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Interpreters of human speech
+  assigned_to:
+  - fig:4
+  basis: The starlings understand the farmer when he asks for the sling and warn the
+    rooks.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Inquirers receiving warning
+  assigned_to:
+  - fig:5
+  basis: The cranes ask the fleeing birds what the matter is and receive the warning
+    about men.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Wheat field and grain
+  literal_form: A newly sown field of wheat and its grain
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sling and stones
+  literal_form: A sling carried by the boy and stones slung by the farmer
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Coded utterance
+  literal_form: The farmer’s word “humph” used in place of “sling”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Birds exploit the spoken cue
+  summary: The farmer watches his sown wheat field while rooks and starlings eat the
+    grain. The boy carries a sling, but the birds escape whenever the farmer asks
+    for it because the starlings understand the request.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The farmer changes the cue
+  summary: The farmer instructs his boy to respond to “humph” instead of “sling.”
+    When the flock returns, the birds do not react to the coded word, and the farmer
+    strikes several with stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rook warns cranes about men
+  summary: The fleeing birds meet cranes, and a rook warns them not to approach men
+    because men say one thing and mean another.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Coded speech used as a trick
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The farmer deliberately replaces the word “sling” with “humph,” defeating
+    the birds’ previous ability to escape when they heard the expected word.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a practical trick
+    rather than a supernatural or liminal trickster figure.
+- id: motif:2
+  label: Animals understand and misread human speech
+  taxonomy_refs: []
+  basis: The starlings understand the farmer’s ordinary request for the sling, but
+    do not understand the coded substitution, leading to harm among the flock.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a fable pattern within the supplied passage; no external animal-speech
+    taxonomy reference is provided.
+- id: motif:3
+  label: Warning based on harmful experience
+  taxonomy_refs:
+  - wisdom
+  basis: After several birds are killed, a rook warns cranes not to approach men and
+    states the lesson that men say one thing while meaning another.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wisdom taxonomy reference is general; the passage gives the warning
+    through animal speech rather than through an explicit separate moral sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4120-4124
+  quote_or_summary: "“A Farmer had just sown a field of wheat” and rooks and starlings
+    kept “settling on it and eating up the grain.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 4124-4128
+  quote_or_summary: The boy carries a sling; when the farmer asks for it, “the starlings
+    understood what he said and warned the Rooks.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 4128-4132
+  quote_or_summary: The farmer says he will not say “sling” but “just ‘humph!’” and
+    the boy must then hand him the sling quickly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 4132-4135
+  quote_or_summary: When the flock returns, the farmer says “Humph”; the starlings
+    take no notice, and he slings stones that hit birds on the head, legs, and wing
+    before they get out of range.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:5
+  type: quote
+  locator: 4135-4139
+  quote_or_summary: 'A rook warns cranes: “Don’t you go near them”; men have “a way
+    of saying one thing and meaning another,” which caused the death of several friends.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    cautious because the available taxonomy is broad and no external comparisons are
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol such as cave, fire, milk, mountain, serpent, tree, or water appears in the passage. Extraction is restricted to the provided passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4120-l4139
+  passage_sha256=ee079bfbde7e41ac118c80c79b7044adf0af36d394a79aa5a2a609600b003a20
+

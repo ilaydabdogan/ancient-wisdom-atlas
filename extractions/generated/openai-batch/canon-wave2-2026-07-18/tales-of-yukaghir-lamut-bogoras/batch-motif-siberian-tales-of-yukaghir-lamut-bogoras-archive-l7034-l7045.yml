@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l7034-l7045
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: III.  KOLYMA  TALES. / F.  B. / W.  B. / V.  MARKOVA  TALES.; lines 7034-7045
+  start: '7034'
+  end: '7045'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman driving a sledge is approached first by a wolverene and then by
+    a bear, each asking to ride. She tells each to sit on the sledge stanchion using
+    an insulting formula. The bear sits down and breaks the sledge. The old woman
+    asks for wood to repair it, and the arctic fox brings a rotten log, which she
+    rejects. A note says the Russian version is rhymed prose and differs from usual
+    European Russian rhymed versions of the latter half of the tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female traveler continues driving.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wolverene jumps up and asks the woman, addressed as granny, to take him
+    along on her sledge.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman tells the wolverene to sit on the stanchion using an insulting formula.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A bear jumps up and makes the same request to be taken along on the sledge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman gives the bear the same instruction to sit on the stanchion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The bear sits on the sledge, and the sledge breaks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The old woman asks for wood so that she can repair the sledge.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The arctic fox fetches a rotten log, which the old woman says is good for
+    nothing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: An editorial note states that the Russian text is rhymed prose and differs
+    somewhat from usual rhymed versions of the latter half of the tale known in European
+    Russia.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: old woman / granny
+  description: The woman driving the sledge; the animals address her as granny. She
+    gives seating instructions, says she will repair the broken sledge, and rejects
+    the rotten log.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: wolverene
+  description: An animal that jumps up and asks to be taken along on the old woman's
+    sledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bear
+  description: An animal that jumps up, asks to be taken along on the sledge, sits
+    down, and breaks the sledge.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: arctic fox
+  description: An animal that goes to fetch wood and brings back a rotten log.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sledge driver
+  assigned_to:
+  - fig:1
+  basis: The passage begins with the woman driving on.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: granny-addressed elder
+  assigned_to:
+  - fig:1
+  basis: The wolverene and bear address her as granny.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: animal ride requester
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both the wolverene and the bear ask to be taken along on the old woman's
+    sledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: sledge-breaking passenger
+  assigned_to:
+  - fig:3
+  basis: The bear sits down on the sledge and it breaks.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wood-fetching helper
+  assigned_to:
+  - fig:4
+  basis: The arctic fox goes and fetches a rotten log after the old woman asks for
+    wood.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: would-be repairer
+  assigned_to:
+  - fig:1
+  basis: The old woman says she will repair the broken sledge.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sledge
+  literal_form: sledge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: stanchion
+  literal_form: stanchion on the sledge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: repair wood
+  literal_form: wood requested for sledge repair
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: rotten log
+  literal_form: rotten log fetched by the arctic fox
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wolverene asks to ride
+  summary: As the woman drives on, a wolverene jumps up, asks to ride on the sledge,
+    and is told to sit on the stanchion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bear breaks the sledge
+  summary: A bear asks to ride, receives the same seating instruction, sits on the
+    sledge, and breaks it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rotten log for repair
+  summary: The old woman asks for wood to repair the sledge; the arctic fox fetches
+    a rotten log, which she rejects as useless.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Repeated animal request for transport
+  taxonomy_refs: []
+  basis: Two animals in sequence jump up and ask the old woman to take them along
+    on her sledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage excerpt shows only two repetitions and does not provide the
+    full tale structure.
+- id: motif:2
+  label: Animal passenger breaks vehicle
+  taxonomy_refs: []
+  basis: The bear sits on the sledge and the sledge breaks.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No wider symbolic or ritual meaning is stated in the passage.
+- id: motif:3
+  label: Failed repair material
+  taxonomy_refs: []
+  basis: After the sledge breaks, the old woman asks for wood to repair it, but the
+    arctic fox brings a rotten log that she rejects.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The arctic fox's intent is not explained in this excerpt.
+- id: motif:4
+  label: Rhymed-prose variant of a tale segment
+  taxonomy_refs: []
+  basis: The note states that the Russian text is rhymed prose and differs from usual
+    rhymed versions of the latter half of the tale known in European Russia.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides no details of the other versions beyond the note.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly relates this Russian rhymed-prose version to usual rhymed
+    versions of the latter half of the same tale known in European Russia, while also
+    saying this version differs somewhat from them.
+  claim_level: linguistic_similarity
+  target: usual rhymed versions of the latter half of the tale known in European Russia
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not give the European Russian text, specify shared
+    incidents, or establish transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7034-7036
+  quote_or_summary: The woman drives on; a wolverene jumps up, asks granny to take
+    him on her sledge, and is told to sit on the stanchion with an insult.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7037-7041
+  quote_or_summary: A bear jumps up, asks to be taken along on the sledge, receives
+    the same instruction, sits down, and breaks the sledge.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7041-7043
+  quote_or_summary: The old woman asks for wood to repair the sledge; the arctic fox
+    fetches a rotten log, which she says is good for nothing.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7044-7045
+  quote_or_summary: A note says that in Russian this passage is rhymed prose and that
+    this rhymed version differs somewhat from usual rhymed versions of the latter
+    half of the tale known in European Russia.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward for the supplied lines. Motif labels
+    are passage-level descriptive patterns without taxonomy assignments. The only
+    comparison claim is limited to the explicit editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not directly support one from the supplied lists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l7034-l7045
+  passage_sha256=21299ff889fdcdc9f2c7e23808762cf2fc4578e5a19ed3d5e4e55785325be643
+

@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l63-l89
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: Jataka tales; lines 63-89
+  start: '63'
+  end: '89'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is front matter for Jataka Tales: it gives the title, identifies
+    Ellen C. Babbitt as reteller and Ellsworth Young as illustrator, lists New York
+    and The Century Co. with 1912 publication and copyright details, and dedicates
+    the book to DOT.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the title as Jataka Tales.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ellen C. Babbitt is identified as the person who re-told the work.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ellsworth Young is identified as providing illustrations.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists New York, The Century Co., and 1912 as publication information.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The copyright notice states copyright in 1912 by The Century Co., and notes
+    publication in September 1912.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The work is dedicated to DOT.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ellen C. Babbitt
+  description: Named in the front matter as the person by whom the tales are re-told.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ellsworth Young
+  description: Named in the front matter as the illustrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Century Co.
+  description: Named in the front matter as publisher and copyright holder.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: DOT
+  description: Named as the dedicatee.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reteller
+  assigned_to:
+  - fig:1
+  basis: The front matter says the tales are re-told by Ellen C. Babbitt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: illustrator
+  assigned_to:
+  - fig:2
+  basis: The front matter says the book has illustrations by Ellsworth Young.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: publisher
+  assigned_to:
+  - fig:3
+  basis: The front matter lists The Century Co. with New York and the year 1912.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: copyright holder
+  assigned_to:
+  - fig:3
+  basis: The copyright notice names The Century Co.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: dedicatee
+  assigned_to:
+  - fig:4
+  basis: The dedication is addressed to DOT.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Front matter title and credits
+  summary: The front matter identifies the book title, reteller, illustrator, publication
+    information, copyright statement, and dedication.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 63-73
+  quote_or_summary: "“Jataka Tales” is presented as the title, followed by “Re-told
+    by Ellen C. Babbitt.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 75-81
+  quote_or_summary: The front matter credits illustrations to Ellsworth Young and
+    lists New York, The Century Co., and 1912.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 83-85
+  quote_or_summary: The copyright notice gives 1912 by The Century Co. and notes publication
+    in September 1912.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 87-89
+  quote_or_summary: The dedication reads “Dedicated / to / DOT.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This line range is paratextual front matter rather than a narrative passage.
+    No passage-level mythic symbols, narrative motifs, or comparison claims are supported
+    by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were applied because the passage contains publication and dedication information only.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l63-l89
+  passage_sha256=d89fee497792bb4b0f3f0873ec47ce53a8c49a4663f4039f70122a659524d6af
+

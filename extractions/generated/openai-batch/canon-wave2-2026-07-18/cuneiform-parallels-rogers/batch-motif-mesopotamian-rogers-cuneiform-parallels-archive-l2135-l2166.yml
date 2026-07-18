@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l2135-l2166
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  11 / THE  STORY  OF  CREATION  13 / THE  STORY  OF  CREATION  15
+    / THE    THIRD    TABLET; lines 2135-2166
+  start: '2135'
+  end: '2166'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: For  Marduk  their  avenger,  let  them  decree  destiny
+  summary: Anshar speaks to Gaga, his minister, and sends him to Lakhmu and Lakhamu.
+    Gaga is to bring the gods together for a feast and banquet where they eat bread,
+    mingle wine, and decree destiny for Marduk, called their avenger. The following
+    transliterated Akkadian lines include the name Tiamat.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Anshar opens his mouth and speaks to Gaga.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gaga is identified as Anshar's minister.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Anshar says he will send Gaga to Lakhmu and Lakhamu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gods are to be brought before Anshar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The gods are told to prepare for a feast or banquet, sit, eat bread, and mingle
+    wine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The gods are to decree destiny for Marduk, who is called their avenger.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The transliterated Akkadian block includes the name Ti-amat.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anshar
+  description: Speaker who addresses Gaga and sends him to Lakhmu and Lakhamu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Gaga
+  description: Anshar's minister, addressed directly and sent on a mission.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lakhmu
+  description: Named as one of the figures to whom Gaga is sent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lakhamu
+  description: Named as one of the figures to whom Gaga is sent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the gods
+  description: The gathered gods are to be brought before Anshar, sit at a banquet,
+    eat and drink, and decree destiny for Marduk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Marduk
+  description: Called the gods' avenger; the gods are to decree destiny for him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Tiamat
+  description: Named in the transliterated Akkadian portion as Ti-amat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker and sender
+  assigned_to:
+  - fig:1
+  basis: Anshar opens his mouth, speaks to Gaga, and says he will send him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: minister and dispatched messenger
+  assigned_to:
+  - fig:2
+  basis: Gaga is called Anshar's minister and is instructed to go and stand before
+    others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: recipients of messenger mission
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Anshar says Gaga will be sent to Lakhmu and Lakhamu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine assembly and banquet participants
+  assigned_to:
+  - fig:5
+  basis: The gods are to be gathered, sit at a banquet, eat bread, mingle wine, and
+    decree destiny.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: avenger receiving decreed destiny
+  assigned_to:
+  - fig:6
+  basis: Marduk is called the gods' avenger, and destiny is to be decreed for him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: named figure in transliterated speech
+  assigned_to:
+  - fig:7
+  basis: The name Ti-amat appears in the transliterated Akkadian block.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: banquet food and drink
+  literal_form: feast, banquet, bread, wine
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Anshar commissions Gaga
+  summary: Anshar speaks to Gaga, identifies him as his minister, and says he will
+    send him to Lakhmu and Lakhamu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The gods are summoned to a banquet and destiny decree
+  summary: The gods are to be gathered, seated at a feast, given bread and wine, and
+    made to decree destiny for Marduk their avenger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Transliterated continuation naming Tiamat
+  summary: A transliterated Akkadian continuation follows the English instructions
+    and includes the name Ti-amat.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: messenger dispatched to summon a divine assembly
+  taxonomy_refs: []
+  basis: Anshar sends Gaga, his minister, to Lakhmu and Lakhamu and directs that the
+    gods be brought together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives the commission but not the full delivery of the message.
+- id: motif:2
+  label: banquet preceding a decree of destiny
+  taxonomy_refs: []
+  basis: The gods are instructed to prepare a feast, sit at a banquet, eat bread,
+    mingle wine, and decree destiny for Marduk.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader ritual interpretation is supplied by the excerpt.
+- id: motif:3
+  label: divine avenger authorized by decree
+  taxonomy_refs: []
+  basis: Marduk is called the gods' avenger, and the gods are to decree destiny for
+    him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not include the outcome of Marduk's commission or the
+    full context of his avenging role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2137-2138
+  quote_or_summary: '"Anshar opened his mouth" and spoke to "Gaga, his minister."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2139-2141
+  quote_or_summary: '"0 Gaga, thou minister that rejoicest my heart, / Unto Lakhmu
+    and Lakhamu will I send thee."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 2143-2148
+  quote_or_summary: Gaga is to bring the gods before Anshar; they are to prepare for
+    a feast, sit at a banquet, eat bread, and mingle wine.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 2149-2150
+  quote_or_summary: '"For Marduk their avenger, let them decree destiny / Go Gaga,
+    stand before them"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 2152-2166
+  quote_or_summary: 'The transliterated block includes: "a-kam-me Ti-amat-ma" and
+    terms such as "§im-ti."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: English lines support the main extraction. The transliterated Akkadian section
+    is treated conservatively because no English rendering is supplied in the passage
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references assigned because the available motif and symbol lists do not directly name the divine banquet, messenger summons, or destiny-decree pattern present in this excerpt.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l2135-l2166
+  passage_sha256=4a2c66c765f8555ad33de807e59ad0411e19acc07155a1eecf0199e8b6d1ff97
+

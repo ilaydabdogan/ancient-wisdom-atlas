@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l32738-l32832
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: APPENDIX. / UMKATSHANA. / UMKATSHANA. / IZINOANEKWANE.; lines 32738-32832
+  start: '32738'
+  end: '32832'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Do not come near us at once ; you still smell of fire.”"
+  summary: 'The passage first states that when a man dies in this world and goes to
+    the people beneath, they tell him to remain at a distance until the smell of fire
+    has passed off. It then begins the tale of Uncama-ngamanzi-egudu: Uncama’s ripening
+    mealie garden is repeatedly wasted by a porcupine; he waits for a dewy day, follows
+    the brushed-off dew trail to the porcupine’s hole, enters with weapons intending
+    to kill it, and goes on until he reaches a pool.'
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man who dies in this world is described as going to the people who live
+    beneath.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people beneath tell the dead man not to come near at once because he still
+    smells of fire.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people beneath tell the dead man to remain at a distance until the smell
+    of fire has passed off.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Uncama has a mealie garden whose ripening crop is repeatedly entered and wasted
+    by a porcupine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Uncama chooses a day with much dew so that the porcupine’s path can be detected
+    where the dew has been brushed off.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Uncama takes his weapons, follows the porcupine’s trail from the garden, and
+    finds where it has entered a hole.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Uncama enters the hole without a dog, angry at the waste of his food and intending
+    to reach and kill the porcupine.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After going on inside, Uncama comes to a pool.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note glosses the tale-title as referring to preparation for a journey by
+    smoking and strengthening with an igudu or insangu-horn.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dead man
+  description: A man who dies in this world and goes to the people who live beneath.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: people who live beneath
+  description: A group beneath who receive or address the dead man and instruct him
+    to stay away until the fire smell passes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Uncama / Uncama-ngamanzi-egudu
+  description: The owner of a mealie garden who follows a porcupine’s trail into a
+    hole with weapons.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: porcupine
+  description: An animal that repeatedly enters Uncama’s garden, eats or wastes the
+    mealies, and goes into a hole.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceased newcomer to the beneath-world
+  assigned_to:
+  - fig:1
+  basis: The man dies in this world and goes to the people beneath.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beneath-world inhabitants who impose distance
+  assigned_to:
+  - fig:2
+  basis: They tell the dead man not to come near and to remain apart until the fire
+    smell passes.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cultivator and food owner
+  assigned_to:
+  - fig:3
+  basis: Uncama dug a mealie garden and is angered by the wasting of his food.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: armed pursuer entering a hole
+  assigned_to:
+  - fig:3
+  basis: Uncama takes weapons, follows the trail, and enters the hole to reach and
+    kill the porcupine.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: crop-raiding animal
+  assigned_to:
+  - fig:4
+  basis: The porcupine enters the garden and wastes or eats the mealies.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: animal trail-maker
+  assigned_to:
+  - fig:4
+  basis: Its movement brushes off the dew and leaves a visible trail to its hole.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: smell of fire
+  literal_form: The lingering smell of fire on the dead man.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: people beneath / beneath-world
+  literal_form: The place or realm beneath where the dead man goes and where people
+    live.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mealie garden
+  literal_form: Uncama’s cultivated mealie garden with ripening crop.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dew trail
+  literal_form: Dew brushed off along the porcupine’s path, making its trail visible.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hole entrance
+  literal_form: The hole into which the porcupine enters and which Uncama also enters.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: weapons
+  literal_form: Weapons taken by Uncama when he follows the porcupine.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: pool
+  literal_form: A pool reached by Uncama after he goes on inside.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: igudu / insangu-horn
+  literal_form: An igudu or insangu-horn mentioned in the note as a means of strengthening
+    for a journey.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dead man arrives among the people beneath
+  summary: A dead man goes from this world to people who live beneath; they instruct
+    him to stay away because he still smells of fire and to wait until the smell passes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Porcupine wastes Uncama’s crop
+  summary: Uncama’s mealie garden begins to ripen, but a porcupine repeatedly enters
+    and eats or wastes the crop before he can catch it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Uncama follows the dew-marked trail into the hole
+  summary: On a day with heavy dew, Uncama uses the brushed-off dew to trace the porcupine’s
+    path, takes weapons, finds its hole, and enters in anger intending to kill it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Uncama reaches a pool
+  summary: After continuing inside the hole, Uncama reaches a pool.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dead person joins people beneath after death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage says that a man who dies in this world goes to people who live
+    beneath.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is very brief and gives only a destination and reception,
+    not a full mapped journey.
+- id: motif:2
+  label: Postmortem fire smell requiring separation
+  taxonomy_refs: []
+  basis: The people beneath keep the dead man at a distance because he still smells
+    of fire and must wait until the smell passes.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly explain the meaning of the fire smell.
+- id: motif:3
+  label: Animal thief pursued into a hidden hole
+  taxonomy_refs: []
+  basis: A porcupine wastes the crop; Uncama follows its dew-marked trail and enters
+    its hole with weapons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a literal narrative pattern in the excerpt; broader classification
+    would require the continuation of the tale.
+- id: motif:4
+  label: Descent into an underground or hidden space after an animal
+  taxonomy_refs:
+  - hero_descent
+  basis: Uncama follows the porcupine into a hole and travels onward until he reaches
+    a pool.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The excerpt does not yet show a completed descent-and-return pattern or
+    establish Uncama as a hero figure.
+- id: motif:5
+  label: Journey-strengthening with igudu or insangu-horn
+  taxonomy_refs:
+  - departure
+  basis: The note glosses the title as preparation for a journey by smoking and strengthening
+    with the igudu or insangu-horn.
+  evidence_refs:
+  - ev:7
+  confidence: uncertain
+  cautions: This rests on a footnote and the OCR wording is unclear; the action is
+    not narrated in the excerpt itself.
+comparison_claims:
+- id: claim:1
+  claim: The afterlife statement can be cautiously compared to the afterlife_journey_map
+    motif family because it describes the dead moving from this world to a beneath-world
+    population and undergoing a delayed reception.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage contains no detailed route, tests, guide, or final judgment;
+    the comparison is limited to the movement to people beneath and the waiting condition.
+- id: claim:2
+  claim: Uncama’s pursuit of the porcupine into a hole has a limited functional similarity
+    to a hero_descent pattern, since a human leaves the surface setting and enters
+    a hidden lower space after an animal.
+  claim_level: same_function
+  target: hero_descent
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt is incomplete and does not show return, transformation,
+    initiation, or heroic status.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32738-32832, opening item in IZINOANEKWANE
+  quote_or_summary: When a man dies in this world and goes to the people who live
+    beneath, he arrives among them after death.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 32738-32832, opening item in IZINOANEKWANE
+  quote_or_summary: "“Do not come near us at once ; you still smell of fire.” They
+    also tell him to remain at a distance until the smell of fire has passed off."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 32738-32832, tale of Uncama-ngamanzi-egudu
+  quote_or_summary: Uncama dug a mealie garden; when the crop began to ripen, a porcupine
+    entered it and continually wasted or ate the mealies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 32738-32832, tale of Uncama-ngamanzi-egudu
+  quote_or_summary: Uncama waited for a day with much dew, reasoning that the dew
+    would be brushed off where the porcupine had passed, allowing him to follow the
+    trail.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 32738-32832, tale of Uncama-ngamanzi-egudu
+  quote_or_summary: Uncama took his weapons, followed the porcupine’s track to a hole,
+    and entered the hole without a dog, intending to reach and kill the porcupine.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 32738-32832, tale of Uncama-ngamanzi-egudu
+  quote_or_summary: Uncama went on and on inside until he came to a pool.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: note
+  locator: line-range footnote 74 within lines 32738-32832
+  quote_or_summary: The note glosses the title as ‘He-prepares-for-his-journey-by-smoking-…’
+    and says that instead of eating, he strengthens himself with the igudu, or insangu-horn.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; OCR wording is partially unclear, so summary
+    is cautious.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The English translation is clear for the main actions, but the excerpt is
+    fragmentary and the title footnote contains unclear OCR. Motif assignments beyond
+    the literal afterlife and descent-like patterns require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external tale continuation or comparative material was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l32738-l32832
+  passage_sha256=9e11e820c4db6ce0465b1dacb5981066fbc3f395b6de396a046ff1b87e7099ec
+

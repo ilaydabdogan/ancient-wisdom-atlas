@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8763-l8784
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: BOOK I. / END OF THE STORY ON HOLDING TO THE TRUTH. / END OF THE STORY OF
+    THE SANDY ROAD. / END OF THE STORY OF CHULLAKA THE TREASURER.; lines 8763-8784
+  start: '8763'
+  end: '8784'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ministers mock a valuation that makes the royal city and horses worth a
+    measure of rice. The Bodisat states the valuation in a stanza. The king is ashamed,
+    removes the foolish valuer, appoints the Bodisat as Valuer, and the Teacher concludes
+    by identifying the past figures with present ones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ministers clap their hands and laugh after hearing the valuation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ministers say that the broad earth, the king's realm, and the royal city
+    are valued at a measure of rice by the valuer's account, and they laugh him to
+    scorn.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bodisat utters a stanza asking what a measure of rice, Benares and its
+    environs, and five hundred horses are worth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king becomes ashamed, drives out the fool, and appoints the Bodisat to
+    the office of Valuer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bodisat later passes away according to his deeds.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Teacher finishes preaching the discourse, tells the double story, makes
+    the connection, and sums up the Jātaka.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Teacher identifies the former foolish peasant valuer as Udāyin the Simpleton
+    and the wise valuer as himself.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: ministers
+  description: Court ministers who clap, laugh, and mock the valuation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: foolish peasant valuer / Udāyin the Simpleton
+  description: The valuer mocked for his account, later driven out by the king and
+    identified by the Teacher as Udāyin the Simpleton.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: king
+  description: The ruler who becomes ashamed, removes the foolish valuer, and appoints
+    the Bodisat to the office of Valuer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bodisat / wise valuer
+  description: The Bodisat who utters the stanza, is appointed Valuer, passes away
+    according to his deeds, and is identified by the Teacher as himself.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Teacher
+  description: The frame narrator who finishes the discourse, tells the double story,
+    makes the connection, and identifies the past figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mocking court observers
+  assigned_to:
+  - fig:1
+  basis: They clap, laugh, and ridicule the valuer's account.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foolish valuer
+  assigned_to:
+  - fig:2
+  basis: He is mocked for the valuation, driven out by the king, and named as the
+    foolish peasant valuer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ruler who corrects the appointment
+  assigned_to:
+  - fig:3
+  basis: The king is ashamed, expels the fool, and appoints the Bodisat to the office.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wise valuer
+  assigned_to:
+  - fig:4
+  basis: The Bodisat speaks the corrective stanza and receives the office of Valuer;
+    the Teacher calls him the wise valuer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Jātaka frame teacher
+  assigned_to:
+  - fig:5
+  basis: He concludes the preaching, tells the double story, and connects the figures.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: measure of rice
+  literal_form: a measure of rice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Benares and its environs
+  literal_form: All Benares and its environs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: five hundred horses
+  literal_form: five hundred horses
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: clapping and laughter
+  literal_form: ministers clapped their hands, laughing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ministers ridicule the valuation
+  summary: The ministers clap, laugh, and say that the royal city and the king's realm
+    have been valued at a measure of rice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bodisat's stanza on worth
+  summary: The Bodisat utters a stanza linking the worth of a measure of rice, Benares
+    and its environs, and five hundred horses.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: King replaces the valuer
+  summary: The king is ashamed, expels the fool, appoints the Bodisat as Valuer, and
+    the Bodisat later passes away according to his deeds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Jātaka identity conclusion
+  summary: The Teacher ends the discourse, connects the double story, and identifies
+    the foolish valuer and wise valuer with named figures.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom exposes foolish judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The ministers ridicule the foolish valuation, the Bodisat states the valuation
+    in a clarifying stanza, and the king appoints the Bodisat as Valuer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied taxonomy reference is broad; the passage concerns administrative
+    valuation rather than an extended wisdom quest.
+- id: motif:2
+  label: Wise official replaces foolish official
+  taxonomy_refs: []
+  basis: After the fool's valuation is exposed, the king drives him out and appoints
+    the Bodisat to the same office.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern in the passage, not tied to a supplied
+    motif-family taxonomy ID.
+- id: motif:3
+  label: Jātaka identity connection
+  taxonomy_refs: []
+  basis: The Teacher concludes by making the connection between the past story and
+    present identities, identifying the foolish valuer as Udāyin and the wise valuer
+    as himself.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a frame-narrative pattern supported by the passage, not a supplied
+    comparative taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8763-8769
+  quote_or_summary: The ministers clap, laugh, and say that the royal city is, by
+    the valuer's account, worth just a measure of rice; they laugh him to scorn.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8771-8777
+  quote_or_summary: The Bodisat utters a stanza asking what a measure of rice is worth,
+    answering with Benares and its environs, and asking what five hundred horses are
+    worth, answering with the same measure of rice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8779-8781
+  quote_or_summary: The king is ashamed, drives out the fool, appoints the Bodisat
+    to the office of Valuer, and the Bodisat later passes away according to his deeds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8783-8784
+  quote_or_summary: The Teacher finishes the discourse, tells the double story, makes
+    the connection, and identifies the foolish peasant valuer as Udāyin the Simpleton
+    and the wise valuer as himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif candidates
+    are limited to passage-supported patterns and the broad supplied wisdom taxonomy.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol references were applied because none of the available symbol IDs match the passage's rice, city, horses, or gesture images.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l8763-l8784
+  passage_sha256=3c97131340e54469e52bc7b4cdc027fec74132c6ded7051ee98382f1c8549366
+

@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l92-l102
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: Jataka tales / FOREWORD; lines 92-102
+  start: '92'
+  end: '102'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The foreword speaker praises the Jataka Tales as charming and useful for
+    teaching children, notes both obvious lessons and deeper meanings, mentions the
+    appeal of the Oriental setting, and commends Miss Babbitt's collection to teachers
+    and parents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The foreword speaker says they were captivated by the charm of the Jataka
+    Tales and saw their usefulness in teaching children.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the tales contain obvious lessons suitable for children and
+    deeper meanings that may be understood later.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage says the Oriental setting adds fascination.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says Miss Babbitt has put together the collection and commends
+    it to teachers and parents.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Foreword speaker
+  description: The first-person speaker of the foreword who praises and commends the
+    collection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Miss Babbitt
+  description: The person said to have undertaken putting together the collection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Children / little people
+  description: The intended young learners for whom many obvious lessons are said
+    to be suitable.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Teachers and parents
+  description: The audience to whom the collection is commended.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Foreword recommender
+  assigned_to:
+  - fig:1
+  basis: The speaker praises the tales and commends the collection.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Collector or compiler
+  assigned_to:
+  - fig:2
+  basis: Miss Babbitt is described as having undertaken to put together the collection.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Child learners
+  assigned_to:
+  - fig:3
+  basis: The tales are described as useful in the teaching of children and suitable
+    for little people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Adult educational audience
+  assigned_to:
+  - fig:4
+  basis: The collection is commended to teachers and parents.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Foreword commendation of the collection
+  summary: The foreword speaker presents the Jataka Tales as charming, educational,
+    layered in meaning, attractively set, and suitable for use by teachers and parents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Instructional wisdom through tales
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly frames the tales as containing lessons for children
+    and deeper meanings to be understood later.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: This is a foreword's educational framing, not a narrative episode within
+    a Jataka tale; the wisdom motif is inferred from the stated didactic function
+    rather than from story action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 94-97
+  quote_or_summary: "“the excellent use that might be made of them in the teaching
+    of children” and “The obvious lessons” are noted."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 97-99
+  quote_or_summary: "“beneath the obvious there are depths and depths of meaning”
+    that children may learn to fathom later."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 99-102
+  quote_or_summary: The Oriental setting is said to add fascination; Miss Babbitt
+    is praised for assembling the collection, which is commended to teachers and parents.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is paratextual and contains few mythic or symbolic elements.
+    Literal extraction is straightforward; motif identification is limited to the
+    explicit didactic-wisdom framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol from the provided list is directly supported by this foreword passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l92-l102
+  passage_sha256=c156cafe5036f4a334b7e21902f2eeffcb3005f4a32fce86a5d0e11ad507dfd8
+

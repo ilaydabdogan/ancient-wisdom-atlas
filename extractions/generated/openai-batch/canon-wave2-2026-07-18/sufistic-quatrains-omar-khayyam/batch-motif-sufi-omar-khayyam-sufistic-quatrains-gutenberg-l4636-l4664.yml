@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4636-l4664
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXVII. / LXXXVI. / XCIX. / CVII.; lines 4636-4664
+  start: '4636'
+  end: '4664'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Quatrain XCIX imagines old acquaintances meeting under a blossoming branch
+    leaning over a wall. An editorial note links it to a story told by Nizam ul-Mulk
+    and recorded by FitzGerald. Quatrain CVII says it would be better to cancel one
+    luckless human soul from the Scroll of Universe than to add to an ever-growing
+    flood of anguish. A cited parallel says what the Pen has written never changes
+    and grief, even tears of blood, cannot increase anything beyond what is fixed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Old acquaintances are imagined greeting each other under a branch that leans
+    above a wall and sheds blossoms over them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The setting includes vernal heat, a wall, a leaning branch, and blossoms falling
+    over head and feet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An editorial note says quatrain XCIX is an elaboration founded upon a story
+    told by Nizam ul-Mulk and recorded by FitzGerald in his Introduction.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says it would be better to cancel one luckless human soul from
+    the Scroll of Universe than to enlarge a flood of anguish drop by drop.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The flood is described as becoming hoarser with anguish as the ages roll.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An editorial note says quatrain CVII was likely inspired by N. 457 and O.
+    54.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cited parallel states that what the Pen has written never changes, grief
+    brings deep affliction, and even lifelong tears of blood do not increase one drop
+    beyond what it is.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Old Acquaintance
+  description: A repeated designation for persons who greet each other in quatrain
+    XCIX.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: luckless Human Soul
+  description: A human soul described as luckless and potentially cancellable from
+    the Scroll of Universe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: speaker of CVII
+  description: The implied voice that declares one human soul should be cancelled
+    rather than add to the flood of anguish.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pen
+  description: The cited parallel personifies or names a pen whose writing never changes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: meeting acquaintances
+  assigned_to:
+  - fig:1
+  basis: They are described as greeting one another under the blossoming branch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unfortunate soul
+  assigned_to:
+  - fig:2
+  basis: The soul is called luckless and is the object proposed for cancellation from
+    the Scroll of Universe.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lamenting evaluator
+  assigned_to:
+  - fig:3
+  basis: The speaker evaluates the cancellation of one soul as preferable to enlarging
+    the flood of anguish.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: writer of fixed outcome
+  assigned_to:
+  - fig:4
+  basis: The cited parallel says the Pen has written something that never changes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: blossoming branch
+  literal_form: Branch leaning above a wall and shedding blossoms
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wall
+  literal_form: Wall below the leaning branch
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Scroll of Universe
+  literal_form: Scroll from which a human soul might be cancelled
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: flood of anguish
+  literal_form: Flood enlarged drop by drop and rolling through the ages
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Pen
+  literal_form: Pen whose writing never changes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: tears of blood
+  literal_form: Lifelong weeping of tears of blood
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: meeting under the blossoming branch
+  summary: Old acquaintances greet one another in spring heat beneath a branch leaning
+    over a wall and shedding blossoms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cancellation weighed against accumulating anguish
+  summary: The speaker says cancelling one luckless human soul from the Scroll of
+    Universe would be better than adding to a flood of anguish that grows through
+    time.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: fixed writing and futile grief
+  summary: A cited parallel states that what the Pen has written cannot change and
+    that even extreme weeping does not increase one drop beyond what is fixed.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reunion beneath a blossoming tree-branch
+  taxonomy_refs: []
+  basis: Quatrain XCIX centers on old acquaintances greeting each other beneath a
+    branch that sheds blossoms.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a lyric scene rather than a developed mythic narrative.
+- id: motif:2
+  label: fixed cosmic writing of fate
+  taxonomy_refs:
+  - wisdom
+  basis: Quatrain CVII invokes a Scroll of Universe, and the cited parallel says what
+    the Pen has written never changes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no dedicated fate or predestination motif;
+    the wisdom reference is broad and should be reviewed.
+- id: motif:3
+  label: suffering imagined as an accumulating flood
+  taxonomy_refs: []
+  basis: The passage describes anguish as a flood enlarged drop by drop as the ages
+    roll.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is water imagery for anguish, not necessarily a flood-and-renewal
+    myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage's editorial note links quatrain XCIX to a story told by Nizam
+    ul-Mulk and recorded by FitzGerald.
+  claim_level: historical_contact
+  target: Nizam ul-Mulk story as recorded by FitzGerald in the Introduction
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied passage does not recount the Nizam ul-Mulk story, so the
+    shared motif content cannot be verified from this excerpt alone.
+- id: claim:2
+  claim: The passage's editorial note states that quatrain CVII was likely inspired
+    by N. 457 and O. 54.
+  claim_level: historical_contact
+  target: N. 457 and O. 54
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note uses cautious wording, and only the O. 54 parallel is quoted
+    in the supplied excerpt.
+- id: claim:3
+  claim: The cited O. 54 parallel shares a pattern with CVII in which a fixed written
+    decree and drops or tears cannot be altered by grief.
+  claim_level: same_function
+  target: O. 54 parallel quoted in the passage
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the quoted parallel and does not establish
+    broader historical transmission beyond the editorial citation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4636-4641; XCIX
+  quote_or_summary: Old acquaintances greet one another under a branch leaning above
+    a wall and shedding blossoms over head and feet in vernal heat.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4642-4645; note after XCIX
+  quote_or_summary: The note says this quatrain is an elaboration founded on a story
+    told by Nizam ul-Mulk and recorded by FitzGerald in his Introduction.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4647-4652; CVII
+  quote_or_summary: The speaker says it is better to cancel one luckless human soul
+    from the Scroll of Universe than to enlarge, drop by drop, the flood of anguish
+    rolling through the ages.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4653-4656; note after CVII
+  quote_or_summary: The note says CVII was no doubt inspired by N. 457 and by O. 54.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4658-4664; quoted O. 54 parallel and reference
+  quote_or_summary: The cited parallel says the Pen's writing never changes, grieving
+    deepens affliction, and even a lifetime of tears of blood cannot increase one
+    drop beyond what it is; reference O. 54, B. ii. 144.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal scene and editorial relationships are clear. Motif labels are interpretive
+    because the passage is lyric and editorial rather than a full narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external source content was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4636-l4664
+  passage_sha256=e48be5d0744888babda541c8bdff7a3bad145ac5de80657e15be3c70cd1df8cf
+

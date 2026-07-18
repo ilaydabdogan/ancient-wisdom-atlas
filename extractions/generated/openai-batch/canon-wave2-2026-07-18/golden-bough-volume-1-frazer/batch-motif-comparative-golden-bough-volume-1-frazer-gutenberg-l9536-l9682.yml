@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9536-l9682
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9536-9682
+  start: '9536'
+  end: '9682'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a series of footnotes, mostly bibliographic citations.
+    A few notes contain extractable content: Herodorus'' account of Prometheus as
+    a Scythian king bound after the Eagle river flooded the plains; references to
+    the worship of kings; and a note that Babylonian and Assyrian kings seem to have
+    been regarded as gods because royal names on monuments were preceded by a star-mark
+    for “god,” while lacking evidence of temples and priests for royal worship.'
+  language: English with a Greek quotation in one note
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists primarily of numbered footnotes citing sources for comparative
+    religion, ethnography, ancient history, and mythology.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note reports that Herodorus gave an unusual account concerning the bonds
+    of Prometheus.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In that account, Prometheus is said to be a king of the Scythians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Prometheus is said to have been unable to provide necessities to his subjects
+    because the river called Eagle flooded the plains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Prometheus is said to have been bound by the Scythians.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note refers readers to works concerning the worship of kings in the context
+    of Egyptian religion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says Babylonian and Assyrian kings seem to have been regarded as gods.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stated basis for divine status of Babylonian and Assyrian kings is that
+    the oldest royal names on monuments are preceded by a star, described as the mark
+    for “god.”
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The same note states that there is no trace in Babylon and Assyria of temples
+    and priests for the worship of kings.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Prometheus
+  description: In Herodorus' account, Prometheus is identified as a king of the Scythians
+    who could not provide necessities to his subjects and was bound by the Scythians.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Scythians
+  description: The people by whom Prometheus is said to have been bound; the account
+    also identifies Prometheus as their king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Prometheus' subjects
+  description: The subjects to whom Prometheus could not provide necessities because
+    of the flooding of the plains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kings referenced in royal worship note
+  description: Kings mentioned in the phrase “worship of the kings” in a note citing
+    works on Egyptian religion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Babylonian and Assyrian kings
+  description: Kings said to seem to have been regarded as gods; their oldest names
+    on monuments are said to be preceded by a star-mark for “god.”
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Scythian king
+  assigned_to:
+  - fig:1
+  basis: The note says Prometheus is reported as a king of the Scythians.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: failed provider under flood pressure
+  assigned_to:
+  - fig:1
+  basis: He cannot provide necessities to his subjects because a river floods the
+    plains.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bound figure
+  assigned_to:
+  - fig:1
+  basis: The Scythians bind him in the reported account.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: binders
+  assigned_to:
+  - fig:2
+  basis: The note states that Prometheus was bound by the Scythians.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: dependent subjects
+  assigned_to:
+  - fig:3
+  basis: They are the subjects to whom Prometheus cannot provide necessities.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: objects of royal worship
+  assigned_to:
+  - fig:4
+  basis: The note explicitly refers to “the worship of the kings.”
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: kings regarded as gods
+  assigned_to:
+  - fig:5
+  basis: The note says Babylonian and Assyrian kings seem to have been regarded as
+    gods.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eagle river flooding the plains
+  literal_form: The river called Eagle flooding the plains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bonds of Prometheus
+  literal_form: Prometheus' bonds; Prometheus is bound by the Scythians
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: star mark for god
+  literal_form: A star preceding the oldest names of kings on monuments, described
+    as the mark for “god”
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Herodorus' account of the binding of Prometheus
+  summary: Prometheus is presented as a Scythian king who cannot supply necessities
+    to his subjects because the Eagle river floods the plains, after which the Scythians
+    bind him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Royal divinity and its material sign
+  summary: Babylonian and Assyrian kings are said to appear as gods because their
+    oldest names on monuments are preceded by a star-mark for “god,” though the note
+    says there is no trace of temples and priests for their worship.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Reference to worship of kings
+  summary: A footnote points to sources on Egyptian religion and on the worship of
+    kings.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Bound ruler after flood-caused scarcity
+  taxonomy_refs: []
+  basis: Herodorus' account makes Prometheus a king unable to provide necessities
+    because a river floods the plains, after which the Scythians bind him.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports this as a cited account in a footnote; it does not
+    give wider narrative context or describe renewal after the flood.
+- id: motif:2
+  label: Divine or worshipped kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage refers to worship of kings and says Babylonian and Assyrian kings
+    seem to have been regarded as gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The Babylonian-Assyrian note is cautious and explicitly says there is
+    no trace there of temples and priests for royal worship.
+- id: motif:3
+  label: Divine status marked by a star sign
+  taxonomy_refs: []
+  basis: The oldest names of Babylonian and Assyrian kings on monuments are said to
+    be preceded by a star, identified as the mark for “god.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The evidence is a brief footnote statement and does not explain the sign's
+    use beyond the cited royal names.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns Egyptian royal-worship references with Babylonian
+    and Assyrian indications that kings were regarded as gods.
+  claim_level: same_function
+  target: divine or sacred kingship across Egyptian and Babylonian-Assyrian contexts
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage is footnote evidence only; it also notes that Babylon and
+    Assyria lack traces of temples and priests for royal worship.
+- id: claim:2
+  claim: The Herodorus note relates the Prometheus-bondage tradition to a Scythian
+    royal account in which the bound figure is a king punished after flood-caused
+    scarcity.
+  claim_level: same_motif
+  target: Prometheus bound tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note labels the account unusual and gives only a compressed summary,
+    so the nature of the relationship to other Prometheus narratives remains uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9536-9682, footnotes 163-212
+  quote_or_summary: The passage is a numbered list of footnotes, mostly bibliographic
+    references to works on America, Africa, ancient religions, classical sources,
+    tree-cult, and related comparative topics.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9584-9589, footnote 172
+  quote_or_summary: Herodorus says Prometheus was a king of the Scythians, unable
+    to provide necessities because the river called Eagle flooded the plains, and
+    that he was bound by the Scythians.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt summarized from Greek note.
+- id: ev:3
+  type: quote
+  locator: lines 9622-9626, footnote 185
+  quote_or_summary: "“On the worship of the kings see also” cited works following
+    Tiele's History of the Egyptian Religion."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 9629-9634, footnote 188
+  quote_or_summary: "“The Babylonian and Assyrian kings seem also to have been regarded
+    as gods”; royal names are preceded by a star, the mark for “god,” but there is
+    “no trace” there of temples and priests for the worship of kings."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extractable material is limited because the passage is almost entirely
+    footnotes. Motif candidates are based only on explicit statements in notes 172,
+    185, and 188.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No motifs were inferred from bare bibliographic citations without passage content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9536-l9682
+  passage_sha256=a3808f1e1a7686779298277d904a275035fb01fe200cebe1c4c367ab49d7cba9
+

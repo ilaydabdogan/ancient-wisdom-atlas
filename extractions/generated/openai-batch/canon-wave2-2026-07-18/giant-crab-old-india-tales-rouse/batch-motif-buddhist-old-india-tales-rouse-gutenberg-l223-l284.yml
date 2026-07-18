@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l223-l284
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: WARNING / CONTENTS / THE GIANT CRAB / THE HYPOCRITICAL CAT; lines 223-284
+  start: '223'
+  end: '284'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A cat feigns holiness and ascetic practice to gain the trust of rats, who
+    bow to him daily. He secretly eats the last rat in their procession until the
+    chief rat notices the troop shrinking, investigates, evades the cat's attack,
+    bites him, and the rats devour the cat and live peacefully afterward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A troop of rats lives in holes by a river side.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cat sees the rats and wants to eat them, but does not attack them all together
+    because he is not strong enough and because many would run away.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cat stands in the morning near the rats' holes, facing the sun, snuffing
+    the air, and standing on one leg.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When questioned by the rats, the cat says his name is Holy, that the earth
+    could not bear him on four legs, that he feeds on air, and that he worships the
+    sun.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rats think the cat is pious and thereafter bow to him one by one before
+    starting out in the morning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each day, as the rats file past, the cat waits for the last rat, pounces on
+    him, eats him, and resumes standing on one leg.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The chief of the rats notices that the troop has grown smaller and suspects
+    that the pious cat may know more than he says.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The chief places himself at the tail of the troop so he can watch what happens
+    as the others bow before the cat.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: When the cat prepares to pounce, the chief rat dodges away.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The chief rat denounces the cat's piety, bites the cat's throat, and the returning
+    rats eat the cat until nothing remains.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After the cat is gone, the rats live in peace and happiness.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Cat
+  description: A cat who poses as holy, claims to feed on air and worship the sun,
+    and secretly eats rats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Troop of Rats
+  description: Rats living in holes by a river side; they bow to the cat and later
+    return to eat him after the chief rat's struggle.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: fig:3
+  name_or_label: Chief of the Rats
+  description: The rat leader who notices the troop shrinking, watches from the rear,
+    dodges the cat, and bites the cat's throat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: deceptive predator
+  assigned_to:
+  - fig:1
+  basis: The cat presents himself as holy and harmless while using the rats' trust
+    to eat the hindmost rat each day.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: deceived prey community
+  assigned_to:
+  - fig:2
+  basis: The rats accept the cat's pious claims and bow to him one by one, enabling
+    his attacks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: watchful leader who exposes danger
+  assigned_to:
+  - fig:3
+  basis: The chief notices missing rats, places himself where he can observe, and
+    evades the cat's attack.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: collective avengers
+  assigned_to:
+  - fig:2
+  basis: The other rats return after hearing the scuffle and consume the cat.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: river-side dwelling
+  literal_form: holes by a river side
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sun-facing worship posture
+  literal_form: the cat facing the sun and saying he worships it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: one-legged stance
+  literal_form: the cat standing on one leg
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: air as claimed food
+  literal_form: the cat's open mouth and claim that he feeds on air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cat adopts a holy pose
+  summary: Near the rats' holes, the cat stands facing the sun on one leg and answers
+    the rats' questions with claims of holiness, great weight, air-feeding, and sun
+    worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rats bow and the cat eats the hindmost
+  summary: The rats treat the cat as pious and bow to him one by one; the cat uses
+    the procession to seize and eat the last rat each day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Chief rat investigates and defeats the cat
+  summary: The chief rat notices the troop shrinking, takes the rear position, watches
+    the cat, dodges the pounce, bites the cat's throat, and the other rats return
+    and eat the cat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Peace after the cat's destruction
+  summary: After the cat is consumed, the rats live in peace and happiness.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: false piety used for predatory deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The cat adopts holy language and ascetic gestures to make the rats trust
+    him, then secretly eats them one by one.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link is interpretive; the passage does not itself name a
+    broader trickster category.
+- id: motif:2
+  label: watchful leader uncovers concealed danger
+  taxonomy_refs:
+  - wisdom
+  basis: The chief rat notices the reduction in the troop, suspects the cat, observes
+    from the rear, and evades the attack.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents practical observation and suspicion rather than an
+    explicit teaching on wisdom.
+- id: motif:3
+  label: deceiver destroyed by intended victims
+  taxonomy_refs: []
+  basis: After the cat's hidden predation is exposed, the chief rat attacks him and
+    the troop consumes him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+comparison_claims:
+- id: claim:1
+  claim: 'At the level of narrative function, the cat''s false ascetic display and
+    predation are compatible with a trickster-boundary pattern: a figure crosses a
+    trust boundary through deceptive sacred performance.'
+  claim_level: same_function
+  target: trickster_boundary
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a cautious functional comparison to an available motif family,
+    not a claim of historical contact or a taxonomy label given by the passage.
+- id: claim:2
+  claim: The chief rat's detection of the shrinking troop and counteraction against
+    the cat are compatible with a wisdom-function pattern in which discernment resolves
+    communal danger.
+  claim_level: same_function
+  target: wisdom
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly frame the chief's action as wisdom;
+    the comparison is based on observed narrative function only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 223-284; opening setup
+  quote_or_summary: A troop of rats lives in holes by a river side; a cat sees them,
+    wants to eat them, and avoids attacking all together because he lacks strength
+    and many would escape.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 223-284; cat's morning posture
+  quote_or_summary: The cat stands early in the morning near the rats' holes, facing
+    the sun, snuffing the air, and standing on one leg.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 223-284; dialogue with the rats
+  quote_or_summary: The cat tells the rats his name is Holy, says the earth could
+    not bear him on four legs, says he feeds on air, and says he worships the sun.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 223-284; rats accept the cat's piety
+  quote_or_summary: The rats think the cat is pious and thereafter bow to him one
+    by one before going out in the morning.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 223-284; cat's daily attack
+  quote_or_summary: As the rats file past, the cat waits for the last rat, pounces
+    on him, eats him quickly, and resumes his one-legged posture while licking his
+    lips.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 223-284; chief notices losses
+  quote_or_summary: The chief of the rats notices the troop growing smaller, misses
+    familiar faces, and begins to suspect that the pious cat may know more than he
+    admits.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 223-284; chief takes the rear position
+  quote_or_summary: The next day the chief rat posts himself at the tail of the troop
+    and watches the cat as the rats bow one by one.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 223-284; failed pounce
+  quote_or_summary: When the chief rat comes up, the cat prepares to pounce, but the
+    rat is ready and dodges away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:9
+  type: summary
+  locator: lines 223-284; cat exposed and eaten
+  quote_or_summary: The chief rat mocks the cat's supposed piety, springs to the cat's
+    throat, and holds with his teeth; the other rats return and eat the cat until
+    no vestige remains.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:10
+  type: summary
+  locator: lines 223-284; closing outcome
+  quote_or_summary: Afterward the rats live in peace and happiness.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The basic extraction is directly supported by the passage. Motif and comparison
+    assignments are cautious functional readings using only supplied taxonomy references
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l223-l284
+  passage_sha256=2d7a079ca1d043841518896989790cf417a6f186583d5a34ac8f253beccf178f
+

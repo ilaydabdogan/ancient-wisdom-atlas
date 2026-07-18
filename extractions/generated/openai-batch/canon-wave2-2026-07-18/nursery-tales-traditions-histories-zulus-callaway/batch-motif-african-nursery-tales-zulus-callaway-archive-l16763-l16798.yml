@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l16763-l16798
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: CANNIBALISM. / IZINGANEKWANE. / CANNIBALISM. / IZINGANEKWANE.; lines 16763-16798
+  start: '16763'
+  end: '16798'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives an account of human cannibalism: a man or chief is not
+    eaten like cattle flesh, but is charred with great medicines and eaten in a special
+    manner by a chief. It adds that when one chief kills another and portions are
+    cut from the slain chief''s body, this greatly humiliates the slain chief''s tribe;
+    a reported taunt says the defeated have already been eaten and are now in the
+    eaters'' stomachs.'
+  language: Zulu original with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a human being is not eaten in the same manner as cattle
+    flesh.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The consumed person is described as being charred with great medicines before
+    being eaten.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A chief is described as eating the prepared flesh with the tips of his fingers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A chief may be killed by another chief and have portions cut from his body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The killing and cutting of portions from the chief's body is described as
+    a great humiliation for his tribe.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reported taunt says the defeated were eaten long ago and are now in the
+    eaters' stomachs.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man/person being eaten
+  description: A human being in the account of cannibalism; the passage says he is
+    not eaten like cattle flesh and is charred with great medicines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chief who eats
+  description: A chief who eats the prepared flesh with the tips of his fingers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Killed chief
+  description: A chief killed by another chief, with portions cut from his body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Another chief
+  description: The chief who kills the other chief.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Slain chief's tribe
+  description: The tribe of the killed chief; the passage says the treatment of the
+    chief is a great humiliation to it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Unspecified taunting eaters
+  description: The first-person plural speakers in the reported taunt who claim to
+    have eaten the defeated and to have them in their stomachs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: consumed victim
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes a man being eaten and a killed chief having portions
+    cut from his body.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: eating chief
+  assigned_to:
+  - fig:2
+  basis: The passage says the chief eats with the tips of his fingers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chief who kills another chief
+  assigned_to:
+  - fig:4
+  basis: The passage says one chief has been killed by another chief.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: humiliated tribe
+  assigned_to:
+  - fig:5
+  basis: The passage says the cutting of portions from the killed chief's body is
+    a great humiliation to his tribe.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: taunting eaters
+  assigned_to:
+  - fig:6
+  basis: The reported speech uses first-person plural speakers who say they ate the
+    addressees and have them in their stomachs.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great medicines
+  literal_form: great medicines used in charring the consumed person
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eating with fingertips
+  literal_form: tips of the fingers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cut body portions
+  literal_form: portions cut from the killed chief's body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stomachs of the eaters
+  literal_form: our stomachs
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Special mode of eating a man or chief
+  summary: The account says a person is not eaten like cattle flesh; instead, the
+    person is charred with great medicines, and a chief eats with the tips of his
+    fingers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Defeated chief and tribal humiliation
+  summary: One chief kills another, portions are cut from the slain chief's body,
+    and the act is described as a great humiliation to the slain chief's tribe. A
+    taunt says the defeated were already eaten and are in the eaters' stomachs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritualized cannibalism of a chief
+  taxonomy_refs: []
+  basis: The passage distinguishes this eating from ordinary eating of cattle flesh
+    and describes charring with medicines and eating by a chief with the fingertips
+    as the mode of eating a chief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is brief and explanatory rather than a full narrative episode.
+- id: motif:2
+  label: consumption of a defeated enemy as humiliation and annihilation
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says a killed chief's body may be cut and that this humiliates
+    his tribe; the reported taunt says the defeated are in the eaters' stomachs and
+    are nothing to them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy reference is tentative: the passage frames the act as social
+    and political humiliation, not as a cosmological union.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16763-16798; English translation, first explanatory paragraph
+  quote_or_summary: The translation says a man is not eaten like cattle flesh, but
+    is eaten after being charred with great medicines.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; supplied passage use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 16763-16798; English translation, first explanatory paragraph
+  quote_or_summary: The translation says the chief eats it with the tips of his fingers
+    and identifies this as the mode of eating a chief.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; supplied passage use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 16763-16798; English translation, second explanatory paragraph
+  quote_or_summary: The translation says that when a chief has been killed by another
+    chief and portions cut from his body, this is a great humiliation of his tribe.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; supplied passage use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 16763-16798; English translation, reported speech in second explanatory
+    paragraph
+  quote_or_summary: The reported speech says the defeated were eaten long ago, are
+    now in the eaters' stomachs, and are nothing to them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; supplied passage use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear from the English translation, though the passage
+    is short and includes OCR-like irregularities. No external comparison claims were
+    made because the passage itself does not compare this material with another tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available symbol taxonomy did not clearly apply; the motif taxonomy assignment to annihilation_union is cautious and should be reviewed.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l16763-l16798
+  passage_sha256=dc3d78521fe1857e8269e4f08b4ed885e6f47f7b978b25ecfda4ee804dc48bc5
+

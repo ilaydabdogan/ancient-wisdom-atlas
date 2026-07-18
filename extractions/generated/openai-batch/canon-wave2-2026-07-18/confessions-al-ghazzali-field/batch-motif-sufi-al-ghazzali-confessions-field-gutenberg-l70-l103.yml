@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l70-l103
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: THE CONFESSIONS OF AL GHAZZALI / SAYINGS OF MUHAMMED. / WISDOM OF THE EAST
+    / BY CLAUD FIELD, M.A.; lines 70-103
+  start: '70'
+  end: '103'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“He who knows himself knows God.”"
+  summary: The passage is title-page front matter for The Confessions of Al Ghazzali
+    in the Wisdom of the East series. It includes an attributed saying of Muhammed
+    linking self-knowledge with knowledge of God, identifies Claud Field as translator,
+    and gives London publication details for John Murray, 1909.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Confessions of Al Ghazzali.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A saying is printed: knowing oneself is connected with knowing God.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The saying is attributed to Muhammed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The work is described as translated into English by Claud Field, M.A.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage places the work in the Wisdom of the East series.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Al Ghazzali
+  description: Named in the title The Confessions of Al Ghazzali.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Muhammed
+  description: Named as the source category for the printed saying.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: Named in the saying as the object of knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Claud Field, M.A.
+  description: Named as the English translator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named subject of title
+  assigned_to:
+  - fig:1
+  basis: Al Ghazzali is named in the work title.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attributed source of saying
+  assigned_to:
+  - fig:2
+  basis: The saying is followed by the attribution heading Sayings of Muhammed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine object of knowledge
+  assigned_to:
+  - fig:3
+  basis: The saying states that one who knows himself knows God.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: translator
+  assigned_to:
+  - fig:4
+  basis: The title page states the work was translated into English by Claud Field,
+    M.A.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page presentation with wisdom saying
+  summary: The front matter presents the title, series, an attributed saying about
+    self-knowledge and God-knowledge, the translator, and publication details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Self-knowledge as knowledge of God
+  taxonomy_refs:
+  - wisdom
+  basis: The printed saying explicitly links knowing oneself with knowing God.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is front matter and contains only a brief attributed saying,
+    not a developed narrative or doctrinal exposition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: '"THE CONFESSIONS OF AL GHAZZALI"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: '"He who knows himself knows God." / "SAYINGS OF MUHAMMED."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: '"TRANSLATED FOR THE FIRST TIME INTO ENGLISH BY CLAUD FIELD, M.A."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: '"The Wisdom of the East Series"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from title-page text. Motif identification
+    is limited because the passage contains only a brief saying and publication front
+    matter. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is explicitly present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l70-l103
+  passage_sha256=d40f949fe90d83eaf129e8af7aa00f9fc3ba542ab3fea1f6cbafb02c0f658ff5
+

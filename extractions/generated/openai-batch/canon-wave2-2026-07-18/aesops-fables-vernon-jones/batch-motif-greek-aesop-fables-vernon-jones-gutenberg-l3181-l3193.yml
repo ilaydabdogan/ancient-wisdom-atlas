@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3181-l3193
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE EAGLE AND THE COCKS / THE ESCAPED JACKDAW / THE FARMER AND THE FOX /
+    VENUS AND THE CAT; lines 3181-3193
+  start: '3181'
+  end: '3193'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A cat loves a young man and asks Venus to make her a woman. Venus transforms
+    her into a beautiful maiden, whom the man marries. Venus later releases a mouse
+    to test whether the cat’s habits changed with her form. The woman chases the mouse,
+    and Venus changes her back into a cat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cat falls in love with a handsome young man and begs Venus to change her
+    into a woman.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Venus changes the cat at once into a beautiful maiden.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young man falls in love with the transformed maiden and soon marries her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Venus releases a mouse in the room to see whether the cat’s habits have changed
+    as well as her form.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young woman sees the mouse, jumps up, and pursues it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Venus is disgusted and changes the young woman back into a cat.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cat / transformed young woman
+  description: A cat who is changed by Venus into a beautiful maiden and later changed
+    back into a cat.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Venus
+  description: A goddess who transforms the cat, tests her habits, and reverses the
+    transformation.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Handsome young man
+  description: A young man loved by the cat; he falls in love with the transformed
+    maiden and marries her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Mouse
+  description: A mouse released in the room by Venus; the transformed woman pursues
+    it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: supplicant for transformation
+  assigned_to:
+  - fig:1
+  basis: The cat begs Venus to change her into a woman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine transformer
+  assigned_to:
+  - fig:2
+  basis: Venus changes the cat into a maiden and later back into a cat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: transformed bride
+  assigned_to:
+  - fig:1
+  basis: After being changed into a beautiful maiden, she is loved by the young man
+    and married.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unchanged habitual nature
+  assigned_to:
+  - fig:1
+  basis: When she sees the mouse, she forgets everything and chases it.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: tester of transformation
+  assigned_to:
+  - fig:2
+  basis: Venus releases a mouse to see whether the cat’s habits have changed as well
+    as her form.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: human beloved and husband
+  assigned_to:
+  - fig:3
+  basis: The young man is loved by the cat and later marries the transformed maiden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: test stimulus
+  assigned_to:
+  - fig:4
+  basis: The mouse is released by Venus to test the transformed cat’s habits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cat form
+  literal_form: Cat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: human maiden form
+  literal_form: Beautiful maiden / young woman
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: mouse in the room
+  literal_form: Mouse
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Request for transformation
+  summary: The cat loves a young man and asks Venus to make her a woman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transformation and marriage
+  summary: Venus changes the cat into a beautiful maiden; the young man falls in love
+    with her and marries her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Test with the mouse
+  summary: Venus releases a mouse to test whether the transformed woman’s habits have
+    changed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Reversal of transformation
+  summary: After the young woman chases the mouse, Venus changes her back into a cat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal transformed into human and returned to animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage centers on a cat changed into a woman by Venus and later changed
+    back into a cat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The figure does not transform herself; the transformation is performed
+    by Venus.
+- id: motif:2
+  label: divine test reveals unchanged nature
+  taxonomy_refs:
+  - divine_judgment
+  basis: Venus tests whether the cat’s habits changed with her form by releasing a
+    mouse, then reverses the transformation after the woman pursues it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents divine disgust and reversal, but does not explicitly
+    frame the act as formal judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3181-3184
+  quote_or_summary: "“A Cat fell in love with a handsome young man, and begged the
+    goddess Venus to change her into a woman.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 3184-3187
+  quote_or_summary: Venus changes the cat into a beautiful maiden; the young man falls
+    in love with her at first sight and soon marries her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3187-3190
+  quote_or_summary: Venus decides to test whether the cat’s habits changed along with
+    her form and releases a mouse in the room.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3190-3192
+  quote_or_summary: The young woman sees the mouse, forgets everything, jumps up,
+    and chases it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 3192-3193
+  quote_or_summary: "“the goddess was so disgusted that she changed her back again
+    into a Cat.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels use only supplied taxonomy
+    references where directly supported by transformation and divine testing; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied “VENUS AND THE CAT” passage was used, despite the broader locator label listing adjacent fables.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3181-l3193
+  passage_sha256=02df851d2f30c2992e6a3e6befb85dd7043b50152c2358bb273664194ae00b44
+

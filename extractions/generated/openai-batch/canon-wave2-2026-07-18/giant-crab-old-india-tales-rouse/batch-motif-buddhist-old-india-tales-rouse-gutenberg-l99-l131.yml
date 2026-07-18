@@ -1,0 +1,196 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l99-l131
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: The Giant Crab, and Other Tales from Old India / WARNING / CONTENTS; lines
+    99-131
+  start: '99'
+  end: '131'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents lists tale titles and page numbers, beginning with
+    “The Giant Crab” and ending with “The King's Lesson.” Several titles name animals,
+    supernatural figures, objects, or proverb-like moral lessons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a contents list and includes a page-number column.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed entries run from “The Giant Crab” on page 1 through “The King's
+    Lesson” on page 114.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'One title enumerates four objects: an axe, a drum, a bowl, and a diamond.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: Several titles attach moral or behavioral qualifiers to figures, including
+    wise, foolish, dishonest, talkative, pious, cunning, and bold.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several titles are phrased as proverb-like lessons, including “Union is Strength,”
+    “Silence is Golden,” and “Pride Must Have a Fall.”
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: A goblin is named in three separate titles, including one associated with
+    a pool and one with a city.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Goblin
+  description: A title-named figure appearing in “The Goblin and the Sneeze,” “The
+    Goblin in the Pool,” and “The Goblin City.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Parrot pair
+  description: Two parrots are named in one title and distinguished as wise and foolish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: repeated title figure
+  assigned_to:
+  - fig:1
+  basis: The word “Goblin” appears in three separate contents entries.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: morally contrasted title figures
+  assigned_to:
+  - fig:2
+  basis: The title contrasts a wise parrot with a foolish parrot.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: enumerated objects
+  literal_form: axe, drum, bowl, diamond
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: pool
+  literal_form: pool
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: didactic wisdom and moral contrast
+  taxonomy_refs:
+  - wisdom
+  basis: The contents list includes titles explicitly naming wisdom and foolishness,
+    along with proverb-like lessons such as “Union is Strength” and “Silence is Golden.”
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: This is inferred only from table-of-contents titles; the passage contains
+    no narrative events.
+- id: motif:2
+  label: moralized animal tale titles
+  taxonomy_refs: []
+  basis: Multiple titles name animal figures together with moral or behavioral descriptors,
+    such as wise/foolish parrots, a talkative tortoise, a pious wolf, and a cunning
+    crane.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage supplies titles only, so no story-level animal-fable motif
+    can be confirmed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 99-101
+  quote_or_summary: The passage is headed “CONTENTS” and includes a “Page” column.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 103-130
+  quote_or_summary: The contents entries begin with “The Giant Crab” on page 1 and
+    end with “The King's Lesson” on page 114.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:3
+  type: summary
+  locator: lines 107-119, 125
+  quote_or_summary: Titles include morally or behaviorally qualified figures such
+    as “The Wise Parrot and the Foolish Parrot,” “The Dishonest Friend,” “The Talkative
+    Tortoise,” “The Pious Wolf,” “The Cunning Crane and the Crab,” and “The Bold Beggar.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:4
+  type: summary
+  locator: lines 112, 114, 128
+  quote_or_summary: Goblin-titled entries include “The Goblin and the Sneeze,” “The
+    Goblin in the Pool,” and “The Goblin City.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:5
+  type: quote
+  locator: line 106
+  quote_or_summary: "“The Axe, the Drum, the Bowl, and the Diamond”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief title quoted.
+- id: ev:6
+  type: quote
+  locator: line 114
+  quote_or_summary: "“The Goblin in the Pool”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief title quoted.
+- id: ev:7
+  type: quote
+  locator: lines 120-124
+  quote_or_summary: "“Union is Strength”; “Silence is Golden”; “Pride Must Have a
+    Fall”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief titles quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a non-narrative table of contents. Literal extraction is straightforward,
+    but motif identification is limited to title-level evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are asserted; the passage itself does not provide narrative context or explicit cross-tradition comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l99-l131
+  passage_sha256=6eda837b2439f255b495f37ce7ce0204ad04b00edf54593dc0a3fe64b5abc2be
+

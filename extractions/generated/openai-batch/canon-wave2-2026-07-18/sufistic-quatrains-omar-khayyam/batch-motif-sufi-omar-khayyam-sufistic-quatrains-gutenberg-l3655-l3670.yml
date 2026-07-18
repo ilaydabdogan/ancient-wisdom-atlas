@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3655-l3670
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLVIII. / LVIII. / LXIII. / LXVIII.; lines 3655-3670
+  start: '3655'
+  end: '3670'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Magic Shadow-shapes that come and go”"
+  summary: 'The quatrain presents human beings as shadow-like forms moving around
+    a sun-lit lantern in midnight, held by a master of the show. A following translation
+    note identifies the source as O. 108 and restates the image: heaven is like a
+    magic-lantern; the sun is the flame, the universe is the lamp, and humans are
+    figures revolving within it.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers identify themselves as a moving row of shadow-like shapes that
+    come and go.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shadow-shapes move around a sun-illuminated lantern.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lantern is held in midnight by a figure called the Master of the Show.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says the quatrain is translated from O. 108.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The following rendering describes the vault of heaven as a kind of magic-lantern
+    beneath which humans stand bewildered.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rendering identifies the sun as the flame and the universe as the lamp.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The rendering compares humans to figures that revolve inside the lamp or lantern
+    image.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage supplies a reference list for O. 108 and related numbered witnesses
+    or editions.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: we / human beings
+  description: The speakers, described as shadow-shapes or figures that come and go
+    or revolve.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Master of the Show
+  description: A figure said to hold the sun-illuminated lantern in midnight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: revolving shadow-figures
+  assigned_to:
+  - fig:1
+  basis: The speakers are described as shadow-shapes that come and go around the lantern,
+    and as figures that revolve in the cosmic lamp image.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: holder of the show-lantern
+  assigned_to:
+  - fig:2
+  basis: The quatrain says the lantern is held in midnight by the Master of the Show.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: magic-lantern
+  literal_form: sun-illuminated lantern / magic-lantern
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sun as flame
+  literal_form: the sun is the flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: universe as lamp
+  literal_form: the universe is the lamp
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: vault of heaven
+  literal_form: vault of heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: shadow-shapes / revolving figures
+  literal_form: Magic Shadow-shapes; figures that revolve
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:6
+  label: midnight
+  literal_form: Midnight
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Cosmic magic-lantern show
+  summary: Human beings are depicted as shadow-forms moving around a sun-lit lantern,
+    with the lantern held in midnight by the Master of the Show.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanatory cosmic-lantern rendering
+  summary: The vault of heaven is described as a magic-lantern; the sun functions
+    as the flame, the universe as the lamp, and humans as figures revolving within
+    it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: World as magic-lantern show
+  taxonomy_refs: []
+  basis: Both the quatrain and the following rendering use the image of a lantern
+    or magic-lantern to frame the world or heaven and human movement within it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage provides the image directly, but no external motif classification
+    is supplied.
+- id: motif:2
+  label: Humans as transient shadow-figures
+  taxonomy_refs: []
+  basis: The speakers are called shadow-shapes that come and go, and the source rendering
+    says humans are like figures revolving in the cosmic lamp.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an image-based motif candidate rather than a supplied taxonomy
+    entry.
+- id: motif:3
+  label: Cosmological wisdom teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The rendering uses declarative and instructional language, stating what is
+    known about heaven as a magic-lantern and commanding the hearer to know the relation
+    of sun, flame, universe, lamp, and figures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The connection to the broad taxonomy family of wisdom is interpretive
+    and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The English quatrain and the supplied O. 108 rendering present the same core
+    image of human figures moving within a cosmic lantern structure.
+  claim_level: same_motif
+  target: O. 108 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's own translation note and supplied
+    rendering; no external manuscript or edition comparison is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3655-3660
+  quote_or_summary: "“We are no other than a moving row / Of Magic Shadow-shapes that
+    come and go / Round with the Sun-illumined Lantern held / In Midnight by the Master
+    of the Show”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: line 3662
+  quote_or_summary: The passage states that this quatrain is translated from O. 108.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3664-3666
+  quote_or_summary: "“This vault of heaven beneath which we stand bewildered, / We
+    know to be a sort of magic-lantern”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3667-3668
+  quote_or_summary: "“the sun is the flame and the universe is the lamp, / We are
+    like figures that revolve in it”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:5
+  type: citation
+  locator: lines 3670 and following reference line in supplied passage
+  quote_or_summary: Reference list includes O. 108, C. 332, L. 505, B. 501, S.P. 266,
+    P. 40, and additional cited witnesses or editions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal imagery is explicit. Motif labels beyond the supplied image are draft
+    classifications and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external source comparison was performed.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3655-l3670
+  passage_sha256=b2946cc3e414f0e1c3201873c8a4de633627b1e6cc1476e729a2c4a350828cf0
+

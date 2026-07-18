@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l63-l111
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: Japanese Fairy Tales / COMPILED BY; lines 63-111
+  start: '63'
+  end: '111'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Paratext for Yei Theodora Ozaki''s Japanese Fairy Tales: title and compiler
+    credit, illustration credit, table of contents listing the collected tales, and
+    a dedication to Eleanor Marion-Crawford signed from Tokio in 1908.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the book as Japanese Fairy Tales and names Yei Theodora
+    Ozaki as the compiler/authorial figure.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the book is profusely illustrated by Japanese artists.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The contents list a preface, a general Japanese fairy tales section, and multiple
+    named tale titles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dedication is addressed to Eleanor Marion-Crawford.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dedication recalls a child-friendship and days by the southern sea when
+    the dedicatee listened to fairy stories from Japan.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The dedication is signed with initials and dated Tokio, 1908.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yei Theodora Ozaki / Y. T. O.
+  description: Named as the compiler/authorial figure and signer of the dedication.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Eleanor Marion-Crawford
+  description: Named as the recipient of the dedication and associated with the remembered
+    child-friendship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Japanese artists
+  description: Collective group credited with illustrating the book.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: compiler/authorial credit
+  assigned_to:
+  - fig:1
+  basis: The title-page material names the book and credits it to Yei Theodora Ozaki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicator
+  assigned_to:
+  - fig:1
+  basis: The dedication is signed with the initials Y. T. O.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dedicatee and remembered child-friend
+  assigned_to:
+  - fig:2
+  basis: The passage dedicates the book to Eleanor Marion-Crawford and refers to child-friendship
+    given by her.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: illustrators
+  assigned_to:
+  - fig:3
+  basis: The passage credits Japanese artists as illustrators.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page and contents listing
+  summary: The passage presents the title, compiler credit, illustration credit, and
+    contents list for the collection.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dedication
+  summary: Ozaki dedicates the book to Eleanor Marion-Crawford, recalls their child-friendship
+    and listening to fairy stories by the southern sea, and signs from Tokio in 1908.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 63-71
+  quote_or_summary: Title-page material identifies Japanese Fairy Tales, credits Yei
+    Theodora Ozaki, and states that the book is profusely illustrated by Japanese
+    artists.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 73-99
+  quote_or_summary: The contents list includes the preface and the titles of the collected
+    tales, such as My Lord Bag of Rice, The Tongue-Cut Sparrow, Urashima Taro, Kintaro,
+    Momotaro, and others.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 101-105
+  quote_or_summary: The dedication is addressed to Eleanor Marion-Crawford and dedicates
+    the book to her and to the child-friendship she gave the author.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 105-110
+  quote_or_summary: The dedication recalls days by the southern sea when Eleanor listened
+    to fairy stories from far Japan, expresses remembrance, and is signed Y. T. O.,
+    Tokio, 1908.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual rather than a narrative tale. No passage-supported
+    mythic motif candidates or comparison claims are extracted from the title page,
+    contents list, or dedication.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol refs assigned because the passage provides only bibliographic, contents, and dedication material; tale titles alone were not treated as sufficient evidence for narrative motifs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l63-l111
+  passage_sha256=ebc87ae6305b53ec253328c66d1576d858da81c57f6077fbc6072c8343ab544d
+

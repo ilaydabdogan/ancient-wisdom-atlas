@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5046-l5058
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD MAN AND DEATH / THE MISER / THE FOXES AND THE RIVER / THE HORSE AND
+    THE STAG; lines 5046-5058
+  start: '5046'
+  end: '5058'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Horse has sole use of a meadow until a Stag enters, claims equal grazing
+    rights, and takes the best places. The Horse seeks a man's help to drive out the
+    Stag. The man agrees only if the Horse accepts a bridle and rider. Together they
+    expel the Stag, but the Horse then finds that the man has become his permanent
+    master.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Horse initially grazes alone in a meadow.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Stag enters the meadow, claims a right to feed there, and chooses the best
+    places for himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Horse wants revenge against the Stag and asks a man for help in turning
+    the Stag out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man agrees to help only if the Horse permits a bridle in his mouth and
+    allows the man to mount his back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Horse agrees to the man's condition.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Horse and the man drive the Stag out of the pasture.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the Stag is expelled, the Horse discovers that the man has become his
+    lasting master.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Horse
+  description: A horse who grazes in a meadow, seeks revenge on the Stag, accepts
+    bridle and rider, and ends under the man's mastery.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Stag
+  description: A stag who enters the Horse's meadow, claims grazing rights, takes
+    the best places, and is later driven out.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Man
+  description: A man who offers to help the Horse drive out the Stag on condition
+    that he may bridle and ride the Horse; afterward he remains the Horse's master.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: aggrieved meadow-holder
+  assigned_to:
+  - fig:1
+  basis: The Horse had the meadow to himself before the Stag entered and used the
+    best places.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unwelcome competitor
+  assigned_to:
+  - fig:2
+  basis: The Stag enters the meadow, claims the right to feed, and chooses the best
+    places.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: conditional helper turned master
+  assigned_to:
+  - fig:3
+  basis: The man agrees to help only after the Horse accepts bridle and rider, and
+    later becomes the Horse's master.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: self-subordinating revenge-seeker
+  assigned_to:
+  - fig:1
+  basis: The Horse seeks revenge and accepts the man's control, resulting in permanent
+    mastery by the man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: meadow or pasture
+  literal_form: meadow/pasture used for grazing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: bridle
+  literal_form: bridle in the Horse's mouth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mounted rider
+  literal_form: man mounted on the Horse's back
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Stag enters the Horse's meadow
+  summary: The Horse grazes alone until the Stag enters, claims equal right to feed,
+    and takes the best grazing places.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Horse seeks human help
+  summary: The Horse asks a man to help drive out the Stag; the man makes his aid
+    conditional on bridling and riding the Horse.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Stag expelled and Horse mastered
+  summary: The Horse and man drive the Stag out, but the Horse discovers that the
+    man has become his permanent master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: revenge leading to loss of freedom
+  taxonomy_refs:
+  - wisdom
+  basis: The Horse seeks revenge on the Stag by accepting the man's conditions, then
+    loses his independence to the man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a practical fable
+    pattern rather than an explicit mythic wisdom figure.
+- id: motif:2
+  label: external helper becomes master
+  taxonomy_refs: []
+  basis: The man initially appears as an ally against the Stag, but the arrangement
+    leaves the Horse permanently subject to him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level narrative pattern, not linked here to a supplied
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5046-5050
+  quote_or_summary: A Horse grazes alone in a meadow; a Stag enters, claims equal
+    right to feed there, and chooses the best places.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5050-5052
+  quote_or_summary: The Horse, wanting revenge on the Stag, goes to a man and asks
+    for help turning the Stag out.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5052-5055
+  quote_or_summary: The man agrees to help only if the Horse lets him put a bridle
+    in the Horse's mouth and mount on his back; the Horse agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5055-5058
+  quote_or_summary: The Horse and man drive the Stag from the pasture, but the Horse
+    then finds that the man has become his master for good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are plain
+    descriptive patterns; only the broad wisdom taxonomy is tentatively applied. No
+    comparison claims are made because the passage itself does not explicitly support
+    a comparison to another named tradition or corpus pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The requested locator label mentions multiple fables, but the supplied passage text includes only “THE HORSE AND THE STAG”; extraction is limited to the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5046-l5058
+  passage_sha256=4646b8013d190801cea1bb3397540f0fe8fa5cc7f81f5bd2a014b49e89e5bec0
+

@@ -1,0 +1,212 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l590-l601
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK VII. / INTRODUCTION. / THE METAMORPHOSES. / BOOK THE FIRST.; lines 590-601
+  start: '590'
+  end: '601'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“the waters possess the lowest place only in respect to the earth whereon
+    we tread”"
+  summary: A translator's footnote explains that the word rendered as the lowermost
+    place should not be read as strictly last or lowest in a philosophical sense.
+    It relates this interpretation to Hesiod's account of world formation, Ovid's
+    closely related account, and the placement of waters relative to the earth and
+    its channels.
+  language: English, with a cited Latin phrase
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The footnote says that “Ultima” should not be understood as “last” or “lowest”
+    in a strict philosophical sense.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The footnote says that a strict “lowest” reading would contradict Hesiod's
+    account of the formation of the world, which Ovid is said to follow closely.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The footnote cites Ovid's Latin words about circumfluent moisture and a solid
+    orb.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The footnote explains that waters are lowest only with respect to the earth
+    humans tread on, not with respect to the terrestrial globe as the supposed center
+    of the system.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The footnote describes the earth's external surface as rising in places and
+    leaving water to subside in channels.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hesiod
+  description: Referenced as the author of an account of the formation of the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ovid
+  description: Referenced as closely following Hesiod's account and as the source
+    of the cited Latin phrase.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: source authority for a world-formation account
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note refers to Hesiod's world-formation account and says it is closely
+    followed by Ovid.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cited textual source
+  assigned_to:
+  - fig:2
+  basis: The note cites Ovid's own words in Latin.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: waters; circumfluent moisture
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: earth or solid orb
+  literal_form: earth; solid orb; terrestrial globe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: channels
+  literal_form: channels in which water subsides
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Commentarial explanation of waters and earth
+  summary: The note explains that the waters' lowermost place is relative to the earth's
+    surface under human feet, while the earth or solid orb is described as having
+    raised surfaces and channels into which water settles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmographic ordering of waters and earth
+  taxonomy_refs: []
+  basis: The passage interprets a world-formation description in terms of the relation
+    between waters, the solid earth, the terrestrial globe, and channels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a translator's explanatory footnote, not a direct narrative
+    of creation or world formation.
+comparison_claims:
+- id: claim:1
+  claim: The note states that Ovid's account of the formation of the world closely
+    follows Hesiod's account.
+  claim_level: same_motif
+  target: Hesiod's account of world formation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnote does not quote Hesiod or identify the exact Hesiodic passage;
+    the comparison is reported only in summary form.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 590-592
+  quote_or_summary: "“‘Ultima’ must not be here understood ... as signifying ‘last,’
+    or ‘lowest,’ in a strict philosophical sense”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 592-594
+  quote_or_summary: "“would contradict the account of the formation of the world given
+    by Hesiod, and which is here closely followed by Ovid”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 594-596
+  quote_or_summary: "“Circumfluus humor coercuit solidum orbem.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 596-600
+  quote_or_summary: The note says the waters are lowest only relative to the earth
+    humans tread on, not relative to the terrestrial globe as the supposed center
+    of the system.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 600-601
+  quote_or_summary: The note says the external surface of the earth rises in some
+    places and leaves water to subside in channels.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is clear, but motif identification is limited because
+    the passage is a footnote rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not explicitly describe chaos, flood, or another available named motif family.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l590-l601
+  passage_sha256=478904fc73a81db744c41cf6b4742c89914e1f3fa7681d593c9520e37976dd56
+

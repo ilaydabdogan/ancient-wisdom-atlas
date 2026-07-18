@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5797-l5875
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE ELEVENTH.; lines 5797-5875
+  start: '5797'
+  end: '5875'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“her breast, too, becomes oak; her shoulders are oak.”"
+  summary: Lyæus, grieving the killing of the bard of his sacred rites, punishes the
+    Edonian matrons by rooting them to the ground in the woods and transforming their
+    bodies into oak and boughs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Lyæus does not allow the wickedness to go unpunished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lyæus grieves for the loss of the bard of his sacred rites.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Edonian matrons are identified as having committed the crime.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lyæus fastens the matrons down in the woods with a twisting root.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The toes of the women are drawn out and thrust into the solid earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The trapped women attempt flight in vain, like a bird caught in a snare.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Wood grows up over the women's legs, and their breast and shoulders become
+    oak.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Their extended arms are described as boughs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lyæus
+  description: A divine figure who grieves the loss of the bard of his sacred rites
+    and punishes the Edonian matrons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Edonian matrons
+  description: Women who committed the crime and are fastened to the ground and transformed
+    into oak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: bard of Lyæus's sacred rites
+  description: The lost bard whose death prompts Lyæus's grief and punishment of the
+    matrons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine punisher
+  assigned_to:
+  - fig:1
+  basis: Lyæus does not let the crime go unpunished and acts against the matrons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: criminals transformed as punishment
+  assigned_to:
+  - fig:2
+  basis: The matrons are said to have committed the crime and are rooted to the ground
+    and changed into oak.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: slain sacred bard
+  assigned_to:
+  - fig:3
+  basis: Lyæus grieves for the loss of the bard of his sacred rites.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: twisting root
+  literal_form: A root that holds the women fast and confines them in the ground.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: oak transformation
+  literal_form: The women's legs, breast, shoulders, and arms become wood, oak, and
+    boughs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: snare image
+  literal_form: A bird entangled by the leg in a hidden snare is used as a simile
+    for the women's entrapment.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lyæus punishes the Edonian matrons
+  summary: Lyæus, grieving the loss of his sacred bard, punishes the Edonian matrons
+    who committed the crime by fastening them in the woods with roots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transformation into oak
+  summary: The trapped women struggle to escape, but wood grows over them until their
+    bodies become oak and their arms resemble boughs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for a crime against a sacred bard
+  taxonomy_refs:
+  - divine_judgment
+  basis: A divine figure explicitly refuses to leave the crime unpunished and imposes
+    a supernatural penalty on the perpetrators.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the punishment but only briefly identifies the prior
+    crime within this excerpt.
+- id: motif:2
+  label: punitive metamorphosis into trees
+  taxonomy_refs:
+  - shapeshifter
+  basis: The punished women are physically transformed into oak, with legs, torso,
+    shoulders, and arms becoming wood and boughs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term 'shapeshifter' is approximate here, since
+    the transformation is imposed rather than voluntary.
+comparison_claims:
+- id: claim:1
+  claim: 'At a broad motif-family level, the episode matches divine judgment: a divine
+    figure punishes human wrongdoing through supernatural means.'
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a broad taxonomy-level comparison only; the passage does not
+    itself compare this event with another named tradition or text.
+- id: claim:2
+  claim: The bodily change from women into oak can be compared to a transformation
+    or shapeshifting pattern, though the change is punitive and involuntary.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The taxonomy label is not exact because the passage describes externally
+    imposed metamorphosis rather than self-directed shapeshifting.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5797-5800
+  quote_or_summary: "“Lyæus did not suffer this wickedness to go unpunished; and grieving
+    for the loss of the bard of his sacred rites...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5800-5805
+  quote_or_summary: Lyæus fastens the Edonian matrons in the woods by a twisting root,
+    drawing their toes out and thrusting them into the solid earth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5805-5812
+  quote_or_summary: A simile compares the trapped women to a bird caught in a hidden
+    snare; each woman is fixed in the ground and attempts flight in vain while the
+    root holds her fast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5812-5819
+  quote_or_summary: "“she sees wood growing up upon her well-turned legs... her breast,
+    too, becomes oak; her shoulders are oak.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Primary narrative details are clear. Motif taxonomy for divine judgment is
+    strong; mapping involuntary metamorphosis to 'shapeshifter' is approximate. Long
+    translator footnotes in the passage were treated as commentary rather than narrative
+    motif evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction focuses on the narrative episode of Lyæus punishing the Edonian matrons. Explanatory footnotes on other subjects were not used as motif evidence.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l5797-l5875
+  passage_sha256=2268413fcc2f3b0ff561d6efef014e0037677cdeb200d8d689a0d9811f1d8ce2
+

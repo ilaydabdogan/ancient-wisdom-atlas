@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l2978-l3078
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UIILAKANYANA. / IZINGANEKWANE. / IZINGANEKWANE. / IZINGANEKWANE.; lines 2978-3078
+  start: '2978'
+  end: '3078'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The range begins with the close of an episode in which an old man pulls
+    a root until tired while Uthlakanyana eats bread and leaves. Uthlakanyana then
+    finds a leopard’s children while their mother is away. When the leopard returns
+    with a buck and becomes angry, he offers to stay with the children, guard them
+    while she hunts, and build a thatched house. The leopard agrees. Uthlakanyana
+    then begins arranging how the children are to be suckled, and the leopard insists
+    both children suck together so that neither cries.
+  language: Zulu and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man pulls a root with all his might until he is tired, then goes away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Uthlakanyana eats all the bread and goes on his way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Uthlakanyana encounters a leopard with children or cubs; the leopard is not
+    at home, and only the children are present.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Uthlakanyana stays with the leopard’s children.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The leopard returns carrying a buck, becomes very angry on seeing Uthlakanyana,
+    puts down the buck, and approaches him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Uthlakanyana addresses the leopard as lord, asks her not to be angry, and
+    says he will stay with the children and take care of them while she hunts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Uthlakanyana says he will build and thatch a beautiful house so that the leopard
+    and her children need not lie at the foot of a rock.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The leopard agrees if Uthlakanyana will stay with her children and care for
+    them when she goes out.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Uthlakanyana says he will give the children to the leopard one by one so that
+    she may suckle them, and he gives her one child.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The leopard asks for the other child also and says both children should suck
+    together, lest one cry.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: A named traveler who eats the bread, continues on his way, stays with
+    the leopard’s children, and offers to care for them and build a house.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Old man
+  description: An unnamed old man who pulls a root until tired and then leaves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Leopard
+  description: A female leopard with children or cubs; she returns carrying a buck,
+    becomes angry, agrees to Uthlakanyana’s offer, and later suckles the children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Leopard’s children or cubs
+  description: The leopard’s young are found alone at home, are to be cared for by
+    Uthlakanyana, and are brought to their mother to suckle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: Uthlakanyana eats the bread and goes on his way, then continues until he
+    encounters the leopard’s home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: caretaker or servant of the leopard’s children
+  assigned_to:
+  - fig:1
+  basis: The heading says he becomes the servant of a leopard, and his speech offers
+    to stay with and guard the children while the leopard hunts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animal mother and hunter
+  assigned_to:
+  - fig:3
+  basis: The leopard has children, returns carrying a buck, goes out to hunt, and
+    suckles the children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: dependent children
+  assigned_to:
+  - fig:4
+  basis: The children are found alone, are to be watched while the mother hunts, and
+    are brought to suckle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: root-puller
+  assigned_to:
+  - fig:2
+  basis: The old man pulls a root until tired before going away.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: root
+  literal_form: Root pulled by the old man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bread
+  literal_form: Bread eaten by Uthlakanyana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: buck
+  literal_form: Buck carried home by the leopard
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rock-foot resting place
+  literal_form: Foot of a rock where the leopard and children have been lying
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: thatched house
+  literal_form: Beautiful house that Uthlakanyana says he will build and thatch for
+    the leopard
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: suckling or milk-feeding
+  literal_form: The leopard’s children suckling from their mother
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Root-pulling and bread-eating
+  summary: An old man keeps pulling a root until he is tired and leaves; Uthlakanyana
+    eats all the bread and departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agreement with the leopard
+  summary: Uthlakanyana finds the leopard’s children alone. The leopard returns with
+    a buck and is angry, but Uthlakanyana offers to guard the children during her
+    hunting and build a thatched house; the leopard agrees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Suckling arrangement
+  summary: Uthlakanyana proposes giving the leopard her children one by one to suckle.
+    The leopard asks for both children and says they should suck together so that
+    neither cries.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: resource-taking after diversion
+  taxonomy_refs: []
+  basis: While the old man remains occupied pulling the root, Uthlakanyana eats all
+    the bread and leaves.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage begins in the middle or end of an earlier episode, so the
+    setup and intent of the diversion are not fully present in the supplied range.
+- id: motif:2
+  label: wanderer enters an animal household as caretaker
+  taxonomy_refs: []
+  basis: Uthlakanyana encounters a leopard’s children, placates the returning angry
+    leopard, and is accepted as one who will stay with and guard the children while
+    she hunts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage establishes the caretaker arrangement but does not yet show
+    its outcome.
+- id: motif:3
+  label: promise to replace an exposed resting place with a built house
+  taxonomy_refs: []
+  basis: Uthlakanyana says he will build and thatch a beautiful house so the leopard
+    and her children need not lie at the foot of a rock.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a proposed action in speech; the supplied passage does not show
+    the house being built.
+- id: motif:4
+  label: animal mother insists on equal nursing of children
+  taxonomy_refs: []
+  basis: When Uthlakanyana gives one child to the leopard to suckle, she asks for
+    the other child too and says both should suck together so that one will not cry.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the nursing instruction but not its later narrative
+    consequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2978-2992
+  quote_or_summary: The old man pulls the root until tired and goes away; Uthlakanyana
+    eats all the bread and proceeds on his way.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2993-3020
+  quote_or_summary: In the episode headed as Uthlakanyana becoming the servant of
+    a leopard, he finds the leopard’s children alone; the leopard returns carrying
+    a buck, becomes angry, puts the buck down, and approaches him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3020-3044
+  quote_or_summary: Uthlakanyana asks the leopard not to be angry, calls her lord,
+    and offers to stay with and guard her children while she hunts; he also says he
+    will build and thatch a beautiful house so they need not lie at the foot of a
+    rock.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3044-3054
+  quote_or_summary: The leopard agrees on the condition that Uthlakanyana stay with
+    her children and take care of them when she goes out.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3055-3078
+  quote_or_summary: In the suckling episode, Uthlakanyana says he will give the children
+    one by one for the leopard to suckle and gives one child; the leopard asks for
+    the other as well and says both should suck together lest one cry.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal events and figures are clear from the bilingual passage. Motif
+    labels are descriptive and passage-level only; no external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this episode to another text, tradition, or named motif family.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l2978-l3078
+  passage_sha256=4e7f62645947893471894c377b3110466bc8fda9df1263fdc10e19c6e783dd43
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1647-l1668
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OAK AND THE REEDS / THE BLIND MAN AND THE CUB / THE BOY AND THE SNAILS
+    / THE APES AND THE TWO TRAVELLERS; lines 1647-1668
+  start: '1647'
+  end: '1668'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two travellers, one habitually false and one habitually truthful, come
+    to the land of Apes. The King of the Apes stages a royal audience and asks their
+    opinion of him and his subjects. The lying traveller flatters him and is rewarded;
+    the truthful traveller identifies the king and subjects as fine apes and is ordered
+    to be clawed to death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two men travel together; one never speaks truth, and the other never tells
+    a lie.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travellers arrive in the land of Apes and are ordered to appear before
+    the King of the Apes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King of the Apes receives the travellers while seated on a throne, with
+    his ape subjects arranged in rows on both sides.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The King asks the travellers what they think of him as king and what they
+    think of his subjects.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lying traveller praises the King as noble and mighty and says the subjects
+    are worthy of their royal master.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The King is delighted by the lying traveller’s answer and gives him a handsome
+    present.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The truthful traveller expects a greater reward because his companion was
+    rewarded for lying.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The truthful traveller says the King is a fine Ape and the subjects are fine
+    Apes too.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The King is enraged by the truthful traveller’s reply and orders him to be
+    taken away and clawed to death.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lying Traveller
+  description: One of the two travelling men; he never speaks the truth and flatters
+    the King of the Apes and his subjects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Truthful Traveller
+  description: One of the two travelling men; he never tells a lie and gives a plain
+    answer about the apes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: King of the Apes
+  description: Ruler in the land of Apes who receives the travellers on a throne,
+    questions them, rewards flattery, and punishes the truthful answer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Apes, the King’s subjects
+  description: Ape subjects arranged in rows beside the King during the audience.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: Flatterer rewarded for false praise
+  assigned_to:
+  - fig:1
+  basis: He is identified as never speaking the truth, praises the King and subjects,
+    and receives a present.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Truth-teller punished for plain speech
+  assigned_to:
+  - fig:2
+  basis: He is identified as never telling a lie, gives a literal answer, and is ordered
+    killed.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+- id: role:3
+  label: Vain ruler and judge of speech
+  assigned_to:
+  - fig:3
+  basis: He stages a magnificent audience, asks for opinions, rewards praise, and
+    punishes the unfavorable truthful answer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:4
+  label: Royal subjects in court display
+  assigned_to:
+  - fig:4
+  basis: They are placed in rows beside the King and are the subject of the travellers’
+    assessments.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Throne
+  literal_form: The King’s throne
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Handsome present
+  literal_form: A handsome present given to the lying traveller
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Clawing to death
+  literal_form: Execution by being clawed to death
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Arrival at the court of the Apes
+  summary: The two travellers come to the land of Apes and are brought before the
+    King, who receives them in a staged royal setting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: False praise rewarded
+  summary: The lying traveller flatters the King and his subjects, and the King rewards
+    him with a handsome present.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Truthful answer punished
+  summary: The truthful traveller expects reward but answers plainly that the King
+    and subjects are apes; the King becomes angry and orders his death.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Flattery rewarded and truth punished before a vain ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The plot contrasts a liar whose praise wins reward with a truthful speaker
+    whose plain answer provokes lethal punishment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage gives no explicit moral; the wisdom classification is inferred
+    from the fable’s contrastive outcome.
+- id: motif:2
+  label: Test of speech at a foreign court
+  taxonomy_refs: []
+  basis: Travellers arrive in another land, are brought before a ruler, and their
+    answers to the ruler determine reward or punishment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: No broader comparative or historical linkage is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: Two men travel together; one never speaks truth, and the other
+    never tells a lie.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The travellers come to the land of Apes, and the King of the Apes
+    orders them brought before him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The King receives them on a throne, with his ape subjects in long
+    rows on either side.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The King asks the travellers what they think of him as a king
+    and of his subjects.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 1647-1668
+  quote_or_summary: "“you are a most noble and mighty monarch”; the subjects are “worthy
+    of their royal master.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The King is delighted with the lying traveller’s answer and gives
+    him a handsome present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The truthful traveller reasons that he should receive a still
+    greater reward for telling the truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: quote
+  locator: lines 1647-1668
+  quote_or_summary: "“I think you are a very fine Ape, and all your subjects are fine
+    Apes too.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: lines 1647-1668
+  quote_or_summary: The King is enraged by the truthful reply and orders the traveller
+    taken away and clawed to death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labeling is cautious
+    because the passage contains no explicit moral or comparative claim. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Although the supplied locator label names several fables, the provided passage text contains only “THE APES AND THE TWO TRAVELLERS”; extraction is limited to that text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1647-l1668
+  passage_sha256=bd0ab3640d13175febde1a3566b51860622d14401c91be5e8b908c00279a2331
+

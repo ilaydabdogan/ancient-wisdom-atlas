@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l4185-l4215
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  41 / THE  STORY  OF  CREATION  43 / COSMOLOGY  IN  A  RITUAL  45
+    / BILINGUAL  OF  CREATION  47; lines 4185-4215
+  start: '4185'
+  end: '4215'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A bilingual creation passage says that the forms of heaven and earth were
+    fixed and entrusted to the great gods. The passage links this entrusting with
+    creating the day and renewing the month as signs for mankind. It then says that
+    men saw Shamash at the gate of his going forth, with an uncertain final verb concerning
+    Shamash in the midst of heaven and earth.
+  language: English translation with transliterated Akkadian parallel lines
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The forms of heaven and earth are said to have been fixed.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The fixed forms are said to have been entrusted to the hands of the great
+    gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage associates the great gods' charge with creating the day and renewing
+    the month as signs for mankind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Men are said to have seen Shamash in the gate of his going forth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage locates Shamash in the midst of heaven and earth and describes
+    an action toward him with a verb whose meaning is noted as uncertain.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Editorial notes state that the word translated as forms is doubtful and that
+    the final verb has uncertain signification.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the great gods
+  description: A collective divine group to whose hands the forms of heaven and earth
+    are entrusted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: mankind / men
+  description: Human recipients of the signs made by day and month, and observers
+    who see Shamash.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Shamash
+  description: A named divine figure seen by men in the gate of his going forth and
+    mentioned in the midst of heaven and earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: entrusted divine agents
+  assigned_to:
+  - fig:1
+  basis: The passage says the forms of heaven and earth were entrusted to the hands
+    of the great gods, in connection with creating day and renewing month.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: human beneficiaries and observers
+  assigned_to:
+  - fig:2
+  basis: The day and month are described as signs for mankind, and men are said to
+    see Shamash.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: visible deity at a cosmic gate
+  assigned_to:
+  - fig:3
+  basis: Shamash is seen in the gate of his going forth and is placed in the midst
+    of heaven and earth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heaven and earth
+  literal_form: heaven and earth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: forms of heaven and earth
+  literal_form: forms, with note that the word is doubtful and also translated as
+    bounds or images
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: day
+  literal_form: the day to be created
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: month
+  literal_form: the month to be renewed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: signs for mankind
+  literal_form: day and renewed month as signs for mankind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: gate of going forth
+  literal_form: the gate of Shamash's going forth
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fixing and entrusting heaven and earth
+  summary: The forms of heaven and earth are fixed and entrusted to the hands of the
+    great gods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Day and month as signs
+  summary: The passage connects divine action with creating the day and renewing the
+    month as signs for mankind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Shamash at the gate
+  summary: Men see Shamash in the gate of his going forth; Shamash is then mentioned
+    in the midst of heaven and earth with an uncertain verb.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cosmic ordering of heaven and earth
+  taxonomy_refs: []
+  basis: The passage describes the forms of heaven and earth as fixed and entrusted
+    to the great gods.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The word translated as forms is explicitly noted as doubtful.
+- id: motif:2
+  label: calendrical renewal as signs for humanity
+  taxonomy_refs: []
+  basis: The passage says the day is to be created and the month renewed as signs
+    for mankind.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage refers specifically to day and month, not to a full seasonal
+    or agricultural cycle.
+- id: motif:3
+  label: heaven-and-earth cosmic pair
+  taxonomy_refs:
+  - duality
+  basis: 'Heaven and earth are repeatedly treated as a paired cosmic frame: their
+    forms are fixed, and Shamash is located in their midst.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a paired heaven-and-earth frame, but does not state
+    an explicit doctrine of dualism.
+- id: motif:4
+  label: divine appearance at a gate
+  taxonomy_refs: []
+  basis: Men see Shamash in the gate of his going forth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The final action concerning Shamash is uncertain in the edition's note,
+    so only the visibility at the gate is secure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4185-4190
+  quote_or_summary: The passage says the forms of heaven and earth were fixed and
+    entrusted to the hands of the great gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 4190-4193
+  quote_or_summary: The passage says the day is to be created and the month renewed
+    as signs for mankind.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 4193-4196
+  quote_or_summary: Men see Shamash in the gate of his going forth; Shamash is then
+    mentioned in the midst of heaven and earth with an action rendered in the translation
+    as commanding him faithfully.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:4
+  type: note
+  locator: 4197-4202
+  quote_or_summary: Editorial notes state that the word translated as forms is doubtful,
+    with alternative translations such as bounds or images, and that the signification
+    of the final verb is uncertain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:5
+  type: citation
+  locator: 4203-4213
+  quote_or_summary: The transliterated parallel lines correspond to the English creation
+    passage, including heaven and earth, day, month, mankind, Shamash, and the gate
+    of his going forth.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; citation/summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main figures, scenes, and calendrical imagery are explicit. Confidence
+    is reduced by the passage's own notes that key translated terms are uncertain.
+    No external comparison claims were made because the passage itself does not support
+    them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is directly present in the passage. The only mapped motif taxonomy reference is the cautious use of duality for the repeated heaven-and-earth pair.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l4185-l4215
+  passage_sha256=1c3f810a968fd46a72fcd4b472559bcad0e8a06964054e9c26c9e325127f71f4
+

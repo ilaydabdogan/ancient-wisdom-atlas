@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l5026-l5075
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: INTRODUCTION,    V.  XC1 / XC1V  VENDIDAD. / INTRODUCTION,    V.  XCV / INTRODUCTION,    V.  XCV11;
+    lines 5026-5075
+  start: '5026'
+  end: '5075'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains the Vendidad penalty term Pesho-tanu as a technical
+    penalty of two hundred strokes with a horse-whip, outlines a graded scale of stripes
+    for offenses, and comments on cases where ritual, bodily, animal-related, and
+    corpse-related offenses receive harsher penalties than manslaughter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pesho-tanu is described as often interpreted as 'worthy of death' but technically
+    attached to receiving two hundred strokes with a horse-whip.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The penalty scale described in the passage rises through five, ten, fifteen,
+    thirty, fifty, seventy, ninety, and two hundred stripes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Manslaughter is assigned ninety stripes, while a second unatoned manslaughter
+    receives the Peshotanu penalty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the six other crimes can reach the Peshotanu penalty
+    through repeated commission.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentator contrasts manslaughter with serving bad food to a shepherd's
+    dog, saying the latter immediately makes the bad master a Peshotanu subject to
+    two hundred stripes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two hundred stripes are listed for tilling land where a corpse has been buried
+    within the year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two hundred stripes are listed for a woman just delivered of child drinking
+    water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Two hundred stripes are listed for suppressing the menses of a woman.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Two hundred stripes are listed for performing a sacrifice in a house where
+    a man has just died.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Two hundred stripes are listed for neglecting to fasten a dead man's corpse
+    so birds or dogs may not carry dead matter to trees and rivers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Two hundred stripes are listed for throwing on the ground a bone from a man's
+    corpse or a dog's carcass of the stated size.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pesho-tanu offender
+  description: A person liable to the technical penalty of two hundred strokes with
+    the horse-whip.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: manslayer
+  description: A person who commits manslaughter, assigned ninety stripes for one
+    offense and the Peshotanu penalty for a second unatoned offense.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: bad master
+  description: A master who serves bad food to a shepherd's dog and is immediately
+    classed as Peshotanu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: shepherd's dog
+  description: A dog whose bad feeding by its master is presented as an offense punished
+    by the Peshotanu penalty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: woman just delivered of child
+  description: A woman recently delivered of child who drinks water in one listed
+    offense.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: dead man or corpse
+  description: A dead man, corpse, or corpse material involved in several listed offenses
+    concerning burial, sacrifice in a death house, fastening the body, and bones.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: birds or dogs
+  description: Animals that may carry dead matter to trees and rivers if a corpse
+    is not fastened.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: penalized offender
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  basis: These figures are described as receiving stripes or becoming subject to the
+    Peshotanu penalty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: protected animal recipient
+  assigned_to:
+  - fig:4
+  basis: The shepherd's dog is the recipient of bad food in an example whose penalty
+    is greater than that for manslaughter.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: corpse or dead matter source
+  assigned_to:
+  - fig:6
+  basis: The passage lists offenses involving a buried corpse, a newly dead man in
+    a house, a corpse that must be fastened, and corpse bones.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: potential carrier of dead matter
+  assigned_to:
+  - fig:7
+  basis: Birds or dogs are mentioned as able to take dead matter to trees and rivers
+    if the corpse is not secured.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: two hundred stripes
+  literal_form: The Peshotanu penalty of two hundred strokes or stripes with the horse-whip.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: horse-whip
+  literal_form: The instrument associated with the two hundred-stroke Peshotanu penalty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: corpse and dead matter
+  literal_form: A corpse, corpse bone, or dead matter involved in listed offenses
+    and potential contamination of surroundings.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: water and rivers
+  literal_form: Water drunk by a woman just delivered of child; rivers that may receive
+    dead matter carried by birds or dogs.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: trees
+  literal_form: Trees that may receive dead matter carried by birds or dogs.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ground
+  literal_form: The ground on which a bone from a man's corpse or dog's carcass may
+    be thrown in a listed offense.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Definition of Peshotanu penalty
+  summary: The passage defines Pesho-tanu/Peshotanu as a term associated technically
+    with receiving two hundred strokes with a horse-whip.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Penalty scale and repeated offenses
+  summary: A graded scale of stripe penalties is described, with escalating offenses
+    moving toward the Peshotanu penalty; a second unatoned manslaughter receives that
+    highest listed penalty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comparison of manslaughter and dog-feeding offense
+  summary: The passage remarks that killing a man is punished less severely than serving
+    bad food to a shepherd's dog, since the latter makes the master liable to two
+    hundred stripes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Listed ritual, bodily, and corpse-related offenses
+  summary: The passage lists several actions punished by two hundred stripes, including
+    tilling land with a recent corpse, childbirth-related drinking of water, suppressing
+    menses, sacrifice in a death house, failing to secure a corpse from birds or dogs,
+    and throwing corpse or carcass bones on the ground.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: graded corporal penalty scale
+  taxonomy_refs: []
+  basis: The passage explicitly lays out a rising sequence of stripe penalties from
+    five stripes to the two-hundred-stripe Peshotanu penalty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal-ritual pattern in the introduction rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: escalation through repeated wrongdoing
+  taxonomy_refs: []
+  basis: The passage says repeated crimes carry the committer through the whole series
+    of penalties up to Peshotanu.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a penal sequence, not a mythic plot.
+- id: motif:3
+  label: corpse-related pollution controls
+  taxonomy_refs: []
+  basis: Several high-penalty examples involve corpses, death houses, dead matter,
+    bones, and measures preventing birds or dogs from carrying dead matter to trees
+    and rivers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly use the word pollution in this excerpt;
+    the label is inferred from corpse-control actions described.
+- id: motif:4
+  label: heightened legal concern for the shepherd's dog
+  taxonomy_refs: []
+  basis: The passage highlights that serving bad food to a shepherd's dog receives
+    a harsher penalty than manslaughter.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as an example of penalty inequality; it does not
+    explain the theological or symbolic rationale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5026-5033
+  quote_or_summary: Pesho-tanu is explained as often interpreted as 'worthy of death'
+    but technically meaning one who must receive two hundred strokes with the horse-whip.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 5033-5047
+  quote_or_summary: The lowest penalty is five stripes, with degrees rising through
+    ten, fifteen, thirty, fifty, seventy, ninety, and two hundred; examples include
+    manslaughter at ninety stripes and a second unatoned manslaughter at Peshotanu,
+    with repeated crimes escalating through the series.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 5054-5059
+  quote_or_summary: The passage states that it is safer to kill a man than to serve
+    bad food to a shepherd's dog, since the manslayer receives ninety stripes while
+    the bad master is immediately Peshotanu and receives two hundred stripes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 5059-5069
+  quote_or_summary: Two hundred stripes are listed for tilling land where a corpse
+    was buried within the year, for a woman just delivered of child drinking water,
+    for suppressing menses, for sacrifice in a house where a man just died, and for
+    failing to fasten a corpse so birds or dogs do not take dead matter to trees and
+    rivers.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 5069-5075
+  quote_or_summary: The passage begins another example of two hundred stripes for
+    throwing on the ground a bone of a man's corpse or of a dog's carcass of a specified
+    size.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal legal and ritual details are explicit. Motif labels are cautious
+    because the passage is expository legal commentary rather than a mythic narrative.
+    No external or cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l5026-l5075
+  passage_sha256=142f7e229edd97f62f80891020ccb264768c67abd383c8a6a183f672c599d4ab
+

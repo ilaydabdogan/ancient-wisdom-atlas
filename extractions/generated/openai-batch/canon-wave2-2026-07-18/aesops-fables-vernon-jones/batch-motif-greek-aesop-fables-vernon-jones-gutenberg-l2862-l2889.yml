@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2862-l2889
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GOAT AND THE VINE / THE TWO POTS / THE OLD HOUND / THE CLOWN AND THE
+    COUNTRYMAN; lines 2862-2889
+  start: '2862'
+  end: '2889'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"There, that shows what sort of judges you are!"'
+  summary: A nobleman offers prizes for novel public performances. A popular Clown
+    imitates a pig so convincingly that the audience thinks a pig is hidden on him,
+    and applauds when none is found. A Countryman then hides a real young pig under
+    his smock, makes it squeal, and is judged inferior to the Clown until he reveals
+    the pig and mocks the spectators' judgment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A nobleman announces a public entertainment in a theatre and offers prizes
+    for novel exhibitions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The announcement attracts conjurers, jugglers, acrobats, and a popular Clown
+    who promises a new turn.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The theatre is filled before the entertainment begins.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Clown comes on empty-handed and alone and imitates the squeak of a pig.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The audience asks the Clown to produce the animal, believing he has one concealed,
+    but he shows there is no pig and receives loud applause.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A Countryman among the spectators disparages the Clown's performance and says
+    he will give a superior version of the same trick the next day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Before going on stage, the Countryman hides a young porker under his smock.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Countryman pinches the pig's ear, causing it to squeal loudly, but the
+    spectators say the Clown's imitation is more true to life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Countryman produces the pig from under his smock and sarcastically rebukes
+    the spectators as judges.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nobleman
+  description: The person who announces the public entertainment and offers prizes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Clown
+  description: A popular performer who imitates a pig's squeak while empty-handed
+    and alone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Countryman
+  description: A spectator who challenges the Clown, hides a young pig, makes it squeal,
+    and then reveals it.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Audience / crowd / spectators
+  description: The people who fill the theatre, applaud the Clown, challenge the Countryman,
+    and judge the performances.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Young porker / pig
+  description: The animal hidden under the Countryman's smock and made to squeal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Conjurers, jugglers, and acrobats
+  description: Other performers attracted by the nobleman's announcement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: patron of public entertainment
+  assigned_to:
+  - fig:1
+  basis: The nobleman announces the entertainment and offers prizes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: public performer
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The Clown and other entertainers appear in the setting of a prize performance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: challenger to a performance
+  assigned_to:
+  - fig:3
+  basis: The Countryman disparages the Clown and promises a superior exhibition of
+    the same trick.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: public judges or spectators
+  assigned_to:
+  - fig:4
+  basis: The crowd responds with applause, derision, and comparative judgment of the
+    performances.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:5
+  label: concealed animal producing the sound
+  assigned_to:
+  - fig:5
+  basis: The pig is hidden under the Countryman's smock and made to squeal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: revealer of hidden proof
+  assigned_to:
+  - fig:3
+  basis: The Countryman produces the pig after the audience judges the real squeal
+    inferior to the imitation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: young porker
+  literal_form: A young porker hidden under the Countryman's smock and later shown
+    to the spectators.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: smock
+  literal_form: The Countryman's garment under which the young porker is concealed.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: theatre
+  literal_form: The public theatre where the entertainment and judgment by spectators
+    occur.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Announcement and gathering
+  summary: A nobleman offers prizes for novel public performances, attracting entertainers
+    and filling the theatre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The Clown's pig imitation
+  summary: The Clown performs alone and empty-handed, imitates a pig, and persuades
+    the audience that no pig is concealed.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The Countryman's challenge and hidden pig
+  summary: The Countryman challenges the Clown, then hides a young porker under his
+    smock before his own performance.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Audience misjudgment and revelation
+  summary: The Countryman makes the pig squeal, the audience judges the Clown's imitation
+    better, and the Countryman reveals the pig while rebuking their judgment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: public contest for novelty
+  taxonomy_refs: []
+  basis: The nobleman offers prizes for novel exhibitions and performers gather in
+    the theatre.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a narrative setup rather than a specialized mythological motif.
+- id: motif:2
+  label: animal sound imitation mistaken for a hidden animal
+  taxonomy_refs: []
+  basis: The Clown imitates a pig so well that the audience believes he has an animal
+    hidden, but no pig is found.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the supplied list.
+- id: motif:3
+  label: real animal used as proof in a performance contest
+  taxonomy_refs: []
+  basis: The Countryman conceals a real pig, makes it squeal, and reveals it after
+    the audience judges the imitation superior.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted at the episode level and does not imply historical
+    comparison.
+- id: motif:4
+  label: exposure of poor public judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The spectators prefer the Clown's imitation to the sound of the actual pig,
+    and the Countryman rebukes them as judges.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and should be reviewed by a
+    human.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2862-2872
+  quote_or_summary: The fable opens with a nobleman announcing a theatre entertainment
+    with prizes for novelty; various performers and a popular Clown are attracted,
+    and the theatre fills.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2872-2877
+  quote_or_summary: The Clown appears empty-handed and alone, imitates a pig's squeak,
+    is asked to produce the supposed hidden animal, shows no pig is present, and receives
+    loud applause.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2878-2881
+  quote_or_summary: A Countryman in the audience criticizes the Clown's act and announces
+    that he will perform the same trick better the next day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2881-2887
+  quote_or_summary: On the next day the theatre is full again; the Clown is cheered,
+    while the Countryman has hidden a young porker under his smock, pinches its ear
+    to make it squeal, and is judged less true to life than the Clown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2887-2889
+  quote_or_summary: The Countryman produces the pig from under his smock and says,
+    "There, that shows what sort of judges you are!"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level and
+    should be reviewed, especially the broad wisdom taxonomy assignment. No comparison
+    claims were made because the passage itself does not establish historical or cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. The source locator label mentions multiple fables, but the supplied passage text contains only "THE CLOWN AND THE COUNTRYMAN."
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2862-l2889
+  passage_sha256=c105186f7d1385748978412e34658872a40689d86a9109ce6e167d77344ae552
+

@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2155-l2165
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OXEN AND THE AXLETREES / THE BOY AND THE FILBERTS / THE FROGS ASKING
+    FOR A KING / THE OLIVE-TREE AND THE FIG-TREE; lines 2155-2165
+  start: '2155'
+  end: '2165'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An Olive-tree mocks a Fig-tree for losing leaves in autumn and standing
+    bare until spring, contrasting this with her own year-round greenness. A heavy
+    snow later settles on the Olive’s leaves, causing her to bend and break, while
+    the bare Fig’s branches let the snow pass through and the Fig survives to bear
+    more crops.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Olive-tree taunts a Fig-tree about losing leaves at a certain season.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Olive-tree says the Fig-tree loses leaves every autumn and remains bare
+    until spring.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Olive-tree says she remains green and flourishing all year round.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A heavy fall of snow settles on the Olive-tree’s leaves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Olive-tree bends and breaks under the weight of the snow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Snowflakes fall harmlessly through the Fig-tree’s bare branches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Fig-tree survives and later bears many more crops.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Olive-tree
+  description: A personified olive tree that taunts the Fig-tree and remains green
+    and flourishing all year, then bends and breaks under snow on her leaves.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Fig-tree
+  description: A personified fig tree that loses leaves in autumn, is bare until spring,
+    and survives the snow through its bare branches to bear more crops.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: taunting speaker
+  assigned_to:
+  - fig:1
+  basis: The Olive-tree taunts the Fig-tree and speaks disparagingly of its seasonal
+    leaf loss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: target of taunt
+  assigned_to:
+  - fig:2
+  basis: The Fig-tree is addressed by the Olive-tree as the one that loses leaves
+    and becomes bare.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: snow-burdened evergreen
+  assigned_to:
+  - fig:1
+  basis: The Olive-tree’s leaves hold the heavy snow, causing the tree to bend and
+    break.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bare-branch survivor
+  assigned_to:
+  - fig:2
+  basis: The Fig-tree’s bare branches let the snow pass through harmlessly, and the
+    tree survives to bear crops.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Olive-tree and Fig-tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: seasonal leaf loss
+  literal_form: Loss of leaves every autumn and bareness until spring
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: evergreen foliage
+  literal_form: Leaves that remain green and flourishing all year round
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: heavy snow
+  literal_form: A heavy fall of snow settling on leaves and passing through bare branches
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: future crops
+  literal_form: Many another crop borne by the surviving Fig-tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Olive-tree taunts Fig-tree over seasonal bareness
+  summary: The Olive-tree mocks the Fig-tree for losing leaves in autumn and being
+    bare until spring, while claiming year-round greenness and flourishing for herself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Snow breaks Olive-tree while Fig-tree survives
+  summary: Heavy snow settles on the Olive-tree’s leaves and breaks her, while the
+    Fig-tree’s bare branches allow the snow to pass through harmlessly, and the Fig-tree
+    later bears more crops.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: apparent disadvantage becomes protection
+  taxonomy_refs: []
+  basis: The Fig-tree’s seasonal bareness is mocked as a defect, but the same bareness
+    lets snow pass through harmlessly and enables survival.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage gives the narrative pattern directly but does not state an
+    explicit moral in the supplied text.
+- id: motif:2
+  label: boastful advantage becomes vulnerability
+  taxonomy_refs: []
+  basis: The Olive-tree boasts of remaining green all year, but her leaves hold snow,
+    causing her to bend and break.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The interpretation is limited to the causal reversal described in the
+    fable.
+- id: motif:3
+  label: seasonal cycle and survival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The tale contrasts autumn leaf loss, spring recovery, year-round greenness,
+    and later crop-bearing after snow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage concerns plant
+    seasonality in a fable rather than a full mythic seasonal-cycle narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2155-2165
+  quote_or_summary: The Olive-tree taunts the Fig-tree for losing leaves every autumn
+    and remaining bare until spring.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 2155-2165
+  quote_or_summary: The Olive-tree contrasts herself with the Fig-tree, saying that
+    she remains green and flourishing all year round.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 2155-2165
+  quote_or_summary: A heavy fall of snow settles on the Olive-tree’s leaves, and she
+    bends and breaks under the weight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2155-2165
+  quote_or_summary: Snowflakes fall harmlessly through the Fig-tree’s bare branches;
+    the Fig-tree survives to bear many more crops.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate abstractions of the fable’s reversal pattern. No external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; no external fable moral or comparative tradition was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2155-l2165
+  passage_sha256=7472ad0ae55fa6a5a02609c728c85d0419f37a99b092e602eefad2b7587592b3
+

@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l7202-l7273
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: THE   MONGAN   EPISODE  137 / TESTIMONIA   TO   MONGAN  139 / I40  MONGAN
+    / LOAN   WORDS  141; lines 7202-7273
+  start: '7202'
+  end: '7273'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage argues that the preserved form of Bran''s Voyage is unlikely
+    to predate the late seventh century and is more likely eighth-century, partly
+    on the basis of Latin loan words and borrowing from Latin Christian culture. It
+    describes the tale as partly Pagan but retold with Christian allusions. It then
+    frames Bran''s Voyage as one example of a wider Irish romantic narrative class
+    and summarizes its Happy Otherworld: mortals may reach it when summoned by denizens
+    of that land; the summons comes from a damsel whose approach is marked by magically
+    sweet music and who bears a magic apple-branch.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Bran's Voyage can hardly have assumed its transmitted
+    shape before the last quarter of the seventh century and may be younger.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says linguistic and historical evidence are in general agreement
+    and that the tale may belong to the seventh century, or more likely to the eighth
+    century.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the story contains loan words from Latin and that
+    borrowing from Latin implies possible borrowing from Latin Christian culture.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes Bran's Voyage as partly Pagan and says the author could
+    retell a Pagan tale with Christian allusions and loans from Latin Christian culture.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that Bran's Voyage is one example of a class of romantic
+    narrative in Irish literature and that its leading conceptions include the Happy
+    Otherworld and Rebirth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the Happy Otherworld may be reached by mortals specially
+    summoned by denizens of the land.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the summons comes from a damsel whose approach is marked
+    by magically sweet music and who bears a magic apple-branch.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the damsel describes the land in alluring terms.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mortals
+  description: Mortals who may reach the Happy Otherworld when specially summoned
+    by denizens of the land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Denizens of the land
+  description: Beings of the Happy Otherworld who specially summon mortals to the
+    land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Damsel
+  description: A damsel from whom the summons comes; her approach is marked by magically
+    sweet music, she bears a magic apple-branch, and she describes the land alluringly.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Summoned mortal visitors
+  assigned_to:
+  - fig:1
+  basis: The passage says mortals may reach the Happy Otherworld when specially summoned.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: Otherworld summoners
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says mortals are summoned by denizens of the land and that the
+    summons comes from a damsel.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Female messenger and describer of the land
+  assigned_to:
+  - fig:3
+  basis: The damsel carries the summons, bears a magic apple-branch, is accompanied
+    by magical music, and describes the land in alluring terms.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Happy Otherworld
+  literal_form: A land called the Happy Otherworld, reachable by specially summoned
+    mortals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Magically sweet music
+  literal_form: Music marking the damsel's approach.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Magic apple-branch
+  literal_form: A magic apple-branch borne by the damsel.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dating argument from loan words
+  summary: The passage argues that Latin loan words and historical considerations
+    support a late seventh- or eighth-century date for the preserved form of Bran's
+    Voyage.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pagan tale retold with Christian allusions
+  summary: The passage characterizes Bran's Voyage as partly Pagan while also saying
+    it is embellished with Christian allusions and loans from Latin Christian culture.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Placement within a wider Irish narrative class
+  summary: The passage presents Bran's Voyage as one example of a broader class of
+    romantic narrative and identifies the Happy Otherworld and Rebirth as leading
+    conceptions that may be paralleled elsewhere.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Summons to the Happy Otherworld
+  summary: Mortals may reach the Happy Otherworld when summoned by its denizens; the
+    summons comes through a damsel accompanied by magically sweet music and bearing
+    a magic apple-branch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Summoned journey to a Happy Otherworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage says mortals may reach the Happy Otherworld when specially summoned
+    by denizens of the land.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt calls the destination an Otherworld but does not explicitly
+    define it as an afterlife realm.
+- id: motif:2
+  label: Female otherworld messenger with magical token and music
+  taxonomy_refs: []
+  basis: The summons comes from a damsel whose approach is marked by magically sweet
+    music and who bears a magic apple-branch.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The damsel's identity, origin, and relationship to the mortals are not
+    further specified in this excerpt.
+- id: motif:3
+  label: Rebirth conception
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage names Rebirth as one of the two leading conceptions embodied
+    in Bran's Voyage.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names Rebirth but gives no narrative details of the rebirth
+    pattern in this line range.
+- id: motif:4
+  label: Pagan narrative retold through Christian cultural language
+  taxonomy_refs: []
+  basis: The passage describes Bran's Voyage as partly Pagan while also containing
+    Christian allusions and loans from Latin Christian culture.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a textual-cultural pattern identified by the commentator rather
+    than a narrative motif performed by figures in the summarized tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage argues that Latin loan words in Bran's Voyage imply contact with,
+    and possible borrowing from, Latin Christian culture.
+  claim_level: historical_contact
+  target: Latin Christian culture
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not list the specific Latin loan words; it reports
+    the commentator's argument.
+- id: claim:2
+  claim: The passage presents Bran's Voyage as one example of a broader Irish romantic
+    narrative class that preserves related conceptions.
+  claim_level: same_function
+  target: A class of Irish romantic narrative reaching back to early Irish literature
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name specific texts in this class within the provided
+    line range.
+- id: claim:3
+  claim: The passage states that the Happy Otherworld and Rebirth conceptions in Bran's
+    Voyage may be paralleled from tales of equal or greater antiquity.
+  claim_level: same_motif
+  target: Other early Irish tales with Happy Otherworld and Rebirth conceptions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The specific parallel tales and their evidence are not included in
+    the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7202-7214
+  quote_or_summary: Bran's Voyage is said unlikely to have assumed its transmitted
+    shape before the last quarter of the seventh century; linguistic and historical
+    evidence suggest a seventh- or more likely eighth-century date.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7214-7226
+  quote_or_summary: The passage says Professor Meyer noted Latin loan words in the
+    story, and that Latin borrowing implies possible borrowing from Latin Christian
+    culture and familiarity with the ideas represented by the words.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7227-7249
+  quote_or_summary: Bran's Voyage is described as partly Pagan; the author could retell
+    a Pagan tale with Christian allusions and loans from Latin Christian culture,
+    leading to a provisional mid-eighth-century assignment.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7251-7265
+  quote_or_summary: The passage says Bran's Voyage is one example of a class of romantic
+    narrative and that its leading conceptions, the Happy Otherworld and Rebirth,
+    may be paralleled from tales of equal or greater antiquity.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7267-7273
+  quote_or_summary: The Happy Otherworld may be reached by mortals specially summoned
+    by its denizens; the summons comes from a damsel whose approach has magically
+    sweet music and who bears a magic apple-branch.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly scholarly commentary with a short narrative summary
+    of the Happy Otherworld. Motif extraction is strongest for the explicitly summarized
+    summons scene; broader motif labels rely on the commentator's terminology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to provided motif-family identifiers and used cautiously where the passage wording supports them.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l7202-l7273
+  passage_sha256=a640d327ae296469594febdbfe98881ef0e5fccc52d3ee5004e60dd75e978d0a
+

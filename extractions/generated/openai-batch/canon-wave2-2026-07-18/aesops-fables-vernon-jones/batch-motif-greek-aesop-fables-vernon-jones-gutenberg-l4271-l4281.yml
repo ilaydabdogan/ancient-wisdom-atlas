@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4271-l4281
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SHEEP AND THE DOG / THE SHEPHERD AND THE WOLF / THE LION, JUPITER, AND
+    THE ELEPHANT / THE PIG AND THE SHEEP; lines 4271-4281
+  start: '4271'
+  end: '4281'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: he only wants you for wool, but he wants me for bacon.
+  summary: A Pig enters a meadow where Sheep are grazing. The shepherd catches the
+    Pig and carries him toward the butcher's, while the Pig squeals and struggles.
+    The Sheep criticize the Pig for making a fuss, saying they are regularly caught
+    and dragged off without reacting that way. The Pig replies that the cases differ
+    because the Sheep are wanted for wool, while he is wanted for bacon.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Pig finds his way into a meadow where a flock of Sheep are grazing.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shepherd catches the Pig and proceeds to carry him off to the butcher's.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Pig squeals loudly and struggles to get free after being caught.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Sheep rebuke the Pig for making a fuss and say the shepherd regularly
+    catches and drags them off without their making a fuss.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Pig replies that his case differs from the Sheep's case.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Pig states that the shepherd wants the Sheep for wool but wants him for
+    bacon.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pig
+  description: Animal who enters the meadow, is caught by the shepherd, squeals, struggles,
+    and explains that he is wanted for bacon.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Sheep
+  description: A grazing flock that rebukes the Pig and says the shepherd regularly
+    catches and drags them off.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: shepherd
+  description: Human figure who catches the Pig, is said to catch and drag off the
+    Sheep regularly, and is described as wanting wool from the Sheep and bacon from
+    the Pig.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: captured animal facing slaughter
+  assigned_to:
+  - fig:1
+  basis: The Pig is caught, carried toward the butcher's, and described as wanted
+    for bacon.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: grazing flock regularly handled by shepherd
+  assigned_to:
+  - fig:2
+  basis: The Sheep are grazing and say the shepherd regularly catches and drags them
+    off.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: catcher and user of animal products
+  assigned_to:
+  - fig:3
+  basis: The shepherd catches the Pig, regularly catches the Sheep, and is said to
+    want wool from Sheep and bacon from the Pig.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: speaker distinguishing unequal danger
+  assigned_to:
+  - fig:1
+  basis: The Pig argues that his situation differs from the Sheep's because the intended
+    outcome is bacon rather than wool.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rebuking observers at lesser risk
+  assigned_to:
+  - fig:2
+  basis: The Sheep rebuke the Pig because they compare his capture to their own regular
+    experience of being caught and dragged off.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: meadow
+  literal_form: meadow where the Sheep are grazing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: butcher's destination
+  literal_form: the butcher's
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wool
+  literal_form: wool wanted from the Sheep
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bacon
+  literal_form: bacon wanted from the Pig
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pig enters grazing meadow
+  summary: A Pig enters a meadow where a flock of Sheep are grazing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shepherd captures Pig
+  summary: The shepherd catches the Pig and carries him toward the butcher's while
+    the Pig squeals and struggles.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sheep rebuke and Pig replies
+  summary: The Sheep criticize the Pig for making a fuss, comparing his treatment
+    to their own regular handling. The Pig answers that the situations differ because
+    the Sheep are wanted for wool, while he is wanted for bacon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unequal danger behind similar treatment
+  taxonomy_refs: []
+  basis: 'The Sheep compare the Pig''s capture to their own regular capture, but the
+    Pig points out that the outwardly similar treatment has different consequences:
+    wool for Sheep, bacon for Pig.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Plain narrative motif only; no supplied taxonomy family is a precise match.
+- id: motif:2
+  label: animal taken for slaughter resists capture
+  taxonomy_refs: []
+  basis: The Pig is caught, carried toward the butcher's, squeals, struggles, and
+    says he is wanted for bacon.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage describes slaughter for food, not ritual sacrifice.
+- id: motif:3
+  label: misjudged alarm by those at lesser risk
+  taxonomy_refs: []
+  basis: The Sheep rebuke the Pig's alarm because they experience capture differently;
+    the Pig explains that his danger is greater.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an inferred fable-pattern label based on the dialogue, not an
+    explicit moral stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4271-4273
+  quote_or_summary: The fable is titled “THE PIG AND THE SHEEP”; a Pig enters a meadow
+    where a flock of Sheep are grazing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary and short quotation permitted.
+- id: ev:2
+  type: summary
+  locator: 4274-4275
+  quote_or_summary: The shepherd catches the Pig and begins carrying him toward the
+    butcher's; the Pig squeals loudly and struggles to get free.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:3
+  type: summary
+  locator: 4276-4278
+  quote_or_summary: The Sheep rebuke the Pig for making such a fuss and say that the
+    shepherd regularly catches and drags them off without their reacting that way.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:4
+  type: quote
+  locator: 4278-4281
+  quote_or_summary: "“he only wants you for wool, but he wants me for bacon.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims were
+    added because the passage gives no explicit external comparison to another tradition,
+    corpus, or named motif family. No supplied taxonomy symbol is directly present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy ref “sacrifice” was not applied because the passage describes butchery for bacon rather than a ritual offering.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4271-l4281
+  passage_sha256=0a03c5025eb8902c2d0b67ef7169e34aba33e700caec4da542d4fc72aa08a8fc
+

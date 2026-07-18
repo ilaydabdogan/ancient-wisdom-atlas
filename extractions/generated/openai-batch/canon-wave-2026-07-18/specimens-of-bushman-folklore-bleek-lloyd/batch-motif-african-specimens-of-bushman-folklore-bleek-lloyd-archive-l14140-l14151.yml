@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14140-l14151
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    IKA-KAU    AND    THE    WILD    CAT. / SAXICOLA    CASTOR    AND    WILD    CAT.  255
+    / A    LION'S    STORY. / THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE.; lines 14140-14151
+  start: '14140'
+  end: '14151'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE.
+  summary: The passage gives the title of a story about a man who found a lion in
+    a cave, followed by source metadata and transcribed Katkop-dialect text without
+    an English translation in this excerpt.
+  language: English and Katkop dialect transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The title identifies a man as finding a lion in a cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The story is attributed to Diajkw|in, related in July 1875 in the Katkop dialect,
+    and said to have been heard from his paternal grandfather, j^ugen-ddi.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The excerpt includes transcribed non-English narrative text following the
+    title and attribution.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man identified in the title as the one who found a lion in a cave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: lion
+  description: A lion identified in the title as being found in a cave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Diajkw|in
+  description: The named teller of the story in the attribution note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: j^ugen-ddi
+  description: Diajkw|in's paternal grandfather, named as the source from whom Diajkw|in
+    heard the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: finder
+  assigned_to:
+  - fig:1
+  basis: The title says the man found a lion in a cave.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: found animal
+  assigned_to:
+  - fig:2
+  basis: The title says the lion was found in a cave.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: storyteller
+  assigned_to:
+  - fig:3
+  basis: The attribution states that the story was related by Diajkw|in.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: source elder
+  assigned_to:
+  - fig:4
+  basis: The attribution states that Diajkw|in heard the story from his paternal grandfather,
+    j^ugen-ddi.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lion
+  literal_form: lion
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Finding a lion in a cave
+  summary: The title presents a scene in which a man found a lion in a cave; further
+    narrative details are not translated in this excerpt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Story attribution
+  summary: The attribution note identifies the teller, date, dialect, and the elder
+    from whom the teller heard the story.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: human encounter with a dangerous animal in a cave
+  taxonomy_refs: []
+  basis: The title identifies a man finding a lion in a cave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the title is available in English; the transcribed narrative body
+    in this excerpt is not translated, so the action and narrative function cannot
+    be further specified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14140-14141
+  quote_or_summary: "“THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt quoted for identification.
+- id: ev:2
+  type: summary
+  locator: lines 14142-14144
+  quote_or_summary: 'Attribution note: related in July 1875 in the Katkop dialect
+    by Diajkw|in, who heard it from his paternal grandfather, j^ugen-ddi.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14146-14151
+  quote_or_summary: The excerpt continues with numbered transcribed Katkop-dialect
+    text, without an English translation in the supplied passage.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The English title and attribution support identification of the man, lion,
+    cave, and transmission metadata. Motif extraction is limited because the narrative
+    body is supplied only as transcription without English translation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support a comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14140-l14151
+  passage_sha256=618f5bcc7a414ff8f2351c69a2515ea395fc05da400eb17ab4364691b666747d
+

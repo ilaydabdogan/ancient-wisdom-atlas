@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l897-l991
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE AXE, THE DRUM, THE BOWL, AND THE DIAMOND / THE WISE PARROT AND THE FOOLISH
+    PARROT / THE DISHONEST FRIEND / THE MOUSE AND THE FARMER; lines 897-991
+  start: '897'
+  end: '991'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A mouse lives in a hole above buried gold on a farmer's land. The kind
+    farmer feeds the mouse, and the mouse repays him with daily golden sovereigns,
+    receiving meat in return. A black cat named Grimalkin threatens to eat the fattened
+    mouse and forces him to surrender the meat each day. The mouse grows thin and
+    tells the farmer, who places him inside a transparent glass object, likely an
+    inkstand. When the cat demands meat and the mouse refuses, the cat swallows the
+    mouse together with the glass object, cannot digest it, dies, and the mouse escapes
+    and resumes the daily exchange with the farmer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Mouse has a hole in ground where many golden sovereigns are buried.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Farmer owns the land but does not know about the buried treasure; he does
+    not hurt the Mouse and sometimes gives him cheese.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Mouse gives the Farmer a golden sovereign, and the Farmer responds by
+    buying meat for the Mouse.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Mouse and Farmer continue a daily exchange in which the Mouse brings a
+    golden sovereign and the Farmer gives meat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Farmer's black cat Grimalkin notices the Mouse after he has become fat
+    and pounces on him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Mouse asks Grimalkin not to kill him and offers to bring him meat every
+    day; Grimalkin accepts and threatens to kill him if he misses a day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Mouse carries the Farmer's meat to Grimalkin each day, and the Mouse becomes
+    thin.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Mouse tells the Farmer that Grimalkin eats all his dinner.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Farmer places the Mouse inside a transparent glass object with a hole
+    in the middle, turns it upside down before the Mouse's hole, and instructs the
+    Mouse to refuse Grimalkin's next demand.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Grimalkin demands meat; the Mouse refuses and calls him a thief.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Grimalkin swallows the Mouse together with the glass inkstand because he sees
+    the Mouse through the glass and does not notice the object.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Grimalkin cannot digest the glass object, dies, and the Mouse comes out through
+    Grimalkin's throat and returns to his hole.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mousie / the Mouse
+  description: A mouse living in a hole above buried golden sovereigns; he gives gold
+    to the Farmer, is threatened by Grimalkin, is placed inside a glass object, and
+    survives after being swallowed.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the Farmer
+  description: A kind owner of the land who feeds the Mouse, receives golden sovereigns
+    from him, and later protects him with a glass object.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Grimalkin / the black Cat
+  description: The Farmer's big black cat, a predator of mice, who coerces the Mouse
+    into giving him meat and later dies after swallowing the Mouse and glass object.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: grateful animal giver
+  assigned_to:
+  - fig:1
+  basis: The Mouse is grateful for the Farmer's kindness and brings him golden sovereigns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: kind food-giver and exchange partner
+  assigned_to:
+  - fig:2
+  basis: The Farmer does not hurt the Mouse, gives him cheese and later meat, and
+    receives golden sovereigns in return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: predatory coercer
+  assigned_to:
+  - fig:3
+  basis: Grimalkin pounces on the Mouse, accepts a daily meat bargain, and threatens
+    death if the Mouse fails to provide meat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: helper in protective plan
+  assigned_to:
+  - fig:2
+  basis: The Farmer puts the Mouse inside a glass object and tells him to refuse Grimalkin.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: threatened survivor
+  assigned_to:
+  - fig:1
+  basis: The Mouse is threatened and swallowed but survives by being inside the glass
+    object and returns to his hole.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: buried golden sovereigns
+  literal_form: Thousands of golden sovereigns buried in the ground beneath the Mouse's
+    hole.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: meat as daily food
+  literal_form: Pieces or chunks of meat given by the Farmer to the Mouse and later
+    demanded by Grimalkin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: mouse hole
+  literal_form: The Mouse's hole in the ground, placed over buried treasure and used
+    as his home.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: glass inkstand
+  literal_form: A transparent piece of glass with a hole in the middle, probably an
+    inkstand, placed over the Mouse and swallowed by Grimalkin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: fire
+  literal_form: The fire beside which Grimalkin likes sitting.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Kindness and reciprocal exchange
+  summary: The Farmer spares and feeds the Mouse; the Mouse repays him with golden
+    sovereigns, and the Farmer gives meat in return every day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Grimalkin's threat and bargain
+  summary: Grimalkin pounces on the fat Mouse. The Mouse offers daily meat to avoid
+    being eaten, and Grimalkin accepts with a threat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mouse deprived and Farmer's intervention
+  summary: The Mouse carries his meat to Grimalkin and becomes thin. After the Mouse
+    tells the Farmer what is happening, the Farmer places him inside a glass object
+    and tells him to refuse the cat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Refusal and swallowing
+  summary: Grimalkin demands meat, the Mouse refuses, and Grimalkin swallows both
+    the Mouse and the transparent glass object.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cat's death and restored life
+  summary: Grimalkin dies because he cannot digest the glass object. The Mouse escapes
+    through the cat's throat, returns to his hole, and continues giving gold to the
+    Farmer in exchange for meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: reciprocal animal-human gift exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Mouse brings a golden sovereign to the Farmer every day, and the Farmer
+    gives the Mouse meat every day.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: medium
+  cautions: The exchange is explicit, but the passage does not describe it as sacred;
+    the taxonomy reference is a broad functional fit only.
+- id: motif:2
+  label: wisdom or clever planning overcomes predatory force
+  taxonomy_refs:
+  - wisdom
+  basis: The Mouse first bargains for his life, then the Farmer devises a plan using
+    a transparent glass object that leads to Grimalkin's defeat.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage attributes the final protective plan to the Farmer rather
+    than solely to the Mouse.
+- id: motif:3
+  label: coerced food tribute to a predator
+  taxonomy_refs: []
+  basis: Grimalkin spares the Mouse only after the Mouse promises to bring meat every
+    day, and the Mouse becomes thin because Grimalkin eats all his dinner.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this pattern.
+- id: motif:4
+  label: swallowed survivor escapes after predator is undone by hidden object
+  taxonomy_refs: []
+  basis: Grimalkin swallows the Mouse together with the glass object, dies because
+    he cannot digest it, and the Mouse crawls out through his throat.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The Mouse is not described as dying, so this should not be treated as
+    resurrection or rebirth without further review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 899-906
+  quote_or_summary: The Mouse lives in a hole above buried golden sovereigns on the
+    Farmer's land; the Farmer is unaware of the treasure, does not harm the Mouse,
+    and sometimes gives him cheese.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 908-919
+  quote_or_summary: The grateful Mouse gives the Farmer a golden sovereign; the Farmer
+    buys meat for the Mouse, and thereafter the Mouse brings a golden sovereign daily
+    while the Farmer gives him meat daily.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 921-925
+  quote_or_summary: The Farmer's big black cat Grimalkin begins to notice the Mouse
+    after he becomes sleek and fat, lies in wait, and pounces on him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 927-945
+  quote_or_summary: The Mouse pleads not to be killed and offers Grimalkin a juicy
+    piece of meat every day; Grimalkin, described as lazy and fond of sitting by the
+    fire, accepts and threatens the Mouse with death if he misses a day.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 947-960
+  quote_or_summary: The Mouse carries the Farmer's meat to the black cat, grows thinner
+    and thinner, and tells the Farmer that Grimalkin eats all his dinner.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 962-967
+  quote_or_summary: The Farmer places the Mouse inside a glass object with a hole
+    in the middle, probably an inkstand, turns it upside down in front of the Mouse's
+    hole, and tells the Mouse to refuse Grimalkin's next demand.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 969-981
+  quote_or_summary: Grimalkin comes demanding meat; the Mouse refuses and calls him
+    a thief. In anger, Grimalkin pounces and swallows the Mouse with the inkstand,
+    not noticing the transparent glass.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 983-990
+  quote_or_summary: Grimalkin cannot digest the glass inkstand, suffers worsening
+    pain, and dies. The Mouse crawls out through Grimalkin's throat, returns to his
+    hole, and lives happily while continuing the gold-for-meat exchange with the Farmer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied passage. Motif labels are candidate
+    functional descriptions and need human review, especially where a broad taxonomy
+    family such as sacred_exchange is applied to a non-sacred literal exchange. No
+    external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another text, tradition, or motif family beyond the candidate taxonomy mapping.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l897-l991
+  passage_sha256=d5931ddd004f2dff62a550306f76cfc613239b0dd9d839feb03917f9dae0da17
+

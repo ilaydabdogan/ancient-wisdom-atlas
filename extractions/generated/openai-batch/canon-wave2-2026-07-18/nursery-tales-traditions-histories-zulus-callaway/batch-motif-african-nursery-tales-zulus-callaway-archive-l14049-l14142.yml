@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l14049-l14142
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / THE  HONEY-BIRD. / INHLAMVU. / IZINGANEKWANE.; lines 14049-14142
+  start: '14049'
+  end: '14142'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“the bird goes in front, for in fact it is a guide.”"
+  summary: A honey-bird named Inthlamvu appears before a man, chirps, is praised by
+    him, and guides him through bushes toward the place where bees are. The man follows,
+    calls out when the bird becomes silent, and the bird returns or waits so that
+    they can continue.
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The bird is named Inthlamvu and appears in front of the man while chirping
+    loudly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man responds to the bird and praises it as a honey-bird that calls women
+    when they are digging.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bird cries loudly, makes noise in the bushes, goes in front, and is explicitly
+    described as a guide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man follows continually and does not ask where he is going.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Because the bird flies while the man moves with difficulty through underwood,
+    the bird waits for him or returns to meet him when it has gone far ahead.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the man no longer hears the bird and it is silent, he repeatedly asks
+    where it has gone and shouts loudly to signal that he is looking for it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The bird returns to the place where it left the man; the man hears it, cheers
+    it, and the bird comes to him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If the bird does not see the man, it stops on a tree until the man comes into
+    the open and they see each other.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the man and bird see each other, the bird goes ahead again and comes
+    near the place where the bees are.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Inthlamvu, the honey-bird
+  description: A bird that chirps, makes noise in the bushes, flies ahead, waits or
+    returns for the man, and leads him toward the bees.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the man
+  description: An unnamed man who hears the honey-bird, praises it, follows it, calls
+    for it when it is silent, and comes into the open so the bird can see him.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: guide
+  assigned_to:
+  - fig:1
+  basis: The passage says the bird goes in front and is a guide; it waits for or returns
+    to the man.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: follower
+  assigned_to:
+  - fig:2
+  basis: The man follows the bird continually and does not ask where he is going.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: caller or signaler
+  assigned_to:
+  - fig:1
+  basis: The bird chirps loudly, cries, and makes noise in the bushes while leading.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: responder and seeker
+  assigned_to:
+  - fig:2
+  basis: The man answers, praises, and later shouts to show the bird he is looking
+    for it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: honey-bird guide
+  literal_form: Inthlamvu, the honey-bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: tree perch
+  literal_form: a tree on which the bird stops when it does not see the man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: place of bees
+  literal_form: the place where the bees are
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: bushes and underwood
+  literal_form: bushes and underwood through which the man passes with difficulty
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Encounter with the honey-bird
+  summary: Inthlamvu appears in front of the man, chirps loudly, and the man answers
+    and praises it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Guidance through the bushes
+  summary: The bird makes noise in the bushes and goes in front as a guide while the
+    man follows through underwood; the bird waits or returns when it has flown ahead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Calling the absent guide back
+  summary: When the bird becomes silent, the man calls out for it. The bird returns
+    to where it left him, and he cheers it when it arrives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Tree stop and approach to bees
+  summary: If the bird does not see the man, it stops on a tree until he comes into
+    view; then it goes ahead toward the place where the bees are.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: bird guide leading a human to bees
+  taxonomy_refs: []
+  basis: The honey-bird is explicitly called a guide, goes ahead of the man, waits
+    or returns for him, and leads him near the place where bees are.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The supplied passage ends before the full outcome of reaching the bees
+    is shown.
+- id: motif:2
+  label: vocal call-and-response with an animal guide
+  taxonomy_refs: []
+  basis: The bird guides by chirping and crying; the man answers, praises, and later
+    shouts when the bird is silent so that it will return or be found.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This may describe practical tracking behavior within the tale rather than
+    a distinct comparative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14049-14142, English translation, opening of supplied passage
+  quote_or_summary: "“its name is Inthlamvu. As he is walking along, perhaps it appears
+    in front of him, and he hears it loudly chirping”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 14049-14142, English translation, praise speech
+  quote_or_summary: 'The man answers and praises it: “Thou honey-bird, who calls the
+    women when they are digging!”'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 14049-14142, English translation, guidance description
+  quote_or_summary: "“the bird goes in front, for in fact it is a guide.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 14049-14142, English translation, following sequence
+  quote_or_summary: The man follows continually without asking where he is going;
+    the bird flies ahead, waits, or returns to meet him while he passes through the
+    underwood with difficulty.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary of provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 14049-14142, English translation, silent-bird sequence
+  quote_or_summary: When the bird is silent, the man repeatedly asks where it has
+    gone and shouts loudly; the bird returns to the place where it left him, and he
+    cheers it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary of provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 14049-14142, English translation, tree sequence
+  quote_or_summary: If the bird does not see the man, it stops on a tree until the
+    man comes into the open; then they see each other and the bird goes ahead again.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary of provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 14049-14142, English translation, final supplied sentence
+  quote_or_summary: The bird comes near the place where the bees are; the supplied
+    excerpt ends mid-action.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary of provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear from the English translation, though the supplied
+    passage ends before the action at the bees is completed. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only to the literal tree symbol from the provided symbol list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l14049-l14142
+  passage_sha256=d102542e1e54c3b8f4a09723859320f7a3636986f63ce3b0992ff79b0b16f624
+

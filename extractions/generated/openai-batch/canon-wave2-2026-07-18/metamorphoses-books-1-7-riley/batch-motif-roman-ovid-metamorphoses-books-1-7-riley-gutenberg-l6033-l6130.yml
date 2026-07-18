@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l6033-l6130
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE FOURTH.; lines 6033-6130
+  start: '6033'
+  end: '6130'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Thisbe finds the dying Pyramus, interprets his death as caused by his
+    own hand and by love, vows to follow him in death, asks both sets of parents to
+    bury them together, asks the tree to bear black fruit as a mourning memorial of
+    their blood, and kills herself with Pyramus''s sword. Her prayers move the gods
+    and the parents: the fruit becomes black when ripe, and the lovers'' remains are
+    placed in the same urn. The supplied lines also include translator footnotes on
+    Minyas, Bacchic rites and epithets, Lycurgus, and Minerva/spinning.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the name of Thisbe, Pyramus raises his death-heavy eyes, sees her, and
+    closes them again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thisbe sees her own garment and the ivory sheath without its sword.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Thisbe says Pyramus has been destroyed by his own hand and by love.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thisbe vows to follow Pyramus in death and to be the companion of his fate.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thisbe asks her parents and Pyramus's parents not to deny the lovers burial
+    in the same tomb.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Thisbe addresses the tree, saying it will soon cover two bodies and asking
+    it to bear black mourning fruit as a memorial of their blood.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Thisbe places the sword point below her breast and falls upon the sword that
+    is still wet with Pyramus's blood.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The gods and the parents are moved by Thisbe's prayers; the ripe fruit is
+    black, and the remains from the funeral pile rest in the same urn.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pyramus
+  description: A dying youth who sees Thisbe, closes his eyes, and is described by
+    Thisbe as destroyed by his own hand and by love.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thisbe
+  description: The surviving lover who laments Pyramus, vows to follow him in death,
+    petitions for joint burial and a memorial sign in the tree, and kills herself
+    with his sword.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Parents of Thisbe and Pyramus
+  description: The parents of both lovers are addressed by Thisbe and later moved
+    by the lovers' prayers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: The gods
+  description: Divine beings who are moved by Thisbe's prayers in connection with
+    the changed fruit and the lovers' shared urn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dying beloved
+  assigned_to:
+  - fig:1
+  basis: Pyramus is near death, sees Thisbe once more, and closes his eyes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-killing beloved and companion in death
+  assigned_to:
+  - fig:2
+  basis: Thisbe vows to follow Pyramus in death and then falls on the sword.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: petitioned burial authorities
+  assigned_to:
+  - fig:3
+  basis: Thisbe asks both sets of parents to allow burial in the same tomb, and they
+    are later moved by the prayers.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: divine responders to prayer
+  assigned_to:
+  - fig:4
+  basis: The passage states that Thisbe's prayers moved the gods.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: lovers joined by love, death, and remains
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Thisbe says constant love and their last moments have joined them, and their
+    remains later rest in the same urn.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: The sword missing from its sheath and later used by Thisbe while still
+    wet with Pyramus's blood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: tree
+  literal_form: The tree whose boughs overshadow Pyramus's body and are expected to
+    cover both bodies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: black mourning fruit
+  literal_form: Fruit that Thisbe asks to become black and suited for mourning; the
+    fruit is later black when fully ripe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: same tomb and same urn
+  literal_form: The requested common tomb and the fulfilled resting of the lovers'
+    remains in one urn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: blood of the two lovers
+  literal_form: The blood remembered by the tree's fruit and the blood on the sword
+    used by Thisbe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pyramus sees Thisbe before death
+  summary: Pyramus responds to Thisbe's name, sees her, and closes his eyes again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thisbe identifies the sword and vows to follow
+  summary: Thisbe sees the garment and empty sheath, concludes that Pyramus died by
+    his own hand and love, and vows to follow him in death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Petition for shared burial and tree memorial
+  summary: Thisbe asks the parents to bury the lovers together and asks the tree to
+    bear black fruit as a memorial of their blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Thisbe dies on Pyramus's sword
+  summary: Thisbe places the sword point beneath her breast and falls upon the sword
+    still wet with Pyramus's blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Prayers fulfilled
+  summary: The gods and parents are moved; the ripe fruit is black, and the lovers'
+    cremated remains are placed in the same urn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Lovers united through death
+  taxonomy_refs:
+  - annihilation_union
+  basis: Thisbe declares that death will not separate her from Pyramus, vows to follow
+    him, asks for shared burial, and the lovers' remains are finally placed in one
+    urn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage supports union through death and burial; it does not describe
+    a detailed afterlife reunion.
+- id: motif:2
+  label: Tree or fruit altered as a memorial of blood
+  taxonomy_refs: []
+  basis: Thisbe asks the tree to bear black mourning fruit as a memorial of the lovers'
+    blood, and the ripe fruit is later black.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No available motif-family reference exactly matches an etiological plant-color
+    memorial, so taxonomy_refs is left empty.
+- id: motif:3
+  label: Prayer answered by gods and family after death
+  taxonomy_refs: []
+  basis: The passage states that Thisbe's prayers moved both the gods and the parents,
+    resulting in the black fruit and the shared urn.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states responsiveness to prayer but does not frame it as a
+    formal exchange, covenant, or judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6033-6035
+  quote_or_summary: At Thisbe's name, Pyramus raises his death-heavy eyes, sees her,
+    and closes them again.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6035-6039
+  quote_or_summary: Thisbe perceives her garment and the ivory sheath without its
+    sword, and says Pyramus's own hand and love destroyed him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6039-6045
+  quote_or_summary: Thisbe says she has a hand and love enough for the wound, will
+    follow Pyramus in death, and cannot be torn from him even by death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6045-6049
+  quote_or_summary: Thisbe entreats her parents and his not to deny burial in the
+    same tomb to those joined by constant love and final moments.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 6049-6055
+  quote_or_summary: Thisbe addresses the tree over Pyramus's body, says it will soon
+    cover two bodies, and asks it to bear black mourning fruit as a memorial of their
+    blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 6055-6058
+  quote_or_summary: Thisbe fixes the sword point below her breast and falls on the
+    sword still reeking with Pyramus's blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 6059-6063
+  quote_or_summary: The prayers move the gods and parents; the fully ripe fruit is
+    black, and the remains from the funeral pile rest in the same urn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative actions and objects are explicit. Motif taxonomy is limited because
+    the passage's strongest non-union pattern is an etiological tree/fruit memorial
+    without an exact supplied motif-family reference. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction emphasizes the Pyramus and Thisbe narrative excerpt. Translator footnotes present in the supplied lines are acknowledged in the canonical summary but not treated as primary motif evidence here.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l6033-l6130
+  passage_sha256=a7655e59a5245a9adbea0a84e2edb2d72ca03cc18b2d00bfa7e4d37b4021081a
+

@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2602-l2612
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2602-2612
+  start: '2602'
+  end: '2612'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three explanatory footnotes identify Merops as king of Ethiopia and husband
+    of the Nymph Clymene, describe him as stepfather or putative father of Phaëton,
+    explain Ethiopia as regarded in Ovid's time as an eastern region, and gloss a
+    Latin phrase as the heat or fire of the sun, with the sun treated as a luminous
+    heavenly body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Merops is described as king of Ethiopia.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Merops is described as marrying the Nymph Clymene.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Merops is described as either the stepfather or the putative father of Phaëton
+    according to differing writers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ethiopia is described as generally regarded in Ovid's time as one of the regions
+    of the East.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The phrase glossed in the footnote is said to mean the heat or fire of the
+    sun.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sun is described as a luminous heavenly body.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Merops
+  description: King of Ethiopia; husband of the Nymph Clymene; described as stepfather
+    or putative father of Phaëton.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Clymene
+  description: A Nymph married by Merops.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Phaëton
+  description: Described in relation to Merops as a stepson or putative son.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sun
+  description: Described as the source of heat or fire and as a luminous heavenly
+    body.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: The footnote identifies Merops as king of Ethiopia.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: husband
+  assigned_to:
+  - fig:1
+  basis: The footnote says Merops married the Nymph Clymene.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: stepfather or putative father
+  assigned_to:
+  - fig:1
+  basis: The footnote describes Merops as either stepfather or putative father of
+    Phaëton.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: nymph and wife
+  assigned_to:
+  - fig:2
+  basis: The footnote calls Clymene a Nymph and says Merops married her.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: stepson or putative son
+  assigned_to:
+  - fig:3
+  basis: Phaëton is described through his filial relation to Merops.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: luminous heavenly body
+  assigned_to:
+  - fig:4
+  basis: The footnote says the sun is considered a sidus, or luminous heavenly body.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: solar fire
+  literal_form: heat or fire of the sun
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanatory identifications of Merops, Ethiopia, and solar fire
+  summary: The passage supplies footnote explanations about Merops's status and family
+    relation to Clymene and Phaëton, Ethiopia's eastern location in Ovid's time, and
+    the meaning of a phrase referring to the heat or fire of the sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2602-2604
+  quote_or_summary: Footnote 115 identifies Merops as king of Ethiopia, husband of
+    the Nymph Clymene, and either stepfather or putative father of Phaëton.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2606-2608
+  quote_or_summary: Footnote 116 explains that Ethiopia was generally looked upon
+    in Ovid's time as one of the regions of the East.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2610-2612
+  quote_or_summary: Footnote 117 explains that a phrase means the heat or fire of
+    the sun, with the sun considered a luminous heavenly body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is explanatory footnote material rather than a narrative episode.
+    Literal identifications are clear, but it does not itself support a specific motif-family
+    extraction or comparison claim beyond the listed solar-fire symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage contains only explanatory notes and does not itself develop a narrative motif.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2602-l2612
+  passage_sha256=42b15e7f9202bf2d916db3a46b9a51c26e46b85e619e5780a2a5ef29434ede49
+

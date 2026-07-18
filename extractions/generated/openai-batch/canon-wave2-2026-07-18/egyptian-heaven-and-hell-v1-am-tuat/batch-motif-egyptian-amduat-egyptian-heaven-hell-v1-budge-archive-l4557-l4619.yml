@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l4557-l4619
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: AAAAAA / CHAPTEE  V. / I   I  I / THE    BOOK   OF    AM-TUAT; lines 4557-4619
+  start: '4557'
+  end: '4619'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A group of goddesses addresses Ea, calling him to come in peace in the
+    Tuat, advance along the road in the boat that is in the earth, remain in his own
+    body, destroy his enemies, join Ament, move forward in the sky as the Great One
+    in the horizon, and be towed by those who tow him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents words addressed to a god by goddesses.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The god addressed is called Ea in the supplied text.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ea is called to come in peace in the Tuat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ea is told to advance on a road in a boat that is in the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ea is described as being in his own body.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ea's enemies are to be destroyed.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:7
+  text: Ament cries or calls to Ea so that he may join her.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ea is to go forward in the sky as the Great One who is in the horizon.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Ea is to be towed along by those who tow him.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ea
+  description: The god addressed by the goddesses; he is called to travel, join Ament,
+    and destroy enemies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: goddesses
+  description: A group who address words to the god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ament
+  description: A goddess who cries or calls to Ea so that he may join her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: those who tow thee
+  description: Unspecified tow-figures who tow Ea along.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: enemies of Ea
+  description: Enemies of Ea who are to be destroyed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: addressed journeying god
+  assigned_to:
+  - fig:1
+  basis: The god is addressed by goddesses and told to advance on a road in a boat,
+    go forward in the sky, and be towed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: divine speakers
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the words as addressed to the god by the goddesses.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: goddess to be joined
+  assigned_to:
+  - fig:3
+  basis: Ament calls to Ea so that he may join her.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: tow-helpers
+  assigned_to:
+  - fig:4
+  basis: The passage says Ea may be towed along by those who tow him.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: doomed enemies
+  assigned_to:
+  - fig:5
+  basis: The enemies of Ea are said to be destroyed.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: Tuat
+  literal_form: Tuat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: road
+  literal_form: road
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: boat in the earth
+  literal_form: boat which is in the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: horizon
+  literal_form: horizon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: goddesses address Ea in the Tuat
+  summary: The goddesses call Ea to come in peace in the Tuat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ea travels by earth-boat on the road
+  summary: Ea is instructed to advance on the road in the boat that is in the earth,
+    while his enemies are to be destroyed.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ament calls Ea and Ea moves skyward
+  summary: Ament calls to Ea so that he may join her; Ea is to go forward in the sky
+    as the Great One in the horizon and be towed along.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey through the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage places Ea in the Tuat and describes movement along a road in
+    an earth-boat, with further movement toward the sky and horizon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The excerpt is brief and does not provide the full map or sequence of
+    the Am-Tuat hour.
+- id: motif:2
+  label: divine boat as underworld transport
+  taxonomy_refs:
+  - ark_vessel
+  basis: Ea is told to advance on the road in a boat that is in the earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label 'ark_vessel' is broader than the passage's
+    literal boat; the text does not call it an ark.
+- id: motif:3
+  label: movement from underworld setting toward sky and horizon
+  taxonomy_refs:
+  - ascent
+  basis: Ea is called in the Tuat and then told to go forward in the sky as the Great
+    One in the horizon.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage says 'go forwards in the sky' but does not explicitly describe
+    vertical ascent.
+- id: motif:4
+  label: destruction of divine enemies during passage
+  taxonomy_refs: []
+  basis: The speech twice states that Ea's enemies are to be destroyed.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No details are given about the enemies or the manner of destruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4557-4619
+  quote_or_summary: The passage introduces words addressed to the god by the goddesses.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:2
+  type: quote
+  locator: lines 4557-4619
+  quote_or_summary: '"Come, 0 Ea, in the peace of the Tuat !"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 4557-4619
+  quote_or_summary: '"Let Ea advance on the road in the boat which is in the earth"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4557-4619
+  quote_or_summary: '"in his own body, and let his enemies be destroyed"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4557-4619
+  quote_or_summary: Ament cries or calls to Ea so that he may join her.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:6
+  type: quote
+  locator: lines 4557-4619
+  quote_or_summary: '"go forwards in the sky as the Great One who is in the horizon"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 4557-4619
+  quote_or_summary: Ea is to be towed along by those who tow him and is to destroy
+    all his enemies.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; supplied passage text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and figures are clear, but the OCR-like spelling and fragmentary
+    passage limit certainty. No cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied motif family identifiers; no supplied symbol taxonomy items are explicitly present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l4557-l4619
+  passage_sha256=0515abd5dfb38422e0ebb3973cb1fc388db808853bdbc1bbe8f4edba326325b3
+

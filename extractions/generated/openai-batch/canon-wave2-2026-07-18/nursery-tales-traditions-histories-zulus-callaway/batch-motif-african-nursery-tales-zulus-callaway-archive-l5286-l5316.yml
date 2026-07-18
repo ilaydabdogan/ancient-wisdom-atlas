@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5286-l5316
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / USIKULUMI. / IZINGANEKWANE. / UZEMBENI.; lines 5286-5316
+  start: '5286'
+  end: '5316'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Usikulumi cannot be pierced by his opponents' spears. After they acknowledge
+    defeat, he takes a spear, stabs them all, and they die. He seizes the cattle and
+    leaves the country with his army, his mother, and his sister, now being a king.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading states that Usikulumi kills all his father's people and departs
+    with the spoil.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opposing people are unable to pierce Usikulumi with their spears.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Usikulumi asks whether they are worsted, and they reply that they are now
+    worsted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Usikulumi takes a spear, stabs them all, and they all die.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Usikulumi takes possession of the cattle and departs from that country with
+    his army and all the cattle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Usikulumi's mother and sister go with him, and the passage states that he
+    is now a king.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Usikulumi
+  description: A figure who cannot be pierced by spears, kills the opposing people,
+    seizes cattle, departs with his army and kin, and is now a king.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Usikulumi's father's people / opposing people
+  description: The people who fail to pierce Usikulumi with spears, acknowledge defeat,
+    and are stabbed and killed by him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Usikulumi's mother
+  description: Usikulumi's mother goes with him when he departs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Usikulumi's sister
+  description: Usikulumi's sister goes with him when he departs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Usikulumi's army
+  description: The army that departs with Usikulumi from that country.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: victorious warrior
+  assigned_to:
+  - fig:1
+  basis: Usikulumi is not pierced by the spears and then kills all the opposing people.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: defeated opponents
+  assigned_to:
+  - fig:2
+  basis: They acknowledge that they are worsted and are subsequently stabbed and killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: kin companions
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: His mother and sister accompany him when he departs.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: military retinue
+  assigned_to:
+  - fig:5
+  basis: His army departs with him from that country.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: king
+  assigned_to:
+  - fig:1
+  basis: The passage states that he is now a king.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: spear
+  literal_form: spears / a spear
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: cattle as spoil
+  literal_form: all the cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Failed attack and admission of defeat
+  summary: The opposing people cannot pierce Usikulumi with their spears; he asks
+    if they are worsted, and they say they are.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Slaying of the defeated people
+  summary: Usikulumi takes a spear, stabs all of the opposing people, and they all
+    die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Departure with cattle, army, and kin
+  summary: Usikulumi takes the cattle and leaves the country with his army; his mother
+    and sister go with him, and he is now a king.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Invulnerable warrior in battle
+  taxonomy_refs: []
+  basis: The opposing people are unable to pierce Usikulumi with their spears before
+    he defeats them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the source or limits of the invulnerability.
+- id: motif:2
+  label: Defeated group slain after conceding defeat
+  taxonomy_refs: []
+  basis: After the opponents say they are worsted, Usikulumi takes a spear and kills
+    them all.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives little context for the conflict beyond the heading.
+- id: motif:3
+  label: Departure with spoils after victory
+  taxonomy_refs:
+  - departure
+  basis: Usikulumi takes possession of the cattle and departs from the country with
+    his army and all the cattle.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The departure is literal; no further ritual or cosmological journey is
+    described.
+- id: motif:4
+  label: Kingship after violent victory
+  taxonomy_refs: []
+  basis: After the slaughter and seizure of cattle, the passage says Usikulumi departs
+    with his kin and is now a king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage states royal status but does not describe formal accession,
+    legitimacy, or coronation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5286-5316, heading
+  quote_or_summary: 'Heading: Usikulumi kills all his father''s people and departs
+    with the spoil.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5286-5316
+  quote_or_summary: They are unable to pierce Usikulumi with their spears.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5286-5316
+  quote_or_summary: Usikulumi asks if they are worsted; they answer that they are
+    now worsted.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5286-5316
+  quote_or_summary: Usikulumi takes a spear, stabs them all, and they all die.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5286-5316
+  quote_or_summary: Usikulumi takes possession of the cattle and departs from that
+    country with his army and all the cattle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5286-5316
+  quote_or_summary: His mother and sister go with him, and he is now a king.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied English translation and heading. Motif
+    candidates are limited to directly observable patterns; no comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage objects do not match the supplied symbol list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5286-l5316
+  passage_sha256=a0a9e314178f4fb9f292fffc4e00ebc7822dd0302ee80a983c09006d2d9d3907
+

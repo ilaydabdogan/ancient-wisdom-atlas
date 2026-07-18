@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l1157-l1212
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LIST  OF  BOOKS  QUOTED  OR  MENTIONED / PREFACE / PREFACE / PREFACE; lines
+    1157-1212
+  start: '1157'
+  end: '1212'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: to chase the sun
+  summary: In a preface, Rogers uses a quoted analogy comparing the pursuit of perfection
+    to Arcadian inhabitants chasing the sun. He acknowledges scholarly debts, explains
+    publication delay, credits Ungnad and Kohler, hopes the book will help or inspire
+    readers, quotes Johnson, and signs from the Bodleian Library in Oxford.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A quoted analogy says that pursuing perfection is like the first inhabitants
+    of Arcadia chasing the sun to a hill where it seems to rest, while the sun remains
+    at the same distance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that he has acknowledged obligations to earlier books and
+    papers and has printed many references of acknowledgment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker apologizes for any overlooked acknowledgments and says a letter
+    will follow if his attention is drawn to the matter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the book was completed long before publication, but publication
+    was delayed by demands placed on American scholars.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The delay allowed the speaker to compare his translations with Arthur Ungnad's
+    work in Gressmann's Altorientalische Texte und Bilder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker states special obligations to Ungnad's treatment of the Hammurapi
+    code in a joint work with Professor Kohler.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker hopes the book will be useful and may inspire an inquiring or
+    young mind to study the ancient Orient.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage closes with Robert W. Rogers's name, the Bodleian Library in Oxford,
+    and the date September 13, 1911.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Robert W. Rogers
+  description: The first-person speaker of the preface and the named signer at the
+    close of the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: first inhabitants of Arcadia
+  description: Figures in the quoted analogy who chase the sun toward a hill where
+    it seems to rest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Professor Arthur Ungnad
+  description: Scholar whose work Rogers says he compared with his own translations
+    and from whom he adopted many suggestions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Professor Kohler
+  description: Scholar named as Ungnad's collaborator in a joint work on the Hammurapi
+    code.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Johnson
+  description: Writer invoked as a quoted authority in the final paragraph of the
+    preface.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: preface author and speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is written in the first person and is signed by Robert W. Rogers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: pursuers in quoted analogy
+  assigned_to:
+  - fig:2
+  basis: They are described as chasing the sun in the analogy about pursuing perfection.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: scholarly source for comparison and adopted suggestions
+  assigned_to:
+  - fig:3
+  basis: Rogers says he compared his translations with Ungnad's work and adopted many
+    suggestions from him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: coauthor named in relation to Hammurapi code work
+  assigned_to:
+  - fig:4
+  basis: Professor Kohler is named as Ungnad's collaborator in a joint work on the
+    Hammurapi code.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: quoted writer
+  assigned_to:
+  - fig:5
+  basis: The passage introduces a quotation with the phrase that Johnson is being
+    used again.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: receding sun
+  literal_form: sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hill where the sun seems to rest
+  literal_form: hill
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: book delivered to the world
+  literal_form: book
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quoted Arcadian sun-chase analogy
+  summary: The passage quotes or reports an analogy in which the pursuit of perfection
+    resembles the first inhabitants of Arcadia chasing the sun to a hill, only to
+    find it still distant.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scholarly acknowledgments and delayed publication
+  summary: Rogers acknowledges prior scholarship, apologizes for possible omissions,
+    explains the delayed publication, and credits Ungnad and Kohler.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hope for the book's reception
+  summary: Rogers hopes the book will be useful, may inspire readers toward the study
+    of the ancient Orient, quotes Johnson, and signs from the Bodleian Library.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: receding celestial pursuit
+  taxonomy_refs: []
+  basis: The quoted analogy describes pursuers going after the sun toward an apparent
+    resting place, while the object remains at the same distance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a brief prefatory analogy rather than a developed mythic narrative,
+    and it is not presented as Mesopotamian material in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the pursuit of perfection with an Arcadian
+    sun-chase pattern in which the goal remains distant.
+  claim_level: same_function
+  target: Arcadian sun-chase analogy / receding-goal pursuit pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is rhetorical and brief; the passage gives no independent
+    mythic source, narrative context, or claim of historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1157-1163
+  quote_or_summary: A quoted analogy compares pursuing perfection to the first inhabitants
+    of Arcadia chasing the sun to a hill where it seems to rest, though it remains
+    distant.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1164-1177
+  quote_or_summary: Rogers says he has acknowledged obligations to earlier books and
+    papers, printed many references, and apologizes for any overlooked acknowledgments.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1178-1195
+  quote_or_summary: Rogers says delayed publication allowed comparison with Arthur
+    Ungnad's work, notes obligations to Ungnad's treatment of the Hammurapi code with
+    Kohler, and says he adopted many suggestions.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1196-1208
+  quote_or_summary: Rogers hopes the book will be useful, may inspire interest or
+    lifelong devotion to the ancient Orient, and quotes Johnson about delivering a
+    defective but well-intended book to the world.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 1209-1212
+  quote_or_summary: 'Closing signature: Robert W. Rogers; The Bodleian Library, Oxford;
+    September 13, 1911.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The prose content and named figures are clear. Motif relevance is limited
+    because the passage is a preface and contains only one brief mythic/classical
+    analogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is scholarly preface prose, not a Mesopotamian mythic narrative. The only candidate motif is the quoted Arcadian sun-chase analogy.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l1157-l1212
+  passage_sha256=e99e7b9cc60ea69d9048e04bcc12d0a819c3ce783e7a140714b22ef58a7ba091
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l9955-l10041
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: CHILDEEN. / CHILDREN. / THE   MASON    WASP.  171 / YOUNG    MAN    CARRIED    OFF    BY    LION.  175;
+    lines 9955-10041
+  start: '9955'
+  end: '10041'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man of the ancient race is hunting, ascends a hill, becomes unusually
+    sleepy, and lies down. A thirsty lion, going to a water pit in the heat of the
+    day, sees him asleep and takes him up. The man wakes and decides not to move because
+    he thinks the lion will bite him to death if he stirs. The lion appears to think
+    he is dead, carries him to a large zwart-storm tree, and places him partly into
+    the tree at the bottom.
+  language: English with embedded |Xam transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young man of the early or ancient race is hunting and ascends a hill.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young man becomes unusually sleepy while looking around for game and lies
+    down to sleep.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A lion goes to a water pit because noonday heat has made it thirsty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion sees the man lying asleep and takes him up.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man wakes, sees that a lion has taken him up, and chooses not to stir
+    because he fears being bitten to death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man thinks the lion appears to believe he is dead.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lion carries the man to a zwart-storm tree and lays him in it, with a
+    note specifying that only part of his body is in the tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An editorial note states that another version of the legend indicates the
+    young man's unusual sleepiness is caused by the lion.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young man of the ancient race
+  description: A young man formerly hunting, who becomes sleepy, lies down, is taken
+    up by a lion, wakes, and remains still.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: lion
+  description: A thirsty lion that goes to water, sees the sleeping man, takes him
+    up, carries him to a tree, and lays him in it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: sleeping hunter
+  assigned_to:
+  - fig:1
+  basis: The young man is hunting, becomes sleepy, and lies down to sleep.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal captor or carrier
+  assigned_to:
+  - fig:2
+  basis: The lion takes up the sleeping man and carries him to a tree.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: motionless captive avoiding attack
+  assigned_to:
+  - fig:1
+  basis: After waking, the man decides not to stir because he believes the lion will
+    kill him if he moves.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water pit
+  literal_form: water pit
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: zwart-storm tree
+  literal_form: large tree with yellow flowers and no thorns; the man is placed partly
+    into it at the bottom
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: unusual sleep
+  literal_form: sudden sleepiness while hunting, followed by lying asleep in the field
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: lion
+  literal_form: lion that takes and carries the sleeping man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hunter becomes sleepy on a hill
+  summary: The young man ascends a hill while hunting, becomes unusually sleepy, and
+    lies down.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lion finds the sleeping man near its path to water
+  summary: A thirsty lion going to a water pit in the noonday heat sees the man asleep
+    and takes him up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Awake but motionless in the lion's grasp
+  summary: The man wakes, recognizes the lion, and decides not to move because he
+    fears the lion will bite him to death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lion places the man in a tree
+  summary: The lion carries the man to a zwart-storm tree and lays him partly into
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: young man carried off by a lion while asleep
+  taxonomy_refs: []
+  basis: The title and narrative state that a young man falls asleep and is taken
+    up and carried by a lion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage fragment gives only the beginning of the episode and does
+    not include the outcome.
+- id: motif:2
+  label: unusual sleep preceding capture
+  taxonomy_refs: []
+  basis: The man experiences sleepiness described as unusual, and an editorial note
+    says another version treats it as caused by the lion.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The causal explanation comes from an editorial note referring to another
+    version, not from the main translated narrative in this excerpt.
+- id: motif:3
+  label: survival by remaining still when seized by a predator
+  taxonomy_refs: []
+  basis: The man wakes in the lion's grasp and chooses not to stir because he believes
+    movement will cause the lion to bite him to death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The later success or failure of this strategy is not shown in the supplied
+    excerpt.
+- id: motif:4
+  label: predator stores or places human prey in a tree
+  taxonomy_refs: []
+  basis: The lion carries the man to a tree and lays him partly inside or at the bottom
+    of it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the lion's purpose beyond the man's thought
+    that the lion believes he is dead.
+comparison_claims:
+- id: claim:1
+  claim: The supplied editorial note links this episode to another recorded version
+    of the same legend in which the unusual sleepiness is understood as caused by
+    the lion.
+  claim_level: same_motif
+  target: Another version of this legend attributed in the note to Vkweiten ta ||ken,
+    VI.—2, pp. 4014-4025
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editorial note's brief comparison is available here; the other
+    version's wording and full narrative details are not included in the supplied
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9955-10041; internal (4457)-(4459)
+  quote_or_summary: A young man of the early or ancient race, while hunting, ascends
+    a hill, becomes unusually sleepy while looking around for game, and lies down
+    to sleep.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:2
+  type: summary
+  locator: lines 9955-10041; internal (4460)
+  quote_or_summary: A lion goes to a water pit because the noonday heat has made it
+    thirsty; it sees the man asleep and takes him up.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:3
+  type: summary
+  locator: lines 9955-10041; internal (4461)
+  quote_or_summary: The man wakes startled, sees that a lion has taken him, and decides
+    not to stir because he fears the lion will bite him to death if he moves; he thinks
+    the lion believes he is dead.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:4
+  type: summary
+  locator: lines 9955-10041; internal (4462) and notes (4462')
+  quote_or_summary: The lion carries the man to a zwart-storm tree and lays him in
+    it; notes describe the tree as large with yellow flowers and no thorns, and specify
+    that the man is placed only partly into the tree at the bottom.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:5
+  type: summary
+  locator: lines 9955-10041; note (4459')
+  quote_or_summary: An editorial note says another version of the legend indicates
+    that the unusual sleepiness is supposed to be caused by the lion.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: public domain; summarized from supplied passage
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main translated episode is clear, but the supplied passage ends within
+    the original-language text and does not include the full story outcome. Motif
+    labels are descriptive and not mapped to supplied motif-family taxonomy except
+    for literal symbol refs to water and tree.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or broad cross-cultural comparison is asserted.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l9955-l10041
+  passage_sha256=737fde98701a47b21f64287b5033dc065336cec36f4c0f2226f53dd7bc8b24df
+

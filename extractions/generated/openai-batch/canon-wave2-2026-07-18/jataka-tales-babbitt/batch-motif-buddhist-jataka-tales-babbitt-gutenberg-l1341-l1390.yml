@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1341-l1390
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE ELEPHANT GIRLY-FACE / THE BANYAN DEER / THE PRINCES AND THE WATER-SPRITE
+    / THE KING'S WHITE ELEPHANT; lines 1341-1390
+  start: '1341'
+  end: '1390'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: These carpenters have done so much for me, I must be useful to them.
+  summary: A wounded old elephant is healed by carpenters, repays them with labor,
+    brings his white son to continue helping them, and the white elephant is later
+    bought and cared for by a king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Carpenters live on a river bank near a large forest and go by boat to cut
+    trees into lumber.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Elephant comes to the carpenters limping on three feet, with one foot swollen
+    and sore, and a large splinter is found in the sore foot.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The carpenters remove the splinter and wash the sore foot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After being cured, the Elephant thinks that he must be useful to the carpenters
+    because they have done much for him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Elephant helps the carpenters by pulling up trees, rolling logs to the
+    river, and bringing tools; the carpenters feed him regularly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old Elephant has a white, beautiful, strong young son and plans to take
+    him to the carpenters so he can learn to help them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The white Elephant follows his father's instruction, helps the carpenters,
+    and is fed by them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The young Elephant plays with the carpenters' children in the river and on
+    the bank, lifting them with his trunk to high tree branches and letting them climb
+    down his back.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The king sees the white Elephant working, wants him, pays the carpenters a
+    great price, and takes the Elephant with him.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The king is proud of the white Elephant and cares for him as long as he lives.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: carpenters
+  description: A group of carpenters living on a river bank near a large forest; they
+    heal the old Elephant, feed him, and later receive payment from the king for the
+    white Elephant.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: old Elephant
+  description: An Elephant injured by a splinter in his foot; after being healed,
+    he works for the carpenters and later brings his white son to help them.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: white Elephant
+  description: The old Elephant's white, beautiful, strong young son; he helps the
+    carpenters, plays with their children, and is later taken by the king.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: carpenters' children
+  description: Children of the carpenters who play with the young white Elephant in
+    the river, on the bank, and around tree branches.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: king
+  description: A king who comes down the river, sees the white Elephant working, pays
+    a great price for him, and cares for him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: woodcutters and carpenters
+  assigned_to:
+  - fig:1
+  basis: They go by boat to the forest to cut trees and make them into lumber.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: healers and feeders
+  assigned_to:
+  - fig:1
+  basis: They remove the Elephant's splinter, wash the sore, and later feed the Elephant
+    well.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: grateful animal helper
+  assigned_to:
+  - fig:2
+  basis: After being cured, the Elephant decides to be useful and works for the carpenters.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: father and instructor
+  assigned_to:
+  - fig:2
+  basis: The old Elephant has a son and tells him how the carpenters cared for him
+    before taking him to help them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: son and successor helper
+  assigned_to:
+  - fig:3
+  basis: The white Elephant is brought to learn to help the carpenters and does as
+    his father tells him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: playmates
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The young Elephant and the carpenters' children play together in the water,
+    on the bank, and around the trees.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: royal purchaser and keeper
+  assigned_to:
+  - fig:5
+  basis: The king sees the white Elephant, pays a great price for him, takes him,
+    and cares for him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: white elephant
+  literal_form: A white, beautiful, strong young elephant.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: splinter in the sore foot
+  literal_form: A great splinter lodged in the Elephant's swollen and sore foot.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: trees and forest
+  literal_form: A large forest, cut trees, logs, and high tree branches.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: river and water
+  literal_form: The river bank, travel by boats, washing of the sore, logs rolled
+    to the river, and play in the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: tools and logs
+  literal_form: Carpenters' tools and logs moved by the Elephant as part of his work.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wounded Elephant comes to the carpenters
+  summary: Near a river and forest, the carpenters encounter an Elephant with a splinter
+    in his sore foot and treat the injury.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Elephant repays care through work
+  summary: The healed Elephant decides to be useful to the carpenters and assists
+    them with trees, logs, and tools while receiving food from them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: White son introduced to service
+  summary: The old Elephant brings his white son to the carpenters so that the son
+    can learn to help them, and the son does so.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Play with the carpenters' children
+  summary: The young white Elephant plays with the children in the river, on the bank,
+    and among the tree branches.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: King takes the white Elephant
+  summary: The king comes down the river, sees the white Elephant working, pays the
+    carpenters for him, takes him away, and cares for him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wounded animal healed by humans repays them with service
+  taxonomy_refs: []
+  basis: The old Elephant is healed by the carpenters and then works for them out
+    of gratitude.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Plain passage-level motif label; no supplied taxonomy family exactly matches
+    it.
+- id: motif:2
+  label: gratitude and service passed from parent to offspring
+  taxonomy_refs: []
+  basis: The old Elephant brings his son to the carpenters so the son can learn to
+    help them, and the white Elephant does so.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The intergenerational transfer is explicit, but broader comparative significance
+    requires human review.
+- id: motif:3
+  label: king acquires an extraordinary white animal
+  taxonomy_refs: []
+  basis: The king sees the beautiful white Elephant working, wants him, pays a great
+    price, and later cares for him.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage shows royal acquisition and care of a white elephant, but
+    does not explicitly state royal legitimacy or sacred status.
+- id: motif:4
+  label: trusted play between child-friendly animal and human children
+  taxonomy_refs: []
+  basis: The young Elephant plays safely with the carpenters' children in the river
+    and among tree branches.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is strongly present as a narrative episode, though it may be secondary
+    to the animal-gratitude motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1341-1390, opening setting
+  quote_or_summary: Carpenters live on a river bank near a large forest and travel
+    by boat to cut trees into lumber.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:2
+  type: summary
+  locator: lines 1341-1390, wounded Elephant episode
+  quote_or_summary: An Elephant comes limping on three feet; one foot is swollen and
+    sore, and the men see a great splinter in it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:3
+  type: summary
+  locator: lines 1341-1390, treatment of wound
+  quote_or_summary: The carpenters pull out the splinter and wash the sore carefully
+    so it will soon be well.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:4
+  type: quote
+  locator: lines 1341-1390, Elephant's gratitude and labor
+  quote_or_summary: The Elephant thinks, "These carpenters have done so much for me,
+    I must be useful to them," and then helps by pulling trees, rolling logs, and
+    bringing tools while being fed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation permitted.
+- id: ev:5
+  type: summary
+  locator: lines 1341-1390, introduction of the son
+  quote_or_summary: The Elephant has a son who is white all over, beautiful, strong,
+    and young; the old Elephant plans to bring him to learn to help the carpenters
+    because he himself is no longer young and strong.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:6
+  type: summary
+  locator: lines 1341-1390, son helps carpenters
+  quote_or_summary: The old Elephant tells his son how the carpenters cared for him,
+    brings him to them, and the white Elephant helps the carpenters and is fed well.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:7
+  type: summary
+  locator: lines 1341-1390, play with children
+  quote_or_summary: At night the young Elephant plays with the carpenters' children
+    in the river and on the bank, lifting them to high branches with his trunk and
+    letting them climb down his back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:8
+  type: summary
+  locator: lines 1341-1390, king's purchase
+  quote_or_summary: The king comes down the river, sees the beautiful white Elephant
+    working, wants him, pays the carpenters a great price, and takes him away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+- id: ev:9
+  type: summary
+  locator: lines 1341-1390, royal care
+  quote_or_summary: The king is proud of the new Elephant and takes the best care
+    of him as long as he lives.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarization permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates
+    without external comparison claims. No comparison claims were added because the
+    supplied passage does not itself compare this tale to another tradition or motif
+    taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata. Taxonomy references are used only for the literal tree and water symbols present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1341-l1390
+  passage_sha256=7a623ff93282ef6f1ae240997c7fbc1db4f1268eff9a96b566430d980b106070
+

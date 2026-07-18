@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l24337-l24384
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UBONGOPA-KAMAGADHLELA. / IZINGANEKWANE. / UMDHLUBU / NESELESELE.  237; lines
+    24337-24384
+  start: '24337'
+  end: '24384'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A repeated formula tells Ubongopa-kamagadhlela to go in, and the cattle
+    enter the enclosure. A new village is built. A male speaker rejects a damsel because
+    she goes on the ground; she departs. He chooses to live on the back of Ubongopa-kamagadhlela
+    until death, is permitted to stay there, herds his people’s cattle, and continues
+    enchantments practiced from childhood.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A repeated utterance names Ubongopa-kamagadhlela and says that it is time
+    to go in.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cattle entered the enclosure after the repeated utterance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another village was built.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The male speaker says he does not love the damsel because she goes on the
+    ground.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The damsel departed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The male speaker says he will live on the back of Ubongopa-kamagadhlela until
+    his death, and others tell him to stay there on the back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The male speaker herded the cattle of his people.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The male speaker continued to practice enchantments that he had practiced
+    from childhood.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ubongopa-kamagadhlela
+  description: A named being or entity invoked in the formula and described as having
+    a back on which the male speaker can live.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the male speaker and herder
+  description: An unnamed male figure who rejects the damsel, chooses to live on Ubongopa-kamagadhlela’s
+    back, herds cattle, and continues childhood enchantments.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the damsel
+  description: A damsel whom the male speaker says he does not love because she goes
+    on the ground; she departs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the cattle
+  description: Cattle that enter the enclosure and are later herded by the male figure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: enchantment practitioner
+  assigned_to:
+  - fig:2
+  basis: The passage says he continued the enchantments he had practiced from childhood.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: cattle herder
+  assigned_to:
+  - fig:2
+  basis: The passage says he herded the cattle of his people.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: rejected damsel
+  assigned_to:
+  - fig:3
+  basis: The male speaker says he does not love her because she goes on the ground,
+    and she departs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: dwelling-bearing named being
+  assigned_to:
+  - fig:1
+  basis: The male speaker says he will live on Ubongopa-kamagadhlela’s back until
+    death, and others tell him to stay there.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: herded cattle
+  assigned_to:
+  - fig:4
+  basis: The cattle enter the enclosure and are later herded by the male figure.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: repeated entry formula
+  literal_form: The repeated words naming Ubongopa-kamagadhlela and saying, “Go in
+    now; it is time to go in.”
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cattle enclosure
+  literal_form: The enclosure into which the cattle enter.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: back of Ubongopa-kamagadhlela
+  literal_form: The back of the named being or entity where the male speaker chooses
+    to live.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: going on the ground
+  literal_form: The damsel’s mode of going on the ground, given as the reason for
+    rejection.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Formula and cattle entering the enclosure
+  summary: A repeated formula names Ubongopa-kamagadhlela and says to go in; the cattle
+    enter the enclosure.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: New village and rejection of the damsel
+  summary: After another village is built, the male speaker rejects the damsel because
+    she goes on the ground, and she departs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Life on Ubongopa-kamagadhlela’s back
+  summary: The male speaker chooses to live on the back of Ubongopa-kamagadhlela until
+    death; he stays there, herds his people’s cattle, and continues childhood enchantments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: verbal formula linked with animals entering an enclosure
+  taxonomy_refs: []
+  basis: The formula commands entry, and the cattle then enter the enclosure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt gives the sequence but does not explicitly state causal mechanics
+    or identify the speaker of the formula.
+- id: motif:2
+  label: dwelling on the back of a named being
+  taxonomy_refs: []
+  basis: The male figure declares that he will live on the back of Ubongopa-kamagadhlela
+    until death, and others tell him to remain there.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The nature of Ubongopa-kamagadhlela is not explained within this passage.
+- id: motif:3
+  label: rejection of a damsel for ground-walking
+  taxonomy_refs: []
+  basis: The male figure says he does not love the damsel because she goes on the
+    ground, after which she departs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The prior relationship between the male figure and the damsel is not supplied
+    in the excerpt.
+- id: motif:4
+  label: childhood enchantments continued later in life
+  taxonomy_refs: []
+  basis: The passage states that the male figure continues to practice enchantments
+    that he practiced from childhood.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The specific enchantments are not described in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 24337-24384, formula and cattle-entry passage
+  quote_or_summary: "“Go in now; it is time to go in; / Go in now; it is time to go
+    in.” The cattle entered the enclosure."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 24337-24384, new village and damsel passage
+  quote_or_summary: Another village was built. The male speaker says he does not love
+    the damsel because she goes on the ground, and the damsel departs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 24337-24384, back of Ubongopa-kamagadhlela passage
+  quote_or_summary: "“I will live on the back of Ubongopa-kamagadhlela till my death.”
+    Others answer that he should stay there on his back."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 24337-24384, herding and enchantments passage
+  quote_or_summary: He herded the cattle of his people and continued to practice the
+    enchantments he had practiced from childhood.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is based only on the supplied excerpt. Several figures
+    and actions are clear, but the excerpt is fragmentary and does not explain the
+    nature of Ubongopa-kamagadhlela or the wider tale context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or tradition-level comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l24337-l24384
+  passage_sha256=8808c07a78ee109ac23ca98698a8c65201c0278f70a0b2fbc0d92126767e9a7c
+

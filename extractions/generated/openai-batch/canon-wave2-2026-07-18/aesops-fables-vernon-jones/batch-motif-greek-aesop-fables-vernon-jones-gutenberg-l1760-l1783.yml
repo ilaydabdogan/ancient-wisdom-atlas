@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1760-l1783
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FISHERMAN AND THE SPRAT / THE BOASTING TRAVELLER / THE CRAB AND HIS MOTHER
+    / THE ASS AND HIS SHADOW; lines 1760-1783
+  start: '1760'
+  end: '1783'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an Old Crab criticizes her son for walking sideways, but
+    cannot demonstrate walking straight herself and recognizes the folly of finding
+    fault. In the next, a traveller who hired an Ass disputes with the Ass's owner
+    over use of the Ass's shadow; their quarrel escalates to blows, and the Ass runs
+    away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Old Crab tells her son that he walks sideways and ought to walk straight.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Young Crab asks his mother to show him how to walk straight and says he
+    will follow her example.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Old Crab tries to demonstrate but fails, then recognizes that finding
+    fault with her child was foolish.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The stated moral says that example is better than precept.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A man hires an Ass for a summertime journey, while the Ass's owner follows
+    behind to drive the animal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the heat of the day, they stop to rest, and the traveller wants to
+    lie down in the Ass's shadow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The owner refuses the traveller use of the shadow, arguing that only the Ass
+    was hired, while the traveller argues that the bargain gave him control of the
+    Ass for the time being.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The disagreement moves from words to physical blows.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: While the two men fight, the Ass runs away and is soon out of sight.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old Crab
+  description: A mother crab who criticizes her son for walking sideways, tries unsuccessfully
+    to walk straight, and realizes her fault-finding was foolish.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Young Crab
+  description: The Old Crab's son, who is criticized for walking sideways and asks
+    his mother to demonstrate the straight walking she recommends.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Traveller
+  description: A man who hires an Ass for a journey and claims that his bargain gives
+    him control of the Ass, including use of its shadow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Owner of the Ass
+  description: The Ass's owner, who follows to drive the animal and refuses the traveller's
+    use of the Ass's shadow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Ass
+  description: A hired animal whose shadow becomes the subject of dispute; it runs
+    away while the two men fight.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Admonishing parent
+  assigned_to:
+  - fig:1
+  basis: The Old Crab tells her son that he should not walk sideways and ought to
+    walk straight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Challenged child
+  assigned_to:
+  - fig:2
+  basis: The Young Crab asks his mother to show the action she demands and says he
+    will follow her example.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Failed exemplar
+  assigned_to:
+  - fig:1
+  basis: The Old Crab attempts the demonstration but fails and sees her fault-finding
+    as foolish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Hirer claiming full use
+  assigned_to:
+  - fig:3
+  basis: The traveller maintains that hiring the Ass gives him complete control of
+    it for the time being.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Owner limiting the bargain
+  assigned_to:
+  - fig:4
+  basis: The owner argues that the Ass was hired but not its shadow.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Disputed hired animal that escapes
+  assigned_to:
+  - fig:5
+  basis: The Ass is the hired beast at the center of the dispute and runs away while
+    the men fight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sideways walk
+  literal_form: walking sideways
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Straight walk
+  literal_form: walking straight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Ass's shadow
+  literal_form: shadow of the hired Ass
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Crab admonition and failed demonstration
+  summary: The Old Crab reproves her son for walking sideways; he asks her to show
+    him straight walking, but she cannot do so and recognizes the foolishness of her
+    criticism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dispute over the Ass's shadow
+  summary: On a hot journey, the traveller and owner stop to rest and argue over whether
+    the traveller's hiring of the Ass includes use of the Ass's shadow.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Quarrel and loss of the Ass
+  summary: The argument turns into a fight, and while the men strike each other, the
+    Ass runs away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Example better than precept
+  taxonomy_refs:
+  - wisdom
+  basis: The fable explicitly states this moral after showing the Old Crab unable
+    to demonstrate the conduct she demands from her son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives an explicit moral but
+    not a named mythological motif family.
+- id: motif:2
+  label: Fault-finder unable to model the correction
+  taxonomy_refs:
+  - wisdom
+  basis: The Old Crab criticizes her child's manner of walking, but when asked to
+    show the proper way, she fails.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable-pattern extraction from the supplied passage, not a claim
+    of historical transmission.
+- id: motif:3
+  label: Quarrel over an accessory causes loss of the principal object
+  taxonomy_refs:
+  - wisdom
+  basis: The traveller and owner fight over the Ass's shadow, and during the fight
+    the Ass itself escapes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage provides the narrative pattern but no explicit moral sentence
+    for this fable in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1760-1766
+  quote_or_summary: The Old Crab tells her son he walks sideways and should walk straight;
+    the Young Crab asks her to show him how and says he will follow her example.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1765-1768
+  quote_or_summary: "“Example is better than precept.” The Old Crab has tried in vain
+    and recognizes the foolishness of finding fault with her child."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1770-1778
+  quote_or_summary: A traveller hires an Ass in summertime; when resting in the heat,
+    he wants the Ass's shadow, but the owner says only the Ass, not the shadow, was
+    hired, while the traveller claims full temporary control.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1778-1783
+  quote_or_summary: The dispute escalates from words to blows, and while the men are
+    fighting the Ass runs away out of sight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are framed as broad fable or wisdom patterns. No comparison claims were added
+    because the passage does not itself establish historical contact, common inheritance,
+    or a specific external comparandum.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. No extraction was made for titles named in the locator label but absent from the provided passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1760-l1783
+  passage_sha256=f261063ef28cc61da54af97d0855a50404a23cad2c65a072f6ef161829f53a0c
+

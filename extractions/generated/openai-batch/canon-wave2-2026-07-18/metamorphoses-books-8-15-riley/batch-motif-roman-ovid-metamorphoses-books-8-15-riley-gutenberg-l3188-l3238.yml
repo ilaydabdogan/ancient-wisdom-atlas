@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3188-l3238
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE NINTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3188-3238
+  start: '3188'
+  end: '3238'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: why it might not be allowed others to grant the same gifts.
+  summary: After Themis speaks prophetically, the gods murmur and complain about why
+    others may not grant the same gifts. Aurora, Ceres, Mulciber, and Venus each raise
+    concern for an aged or life-renewal case involving a husband or named man.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Themis is described as foreseeing the future and speaking with a prophetic
+    voice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gods above murmur in varied discourse and complain about why others are
+    not allowed to grant the same gifts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aurora is called the daughter of Pallas and complains about the aged years
+    of her husband.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ceres complains that Iäsion is growing grey.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mulciber demands that Ericthonius receive a life to live over again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Venus, influenced by concern for the future, offers to renew the years of
+    Anchises.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Themis
+  description: A figure who foresees the future and speaks with a prophetic voice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gods above
+  description: A collective divine group that murmurs and voices complaint after Themis
+    speaks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aurora
+  description: Described as the daughter of Pallas; complains of the aged years of
+    her husband.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pallas
+  description: Named as the parent of Aurora.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Aurora's husband
+  description: Unnamed husband of Aurora, described as having aged years.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ceres
+  description: Called gentle; complains that Iäsion is growing grey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Iäsion
+  description: Named man whom Ceres says is growing grey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Mulciber
+  description: Demands for Ericthonius a life to live over again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Ericthonius
+  description: Named recipient for whom Mulciber demands a life to live over again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Venus
+  description: Concerned for the future and offers to renew the years of Anchises.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Anchises
+  description: Named recipient whose years Venus offers to renew.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prophetic speaker
+  assigned_to:
+  - fig:1
+  basis: Themis foresees the future and speaks with prophetic voice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine complainants
+  assigned_to:
+  - fig:2
+  basis: The gods above murmur and frame a complaint about granting gifts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: advocate concerned with another's aging or renewal
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:8
+  - fig:10
+  basis: Aurora and Ceres complain about aging; Mulciber demands a life to live over
+    again; Venus offers renewed years.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: aged or proposed renewal recipient
+  assigned_to:
+  - fig:5
+  - fig:7
+  - fig:9
+  - fig:11
+  basis: Aurora's husband is aged, Iäsion is growing grey, Ericthonius is proposed
+    for another life, and Anchises is proposed for renewed years.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: named parent
+  assigned_to:
+  - fig:4
+  basis: Pallas is named as Aurora's parent.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: aging as greying or aged years
+  literal_form: aged years; growing grey
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: renewed life or renewed years
+  literal_form: a life to live over again; renew the years
+  associated_figures:
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Themis's prophecy and divine complaint
+  summary: Themis speaks prophetically, and the gods above murmur and complain about
+    the granting of gifts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine concerns about aging and renewed life
+  summary: Aurora, Ceres, Mulciber, and Venus present concerns or proposals involving
+    aged years, greying, life lived over again, and renewed years for named or associated
+    figures.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine complaint over unequal access to life-renewing gifts
+  taxonomy_refs: []
+  basis: The gods complain about why others may not grant the same gifts, followed
+    by examples involving aging, a second life, and renewed years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt reports complaints, demands, and offers; it does not show
+    the gifts actually being granted.
+- id: motif:2
+  label: rejuvenation or second life sought for favored figures
+  taxonomy_refs: []
+  basis: Aurora complains of an aged husband, Ceres of Iäsion growing grey, Mulciber
+    asks for Ericthonius to live again, and Venus offers renewed years to Anchises.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No explicit death, rebirth, or resurrection occurs within this passage;
+    the motif is limited to requested or proposed renewal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3188-3190
+  quote_or_summary: "“When Themis, foreseeing the future, had said these words with
+    prophetic voice, the Gods above murmured...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3191-3192
+  quote_or_summary: "“{Aurora}, the daughter of Pallas, complained of the aged years
+    of her husband”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3192-3193
+  quote_or_summary: "“the gentle Ceres complained that Iäsion was growing grey”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 3193-3194
+  quote_or_summary: "“Mulciber demanded for Ericthonius a life to live over again”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 3194-3195
+  quote_or_summary: "“Venus... made an offer to renew the years of Anchises.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the main narrative sentence in the supplied line range.
+    Motif mapping is cautious because the excerpt describes requests and offers for
+    renewal rather than completed transformations. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range also contains translator footnotes for nearby references; this extraction focuses on the narrative material directly concerning Themis, the gods' complaint, and requests or offers for renewed life or years.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3188-l3238
+  passage_sha256=f3adc1d89614b521436f6dbf6619a06b799eb2b550f99a46e97898a7893f481f
+

@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l9983-l10002
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: INCIPIT. / TITLE I. / VIII. / XIII.; lines 9983-10002
+  start: '9983'
+  end: '10002'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: '"Wherefore I pray yon forget me not, for the saving of your loyalty."'
+  summary: An unnamed knight tells Lancelot that he has granted him respite until
+    forty days after the Graal is achieved, has remained in the castle, and came out
+    only because Lancelot arrived to fulfill his pledge. He thanks Lancelot and Gawain
+    for horses and aid given to his impoverished sisters, asks Lancelot not to forget
+    him, and Lancelot promises not to do so. They then depart toward Cardoil, where
+    King Arthur was.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The unnamed knight says he has taken respite of Lancelot until forty days
+    after the Graal shall be achieved.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unnamed knight says he had not left the castle where Lancelot lodged until
+    seeing Lancelot come to fulfill his pledge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The unnamed knight says he will not come forth again until Lancelot returns
+    on the named day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unnamed knight thanks Lancelot and Messire Gawain for sending horses that
+    helped him and his companions.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The unnamed knight thanks Lancelot and Messire Gawain for treasure and a hold
+    given to his poverty-stricken sisters.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The unnamed knight says he must remain in his present poverty until Lancelot
+    returns on the appointed day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The unnamed knight asks Lancelot not to forget him, connecting this request
+    with Lancelot's loyalty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Lancelot promises not to forget and thanks the knight for putting off the
+    day for love of him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Lancelot and his companions depart from the knight and return toward Cardoil,
+    where King Arthur was.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lancelot
+  description: Knight addressed by the unnamed knight; he has a pledge to fulfill
+    and promises not to forget the knight.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed knight
+  description: Speaker who has granted Lancelot respite, stayed in the castle, thanks
+    Lancelot and Gawain for aid, and asks not to be forgotten.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Messire Gawain
+  description: Named with Lancelot as one who sent horses and helped provide treasure
+    and a hold to the knight's sisters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: The unnamed knight's sisters
+  description: Described as poverty-stricken and as recipients of treasure and a hold.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: King Arthur
+  description: Present at Cardoil, toward which Lancelot and his companions return.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pledged returner
+  assigned_to:
+  - fig:1
+  basis: The unnamed knight says Lancelot came for fulfilling his pledge and must
+    return on the named day.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of respite
+  assigned_to:
+  - fig:1
+  basis: The unnamed knight says he has taken respite of Lancelot until forty days
+    after the Graal shall be achieved.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: grantor of respite
+  assigned_to:
+  - fig:2
+  basis: The unnamed knight states that he has taken respite of Lancelot and put off
+    the day.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: grateful petitioner
+  assigned_to:
+  - fig:2
+  basis: The unnamed knight thanks Lancelot and Gawain for aid and asks Lancelot not
+    to forget him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: benefactor
+  assigned_to:
+  - fig:3
+  basis: Gawain is included in the knight's thanks for horses, treasure, and a hold.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: aid recipients
+  assigned_to:
+  - fig:4
+  basis: The sisters are described as poverty-stricken and as having received treasure
+    and a hold.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: royal presence at destination
+  assigned_to:
+  - fig:5
+  basis: The passage says Lancelot and companions return toward Cardoil where King
+    Arthur was.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Graal as quest marker
+  literal_form: the Graal shall be achieved
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forty-day respite
+  literal_form: forty days after the Graal shall be achieved
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: horses sent as aid
+  literal_form: horses sent to the unnamed knight
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: treasure and hold given to sisters
+  literal_form: treasure and the hold
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: named return day
+  literal_form: the day named for Lancelot's return
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Respite and appointed return
+  summary: The unnamed knight explains to Lancelot that he has delayed the appointed
+    matter until forty days after the Graal is achieved and will remain within until
+    Lancelot returns on the named day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Thanks for aid and request for loyalty
+  summary: The unnamed knight thanks Lancelot and Gawain for horses, treasure, and
+    a hold given to his sisters, then asks Lancelot not to forget him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lancelot's promise and departure
+  summary: Lancelot promises not to forget the knight, thanks him for delaying the
+    day, and the party departs toward Cardoil, where King Arthur was.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Deferred obligation until after sacred quest milestone
+  taxonomy_refs:
+  - mystical_quest
+  basis: The knight postpones the matter involving Lancelot until forty days after
+    the Graal shall be achieved.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage refers to the Graal being achieved but does not describe the
+    Graal quest itself in detail.
+- id: motif:2
+  label: Pledge to return on an appointed day
+  taxonomy_refs:
+  - covenant
+  - return
+  basis: The unnamed knight says Lancelot came to fulfill his pledge and must return
+    on the named day; Lancelot promises not to forget.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the obligation and promise but not the consequences
+    of failure or fulfillment.
+- id: motif:3
+  label: Reciprocal aid answered by mercy or delay
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The knight connects the respite and his petition to the benefits done for
+    him, including horses and aid to his sisters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange is social and chivalric in the passage; any sacred dimension
+    is inferred only from the broader Graal context mentioned nearby.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9983-9985
+  quote_or_summary: '"I have taken respite of you ... until forty days after that
+    the Graal shall be achieved"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9985-9989
+  quote_or_summary: The knight says he had not left the castle where Lancelot lodged
+    until Lancelot came to fulfill his pledge, and that he will not come forth again
+    until Lancelot returns on the named day.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9989-9992
+  quote_or_summary: The knight thanks Lancelot and Messire Gawain for horses sent
+    to him and for treasure and a hold given to his poverty-stricken sisters.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9992-9996
+  quote_or_summary: 'The knight says he must abide in poverty until Lancelot returns,
+    and asks: "forget me not, for the saving of your loyalty."'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9997-9998
+  quote_or_summary: Lancelot says he will not forget and thanks the knight for having
+    put off the day for love of him.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9999-10002
+  quote_or_summary: They leave the knight and return toward Cardoil, where King Arthur
+    was.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels involving covenant, return,
+    and exchange are supported by pledge, appointed return, aid, and respite language,
+    but broader Graal-quest interpretation is limited by the short passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit cross-traditional or nearby-corpus comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l9983-l10002
+  passage_sha256=a12d90e16d3b914877a1db3409c49595fddac84968e18fe9e039aa7821d69d92
+

@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l8309-l8333
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: ANCIENT  DELUGE  FRAGMENT  105 / ANCIENT  DELUGE  FRAGMENT  107 / BEROSSOS  AND  THE  FLOOD  109
+    / EA  AND  ATRAKHASIS  113; lines 8309-8333
+  start: '8309'
+  end: '8333'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes appointed times for a cosmic conflagration and a
+    deluge. Earthly things are said to burn when the stars, clarified in a note as
+    planets, come together in Cancer in a straight-line alignment; a flood is said
+    to occur when the same bodies gather in Capricorn. These signs are linked with
+    solstitial changes of the year, and the Latin text repeats the same explanation.
+  language: English with Latin parallel text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male subject is said to appoint times for both a conflagration
+    and a deluge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Earthly things are said to burn when all the stars have come together in Cancer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note clarifies that the term translated as stars refers to planets.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The planetary gathering in Cancer is described as a single position through
+    which a straight line could pass through all the bodies.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A flood is said to occur when the same stars or planets come together in Capricorn.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cancer and Capricorn are associated in the passage with solstitial points
+    and major changes of the year.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The Latin parallel restates the burning of earthly things at the gathering
+    in Cancer and the future inundation at the gathering in Capricorn.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male subject
+  description: The passage refers to an unnamed 'he' who appoints times for the conflagration
+    and deluge and argues about their celestial causes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: cosmic-timing expositor
+  assigned_to:
+  - fig:1
+  basis: The subject appoints times for the conflagration and deluge and explains
+    them through planetary conjunctions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: conflagration
+  literal_form: burning of earthly things
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: deluge or flood
+  literal_form: inundation when the stars or planets gather in Capricorn
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: planetary conjunction in Cancer
+  literal_form: stars or planets gathered in Cancer in one straight-line position
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: planetary conjunction in Capricorn
+  literal_form: same stars or planets gathered in Capricorn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: solstitial year-change signs
+  literal_form: Cancer and Capricorn as signs connected with solstice or winter and
+    changes of the year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Appointment of times for cosmic destruction by fire and water
+  summary: The passage states that times are appointed for a conflagration and a deluge,
+    then explains each through celestial configurations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Conflagration at the Cancer alignment
+  summary: Earthly things are said to be burned when the stars or planets gather in
+    Cancer in a single straight-line arrangement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Flood at the Capricorn alignment
+  summary: A flood is said to occur when the same stars or planets gather in Capricorn,
+    a configuration associated with winter and changes of the year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: world destruction by cosmic fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage says earthly things will burn when the planets gather in Cancer.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage describes conflagration but does not narrate its aftermath
+    or renewal.
+- id: motif:2
+  label: cosmic flood caused by celestial alignment
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage says a flood or inundation will occur when the same stars or
+    planets gather in Capricorn.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label includes renewal, but this excerpt only states
+    flood or inundation and does not describe renewal.
+- id: motif:3
+  label: seasonal or solstitial timing of cosmic catastrophe
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The destructive events are tied to Cancer and Capricorn and to chief changes
+    of the year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage connects the signs to seasonal changes, but it does not present
+    a full seasonal mythic cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8309-8312
+  quote_or_summary: The passage states that an unnamed 'he' appoints times for the
+    conflagration and for the deluge.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8312-8317
+  quote_or_summary: Earthly things will be burned when all the stars, said to have
+    diverse courses, come together in Cancer so that a straight line could pass through
+    all.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8317-8321
+  quote_or_summary: A flood will occur when the same stars come together in Capricorn;
+    the former and latter are linked with solstice and the chief changes of the year.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: notes following lines 8321-8326
+  quote_or_summary: A note explains that 'stars' means planets, and another note comments
+    on Cancer and Capricorn as zodiacal signs associated with solstitial points.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Latin parallel, lines 8326-8333
+  quote_or_summary: The Latin text repeats that earthly things will burn when the
+    heavenly bodies gather in Cancer, and that inundation will occur when they gather
+    in Capricorn; it calls these signs powerful because they mark changes of the year.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labeling is partly approximate
+    because the excerpt names flood and conflagration but gives no narrative aftermath,
+    renewal, or named mythic actors.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material with another named tradition or motif family beyond describing the celestial timing of fire and flood.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l8309-l8333
+  passage_sha256=2bbfca965f8829ad37ce40bf0c80156d3aa70ece249343e7fdc8fc8ee1794184
+

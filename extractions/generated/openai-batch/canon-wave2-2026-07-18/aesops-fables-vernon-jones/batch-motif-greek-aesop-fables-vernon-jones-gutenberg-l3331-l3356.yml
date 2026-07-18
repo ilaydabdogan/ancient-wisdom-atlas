@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3331-l3356
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GRASSHOPPER AND THE OWL / THE GRASSHOPPER AND THE ANTS / THE FARMER AND
+    THE VIPER / THE TWO FROGS; lines 3331-3356
+  start: '3331'
+  end: '3356'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a farmer warms a frozen viper out of pity, and the revived
+    viper fatally bites him; the dying farmer says he deserved his fate for pitying
+    a villainous creature, followed by the moral that kindness is wasted on the evil.
+    In the next fable, a marsh frog urges a lane-dwelling frog to move to the safer
+    marsh, but the lane frog refuses because he is accustomed to his home and is later
+    crushed by a wagon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A farmer finds a viper frozen and numb with cold during winter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer picks up the viper out of pity and places it in his bosom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After being revived by warmth, the viper bites the farmer fatally.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dying farmer states that he deserved the outcome for taking compassion
+    on a villainous creature.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stated moral says that kindness is thrown away upon the evil.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Two frogs are neighbours, one living in a watery marsh and the other in a
+    lane where water only remains in ruts after rain.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The marsh frog warns the lane frog and urges him to move to the marsh, which
+    is described as more comfortable and safer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The lane frog refuses to move because he is accustomed to his place.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A heavy wagon later comes down the lane and crushes the lane frog under its
+    wheels.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer who finds a frozen viper, warms it out of pity, and dies after
+    being bitten.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Viper
+  description: A frozen and numb viper that revives from the farmer's warmth and fatally
+    bites him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Marsh Frog
+  description: A frog living in a marsh with plenty of water who warns his friend
+    to move there for comfort and safety.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Lane Frog
+  description: A frog living in a lane with water only in rain-filled ruts who refuses
+    to move and is crushed by a wagon.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: Compassionate rescuer
+  assigned_to:
+  - fig:1
+  basis: The farmer takes pity on the frozen viper and places it in his bosom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Revived harmful creature
+  assigned_to:
+  - fig:2
+  basis: The viper revives through warmth and turns on the benefactor with a fatal
+    bite.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Dying moral speaker
+  assigned_to:
+  - fig:1
+  basis: As he lies dying, the farmer comments on his own misplaced compassion.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Prudent warner
+  assigned_to:
+  - fig:3
+  basis: The marsh frog warns and presses his friend to move to a safer place.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Habit-bound refuser
+  assigned_to:
+  - fig:4
+  basis: The lane frog refuses to leave a place to which he has become accustomed.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Victim of avoidable danger
+  assigned_to:
+  - fig:4
+  basis: The lane frog is crushed by a wagon after refusing the warning.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Viper as serpent
+  literal_form: Viper
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Watered marsh
+  literal_form: Marsh with plenty of water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Rain-filled rut water
+  literal_form: Water lying in lane ruts after rain
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Heavy wagon and wheels
+  literal_form: Heavy wagon and its wheels
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Farmer warms the frozen viper
+  summary: In winter, the farmer finds the viper frozen and numb, takes pity on it,
+    and places it in his bosom for warmth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revived viper kills benefactor
+  summary: The viper revives from the warmth, turns on the farmer, and inflicts a
+    fatal bite; the farmer then reflects on his misplaced compassion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Marsh frog warns lane frog
+  summary: The marsh frog urges the lane frog to move from the lane to the marsh,
+    presenting it as more comfortable and safer.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Lane frog refuses and dies
+  summary: The lane frog refuses to move because he is accustomed to the lane; soon
+    afterward a heavy wagon crushes him under its wheels.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Kindness to a dangerous serpent repaid by death
+  taxonomy_refs:
+  - serpent
+  basis: The farmer rescues and warms a frozen viper, but the revived viper fatally
+    bites him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the episode as a moral fable about evil rather than
+    as a mythic serpent narrative.
+- id: motif:2
+  label: Misplaced compassion toward the evil
+  taxonomy_refs: []
+  basis: The farmer's dying speech and the explicit moral both frame the act of compassion
+    as wrongly directed toward a villainous or evil creature.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a stated moral pattern, not a named taxonomy motif in the supplied
+    list.
+- id: motif:3
+  label: Ignored prudent warning leads to death
+  taxonomy_refs: []
+  basis: The marsh frog warns the lane frog that the marsh is safer; the lane frog
+    refuses to move and is later crushed by a wagon.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives no explicit comparative taxonomy reference for this
+    pattern.
+- id: motif:4
+  label: Danger of attachment to an unsafe home
+  taxonomy_refs: []
+  basis: The lane frog remains in the lane because he is accustomed to it, despite
+    being advised to move to a safer marsh, and dies there.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This motif is inferred from the sequence of refusal and death; the passage
+    does not state a separate moral for this fable in the provided text.
+comparison_claims:
+- id: claim:1
+  claim: The viper fable can be cautiously compared with the supplied serpent motif
+    family because a snake-like figure is central to the action and brings fatal danger
+    after revival.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: The passage uses the viper in a brief moral fable about misplaced kindness;
+    it does not develop broader mythic serpent themes such as cosmic opposition, healing,
+    transformation, or guardianship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3331-3334
+  quote_or_summary: '"One winter a Farmer found a Viper frozen and numb with cold,
+    and out of pity picked it up and placed it in his bosom."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3334-3336
+  quote_or_summary: The revived viper turns on its benefactor and gives him a fatal
+    bite.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3336-3338
+  quote_or_summary: The dying farmer says, "I have only got what I deserved, for taking
+    compassion on so villainous a creature."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: line 3340
+  quote_or_summary: '"Kindness is thrown away upon the evil."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3344-3348
+  quote_or_summary: 'Two neighbouring frogs live in different places: one in a marsh
+    with plenty of water, the other in a lane where water remains only in ruts after
+    rain.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3348-3351
+  quote_or_summary: The marsh frog warns his friend and urges him to live in the marsh,
+    saying it would be more comfortable and safer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3351-3353
+  quote_or_summary: The other frog refuses, saying he cannot bring himself to move
+    from the place to which he has become accustomed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 3353-3356
+  quote_or_summary: A few days later, a heavy wagon comes down the lane, and the frog
+    is crushed to death under the wheels.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied fable text. Motif
+    and comparison confidence is reduced where broad motif-family labels are applied
+    to brief moral fables.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the two fables present in the provided passage text were extracted; the locator label also names preceding fables not included in the passage_text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3331-l3356
+  passage_sha256=65b842f4b102925cb52bdcf2eb7b382a858ee9aa09bc190b1c6715c0f7100faf
+

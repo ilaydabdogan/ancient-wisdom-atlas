@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l2719-l2852
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  23 / THE  FOURTH  TABLET / THE    FOIRTH    TABLET
+    / THE  STORY  OF  CREATION  25; lines 2719-2852
+  start: '2719'
+  end: '2852'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: They rejoiced, they paid homage, "Marduk is king."
+  summary: The gods address Marduk, test his command by placing a garment among them
+    for him to destroy and restore, and then rejoice at the power of his word. They
+    proclaim him king, give him symbols of authority and an invincible weapon, and
+    send him to cut off Tiamat's life. Marduk prepares weapons, lightning, fire, a
+    net, and multiple winds to enclose Tiamat so she cannot escape.
+  language: English translation with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Marduk is told that his seat will be in the assembly and that his word will
+    be exalted.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gods place a garment among themselves and tell Marduk that his command
+    can destroy it or leave it intact.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Marduk speaks, the garment is destroyed, and after a second command the garment
+    is restored.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gods rejoice, pay homage, and declare Marduk king after seeing the efficacy
+    of his word.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gods bestow on Marduk the sceptre, the throne, the palu, and an invincible
+    weapon.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Marduk is directed to cut off Tiamat's life and let the wind carry her blood
+    into secret places.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Marduk prepares the bow, spear, club, quiver, lightning, flaming fire, a net,
+    and created winds before confronting Tiamat.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:8
+  text: The net is set at the four winds so that nothing of Tiamat might escape.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Marduk creates and sends forth seven winds, including an evil wind, tempest,
+    hurricane, fourfold wind, sevenfold wind, whirlwind, and a wind beyond compare.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: The gods' first born; addressed as lord; his word destroys and restores
+    the garment; proclaimed king; armed and sent against Tiamat.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the gods / gods his fathers
+  description: The divine assembly that addresses Marduk, tests his command, rejoices,
+    pays homage, decrees his destiny, and equips him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Tiamat
+  description: The being whose life Marduk is told to cut off and whom he prepares
+    to enclose with a net and winds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Anu
+  description: Named as Marduk's father in connection with the net as a gift.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: the god who undertook evil
+  description: An unnamed god mentioned in the gods' speech, whose life is to be poured
+    out.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine speaker whose command is effective
+  assigned_to:
+  - fig:1
+  basis: Marduk speaks and commands, and the garment is destroyed and restored.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: king among the gods
+  assigned_to:
+  - fig:1
+  basis: The gods pay homage and say, "Marduk is king," then give him royal objects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: armed champion against Tiamat
+  assigned_to:
+  - fig:1
+  basis: Marduk receives an invincible weapon and prepares weapons, fire, lightning,
+    net, and winds for Tiamat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: divine assembly
+  assigned_to:
+  - fig:2
+  basis: The gods place a garment among themselves, speak to Marduk, and observe the
+    result.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: grantors of destiny and authority
+  assigned_to:
+  - fig:2
+  basis: They decree Marduk's destiny and bestow the sceptre, throne, palu, and weapon.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: target of divine combat
+  assigned_to:
+  - fig:3
+  basis: Marduk is told to cut off Tiamat's life and arranges a net so she cannot
+    escape.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: giver associated with the net
+  assigned_to:
+  - fig:4
+  basis: The net is described as the gift of Marduk's father Anu.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: evil-doing god named in judgment speech
+  assigned_to:
+  - fig:5
+  basis: The speech refers to a god who undertook evil and says to pour out his life.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: garment destroyed and restored
+  literal_form: garment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: royal authority objects
+  literal_form: sceptre, throne, and palu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: invincible weapon
+  literal_form: weapon that destroys the enemy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bow and quiver
+  literal_form: bow and quiver hung at Marduk's side
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: spear and club
+  literal_form: spear and club grasped or fastened by Marduk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: lightning
+  literal_form: lightning placed in front of Marduk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: flaming fire
+  literal_form: flaming fire filling Marduk's body
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: net for Tiamat
+  literal_form: net set at the four winds to enclose Tiamat
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: four winds and seven winds
+  literal_form: South, North, East, and West winds; seven created winds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Marduk addressed in the assembly
+  summary: The gods address Marduk as lord, say his word will be exalted, and speak
+    of defending the one who trusts in him while punishing a god who undertook evil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Test of the garment
+  summary: The gods place a garment among them and declare that Marduk's command may
+    destroy it or make it remain intact; Marduk destroys and restores it by speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marduk proclaimed king and equipped
+  summary: After seeing the efficacy of Marduk's word, the gods rejoice, pay homage,
+    proclaim him king, bestow authority objects, and give him an invincible weapon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Commission against Tiamat
+  summary: The gods decree Marduk's destiny, make his way a path of salvation and
+    success, and command him to cut off Tiamat's life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Marduk arms himself and surrounds Tiamat
+  summary: Marduk prepares weapons, lightning, fire, a net, and created winds; he
+    sets the net at the four winds so Tiamat cannot escape.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine word that destroys and restores
+  taxonomy_refs: []
+  basis: Marduk's spoken command destroys the garment and then restores it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage demonstrates the efficacy of command through a garment test;
+    broader creation theology should not be inferred beyond this passage.
+- id: motif:2
+  label: royal legitimation by divine assembly
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The gods observe Marduk's power, rejoice, pay homage, call him king, and
+    give him royal objects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents divine acclamation and regalia, but details of the
+    palu are uncertain in the source note.
+- id: motif:3
+  label: divine champion armed for combat
+  taxonomy_refs: []
+  basis: Marduk receives an invincible weapon and prepares bow, spear, club, quiver,
+    lightning, fire, net, and winds before attacking Tiamat.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The combat itself is not narrated in this passage segment; only commission
+    and preparation appear here.
+- id: motif:4
+  label: encirclement of a foe by net and winds
+  taxonomy_refs: []
+  basis: Marduk makes a net to enclose Tiamat and sets it at the four winds so nothing
+    of her may escape.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not describe the eventual outcome of the enclosure.
+- id: motif:5
+  label: storm and fire weaponry of a deity
+  taxonomy_refs: []
+  basis: Marduk places lightning before him, fills his body with flaming fire, and
+    creates multiple violent winds.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage lists the elements as part of Marduk's preparations; symbolic
+    significance beyond martial equipment is not explicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15-18 within supplied passage
+  quote_or_summary: Marduk is told that his seat will be in the assembly, his word
+    will be exalted, his weapon will break his foe, and the evil-doing god's life
+    should be poured out.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19-24 within supplied passage
+  quote_or_summary: The gods place a garment among them, address Marduk as first born,
+    and say his destiny is supreme; his command may destroy the garment or leave it
+    intact.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 25-26 within supplied passage
+  quote_or_summary: Marduk speaks and the garment is destroyed; he commands again
+    and the garment is restored.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 27-28 within supplied passage
+  quote_or_summary: They rejoiced, they paid homage, "Marduk is king."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 29-30 within supplied passage
+  quote_or_summary: The gods bestow the sceptre, throne, palu, and an invincible weapon
+    that destroys the enemy on Marduk.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 31-34 within supplied passage
+  quote_or_summary: Marduk is told to cut off Tiamat's life and let the wind carry
+    her blood into secret places; the gods decree his destiny and establish his path
+    as one of salvation and success.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 35-40 within supplied passage
+  quote_or_summary: Marduk makes ready the bow, seizes a spear, raises the club, hangs
+    bow and quiver at his side, places lightning before him, and fills his body with
+    flaming fire.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 41-44 within supplied passage
+  quote_or_summary: Marduk makes a net to enclose Tiamat, sets it at the South, North,
+    East, and West winds so nothing of her may escape, and the net is called the gift
+    of Anu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 45-47 within supplied passage
+  quote_or_summary: Marduk creates an evil wind, tempest, hurricane, fourfold wind,
+    sevenfold wind, whirlwind, and a wind beyond compare, then sends forth the seven
+    winds he created.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are candidate analytical groupings and require human review. No cross-tradition
+    comparison claims are made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The source note states that the meaning of palu is uncertain, so it is kept as a literal authority object without further interpretation.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l2719-l2852
+  passage_sha256=e2bd356f833c290d65854f2ccaeb135d1275877671f19ed88ce5194960fd3caf
+

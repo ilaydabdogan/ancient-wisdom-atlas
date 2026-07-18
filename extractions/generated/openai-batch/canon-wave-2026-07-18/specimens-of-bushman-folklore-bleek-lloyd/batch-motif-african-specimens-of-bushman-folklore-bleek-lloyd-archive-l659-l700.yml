@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l659-l700
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: TO    ALL    FAITHFUL    WORKERS. / PREFACE. / PREFACE.  IX / X  PREFACE.;
+    lines 659-700
+  start: '659'
+  end: '700'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Preface excerpt explaining click notation, the editorial arrangement of
+    the folklore specimens, the incomplete preparation of a piece titled “The Resurrection
+    of the Ostrich,” and biographical notes on two named contributors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The palatal click marked “4=” is described as made by pressing the tongue
+    tip flat against the palate near the gums and removing it as with other clicks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The labial click, marked by Dr. Bleek as “0,” is said to sound like a kiss.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The arrangement of the folklore specimens follows Dr. Bleek’s division, with
+    heading figures and letters indicating earlier report placement.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A piece titled “The Resurrection of the Ostrich” and a parsing of part of
+    it were not fully prepared for printing when Dr. Bleek died, but the papers were
+    retained because they were considered important.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The preface introduces a list of the givers of native literature included
+    in the “Specimens.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: "\\a\\kuhta is described as a youth who contributed two pieces, came from
+    the Strontbergen region, and stayed with Dr. Bleek from August 29, 1870, to October
+    15, 1873."
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: WJcabbo, also called “Dream” in the excerpt, furnished fifteen pieces, came
+    from the same neighbourhood as \a\kuhta, and is described as an excellent narrator
+    who waited while sentences were written down.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dr. Bleek
+  description: Named scholarly figure whose click notation and division of the specimens
+    are followed; the excerpt also notes his death before one piece was finally prepared.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: "\\a\\kuhta"
+  description: Contributor of two pieces, described as a youth from in or near the
+    Strontbergen region who was with Dr. Bleek for a stated period.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: WJcabbo or “Dream”
+  description: Contributor of fifteen pieces, from the same neighbourhood as \a\kuhta,
+    described as an excellent narrator.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Ostrich
+  description: Animal named only in the title “The Resurrection of the Ostrich”; no
+    narrative description of the ostrich appears in this excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: scholarly/editorial authority named in preface
+  assigned_to:
+  - fig:1
+  basis: The excerpt attributes notation and arrangement to Dr. Bleek and discusses
+    unfinished papers at his death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: giver or contributor of native literature
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The preface lists both \a\kuhta and WJcabbo among the givers of native literature
+    and states how many pieces each supplied.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: excellent narrator
+  assigned_to:
+  - fig:3
+  basis: WJcabbo is explicitly described as an excellent narrator who waited for sentences
+    to be written down before proceeding.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: title subject
+  assigned_to:
+  - fig:4
+  basis: The ostrich appears as the subject in the title of the mentioned piece.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory explanation of notation and arrangement
+  summary: The passage explains two click sounds and describes how the folklore specimens
+    are arranged according to Dr. Bleek’s divisions and report references.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Editorial note on an ostrich resurrection piece
+  summary: The passage notes that “The Resurrection of the Ostrich” and a parsing
+    of part of it were not fully ready for printing at Dr. Bleek’s death, but were
+    included because of their importance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Contributor biographical notes
+  summary: The passage introduces the givers of native literature and gives details
+    about \a\kuhta and WJcabbo, including origins, number of pieces supplied, and
+    WJcabbo’s narration practice.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Resurrection of the Ostrich title-only candidate
+  taxonomy_refs:
+  - resurrection
+  basis: The excerpt names a piece titled “The Resurrection of the Ostrich,” but provides
+    no narrative content from the piece itself.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a title-only indication; the passage does not describe an actual
+    resurrection episode or its mythic function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 659-665
+  quote_or_summary: The palatal click “4=” is described in articulatory terms involving
+    the tongue tip and palate.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 667-668
+  quote_or_summary: "“The labial click, marked by Dr. Bleek 0, sounds like a kiss.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 670-676
+  quote_or_summary: The specimens are arranged according to Dr. Bleek’s division,
+    and heading figures plus B. or L. indicate their earlier report placement.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 678-684
+  quote_or_summary: "“The Resurrection of the Ostrich” and a partial parsing were
+    unfinished for the printer when Dr. Bleek died; despite uncertainty in places,
+    the papers were considered too important to omit."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary with title quoted.
+- id: ev:5
+  type: summary
+  locator: lines 686-693
+  quote_or_summary: The preface introduces the givers of native literature; \a\kuhta
+    contributed two pieces, came from in or near the Strontbergen, and was with Dr.
+    Bleek from August 29, 1870, to October 15, 1873.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 695-700
+  quote_or_summary: WJcabbo or “Dream” furnished fifteen pieces, came from the same
+    neighbourhood as \a\kuhta, and is described as an excellent narrator who waited
+    while sentences were written down before continuing.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The prefatory information is explicit, but mythic motif content is almost
+    absent. The only motif candidate is inferred cautiously from a title, not from
+    a narrated episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is a preface excerpt rather than a myth narrative; no comparison claims are made.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l659-l700
+  passage_sha256=764b001f2aeb1acc368b042be8ba27ec555a0743d56213403e2762f56ef8362c
+

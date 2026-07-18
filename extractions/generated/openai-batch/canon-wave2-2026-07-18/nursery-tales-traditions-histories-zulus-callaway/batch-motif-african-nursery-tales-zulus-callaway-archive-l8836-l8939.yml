@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l8836-l8939
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANJE. / USITUNGUSOBENHLE  NAMAJUBATENTE. / IZINGANEKWANE. / USITUNGUSOBENHLE  NAMAJUBATENTE.;
+    lines 8836-8939
+  start: '8836'
+  end: '8939'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Usitungusobenthle and her children are on the far side of the sea when
+    the Amajubatente army arrives. She offers to ferry the army across with a long
+    rope, but when many hold the rope and are in the sea, she cuts it with a sharp
+    stone so they are carried away. She repeats the deception with another group,
+    pretending each time that the loss was accidental. Editorial notes compare the
+    episode to other tales involving pursued figures, water crossings, and drowned
+    pursuers.
+  language: English translation with Zulu source text present
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Usitungusobenthle and her children went through and sat down on the other
+    side.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The army of the Amajubatente arrived at the sea, saw Usitungusobenthle on
+    the other side, and wondered at seeing her there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Usitungusobenthle plaited a very long rope, threw it across, and told the
+    army to come so that she could cross them over.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narration says she was only chaffing them and that she had found a sharp
+    stone.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A great many of the army held the rope; when they were in the middle, Usitungusobenthle
+    cut the rope and they were carried away by the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Usitungusobenthle cried out that the king's people were carried away, while
+    the narration states she was dissembling and had purposely cut the rope.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Usitungusobenthle repeated the rope episode with others, cut the rope again
+    in the midst of the sea, and said the rope had slipped from her hand.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A footnote says a somewhat similar tale is told of Heitsi Eibip of the Hottentots,
+    or of another person according to Knudsen, in which a pursued figure at water
+    asks it to open for passage and close afterward.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote says the Highland legend of Maol a Chliobain includes a similar
+    stratagem in which a giant is drowned after trusting the pursued figure at a crossing.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Usitungusobenthle
+  description: A figure who is on the far side of the sea with her children and uses
+    a long rope and sharp stone to drown members of the pursuing army.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Usitungusobenthle's children
+  description: Children who go through with Usitungusobenthle and sit with her on
+    the other side.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Army of the Amajubatente
+  description: An army, also called the people of the king in Usitungusobenthle's
+    speech, that arrives at the sea and is deceived into holding the rope.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: pursued figure across the water
+  assigned_to:
+  - fig:1
+  basis: The army arrives at the sea and sees Usitungusobenthle already on the other
+    side.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accompanying children
+  assigned_to:
+  - fig:2
+  basis: They go through with Usitungusobenthle and sit down on the other side.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: pursuing army and victims of the stratagem
+  assigned_to:
+  - fig:3
+  basis: They arrive at the sea, hold the rope in groups, and are carried away when
+    the rope is cut.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: deceptive helper at a crossing
+  assigned_to:
+  - fig:1
+  basis: She offers to cross the army over with a rope but deliberately cuts it while
+    they are in the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sea as crossing barrier
+  literal_form: sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: long rope
+  literal_form: very long rope
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sharp stone
+  literal_form: sharp stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Usitungusobenthle across the sea
+  summary: Usitungusobenthle and her children are on the other side of the sea when
+    the Amajubatente army arrives and sees them there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First rope deception
+  summary: Usitungusobenthle throws a long rope across and tells many members of the
+    army to hold it; when they are in the middle, she cuts the rope and the sea carries
+    them away.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Repeated rope deception
+  summary: Usitungusobenthle again has many of the others hold the rope, cuts it in
+    the midst of the sea, and pretends that the loss was accidental.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deceptive crossing offer destroys pursuers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: A figure across the sea offers to help enemies cross by rope, but cuts the
+    rope while they are in the water so they are carried away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy has only a broad boundary/trickster family; no
+    narrower rope-bridge or drowned-pursuer taxonomy ID is supplied.
+- id: motif:2
+  label: water barrier separates pursued from pursuers
+  taxonomy_refs: []
+  basis: Usitungusobenthle and her children are already on the other side when the
+    pursuing army reaches the sea and cannot immediately reach them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage excerpt begins after the crossing mechanism; it states that
+    they went through but does not fully narrate how the initial crossing occurred.
+- id: motif:3
+  label: feigned accident after deliberate harm
+  taxonomy_refs: []
+  basis: After cutting the rope, Usitungusobenthle cries out as if the army's loss
+    is accidental, while the narration says she cut it intentionally; she repeats
+    the claim that the rope slipped.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage and is not mapped to
+    an available motif-family ID.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note cautiously compares the water-crossing escape in this
+    tale with a tale of Heitsi Eibip or another Hottentot figure who, while pursued,
+    asks water to open for passage and close afterward.
+  claim_level: same_function
+  target: Heitsi Eibip / Hottentot tale of water opening for a pursued figure
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives only a brief comparison and says attribution varies
+    according to Knudsen; it does not provide the full parallel tale in this passage.
+- id: claim:2
+  claim: The editorial note identifies a similar drowning-by-stratagem pattern in
+    the Highland legend of Maol a Chliobain, where a pursuing giant trusts the pursued
+    figure at a crossing and is drowned.
+  claim_level: same_motif
+  target: Highland legend of Maol a Chliobain
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and summarized; the passage provides only
+    a short cited parallel, not the full Highland legend.
+- id: claim:3
+  claim: The editorial note generalizes that this tale and related cited narratives
+    share a pattern in which pursuers and pursued converse across a river or water
+    barrier, and pursuers perish through misplaced trust in their enemies.
+  claim_level: same_motif
+  target: Pattern of pursuers trusting pursued enemies across a river or water barrier
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the editor's note and includes other stories not
+    reproduced in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 'lines 8836-8939, main narrative: opening crossing and arrival'
+  quote_or_summary: "“and her children went through, and sat down on the other side.
+    The army of the Amajubatente arrived at the Sea, and saw Usitungusobenthle sitting
+    on the other side of it.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 'lines 8836-8939, main narrative: rope prepared'
+  quote_or_summary: "“Usitungusobenthle plaited a very long rope, and threw it across,
+    and said, ‘Come along, I will cross you over.’ But she was merely chaffing them.
+    She had found also a sharp stone.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 'lines 8836-8939, main narrative: first group drowned'
+  quote_or_summary: Many held the rope; when they were in the middle, Usitungusobenthle
+    cut it, and they were carried away by the sea. She lamented aloud but was dissembling,
+    since she had cut it purposely.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 'lines 8836-8939, main narrative: repeated group drowned'
+  quote_or_summary: She told others to hold the rope again; when many were in the
+    midst of the sea, she cut it again and then claimed the rope had slipped from
+    her hand.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: lines 8836-8939, footnote 10
+  quote_or_summary: 'The note says a somewhat similar tale is told of Heitsi Eibip
+    of the Hottentots, or according to Knudsen of another person: when pursued at
+    water, he asks it to open so he may pass and close afterward.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized editorial note.
+- id: ev:6
+  type: note
+  locator: lines 8836-8939, footnote 11
+  quote_or_summary: The note compares Maol a Chliobain, who drowns a pursuing giant
+    by a similar stratagem at a crossing, and adds that in these tales pursuers trust
+    the pursued across a river and perish through misplaced confidence.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative actions are explicit. Motif taxonomy mapping is broad because
+    the supplied taxonomy has no specific drowned-pursuer or rope-bridge motif. Comparison
+    claims rely on the passage's editorial footnotes and should be reviewed against
+    the cited external tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Zulu source text is present in the passage, but extraction is based on the included English translation and editorial notes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l8836-l8939
+  passage_sha256=d8c90b185ce837f7921764aabe7653b58229cc9ad44e849821274bfe3a8a33b6
+

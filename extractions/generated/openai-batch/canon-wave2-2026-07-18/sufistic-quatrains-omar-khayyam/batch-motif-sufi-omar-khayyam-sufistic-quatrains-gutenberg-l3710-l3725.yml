@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3710-l3725
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXIII. / LXVIII. / LXIX. / LXXI.; lines 3710-3725
+  start: '3710'
+  end: '3725'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The Moving Finger writes; and, having writ, / Moves on
+  summary: The passage presents quatrain LXXI, where a moving finger writes and moves
+    on, beyond the power of piety, wit, or tears to alter what is written. An editorial
+    note links the quatrain to O. 31, which says that what shall be was written from
+    the beginning, that the Pen writes without stopping, and that everything was appointed
+    on the First Day, making grief and effort vain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The quatrain describes a Moving Finger that writes and then moves on.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Piety and wit are said to be unable to lure the Moving Finger back to cancel
+    even half a line.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tears are said to be unable to wash out a word of what has been written.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The editorial note states that the origin of this quatrain is to be found
+    in O. 31 and lists related references.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The O. 31 version states that what shall be was written from the beginning.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The O. 31 version describes the Pen as writing unhaltingly and being heedless
+    of good and bad.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The O. 31 version states that on the First Day an unnamed 'He' appointed everything
+    that must be.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The O. 31 version states that grief and efforts are vain.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Moving Finger
+  description: A writing figure or image that writes and then moves on.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pen
+  description: A pen described as writing without stopping and as heedless of good
+    and bad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed 'He'
+  description: An unnamed appointing agent who appointed everything that must be on
+    the First Day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Human addressees
+  description: People referred to through 'your' piety, wit, and tears, and through
+    'our' grief and efforts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: Inscribing agent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Moving Finger writes and moves on; the Pen writes unhaltingly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Appointing agent
+  assigned_to:
+  - fig:3
+  basis: The passage says 'He' appointed everything that must be on the First Day.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Ineffective human respondent
+  assigned_to:
+  - fig:4
+  basis: Piety, wit, tears, grief, and efforts are described as unable or vain before
+    what is written or appointed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Moving Finger
+  literal_form: A finger that writes and moves on
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Pen
+  literal_form: A pen that writes unhaltingly
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Written fate
+  literal_form: A written line, word, and 'what shall be'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Tears
+  literal_form: Tears that cannot wash out a written word
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: First Day
+  literal_form: The First Day on which everything that must be was appointed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: The Moving Finger writes irreversibly
+  summary: A Moving Finger writes and moves on; human piety, wit, and tears cannot
+    call it back, cancel the writing, or wash out a word.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: O. 31 explains written and appointed destiny
+  summary: The source version says that what shall be was written from the beginning;
+    the Pen writes without stopping; an unnamed 'He' appointed everything on the First
+    Day; grief and efforts are vain.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Irrevocable written destiny
+  taxonomy_refs: []
+  basis: The Moving Finger and Pen write what is to be, and the writing cannot be
+    cancelled, recalled, or washed out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No exact available taxonomy reference matches this written-fate motif.
+- id: motif:2
+  label: Primordial decree appointing all events
+  taxonomy_refs: []
+  basis: The O. 31 passage states that what shall be was written from the beginning
+    and that everything that must be was appointed on the First Day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage names the appointing agent only as 'He'; further identification
+    is not supplied in the provided text.
+- id: motif:3
+  label: Futility of human effort before decree
+  taxonomy_refs: []
+  basis: Piety, wit, and tears cannot alter the written words, while grief and efforts
+    are explicitly said to be vain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a passage-level pattern and is not tied to a named
+    external taxonomy motif.
+comparison_claims:
+- id: claim:1
+  claim: The LXXI Moving Finger quatrain and the cited O. 31 version share a motif
+    of written, unalterable destiny that renders human efforts ineffective.
+  claim_level: same_motif
+  target: O. 31 version cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and its editorial note; it
+    does not establish broader historical transmission beyond the stated O. 31 source
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3712-3715
+  quote_or_summary: Quatrain LXXI says the Moving Finger writes and moves on; piety,
+    wit, and tears cannot cancel or wash out what it has written.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3719-3720
+  quote_or_summary: The O. 31 version says that what shall be was written from the
+    beginning and that the Pen writes unhaltingly, heedless of good and bad.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 3721-3722
+  quote_or_summary: The O. 31 version says that on the First Day 'He' appointed everything
+    that must be, and that grief and efforts are vain.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 3717, 3724-3725
+  quote_or_summary: The editorial note states that the origin of the quatrain is found
+    in O. 31 and supplies a reference list.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is short and explicit about written destiny, ineffective human
+    response, and its link to O. 31. Taxonomy references were left empty because the
+    supplied taxonomy list contains no precise written-fate category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external identifications or taxonomy mappings were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3710-l3725
+  passage_sha256=6c4ca24d8d729c0802d793445210056fd6ae3c5c96d7406899dea1e375cd478e
+

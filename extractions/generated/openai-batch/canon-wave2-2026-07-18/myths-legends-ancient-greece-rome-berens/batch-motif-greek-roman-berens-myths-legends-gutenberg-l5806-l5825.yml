@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5806-l5825
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: JANUS. / FLORA. / ROBIGUS. / POMONA.; lines 5806-5825
+  start: '5806'
+  end: '5825'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Robigus is described as an antagonistic divinity opposed to Flora, associated
+    with mildew destroying tender herbs, and appeased through prayers and sacrifices
+    under the title Averuncus. The Robigalia is dated to April 25. Pomona is described
+    as goddess of orchards and fruit-trees, preferring gardens and fruit-bearing boughs,
+    typifying Autumn, and represented as a maiden carrying fruit-tree branches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Robigus is named as an antagonistic divinity found in opposition to Flora.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Robigus is described as a worker of evil who delights in destroying tender
+    herbs by mildew.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Robigus's wrath is said to be avertable only by prayers and sacrifices, when
+    he is invoked as Averuncus or the Avertor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The festival of Robigus, the Robigalia, is said to be celebrated on April
+    25.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pomona is identified as the goddess of orchards and fruit-trees.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: According to the passage's reference to Ovid, Pomona cares not for woods or
+    streams but loves gardens and fruit-bearing boughs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pomona is said to typify Autumn and to be represented as a lovely maiden laden
+    with branches of fruit-trees.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Flora
+  description: A divinity mentioned as standing in opposition to Robigus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Robigus
+  description: An antagonistic divinity associated with mildew, destruction of tender
+    herbs, avertable wrath, and the title Averuncus or Avertor.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Pomona
+  description: Goddess of orchards and fruit-trees, lover of gardens and fruit-bearing
+    boughs, and personification of Autumn represented with fruit-tree branches.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: opposed divinity
+  assigned_to:
+  - fig:1
+  basis: The passage states that Robigus is found in opposition to Flora.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: destructive mildew divinity
+  assigned_to:
+  - fig:2
+  basis: Robigus is described as destroying tender herbs by mildew.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: avertable wrath-bearing divinity
+  assigned_to:
+  - fig:2
+  basis: Robigus's wrath is averted by prayers and sacrifices, and he is invoked as
+    Averuncus or the Avertor.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: orchard and fruit-tree goddess
+  assigned_to:
+  - fig:3
+  basis: Pomona is identified as goddess of orchards and fruit-trees.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Autumn personification
+  assigned_to:
+  - fig:3
+  basis: Pomona is said to typify Autumn.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mildew
+  literal_form: mildew that destroys tender herbs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tender herbs
+  literal_form: tender herbs destroyed by mildew
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: prayers and sacrifices
+  literal_form: prayers and sacrifices used to avert Robigus's wrath
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Robigalia date
+  literal_form: festival of Robigus celebrated on the 25th of April
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: orchards and fruit-trees
+  literal_form: orchards, fruit-trees, gardens, and fruit-bearing boughs
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: fruit-tree branches
+  literal_form: branches of fruit-trees carried by Pomona
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Autumn
+  literal_form: Autumn typified by Pomona
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Robigus destroys herbs and is averted
+  summary: Robigus is presented as opposed to Flora, destructive toward tender herbs
+    through mildew, and appeased by prayers and sacrifices under the title Averuncus
+    or Avertor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Robigalia festival date
+  summary: The festival of Robigus, called the Robigalia, is assigned to April 25.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pomona as fruit-tree and Autumn figure
+  summary: Pomona is described as goddess of orchards and fruit-trees, preferring
+    gardens and fruit-bearing boughs, typifying Autumn, and represented as a maiden
+    with fruit-tree branches.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: crop blight averted by prayer and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Robigus destroys tender herbs by mildew, and his wrath is said to be avertable
+    only by prayers and sacrifices.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference captures the sacrificial-averting element; the
+    passage's more specific agricultural-blight pattern has no supplied taxonomy ID.
+- id: motif:2
+  label: seasonal fruit-harvest personification
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Pomona is a fruit-tree and orchard goddess who typifies Autumn and is represented
+    with fruit-tree branches.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a handbook-style identification rather than a narrative
+    episode.
+- id: motif:3
+  label: opposed fertility and blight divinities
+  taxonomy_refs:
+  - duality
+  basis: Robigus is explicitly described as an antagonistic divinity in opposition
+    to Flora and as destructive toward tender herbs.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage provides little detail about Flora in this excerpt, so the
+    duality is based mainly on the stated opposition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5808-5811
+  quote_or_summary: Robigus is described as an antagonistic divinity opposed to Flora,
+    a worker of evil who destroys tender herbs by mildew; his wrath is averted by
+    prayers and sacrifices when invoked as Averuncus, the Avertor.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 5813-5814
+  quote_or_summary: The Robigalia, festival of Robigus, is said to be celebrated on
+    April 25.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 5818-5820
+  quote_or_summary: Pomona is identified as goddess of orchards and fruit-trees; the
+    passage cites Ovid for her preference for gardens and fruit-bearing boughs over
+    woods or streams.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 5822-5823
+  quote_or_summary: Pomona typifies Autumn and is represented as a lovely maiden laden
+    with branches of fruit-trees.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. Motif candidates are limited to
+    explicit agricultural, seasonal, oppositional, and sacrificial elements. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is a later handbook summary rather than a primary mythic narrative; candidate motifs should be reviewed with that limitation in mind.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5806-l5825
+  passage_sha256=34abfd824da4ce79938d971a3e9e6bd7d624befc1ed48340130524fdd37bc6be
+

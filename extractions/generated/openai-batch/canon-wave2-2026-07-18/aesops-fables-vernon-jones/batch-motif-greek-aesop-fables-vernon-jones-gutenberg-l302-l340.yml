@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l302-l340
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE COOK / THE MONKEY AS KING / THE THIEVES AND THE COCK / THE
+    FARMER AND FORTUNE; lines 302-340
+  start: '302'
+  end: '340'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is a sequence of Aesop fable titles, including titles
+    that pair animals, humans, objects, and named entities; it does not include narrative
+    episodes or morals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of fable titles rather than narrative prose.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several titles are formed as paired figures or entities joined by “and.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title names a dog and a cook.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One title states a monkey in the role of king.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title names thieves and a cock.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One title names a farmer and Fortune.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One title names an oak and reeds.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A dog named in the title “THE DOG AND THE COOK.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Cook
+  description: A cook named in the title “THE DOG AND THE COOK.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Monkey
+  description: A monkey named in the title “THE MONKEY AS KING.”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Thieves
+  description: Thieves named in the title “THE THIEVES AND THE COCK.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Cock
+  description: A cock named in the title “THE THIEVES AND THE COCK.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Farmer
+  description: A farmer named in the title “THE FARMER AND FORTUNE.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Fortune
+  description: Fortune named in the title “THE FARMER AND FORTUNE.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: title-named animal figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: The titles name a dog, a monkey, and a cock.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: title-named human or social figure
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: The titles name a cook, thieves, and a farmer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: king
+  assigned_to:
+  - fig:3
+  basis: The title explicitly says “THE MONKEY AS KING.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: title-named abstract or proper entity
+  assigned_to:
+  - fig:7
+  basis: The title pairs the farmer with the capitalized name “Fortune.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oak tree
+  literal_form: oak
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: paired fable-title figures
+  taxonomy_refs: []
+  basis: The passage lists titles that repeatedly pair figures or entities, including
+    dog/cook, thieves/cock, and farmer/Fortune.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a title-list pattern only; no narrative action or moral is supplied
+    in the passage.
+- id: motif:2
+  label: animal as king
+  taxonomy_refs: []
+  basis: The title explicitly presents a monkey as king.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe how the monkey becomes king, whether the
+    kingship is legitimate, or what occurs afterward.
+- id: motif:3
+  label: farmer paired with Fortune
+  taxonomy_refs: []
+  basis: The title pairs a farmer with Fortune.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title alone does not confirm whether Fortune functions as a personified
+    figure, divine power, abstraction, or narrative actor.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 302-340
+  quote_or_summary: The passage is a list of twenty fable titles, many of which pair
+    named figures or entities with “and.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 302-340, title entry
+  quote_or_summary: THE DOG AND THE COOK
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 302-340, title entry
+  quote_or_summary: THE MONKEY AS KING
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:4
+  type: quote
+  locator: lines 302-340, title entry
+  quote_or_summary: THE THIEVES AND THE COCK
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:5
+  type: quote
+  locator: lines 302-340, title entry
+  quote_or_summary: THE FARMER AND FORTUNE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:6
+  type: quote
+  locator: lines 302-340, title entry
+  quote_or_summary: THE OAK AND THE REEDS
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited because the supplied passage contains only title headings,
+    not the fable narratives. Motif candidates are therefore title-level and require
+    human review before interpretive use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage itself provides no explicit comparative context or narrative details.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l302-l340
+  passage_sha256=279e5be0595e96b761f6a973c7fa4e512e652e63bdaddeaebfb020e3fe569767
+

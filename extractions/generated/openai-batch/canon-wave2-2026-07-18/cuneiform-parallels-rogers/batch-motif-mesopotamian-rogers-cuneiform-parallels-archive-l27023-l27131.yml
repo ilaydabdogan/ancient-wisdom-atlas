@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l27023-l27131
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  431 / THE  CODE  OF  HAMMURAPI  433 / THE  CODE  OF  HAMMURAPI  435
+    / THE  CODE  OF  HAMMURAPI  437; lines 27023-27131
+  start: '27023'
+  end: '27131'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Legal provisions regulate when a father may cut off a son from sonship,
+    how acknowledged and unacknowledged children of a maidservant are treated after
+    the father’s death, and what property, residence, and remarriage rights a wife
+    or widow may have.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A father who says he will cut off his son must have the matter examined by
+    judges; if the son has not committed a heavy crime that cuts off sonship, the
+    father may not cut him off.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a son commits a heavy crime against his father, the judges reconcile them
+    for the first offense; after a second heavy crime the father may cut him off from
+    sonship.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a father has acknowledged children borne by his maidservant as his sons
+    and numbered them with the wife’s sons, then after his death both groups of sons
+    divide the father’s household goods equally, while the wife’s sons choose first
+    at the division.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the father did not acknowledge the maidservant’s sons as his sons, they
+    do not share the father’s household goods with the wife’s sons.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the unacknowledged case, the maidservant and her sons receive freedom,
+    and the wife’s sons may not claim the maidservant’s children for service.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wife takes her marriage portion and any settlement deeded to her on a
+    tablet, may dwell in her husband’s house and enjoy it during life, may not sell
+    it, and after her it belongs to her sons.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If the husband gave no settlement, the wife is to be paid her marriage portion
+    and a share from her husband’s house corresponding to that of one son.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: If a woman’s sons trouble her to leave the house, judges investigate; if the
+    sons are found in the wrong, she does not leave her husband’s house.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: If the woman herself chooses to leave, she leaves the husband’s settlement
+    to her children, takes the marriage portion from her father’s house, and may be
+    taken by the husband of her choice.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: father / man / husband
+  description: Generic male householder who may seek to cut off a son, acknowledge
+    children of a maidservant, and give a settlement to his wife.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: son
+  description: A son whose serious offenses against his father may affect his sonship
+    status.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: judges
+  description: Officials who inquire into antecedents, reconcile father and son after
+    a first offense, and investigate disputes involving a woman and her sons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: wife / widow / woman
+  description: The wife who bore children and who, after the husband’s death or in
+    later household disputes, has stated rights to marriage portion, settlement, residence,
+    departure, and remarriage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: maidservant
+  description: A maidservant who bore children to the man and, in the unacknowledged
+    case, receives freedom with her sons.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: sons of the wife
+  description: Children of the wife who share in the father’s estate, have the right
+    of choosing at division, and in another provision may be judged if they pressure
+    their mother to leave the house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: sons of the maidservant
+  description: Children of the maidservant who inherit equally if acknowledged by
+    the father, but otherwise do not share the estate and receive freedom.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: husband of her choice
+  description: A potential husband who may take the woman if she chooses to leave
+    after leaving the settlement to her children.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: father with conditional disinheritance authority
+  assigned_to:
+  - fig:1
+  basis: The father may not cut off the son without judicial inquiry and sufficient
+    offense, but may do so after a second heavy crime.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: son subject to sonship loss after serious offense
+  assigned_to:
+  - fig:2
+  basis: The provisions describe a son whose heavy crime can lead to reconciliation
+    first and disinheritance after recurrence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: judicial investigators and reconcilers
+  assigned_to:
+  - fig:3
+  basis: Judges inquire into antecedents, reconcile father and son at first offense,
+    and investigate sons who pressure their mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:4
+  label: acknowledging father and settlement giver
+  assigned_to:
+  - fig:1
+  basis: The father may call maidservant-born children his sons, number them with
+    the wife’s sons, and give a settlement to his wife.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: wife or widow with property and residence rights
+  assigned_to:
+  - fig:4
+  basis: The wife may take marriage portion and settlement, dwell in the husband’s
+    house, receive a son-sized portion if no settlement was given, and choose departure
+    under stated conditions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: maidservant mother
+  assigned_to:
+  - fig:5
+  basis: The maidservant bears children to the man and, if her sons were not acknowledged,
+    receives freedom with them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: sons of wife as primary heirs
+  assigned_to:
+  - fig:6
+  basis: The sons of the wife share the father’s goods and have the right of choosing
+    at division; they also cannot claim the maidservant’s children for service.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: maidservant-born sons with conditional inheritance or freedom
+  assigned_to:
+  - fig:7
+  basis: Their inheritance depends on whether the father called them his sons; without
+    such acknowledgement they receive freedom but not an estate share.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:9
+  label: chosen future husband
+  assigned_to:
+  - fig:8
+  basis: The woman may be taken by the husband of her choice if she elects to leave
+    under the stated provision.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: father’s house / husband’s house
+  literal_form: Household estate and residence from which goods are divided or where
+    the wife may dwell.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: tablet deed
+  literal_form: A tablet on which the husband’s settlement to the wife is deeded.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: marriage portion and settlement
+  literal_form: Property portions assigned to or retained by the wife or widow.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Judicial review of cutting off a son
+  summary: A father seeks to cut off his son; judges investigate whether the son committed
+    a heavy crime, reconcile after a first offense, and allow cutting off only after
+    a second qualifying offense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Acknowledged maidservant-born sons inherit
+  summary: When a father has called the maidservant’s sons his sons and counted them
+    with the wife’s sons, both groups divide the father’s household goods equally
+    after his death, with the wife’s sons choosing first.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Unacknowledged maidservant-born sons and widow’s secured property
+  summary: If the father did not acknowledge the maidservant’s sons, they do not share
+    the household goods; the maidservant and sons receive freedom, while the wife
+    retains marriage portion, deeded settlement, and lifetime residence rights.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Widow’s portion, pressured departure, and chosen remarriage
+  summary: If no settlement was given, the woman receives her marriage portion and
+    a son-sized share; judges protect her from wrongful pressure by sons to leave,
+    but if she chooses to leave she leaves the settlement to her children, takes her
+    father-house portion, and may marry a chosen husband.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Judicially limited paternal disinheritance
+  taxonomy_refs: []
+  basis: The father’s ability to cut off a son is subject to judicial inquiry and
+    requires repeated heavy offense.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal pattern in a law code, not an explicitly mythological
+    motif; no taxonomy family assigned.
+- id: motif:2
+  label: Acknowledged children of a maidservant share inheritance
+  taxonomy_refs: []
+  basis: Children borne by a maidservant inherit equally when the father has called
+    them his sons and numbered them with the wife’s sons.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a kinship and inheritance rule; no mythological taxonomy family
+    is directly supported by the passage.
+- id: motif:3
+  label: Unacknowledged children receive freedom rather than estate share
+  taxonomy_refs: []
+  basis: If the father has not called the maidservant’s sons his sons, they do not
+    share the estate but the maidservant and her sons receive freedom.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a legal-social pattern rather than a symbolic mythic episode.
+- id: motif:4
+  label: Widow’s secured residence and portion
+  taxonomy_refs: []
+  basis: The wife or widow retains marriage portion and settlement, may dwell in the
+    husband’s house for life, may receive a son-sized share if no settlement exists,
+    and is protected from wrongful pressure to leave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a legal household-property pattern; no available mythology taxonomy
+    reference is directly evidenced.
+- id: motif:5
+  label: Voluntary departure with retained natal portion and chosen remarriage
+  taxonomy_refs: []
+  basis: If the woman chooses to leave, she leaves the husband’s settlement to her
+    children, takes the marriage portion of her father’s house, and may be taken by
+    a husband of her choice.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a legal pattern concerning marital status and property, not an
+    explicit mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§168; within passage lines 27023-27131"
+  quote_or_summary: If a man says to the judges that he will cut off his son, the
+    judges inquire; if the son has not committed a heavy crime that cuts off sonship,
+    the father may not cut him off.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§169; within passage lines 27023-27131"
+  quote_or_summary: For a first heavy crime against the father, judges reconcile father
+    and son; for a second heavy crime, the father may cut off the son from sonship.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§170; within passage lines 27023-27131"
+  quote_or_summary: If the father called maidservant-born children his sons and numbered
+    them with the wife’s sons, after the father’s death the two groups divide the
+    father’s household goods equally, with the wife’s sons choosing first.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§171, opening provision; within passage lines 27023-27131"
+  quote_or_summary: If the father did not call the maidservant-born children his sons,
+    they do not share in the goods of the father’s house with the wife’s sons; the
+    maidservant and her sons receive freedom, and the wife’s sons have no service
+    claim on them.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "§171, wife’s portion and residence; within passage lines 27023-27131"
+  quote_or_summary: The wife takes her marriage portion and a settlement deeded on
+    a tablet, may dwell in her husband’s house and enjoy it while she lives, may not
+    sell it, and after her it belongs to her sons.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "§172, no settlement; within passage lines 27023-27131"
+  quote_or_summary: If the husband gave no settlement, the wife is paid her marriage
+    portion and receives from the goods of her husband’s house a portion corresponding
+    to that of one son.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§172, sons pressuring mother; within passage lines 27023-27131"
+  quote_or_summary: If her sons worry her to leave the house, judges inquire; if the
+    sons are found in the wrong, the woman does not leave her husband’s house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "§172, voluntary departure; within passage lines 27023-27131"
+  quote_or_summary: If the woman sets her face to go out, she leaves the husband’s
+    settlement to her children, takes the marriage portion of her father’s house,
+    and may be taken by the husband of her choice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a legal-code excerpt, so extraction of legal figures, roles,
+    scenes, and household-property patterns is direct. Motif candidates are treated
+    as legal/social patterns rather than mythological motifs. No comparison claims
+    are made because the passage itself does not provide a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage does not directly support those taxonomy links.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l27023-l27131
+  passage_sha256=12a87c65714dbe8c0589d3d6692d52d7e73a747070b2d00eaa0ac958e8d0363d
+

@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2495-l2524
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXIII / XXVII / XXVIII / XXXII; lines 2495-2524
+  start: '2495'
+  end: '2524'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Knowest thou not that parting goes before / All meeting, and from darkness
+    comes the light!”"
+  summary: A nightingale addresses a rose from a cypress branch; the speaker contrasts
+    longing for the lady, tavern-gate heaven, wine, tears, pain, peace, absence, and
+    the sequence from parting to meeting and darkness to light.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A patient nightingale rests on a branch of a straight cypress-tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nightingale addresses the Rose, sings thanks to her, and asks that he
+    not lament apart or be wounded by her thorns.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Rose blossoms, and hope is said to spring up in every joyless heart.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he will not mourn banishment and that one who has hungered
+    for the lady's face will know content when she comes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Zealot seeks a heavenly dwelling-place and Huris to welcome him in Paradise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says his heaven lies at the tavern gate and that he needs no welcome
+    except his lady's grace.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker prefers drinking red wine to tears while the lute sings and answers
+    a command to cease by saying that God is merciful.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker says that for him the source of pleasure lay in pain and that
+    weeping for his lady brought peace.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Hafiz is addressed as repeatedly telling the tale of absence and sorrow's
+    night.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The closing statement says that parting goes before meeting and that light
+    comes from darkness.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: patient nightingale
+  description: A nightingale resting on the cypress-tree, addressing the Rose, and
+    described as faithful and lamenting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rose
+  description: The blossom addressed by the nightingale; she blossoms and has proud
+    thorns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: lyric speaker
+  description: The first-person voice who speaks of banishment, the lady's face and
+    grace, tavern-gate heaven, wine, tears, pain, and peace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: lady
+  description: The lady whose face is desired, whose coming brings content, and whose
+    grace is the speaker's needed welcome.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Zealot
+  description: A religiously marked figure who seeks a heavenly dwelling-place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Huris
+  description: Figures expected to welcome the Zealot in Paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Hafiz
+  description: The named figure addressed in the closing lines as telling the tale
+    of absence and sorrow's night.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lover-singer
+  assigned_to:
+  - fig:1
+  basis: The nightingale cries to the Rose, sings thanks, laments apart, and is described
+    as faithful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved or beloved-addressee
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Rose receives the nightingale's address, and the lady is the desired
+    figure whose face and grace bring content and welcome.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: longing speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker describes banishment, desire for the lady, wine, tears, pain,
+    and peace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: paradise-seeker
+  assigned_to:
+  - fig:5
+  basis: The Zealot is said to seek a heavenly dwelling-place and welcome in Paradise.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: paradisal welcomers
+  assigned_to:
+  - fig:6
+  basis: The Huris are named as those who would welcome the Zealot in Paradise.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: named poet-figure
+  assigned_to:
+  - fig:7
+  basis: Hafiz is directly addressed in the closing reflection on absence and sorrow's
+    night.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cypress-tree branch
+  literal_form: branch of the straight cypress-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nightingale
+  literal_form: patient nightingale
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rose with thorns
+  literal_form: Rose, blossom, and proud thorns
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: lady's face and grace
+  literal_form: lady's face; lady's grace
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Paradise and Huris
+  literal_form: heavenly dwelling-place, Huris, Paradise
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: tavern gate
+  literal_form: tavern gate where the speaker's heaven lies
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: red wine
+  literal_form: red wine
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: lute song
+  literal_form: the lute sings
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: tears and weeping
+  literal_form: tears; weeping for my lady
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:10
+  label: darkness and light
+  literal_form: darkness comes the light
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nightingale addresses the Rose
+  summary: A nightingale rests on a cypress branch and speaks to the Rose, praising
+    her blossoming and asking not to be wounded or left lamenting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Banishment, beloved, and rival heavens
+  summary: The speaker speaks of banishment and longing for the lady, then contrasts
+    the Zealot's Paradise with the speaker's heaven at the tavern gate and the lady's
+    grace.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wine, lute, tears, and mercy
+  summary: The speaker prefers red wine to tears while the lute plays and invokes
+    divine mercy against a command to stop.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pain, peace, absence, and light
+  summary: The speaker states that pleasure came through pain and peace through weeping;
+    Hafiz is then reminded that parting precedes meeting and darkness precedes light.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: nightingale and rose as longing lover and beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The nightingale cries to the Rose, sings thanks to her, and asks not to be
+    wounded by her thorns; the broader passage centers longing for a lady whose grace
+    is sufficient welcome.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents beloved imagery clearly, but the beloved is not explicitly
+    called divine in the excerpt.
+- id: motif:2
+  label: beloved's grace as heaven over conventional paradise
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Zealot seeks Paradise and Huris, while the speaker says his heaven lies
+    at the tavern gate and that he needs only the lady's grace.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The contrast is literal in the passage; broader theological interpretation
+    should be reviewed.
+- id: motif:3
+  label: wine and tavern as alternative sacred setting
+  taxonomy_refs: []
+  basis: The speaker places heaven at the tavern gate, prefers red wine to tears,
+    and invokes God's mercy in response to a command to cease.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference exactly matches tavern or wine imagery.
+- id: motif:4
+  label: suffering transformed into peace and light
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker says pleasure lay in pain and peace came through weeping; the
+    closing aphorism says parting precedes meeting and light comes from darkness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wisdom motif is based on aphoristic reversal language, not on an explicit
+    teaching frame.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2497-2503
+  quote_or_summary: A patient nightingale rests on a straight cypress branch, addresses
+    the Rose, thanks her blossoming, and asks not to be left lamenting or wounded
+    by thorns.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2505-2511
+  quote_or_summary: The speaker will not mourn banishment; the desired lady's coming
+    brings content. The Zealot seeks Paradise and Huris, while the speaker's heaven
+    is at the tavern gate and in the lady's grace.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2513-2515
+  quote_or_summary: The speaker says it is better to drink red wine than tears while
+    the lute sings and answers prohibition with 'God is the merciful.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; brief quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: 2516-2519
+  quote_or_summary: Some have joy and ease, but for the speaker pleasure lies in pain,
+    and weeping for the lady brings peace.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 2521-2524
+  quote_or_summary: Hafiz is asked why he keeps telling of absence and sorrow's night;
+    the passage states that parting goes before meeting and light comes from darkness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear from the excerpt. Motif taxonomy links are cautious
+    because the passage uses lyric beloved, tavern, wine, and reversal imagery without
+    explicit comparative framing. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text and metadata; no external comparisons added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2495-l2524
+  passage_sha256=66efb4a7a2fa8a4f6dd131d7a7959fb735003353c7db14b1e8b118ec50af3793
+

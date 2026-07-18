@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l6082-l6172
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: TORTION  OF  THE  TALE. / IZINGANEKWANE. / UNTOMBINDE. / UNTOMBINDE.55; lines
+    6082-6172
+  start: '6082'
+  end: '6172'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The king’s daughter Untombinde repeatedly asks her father and mother for
+    permission to go to the Ilulange, a place from which they say nothing returns.
+    After several yearly requests, her parents consent. She gathers two companies
+    of one hundred maidens each, one on either side of the road, and they set out.
+    They meet merchants and the girls stand on both sides of the path.
+  language: English translation with Zulu source text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Untombinde is identified as the daughter of King Usikulumi, son of Uthlokothloko.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Untombinde repeatedly tells her father and mother that she is going to the
+    Ilulange.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Her father and mother state that nothing goes to the Ilulange and returns
+    again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The request is repeated over successive years before the parents consent.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Untombinde collects one hundred virgins on one side of the road and one hundred
+    on the other.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The group goes on its way and meets merchants.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The girls stand on each side of the path when they meet the merchants.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note identifies Ilulange as a river not now known to the natives.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Untombinde
+  description: The daughter of King Usikulumi; a note glosses Untombinde as “Tall-maiden.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: King Usikulumi
+  description: Untombinde’s father, identified as son of Uthlokothloko.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Untombinde’s mother
+  description: Untombinde addresses her as mother; she joins the father in warning
+    and later consenting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Two companies of maidens
+  description: Two groups of one hundred virgins each gathered by Untombinde, one
+    on each side of the road.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Merchants
+  description: Merchants encountered by Untombinde and the maidens on the road.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king’s daughter
+  assigned_to:
+  - fig:1
+  basis: The passage calls Untombinde the daughter of King Usikulumi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: insistent traveler to Ilulange
+  assigned_to:
+  - fig:1
+  basis: She repeatedly declares her intention to go to the Ilulange despite warnings
+    that nothing returns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: warning parents
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The father and mother warn that nothing goes to the Ilulange and comes back
+    again, then eventually consent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: companions on the road
+  assigned_to:
+  - fig:4
+  basis: Untombinde gathers two groups of maidens, and they travel with her.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: encountered travelers or traders
+  assigned_to:
+  - fig:5
+  basis: The group meets merchants while on the way.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ilulange
+  literal_form: A named destination; footnote identifies it as a river not now known
+    to the natives.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: road or path
+  literal_form: The road/path on which the maidens are arranged on both sides and
+    along which they travel.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: two companies of one hundred maidens
+  literal_form: One hundred virgins on one side of the road and one hundred on the
+    other.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Untombinde asks to go to Ilulange
+  summary: Untombinde tells her father and mother over successive years that she is
+    going to the Ilulange; they warn that nothing returns from there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Parental consent
+  summary: After repeated requests and warnings, Untombinde’s father and mother consent
+    to her going.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gathering and departure of the maidens
+  summary: Untombinde gathers two companies of one hundred maidens each, arranged
+    on opposite sides of the road, and they travel onward.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Meeting the merchants
+  summary: The traveling group meets merchants, and the girls stand on each side of
+    the path.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Journey to a no-return destination
+  taxonomy_refs:
+  - departure
+  basis: Untombinde insists on going to the Ilulange, while her parents repeatedly
+    say that nothing goes there and comes back.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage excerpt gives the departure setup but not the outcome of the
+    journey.
+- id: motif:2
+  label: Royal maiden’s departure with female retinue
+  taxonomy_refs:
+  - departure
+  basis: A king’s daughter secures permission and sets out after gathering two groups
+    of one hundred maidens.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not yet state the purpose or full ritual/social function
+    of the retinue.
+- id: motif:3
+  label: Threshold warning before forbidden or dangerous place
+  taxonomy_refs:
+  - initiation
+  basis: The parents’ repeated warning frames Ilulange as a place from which return
+    is impossible before the protagonist departs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy does not include a precise no-return-place motif;
+    initiation is only a broad possible family.
+comparison_claims:
+- id: claim:1
+  claim: The editor’s footnote explicitly compares the warning about Ilulange, where
+    nothing returns, with a Highland Tales warning not to go to a castle from which
+    no man returned.
+  claim_level: same_function
+  target: 'Highland Tales, Vol. I, p. 82: the little castle beside the loch in a wood'
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the editor’s note, not by the Zulu narrative
+    itself; it supports a functional resemblance in warning formula, not historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6082-6135
+  quote_or_summary: Untombinde, daughter of King Usikulumi, repeatedly tells her father
+    and mother that she is going to the Ilulange.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6105-6145
+  quote_or_summary: "“Nothing goes to that place and comes back again: it goes there
+    for ever.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 6145-6150
+  quote_or_summary: After repeated requests, the father and mother consent at length.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6151-6165
+  quote_or_summary: Untombinde collects a hundred virgins on one side of the road
+    and a hundred on the other, and they go on their way.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6165-6172
+  quote_or_summary: The travelers meet merchants, and the girls stand on each side
+    of the path.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: footnotes 56, 59 within lines 6082-6172
+  quote_or_summary: The notes gloss Untombinde as “Tall-maiden” and identify Ilulange
+    as a river not now known to the natives.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized with short quoted gloss.
+- id: ev:7
+  type: note
+  locator: footnote 60 within lines 6082-6172
+  quote_or_summary: The note compares the Ilulange warning to a Highland Tales passage
+    warning against a castle where no man returned.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the departure, warning, and gathering of
+    maidens. Motif assignment is limited by the excerpt ending before the journey’s
+    outcome. The only comparison claim is based on the editor’s footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and are broad where no exact no-return-place category exists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l6082-l6172
+  passage_sha256=aedcd501e4caf866ad6e3b35ef31dca6d40d298865cb8cb084bf6cb99e4a18d4
+

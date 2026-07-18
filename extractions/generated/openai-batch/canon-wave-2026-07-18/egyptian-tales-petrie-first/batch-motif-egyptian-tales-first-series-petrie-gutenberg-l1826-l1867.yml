@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.egyptian-tales-first-series-petrie-gutenberg-l1826-l1867
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+passage_locator:
+  label: THE FAREWELL / XIITH DYNASTY / THE ADVENTURES OF SANEHAT / THE FLIGHT; lines
+    1826-1867
+  start: '1826'
+  end: '1867'
+  translation: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to
+    XIIth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial commentary describes Sanehat as physically changed and initially
+    unrecognized, explains ceremonial objects in the princesses’ song and dance, summarizes
+    the song’s praise of the king and queen and petition for Sanehat, notes the king’s
+    reassurance and promises, describes Sanehat’s renewed Egyptian ways after return
+    from unsettled life, and comments on the preparation of his pyramid tomb and the
+    likely biographical nature of the narrative.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sanehat’s long hair, age, and strange dress changed his appearance so much
+    that his former mistress and companions could not recognize him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sistra are described as instruments used to beat or rattle in time with the
+    song.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sceptres or wands are suggested as objects possibly waved or used to beat
+    time; the use of the collar and menat is described as unexplained.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The princesses’ song is described as arranged in parallel phrases, including
+    wishes for the king and queen and an ascription of wisdom and power.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The song compares the king to Ra and the queen to a great goddess, ascribes
+    righting power, petitions for Sanehat, and mentions fear inspired by the king
+    as explaining Sanehat’s abasement.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The king responds by reassuring Sanehat and promising him position and wealth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Sanehat’s renewal of old national ways is framed as a return from rough and
+    unsettled life to civilized comforts, especially meaningful in old age.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sanehat’s tomb is described as a pyramid with a rock-cut well chamber and
+    a brick superstructure.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The commentary infers that the narrative may have been composed during Sanehat’s
+    life and perhaps intended for inscription on his tomb wall.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sanehat
+  description: A man whose altered appearance prevents recognition; he is the subject
+    of the petition, the king’s reassurance, renewed national ways, and tomb preparation.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Former mistress and companions
+  description: People from Sanehat’s former life who cannot recognize him because
+    of his changed appearance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Princesses
+  description: Singers of the structured song that praises the king and queen and
+    petitions for Sanehat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: King
+  description: Royal figure addressed in the princesses’ song, compared to Ra, feared
+    by Sanehat, and shown reassuring Sanehat with promises of position and wealth.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Queen
+  description: Royal figure included in the princesses’ wishes and compared to a great
+    goddess.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Ra
+  description: Divine figure used as a comparison for the king in the song.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Great goddess
+  description: Unnamed goddess used as a comparison for the queen in the song.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: transformed returnee
+  assigned_to:
+  - fig:1
+  basis: Sanehat’s changed appearance prevents recognition, and the passage later
+    describes his renewal of old national ways after unsettled life.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: royal petitioner or dependent
+  assigned_to:
+  - fig:1
+  basis: The princesses petition for him, and the king reassures him and promises
+    position and wealth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: tomb owner and biographical subject
+  assigned_to:
+  - fig:1
+  basis: The passage describes preparation of his pyramid tomb and suggests the biography
+    may have been intended for his tomb wall.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: non-recognizing former associates
+  assigned_to:
+  - fig:2
+  basis: They are explicitly said not to recognize Sanehat because of his altered
+    appearance.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ritual or court singers and intercessors
+  assigned_to:
+  - fig:3
+  basis: They sing the structured song that includes praise, divine comparison, and
+    petition for Sanehat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: reassuring royal benefactor
+  assigned_to:
+  - fig:4
+  basis: The king responds to the petition by reassuring Sanehat and promising him
+    position and wealth.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: praised royal figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The song includes wishes for the king and queen and divine comparisons for
+    both.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: divine comparandum
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Ra and the great goddess serve as comparison points for the king and queen
+    in the song.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: altered hair and dress
+  literal_form: long hair, age, and strange dress
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sistra
+  literal_form: rattling instruments used with the song
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sceptres or wands
+  literal_form: sceptres or wands possibly waved or used to beat time
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: collar and menat
+  literal_form: collar and counterpoise, or menat, associated with dancers though
+    its use is unexplained here
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: solar royal comparison
+  literal_form: comparison of the king to Ra
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: goddess royal comparison
+  literal_form: comparison of the queen to the great goddess
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: pyramid tomb
+  literal_form: pyramid with rock-cut well chamber and brick upper construction
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Changed appearance and non-recognition
+  summary: Sanehat’s altered appearance causes his former mistress and companions
+    not to recognize him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Princesses’ song and ceremonial objects
+  summary: The passage comments on the sistra, sceptres or wands, collar, and menat
+    associated with the princesses’ song and dance.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Royal praise, petition, and reassurance
+  summary: The princesses’ song praises the king and queen, compares them to divine
+    figures, petitions for Sanehat, and is followed by the king’s reassurance and
+    promises.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Renewal of old national ways
+  summary: Sanehat’s restored way of life is described as a return from rough unsettled
+    living to civilized comforts in old age.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Tomb preparation and biographical framing
+  summary: The passage describes Sanehat’s pyramid tomb and suggests the narrative
+    may have been composed during his life for tomb-wall inscription.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: transformed returnee not recognized
+  taxonomy_refs:
+  - return
+  basis: Sanehat’s return is marked by changed hair, age, and dress, causing former
+    associates not to recognize him.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is commentary and does not narrate the original return scene
+    in full; the taxonomy link to return is based on the explicit framing of renewed
+    national ways and return to civilized comforts.
+- id: motif:2
+  label: courtly intercession before a powerful king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The princesses’ song praises royal wisdom and power, makes divine comparisons,
+    petitions for Sanehat, and the king grants reassurance and promises status and
+    wealth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage summarizes the song rather than giving its full wording; royal_legitimacy
+    is a broad fit because the song’s royal praise and divine comparison support royal
+    authority.
+- id: motif:3
+  label: restoration to civilized or national identity
+  taxonomy_refs:
+  - return
+  basis: Sanehat’s renewal of old national ways is explicitly described as a return
+    from rough, unsettled life to comforts of civilization.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a social restoration motif, not necessarily a supernatural or
+    initiatory return.
+- id: motif:4
+  label: royal-divine analogy in praise song
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The song ascribes wisdom and power to the ruler, compares the king to Ra
+    and the queen to a great goddess, and attributes righting power.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The goddess is unnamed in the passage, and the available taxonomy does
+    not include a specific solar kingship symbol.
+- id: motif:5
+  label: tomb preparation as life memorial
+  taxonomy_refs: []
+  basis: The passage describes Sanehat’s pyramid tomb and suggests the narrative may
+    have been composed during his life for inscription on the tomb wall.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not describe funeral rites or an afterlife journey, only
+    tomb preparation and inferred biographical purpose.
+comparison_claims:
+- id: claim:1
+  claim: The tomb described for Sanehat is said to accord with XIIth Dynasty pyramid
+    construction.
+  claim_level: visual_similarity
+  target: construction of the pyramids of the XIIth Dynasty
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a brief architectural comparison and no detailed
+    archaeological argument.
+- id: claim:2
+  claim: The collar and menat associated with dancers are compared with figures of
+    dancers holding such objects and with objects found in a ceremonial foundation
+    deposit at Koptos.
+  claim_level: visual_similarity
+  target: figures of dancers holding a collar and menat; ceremonial foundation deposit
+    of Tahutmes III at Koptos
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage explicitly states that the use of the collar and menat
+    in the song and dance is unexplained; the cited Koptos material is a parallel
+    for objects, not a full explanation of function.
+- id: claim:3
+  claim: The song’s own reported comparisons align the king with Ra and the queen
+    with a great goddess as royal-divine analogies.
+  claim_level: same_function
+  target: divine analogy in royal praise
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison reported by the passage, not evidence
+    for historical contact or a cross-textual borrowing claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1826-1828
+  quote_or_summary: Sanehat’s long hair, age, and strange dress alter his appearance
+    so much that his former mistress and companions do not recognize him.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1828-1838
+  quote_or_summary: The passage explains sistra as rattling with the song, proposes
+    uses for sceptres or wands, says the collar and menat are unexplained, and cites
+    dancer figures and a Koptos deposit as parallels for such objects.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1840-1844
+  quote_or_summary: The princesses’ song is described as parallel in structure, beginning
+    with four wishes for the king and queen and an ascription of wisdom and power.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1844-1848
+  quote_or_summary: The song compares the king to Ra and the queen to the great goddess,
+    ascribes righting power, petitions for Sanehat, and refers to fear inspired by
+    the king.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1848-1850
+  quote_or_summary: The king responds by reassuring Sanehat and promising him position
+    and wealth.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1852-1856
+  quote_or_summary: Sanehat’s renewal of old national ways is described as like returning
+    from rough life to civilization, with comforts especially welcome in old age after
+    unsettled life.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1858-1861
+  quote_or_summary: Sanehat’s tomb is stated to be a pyramid with a rock-cut well
+    chamber and brick construction above, matching XIIth Dynasty pyramid construction.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1863-1867
+  quote_or_summary: The passage infers that the narrative was composed during Sanehat’s
+    life, possibly at his dictation and for inscription on his tomb wall, and notes
+    its value for life in Palestine and Egypt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial commentary rather than primary narrative,
+    so literal details are clear but motif labels require caution. Comparisons are
+    limited to those explicitly made or cited in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No controlled symbol taxonomy references were assigned because the available symbol list does not directly include sistra, sceptres, menat, Ra, goddess, or pyramid tomb.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-first-series-petrie-gutenberg__l1826-l1867
+  passage_sha256=c0d5862df1c2965c5249f7b71833ed8824ec198c321193ab58334177b421c53e
+

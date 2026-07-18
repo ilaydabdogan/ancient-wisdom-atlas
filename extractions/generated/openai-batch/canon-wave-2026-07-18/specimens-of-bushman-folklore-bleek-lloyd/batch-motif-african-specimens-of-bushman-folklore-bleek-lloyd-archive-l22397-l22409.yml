@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l22397-l22409
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: TRANSLATION    OF    IKUN    TEXTS.  419 / TRANSLATION    OF    JKUN    TEXTS.  421
+    / TRANSLATION    OF    JKUN    TEXTS.  423 / TRANSLATION    OF    JKUN    TEXTS.  429;
+    lines 22397-22409
+  start: '22397'
+  end: '22409'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A wife cries and avoids an arrow. Her mother cries that her son-in-law
+    is aiming two arrows at her daughter, falls to the ground, and continues crying.
+    Other women take hold of her and tell her not to cry, but she refuses and repeats
+    her complaint.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife cries and avoids an arrow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife's mother cries out that her son-in-law is taking aim at her daughter
+    with two arrows.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wife's mother falls down, lies on the ground, and cries.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many other women come, take hold of the wife's mother, and tell her not to
+    cry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wife's mother refuses the others' attempt to stop her crying and repeats
+    that her son-in-law is aiming at her daughter with two arrows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage identifies a relationship among daughter/wife, her mother, and
+    a son-in-law/husband.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: wife / daughter
+  description: A woman who cries, avoids an arrow, and is described by her mother
+    as the target of her son-in-law's aim.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: son-in-law / husband
+  description: The man described by the wife's mother as aiming at her daughter with
+    two arrows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: wife's mother
+  description: The mother who cries, falls to the ground, laments the son-in-law's
+    action, and refuses to listen to the people comforting her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: people / many other women
+  description: A group who come, take hold of the wife's mother, and tell her not
+    to cry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: threatened target
+  assigned_to:
+  - fig:1
+  basis: She avoids an arrow, and her mother says the son-in-law aims at her with
+    two arrows.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: armed threatener
+  assigned_to:
+  - fig:2
+  basis: The wife's mother says he takes aim at her daughter with two arrows.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: lamenting mother
+  assigned_to:
+  - fig:3
+  basis: She cries, falls down, repeats her lament, and refuses consolation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: consoling or restraining group
+  assigned_to:
+  - fig:4
+  basis: They take hold of the wife's mother and tell her not to cry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: two arrows
+  literal_form: two arrows aimed at the daughter/wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wife avoids arrow and mother laments
+  summary: The wife cries and avoids an arrow while her mother cries out that the
+    son-in-law is aiming two arrows at her daughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Women attempt to stop the mother's crying
+  summary: The wife's mother falls to the ground and cries; other women take hold
+    of her and tell her not to cry, but she refuses and repeats her complaint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: armed threat against wife or daughter
+  taxonomy_refs: []
+  basis: The passage centers on a son-in-law/husband aiming two arrows at the daughter/wife
+    while she cries and avoids an arrow.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is brief and does not provide the wider narrative context
+    or outcome.
+- id: motif:2
+  label: maternal lament resisted by communal consolation
+  taxonomy_refs: []
+  basis: The wife's mother cries, falls down, is held and urged not to cry by other
+    women, but refuses and continues her lament.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a taxonomy-linked motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22397-22400
+  quote_or_summary: The wife cries and avoids an arrow; her mother cries that her
+    son-in-law takes aim at her daughter with two arrows.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 22400-22404
+  quote_or_summary: The wife's mother falls down, lies on the ground, and cries; many
+    other women come, take hold of her, and tell her not to cry.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 22404-22409
+  quote_or_summary: The wife's mother refuses, repeats that her son-in-law aims at
+    her daughter with two arrows, and will not listen to the people holding her.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-level
+    only. No passage-supported comparative claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not clearly support one from the supplied lists.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l22397-l22409
+  passage_sha256=2431ccbd756a08058a0206e2f40c813ed1d143bc941c53a22f9e4b19302f567e
+

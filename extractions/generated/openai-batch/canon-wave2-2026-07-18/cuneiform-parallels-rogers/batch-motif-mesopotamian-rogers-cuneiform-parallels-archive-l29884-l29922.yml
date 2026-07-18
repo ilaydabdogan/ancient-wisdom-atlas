@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29884-l29922
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  25 / PLATE  NO.  26 / PLATE  NO.  27 / PLATE  NO.  28; lines
+    29884-29922
+  start: '29884'
+  end: '29922'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives plate captions: Plate No. 27 is a relief from Tell-el-Amarna
+    in the Berlin Museum depicting Amenophis IV and his family; Plate No. 28 is a
+    clay tablet from Tell-el-Amarna containing a letter from Tushratta, king of Mitanni,
+    to Amenophis III, king of Egypt, preserved in the British Museum.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plate No. 27 is described as a relief from Tell-el-Amarna in the Berlin Museum.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The relief is described as depicting Amenophis IV and his family.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plate No. 28 is described as a clay tablet from Tell-el-Amarna.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The clay tablet is described as measuring 8 1/2 by 4 5/8 inches.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tablet is said to contain a letter from Tushratta, king of Mitanni, to
+    Amenophis III, king of Egypt.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The tablet is described as preserved in the British Museum.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage notes that the tablet is not the same as another letter translated
+    on pages 263 and 264, though it has somewhat similar contents.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Amenophis IV
+  description: A royal figure shown with his family in the relief caption.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Family of Amenophis IV
+  description: The family shown with Amenophis IV in the relief caption.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tushratta
+  description: Named as king of Mitanni and sender of a letter on the clay tablet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Amenophis III
+  description: Named as king of Egypt and recipient of a letter from Tushratta.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: depicted royal figure
+  assigned_to:
+  - fig:1
+  basis: The caption says the relief depicts Amenophis IV and his family.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: depicted family group
+  assigned_to:
+  - fig:2
+  basis: The caption says the relief depicts Amenophis IV and his family.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: letter sender and king of Mitanni
+  assigned_to:
+  - fig:3
+  basis: The caption identifies Tushratta as king of Mitanni and says the tablet contains
+    a letter from him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: letter recipient and king of Egypt
+  assigned_to:
+  - fig:4
+  basis: The caption identifies Amenophis III as king of Egypt and as recipient of
+    Tushratta's letter.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: relief image
+  literal_form: relief from Tell-el-Amarna depicting Amenophis IV and his family
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: clay tablet letter
+  literal_form: clay tablet from Tell-el-Amarna containing a royal letter
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Plate No. 27 relief caption
+  summary: A caption identifies a relief from Tell-el-Amarna, kept in the Berlin Museum,
+    depicting Amenophis IV and his family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plate No. 28 clay tablet caption
+  summary: A caption identifies a clay tablet from Tell-el-Amarna containing a letter
+    from Tushratta, king of Mitanni, to Amenophis III, king of Egypt, preserved in
+    the British Museum.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29884-29891
+  quote_or_summary: 'Plate No. 27: a relief from Tell-el-Amarna in the Berlin Museum
+    depicting Amenophis IV and his family; illustration source credited to Alfred
+    Jeremias.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 29900-29917
+  quote_or_summary: 'Plate No. 28: a clay tablet measuring 8 1/2 by 4 5/8 inches,
+    from Tell-el-Amarna, containing a letter from Tushratta, king of Mitanni, to Amenophis
+    III, king of Egypt, preserved in the British Museum; noted as not the same as
+    a letter translated elsewhere though similar in contents.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a set of plate captions and contains historical/descriptive
+    material rather than narrative mythic content. No candidate motif or comparison
+    claim is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family is directly supported by the passage. Objects are recorded as literal symbolic/material items without assigning taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29884-l29922
+  passage_sha256=ba35b8ce271a06055b3d0150a8781c867a4ba3126354716f60f7312a85ec9fd5
+

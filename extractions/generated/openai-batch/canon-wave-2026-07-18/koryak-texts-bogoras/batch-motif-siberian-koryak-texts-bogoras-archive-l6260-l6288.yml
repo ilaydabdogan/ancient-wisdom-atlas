@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l6260-l6288
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: BELT  OF  ORION. / MILKY  WAY. / CORONA  BOREALIS. / ALDEBARAN.; lines 6260-6288
+  start: '6260'
+  end: '6288'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Koryak names and glosses for the Milky Way, Corona Borealis,
+    Aldebaran, and Alt Air and Tarared. The Milky Way is glossed with several river
+    terms, including pebbly, clay, muddy, and generic river. Corona Borealis is glossed
+    as a polar bear's paw, fish-heads stuck in, and KnV's boot. Aldebaran is glossed
+    as a copper arrow-head. Alt Air and Tarared are listed with two name forms but
+    no English gloss.
+  language: English with Koryak terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The Milky Way is associated with multiple Koryak terms glossed as types of
+    river: pebbly river, clay river, muddy river, and river.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Corona Borealis is associated with terms glossed as polar bear's paw, fish-heads
+    stuck in, and KnV's boot.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aldebaran is associated with two terms both glossed as copper arrow-head.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Alt Air and Tarared are associated with the forms pegi'ttm and pagi'ttm, without
+    an English gloss in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Milky Way
+  description: Celestial feature named in the passage and glossed through river terms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Corona Borealis
+  description: Celestial feature named in the passage and glossed through paw, fish-head,
+    and boot images.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Aldebaran
+  description: Celestial object named in the passage and glossed as a copper arrow-head.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Alt Air and Tarared
+  description: Celestial objects named in the passage with two listed Koryak forms
+    and no English gloss.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: celestial feature being named
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage consists of headings for celestial features followed by Koryak
+    names and glosses or forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: river image for Milky Way
+  literal_form: pebbly river, clay river, muddy river, river
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: polar bear paw image
+  literal_form: polar bear's paw
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fish-heads image
+  literal_form: fish-heads stuck in
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: boot image
+  literal_form: KnV's boot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: copper arrow-head image
+  literal_form: copper arrow-head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Astral name list
+  summary: The passage presents a list of celestial features and their Koryak names
+    or glosses, without a narrative action sequence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6260-6269
+  quote_or_summary: Under the heading Milky Way, the passage lists Koryak forms glossed
+    as pebbly river, clay river, muddy river, and river.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6271-6277
+  quote_or_summary: Under the heading Corona Borealis, the passage lists forms glossed
+    as polar bear's paw, fish-heads stuck in, and KnV's boot.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6279-6283
+  quote_or_summary: Under the heading Aldebaran, two listed forms are glossed as copper
+    arrow-head.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 6285-6288
+  quote_or_summary: Under the heading Alt Air and Tarared, two forms, pegi'ttm and
+    pagi'ttm, are listed without an English gloss.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a lexical astral-name list rather than a narrative. Literal
+    associations are clear where English glosses are supplied; no available taxonomy
+    motif family is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage itself only supplies names and glosses for celestial features.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l6260-l6288
+  passage_sha256=a055e53a63e42ccb7dc5d74ef20218a51ec9f088e32d2b9039fb8140c4bba8d5
+

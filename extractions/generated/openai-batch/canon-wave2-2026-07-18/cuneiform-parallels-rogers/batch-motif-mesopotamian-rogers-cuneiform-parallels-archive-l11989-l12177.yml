@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l11989-l12177
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: WISDOM  LITERATURE / CUNEIFORM  PARALLELS / WISDOM  LITERATURE  169 / ETHICAL  INCANTATION  171;
+    lines 11989-12177
+  start: '11989'
+  end: '12177'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An ethical incantation presents a sequence of questions about whether an
+    unnamed male subject has committed social, familial, legal, economic, verbal,
+    neighborly, or religious offenses. The English translation is accompanied by romanized
+    Akkadian transliteration, and several lines are damaged.
+  language: English translation with romanized Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as repeated questions about whether an unnamed male
+    subject has committed specified wrongs.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:2
+  text: The opening damaged questions include bribery involving a judge, trampling
+    on the fallen, adding to spoken words, and oppressing the weak.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage asks whether the subject set various kin, friends, and companions
+    at variance with one another.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage asks whether the subject failed to free prisoners or captives,
+    failed to let a prisoner see light, or ordered a prisoner or bondman seized or
+    bound.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage frames possible wrongdoing as sin or transgression against a god
+    or goddess and asks whether the subject vexed or despised divine beings.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage includes offenses toward senior family members, including father,
+    mother, elder brother, and elder sister.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage asks whether the subject reversed yes and no, spoke an unsuitable
+    word, or spoke coarsely.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage asks about false weights, counterfeit money, refusal of good money,
+    wrong landmarks, and moving a mark, territory, or boundary.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage asks whether the subject entered a neighbor's house, approached
+    a neighbor's wife, or shed a neighbor's blood.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Unnamed male subject
+  description: The repeated grammatical subject of the questions, referred to as "he."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Judge
+  description: A judge who may have been caused to receive bribery in a damaged opening
+    question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Fallen and weak persons
+  description: People described as fallen or weak in questions about trampling and
+    oppression.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Kin named in the questions
+  description: Family members named in the passage, including son, father, daughter,
+    mother, daughter-in-law, mother-in-law, brother, elder brother, father and mother,
+    elder sister, and sons described as righteous or unrighteous.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Friends and companions
+  description: Friends and companions whom the subject may have set at variance with
+    one another.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Prisoners, captives, and bondman
+  description: Persons in custody mentioned in questions about release, seeing light,
+    seizure, and binding.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: God and goddess
+  description: Divine beings against whom sins, transgressions, or failings may have
+    been committed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Neighbor and neighbor's wife
+  description: The neighbor whose house, wife, and blood are mentioned in the final
+    questions.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: questioned possible transgressor
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly asks whether "he" has performed each wrong action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: legal authority possibly bribed
+  assigned_to:
+  - fig:2
+  basis: A damaged line asks whether bribery was caused to be received by a judge.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: vulnerable or harmed persons
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage mentions fallen and weak persons, as well as prisoners, captives,
+    and a bondman whose release or further binding is questioned.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: kinship parties affected by discord or offense
+  assigned_to:
+  - fig:4
+  basis: The passage lists close kin set at variance with one another and senior kin
+    who may have been despised or insulted.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: social associates or neighbors
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The passage names friends, companions, and a neighbor whose household and
+    wife are mentioned.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:6
+  label: persons in custody
+  assigned_to:
+  - fig:6
+  basis: The passage names prisoner, captive, and bondman in questions about release,
+    light, seizure, and binding.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine recipients of offense
+  assigned_to:
+  - fig:7
+  basis: The questions describe possible sin or transgression against a god or goddess.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: neighborly victims named in prohibitions
+  assigned_to:
+  - fig:8
+  basis: The passage asks about entering the neighbor's house, approaching the neighbor's
+    wife, and shedding the neighbor's blood.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Light seen by prisoner
+  literal_form: Light which a prisoner may or may not be allowed to see.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: False weights
+  literal_form: Weights described as not true or false.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Counterfeit and good money
+  literal_form: Money distinguished as counterfeit or good.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Landmark, mark, territory, and boundary
+  literal_form: A wrong or right landmark, and a mark, territory, or boundary that
+    may be moved.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Neighbor's blood
+  literal_form: The blood of the neighbor, mentioned as something shed.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Damaged opening questions on public injustice and vulnerable persons
+  summary: The passage begins with damaged questions about bribery, trampling the
+    fallen, adding to speech, and oppression of the weak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questions on causing discord among kin and companions
+  summary: A series of paired relationships is listed, asking whether the subject
+    set family members, friends, and companions at variance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Questions on prisoners and captives
+  summary: The passage asks whether the subject failed to release captives or prisoners,
+    denied a prisoner light, or commanded seizure and binding.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Questions on divine offense and senior kin
+  summary: The passage asks whether the wrongs are sins against a god or goddess and
+    includes offenses toward parents and senior siblings.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Questions on false or improper speech
+  summary: The passage asks whether the subject reversed yes and no or spoke unsuitable
+    or coarse words.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Questions on weights, money, sons, and boundaries
+  summary: The passage asks about false weights, counterfeit and good money, righteous
+    and unrighteous sons, wrong landmarks, and moved boundaries.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Questions on neighborly violations
+  summary: The passage asks whether the subject entered a neighbor's house, approached
+    the neighbor's wife, or shed the neighbor's blood.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Interrogative ethical sin catalog
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a structured list of possible moral, social, familial,
+    economic, verbal, legal, and religious wrongs in question form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is an incantation and several lines are damaged; the wisdom-family
+    assignment is supported by the supplied heading and ethical content, not by a
+    narrative frame.
+- id: motif:2
+  label: Causing discord within ordered relationships
+  taxonomy_refs: []
+  basis: The passage repeatedly asks whether the subject set paired kin, friends,
+    and companions at variance with each other.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical pattern within a question list, not a narrated event.
+- id: motif:3
+  label: Release or continued bondage of captives
+  taxonomy_refs: []
+  basis: The passage asks whether prisoners or captives were not set free and whether
+    a prisoner or bondman was ordered seized or bound.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe an actual liberation; it only questions
+    whether liberation was withheld.
+- id: motif:4
+  label: Moral failings as offenses against divine beings
+  taxonomy_refs: []
+  basis: The passage asks whether the offenses are sins or transgressions against
+    a god or goddess and whether the subject vexed or despised them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No divine judgment scene is narrated in this excerpt.
+- id: motif:5
+  label: Just measure, money, and boundary markers
+  taxonomy_refs:
+  - wisdom
+  basis: The passage includes questions about false weights, counterfeit money, good
+    money, wrong landmarks, and moved boundaries.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The items are part of an ethical list; their broader legal or symbolic
+    meaning is not explained in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: At the motif-family level, the passage functions as a wisdom-style ethical
+    examination by cataloging prohibited or suspect conduct across household, social,
+    commercial, legal, and religious domains.
+  claim_level: same_function
+  target: wisdom motif family / ethical sin-catalog pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt itself names no external comparator text, and the form
+    is an incantation with damaged lines; this is a functional comparison to a general
+    motif family only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11989-11999; incantation lines 15-19
+  quote_or_summary: Damaged opening questions ask about causing a judge to receive
+    bribery, trampling the fallen, adding to spoken words, oppressing the weak, and
+    a damaged action involving a city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 12000-12022; incantation lines 20-28
+  quote_or_summary: Questions ask whether the subject set son against father, father
+    against son, daughter against mother, mother against daughter, daughter-in-law
+    against mother-in-law, mother-in-law against daughter-in-law, brother against
+    brother, friend against friend, and companion against companion.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 12023-12031; incantation lines 29-31
+  quote_or_summary: Questions ask whether the subject failed to set free a prisoner
+    or loose a captive, failed to let a prisoner see light, or said of a prisoner
+    or bondman that he should be seized or bound.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 12032-12044; incantation lines 32-36
+  quote_or_summary: Questions ask whether there is sin against a god or transgression
+    against a goddess, whether the subject vexed a god or despised a goddess, and
+    whether he offended an elder brother, father and mother, or elder sister.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 12045-12053; incantation lines 37-41
+  quote_or_summary: Questions ask about yielding in little things while refusing in
+    great things, saying yes for no and no for yes, and speaking unsuitable, rebellious,
+    or coarse words.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 12054-12067; incantation lines 42-46
+  quote_or_summary: Questions ask about false weights, counterfeit money, refusing
+    good money, driving out a righteous son and setting up an unrighteous son, wrong
+    and right landmarks, and moving a mark, territory, or boundary.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 12068-12177; incantation lines 47-49 and accompanying transliteration
+  quote_or_summary: Final questions in the excerpt ask whether the subject entered
+    a neighbor's house, approached a neighbor's wife, or shed a neighbor's blood;
+    romanized Akkadian transliteration accompanies the translated lines.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ethical sequence is clear, but the passage contains damaged lines
+    and OCR/transliteration irregularities. Motif labels are based on the supplied
+    heading and the passage's repeated ethical questions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparanda were introduced beyond the supplied taxonomy and the passage's own wisdom-literature heading.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l11989-l12177
+  passage_sha256=ee9fbd338488aad488cca17c194a977f6e6602063f1d7c63f1f3d9a76713ee1a
+

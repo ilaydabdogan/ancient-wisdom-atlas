@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2481-l2495
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PEACOCK AND JUNO / THE BEAR AND THE FOX / THE ASS AND THE OLD PEASANT
+    / THE OX AND THE FROG; lines 2481-2495
+  start: '2481'
+  end: '2495'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At the edge of a pool, an Ox accidentally kills a young Frog while coming
+    to drink. The surviving young Frog tells his mother that an enormous four-legged
+    creature trampled his brother. The mother Frog repeatedly puffs herself up to
+    compare her size with the creature until she bursts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two little Frogs are playing at the edge of a pool.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Ox comes to the water to drink and accidentally treads on one of the little
+    Frogs, killing him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old Frog notices one young Frog is missing and asks his brother where
+    he is.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The surviving little Frog says his brother is dead and describes a large four-legged
+    creature that came to the pool and trampled him in the mud.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old Frog repeatedly puffs herself out while asking whether the creature
+    was as large as her inflated body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The surviving little Frog repeatedly answers that the creature was much bigger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The old Frog puffs herself out until she is almost round as a ball and then
+    bursts.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Killed little Frog
+  description: One of the two little Frogs playing at the pool; he is accidentally
+    trodden on by the Ox and killed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Surviving little Frog / brother
+  description: The brother of the killed little Frog; he reports the death to the
+    old Frog.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Old Frog / mother
+  description: The mother who asks about the missing Frog, puffs herself out to compare
+    sizes, and bursts.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Ox
+  description: An Ox that comes to the water to drink and accidentally kills a little
+    Frog by treading on him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: accidental victim
+  assigned_to:
+  - fig:1
+  basis: The little Frog is accidentally trodden on and killed by the Ox.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: witness and informant
+  assigned_to:
+  - fig:2
+  basis: The surviving little Frog tells the old Frog that his brother is dead and
+    describes the creature that trampled him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: questioning mother
+  assigned_to:
+  - fig:3
+  basis: The old Frog asks where the missing little Frog is and questions the survivor
+    about the creature's size.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: self-inflating comparer
+  assigned_to:
+  - fig:3
+  basis: The old Frog repeatedly puffs herself out to compare herself with the reported
+    creature and finally bursts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: accidental killer
+  assigned_to:
+  - fig:4
+  basis: The Ox comes to drink and by accident treads on one of the little Frogs,
+    killing him.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: pool water
+  literal_form: The pool and water where the Frogs play and where the Ox comes to
+    drink.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: enormous four-legged creature
+  literal_form: 'The Ox as reported by the surviving little Frog: an enormous creature
+    with four legs.'
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: inflated frog body
+  literal_form: The old Frog puffing herself out until she is almost round as a ball.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Poolside accident
+  summary: Two young Frogs play at the edge of a pool; an Ox comes to drink and accidentally
+    kills one by treading on him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Report to the mother
+  summary: The old Frog asks the survivor where his brother is, and the survivor says
+    that a large four-legged creature trampled him in the mud.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fatal self-inflation
+  summary: The old Frog repeatedly inflates herself while asking whether she is as
+    large as the creature; the young Frog says the creature was much bigger, and the
+    old Frog bursts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: large animal accidentally kills small animal
+  taxonomy_refs: []
+  basis: The Ox comes to drink and accidentally treads on one of the little Frogs,
+    killing him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local narrative action rather than a broad mythic motif.
+- id: motif:2
+  label: fatal attempt to match a greater size
+  taxonomy_refs: []
+  basis: The old Frog tries to puff herself up to the size of the reported creature
+    and bursts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif is extracted from
+    the action sequence.
+- id: motif:3
+  label: cautionary animal exemplum about overreaching
+  taxonomy_refs:
+  - wisdom
+  basis: The animal story presents a sequence in which the mother Frog's repeated
+    self-enlargement in response to comparison ends in her death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wisdom classification is supported by the fable form and outcome,
+    but no explicit moral is included in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2481-2485
+  quote_or_summary: Two little Frogs play at the edge of a pool; an Ox comes to drink
+    and accidentally treads on one of them, killing him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: 2485-2489
+  quote_or_summary: '"He is dead, mother," said the little Frog; "an enormous big
+    creature with four legs came to our pool this morning and trampled him down in
+    the mud."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2489-2493
+  quote_or_summary: The old Frog puffs herself out while asking if the creature was
+    as big as she is; the little Frog answers that it was much bigger, and she puffs
+    herself out still more.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: quote
+  locator: 2493-2495
+  quote_or_summary: '"And yet again she puffed and puffed herself out till she was
+    almost as round as a ball. ''As big as...?'' she began--but then she burst."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to the supplied
+    fable action; no cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage for 'THE OX AND THE FROG' was used; broader labels in the request were not extracted because their text was not provided.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2481-l2495
+  passage_sha256=15ee52f7641593e93471ccc4300704e39e3c870660958a9331c091deafb0d0fc
+

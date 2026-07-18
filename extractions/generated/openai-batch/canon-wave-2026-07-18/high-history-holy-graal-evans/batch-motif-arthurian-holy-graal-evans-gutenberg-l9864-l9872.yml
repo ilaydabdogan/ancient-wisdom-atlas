@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l9864-l9872
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: BRANCH XVII. / INCIPIT. / TITLE I. / VIII.; lines 9864-9872
+  start: '9864'
+  end: '9872'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Perceval asks a damsel where the Knight of the Dragon is. She says he is
+    in the Isles of the Elephants, a formerly fair and rich land that he has made
+    desolate, on an island opposite the castle of the Damsel of the Golden Circlet.
+    The Damsel of the Golden Circlet sees him daily carry off knights from the forest,
+    kill them, and cut them limb from limb, causing her grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Perceval asks a damsel for the location of the Knight of the Dragon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The damsel says the Knight of the Dragon is in the Isles of the Elephants.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Isles of the Elephants are described as formerly the fairest and richest
+    land in the world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Knight of the Dragon is said to have made the land desolate so that no
+    one dared inhabit it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Knight of the Dragon abides on an island opposite the castle of the Damsel
+    of the Golden Circlet.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Damsel of the Golden Circlet sees the Knight of the Dragon carry knights
+    bodily from the forest every day.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The carried-off knights are said to be slain and smitten limb from limb.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Damsel of the Golden Circlet has deep grief at heart because of these
+    events.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: A named speaker who asks where the Knight of the Dragon is.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed damsel addressed by Perceval
+  description: A damsel addressed by Perceval who answers his question about the Knight
+    of the Dragon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Knight of the Dragon
+  description: A knight located in the Isles of the Elephants; he is said to have
+    made the land desolate and to carry off, slay, and dismember knights.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Damsel of the Golden Circlet
+  description: A damsel whose castle stands opposite the island where the Knight of
+    the Dragon abides; she sees his violence daily and grieves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Unnamed knights from the forest
+  description: Knights carried off bodily from the forest, slain, and smitten limb
+    from limb.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Perceval asks where the Knight of the Dragon is.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: informant
+  assigned_to:
+  - fig:2
+  basis: The damsel responds to Perceval with the Knight of the Dragon's location
+    and deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: desolating violent knight
+  assigned_to:
+  - fig:3
+  basis: The Knight of the Dragon is said to have made the land desolate and to kill
+    and dismember knights.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: grieving witness
+  assigned_to:
+  - fig:4
+  basis: The Damsel of the Golden Circlet sees the Knight of the Dragon carry off
+    and kill knights, and she grieves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: victims
+  assigned_to:
+  - fig:5
+  basis: The unnamed knights are carried off, slain, and smitten limb from limb.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Isles of the Elephants
+  literal_form: The Isles of the Elephants, formerly fair and rich, now made desolate.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Opposite island abode
+  literal_form: The island where the Knight of the Dragon abides, over against the
+    castle of the Damsel of the Golden Circlet.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Castle of the Damsel of the Golden Circlet
+  literal_form: The castle opposite the Knight of the Dragon's island.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Forest
+  literal_form: The forest from which knights are carried off bodily.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Dragon epithet
+  literal_form: The title 'Knight of the Dragon'.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Perceval asks after the Knight of the Dragon
+  summary: Perceval addresses a damsel and asks where the Knight of the Dragon is.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The damsel describes the desolated Isles of the Elephants
+  summary: The damsel says the Knight of the Dragon is in the Isles of the Elephants,
+    once fair and rich but now desolate and uninhabited because of him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Daily violence seen from the castle
+  summary: The Knight of the Dragon abides opposite the castle of the Damsel of the
+    Golden Circlet, who sees him carry knights from the forest, kill and dismember
+    them, and grieves.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Desolated land under a violent figure
+  taxonomy_refs:
+  - chaos
+  basis: A formerly fair and rich land is said to have been made desolate by the Knight
+    of the Dragon so that none dared inhabit it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes localized devastation rather than a cosmic or primordial
+    chaos event.
+- id: motif:2
+  label: Quest-like inquiry after a dangerous knight
+  taxonomy_refs:
+  - mystical_quest
+  basis: Perceval asks where the Knight of the Dragon is, indicating directed pursuit
+    or inquiry toward a dangerous figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage itself contains only the inquiry and answer; it does not narrate
+    a completed quest encounter.
+- id: motif:3
+  label: Carrying-off and dismemberment of knights
+  taxonomy_refs: []
+  basis: The Knight of the Dragon is described as carrying knights bodily from the
+    forest, slaying them, and smiting them limb from limb.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy reference is assigned because the passage frames
+    the act as violence, not explicitly as sacrifice, theft, or ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '9864'
+  quote_or_summary: 'Perceval asks: "Where is the Knight of the Dragon?"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9866-9869
+  quote_or_summary: The damsel says the Knight of the Dragon is in the Isles of the
+    Elephants, once the fairest and richest land, now made desolate by him so that
+    none dared inhabit it.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: '9870'
+  quote_or_summary: The island where the Knight of the Dragon abides is opposite the
+    castle of the Damsel of the Golden Circlet.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 9870-9872
+  quote_or_summary: Every day the Damsel of the Golden Circlet sees him carry knights
+    bodily from the forest, slay them, and smite them limb from limb.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: '9872'
+  quote_or_summary: The Damsel of the Golden Circlet has sore grief at heart over
+    these events.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage provides a localized Arthurian episode rather than explicit comparative
+    framing. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol was assigned to the dragon epithet because the available symbol list contains serpent but not dragon, and the passage does not equate the two.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l9864-l9872
+  passage_sha256=54a955556a3ce46f889fcc3ed3901858ac04336776420dd2548246db4c1a555d
+

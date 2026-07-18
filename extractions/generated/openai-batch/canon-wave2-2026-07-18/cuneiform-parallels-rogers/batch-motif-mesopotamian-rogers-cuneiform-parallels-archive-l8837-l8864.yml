@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l8837-l8864
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: 'MM  II: / EA  AND  ATRAKHASIS  117 / EA  AND  ATRAKHASIS  119 / ISHTAR''S  DESCENT  TO  HADES  121;
+    lines 8837-8864'
+  start: '8837'
+  end: '8864'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The mother creator of destiny, / Finished them... / The figures of men Mami
+    formed.
+  summary: The passage describes a formation scene involving seven pieces, a brick,
+    opened nostrils, the calling of wise or instructed persons, seven and seven mothers,
+    seven formed males, seven formed females, and Mami, called the mother creator
+    of destiny, finishing and forming figures of men.
+  language: English with transliterated Akkadian lines
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Seven pieces are placed on the left, and a brick is placed between them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nostrils are opened for an unspecified object or being.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure calls the wise or instructed persons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage names seven and seven mothers, seven formed males, and seven formed
+    females.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mother creator of destiny finishes them before her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mami forms the figures of men.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mami
+  description: Named as forming the figures of men and associated with the mother
+    creator of destiny in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: seven and seven mothers
+  description: A group described as mothers in connection with the formation scene.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: seven formed males
+  description: A group described as seven formed males.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: seven formed females
+  description: A group described as seven formed females.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: wise or instructed persons
+  description: A group called in the passage; the wording is uncertain in the printed
+    text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mother creator of destiny
+  assigned_to:
+  - fig:1
+  basis: The passage says, "The mother creator of destiny," immediately before describing
+    the finishing of the formed figures and naming Mami.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: former of human figures
+  assigned_to:
+  - fig:1
+  basis: The passage states that Mami formed the figures of men.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: mothers in formation scene
+  assigned_to:
+  - fig:2
+  basis: The passage lists "Seven and seven mothers" in the sequence of formation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: formed beings
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage lists seven formed males and seven formed females.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: called wise or instructed group
+  assigned_to:
+  - fig:5
+  basis: The text says that the wise or instructed persons are called, with question
+    marks marking uncertainty.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sevenfold grouping
+  literal_form: The repeated number seven in seven pieces, seven and seven mothers,
+    seven formed males, and seven formed females.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: brick
+  literal_form: A brick placed between the seven pieces.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: nostrils opened
+  literal_form: The opening of nostrils for an unspecified object or being.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: figures of men
+  literal_form: Human figures formed by Mami.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparation with seven pieces and brick
+  summary: Seven pieces are set on the left, with a brick placed between them; nostrils
+    are opened for an unspecified referent.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Calling of the wise or instructed
+  summary: A speaker or actor calls a group described uncertainly as wise or instructed.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Formation and completion of human figures
+  summary: Seven and seven mothers, seven formed males, and seven formed females are
+    listed; the mother creator of destiny finishes them, and Mami forms the figures
+    of men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mother creator forms human figures
+  taxonomy_refs:
+  - mother_goddess
+  basis: Mami is associated with the title "mother creator of destiny" and is said
+    to form the figures of men.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide a broader narrative context beyond the local
+    formation scene.
+- id: motif:2
+  label: Ritualized formation by repeated sevens
+  taxonomy_refs: []
+  basis: 'The passage repeatedly structures the formation scene with sevens: seven
+    pieces, seven and seven mothers, seven formed males, and seven formed females.'
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The ritual or symbolic meaning of the repeated seven is not explained
+    in the passage.
+- id: motif:3
+  label: Animating or preparing a formed being through opened nostrils
+  taxonomy_refs: []
+  basis: The passage says that nostrils are opened for an unspecified referent during
+    the formation sequence.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The referent of "it" is unclear, and the passage does not explicitly state
+    that breath or life is given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8837-8840
+  quote_or_summary: '"Seven pieces she placed on the left, between them / she placed
+    a brick."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 8841-8843
+  quote_or_summary: '"[ ] the nostrils, she opened / for it."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 8844-8845
+  quote_or_summary: '"Then she called the wise (?) the instructed (?)"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 8846-8848
+  quote_or_summary: '"Seven and seven mothers; seven formed males, / Seven formed
+    females."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 8849-8852
+  quote_or_summary: '"The mother creator of destiny, / Finished them, / She finished
+    them before her"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: '8853'
+  quote_or_summary: '"The figures of men Mami formed."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by fragmentary brackets, uncertain glosses marked
+    with question marks, and the absence of broader narrative context in the supplied
+    line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an explicit comparison to another text, tradition, or motif family beyond local formation motifs.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l8837-l8864
+  passage_sha256=70a7631f5d8c864df9e98ffdacac7f78bda3833c604bd8e589b3a7875f239ddc
+

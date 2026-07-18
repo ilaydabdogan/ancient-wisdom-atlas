@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l596-l622
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE GOLDEN GOOSE / THE STUPID MONKEYS / THE CUNNING WOLF / THE PENNY-WISE
+    MONKEY; lines 596-622
+  start: '596'
+  end: '622'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A king marching to conquer a smaller distant country camps in a forest.
+    A monkey takes peas meant for the horses, loses one pea, drops the rest to search
+    for it, and cannot find it. Seeing this, the king decides not to lose much in
+    pursuit of little and returns home with his men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king gathers an army to take a faraway little country and camps with his
+    soldiers in a forest after marching.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horses are given peas to eat in the camp.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A forest monkey sees the peas, comes down, fills his mouth and hands with
+    them, and returns to a tree to eat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When one pea falls, the monkey drops all the peas in his hands to search for
+    the single lost pea.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The monkey fails to find the fallen pea, returns to the tree, and is described
+    as glum.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The monkey states that he threw away what he had in order to get more.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The king watches the monkey and decides not to lose much to gain a little.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The king and his men march back home.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: king
+  description: Ruler of a large and rich country who gathers an army, observes the
+    monkey, and chooses to return home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: soldiers / men
+  description: The king's army, who march with him, camp in the forest, and return
+    home with him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: horses
+  description: Camp animals that are fed peas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Monkey
+  description: A forest monkey who takes peas, drops them to search for one fallen
+    pea, and becomes glum after failing to find it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: king and military leader
+  assigned_to:
+  - fig:1
+  basis: He gathers an army to take another country and leads the march and return.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: observer who draws a lesson
+  assigned_to:
+  - fig:1
+  basis: He watches the monkey and applies the monkey's loss to his own decision.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: army accompanying the king
+  assigned_to:
+  - fig:2
+  basis: The soldiers march, camp, and later return with the king.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: fed camp animals
+  assigned_to:
+  - fig:3
+  basis: The horses are given peas to eat.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: foolish or greedy animal actor
+  assigned_to:
+  - fig:4
+  basis: The monkey drops many peas in pursuit of one pea and is called foolish by
+    the king.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: peas
+  literal_form: peas used as horse feed and taken by the monkey
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tree
+  literal_form: tree where the monkey sits and eats
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: forest camp
+  literal_form: forest camp where the army stops and where the monkey sees the peas
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: army camps in the forest
+  summary: The king leads his army toward a distant country and camps in the forest
+    after marching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: monkey takes peas
+  summary: Peas are fed to the horses, and a forest monkey takes some in his mouth
+    and hands before climbing back into a tree.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: monkey loses many for one
+  summary: A single pea falls; the monkey drops all the peas he holds to search for
+    it, cannot find it, and becomes glum.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: king abandons conquest
+  summary: The king interprets the monkey's behavior as a warning against losing much
+    to gain little and marches home with his men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: losing much to gain little
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey loses the peas he has while searching for a single fallen pea,
+    and the king explicitly frames this as losing much to gain a little.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical moral
+    lesson rather than an explicitly sacred or doctrinal wisdom motif.
+- id: motif:2
+  label: animal example instructs a ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The king observes the monkey's behavior and changes his own course of action
+    because of it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not state that the monkey intends to teach; the instruction
+    comes from the king's observation.
+- id: motif:3
+  label: renouncing risky gain to preserve present possession
+  taxonomy_refs:
+  - wisdom
+  basis: The king decides to return to his own country and enjoy what he already has
+    rather than pursue conquest of another country.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a moralized political decision but does not elaborate
+    on risk beyond the analogy with the monkey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 596-601
+  quote_or_summary: A king of a large and rich country gathers an army to take a faraway
+    little country; after marching all morning, the king and soldiers camp in the
+    forest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 603-604
+  quote_or_summary: The horses are fed peas in the camp.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 604-607
+  quote_or_summary: A monkey living in the forest sees the peas, jumps down, fills
+    his mouth and hands with them, and goes back up into a tree to eat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 609-613
+  quote_or_summary: One pea falls; the monkey drops all the peas in his hands to look
+    for the lost pea, cannot find it, climbs back into the tree, and sits glumly.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 613-614
+  quote_or_summary: "“To get more, I threw away what I had,”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 616-620
+  quote_or_summary: The king watches and decides not to be like the foolish monkey,
+    who lost much to gain a little; he chooses to go back and enjoy what he has.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: '622'
+  quote_or_summary: The king and his men march back home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are based on the explicit
+    moral action in the passage; taxonomy alignment is limited to the broad available
+    'wisdom' family. No comparison claims were added because the passage itself does
+    not make an intertextual or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, motifs, or comparisons beyond the supplied passage were introduced.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l596-l622
+  passage_sha256=a5f7f089b9f8649d90fa613c3a21225d9b705ecb84b447670771cd1ead80f979
+

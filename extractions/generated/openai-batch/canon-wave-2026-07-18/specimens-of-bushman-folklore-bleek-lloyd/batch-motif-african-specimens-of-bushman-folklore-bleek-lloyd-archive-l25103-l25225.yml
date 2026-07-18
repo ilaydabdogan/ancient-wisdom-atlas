@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l25103-l25225
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: INDEX. / INDEX. / INDEX. / INDEX.; lines 25103-25225
+  start: '25103'
+  end: '25225'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment under G and H lists topics, figures, actions, and page
+    references, including game customs, a girl associated with star-making and transformation,
+    Hare and Moon as an origin-of-death topic, hand clapping and cutting, and Mantis
+    assuming the form of a hartebeest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment for entries beginning with G and H, giving
+    subjects and page references rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index entry for game lists hunting in summer, a prohibition on looking
+    at the Moon when game is shot, restrictions on eating, cutting up, respect shown
+    to game, pitfalls, and carrying methods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index entry for girl includes an Early Race girl who made stars, a girl's
+    story paired with the Frog's story, a girl whose left hand is cut, and a girl
+    changed by Rain into stars and flowers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index entry for Hare connects Hare with the Moon in an item called Origin
+    of Death, and also lists restrictions on eating part of Hare's flesh, hunting,
+    bone treatment, and the death of a leveret.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index entry for Hartebeest says that the Mantis assumes the form of a
+    hartebeest and also mentions hartebeest children and skins used to hide a youth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index entry for hands includes clapping of hands and cutting of hands.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Girl
+  description: Indexed as appearing in several entries, including an Early Race girl
+    who made stars, a girl with a left hand cut, and a girl changed by Rain into stars
+    and flowers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Rain
+  description: Indexed as changing a girl into stars and flowers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hare
+  description: Indexed with the Moon in an Origin of Death item, with additional entries
+    on flesh taboos, hunting, bones, and the death of the leveret.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Moon
+  description: Indexed as paired with Hare in an Origin of Death item and mentioned
+    in a game-related prohibition about not being looked at when game is shot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Mantis
+  description: Indexed as assuming the form of a hartebeest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Hartebeest
+  description: Indexed as the form assumed by the Mantis, with additional references
+    to hartebeest children and hartebeest skins used to hide a youth.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Game
+  description: Collective animal quarry indexed with hunting, shooting, cutting up,
+    eating, respect, pitfalls, and carrying methods.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: star-maker
+  assigned_to:
+  - fig:1
+  basis: The index identifies a girl of the Early Race as one who made stars.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: transformed girl
+  assigned_to:
+  - fig:1
+  basis: The index says a girl is changed by Rain into stars and flowers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: injured hand bearer
+  assigned_to:
+  - fig:1
+  basis: The index says a girl has her left hand cut.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: transforming agent
+  assigned_to:
+  - fig:2
+  basis: The index names Rain as the agent who changes the girl into stars and flowers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: origin-of-death participant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The index links Hare and Moon in an item titled Origin of Death.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: tabooed or ritually treated animal
+  assigned_to:
+  - fig:3
+  basis: The index notes that part of Hare's flesh is not to be eaten and that Hare's
+    bones receive treatment.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: form-assuming figure
+  assigned_to:
+  - fig:5
+  basis: The index says the Mantis assumes the form of a hartebeest.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: assumed animal form
+  assigned_to:
+  - fig:6
+  basis: The index names the hartebeest as the form assumed by the Mantis.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: hunted and respected animal quarry
+  assigned_to:
+  - fig:7
+  basis: The index entry for game lists hunting, shooting, eating, carrying, cutting
+    up, and respect shown to game.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: celestial body
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Stars
+  literal_form: stars
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Flowers
+  literal_form: flowers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Left hand
+  literal_form: left hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: Hare bones
+  literal_form: bones of Hare
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Hartebeest skins
+  literal_form: animal skins used to hide a youth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Clapping hands
+  literal_form: gesture of clapping hands
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Game-related customs indexed
+  summary: The index points to entries concerning hunting game, restrictions after
+    shooting game, restrictions on who eats game, cutting up, respect, pitfalls, eating,
+    and carrying.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Girl, stars, hand cutting, and transformation indexed
+  summary: The index points to entries where a girl of the Early Race made stars,
+    a girl's left hand is cut, and a girl is changed by Rain into stars and flowers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hare and Moon origin of death indexed
+  summary: The index points to an account titled Hare and the Moon, Origin of Death,
+    along with related references to Hare flesh, hunting, bone treatment, and leveret
+    death.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mantis assumes hartebeest form indexed
+  summary: The index points to an account in which the Mantis assumes the form of
+    a hartebeest, and to related entries on hartebeest children and hartebeest skins
+    used to hide a youth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hand actions indexed
+  summary: The index lists clapping of hands and cutting of hands as hand-related
+    actions.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Girl makes stars
+  taxonomy_refs: []
+  basis: The index explicitly lists a girl of the Early Race who made stars.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an index entry and gives no narrative details about how
+    or why the stars are made.
+- id: motif:2
+  label: Girl transformed by Rain into stars and flowers
+  taxonomy_refs: []
+  basis: The index says a girl is changed by Rain into stars and flowers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index identifies the transformation but does not give the episode's
+    context, sequence, or meaning.
+- id: motif:3
+  label: Hare and Moon origin of death
+  taxonomy_refs: []
+  basis: 'The index explicitly labels an item ''Hare, the: and the Moon, Origin of
+    Death.'''
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only the index label is present; the causal content of the origin-of-death
+    narrative is not included in this passage.
+- id: motif:4
+  label: Mantis assumes animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The index states that the Mantis assumes the form of a hartebeest.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The index gives the transformation target but not the narrative motive
+    or consequences.
+- id: motif:5
+  label: Respect and restrictions concerning hunted game
+  taxonomy_refs: []
+  basis: The game entry lists hunting, post-shooting Moon avoidance, restrictions
+    on eating, cutting up, respect shown to game, pitfalls, eating, and carrying.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The index lists customs and references but does not provide the full ritual
+    or story context.
+- id: motif:6
+  label: Cutting of a girl's left hand
+  taxonomy_refs: []
+  basis: The girl entry states that a girl has her left hand cut, and the hand entry
+    also lists cutting of hands.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: No surrounding narrative or function is provided in this index segment.
+comparison_claims:
+- id: claim:1
+  claim: The Mantis-hartebeest entry fits the supplied shapeshifter motif family at
+    a literal same-motif level because it says the Mantis assumes the form of a hartebeest.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is an index entry and does not describe the transformation
+    episode beyond the assumed form.
+- id: claim:2
+  claim: The Hare and Moon entry supports identification with an origin-of-death narrative
+    pattern because the index explicitly calls it 'Origin of Death.'
+  claim_level: same_motif
+  target: origin-of-death narrative pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied taxonomy list does not include a distinct origin-of-death
+    family, and this passage gives only the index heading.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25103-25225
+  quote_or_summary: Index segment under G and H with entries for subjects such as
+    game, girl, hands, Hare, and Hartebeest.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: quote
+  locator: 25108-25120
+  quote_or_summary: '"Game: hunted in summer... when shot, Moon not to be looked at...
+    of young men not eaten by maidens... cutting up of... respect shown to... pitfalls
+    for... eating of... mode of carrying"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; excerpt is brief and passage-limited.
+- id: ev:3
+  type: quote
+  locator: 25137-25147
+  quote_or_summary: '"Girl... of the Early Race, who made Stars... has her left hand
+    cut... changed by Rain into stars and flowers"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; excerpt is brief and passage-limited.
+- id: ev:4
+  type: quote
+  locator: 25188-25198
+  quote_or_summary: '"Hare, the: and the Moon, Origin of Death... part of the flesh
+    not to be eaten... hunting of... treatment of bones of... death of the leveret"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; excerpt is brief and passage-limited.
+- id: ev:5
+  type: quote
+  locator: 25212-25220
+  quote_or_summary: '"Hartebeest... The Mantis assumes the form of a... ''s Children...
+    skins used to hide a youth in"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; excerpt is brief and passage-limited.
+- id: ev:6
+  type: quote
+  locator: 25179-25186
+  quote_or_summary: '"Hand, Hands... clapping of... cutting of"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; excerpt is brief and passage-limited.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The source passage is an index rather than a narrative passage. It reliably
+    names topics and cross-references, but it does not provide full plot sequences,
+    contexts, or meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used. Taxonomy references were assigned only where the index wording directly supported them; most motifs retain empty taxonomy references because the passage gives only brief index labels.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l25103-l25225
+  passage_sha256=2337d602ec1f9b8964ffeb3fb52654f5b4b25446bdc61129cee265945f9812aa
+

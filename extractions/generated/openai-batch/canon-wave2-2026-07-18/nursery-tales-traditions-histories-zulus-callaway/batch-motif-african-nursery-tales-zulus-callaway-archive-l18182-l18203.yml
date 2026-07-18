@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18182-l18203
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE  IZINGOGO. / APPENDIX  (B). / THE  IZINGOGO. / IZINGANEKWANE.; lines
+    18182-18203
+  start: '18182'
+  end: '18203'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a brief Zulu and English description of the Izingogo
+    as beings that went on all fours, had tails, and spoke like humans. An editorial
+    note compares them to Gulliver’s Yahoos and introduces a native explanation of
+    baboons as degenerated humans rather than humans as elevated apes.
+  language: Zulu and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Izingogo are described as formerly going on all fours.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Izingogo are described as having tails.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Izingogo are described as speaking like humans.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note states that this account may be compared with Gulliver’s account
+    of the Yahoos.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that a native legend explains the origin of baboons by treating
+    the ape as a degenerated human.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Izingogo
+  description: Beings described as going on all fours, having tails, and talking like
+    men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahoos
+  description: Figures from Gulliver’s account mentioned only as a comparison for
+    the Izingogo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Baboons or apes
+  description: Animals whose origin is introduced as explained by a native legend
+    in which the ape is a degenerated human.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Animal-like human-speaking beings
+  assigned_to:
+  - fig:1
+  basis: The Izingogo are described with quadrupedal movement and tails, while also
+    talking like men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Comparative literary analogue
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly says the account of the Izingogo may be compared with
+    Gulliver’s Yahoos.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Animals explained as degenerated humans
+  assigned_to:
+  - fig:3
+  basis: The note says the native theory treats the ape as a degenerated man.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Tail
+  literal_form: tails
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Human speech
+  literal_form: talked like men
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Quadrupedal movement
+  literal_form: go on all fours
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Description of the Izingogo
+  summary: The Izingogo are characterized as beings that moved on all fours, had tails,
+    and spoke like humans.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial comparison and origin explanation
+  summary: The note compares the Izingogo with Gulliver’s Yahoos and introduces a
+    native explanation that apes or baboons are degenerated humans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Human-animal boundary figure with human speech
+  taxonomy_refs: []
+  basis: The Izingogo combine animal-like traits, including going on all fours and
+    having tails, with the human trait of speech.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is descriptive and does not narrate an episode involving the
+    figures.
+- id: motif:2
+  label: Animal origin through human degeneration
+  taxonomy_refs: []
+  basis: The note states that the native legend on the origin of baboons treats the
+    ape as a degenerated human.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only introduces the legend and summarizes its theory; it does
+    not provide the full legend in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself proposes a comparison between the Izingogo and Gulliver’s
+    Yahoos as representations of degenerate humanity.
+  claim_level: same_function
+  target: Gulliver’s account of the Yahoos
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and literary; the passage does not provide
+    details from Gulliver’s account beyond naming the Yahoos and the idea of degenerate
+    man.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18182-18192
+  quote_or_summary: "“The Izingogo used to go on all fours; they had tails; but they
+    talked like men.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 18194-18198
+  quote_or_summary: The editor says the account of the Izingogo may be compared with
+    Gulliver’s account of the Yahoos and describes both in terms of degenerate man.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: 18200-18203
+  quote_or_summary: The editor introduces a native legend on the origin of baboons,
+    summarized as the theory that the ape is a degenerated human rather than humans
+    being elevated apes.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage gives only a brief description and an editorial introduction rather
+    than a full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the passage supports human-animal boundary and degeneration themes but not a clear match to the supplied motif-family IDs without further context.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18182-l18203
+  passage_sha256=5b92a3291dda9e74051c77811287b083d07a255be537a7e045c7da561da7112f
+

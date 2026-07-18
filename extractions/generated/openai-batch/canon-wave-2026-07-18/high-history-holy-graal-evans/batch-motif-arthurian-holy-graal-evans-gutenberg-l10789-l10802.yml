@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l10789-l10802
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXXI. / XXXII. / XXXIII. / XXXIV.; lines 10789-10802
+  start: '10789'
+  end: '10802'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: prayed the Saviour of the World that He would swiftly restore to them the
+    most Holy Graal
+  summary: After the king who seized King Fisherman's castle has killed himself and
+    his knights have been defeated, Perceval enters the castle with worshipful hermits.
+    In the hall they seem to hear liturgical praise from an inner chapel. They find
+    the halls adorned and the chapel open where sacred hallows had formerly been.
+    The hermits enter, pray, and ask the Saviour to restore the Holy Graal and the
+    sacred hallows for their comfort.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage recalls that the king who seized the castle that had been King
+    Fisherman's killed himself, and that his knights were discomfited.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Perceval entered the castle together with worshipful hermits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When they came into the master hall, they seemed to hear chanting in an inner
+    chapel, including 'Gloria in excelsis Deo' and praise of Our Lord.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: They found the halls rich, seemly, and fairly adorned within.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: They found the chapel open in the place where the sacred hallows had been
+    accustomed to be.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The holy hermits entered the chapel, made their orisons, and prayed to the
+    Saviour of the World to restore the Holy Graal and sacred hallows to them for
+    comfort.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: He enters the castle with the worshipful hermits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: worshipful / holy hermits
+  description: They accompany Perceval into the castle, enter the chapel, make orisons,
+    and pray for restoration of the Holy Graal and sacred hallows.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: king who seized the castle
+  description: The king who had seized the castle that had been King Fisherman's is
+    said to have slain himself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the seizing king's knights
+  description: They are said to have been discomfited.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: King Fisherman
+  description: He is named as the former holder associated with the castle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Our Lord / Saviour of the World
+  description: The chant praises Our Lord, and the hermits pray to the Saviour of
+    the World for restoration of the Holy Graal and hallows.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: castle entrant
+  assigned_to:
+  - fig:1
+  basis: Perceval enters into the castle.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: companions in entry
+  assigned_to:
+  - fig:2
+  basis: The worshipful hermits enter the castle together with Perceval.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: former castle seizer who dies
+  assigned_to:
+  - fig:3
+  basis: The king had seized the castle and then slew himself.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: defeated knights
+  assigned_to:
+  - fig:4
+  basis: The king's knights are described as discomfited.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: praying sacred specialists
+  assigned_to:
+  - fig:2
+  basis: The holy hermits make orisons and pray for restoration of the Graal and hallows.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: former castle-holder named by association
+  assigned_to:
+  - fig:5
+  basis: The castle is described as one that had been King Fisherman's.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine addressee of praise and prayer
+  assigned_to:
+  - fig:6
+  basis: The chant praises Our Lord, and the hermits pray to the Saviour of the World.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: formerly seized castle
+  literal_form: castle that had been King Fisherman's
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: master hall and adorned halls
+  literal_form: master hall; rich, seemly, and fairly adorned halls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: inner/open chapel
+  literal_form: inner chapel where chanting is heard; open chapel where sacred hallows
+    were wont to be
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Holy Graal
+  literal_form: the most Holy Graal, requested to be restored
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sacred hallows
+  literal_form: sacred hallows formerly in the chapel and requested to be restored
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Aftermath of the castle seizure
+  summary: The passage recalls that the king who had seized King Fisherman's castle
+    killed himself and that his knights were defeated.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Perceval and hermits enter the castle
+  summary: Perceval enters the castle with the worshipful hermits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacred chant and adorned interior
+  summary: Inside the master hall, they seem to hear chant from an inner chapel and
+    find the halls richly adorned and the chapel open.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Prayer for restoration of Graal and hallows
+  summary: The holy hermits enter the chapel, pray, and ask the Saviour to restore
+    the Holy Graal and sacred hallows to them for comfort.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Restoration of absent sacred objects
+  taxonomy_refs:
+  - return
+  basis: The hermits pray that the Saviour swiftly restore the Holy Graal and the
+    sacred hallows that had formerly been in the chapel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the petition for restoration, not the fulfillment
+    of the restoration.
+- id: motif:2
+  label: Graal and hallows as sacred focus of a chapel
+  taxonomy_refs:
+  - mystical_quest
+  basis: The chapel is identified as the place where the sacred hallows were wont
+    to be, and the hermits pray for the Holy Graal and hallows to return there for
+    comfort.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The short passage does not narrate a full quest sequence; the motif candidate
+    rests on the Graal, hallows, sacred setting, and prayer for restoration.
+- id: motif:3
+  label: Liturgical praise heard from an inner sacred space
+  taxonomy_refs: []
+  basis: Upon entering the master hall, the party seems to hear 'Gloria in excelsis
+    Deo' and sweet praise of Our Lord from an inner chapel.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The singers or source of the chant are not identified; the passage says
+    it 'seemed' to them that they heard it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10789-10792
+  quote_or_summary: '"the King that had seized the castle that had been King Fisherman''s
+    slew himself ... and ... his knights were discomfited"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 10792-10793
+  quote_or_summary: '"Perceval entered into the castle and the worshipful hermits
+    together with him."'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 10793-10795
+  quote_or_summary: '"they heard chant in an inner chapel ''Gloria in excelsis Deo'',
+    and right sweet praising of Our Lord"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 10796-10798
+  quote_or_summary: '"They found the hails right rich and seemly and fairly adorned
+    within. They found the chapel open where the sacred hallows were wont to be."'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 10799-10802
+  quote_or_summary: '"The holy hermits entered therein and made their orisons, and
+    prayed the Saviour of the World that He would swiftly restore to them the most
+    Holy Graal and the sacred hallows"'
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source text supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to patterns directly suggested by the Graal, hallows, chapel, chant, and prayer
+    for restoration. No external comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line-level evidence locators are approximate within the supplied stable range. No external sources or unsupported taxonomy references were used.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l10789-l10802
+  passage_sha256=3ca8c5414feee5d44f98dec475ae7fe2eef8359c68bcd5f955f375c1df0f91d4
+

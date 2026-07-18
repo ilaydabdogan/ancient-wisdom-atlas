@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9743-l9815
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE SIXTH. / EXPLANATION.; lines 9743-9815
+  start: '9743'
+  end: '9815'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Still did she weep on ... There, fixed on the top of a mountain, she dissolves;
+    and even yet does the marble distil tears.”"
+  summary: A weeping female figure is carried by a mighty wind to her native land,
+    becomes fixed on a mountain top, and dissolves into marble that continues to shed
+    tears. A translator note identifies the mountain as Mount Sipylus and links it
+    with a rock resembling a sorrowful woman.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The female figure continues to weep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hurricane of mighty wind envelops her and carries her to her native land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She becomes fixed on the top of a mountain and dissolves.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The marble continues to distil tears.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note identifies the mountain as Mount Sipylus and says a summit rock there
+    resembled a female in an attitude of sorrow.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: weeping female figure, identified in the notes as Niobe
+  description: She weeps, is borne by wind to her native land, and becomes marble
+    on a mountain top.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: mourner transformed into stone
+  assigned_to:
+  - fig:1
+  basis: The figure continues weeping and then becomes marble that still sheds tears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: mighty wind
+  literal_form: a hurricane of mighty wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain top
+  literal_form: top of a mountain, identified in a note as Mount Sipylus
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: weeping marble or rock
+  literal_form: marble that distils tears; a rock resembling a sorrowful female
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: tears
+  literal_form: tears distilled by the marble
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wind-borne return to native land
+  summary: The weeping figure is enveloped in a mighty wind and carried away to her
+    native land.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mountain-top transformation into weeping marble
+  summary: On a mountain top, the figure becomes fixed and dissolves into marble that
+    continues to shed tears.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Localization at Mount Sipylus
+  summary: The translator note identifies the mountain as Mount Sipylus and connects
+    the story with a rock that resembles a sorrowful woman.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mourner transformed into weeping stone
+  taxonomy_refs: []
+  basis: The passage says the weeping figure dissolves into marble and that the marble
+    still distils tears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available motif-family taxonomy does not include a precise metamorphosis-into-stone
+    category.
+- id: motif:2
+  label: involuntary return to native land by supernatural wind
+  taxonomy_refs:
+  - return
+  basis: The figure is enveloped in a mighty wind and borne to her native land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The return is passive and wind-driven; the passage does not describe an
+    intentional homecoming.
+- id: motif:3
+  label: mythic sorrow embodied as a landscape feature
+  taxonomy_refs: []
+  basis: The note associates the mountain-top transformation with a rock on Mount
+    Sipylus resembling a sorrowful female.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The landscape identification comes from the translator’s note rather than
+    the quoted narrative sentence alone.
+comparison_claims:
+- id: claim:1
+  claim: The translator note cautiously links the Ovidian mountain-top marble figure
+    with Pausanias’s report of a Mount Sipylus rock resembling a sorrowful woman.
+  claim_level: visual_similarity
+  target: Pausanias’s description of a female-shaped sorrowful rock on Mount Sipylus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the translator’s summary of Pausanias is provided here; no independent
+    Pausanias passage is included.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9743-9744
+  quote_or_summary: "“Still did she weep on; and, enveloped in a hurricane of mighty
+    wind, she was borne away to her native land.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: line 9745
+  quote_or_summary: "“There, fixed on the top of a mountain, she dissolves; and even
+    yet does the marble distil tears.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: Footnote 44, lines 9809-9815
+  quote_or_summary: The note identifies the mountain as Mount Sipylus and says Pausanias
+    knew of a summit rock resembling a female in an attitude of sorrow, with the resemblance
+    said to persist.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: Footnotes 31 and 36, lines 9747-9765
+  quote_or_summary: The notes refer to Niobe and her family context in the surrounding
+    episode.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative actions are explicit. Motif labels require review because
+    the available taxonomy has no exact metamorphosis-into-stone category, and the
+    Mount Sipylus comparison is mediated by a translator note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction emphasizes the main narrative sentence and the directly relevant Mount Sipylus note; other footnotes in the range were not treated as separate motif scenes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l9743-l9815
+  passage_sha256=80a6433e07bad790c2fba68cb7fb05a6955eb9672dd754ae5cb0ecc7790e0e6d
+

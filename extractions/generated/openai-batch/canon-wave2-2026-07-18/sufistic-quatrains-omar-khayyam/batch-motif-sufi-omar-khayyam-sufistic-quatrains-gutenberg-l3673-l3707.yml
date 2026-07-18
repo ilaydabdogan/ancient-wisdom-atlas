@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3673-l3707
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LVIII. / LXIII. / LXVIII. / LXIX.; lines 3673-3707
+  start: '3673'
+  end: '3707'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: We are the pieces and heaven plays the game
+  summary: Two quatrains describe human beings as game pieces or as a ball moved by
+    heaven, a Player, or Fate. The pieces are moved, checked, slain, and returned
+    to non-existence; the ball goes as struck, while the one who set it moving knows
+    the whole matter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Human beings are described as pieces in a game played by heaven or by a figure
+    called He.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The game is set on a chequer-board of Nights and Days or a chess-board of
+    existence.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The pieces are moved, checked, slain, and returned one by one to a closet
+    or box of non-existence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: A ball does not ask questions of Ayes and Noes, but goes here or there as
+    the Player strikes it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed person is compared to a ball driven by the mallet of Fate, told
+    to go right or left and say nothing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The one who tossed or set the addressed person running is said repeatedly
+    to know.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: we / human beings / addressed person
+  description: Human beings are called pieces in a game and are also compared to a
+    ball driven or struck by another power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: He / heaven / Player
+  description: The passage names heaven as playing the game, refers to He as playing
+    or tossing down, and names a Player who strikes the ball.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Fate
+  description: Fate is named in the phrase 'mallet of Fate' as the force by which
+    the ball is driven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: moved game-piece or ball
+  assigned_to:
+  - fig:1
+  basis: Human beings are called pieces played on a board and the addressed person
+    is compared to a ball driven by a mallet or Player.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: game-player or mover
+  assigned_to:
+  - fig:2
+  basis: Heaven or He plays the game, moves pieces, tosses the addressed person down,
+    and sets the person running.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: knower
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly says that He knows about it all.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: driving force
+  assigned_to:
+  - fig:3
+  basis: The addressed person is said to be driven like a ball by the mallet of Fate.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: game pieces
+  literal_form: pieces of the game / chess pieces
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: chequer-board or chess-board
+  literal_form: Chequer-board of Nights and Days / chess-board of existence
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: closet or box of non-existence
+  literal_form: Closet / box of non-existence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: ball
+  literal_form: ball
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: player and mallet
+  literal_form: Player; mallet of Fate
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: binary alternatives
+  literal_form: Ayes and Noes; Here or There; right or left
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Humanity as pieces on the board of existence
+  summary: Human beings are depicted as pieces moved by heaven or He on a board of
+    nights and days or existence, then checked, slain, and returned to non-existence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The ball driven by Fate or Player
+  summary: The addressed person is depicted as a ball that does not question its course,
+    moves as struck, and is driven by Fate while the one who set it moving knows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Human life as game pieces moved by a superior player
+  taxonomy_refs: []
+  basis: Both the verse and the literal rendering say that human beings are pieces
+    in a game played by He or by heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a metaphorical and philosophical image rather than a developed
+    mythic narrative.
+- id: motif:2
+  label: Return to non-existence after play
+  taxonomy_refs: []
+  basis: The passage says the pieces are returned one by one to a closet or box of
+    non-existence after being moved, checked, and slain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives return to non-existence, not explicit rebirth or resurrection.
+- id: motif:3
+  label: Ball driven by Fate without agency
+  taxonomy_refs: []
+  basis: The addressed person is compared to a ball driven by the mallet of Fate and
+    told to go right or left without speaking.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is expressed as a poetic simile, not as an independent story
+    episode.
+- id: motif:4
+  label: Divine or ultimate knowledge of the course of fate
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly states that He knows about the action of setting the
+    person in motion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the text stresses knowledge rather
+    than a wisdom quest or teaching narrative.
+- id: motif:5
+  label: Binary alternatives within a controlled cosmic field
+  taxonomy_refs:
+  - duality
+  basis: 'The passage uses paired terms and alternatives: Nights and Days, Ayes and
+    Noes, Here or There, and right or left.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The binary language supports duality as an image, but the main emphasis
+    is constraint under a player or Fate.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the supplied passage, the chess-piece image and the ball image perform
+    a similar function: both depict human beings as moved by a superior power rather
+    than self-directed.'
+  claim_level: same_function
+  target: LXIX game-piece image and LXX ball image in the supplied passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal passage-level comparison only; it does not establish
+    historical contact or broader tradition-level dependence.
+- id: claim:2
+  claim: The English LXIX rendering and the cited O. 94 literal rendering share the
+    motif of humans as game pieces on a board who return to non-existence.
+  claim_level: same_motif
+  target: LXIX and O. 94 as presented in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states that LXIX is translated from O. 94; the claim is
+    limited to the supplied translated presentation.
+- id: claim:3
+  claim: The English LXX rendering and the cited C. 422 literal rendering share the
+    image of a ball moved by a player or by Fate, with emphasis on the mover's knowledge.
+  claim_level: same_motif
+  target: LXX and C. 422 as presented in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states that LXX is translated from C. 422; the claim is
+    limited to the supplied translated presentation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: LXIX, verse rendering within lines 3673-3707
+  quote_or_summary: Human beings are 'helpless Pieces of the Game' played on a 'Chequer-board
+    of Nights and Days,' moved, checked, slain, and returned to a closet.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: LXIX, O. 94 literal rendering within lines 3673-3707
+  quote_or_summary: "'We are the pieces and heaven plays the game'; the pieces are
+    played on the chess-board of existence and return one by one to the box of non-existence."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: LXX, verse rendering within lines 3673-3707
+  quote_or_summary: The Ball makes no question of Ayes and Noes, goes here or there
+    as the Player strikes, and He who tossed it into the field knows.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: LXX, C. 422 literal rendering within lines 3673-3707
+  quote_or_summary: The addressed person is 'driven like a ball by the mallet of Fate,'
+    told to go right or left and say nothing; the one who set the person running knows.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal images and internal translation correspondences are explicit.
+    Motif taxonomy assignments are more cautious because the passage is philosophical
+    poetry rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. The supplied locator label appears inconsistent with the passage headings, which show LXIX and LXX.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3673-l3707
+  passage_sha256=11150405e7fa6561cb6cc2dbedeeb6eb2ae1ad04d45a01dd0e57bad5c3068a07
+

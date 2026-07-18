@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l2506-l2552
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: FINIT / NOTES / NOTES  37 / NOTES  41; lines 2506-2552
+  start: '2506'
+  end: '2552'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of editorial and philological notes explains Old Irish forms,
+    cites a gloss concerning Mongan's death at Loch Lo or Loch Itncil, notes another
+    text where Loch Lo is mentioned, discusses the word iulchaire as longing or homesickness
+    with an Echtra Condla citation, and proposes a metrical emendation involving a
+    phrase about clear water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is primarily a set of numbered philological notes on verbal and
+    lexical forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited gloss is reported as saying that the fian of Cind-Tiri killed Mongan
+    at the brink or shore of Loch Lo, or Loch Itncil.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Loch Lo is said to be repeatedly mentioned in Togail Bruidne Da Chocaic.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on iulchaire says the word can mean longing and may originally have
+    denoted longing for home or homesickness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A metrical note says the line containing toind uisci glain has one syllable
+    too many and suggests reading dorat, 'who gave,' rather than dobir, 'who gives.'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mongan
+  description: Named figure whose death is mentioned in the cited gloss.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: fian Chind-Tiri
+  description: War-band or group named in the gloss as the killer of Mongan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Condla
+  description: Named figure in the Echtra Condla citation used to illustrate iulchaire
+    as longing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: slain named figure
+  assigned_to:
+  - fig:1
+  basis: The gloss cited in the note mentions Mongan's death and says he was killed
+    by the fian of Cind-Tiri.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: killer group in cited gloss
+  assigned_to:
+  - fig:2
+  basis: The gloss names the fian of Cind-Tiri as killing Mongan.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: figure associated with longing in lexical example
+  assigned_to:
+  - fig:3
+  basis: The note cites Echtra Condla as an example for iulchaire in the sense of
+    longing.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Loch Lo or Loch Itncil
+  literal_form: Named lake or lakeside place in the cited gloss about Mongan's death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: clear water
+  literal_form: The phrase toind uisci glain, a wave of clear water, occurs in a metrical
+    note.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cited death notice at Loch Lo
+  summary: In a gloss quoted by the editor, the fian of Cind-Tiri kills Mongan at
+    the brink or shore of Loch Lo, or Loch Itncil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects the place-name Loch Lo in a gloss about Mongan
+    with repeated mentions of Loch Lo in Togail Bruidne Da Chocaic.
+  claim_level: linguistic_similarity
+  target: Togail Bruidne Da Chocaic
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports recurrence of a place-name in another Irish text,
+    but it does not establish a shared narrative motif or historical relationship.
+- id: claim:2
+  claim: The note compares the usage of iulchaire in this context with an occurrence
+    in Echtra Condla where it has the sense of longing.
+  claim_level: linguistic_similarity
+  target: Echtra Condla
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a lexical comparison only; the passage does not support a broader
+    mythic-motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2506-2519
+  quote_or_summary: Numbered notes discuss forms such as arimghu, bes n-gairit, and
+    oircthi as grammatical or verbal forms with pronouns.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 2520-2525
+  quote_or_summary: '"fian Chind-Tiri romarb Mongan ar briu Locha Lo no Locha Itncil"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 2525-2526
+  quote_or_summary: '"A Loch Lo is also repeatedly mentioned in Togail Bruidne Da
+    Chocaic."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 2536-2546
+  quote_or_summary: The note says iulchaire sometimes has the general sense of longing,
+    cites Echtra Condla, and suggests it originally denoted longing for home or homesickness.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2550-2552
+  quote_or_summary: The note on "cen nech dobir toind uisci glain" says the line has
+    one syllable in excess and proposes dorat, 'who gave,' instead of dobir, 'who
+    gives.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is editorial commentary rather than a continuous mythic narrative.
+    Extracted figures, symbols, and comparison claims are limited to cited examples
+    within the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythic motifs were assigned because the passage does not itself establish a motif family; it only provides lexical notes and brief cited references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l2506-l2552
+  passage_sha256=0fe6270c039045b63d099ad11ce98f65cdbd32fd68e49c64eb998f39f2bb4acf
+

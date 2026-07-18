@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l127-l143
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: XIV THE KING'S WHITE ELEPHANT                     69 / XV THE OX WHO ENVIED
+    THE PIG                     74 / XVI GRANNIE'S BLACKIE                             77
+    / XVII THE CRAB AND THE CRANE                        84; lines 127-143
+  start: '127'
+  end: '143'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists tale titles IX through XVII with page numbers, including
+    titles about a foolish timid rabbit, wise and foolish merchants, elephants, deer,
+    princes and a water-sprite, an ox and pig, Grannie's Blackie, and a crab and crane.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list of numbered tales IX through XVII with page
+    numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One title names a rabbit described as foolish and timid.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One title contrasts a wise merchant with a foolish merchant.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several titles name animal figures, including elephant, deer, ox, pig, crab,
+    and crane.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:5
+  text: One title pairs princes with a water-sprite.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: One title indicates an ox envied a pig.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: foolish, timid rabbit
+  description: A rabbit identified in a title as foolish and timid.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: wise merchant
+  description: A merchant identified in a title as wise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: foolish merchant
+  description: A merchant identified in a title as foolish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Elephant Girly-Face
+  description: An elephant named or titled Girly-Face.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Banyan Deer
+  description: A deer named or titled Banyan Deer.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: princes
+  description: Princes named in a title with a water-sprite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: water-sprite
+  description: A water-sprite named in a title with princes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: king
+  description: A king implied by the possessive title "The King's White Elephant."
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: white elephant
+  description: A white elephant associated with a king in a title.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: ox
+  description: An ox identified in a title as envying a pig.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: pig
+  description: A pig identified as the object of the ox's envy in a title.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+- id: fig:12
+  name_or_label: Grannie's Blackie
+  description: A figure named or titled Blackie and associated possessively with Grannie.
+  role_refs: []
+  evidence_refs:
+  - ev:9
+- id: fig:13
+  name_or_label: Grannie
+  description: A possessive figure named in the title "Grannie's Blackie."
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:14
+  name_or_label: crab
+  description: A crab named in a title with a crane.
+  role_refs: []
+  evidence_refs:
+  - ev:10
+- id: fig:15
+  name_or_label: crane
+  description: A crane named in a title with a crab.
+  role_refs: []
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: foolish figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The titles explicitly describe the rabbit and one merchant as foolish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wise figure
+  assigned_to:
+  - fig:2
+  basis: The title explicitly describes one merchant as wise.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal figures
+  assigned_to:
+  - fig:6
+  basis: The title names princes.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: supernatural water being
+  assigned_to:
+  - fig:7
+  basis: The title names a water-sprite.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: possessive or associated owner figure
+  assigned_to:
+  - fig:8
+  - fig:13
+  basis: The titles use possessive forms for the king's white elephant and Grannie's
+    Blackie.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:6
+  label: envying figure
+  assigned_to:
+  - fig:10
+  basis: The title states that the ox envied the pig.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water in the compound "water-sprite"
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: white elephant
+  literal_form: white elephant
+  associated_figures:
+  - fig:9
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Contents list of Jataka tale titles
+  summary: The passage presents a sequence of tale titles and page numbers rather
+    than a narrative scene.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: wisdom and foolishness contrast
+  taxonomy_refs:
+  - wisdom
+  basis: 'Two titles explicitly contrast or assign wisdom and foolishness: the foolish
+    timid rabbit and the wise and foolish merchants.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a contents list; it does not provide the tales' narrative
+    outcomes or moral lessons.
+- id: motif:2
+  label: animal-centered tale figures
+  taxonomy_refs: []
+  basis: 'Multiple listed titles center on animal figures: rabbit, elephant, deer,
+    ox, pig, crab, and crane.'
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The available taxonomy list does not include a general animal-fable motif,
+    and the passage gives titles only.
+- id: motif:3
+  label: human encounter with water-sprite
+  taxonomy_refs: []
+  basis: One title pairs princes with a water-sprite.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The title alone does not state the nature of the encounter, conflict,
+    or lesson.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 127-143
+  quote_or_summary: Contents entries IX through XVII list tale titles and page numbers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: line 127
+  quote_or_summary: '"IX THE FOOLISH, TIMID RABBIT"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: line 129
+  quote_or_summary: '"X THE WISE AND THE FOOLISH MERCHANT"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: line 131
+  quote_or_summary: '"XI THE ELEPHANT GIRLY-FACE"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: line 133
+  quote_or_summary: '"XII THE BANYAN DEER"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: line 135
+  quote_or_summary: '"XIII THE PRINCES AND THE WATER-SPRITE"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: line 137
+  quote_or_summary: '"XIV THE KING''S WHITE ELEPHANT"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: line 139
+  quote_or_summary: '"XV THE OX WHO ENVIED THE PIG"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: quote
+  locator: line 141
+  quote_or_summary: '"XVI GRANNIE''S BLACKIE"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: quote
+  locator: line 143
+  quote_or_summary: '"XVII THE CRAB AND THE CRANE"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the passage is a table of contents, not
+    narrative text. Titles support identification of figures and some attributes,
+    but motif assignment remains tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are made because the passage itself does not support comparison beyond the listed titles.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l127-l143
+  passage_sha256=95199288bc45c4359b77ffc143e2aa231a24d0103ce02a32e1f84c6666cb0107
+

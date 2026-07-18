@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5331-l5340
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THE NYMPHS. / WATER NYMPHS. / OCEANIDES, NEREIDES, AND NAIADES. / OCEANIDES.;
+    lines 5331-5340
+  start: '5331'
+  end: '5340'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies the Oceanides, or Ocean Nymphs, as daughters of
+    Oceanus and Tethys, attributes prophecy to them as to most sea divinities, and
+    describes them as personifications of sea vapours seen especially at sunset and
+    represented as misty, shadowy, graceful beings in pale blue gauze-like garments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Oceanides are also called Ocean Nymphs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Oceanides are described as daughters of Oceanus and Tethys.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Oceanides are grouped with sea divinities and said to possess the gift
+    of prophecy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Oceanides are described as personifications of vapour-like exhalations
+    emitted from the surface of the sea in warm climates, especially at sunset.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The vapour-like exhalations are said to be moved forward by the evening breeze.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Oceanides are represented as misty, shadowy beings with graceful swaying
+    forms and pale blue gauze-like clothing.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Oceanides / Ocean Nymphs
+  description: Daughters of Oceanus and Tethys; sea divinities with prophecy; personifications
+    of sea vapours, represented as misty, shadowy beings in pale blue gauze-like fabrics.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Oceanus
+  description: Named as father or parent of the Oceanides.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tethys
+  description: Named as mother or parent of the Oceanides.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Ocean nymphs / sea divinities
+  assigned_to:
+  - fig:1
+  basis: The passage calls them Ocean Nymphs and compares them to sea divinities.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Divine daughters
+  assigned_to:
+  - fig:1
+  basis: They are called daughters of Oceanus and Tethys.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Parents of the Oceanides
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Oceanus and Tethys are named as the parents of the Oceanides.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Prophetic beings
+  assigned_to:
+  - fig:1
+  basis: The passage says they were endowed with the gift of prophecy.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Personifications of sea vapour
+  assigned_to:
+  - fig:1
+  basis: The passage identifies them as personifications of vapour-like exhalations
+    from the sea.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sea / water surface
+  literal_form: Surface of the sea from which vapour-like exhalations arise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sea vapour or mist
+  literal_form: Delicate vapour-like exhalations and misty, shadowy appearance.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Pale blue gauze-like robes
+  literal_form: Pale blue, gauze-like fabrics worn in representation of the Oceanides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Lineage and prophetic attribute of the Oceanides
+  summary: The passage identifies the Oceanides as Ocean Nymphs, daughters of Oceanus
+    and Tethys, and attributes prophecy to them in common with sea divinities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Personification of sunset sea vapour
+  summary: The passage explains the Oceanides as personifications of vapour rising
+    from the sea, especially at sunset, and describes their misty visual representation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divine parent-child lineage
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Oceanides are explicitly described as daughters of Oceanus and Tethys.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives lineage only; it does not narrate a parent-child conflict
+    or episode.
+- id: motif:2
+  label: Prophetic sea divinities
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the Oceanides, like most sea divinities, possess
+    the gift of prophecy.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage mentions prophecy but does
+    not present a wisdom quest or oracle scene.
+- id: motif:3
+  label: Natural phenomenon personified as divine beings
+  taxonomy_refs: []
+  basis: The Oceanides are described as personifications of vapour-like exhalations
+    from the sea and represented as misty, shadowy beings.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly matches personification of
+    natural phenomena.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Oceanides with most sea divinities by
+    saying they share the gift of prophecy.
+  claim_level: same_function
+  target: Most sea divinities
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name specific comparable sea divinities or give
+    additional examples.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5331-5334
+  quote_or_summary: The Oceanides, or Ocean Nymphs, are identified as daughters of
+    Oceanus and Tethys and said, like most sea divinities, to have prophecy.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5336-5340
+  quote_or_summary: The Oceanides are described as personifications of delicate vapour-like
+    exhalations from the sea, especially at sunset, moved by the evening breeze, and
+    represented as misty, shadowy beings in pale blue gauze-like fabrics.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The descriptive content is explicit, but motif assignment is partly interpretive
+    because the passage is a handbook description rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons or unsupplied taxonomy IDs added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5331-l5340
+  passage_sha256=abfde0591fba9f38114d67b0aec875d92afcca0b4218e7609048cc23029504bc
+

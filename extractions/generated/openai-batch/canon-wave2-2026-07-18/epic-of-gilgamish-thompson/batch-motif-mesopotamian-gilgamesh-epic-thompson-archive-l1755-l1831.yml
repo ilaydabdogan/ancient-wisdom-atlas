@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-epic-thompson-archive-l1755-l1831
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+passage_locator:
+  label: THE EPIC OF GILGAMISH. / THE EPIC OF GILGAMISH. 29 / THE EPIC OF GILGAMISH.
+    / THE EPIC OF GILGAMISH. 31; lines 1755-1831
+  start: '1755'
+  end: '1831'
+  translation: The Epic of Gilgamish
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A heavily fragmentary section introduces the fight with Humbaba. Gilgamish
+    prays to the Sun-god in heaven after starting on a road. The Sun-god hears and
+    raises multiple winds against Humbaba, preventing him from moving. Humbaba surrenders
+    and offers to serve Gilgamish, but Enkidu advises Gilgamish not to accept the
+    plea. The preserved outcome states that Humbaba's head is cut off. Editorial notes
+    say the fight passage is reconstructed from a Hittite version because major columns
+    are lost, while the Assyrian version is also badly mutilated at the end.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening fragment contains a speech to a friend urging continued action
+    and telling the friend to lay aside fear, but the context is broken.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The supplied text says much of the relevant columns is lost and that the fight
+    narrative is supplied from a Hittite version, with the Assyrian ending badly mutilated.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:3
+  text: Gilgamish prays to the Sun-god in heaven and says he has started on a road.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Sun-god in heaven hears Gilgamish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Sun-god raises mighty winds against Humbaba.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The winds are described as eight winds and include directional, tempest, storm,
+    chill, whirlwind, and evil winds.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The winds seize Humbaba before and behind so that he cannot go forward or
+    back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Humbaba surrenders and asks Gilgamish to stay his hand, offering to be Gilgamish's
+    henchman if Gilgamish becomes his master.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Enkidu tells Gilgamish not to accept Humbaba's words and states that Humbaba
+    must not remain alive.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The final preserved outcome states that Humbaba's head is cut off by an unspecified
+    plural subject.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gilgamish
+  description: Named figure who prays to the Sun-god, is heard by the Sun-god, and
+    is addressed by Humbaba during Humbaba's surrender.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Sun-god in heaven
+  description: Divine figure in heaven who hears Gilgamish and raises winds against
+    Humbaba.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Humbaba
+  description: Named opponent against whom the winds are raised; he is immobilized,
+    surrenders, offers service, and is later beheaded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Enkidu
+  description: Named companion who speaks to Gilgamish and advises him not to accept
+    Humbaba's plea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: praying expedition leader
+  assigned_to:
+  - fig:1
+  basis: Gilgamish prays to the Sun-god after stating that he has started on a road,
+    and Humbaba addresses him as the one able to stay his hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: divine helper using winds
+  assigned_to:
+  - fig:2
+  basis: The Sun-god hears Gilgamish and raises mighty winds against Humbaba.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: defeated adversary and supplicant
+  assigned_to:
+  - fig:3
+  basis: Humbaba is seized by the winds, surrenders, pleads with Gilgamish, offers
+    service, and is ultimately beheaded.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: companion-counselor opposing mercy
+  assigned_to:
+  - fig:4
+  basis: Enkidu warns Gilgamish not to accept Humbaba's proposal and says Humbaba
+    must not remain alive.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: eight winds
+  literal_form: A set of eight winds raised by the Sun-god, including great, north,
+    south, tempest, storm, chill, whirlwind, and evil winds as preserved in the passage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: severed head of Humbaba
+  literal_form: The cut-off head of Humbaba in the preserved outcome line.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Gilgamish prays to the Sun-god
+  summary: Gilgamish addresses the Sun-god in heaven in prayer after beginning a road
+    or expedition, and the Sun-god hears him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Winds immobilize Humbaba
+  summary: The Sun-god raises eight winds against Humbaba; they seize him from before
+    and behind so that he cannot move forward or back.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Humbaba surrenders and Enkidu advises refusal
+  summary: Humbaba pleads with Gilgamish and offers subordinate service, but Enkidu
+    tells Gilgamish not to accept Humbaba's words and says Humbaba must not remain
+    alive.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Humbaba beheaded
+  summary: After the mutilated ending, the preserved outcome states that Humbaba's
+    head is cut off.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: prayer answered by divine aid in combat
+  taxonomy_refs: []
+  basis: Gilgamish prays to the Sun-god, the Sun-god hears him, and winds are raised
+    against Humbaba.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches divine weather-aid in combat.
+- id: motif:2
+  label: enemy immobilized by many winds
+  taxonomy_refs: []
+  basis: Eight winds seize Humbaba before and behind, preventing forward or backward
+    movement.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The surrounding fight narrative is fragmentary, but this action is clearly
+    preserved in the supplied passage.
+- id: motif:3
+  label: defeated foe offers submission
+  taxonomy_refs: []
+  basis: Humbaba surrenders, asks Gilgamish to stay his hand, and offers to become
+    Gilgamish's henchman.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is broken around parts of Humbaba's speech.
+- id: motif:4
+  label: companion rejects mercy for a defeated foe
+  taxonomy_refs: []
+  basis: Enkidu tells Gilgamish not to accept Humbaba's proposal and says Humbaba
+    must not remain alive.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The line is partly mutilated, but the preserved sense is explicit.
+- id: motif:5
+  label: beheading of defeated adversary
+  taxonomy_refs: []
+  basis: The preserved ending states that Humbaba's head is cut off.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The ending is described as badly mutilated, and the immediate subject
+    of 'they' is not fully specified in the surviving line.
+comparison_claims:
+- id: claim:1
+  claim: The supplied editorial note treats the Hittite version from Boghaz Keut and
+    the Assyrian version as parallel witnesses to the same Humbaba fight episode,
+    with different portions preserved or lost.
+  claim_level: same_motif
+  target: Hittite and Assyrian versions of the fight with Humbaba
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a text-critical comparison stated by the supplied passage,
+    not an independent historical-contact claim; the relevant lines are fragmentary.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1755-1758, opening fragment
+  quote_or_summary: Fragmentary speech to a friend includes an exhortation to go and
+    to lay aside fear.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: note
+  locator: lines 1760-1770, editorial note before Column VI
+  quote_or_summary: Column IV is said to be lost, most of Column V absent, and the
+    great fight in Column VI largely lost; the note says it can be replaced from the
+    Hittite version from Boghaz Keut.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1777-1785, Gilgamish prayer
+  quote_or_summary: Gilgamish prays to the Sun-god in heaven, says he has started
+    on a road, and the Sun-god hearkens to him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1785-1792, winds against Humbaba
+  quote_or_summary: The Sun-god raises mighty winds against Humbaba; eight winds seize
+    Humbaba before and behind so that he cannot move forward or back.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1793-1797, Humbaba surrender speech
+  quote_or_summary: Humbaba surrenders to Gilgamish, asks him to stay his hand, and
+    offers to be his henchman if Gilgamish will be his master.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1798-1804, Enkidu counsel
+  quote_or_summary: Enkidu tells Gilgamish not to accept Humbaba's proposal and says
+    Humbaba must not remain alive.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 1806-1831, broken Assyrian ending and final preserved outcome
+  quote_or_summary: 'The Hittite version breaks off; the Assyrian version ends in
+    badly mutilated lines, with the final preserved outcome: ". they cut off the head
+    of Humbaba."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  rights_note: Public domain; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core actions are clear, but the passage is heavily mutilated and includes
+    editorial reconstruction from multiple textual witnesses. Motif labels are therefore
+    conservative and mostly left without taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy IDs were assigned where the available taxonomy did not clearly match the passage-level evidence.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-gilgamesh-epic-thompson-archive__l1755-l1831
+  passage_sha256=3e7df291ddbae1f62aff2cc9323d92ddc7c35197bed89a221cc736d2b981252f
+

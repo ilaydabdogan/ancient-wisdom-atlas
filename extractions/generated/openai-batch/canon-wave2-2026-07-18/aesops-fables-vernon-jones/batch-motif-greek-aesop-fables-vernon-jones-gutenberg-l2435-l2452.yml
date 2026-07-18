@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2435-l2452
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE SHADOW / MERCURY AND THE TRADESMEN / THE MICE AND THE WEASELS
+    / THE PEACOCK AND JUNO; lines 2435-2452
+  start: '2435'
+  end: '2452'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"Fate has allotted to all their destined gifts"'
+  summary: The Peacock complains to Juno that he lacks a beautiful voice like the
+    nightingale. Juno answers that the Peacock has exceptional beauty, while other
+    creatures have other gifts, and warns him to stop complaining because satisfying
+    this wish would only lead to new dissatisfaction.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Peacock is discontented because he does not have a beautiful voice like
+    the nightingale and goes to Juno to complain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Peacock says the nightingale's song is envied by all birds and that his
+    own sound makes him a laughing-stock.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Juno tells the Peacock that he lacks song but excels other birds in beauty,
+    with an emerald-like neck and a gorgeously coloured tail.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Peacock remains dissatisfied and asks what use beauty is with a voice
+    like his.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Juno states that Fate has allotted gifts to all: beauty to the Peacock, strength
+    to the eagle, song to the nightingale, and corresponding gifts to others.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Juno warns the Peacock to stop complaining and says that if his wish were
+    granted he would soon find another cause for discontent.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Peacock
+  description: A bird described as beautiful but dissatisfied with his voice and seeking
+    Juno's help.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Juno
+  description: A goddess who receives the Peacock's complaint, consoles him, and then
+    sternly explains the allotment of gifts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: The Nightingale
+  description: A bird whose song is described by the Peacock as envied by all birds
+    and by Juno as its allotted gift.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: The Eagle
+  description: A bird named by Juno as receiving strength as its allotted gift.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: discontented petitioner
+  assigned_to:
+  - fig:1
+  basis: The Peacock is dissatisfied with his voice and goes to Juno to complain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine counselor and admonisher
+  assigned_to:
+  - fig:2
+  basis: Juno first consoles the Peacock by naming his beauty, then sternly explains
+    Fate's allotment and tells him to stop complaining.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: possessor of beauty
+  assigned_to:
+  - fig:1
+  basis: Juno says the Peacock excels in beauty and has a splendid, gorgeously coloured
+    tail.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: exemplar of song
+  assigned_to:
+  - fig:3
+  basis: The nightingale is associated with envied song and Juno names song as its
+    allotted gift.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: exemplar of strength
+  assigned_to:
+  - fig:4
+  basis: Juno names strength as the eagle's allotted gift.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: splendid peacock tail
+  literal_form: The Peacock's tail, described as a marvel of gorgeous colour.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: beautiful song or voice
+  literal_form: The nightingale's envied song contrasted with the Peacock's disliked
+    voice.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: allotted gifts
+  literal_form: Beauty, strength, and song distributed respectively to the Peacock,
+    eagle, and nightingale.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The Peacock complains to Juno
+  summary: The Peacock approaches Juno because he lacks a beautiful voice like the
+    nightingale and complains that his own sound makes him ridiculous.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Juno points to the Peacock's beauty
+  summary: Juno tries to console the Peacock by saying that although he lacks song,
+    he surpasses others in visible beauty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Juno explains Fate's allotment
+  summary: Juno tells the Peacock that Fate has given different gifts to different
+    creatures and warns him that receiving the desired voice would not end his discontent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: discontent with one's allotted gift
+  taxonomy_refs:
+  - wisdom
+  basis: The Peacock is dissatisfied with his own beauty because he envies the nightingale's
+    song, and Juno warns him against further complaint.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents the lesson through
+    animal figures rather than abstract doctrine.
+- id: motif:2
+  label: divine explanation of differing natural endowments
+  taxonomy_refs: []
+  basis: 'Juno, a goddess, explains that Fate has distributed different gifts to different
+    creatures: beauty, strength, song, and other portions.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports the allotment in Juno's speech; it does not narrate
+    the original act of allotting.
+- id: motif:3
+  label: granted desire would produce renewed dissatisfaction
+  taxonomy_refs:
+  - wisdom
+  basis: Juno warns that if the Peacock's present wish were granted, he would quickly
+    find another reason to be dissatisfied.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a moral pattern internal to the fable; no external parallel is
+    provided in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a wisdom-pattern fable about envy, dissatisfaction,
+    and acceptance of one's portion.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional classification against the supplied taxonomy only;
+    the passage does not itself provide an external parallel or historical-contact
+    evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2435-2438
+  quote_or_summary: The fable is headed THE PEACOCK AND JUNO; the Peacock is discontented
+    at lacking a beautiful voice like the nightingale and goes to Juno to complain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; provided passage use allowed.
+- id: ev:2
+  type: quote
+  locator: 2438-2441
+  quote_or_summary: The Peacock says, "The nightingale's song" is "the envy of all
+    the birds," while his own sound makes him "a laughing-stock."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; provided passage use allowed.
+- id: ev:3
+  type: quote
+  locator: 2441-2445
+  quote_or_summary: Juno says the Peacock lacks song but "far excel[s] all the rest
+    in beauty"; his neck flashes like emerald and his tail is gorgeously coloured.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; provided passage use allowed.
+- id: ev:4
+  type: summary
+  locator: 2445-2447
+  quote_or_summary: The Peacock is not appeased and asks what use beauty has when
+    he has a voice like his.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; provided passage use allowed.
+- id: ev:5
+  type: quote
+  locator: 2447-2452
+  quote_or_summary: 'Juno says "Fate has allotted to all their destined gifts": beauty
+    to the Peacock, strength to the eagle, song to the nightingale; she tells him
+    to make no more complaints and warns that a granted wish would bring fresh discontent.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; provided passage use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied fable. Motif and
+    comparison classifications are cautious because only broad taxonomy references
+    are available and no external comparanda are stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; no external Aesop variants or motif indexes were consulted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2435-l2452
+  passage_sha256=60cafdb75fe19aaa90bc221203f468b53fff71cc63240fa00c19c6e9ca665a74
+

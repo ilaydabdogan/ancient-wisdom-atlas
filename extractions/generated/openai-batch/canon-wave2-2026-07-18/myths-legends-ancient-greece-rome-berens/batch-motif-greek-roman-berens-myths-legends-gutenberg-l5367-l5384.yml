@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5367-l5384
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: OCEANIDES, NEREIDES, AND NAIADES. / OCEANIDES. / THE NEREIDES. / THE NAIADES.;
+    lines 5367-5384
+  start: '5367'
+  end: '5384'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Naiades as nymphs of fresh-water bodies whose
+    care nourishes vegetation, who benefit humankind, who possess prophecy and can
+    inspire prophetic powers through their waters, who are associated with water-lilies,
+    and who form alliances with mortals or are wooed by sylvan deities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Naiades are identified as nymphs of fresh-water springs, lakes, brooks,
+    rivers, and similar waters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Trees, plants, and flowers are said to owe nourishment to the Naiades' genial
+    and fostering care.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Naiades are described as special benefactors to mankind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Naiades possess the gift of prophecy, like all nymphs in the passage's
+    account.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some springs and fountains under Naiad presidence were believed to inspire
+    mortals who drank their waters with power to foretell future events.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Naiades are connected with water-lilies, described as broad green leaves
+    and yellow cups floating on the water surface.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the Naiades often form alliances with mortals and are wooed
+    by sylvan deities of woods and dales.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Naiades
+  description: Fresh-water nymphs associated with springs, lakes, brooks, rivers,
+    prophecy, nourishing care, and alliances or courtship.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Mortals
+  description: Humans who may be inspired by Naiad waters to foretell future events
+    and with whom the Naiades may form alliances.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Sylvan deities of the woods and dales
+  description: Woodland and dale deities described as wooing the Naiades.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Fresh-water nymphs
+  assigned_to:
+  - fig:1
+  basis: The Naiades are explicitly called nymphs of fresh-water springs, lakes, brooks,
+    rivers, and similar waters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Benefactors and fosterers of vegetation
+  assigned_to:
+  - fig:1
+  basis: The passage says vegetation owes nourishment to their fostering care and
+    that Greeks regarded them as benefactors to mankind.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Prophetic water divinities
+  assigned_to:
+  - fig:1
+  basis: They possess prophecy, and waters over which they preside can inspire foretelling
+    in mortals who drink them.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Recipients of prophetic inspiration
+  assigned_to:
+  - fig:2
+  basis: Mortals who drink certain Naiad waters are believed to gain power to foretell
+    future events.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Possible alliance partners
+  assigned_to:
+  - fig:2
+  basis: The passage says Naiades often form alliances with mortals.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Wooers of Naiades
+  assigned_to:
+  - fig:3
+  basis: The passage says the Naiades are wooed by sylvan deities of woods and dales.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Fresh water
+  literal_form: Fresh-water springs, lakes, brooks, rivers, springs, and fountains
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Prophetic drinking water
+  literal_form: Waters of springs and fountains presided over by the Naiades
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Water-lilies
+  literal_form: Nymphae or water-lilies with broad green leaves and yellow cups floating
+    on the water surface
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Naiades preside over fresh waters and foster vegetation
+  summary: The Naiades are described as fresh-water nymphs whose care nourishes trees,
+    plants, and flowers and makes them benefactors to mankind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prophetic waters inspire mortals
+  summary: Springs and fountains under Naiad presidence are believed to give mortals
+    who drink from them the ability to foretell future events.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Naiades linked with water-lilies and courtship
+  summary: The Naiades are associated with water-lilies and are said to form alliances
+    with mortals and be wooed by sylvan deities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Prophetic waters
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says that some Naiad-presided springs and fountains inspire mortals
+    who drink from them with the power of foretelling future events.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes prophecy through
+    water but does not present a full wisdom quest or oracle narrative.
+- id: motif:2
+  label: Water divinities as benefactors and nourishers
+  taxonomy_refs: []
+  basis: The Naiades are fresh-water nymphs whose fostering care nourishes vegetation
+    and who are regarded as benefactors to mankind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive divine-function motif rather than a narrated myth
+    episode.
+- id: motif:3
+  label: Divine-human alliance with water nymphs
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage states that the Naiades often form alliances with mortals.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not specify named partners, marriage, offspring, or a
+    particular plot; 'alliance' is not further defined.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5367-5370
+  quote_or_summary: '"The NAIADES were the nymphs of fresh-water springs, lakes, brooks,
+    rivers, &c."'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5371-5374
+  quote_or_summary: Trees, plants, and flowers are said to be nourished by the Naiades'
+    fostering care, and Greeks regarded them as special benefactors to mankind.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5374-5379
+  quote_or_summary: The Naiades possess prophecy, and many springs and fountains under
+    their presidence were believed to give prophetic foretelling power to mortals
+    who drank their waters.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5379-5383
+  quote_or_summary: The Naiades are associated with Nymphae or water-lilies, described
+    as having broad green leaves and yellow cups floating on the water surface.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5383-5384
+  quote_or_summary: The Naiades are said to form alliances with mortals and to be
+    wooed by sylvan deities of the woods and dales.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive and explicit about Naiad functions. Motif candidates
+    are limited because it gives no full narrative episode and no direct comparative
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage itself does not support an explicit comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5367-l5384
+  passage_sha256=ac00d9ab7de705e524dc166b3737b71fd621f713a38bba8114f53345dc337488
+

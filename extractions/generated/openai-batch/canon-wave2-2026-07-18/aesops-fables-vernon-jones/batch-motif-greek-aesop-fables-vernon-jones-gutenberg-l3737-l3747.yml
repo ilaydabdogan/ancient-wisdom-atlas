@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3737-l3747
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: BROTHER AND SISTER / THE HEIFER AND THE OX / THE KINGDOM OF THE LION / THE
+    ASS AND HIS DRIVER; lines 3737-3747
+  start: '3737'
+  end: '3747'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An ass being driven down a mountain road leaves the track and rushes to
+    the edge of a precipice. The driver catches the ass by the tail and tries unsuccessfully
+    to pull him back. The driver gives up and tells the ass to reach the bottom his
+    own way, warning that it is the way to sudden death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ass is being driven down a mountain road.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After moving sensibly for a while, the ass leaves the track.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ass rushes to the edge of a precipice and is about to leap over it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The driver catches hold of the ass's tail and tries to pull him back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The driver cannot make the ass move back from the brink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The driver gives up and tells the ass that his chosen way leads to sudden
+    death.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An ass being driven down a mountain road who leaves the track and rushes
+    toward a precipice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Driver
+  description: The ass's driver, who tries to pull the ass back from the brink and
+    then speaks a warning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: wayward driven animal
+  assigned_to:
+  - fig:1
+  basis: The ass is being driven, then quits the track and rushes toward the precipice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: restraining guide
+  assigned_to:
+  - fig:2
+  basis: The driver catches the ass's tail, tries to pull him back, and warns him
+    about sudden death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain road
+  literal_form: mountain road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: precipice edge
+  literal_form: edge of a precipice; brink
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tail-grasp
+  literal_form: driver catching hold of the ass's tail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ass leaves the mountain track
+  summary: While being driven down a mountain road, the ass leaves the track and goes
+    to the edge of a precipice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Driver fails to restrain the ass
+  summary: The driver catches the ass by the tail and tries to pull him back, but
+    the ass remains at the brink; the driver gives up and warns that the ass's way
+    leads to sudden death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: refusal of guidance at a dangerous edge
+  taxonomy_refs: []
+  basis: The ass leaves the proper track, resists the driver's attempt to pull him
+    back from the precipice, and is warned that his chosen course leads to sudden
+    death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a fable episode but no explicit prose moral in the supplied
+    excerpt.
+- id: motif:2
+  label: foolish self-directed path to destruction
+  taxonomy_refs:
+  - wisdom
+  basis: The ass rejects the safer road and the driver's restraint; the driver's final
+    speech frames the ass's chosen route as a way to sudden death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage illustrates imprudence
+    rather than stating a wisdom teaching explicitly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3737-3740
+  quote_or_summary: '"An Ass was being driven down a mountain road" and initially
+    jogs along "sensibly enough" before quitting the track.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3740-3742
+  quote_or_summary: The ass suddenly leaves the track, rushes to the edge of a precipice,
+    and is about to leap over it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3742-3745
+  quote_or_summary: The driver catches the ass's tail and tries to pull him back,
+    but cannot make him move from the brink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3745-3747
+  quote_or_summary: The driver gives up, saying the ass may "get to the bottom" his
+    own way, but that it is "the way to sudden death."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and require human review; no comparison claims are made because
+    the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3737-l3747
+  passage_sha256=dfbb87cb9d8a979cb476a3482634d70dabb01b5bd2b8a48cfccafa2e4c391fac
+

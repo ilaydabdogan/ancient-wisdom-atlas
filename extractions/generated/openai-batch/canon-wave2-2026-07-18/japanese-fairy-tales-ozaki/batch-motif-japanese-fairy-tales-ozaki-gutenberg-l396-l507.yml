@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l396-l507
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW;
+    lines 396-507
+  start: '396'
+  end: '507'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Opening portion of “The Tongue-Cut Sparrow”: an old man loves and cares
+    for a tame sparrow, while his wife dislikes it. The sparrow eats starch by mistake,
+    truthfully confesses and apologizes, but the old woman angrily cuts off its tongue
+    and drives it away. The old man returns, learns what happened, grieves, and sets
+    out the next morning through hills, woods, and bamboo clumps to search for the
+    tongue-cut sparrow.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man and his wife live in Japan; the old man is described as good, kind-hearted,
+    and hard-working, while his wife is described as scolding and cross.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man keeps a tame sparrow and loves it as if it were his child.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old man pets the sparrow, talks to it, teaches it tricks, lets it fly
+    about the room, and saves food for it at supper.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman discovers that a bowl of starch or rice-paste prepared for washing
+    clothes is empty.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sparrow bows, speaks, admits eating the starch because it thought the
+    starch was food, and asks forgiveness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old woman scolds and curses the sparrow, seizes it, takes scissors, and
+    cuts off its tongue.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After cutting off the sparrow’s tongue, the old woman drives the bird away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: When the old man returns home, he expects the sparrow to fly and chirp to
+    meet him, but he cannot find it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The old woman first claims not to know what happened to the sparrow, then
+    confesses that she cut out its tongue and drove it away.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The old woman shows the old man the sparrow’s severed tongue.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The old man grieves, worries that the sparrow cannot chirp and may be ill,
+    and decides to search for it the next day.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The next morning the old man sets out over hills and through woods, stopping
+    at bamboo clumps to call for the tongue-cut sparrow.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: A good, kind-hearted, hard-working old man who keeps and loves a tame
+    sparrow.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: old woman
+  description: The old man’s wife, described as cross and scolding; she dislikes the
+    sparrow, cuts off its tongue, and drives it away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Suzume San / Miss Sparrow
+  description: A tame sparrow loved by the old man; it eats the starch by mistake,
+    confesses, apologizes, loses its tongue, and is driven away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+roles:
+- id: role:1
+  label: kind caretaker
+  assigned_to:
+  - fig:1
+  basis: The old man loves, feeds, teaches, and worries for the sparrow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: role:2
+  label: cruel punisher
+  assigned_to:
+  - fig:2
+  basis: The old woman angrily cuts off the sparrow’s tongue and drives it away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: truthful injured animal companion
+  assigned_to:
+  - fig:3
+  basis: The sparrow admits taking the starch, asks forgiveness, and is then maimed
+    and expelled.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: searcher
+  assigned_to:
+  - fig:1
+  basis: The old man decides to look for the sparrow and sets out the next morning
+    calling for it.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: sparrow
+  literal_form: Tame sparrow called Suzume San / Miss Sparrow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: cut tongue
+  literal_form: The sparrow’s tongue, cut off and shown to the old man
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: scissors
+  literal_form: Scissors used by the old woman to cut off the sparrow’s tongue
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: starch or rice-paste
+  literal_form: Starch/rice-paste prepared for clothing, eaten by the sparrow by mistake
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:5
+  label: hills, woods, and bamboo clumps
+  literal_form: Places through which the old man searches and where he calls for the
+    tongue-cut sparrow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Household and animal companion introduced
+  summary: The passage introduces the old man, his cross wife, and the tame sparrow
+    that the old man treats affectionately as a childlike companion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sparrow confesses eating the starch
+  summary: While the old man is away, the old woman finds the starch gone, and the
+    sparrow bows, admits eating it by mistake, and asks forgiveness.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Punishment and expulsion of the sparrow
+  summary: The old woman angrily scolds the sparrow, cuts off its tongue with scissors,
+    and drives it away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Old man learns what happened
+  summary: The old man returns expecting the sparrow, questions his wife, hears her
+    confession, and sees the severed tongue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Old man sets out to search
+  summary: After grieving overnight, the old man rises early and searches over hills
+    and through woods, calling for the tongue-cut sparrow at bamboo clumps.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Kind human caretaker of an animal companion
+  taxonomy_refs: []
+  basis: The old man keeps the sparrow, loves it as a child, plays with it, teaches
+    it, and saves food for it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This label describes only the opening relationship; no later reward or
+    supernatural exchange is included in this passage.
+- id: motif:2
+  label: Truthful animal punished after confession
+  taxonomy_refs: []
+  basis: The sparrow admits eating the starch by mistake and asks forgiveness, but
+    the old woman cuts off its tongue and drives it away.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the sparrow as truthful, but broader moral or karmic
+    consequences occur outside this excerpt, if at all.
+- id: motif:3
+  label: Cruel mutilation and expulsion of a household animal
+  taxonomy_refs: []
+  basis: The old woman cuts off the sparrow’s tongue with scissors and expels it from
+    the house.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The motif is descriptive and passage-level; no taxonomy reference is asserted.
+- id: motif:4
+  label: Search for a lost or expelled beloved companion
+  taxonomy_refs:
+  - departure
+  basis: After the sparrow is driven away, the old man grieves and sets out the next
+    morning to find it, calling for the tongue-cut sparrow through hills, woods, and
+    bamboo clumps.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The taxonomy reference to departure is based on the sparrow’s expulsion
+    and the old man’s setting out; the journey’s outcome is not included in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 396-406
+  quote_or_summary: An old man and his wife live in Japan; he is kind and hard-working,
+    she is scolding, and he keeps a tame sparrow that he loves as if it were his child.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 408-416
+  quote_or_summary: The old man pets, talks to, teaches, and feeds the sparrow, lets
+    it fly around the room, and saves food for it at supper.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 418-424
+  quote_or_summary: The old man goes to chop wood; the old woman stays home to wash
+    clothes and finds that the bowl of starch made the previous day is empty.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 426-434
+  quote_or_summary: "“It is I who have taken the starch. I thought it was some food
+    put out for me in that basin, and I ate it all. If I have made a mistake I beg
+    you to forgive me!”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 440-451
+  quote_or_summary: The old woman, who had not loved the sparrow, angrily scolds and
+    curses it, seizes it, fetches scissors, and cuts off its tongue while the sparrow
+    shows remorse.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 453-459
+  quote_or_summary: The old woman says the sparrow used that tongue to take her starch
+    and drives the bird away without pity for its suffering.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 466-477
+  quote_or_summary: The old man returns home expecting the sparrow to fly and chirp
+    to meet him, but he sees no sparrow and anxiously asks where Suzume San is.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 479-492
+  quote_or_summary: The old woman first claims ignorance, then confesses that the
+    sparrow ate the rice-paste, that she cut out its tongue with scissors, and that
+    she drove it away and forbade it to return.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 494-497
+  quote_or_summary: "“Here is the tongue I cut off!”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 499-511
+  quote_or_summary: The old man condemns the cruelty, grieves for Suzume San’s lost
+    tongue and possible suffering, sheds tears, and resolves to look for the sparrow
+    the next day.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: quote
+  locator: lines 513-519
+  quote_or_summary: The old man starts “over the hills and through the woods,” stopping
+    at bamboo clumps to call, “Where, oh where does my tongue-cut sparrow stay?”
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage gives clear actions, figures, and objects. Motif labels are descriptive
+    and passage-level; broader tale patterns are limited because this excerpt ends
+    as the old man begins the search. No comparison claims were made because the passage
+    itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators are approximate within the supplied stable range; evidence is limited to the provided passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l396-l507
+  passage_sha256=d26134c6c2a98eccaa37a4f4985c844157733c142b8189aba614f7955b6e2fea
+

@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4470-l4493
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FISHERMAN PIPING / THE WEASEL AND THE MAN / THE PLOUGHMAN, THE ASS, AND
+    THE OX / DEMADES AND HIS FABLE; lines 4470-4493
+  start: '4470'
+  end: '4493'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A ploughman uses an ox and an ass together for ploughing because he has
+    only one ox; afterward the ass asks which animal will carry the master home, and
+    the ox says the ass will, as usual. In a second fable, Demades addresses an inattentive
+    Athenian assembly, wins attention by offering an Aesop fable, begins a tale of
+    Demeter, a swallow, and an eel at a bridgeless river, then rebukes the audience
+    for preferring fables to public business.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A ploughman yoked an ox and an ass together to plough his field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The team is described as a poor makeshift because the ploughman had only a
+    single ox.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the end of the day, after the beasts were loosed from the yoke, the ass
+    asked the ox which of them would carry the master home.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ox answered that the ass would carry the master home, as usual.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Demades the orator was speaking in the Assembly at Athens while the people
+    were inattentive.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Demades said he would tell one of Aesop's fables, which made everyone listen
+    intently.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In Demades' embedded fable, Demeter, a swallow, and an eel travelled together
+    and came to a river without a bridge; the swallow flew over it and the eel swam
+    across.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When people asked what happened to Demeter, Demades replied that Demeter was
+    angry because they listened to fables when they ought to mind public business.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ploughman / master
+  description: A ploughman who yokes his ox and ass together and is referred to as
+    the master to be carried home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ox
+  description: An ox yoked with the ass for ploughing; later answers the ass's question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ass
+  description: An ass yoked with the ox for ploughing; asks who will carry the master
+    home and is told it will carry him as usual.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Demades
+  description: An orator speaking in the Assembly at Athens who uses an unfinished
+    fable to rebuke inattentive listeners.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: People in the Assembly at Athens
+  description: The audience listening inattentively to Demades, then intently to his
+    promised fable, and asking what happened to Demeter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Demeter
+  description: A named traveller in Demades' embedded fable who comes to a bridgeless
+    river with a swallow and an eel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Swallow
+  description: A bird in the embedded fable that flies over the river.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Eel
+  description: An eel in the embedded fable that swims across the river.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ploughman and master
+  assigned_to:
+  - fig:1
+  basis: He yokes the animals to plough, and the ass later asks which animal will
+    carry the master home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: draft animal in mixed team
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The ox and the ass are yoked together to plough the field.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: usual carrier of the master
+  assigned_to:
+  - fig:3
+  basis: The ox says the ass will carry the master home, as usual.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: orator and rebuker
+  assigned_to:
+  - fig:4
+  basis: Demades speaks in the Assembly, attracts attention by proposing a fable,
+    and rebukes the people for neglecting public business.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: inattentive audience
+  assigned_to:
+  - fig:5
+  basis: The people are inattentive to Demades' speech but listen intently when he
+    offers a fable.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: embedded-fable traveller
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Demeter, the swallow, and the eel are said to be travelling together.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: river crosser by natural ability
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The swallow flies over the river and the eel swims across it.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: yoke
+  literal_form: A yoke joining the ox and the ass for ploughing, later removed at
+    the end of the day.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bridgeless river
+  literal_form: A river without a bridge encountered by Demeter, a swallow, and an
+    eel in the embedded fable.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mixed team ploughs the field
+  summary: The ploughman yokes an ox and an ass together as a makeshift ploughing
+    team because he has only one ox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ass remains the expected carrier
+  summary: After the day of ploughing, the ass asks which animal will carry the master
+    home, and the ox replies that the ass will, as usual.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Demades gains attention through a promised fable
+  summary: Demades speaks to an inattentive Athenian assembly, then announces an Aesop
+    fable, causing everyone to listen.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Embedded tale at the river
+  summary: Demades begins a fable in which Demeter, a swallow, and an eel reach a
+    bridgeless river; the swallow flies over it and the eel swims across.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Fable interrupted as civic rebuke
+  summary: The audience asks what happened to Demeter, and Demades answers that Demeter
+    is angry because they prefer fables to public business.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mismatched or makeshift labor team
+  taxonomy_refs: []
+  basis: The ploughman yokes an ox and an ass together, explicitly because he lacks
+    a second ox.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches this animal-fable labor pattern.
+- id: motif:2
+  label: Burden returns to habitual bearer
+  taxonomy_refs: []
+  basis: Although the ass has worked all day alongside the ox, the ox says the ass
+    will still carry the master home as usual.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the exchange but does not state an explicit moral.
+- id: motif:3
+  label: Fable used to capture an inattentive audience
+  taxonomy_refs:
+  - wisdom
+  basis: Demades regains the attention of the Assembly by announcing one of Aesop's
+    fables.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The 'wisdom' taxonomy reference is broad; the passage presents a rhetorical
+    tactic rather than a mythic wisdom episode.
+- id: motif:4
+  label: Interrupted tale as admonition
+  taxonomy_refs:
+  - wisdom
+  basis: Demades stops the fable and uses the audience's curiosity about Demeter to
+    rebuke them for neglecting public business.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The embedded story is intentionally incomplete, so the motif rests on
+    rhetorical function rather than a complete narrative sequence.
+- id: motif:5
+  label: Different beings cross water by different abilities
+  taxonomy_refs: []
+  basis: In the embedded fable, the swallow crosses the river by flying and the eel
+    by swimming, while Demeter's outcome is withheld.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage leaves Demeter's crossing unresolved and uses that gap to
+    provoke the audience.
+comparison_claims:
+- id: claim:1
+  claim: The Demades episode explicitly frames the embedded Demeter, swallow, and
+    eel narrative as one of Aesop's fables and uses it in the same broad instructive
+    or admonitory function associated with fable in this passage.
+  claim_level: same_function
+  target: Aesopic fable as attention-getting moral or civic admonition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies no external parallel version and does not permit
+    a stronger same-motif or historical-contact claim beyond its own explicit Aesop
+    framing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4470-4475
+  quote_or_summary: The ploughman yokes his ox and ass together to plough; the team
+    is described as a poor makeshift because he has only one ox.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4475-4481
+  quote_or_summary: After the beasts are loosed from the yoke, the ass asks which
+    animal will carry the master home; the ox answers that the ass will, as usual.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4482-4489
+  quote_or_summary: Demades addresses an inattentive Athenian assembly, announces
+    an Aesop fable, and begins a tale of Demeter, a swallow, and an eel reaching a
+    bridgeless river; the swallow flies over and the eel swims across.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4489-4493
+  quote_or_summary: The audience asks what happened to Demeter; Demades replies that
+    Demeter is angry that they listen to fables when they should attend to public
+    business.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    descriptive because the supplied taxonomy has few animal-fable-specific categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or comparisons beyond the supplied passage were added. Demeter is treated only as a named figure in the embedded fable, without external identification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4470-l4493
+  passage_sha256=c9c6cc4f2599548a117700aa2a5ad90b1cda7539023bb67d728f8cadb8b3569e
+

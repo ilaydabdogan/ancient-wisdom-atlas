@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8546-l8657
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: RESURRECTION    OF    OSTRICH.  143 / PAET  OF  THE  PRECEDING  TALE  PARSED
+    / BY  DR.  BLEEK. / PAUSING.  145; lines 8546-8657
+  start: '8546'
+  end: '8657'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens with a tale fragment in which an unnamed male figure
+    regards eggs as his children, takes care of them, and acts to keep a jackal from
+    killing them by driving it away or kicking it. The remainder is chiefly grammatical
+    commentary defining and declining words such as man, kill, ostrich, egg, pronouns,
+    carry, away, house, conjunction, and consort.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eggs are described as the male figure's children.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure takes care of the eggs or children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The male figure acts to drive away the jackal so that the jackal may not kill
+    his children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The male figure may kick the jackal with his feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The grammatical notes identify a word glossed as 'ostrich, ostriches' and
+    state that it has the same form in singular and plural.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The grammatical notes identify an irregular plural word glossed as 'eggs'
+    and give a singular form glossed as 'egg'.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed male caregiver
+  description: A male figure who treats the eggs as his children and protects them
+    from the jackal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: jackal
+  description: A jackal that is to be driven away so it may not kill the children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: eggs or children
+  description: Eggs referred to as the male figure's children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: caregiver and protector
+  assigned_to:
+  - fig:1
+  basis: The figure takes care of the eggs or children, drives the jackal away, and
+    may kick it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: threatening predator
+  assigned_to:
+  - fig:2
+  basis: The jackal is presented as a being that might kill the children unless driven
+    away.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protected offspring
+  assigned_to:
+  - fig:3
+  basis: The eggs are described as the figure's children and are protected from the
+    jackal.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: eggs as children
+  literal_form: eggs
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: jackal as danger to offspring
+  literal_form: jackal
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Protection of eggs from jackal
+  summary: An unnamed male figure cares for eggs described as his children and seeks
+    to keep a jackal from killing them, including by driving it away or kicking it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Grammatical parsing notes
+  summary: The passage shifts into grammatical commentary on selected words, including
+    forms glossed as ostrich and egg.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Offspring protected from predatory animal
+  taxonomy_refs: []
+  basis: The passage describes eggs as children and presents a caregiver preventing
+    a jackal from killing them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage fragment is brief and embedded in grammatical commentary;
+    no broader narrative resolution is present in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8546-8551
+  quote_or_summary: The passage says the eggs are his children; he takes care of them,
+    drives away the jackal so it may not kill his children, and may kick the jackal
+    with his feet.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8580-8582
+  quote_or_summary: A grammatical note glosses a term as 'ostrich, ostriches' and
+    says the same form is used in singular and plural, with nominative and genitive
+    forms supplied.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8584-8604
+  quote_or_summary: A grammatical note glosses an irregular plural as 'eggs' and gives
+    the singular as 'egg', followed by singular and plural declension forms.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The only narrative material in the supplied passage is a short fragment about
+    eggs or children and a jackal; much of the line range is grammatical commentary,
+    limiting motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No resurrection motif was assigned because the supplied passage lines do not themselves narrate resurrection, despite the surrounding passage label.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8546-l8657
+  passage_sha256=88e1e6f66f347129c9204cd452c1b8f1564b8c85a96eb155b9ddc3c6134be261
+

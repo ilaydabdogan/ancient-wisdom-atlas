@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l773-l865
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE RED-BUD TREE / THE WOODPECKER AND THE LION / THE OTTERS AND THE WOLF
+    / HOW THE MONKEY SAVED HIS TROOP; lines 773-865
+  start: '773'
+  end: '865'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A king discovers a mango carried downriver and travels to the mango-tree
+    where it grew. At night a troop of monkeys comes to eat the fruit. The king orders
+    archers to shoot the monkeys when they descend, but the Chief of the Monkeys stretches
+    himself between branches across the river so the troop can cross over his back
+    and escape. The king, seeing this rescue, promises to care for the chief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mango-tree grows on the bank of a great river, and its fruit falls both
+    into the river and onto the ground.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A troop of monkeys gathers fallen mangoes at night and climbs the tree to
+    eat more fruit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fishermen find an unfamiliar fruit in their nets and bring it to the king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Foresters identify the fruit as a mango and say that it is good to eat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king tastes the mango with the princes and decides to travel upriver to
+    the tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The king and his men gather and eat mangoes under the tree and remain there
+    overnight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At night the monkeys arrive, make noise in the tree, and wake the king.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king orders archers to stand under the tree and shoot the monkeys when
+    they come down.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The monkeys fear death and ask their chief what they should do.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Chief of the Monkeys promises to save the troop and tells them to stay
+    where they are until called.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The chief judges that some monkeys would fall into the water and drown if
+    they tried to jump between the trees.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The chief decides to make a bridge of his back, reaches to a branch across
+    the river, and instructs the monkeys to cross over him.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:13
+  text: The monkeys step on the chief's back, cross to the other tree, descend, and
+    return home.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The king observes the rescue and promises that the big monkey will be cared
+    for for the rest of his life.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Chief of the Monkeys
+  description: The leader of the monkey troop who devises the escape and forms a bridge
+    with his body.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Troop of Monkeys
+  description: A group of monkeys that eats mangoes at night, fears the archers, and
+    escapes over the chief's back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: King
+  description: The ruler who discovers the mango, orders archers to shoot the monkeys,
+    then recognizes the chief's rescue and promises care for him.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Fishermen
+  description: The men who draw up the strange fruit in their nets and bring it to
+    the king.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Foresters
+  description: The men called by the king who identify the fruit as a mango and tell
+    where the mango-tree grows.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Princes
+  description: The princes receive and eat some of the mango from the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Archers
+  description: The armed men whom the king commands to stand under the mango-tree
+    and shoot the monkeys.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: rescuer of the troop
+  assigned_to:
+  - fig:1
+  basis: The chief promises to save the monkeys and provides the crossing by using
+    his own back.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: leader and planner
+  assigned_to:
+  - fig:1
+  basis: The monkeys go to him for help, and he reasons out the danger and solution.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: endangered group
+  assigned_to:
+  - fig:2
+  basis: The monkeys are trapped in the tree by archers and fear death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: mango tasters and seekers
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The king and princes taste the mango; the king then seeks the tree.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: threatening hunters
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The king commands archers to shoot the monkeys for food.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: observer and later benefactor
+  assigned_to:
+  - fig:3
+  basis: The king sees the chief save the troop and promises care for him.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: finders and identifiers of the mango
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The fishermen find the fruit, and the foresters identify it and its source.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: mango-tree
+  literal_form: A mango-tree on the bank of a great river.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: great river
+  literal_form: The river beside the mango-tree and between the trees used in the
+    escape.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: mango fruit
+  literal_form: A strange fruit found in nets, identified as a mango, eaten by the
+    king and monkeys.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: living bridge
+  literal_form: The chief's back used as a bridge between branches across the river.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: arrows and archers
+  literal_form: Archers with arrows standing ready under the mango-tree.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fruit discovered downstream
+  summary: Fishermen bring an unfamiliar fruit to the king, and foresters identify
+    it as a mango.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: King reaches the mango-tree
+  summary: The king travels upriver on joined rafts, reaches the mango-tree, gathers
+    fruit with his men, and stays overnight.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Monkeys trapped by archers
+  summary: The monkeys arrive at night to eat mangoes, wake the king, and are threatened
+    by archers ordered to shoot them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Chief devises escape
+  summary: The frightened monkeys appeal to their chief, who promises help and decides
+    to bridge the gap between trees with his own back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Troop crosses over the chief
+  summary: The chief holds a branch across the river, the monkeys cross over his back
+    to another tree, and the king later promises to care for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: self-risking leader saves the community
+  taxonomy_refs:
+  - sacrifice
+  basis: The chief puts his own body between the trees so the whole troop can escape
+    the archers and the dangerous river crossing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: In this retelling the chief is not said to die; the sacrifice is bodily
+    risk and service rather than explicit death.
+- id: motif:2
+  label: wise rescue through practical ingenuity
+  taxonomy_refs:
+  - wisdom
+  basis: The chief assesses the danger of drowning, devises a bridge using his back,
+    and saves the troop.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the act as practical rescue rather than explicit
+    doctrinal teaching.
+- id: motif:3
+  label: fruit carried by water reveals a hidden source
+  taxonomy_refs: []
+  basis: A mango found in fishermen's nets leads the king to ask about its source
+    and travel upriver to the tree.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives this as plot sequence; no broader taxonomy reference
+    is supplied.
+- id: motif:4
+  label: animal community threatened by human hunters
+  taxonomy_refs: []
+  basis: The king orders archers to kill the monkeys for food, causing the troop to
+    seek rescue.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a plain narrative conflict in the passage; broader comparative
+    classification would require external evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 773-783
+  quote_or_summary: A mango-tree grows on a great river bank; fruit falls into the
+    river and onto the ground, and monkeys gather and eat the mangoes at night.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 784-806
+  quote_or_summary: The king sees fishermen draw up a strange fruit in their nets;
+    foresters identify it as a mango, and the king and princes taste it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 807-823
+  quote_or_summary: The foresters tell the king where the mango-tree grows; the king
+    travels upriver on joined rafts, gathers mangoes under the tree, and stays for
+    the night.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 824-833
+  quote_or_summary: The monkeys come at night to eat mangoes and wake the king; he
+    orders archers to shoot them when they come down so that monkey flesh can be eaten
+    with mangoes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 834-842
+  quote_or_summary: The monkeys see the archers, fear death, and ask their chief what
+    to do; the chief tells them not to fear and says he will save them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 843-852
+  quote_or_summary: 'The chief thinks that if the monkeys jump, some will drown, and
+    decides: "I shall make a bridge of my back."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 853-861
+  quote_or_summary: The chief holds the longest branch across the river and tells
+    the monkeys to run along the branch and step on his back; they cross, descend,
+    and return home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 862-865
+  quote_or_summary: The king sees that the big monkey saved the troop and says he
+    will ensure the monkey is cared for for the rest of his life; the king keeps the
+    promise.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and figures are explicit. Motif labels are cautious
+    and limited to patterns directly supported by the passage. No comparison claims
+    are made because the passage itself does not compare this story to other traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The broader line-range label mentions adjacent tales, but the provided passage text is limited to "HOW THE MONKEY SAVED HIS TROOP."
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l773-l865
+  passage_sha256=cbb27a8a5f4fc73d82e16708ae118f96e5b7287578e1321fac5c8283c2b71ab2
+

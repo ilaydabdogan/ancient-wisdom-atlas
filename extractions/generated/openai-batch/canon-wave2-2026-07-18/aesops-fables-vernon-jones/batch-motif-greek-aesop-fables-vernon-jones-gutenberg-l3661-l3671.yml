@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3661-l3671
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LAMB CHASED BY A WOLF / THE ARCHER AND THE LION / THE WOLF AND THE GOAT
+    / THE SICK STAG; lines 3661-3671
+  start: '3661'
+  end: '3671'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sick stag lies helpless in a forest clearing. Other beasts visit him
+    and eat the grass within his reach. Although he begins to recover, he remains
+    too weak to search for food and dies of hunger because his friends have consumed
+    the nearby fodder.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A stag becomes sick and lies in a forest clearing, too weak to move from the
+    spot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Other beasts hear of the stag’s illness and come to inquire after his health.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The visiting beasts each nibble some of the grass growing around the stag
+    until no blade remains within his reach.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stag begins to mend after a few days but is still too weak to get up and
+    look for fodder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stag dies of hunger, attributed in the passage to the thoughtlessness
+    of his friends.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: A sick stag lying in a forest clearing, unable to move and later unable
+    to seek fodder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Other beasts / friends
+  description: Beasts who visit the sick stag, inquire after his health, and eat the
+    grass within his reach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: sick dependent figure
+  assigned_to:
+  - fig:1
+  basis: The stag is ill, immobile, and dependent on nearby fodder.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: thoughtless visitors
+  assigned_to:
+  - fig:2
+  basis: The beasts come as visitors or friends but consume the food available to
+    the stag, leading to his hunger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: nearby grass or fodder
+  literal_form: grass growing around the sick stag; fodder within reach
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: forest clearing
+  literal_form: clearing in the forest where the stag lies sick
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sick stag in the clearing
+  summary: The stag falls ill and lies in a forest clearing, too weak to move.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Visitors consume the reachable grass
+  summary: The other beasts visit the stag and eat the grass around him until none
+    remains within his reach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recovery prevented by hunger
+  summary: The stag starts to recover but is still too weak to search for fodder and
+    dies of hunger after the nearby grass has been eaten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: thoughtless friends cause harm
+  taxonomy_refs: []
+  basis: The visitors are called friends, but their thoughtless consumption of the
+    grass leaves the invalid stag without food and contributes to his death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a causal moral explanation but does not state a separate
+    formal proverb or moral.
+- id: motif:2
+  label: helpless invalid deprived of nearby sustenance
+  taxonomy_refs: []
+  basis: The stag cannot move, depends on grass within reach, and dies after that
+    grass is consumed by others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3661-3663
+  quote_or_summary: A stag falls sick and lies in a forest clearing, too weak to move
+    from the spot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3663-3667
+  quote_or_summary: Other beasts hear of the illness, visit to inquire after his health,
+    and each nibbles the grass around him until none remains within reach.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3667-3671
+  quote_or_summary: The stag begins to mend but remains too weak to seek fodder and
+    dies of hunger because of his friends’ thoughtlessness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. No cross-text comparison
+    claims are made because the passage does not itself supply a comparative reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol directly applies; motif taxonomy references left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3661-l3671
+  passage_sha256=977781e9a511b62f17fe53e105a54ad98686d4c7f1817d58bec63bfcb2e4a7fe
+

@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4729-l4754
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG AND THE LION / THE IMPOSTOR / THE DOGS AND THE HIDES / THE LION,
+    THE FOX, AND THE ASS; lines 4729-4754
+  start: '4729'
+  end: '4754'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two fables are presented. In the first, hungry dogs try to drink down a
+    deep river so they can reach hides steeping in it, but die from drinking before
+    they succeed. In the second, a Lion kills an Ass after the Ass divides hunting
+    booty into equal shares; the Fox then gives almost all the booty to the Lion and
+    says he learned from the Ass, followed by a moral about learning from others'
+    misfortunes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group of famished Dogs see hides steeping in a river but cannot reach them
+    because the water is too deep.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Dogs decide to drink the river until it becomes shallow enough for them
+    to reach the hides.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Dogs burst themselves by drinking before they reach the hides.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Lion, a Fox, and an Ass hunt together and take a large booty.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Lion asks the Ass to divide the booty among them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ass divides the booty into three equal parts and invites the others to
+    choose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lion becomes furious, attacks the Ass, and tears him to pieces.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Lion orders the Fox to make a new division of the booty.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Fox makes one large heap for the Lion and keeps only a very small portion
+    for himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Fox says he learned from the Ass, and the fable closes with a moral praising
+    one who learns from others' misfortunes.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dogs
+  description: A famished group who want hides in a river and attempt to drink down
+    the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lion
+  description: A hunting companion who demands division of the booty, kills the Ass
+    after an equal division, and receives almost all of the second division.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Fox
+  description: A hunting companion who observes the Ass's fate, allocates almost all
+    the booty to the Lion, and says he learned from the Ass.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ass
+  description: A hunting companion who divides the booty equally and is killed by
+    the Lion.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hungry seekers using a fatal stratagem
+  assigned_to:
+  - fig:1
+  basis: The Dogs are famished, seek the hides, decide to drink down the river, and
+    die from drinking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dominant violent claimant
+  assigned_to:
+  - fig:2
+  basis: The Lion demands division, kills the Ass after an equal division, and is
+    given almost the whole booty by the Fox.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: prudent learner
+  assigned_to:
+  - fig:3
+  basis: The Fox adapts his division after the Ass's death and says he took a lesson
+    from the Ass.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: equal divider and victim
+  assigned_to:
+  - fig:4
+  basis: The Ass divides the booty into three equal parts and is then torn to pieces
+    by the Lion.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hunting companion
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The Lion, Fox, and Ass go hunting together and take a large booty.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: deep river water
+  literal_form: river water too deep to cross or reach through
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hides in the river
+  literal_form: Hides steeping in a river
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: hunting booty
+  literal_form: large booty divided into shares
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: three equal parts
+  literal_form: three equal shares of the booty
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dogs at the river
+  summary: Famished Dogs see hides in deep river water, decide to drink the river
+    down, and die from drinking before reaching the hides.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ass's division of the hunt
+  summary: The Lion, Fox, and Ass take booty together; the Ass divides it into three
+    equal parts, and the Lion kills him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fox's revised division and moral
+  summary: The Lion orders the Fox to divide the booty; the Fox gives nearly all to
+    the Lion, keeps a small morsel, and explains that he learned from the Ass. The
+    stated moral commends learning from others' misfortunes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: self-destructive attempt to consume an obstacle
+  taxonomy_refs: []
+  basis: The Dogs try to drink a river down to reach hides and die from excessive
+    drinking before achieving the goal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: Descriptive motif label; no supplied motif-family taxonomy reference directly
+    matches this episode.
+- id: motif:2
+  label: unequal division under threat from a stronger party
+  taxonomy_refs: []
+  basis: After the Lion kills the Ass for an equal division, the Fox assigns almost
+    all the booty to the Lion and keeps only a small portion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Descriptive pattern only; no historical or cross-textual claim is made.
+- id: motif:3
+  label: learning from another's misfortune
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox says he took a lesson from the Ass, and the closing moral explicitly
+    praises learning from others' misfortunes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Taxonomy link is based on the explicit moral and is limited to a wisdom-function
+    reading.
+comparison_claims:
+- id: claim:1
+  claim: 'The Fox''s conduct functions as a wisdom pattern: he avoids the Ass''s fate
+    by interpreting another figure''s punishment and altering his own behavior.'
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Pattern-level comparison only; this does not claim historical contact,
+    common inheritance, or equivalence with a specific external tale.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4729-4733
+  quote_or_summary: In 'THE DOGS AND THE HIDES,' famished Dogs see hides steeping
+    in a river but cannot reach them because the water is too deep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: 4733-4736
+  quote_or_summary: The Dogs decide to drink the river until it is shallow enough
+    to reach the hides, but they burst themselves with drinking before that happens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: 4738-4742
+  quote_or_summary: In 'THE LION, THE FOX, AND THE ASS,' the three animals hunt together,
+    take a large booty, and the Lion asks the Ass to divide it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: 4742-4745
+  quote_or_summary: The Ass divides the booty into three equal parts and invites the
+    others to choose; the Lion becomes furious and tears the Ass to pieces.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: 4745-4748
+  quote_or_summary: The Lion orders the Fox to make a fresh division; the Fox gathers
+    almost all the booty into the Lion's share and leaves himself the smallest possible
+    morsel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:6
+  type: quote
+  locator: 4748-4752
+  quote_or_summary: '"Me? Oh, I took a lesson from the Ass."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: '4754'
+  quote_or_summary: '"Happy is he who learns from the misfortunes of others."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage text. Motif labels are mostly
+    descriptive; the only supplied taxonomy motif-family reference used is 'wisdom,'
+    supported by the explicit moral.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The provided locator label names additional fables, but the passage text supplied for extraction contains only 'THE DOGS AND THE HIDES' and 'THE LION, THE FOX, AND THE ASS'.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4729-l4754
+  passage_sha256=52d79faa911010c711e7c7918b159a4d8fb0166f74a7c973a56e032ed2c0ba20
+

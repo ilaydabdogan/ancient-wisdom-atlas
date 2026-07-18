@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.filipino-folk-tales-cole-gutenberg-l3004-l3024
+source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+passage_locator:
+  label: PREFACE / CONTENTS / TINGUIAN / IGOROT; lines 3004-3024
+  start: '3004'
+  end: '3024'
+  translation: Philippine Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A mother prepares rice, covers it in a basket, and leaves for the spring.
+    Her daughter stays behind, reaches for the rice, falls into the covered basket,
+    and is hidden. When the mother returns, she hears a bird cry from the basket;
+    after she uncovers it, a little brown rice bird flies away and calls back that
+    the mother would not give it rice to eat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman finishes pounding rice, winnows it repeatedly, puts it into a basket,
+    and covers the basket with the winnower.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman takes a jar on her head and goes to the spring to get water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The little girl normally likes going to the spring with her mother to play
+    in the cool water while jars are filled, but this time she does not go.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the woman is out of sight, the little girl runs to the basket of rice
+    and reaches down to take a handful of grain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cover slips, the little girl falls, and she is covered up in the basket.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the mother returns, she hears a bird crying from what seems to be the
+    basket.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The mother removes the cover, and a little brown rice bird hops out, flies
+    away, and calls back to the mother.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The bird says goodbye to Mother and says that Mother would not give it rice
+    to eat.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: woman / mother
+  description: A woman who prepares rice, goes to the spring for water, and returns
+    to uncover the basket after hearing a bird.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: little girl
+  description: A little girl fond of going to the spring with her mother; she stays
+    behind, reaches into the rice basket, falls, and is covered in it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: little brown rice bird
+  description: A little brown rice bird that hops out of the basket, flies away, and
+    calls back to the mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: mother and household worker
+  assigned_to:
+  - fig:1
+  basis: She prepares rice, goes for water, and is addressed as Mother by the departing
+    bird.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: child seeking rice
+  assigned_to:
+  - fig:2
+  basis: The little girl runs to the rice basket and reaches for a handful of grain.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: speaking departing bird
+  assigned_to:
+  - fig:3
+  basis: The little brown rice bird flies away and speaks back to the mother.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: covered rice basket
+  literal_form: A basket containing rice, covered with a winnower; the girl is covered
+    up in it and the bird later emerges from it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: rice
+  literal_form: Pounded and winnowed rice placed in a basket; the girl reaches for
+    it and the bird says Mother would not give rice to eat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: spring water
+  literal_form: The spring and cool water where the mother goes to fill jars and where
+    the child usually plays.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: little brown rice bird
+  literal_form: A small brown rice bird that cries, emerges from the basket, flies
+    away, and speaks.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rice preparation and departure for water
+  summary: The woman pounds and winnows rice, covers it in a basket, then leaves with
+    a jar to fetch water from the spring.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Child reaches into the covered rice basket
+  summary: The little girl stays behind, runs to the basket, reaches for rice, falls,
+    and becomes covered in the basket.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bird emerges and speaks goodbye
+  summary: The mother returns, hears a bird cry from the basket, removes the cover,
+    and sees a little brown rice bird fly away while saying goodbye and complaining
+    that it was not given rice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: child-to-bird transformation or substitution
+  taxonomy_refs:
+  - shapeshifter
+  basis: The little girl falls into the covered rice basket; later a little brown
+    rice bird emerges from the same basket and addresses the mother as Mother.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state that the girl transforms; the motif
+    is inferred from the sequence and the bird's speech.
+- id: motif:2
+  label: departing child as speaking bird
+  taxonomy_refs:
+  - departure
+  basis: The bird flies away from the mother and says goodbye, adding that the mother
+    would not give it rice to eat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The identity of the bird with the child is implied rather than directly
+    stated in the passage.
+- id: motif:3
+  label: animal cry explained through human speech
+  taxonomy_refs: []
+  basis: The mother first hears a bird cry, and the bird later calls back intelligible
+    words about leaving and being denied rice.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage provides an animal cry and speech, but does not explicitly
+    frame the episode as an origin or etiology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3004-3008
+  quote_or_summary: The woman finishes pounding rice, winnows it, empties it into
+    a basket, and covers it with the winnower.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3008-3009
+  quote_or_summary: The woman takes a jar on her head and starts for the spring to
+    get water.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3011-3015
+  quote_or_summary: The little girl usually likes going to the spring with her mother
+    to play in cool water while jars are filled, but this time she stays behind.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3015-3018
+  quote_or_summary: After the woman is out of sight, the little girl runs to the rice
+    basket, reaches for a handful of grain, the cover slips, and she falls and is
+    covered in the basket.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: quote
+  locator: lines 3020-3022
+  quote_or_summary: The mother hears a bird crying, “King, king, nik! nik! nik!” and
+    the sound seems to come from the basket.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; short quote used for exact bird cry.
+- id: ev:6
+  type: summary
+  locator: lines 3022-3024
+  quote_or_summary: The mother removes the cover; a little brown rice bird hops out
+    and flies away.
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:7
+  type: quote
+  locator: lines 3024-3024
+  quote_or_summary: "“Goodbye, Mother; goodbye, Mother. You would not give me any
+    rice to eat.”"
+  source_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  rights_note: Public domain source; short quote used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif candidates involving
+    transformation are cautious because the text implies rather than explicitly names
+    a transformation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison claims omitted because the passage does not itself support an external comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:filipino-folk-tales-cole-gutenberg__l3004-l3024
+  passage_sha256=7aae771213eb4df345c625e58aa282bd6002bd879161a1b51fce46fe1d580fef
+

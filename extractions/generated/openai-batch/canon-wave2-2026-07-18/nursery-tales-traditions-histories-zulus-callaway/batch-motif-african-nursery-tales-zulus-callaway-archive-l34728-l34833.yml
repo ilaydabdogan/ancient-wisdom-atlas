@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l34728-l34833
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: I2ISGANEKWANE. / THE  WISE  SON  OF  THE  KING. / IZINCANEKWANE. / TI1E  WISE  SON  OF  THE  KING.;
+    lines 34728-34833
+  start: '34728'
+  end: '34833'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“I thought I was pregnant with a beast; and forsooth I have given birth
+    to a human being.”"
+  summary: A father says the pregnant child carries a beast and orders that she give
+    birth far from home, even if she dies there. The child leaves weeping, wanders
+    while pregnant, reaches another village, and gives birth to a human boy. Her people
+    find her after being sent to seek her death-place or bones; she tells them she
+    has become a mother and has borne her own boy.
+  language: English with Zulu parallel text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says there is a beast inside the pregnant child and directs that
+    it be born far away from the home, even if the child dies there.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child weeps when leaving home, and all the maidens also weep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The pregnant child leaves her father's village and wanders without knowing
+    where to go.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: She reaches another village, not her father's, and gives birth among another
+    people.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the birth, she says she had thought she was pregnant with a beast, but
+    has given birth to a human being.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Her people or friends come seeking her after the birth and say her father
+    sent them to look for where she had died, even if only her bones remained.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: She tells the seekers that she has become a mother and has given birth to
+    her own boy, then begins to propose going home.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: pregnant child / daughter
+  description: A child who is pregnant, leaves her father's village, wanders, and
+    gives birth to a human boy in another village.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: father of the pregnant child
+  description: The father is reported as saying the unborn child is a beast and later
+    sending people to seek where his daughter had died or to find her bones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: maidens
+  description: The maidens weep when the pregnant child leaves home and ask where
+    she will go.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: friends or people from her home
+  description: People seeking the pregnant child find her after she has given birth
+    and report that her father sent them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: newborn boy
+  description: The child born in the other village; the mother describes him as a
+    human being and her own boy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: exiled pregnant daughter and new mother
+  assigned_to:
+  - fig:1
+  basis: She is ordered to give birth away from home, leaves and wanders while pregnant,
+    and later says she has become a mother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: rejecting father and sender of searchers
+  assigned_to:
+  - fig:2
+  basis: He calls the unborn child a beast, wants the birth away from home, and sends
+    others to seek her presumed remains.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: mourning attendants or maidens
+  assigned_to:
+  - fig:3
+  basis: They weep when the child leaves and ask where she will go.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: seekers from home
+  assigned_to:
+  - fig:4
+  basis: They arrive looking for her after being sent by her father.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: unexpected human child
+  assigned_to:
+  - fig:5
+  basis: The mother contrasts the expected beast with the human boy she has borne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: beast in the womb
+  literal_form: A beast said to be inside the pregnant child before birth.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: bones of the presumed dead daughter
+  literal_form: Bones imagined as what the searchers might find if the child had died.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: birth in another village
+  literal_form: Another village, not belonging to her father, where she gives birth
+    among another people.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Father orders distant birth
+  summary: A speaker identifies the pregnancy as containing a beast and insists the
+    child should give birth far away from the home, even if she dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weeping departure and wandering
+  summary: The pregnant child leaves home while she and the maidens weep; she wanders
+    away from her father's village without knowing where to go.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Birth in another village
+  summary: She arrives in a village not her father's and gives birth among another
+    people, then says the expected beast is instead a human being.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Searchers find the mother and child
+  summary: People from her home find her after the birth and report that her father
+    sent them to seek her death-place or bones; she says she has borne her own boy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: pregnant daughter expelled to give birth away from home
+  taxonomy_refs:
+  - departure
+  basis: The father says the child should go far from home to give birth, and she
+    leaves her father's village and wanders while pregnant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives an enforced departure rather than a voluntary heroic
+    departure.
+- id: motif:2
+  label: feared monstrous pregnancy resolved by human birth
+  taxonomy_refs:
+  - miraculous_child
+  basis: The unborn child is called a beast before birth, but the mother later says
+    she has given birth to a human being, her own boy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state a supernatural conception or miraculous
+    powers; the motif assignment rests on the contrast between expected beast and
+    human child.
+- id: motif:3
+  label: search for an exile presumed dead
+  taxonomy_refs: []
+  basis: Searchers arrive after being sent to look for the place where she died or
+    for her bones, but find her alive with a child.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The broader resolution is not included in the excerpt.
+- id: motif:4
+  label: incipient return after exile
+  taxonomy_refs:
+  - return
+  basis: After being found alive with her boy, she begins to say, “Let us go home.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage breaks off before an actual return is narrated.
+comparison_claims:
+- id: claim:1
+  claim: The excerpt includes an editorial cross-reference inviting comparison with
+    material on Ukcombekcansini, p. 116.
+  claim_level: same_motif
+  target: Ukcombekcansini, p. 116
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The footnote is fragmentary in the supplied passage and does not state
+    which specific element is being compared.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34728-34746
+  quote_or_summary: A speaker says there is a beast inside the child and that it should
+    go away and be born far from the home, even if she dies without the speaker seeing
+    the beast born.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 34747-34757
+  quote_or_summary: The child weeps, and the maidens weep when she leaves, asking
+    where the child of their father will go.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 34758-34772
+  quote_or_summary: She leaves her home and father's village, does not know where
+    to go, and wanders greatly while pregnant.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: lines 34773-34800
+  quote_or_summary: She comes to another village and gives birth among another people;
+    she says, “I thought I was pregnant with a beast; and forsooth I have given birth
+    to a human being.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief quotation from public-domain text.
+- id: ev:5
+  type: summary
+  locator: lines 34800-34830
+  quote_or_summary: Her friends or people from home find her; they say her father
+    sent them to seek where she died, even if only her bones remained. She says she
+    has become a mother and has given birth to her own boy, then begins, “Let us go
+    home.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary with brief quotation.
+- id: ev:6
+  type: citation
+  locator: lines 34820-34833, footnote 88
+  quote_or_summary: 'Footnote fragment: “Comp. what is said by the ... of Ukcombekcansini,
+    p. 116.”'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief citation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English translation is clear enough for passage-level extraction, but
+    the supplied text includes OCR irregularities, bilingual line breaks, an incomplete
+    footnote, and a page break after the phrase beginning “Let us go home.”
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because none of the available symbol terms are directly present in the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l34728-l34833
+  passage_sha256=4e010045d17827437e1ba50cac8f2c9faca807352cfe8e9e24138afe356e8e75
+

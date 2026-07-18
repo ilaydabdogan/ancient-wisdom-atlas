@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l23392-l23405
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: NEBUCHADREZZAR  361 / NEBUCHADREZZAR  363 / IN  THE  LEBANON  365 / CAMPAIGN  AGAINST  EGYPT  367;
+    lines 23392-23405
+  start: '23392'
+  end: '23405'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The transliterated passage names Nabium-kudurri-usur as king of Babylon,
+    associated with E-sagila and E-zida, and son of Nabium-aplu-usur, king of Babylon.
+    In first person, the speaker describes measures concerning E-sagila and Babylon,
+    including fortification or wall works, reaching water, work on a quay or embankment,
+    and building a strong structure with bitumen and brick, with foundations set deep
+    below.
+  language: Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names Nabium-kudurri-usur and identifies him with kingship over
+    Babylon.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage associates Nabium-kudurri-usur with E-sagila and E-zida.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies Nabium-kudurri-usur as the son of Nabium-aplu-usur,
+    who is also called king of Babylon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker uses first-person language and refers to work or measures concerning
+    E-sagila and Babylon.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage mentions a strong wall or fortification associated with Babylon.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The passage mentions reaching water during the described works.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage mentions a quay, bank, or embankment associated with the works.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes a strong wall or structure compared with a mountain
+    in the transliterated phrase using 'ki-ma sa-tu-um'.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says the structure was built with bitumen and brick.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage describes setting the work deep, in or toward the lower earth,
+    using the phrase 'i-ra-at ki-gal-lim'.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nabium-kudurri-usur
+  description: Named figure identified as king of Babylon, associated with E-sagila
+    and E-zida, and speaking in first person in the inscription.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Nabium-aplu-usur
+  description: Named figure identified as father of Nabium-kudurri-usur and king of
+    Babylon.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: king of Babylon
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both named figures are linked with 'sar' and Babylon in the transliteration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: first-person royal speaker
+  assigned_to:
+  - fig:1
+  basis: After the titulary, the passage includes 'a-na-ku' and first-person construction
+    claims.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:3
+  label: associated with E-sagila and E-zida
+  assigned_to:
+  - fig:1
+  basis: The titulary places E-sagila and E-zida immediately after the named king.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: builder or fortification sponsor
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker describes building or completing strong walls/structures
+    with bitumen and brick.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:5
+  label: royal father or predecessor
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Nabium-aplu-usur as the father of Nabium-kudurri-usur
+    and as king of Babylon.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: E-sagila and E-zida
+  literal_form: Named temple complexes or cultic buildings in the titulary.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Babylon
+  literal_form: Named city repeatedly associated with the kingship and the construction
+    works.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: The transliterated word 'mi-e' appears in the statement about reaching
+    water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mountain comparison
+  literal_form: The strong wall or structure is described with the phrase 'ki-ma sa-tu-um',
+    literally a comparison using 'like' and a mountain term in the transliteration.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: bitumen and brick
+  literal_form: Construction materials named as 'kupri u agurri'.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: deep foundation or lower earth
+  literal_form: The work is set in the 'i-ra-at ki-gal-lim' phrase at the end of the
+    passage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal titulary and lineage
+  summary: The passage names Nabium-kudurri-usur as king of Babylon, links him with
+    E-sagila and E-zida, and identifies him as son of Nabium-aplu-usur, king of Babylon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fortification and deep construction at Babylon
+  summary: 'The first-person speaker describes protective or construction work connected
+    with Babylon: a strong wall or structure, reaching water, work on a quay or embankment,
+    construction with bitumen and brick, and deep setting of the foundation.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Royal legitimacy through titulary, lineage, and temple association
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage combines royal naming, kingship over Babylon, association with
+    major temples, and filiation from another king of Babylon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is transliterated and lacks an accompanying English translation
+    here; the motif identification rests on visible names, titles, and formulaic royal-inscription
+    features.
+- id: motif:2
+  label: Royal builder of city defenses
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The first-person royal speaker presents construction or fortification work
+    at Babylon, including a strong wall or structure and building materials.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The exact technical details are uncertain because the supplied passage
+    is transliteration rather than a translated prose text.
+- id: motif:3
+  label: Deep-founded construction reaching water
+  taxonomy_refs: []
+  basis: The passage mentions reaching water and setting the work deep in or toward
+    the lower earth.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: low
+  cautions: The cosmological or symbolic force of the deep foundation is not explicit
+    in the supplied passage.
+- id: motif:4
+  label: Fortification compared to a mountain
+  taxonomy_refs: []
+  basis: The passage describes a strong wall or structure using the comparison phrase
+    'ki-ma sa-tu-um'.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only the simile is visible; no broader cosmic-mountain motif is explicit
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports cautious comparison with a royal-legitimacy pattern
+    in which a king asserts authority through titulary, ancestry, temple association,
+    and monumental building.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not make an explicit cross-textual comparison;
+    this claim is limited to functional similarity within royal-inscription motifs.
+evidence:
+- id: ev:1
+  type: quote
+  locator: internal lines 1-5; source lines 23392-23394
+  quote_or_summary: "'(flu) Na-bi-um-ku-dur-ri-u-su-ur ... sar (alu) Ba-bi-il(ki)
+    ... za-ni-in E-sag-ila u E-zi-da' names Nabium-kudurri-usur, king of Babylon,
+    with E-sagila and E-zida."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: internal lines 4-6; source lines 23394-23396
+  quote_or_summary: "'apal (ilu) Na-bi-um-aplu-u-su-ur sar (alu) Ba-bi-lam(ki) a-na-ku'
+    identifies the speaker as son of Nabium-aplu-usur, king of Babylon, and includes
+    first-person 'I'."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: internal lines 6-11; source lines 23396-23399
+  quote_or_summary: The passage refers to E-sagila, Babylon, and measures involving
+    a wall or fortification of Babylon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: internal lines 14-17; source lines 23399-23400
+  quote_or_summary: "'in ka-ma-at (alu) Ba-bi-lam(ki) dura dannu ... (alu) Ba-bi-lam(ki)'
+    refers to a strong wall or fortification in connection with Babylon."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: internal lines 18-21; source lines 23400-23402
+  quote_or_summary: "'Su-pu-ul mi-e ak-su-ud ... ka-a-ri a-bi-im ik-zu-ur-ru' mentions
+    reaching water and a quay, bank, or embankment in the construction sequence."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: internal lines 22-23; source lines 23402-23403
+  quote_or_summary: "'dura danna Sa ki-ma sa-tu-um la ut-ta-as-su' describes a strong
+    wall or structure with a mountain comparison."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: internal lines 24-28; source lines 23403-23404
+  quote_or_summary: "'ina kupri u agurri ab-ni-ma ... e-se-ni-ik-ma' states that the
+    structure was built with bitumen and brick and joined or completed with the earlier
+    quay/bank."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: quote
+  locator: internal lines 29-30; source lines 23404-23405
+  quote_or_summary: "'i-Si-su in i-ra-at ki-gal-lim ... u-Sa-ar-si-id-ma' describes
+    setting the foundation deep, in or toward the lower earth."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Names, places, construction materials, and repeated Babylon references are
+    clear in the transliteration. Technical translations and symbolic readings are
+    provisional because no English translation of the passage is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external texts or comparisons were used beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l23392-l23405
+  passage_sha256=a062bae1ff67f7be774712a04f9258c1db8ab1a1d10d81cf53f6856603dec60b
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5320-l5341
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: PROMETHEUS AND THE MAKING OF MAN / THE SWALLOW AND THE CROW / THE HUNTER
+    AND THE HORSEMAN / THE GOATHERD AND THE WILD GOATS; lines 5320-5341
+  start: '5320'
+  end: '5341'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A goatherd shelters wild goats with his own flock, feeds the wild goats
+    better in hopes of keeping them, and then loses them when they return to pasture.
+    When he accuses them of ingratitude, one wild goat says the preferential treatment
+    made them suspect they would later be neglected for newer arrivals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A goatherd tending goats at pasture sees wild goats approach and mingle with
+    his flock.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goatherd drives both his own goats and the wild goats home and places
+    them together in a pen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Because of bad weather, the goatherd keeps all the goats in the pen and feeds
+    them there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goatherd gives his own goats only enough food to avoid starvation, while
+    giving the wild goats abundant food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The goatherd favors the wild goats because he wants them to stay with him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the weather improves and the goats go near the hills, the wild goats
+    break away and run off.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The goatherd accuses the wild goats of ingratitude for leaving after his treatment
+    of them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One wild goat replies that the goatherd's excessive favor toward newcomers
+    made them wary of later neglect.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Goatherd
+  description: A herder tending his goats who shelters wild goats and feeds them preferentially
+    to make them stay.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Goatherd's own goats
+  description: The goatherd's existing flock, fed only enough to keep them from starving
+    while the wild goats receive abundant food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Wild Goats
+  description: Wild goats that join the flock, receive abundant food in the pen, then
+    run away when taken back near the hills.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: One wild goat speaker
+  description: A member of the wild goats who answers the goatherd and explains why
+    the group distrusted his preferential treatment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Herder seeking to retain newcomers
+  assigned_to:
+  - fig:1
+  basis: He tends goats, pens the wild goats with his flock, and feeds them well because
+    he wants them to stay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Neglected original flock
+  assigned_to:
+  - fig:2
+  basis: They receive only enough food to keep from starving while newcomers receive
+    more.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Favored newcomers who depart
+  assigned_to:
+  - fig:3
+  basis: They are fed more than the original flock but break away once near the hills.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Prudent critic
+  assigned_to:
+  - fig:4
+  basis: The speaker interprets excessive favor toward newcomers as a warning of future
+    neglect.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pen
+  literal_form: goat pen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Hills
+  literal_form: hills near the pasture
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Unequal food portions
+  literal_form: minimal food for the goatherd's own goats and abundant food for the
+    wild goats
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wild goats join the flock
+  summary: While tending his goats at pasture, the goatherd sees wild goats approach,
+    mingle with the flock, and later brings all of them into the same pen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bad-weather feeding in the pen
+  summary: Bad weather keeps the goats inside; the goatherd feeds his own goats minimally
+    and feeds the wild goats abundantly to encourage them to remain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wild goats flee near the hills
+  summary: After the weather improves, the goatherd takes all the goats out, and the
+    wild goats run away when they reach the hills.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Accusation and reply
+  summary: The goatherd rebukes the wild goats for ingratitude, and one wild goat
+    explains that the earlier favoritism made them expect future neglect if still
+    newer goats arrived.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Newcomers judge loyalty by treatment of existing dependents
+  taxonomy_refs:
+  - wisdom
+  basis: The wild goat's reply treats the goatherd's neglect of his own flock as evidence
+    that the currently favored newcomers may later be neglected too.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents practical reasoning
+    rather than an explicitly named wisdom tradition.
+- id: motif:2
+  label: Favoring strangers over one's own leads to loss of both trust and advantage
+  taxonomy_refs:
+  - wisdom
+  basis: The goatherd favors the wild goats over his own flock to keep them, but the
+    wild goats leave because that favoritism makes them distrust him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: Motif label is inferred from the fable's action and speech; no separate
+    moral sentence is included in the supplied passage.
+- id: motif:3
+  label: Accused ingratitude answered by prudent self-protection
+  taxonomy_refs:
+  - wisdom
+  basis: The goatherd accuses the wild goats of ingratitude, while the wild goat speaker
+    frames their departure as caution prompted by his behavior.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports the contrast between accusation and reply, but the
+    broader motif wording is interpretive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5320-5324
+  quote_or_summary: A goatherd tending his goats sees wild goats approach, mingle
+    with his flock, and later drives all goats into one pen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5324-5331
+  quote_or_summary: Bad weather keeps the goats in the pen; the goatherd gives his
+    own goats minimal food but gives the wild goats abundant food because he wants
+    them to stay.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5331-5334
+  quote_or_summary: When taken back to pasture near the hills, the wild goats break
+    away from the flock and run off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5334-5337
+  quote_or_summary: '"Rascals!" he cried, "to run away like that after the way I''ve
+    treated you!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 5337-5341
+  quote_or_summary: One wild goat says the goatherd treated them too well, and that
+    if he favors newcomers over his own flock, he may later neglect them for newer
+    arrivals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is straightforward for figures, actions, and scenes. Motif labels
+    are based on the fable's internal action and speech. No comparison claims are
+    made because the supplied passage does not itself support a comparison to another
+    corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Goatherd and Wild Goats passage was used; no external Aesop morals or comparative traditions were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5320-l5341
+  passage_sha256=a885dc05ccb266ed28f8f3f446c302390597401bdb8f0c9f84f5e2f30aa7cbd9
+

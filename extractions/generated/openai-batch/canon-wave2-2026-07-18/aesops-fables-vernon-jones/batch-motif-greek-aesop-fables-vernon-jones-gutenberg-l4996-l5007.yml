@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4996-l5007
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE HEDGEHOG / THE CROW AND THE RAVEN / THE WITCH / THE OLD MAN
+    AND DEATH; lines 4996-5007
+  start: '4996'
+  end: '5007'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An old man carrying a bundle of faggots grows exhausted, calls on Death
+    to release him from toil, is frightened when Death appears, and instead asks Death
+    to help lift his burden again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man cuts a bundle of faggots in a wood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man starts carrying the bundle home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The journey home is long, and the old man becomes tired before he is much
+    more than halfway.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man casts his burden on the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old man calls on Death to come and release him from his life of toil.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Death appears before the old man almost immediately after the call.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Death states readiness to serve the old man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The old man is dismayed and frightened, but asks Death to help him lift his
+    burden again.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old Man
+  description: A weary man carrying faggots home; he calls on Death, then asks for
+    help lifting his burden.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Death
+  description: A personified Death who appears after being called and professes readiness
+    to serve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: weary laborer
+  assigned_to:
+  - fig:1
+  basis: He cuts and carries faggots, has a long way to go, and becomes tired.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: caller of Death
+  assigned_to:
+  - fig:1
+  basis: He calls upon Death to release him from his life of toil.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: summoned personification
+  assigned_to:
+  - fig:2
+  basis: Death stands before the old man and offers service after being called.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bundle or burden
+  literal_form: bundle of faggots carried by the old man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Death
+  literal_form: personified Death who appears before the old man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wood
+  literal_form: wood where the old man cuts faggots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Labor and exhaustion on the road home
+  summary: The old man cuts faggots in a wood, carries them home, grows tired on the
+    long journey, and drops the burden.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Calling Death and changing the request
+  summary: The old man calls Death to release him from toil; Death appears ready to
+    serve, and the frightened old man asks only for help lifting the burden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: weariness prompts a call for Death
+  taxonomy_refs: []
+  basis: The old man, exhausted by carrying his burden, calls on Death to release
+    him from toil.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Descriptive motif only; no supplied taxonomy reference is directly assigned.
+- id: motif:2
+  label: summoned Death appears
+  taxonomy_refs: []
+  basis: Death appears before the caller shortly after being invoked and offers service.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents Death as an acting figure but gives no further cosmology
+    or afterlife details.
+- id: motif:3
+  label: death-wish withdrawn when Death arrives
+  taxonomy_refs: []
+  basis: After Death appears, the old man is frightened and changes his request to
+    help with the burden.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The reversal is inferred from the sequence of the death request followed
+    by the mundane request.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4996-4998
+  quote_or_summary: The old man cuts a bundle of faggots in a wood and starts to carry
+    them home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4998-5002
+  quote_or_summary: He has a long way to go, becomes exhausted before much more than
+    halfway, drops the burden, and calls on Death to release him from toil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5002-5005
+  quote_or_summary: Death appears before him soon after the words are spoken and declares
+    readiness to serve him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5005-5007
+  quote_or_summary: '"Good sir, if you''d be so kind, pray help me up with my burden
+    again."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. No comparison claims are
+    made because the passage itself does not explicitly support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy refs were not applied because the passage does not directly support a specific supplied taxonomy family or symbol beyond literal descriptive forms.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4996-l5007
+  passage_sha256=3c3ade961bb7a0c52553d55d742a60c21e055f1150f1d79ba78e76c508f55e0c
+

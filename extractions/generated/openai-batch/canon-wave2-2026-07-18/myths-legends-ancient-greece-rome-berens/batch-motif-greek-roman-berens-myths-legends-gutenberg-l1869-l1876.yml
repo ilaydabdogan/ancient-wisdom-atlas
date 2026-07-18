@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l1869-l1876
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PALLAS-ATHENE (MINERVA). / MINERVA. / THEMIS. / VESTA.; lines 1869-1876
+  start: '1869'
+  end: '1876'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Eresicthon, son of Triopas, angers Demeter by cutting down her sacred groves.
+    Demeter punishes him with constant hunger, leading him to sell his possessions
+    and devour his own limbs. His daughter Metra, able to transform into different
+    animals, supports him by being sold repeatedly in different forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eresicthon is identified as the son of Triopas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eresicthon draws Demeter's anger by cutting down her sacred groves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Demeter punishes Eresicthon with constant and insatiable hunger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Eresicthon sells all his possessions to satisfy his cravings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eresicthon is finally forced to devour his own limbs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Metra is Eresicthon's daughter and is described as devotedly attached to him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Metra possesses the power to transform herself into many different animals.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Metra supports her father by being sold repeatedly after assuming different
+    forms.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eresicthon
+  description: Son of Triopas; he angers Demeter by cutting down her sacred groves
+    and is punished with insatiable hunger.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Demeter
+  description: The goddess whose sacred groves are cut down and who punishes Eresicthon
+    with hunger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Metra
+  description: Daughter of Eresicthon; devoted to him, able to transform into different
+    animals, and repeatedly sold to support him.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Triopas
+  description: Named as the father of Eresicthon.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: offender against sacred groves
+  assigned_to:
+  - fig:1
+  basis: Eresicthon cuts down Demeter's sacred groves and thereby draws her anger.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divinely punished sufferer
+  assigned_to:
+  - fig:1
+  basis: Demeter punishes Eresicthon with constant and insatiable hunger.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: punishing goddess
+  assigned_to:
+  - fig:2
+  basis: Demeter is angered by the destruction of her groves and punishes Eresicthon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: devoted daughter
+  assigned_to:
+  - fig:3
+  basis: Metra is described as Eresicthon's daughter and devotedly attached to him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: seller seeking to satisfy hunger
+  assigned_to:
+  - fig:1
+  basis: Eresicthon sells possessions and repeatedly sells Metra in her changed forms.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: shapeshifting supporter
+  assigned_to:
+  - fig:3
+  basis: Metra transforms into different animals and uses this ability to support
+    her father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: named parent
+  assigned_to:
+  - fig:4
+  basis: Triopas is named as Eresicthon's father.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sacred groves
+  literal_form: Demeter's sacred groves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: animal forms
+  literal_form: a variety of different animals
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: devoured limbs
+  literal_form: Eresicthon's own limbs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cutting of Demeter's sacred groves
+  summary: Eresicthon, son of Triopas, cuts down Demeter's sacred groves and draws
+    the goddess's anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Punishment by insatiable hunger
+  summary: Demeter punishes Eresicthon with constant hunger; he sells his possessions
+    and eventually devours his own limbs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Metra's transformations and repeated sale
+  summary: Metra uses her ability to transform into different animals to support her
+    father, who sells her repeatedly after each new form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Violation of a deity's sacred grove
+  taxonomy_refs: []
+  basis: Eresicthon cuts down Demeter's sacred groves, provoking the goddess's anger.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy does not include a specific sacred-grove-violation
+    motif; no broader axis or world-center claim is made.
+- id: motif:2
+  label: Divine punishment through insatiable hunger
+  taxonomy_refs:
+  - divine_judgment
+  basis: Demeter punishes Eresicthon for cutting her groves by afflicting him with
+    constant and insatiable hunger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the punishment directly but does not elaborate a
+    formal trial or judgment scene.
+- id: motif:3
+  label: Self-devouring under compulsion of hunger
+  taxonomy_refs: []
+  basis: Eresicthon's cravings lead him to devour his own limbs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-specific motif candidate without a supplied taxonomy
+    reference.
+- id: motif:4
+  label: Shapeshifting daughter repeatedly sold as support
+  taxonomy_refs:
+  - shapeshifter
+  basis: Metra can transform into different animals and is sold again and again after
+    assuming new forms to support her father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states transformation into animals but does not name the individual
+    animal forms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1869-1871
+  quote_or_summary: Eresicthon, son of Triopas, angers Demeter by cutting down her
+    sacred groves.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1870-1872
+  quote_or_summary: Demeter punishes Eresicthon with constant and insatiable hunger.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1871-1873
+  quote_or_summary: Eresicthon sells his possessions to satisfy his cravings and is
+    finally forced to devour his own limbs.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1873-1875
+  quote_or_summary: Metra, Eresicthon's devoted daughter, has the power to transform
+    herself into many different animals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1875-1876
+  quote_or_summary: Metra supports her father by being sold repeatedly each time she
+    assumes a different form.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims are
+    made because the passage itself does not compare this episode with another tradition
+    or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied public-domain passage and supplied taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l1869-l1876
+  passage_sha256=47e71773519f13a39622260b360d4d9832fb3ad5edff46069a7299df3ce06c1e
+

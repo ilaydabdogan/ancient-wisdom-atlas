@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l12352-l12407
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE    BOOK    OF    AM-TUAT / J       AAAAAA    AAAAAA / D    ; / I      D;
+    lines 12352-12407
+  start: '12352'
+  end: '12407'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"He who is in this picture standeth up for Ra,"'
+  summary: 'The passage describes figures in pictures of the Tuat: one figure stands
+    up for Ra and remains in place; a huge winged serpent with human legs stands beside
+    a disk-bearing god identified as Aper-hni-neb-tchetta; when this god cries out,
+    the form or image of Tem proceeds from the figure''s back and then swallows itself
+    or disappears. The next item begins with a serpent and a mummied god, but the
+    description is truncated.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure in a picture is said to stand up for Ra and never depart from his
+    place in the Tuat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A huge serpent is described as having two pairs of human feet and legs and
+    a pair of large wings.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A god stands by the serpent with a disk upon his head and an utchat on each
+    side of his head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The disk-bearing god stretches his hands out at right angles to his body,
+    and each hand touches the end of one of the serpent's wings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text identifies the god as Aper-hni-neb-tchetta.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When this god cries out to the figure in the picture, the form or image of
+    the god Tem proceeds from the figure's back.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After proceeding from the figure's back, the form or image swallows itself,
+    explained in the passage as disappearing.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The next numbered item begins to describe a serpent with a mummied god seated
+    on him, but the supplied passage breaks off before completing the description.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Figure who stands up for Ra
+  description: A figure in a picture who stands up for Ra and never departs from his
+    place in the Tuat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Huge winged serpent
+  description: A huge serpent with two pairs of human feet and legs and a pair of
+    large wings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Aper-hni-neb-tchetta
+  description: A god beside the serpent, wearing a disk and flanked by utchats, with
+    his hands touching the serpent's wings; the passage names him Aper-hni-neb-tchetta.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Form or image of Tem
+  description: The form or image of the god Tem, which proceeds from a figure's back
+    and then swallows itself or disappears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Mummied god
+  description: A mummied god mentioned as seated on a serpent in the truncated next
+    item.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Serpent of truncated next item
+  description: A serpent mentioned in the beginning of the next item, with a mummied
+    god seated on him; the description is incomplete in the supplied passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Stationary supporter of Ra in the Tuat
+  assigned_to:
+  - fig:1
+  basis: The figure stands up for Ra and never departs from his place in the Tuat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Winged serpent figure
+  assigned_to:
+  - fig:2
+  basis: The figure is explicitly described as a huge serpent with human legs and
+    wings.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Crying god associated with the serpent's wings
+  assigned_to:
+  - fig:3
+  basis: The god touches the serpent's wings and, when he cries out, causes the form
+    or image of Tem to proceed from the figure's back.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: Emergent and self-swallowing divine form
+  assigned_to:
+  - fig:4
+  basis: The form or image of Tem proceeds from the back and afterwards swallows itself
+    or disappears.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Mummied seated figure
+  assigned_to:
+  - fig:5
+  basis: The truncated next item states that a mummied god is seated on a serpent.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Serpent bearing a mummied god
+  assigned_to:
+  - fig:6
+  basis: The truncated next item begins with a serpent associated with a seated mummied
+    god.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Serpent
+  literal_form: Huge serpent with human feet, legs, and wings; another serpent appears
+    in the truncated next item.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Wings
+  literal_form: Pair of large wings on the serpent; the god's hands touch the ends
+    of the wings.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Disk
+  literal_form: Disk upon the god's head.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Utchat eyes
+  literal_form: An utchat on each side of the god's head.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Tuat
+  literal_form: The place where the figure remains and never departs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: Mummied body-form
+  literal_form: A mummied god seated on a serpent in the truncated next item.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Figure standing for Ra in the Tuat
+  summary: A figure in a picture stands up for Ra and remains fixed in his place in
+    the Tuat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aper-hni-neb-tchetta beside the winged serpent
+  summary: A huge winged serpent with human legs is accompanied by a disk-bearing
+    god with utchats, whose hands touch the ends of the serpent's wings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cry and appearance of Tem's form
+  summary: When the god cries out to the figure in the picture, Tem's form or image
+    proceeds from the figure's back and then swallows itself or disappears.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Truncated serpent and mummied god item
+  summary: The next item begins with a serpent and a seated mummied god, but the description
+    is incomplete in the supplied passage.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mapped afterlife figures in the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes numbered picture-figures located in the Tuat, including
+    one who remains in his place there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is a descriptive catalogue fragment and does not narrate a
+    full journey in this passage.
+- id: motif:2
+  label: Serpent as composite underworld figure
+  taxonomy_refs:
+  - serpent
+  basis: A huge serpent is described with human legs and wings, and another serpent
+    begins the next item.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage gives literal iconographic description but does not explain
+    the serpent's wider function.
+- id: motif:3
+  label: Emergence and disappearance of a divine form
+  taxonomy_refs: []
+  basis: The form or image of Tem proceeds from a figure's back and then swallows
+    itself or disappears.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage itself glosses the swallowing as disappearance; broader theological
+    interpretation is not supplied here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12361-12363
+  quote_or_summary: '"He who is in this picture standeth up for Ra," and he never
+    departeth from his place in the Tuat.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 12365-12367
+  quote_or_summary: A huge serpent is described with two pairs of human feet and legs
+    and a pair of large wings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12367-12375
+  quote_or_summary: A god beside the serpent has a disk on his head, an utchat on
+    each side of his head, and outstretched hands touching the ends of the serpent's
+    wings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 12381-12384
+  quote_or_summary: '"The god Aper-hni-neb-tchetta."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 12387-12398
+  quote_or_summary: When this god cries out to the figure in the picture, the form
+    or image of Tem proceeds from the figure's back and afterwards swallows itself,
+    glossed as disappearing.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 12405-12407
+  quote_or_summary: '"A serpent, with a mummied god seated on his"; the supplied passage
+    breaks off immediately after this phrase.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short excerpt from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is partly affected by OCR noise and ends mid-description. Literal
+    iconographic features are clear enough for draft extraction; broader motif assignments
+    require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison beyond its own iconographic and Tuat context.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l12352-l12407
+  passage_sha256=457a27ad29440e466c5fa50d69f9941d9335931ec2cd707acfc2f3dcd2cbbab4
+

@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l7768-l7845
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I   I   I / AAAAAA / CHAPTEE  VIIL / I  O   III  I    I    1    I; lines
+    7768-7845
+  start: '7768'
+  end: '7845'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Chapter VIII, describing the Eighth Division of
+    the Tuat, called Tebat-Neteru-s. It says this division is passed through by the
+    Sun-god during the eighth hour of the night, and begins with text stating that
+    the majesty of the great god takes its place in the circles of hidden gods who
+    are on their sand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Chapter VIII and names the Eighth Division
+    of the Tuat as Tebat-Neteru-s.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Eighth Division of the Tuat is described as being passed through by the
+    Sun-god during the eighth hour of the night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The scene is introduced by four lines of text.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The translated introductory text says that the majesty of the great god takes
+    up its place in the circles of hidden gods who are on their sand.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sun-god / this great god
+  description: The god who passes through the Eighth Division of the Tuat during the
+    eighth hour of the night and whose majesty takes up its place in the circles of
+    hidden gods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Hidden gods
+  description: Gods described as hidden, located in circles and on their sand.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine night-traveler through the Tuat
+  assigned_to:
+  - fig:1
+  basis: The Sun-god is said to pass through the Eighth Division of the Tuat during
+    the eighth hour of the night.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hidden divine inhabitants
+  assigned_to:
+  - fig:2
+  basis: The hidden gods are described as being in circles and on their sand.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eighth Division of the Tuat
+  literal_form: Underworld division called Tebat-Neteru-s
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: circles of the hidden gods
+  literal_form: Circles occupied by hidden gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sand of the hidden gods
+  literal_form: Sand associated with the hidden gods
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction to the Eighth Division of the Tuat
+  summary: The text introduces the Eighth Division of the Tuat, named Tebat-Neteru-s,
+    as a region traversed by the Sun-god in the eighth hour of the night. The introductory
+    speech places the great god’s majesty among the circles of hidden gods on their
+    sand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mapped nocturnal passage through the afterlife realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage names a specific division of the Tuat and places the Sun-god’s
+    movement through it in the eighth hour of the night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt is introductory and gives only limited details of the division.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7768-7771
+  quote_or_summary: "“THE EIGHTH DIVISION OF THE TUAT, WHICH IS CALLED TEBAT-NETERU-S.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7773-7777
+  quote_or_summary: The scene illustrates the Eighth Division of the Tuat, which is
+    passed through by the Sun-god during the eighth hour of the night.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7773-7778
+  quote_or_summary: The scene is introduced by four lines of text.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7838-7844
+  quote_or_summary: "“The Majesty of this great god taketh up its place in the Circles
+    of the hidden gods who are on their sand,”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and introductory. Literal extraction is straightforward,
+    but motif identification is limited to the named afterlife division and nocturnal
+    traversal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative claim beyond the candidate motif classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l7768-l7845
+  passage_sha256=a1fb9307b50091512db714cd26dfe142337199ad496ab1212da4f93d880aa08f
+

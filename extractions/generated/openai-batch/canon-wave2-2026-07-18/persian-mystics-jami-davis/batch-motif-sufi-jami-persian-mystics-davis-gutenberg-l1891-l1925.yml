@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1891-l1925
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: JUSTICE AND VIRTUE / HOW ALEXANDER ACQUIRED HIS POWER / FOURTH GARDEN / LIBERALITY;
+    lines 1891-1925
+  start: '1891'
+  end: '1925'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A prose anecdote tells how 'Abdullah Ibn Ja'far encounters an enslaved
+    guardian of a date-grove who gives his entire daily allowance of two loaves to
+    a hungry dog and chooses to fast. 'Abdullah judges the slave more liberal than
+    himself, buys both the slave and the date-grove, gives the grove to him, and emancipates
+    him. A concluding poem exhorts bravery, manliness, guarding the heart and tongue,
+    returning good for evil, and making beneficence a rule.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: "'Abdullah Ibn Ja'far intends to travel, approaches a date-grove, and alights
+    there."
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guardian of the trees is described as a black slave, and two loaves of
+    bread have been sent to him from the house.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A dog stands near the slave; the slave throws one loaf to it and then gives
+    it the other, and the dog consumes both.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: "'Abdullah asks the slave about his daily allowance, and the slave replies
+    that it is what 'Abdullah has seen."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The slave explains that the dog is a stranger there, that he thought it had
+    come from far away and was hungry, and that he did not wish to leave it in that
+    condition.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When asked what he will eat that day, the slave says he will fast.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: "'Abdullah says to himself that people blame him for liberality, yet this
+    slave is more liberal than himself."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: "'Abdullah purchases both the slave and the date-grove, presents the grove
+    to the slave, and emancipates him."
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The concluding poem exhorts a brave man to learn bravery and manliness, and
+    to preserve heart and tongue from remorse and blame.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The concluding poem instructs the addressee to requite evil with good and
+    says that beneficence, if made a rule, returns to the doer.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: "'Abdullah Ibn Ja'far"
+  description: A traveler who observes the slave's treatment of the dog, questions
+    him, judges him more liberal than himself, purchases the slave and grove, gives
+    the grove to the slave, and emancipates him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Black slave, guardian of the trees
+  description: The enslaved guardian of the date-grove who receives two loaves as
+    his daily allowance, gives both to a hungry dog, and says he will fast.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Dog
+  description: A dog standing near the slave, described by the slave as a hungry stranger
+    that may have come from a long distance; it consumes both loaves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: traveler and observer
+  assigned_to:
+  - fig:1
+  basis: "'Abdullah intends to travel, arrives at the date-grove, observes the slave's
+    actions, and questions him."
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: benefactor and emancipator
+  assigned_to:
+  - fig:1
+  basis: "'Abdullah purchases the slave and grove, gives the grove to the slave, and
+    emancipates him."
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: guardian of the trees / enslaved worker
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the person guarding the trees as a black slave.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: exemplary liberal giver
+  assigned_to:
+  - fig:2
+  basis: The slave gives both loaves to the hungry dog, plans to fast, and is judged
+    by 'Abdullah to be more liberal than himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: hungry stranger and recipient of charity
+  assigned_to:
+  - fig:3
+  basis: The slave describes the dog as a stranger who may have come from far away
+    and was hungry; the dog receives and consumes both loaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: date-grove / trees
+  literal_form: A date-grove with trees guarded by the slave; later purchased and
+    given to him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: two loaves of bread
+  literal_form: Two loaves sent as the slave's daily allowance and given to the dog.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: hungry dog
+  literal_form: A dog standing near the slave and treated as a hungry stranger from
+    a distance.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arrival at the date-grove and feeding of the dog
+  summary: "'Abdullah arrives at a date-grove where a slave guarding the trees receives
+    two loaves and gives both to a nearby dog, which eats them."
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questioning about the slave's allowance
+  summary: "'Abdullah asks what the slave's daily allowance is and why he did not
+    keep the bread; the slave says the dog was a hungry stranger and that he himself
+    will fast."
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recognition, gift, and emancipation
+  summary: "'Abdullah concludes that the slave is more liberal than himself, buys
+    the slave and the date-grove, gives the grove to the slave, and frees him."
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Didactic exhortation on bravery and beneficence
+  summary: A concluding poem urges bravery, manliness, restraint from blame and remorse,
+    requiting evil with good, and practicing beneficence.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Self-denying liberality toward a hungry stranger
+  taxonomy_refs: []
+  basis: The slave gives his entire daily allowance to a dog he regards as a hungry
+    stranger and chooses to fast instead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as liberality; no broader taxonomy ref is asserted.
+- id: motif:2
+  label: Humble figure surpasses reputed benefactor in virtue
+  taxonomy_refs: []
+  basis: "'Abdullah reflects that although others blame him for his own liberality,
+    the slave is more liberal than himself."
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The social contrast is present in the passage, but the broader comparative
+    range is not specified.
+- id: motif:3
+  label: Virtue recognized through gift and emancipation
+  taxonomy_refs: []
+  basis: After recognizing the slave's liberality, 'Abdullah purchases the slave and
+    grove, gives the grove to him, and emancipates him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a narrative pattern within the passage, not as a
+    claim of historical motif transmission.
+- id: motif:4
+  label: Didactic wisdom of returning good for evil and practicing beneficence
+  taxonomy_refs:
+  - wisdom
+  basis: The concluding poem instructs the addressee to requite evil with good and
+    to make beneficence a rule, stating that the good done returns to the doer.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad and based on the passage's explicit moral
+    instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1891-1925, prose anecdote opening
+  quote_or_summary: The anecdote introduces 'Abdullah Ibn Ja'far traveling to a date-grove,
+    where the enslaved guardian has received two loaves and gives both to a nearby
+    dog, which eats them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1891-1925, prose anecdote dialogue
+  quote_or_summary: "'Abdullah asks the slave about his daily allowance and why he
+    did not keep the bread; the slave says the dog is a hungry stranger from afar
+    and that he will fast that day."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1891-1925, prose anecdote conclusion
+  quote_or_summary: "'Abdullah judges the slave more liberal than himself, purchases
+    both the slave and date-grove, gives the grove to the slave, and emancipates him."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1891-1925, concluding poem "LEARN THOU BRAVERY!"
+  quote_or_summary: The poem exhorts the addressee to learn bravery and manliness,
+    guard heart and tongue, requite evil with good, and make beneficence a rule because
+    the good done returns to the doer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are limited to patterns explicit in the anecdote and poem. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Evidence locators use descriptive subranges within the supplied line range because only the passage-level locator was provided.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1891-l1925
+  passage_sha256=be04cb14e613dad99960519ebcb658c975c58fb1ff97433f73865190e194f2bb
+

@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l37802-l37914
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: RIDDLES. / RIDDLES. / IZINGANEKWANE. / RIDDLES.; lines 37802-37914
+  start: '37802'
+  end: '37914'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A riddle passage describes a figure treated as a chief whose people depend
+    on him. When his authority is disputed, he threatens to sit still and look at
+    the ground, causing desolation, danger, wild beasts, and famine. The people acknowledge
+    him as chief, after which the country is peaceful. The passage also says that
+    when he is ill, the whole nation suffers famine and waits anxiously for his recovery.
+    A following riddle begins by asking about a fleshless bullock that cannot be cut
+    and moves only under an unspecified condition, but the answer is not included
+    in the provided passage.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure is said to make himself a chief and to remain a chief because his
+    people are supported by him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people initially dispute the figure's rule, saying they cannot see the
+    power of his majesty.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure replies that if he sits still and looks at the ground, the land
+    will become desolate and the people will suffer falls, wild beasts, and famine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people acknowledge him as king so that they may live.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After his acknowledgment as chief, he reigns and the country is peaceful.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The figure is described as a man who never washes and only sits still.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When he has even a slight illness, the whole nation is troubled, famine occurs,
+    and people fear leaving their houses because of precipices.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The people long for him to recover and rejoice when he is well.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A new riddle begins by describing a bullock with no flesh, into which no one
+    can cut, and which is a hard mass.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the chief-like figure
+  description: A figure who makes himself a chief, sits still, looks on the ground,
+    and whose condition affects the people and land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the people or nation
+  description: The people supported by the chief-like figure; they first dispute his
+    rule, then acknowledge him, and suffer when he is ill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: wild beasts
+  description: Beasts that the people may be eaten by if they cannot see them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fleshless bullock
+  description: A bullock described in the beginning of a following riddle as having
+    no flesh and being impossible to cut into.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: acknowledged chief or king
+  assigned_to:
+  - fig:1
+  basis: The people acknowledge him openly as their king, and he reigns.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: supporter of the people
+  assigned_to:
+  - fig:1
+  basis: The passage states that his people are supported by him and that their famine
+    and safety depend on his state.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: dependent subjects
+  assigned_to:
+  - fig:2
+  basis: The people dispute the figure's rule but later acknowledge him so that they
+    may live.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: threatening animals
+  assigned_to:
+  - fig:3
+  basis: The figure says the people may be eaten by wild beasts because they cannot
+    see them.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: riddle object
+  assigned_to:
+  - fig:4
+  basis: The following riddle asks the audience to identify a bullock with no flesh.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: chief or king
+  literal_form: chief/king
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: desolate land
+  literal_form: land becoming desolate
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: famine
+  literal_form: death through famine / nation dying of famine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: precipices and pits
+  literal_form: precipices and pits
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: fleshless bullock
+  literal_form: bullock with no flesh, a hard mass that cannot be cut into
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: dispute over the chief's authority
+  summary: The people say the figure cannot rule while doing nothing and that they
+    cannot see his majesty's power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: threatened withdrawal and resulting dangers
+  summary: The figure says he will sit still and look at the ground, causing desolation,
+    falls, beasts, and famine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: acknowledgment and peace
+  summary: The people acknowledge him as king so they may live; he reigns and the
+    country becomes peaceful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: illness of the chief-like figure
+  summary: When the figure is ill, the nation is troubled by famine and fear, longs
+    for his recovery, and rejoices when he is well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: beginning of next riddle
+  summary: A new riddle asks about a bullock with no flesh that is a hard mass and
+    cannot be cut into.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ruler's condition sustains the land and people
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The figure is acknowledged as chief because the people live by him; when
+    he withholds his action or is ill, the land is desolate and the people suffer
+    famine and danger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is presented as a riddle and does not identify the figure
+    or give a full mythic narrative; the taxonomy link is based only on the expressed
+    dependence of political authority and communal survival.
+- id: motif:2
+  label: withheld function proves hidden power
+  taxonomy_refs: []
+  basis: The figure answers a challenge to his authority by threatening to sit still
+    and look at the ground, after which the people recognize that he is chief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The specific natural or social referent of the riddle is not supplied
+    in the provided passage.
+- id: motif:3
+  label: riddle object described by impossible animal traits
+  taxonomy_refs: []
+  basis: The next riddle describes a bullock with no flesh, impossible to cut into,
+    and made of a hard mass.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The riddle is incomplete in the provided passage, and its answer is not
+    available here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37802-37914
+  quote_or_summary: The figure touches nothing, makes himself a chief, remains a chief,
+    and his people are supported by him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 37802-37914
+  quote_or_summary: "“You cannot be our king and do nothing; we cannot see the power
+    of your majesty.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 37802-37914
+  quote_or_summary: The figure says that if he sits still and looks on the ground,
+    the land will be desolate; the people will fall into dangers, be eaten by wild
+    beasts, and die of famine.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 37802-37914
+  quote_or_summary: The people decide to acknowledge him openly as king so that they
+    may live; he is acknowledged as chief, reigns, and the country is peaceful.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 37802-37914
+  quote_or_summary: He never washes and sits still; when he is even slightly ill,
+    the nation is troubled by famine and fear, longs for his recovery, and rejoices
+    when he is well.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 37802-37914
+  quote_or_summary: 'A following riddle begins: a bullock has no flesh, cannot be
+    cut into anywhere, and is a hard mass; the passage breaks off before its answer.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main riddle passage is understandable in translation, but the referent
+    of the chief-like figure is not identified in the provided excerpt. The next riddle
+    is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no answer to either riddle was inferred beyond the provided text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l37802-l37914
+  passage_sha256=03bf9fd63651438f29856ba594b31823fa4a223b0258b794694c1245e5fce178
+

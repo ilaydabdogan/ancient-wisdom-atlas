@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l23131-l23165
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VI. / BOOK VII. / BOOK VIII. / BOOK IX.; lines 23131-23165
+  start: '23131'
+  end: '23165'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: In heaven, I replied, there is laid up a pattern of it, methinks, which he
+    who desires may behold
+  summary: The passage describes a person who regulates wealth, property, and honours
+    by maintaining order in the inner city of the soul, and who lives according to
+    an ideal city said to exist as a heavenly pattern rather than necessarily on earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The discussed person will not be dazzled by public applause or heap up riches
+    to his own harm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The discussed person will look to the city within him and prevent disorder
+    arising from excess or want.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The discussed person will regulate property, gaining or spending according
+    to his means.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The discussed person will accept honours that may make him better and avoid
+    honours likely to disorder his life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One speaker says that the person will be a statesman in his own city, though
+    perhaps not in his birthplace unless he has a divine call.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The interlocutor understands this as referring to a city founded in idea only,
+    not believed to exist anywhere on earth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says that a pattern of the city is laid up in heaven, available
+    to behold by whoever desires, and that beholding it may set his own house in order.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narrator says it does not matter whether such a city exists or will exist
+    in fact, because the person will live after the manner of that city and no other.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the discussed person
+  description: A person who regulates wealth, property, honours, and public life by
+    reference to internal order and the ideal city.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: narrator-speaker
+  description: The speaker identified by first-person narration as replying about
+    the heavenly pattern of the city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: interlocutor
+  description: The speaker marked as 'he said' who assents and interprets the reference
+    to the city founded in idea only.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: self-regulating person
+  assigned_to:
+  - fig:1
+  basis: The figure avoids wealth and honours that would cause harm or disorder and
+    regulates property according to internal order.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: citizen or ruler of the ideal inner city
+  assigned_to:
+  - fig:1
+  basis: The passage says he will be a statesman in his own city and will live after
+    the manner of the ideal city.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: explanatory speaker
+  assigned_to:
+  - fig:2
+  basis: The narrator explains that the city has a pattern laid up in heaven and that
+    beholding it orders one's house.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: assenting interlocutor
+  assigned_to:
+  - fig:3
+  basis: The interlocutor gives assent and restates the city as existing in idea only.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: inner city
+  literal_form: the city which is within him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ideal city
+  literal_form: a city founded in idea only
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: heavenly pattern
+  literal_form: a pattern of the city laid up in heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: divine call
+  literal_form: a divine call permitting or prompting public statesmanship in the
+    land of birth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Regulation of wealth and honours by inner order
+  summary: The discussed person avoids harmful accumulation of riches, regulates property
+    according to means, and accepts only honours that improve rather than disorder
+    his life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: scene:2
+  label: Statesmanship in the ideal city
+  summary: The speakers distinguish ordinary political office from ruling in one's
+    own city or in an ideal city that may exist only as an intelligible model.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Heavenly pattern as guide for life
+  summary: The narrator states that a pattern of the city is laid up in heaven, can
+    be beheld by the desiring person, and can guide the ordering of his own house
+    and way of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom through ordering the self by an ideal pattern
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly presents prudent regulation of wealth, honours, and
+    life by reference to inner order and a heavenly pattern of the ideal city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is philosophical argument rather than mythic narrative; the
+    taxonomy match is thematic and should be reviewed.
+- id: motif:2
+  label: heavenly archetype guiding earthly conduct
+  taxonomy_refs: []
+  basis: The passage says that a pattern of the city is laid up in heaven, may be
+    beheld, and may guide the ordering of one's own house and life.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No explicit available taxonomy reference directly names this motif; treat
+    as a candidate pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23131-23137
+  quote_or_summary: The discussed person will not be dazzled by foolish applause or
+    heap up riches to his own infinite harm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 23138-23143
+  quote_or_summary: He will look at 'the city which is within him' and regulate property
+    so no disorder arises from excess or want.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt included.
+- id: ev:3
+  type: summary
+  locator: 23144-23148
+  quote_or_summary: He will accept honours that make him better and avoid private
+    or public honours likely to disorder his life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 23149-23154
+  quote_or_summary: The speaker says he will be a statesman 'in the city which is
+    his own,' though perhaps not in his birthplace unless he has a divine call.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt included.
+- id: ev:5
+  type: summary
+  locator: 23155-23159
+  quote_or_summary: The interlocutor interprets this as the city founded by the speakers,
+    existing in idea only, and doubts that such a city exists anywhere on earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 23160-23162
+  quote_or_summary: The narrator says, 'In heaven... there is laid up a pattern of
+    it,' which the desiring person may behold.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt included.
+- id: ev:7
+  type: summary
+  locator: 23162-23164
+  quote_or_summary: After beholding the heavenly pattern, the person may set his own
+    house in order and live after the manner of that city regardless of its factual
+    earthly existence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 23135-23165
+  quote_or_summary: The interlocutor gives brief assents such as 'Certainly not,'
+    'Very true,' and 'I think so.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpts included.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif candidates
+    are interpretive because the passage is philosophical and only loosely maps to
+    available mythic motif families. No comparison claims were made because the passage
+    itself does not establish historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external identifications of named speakers were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l23131-l23165
+  passage_sha256=9c2b7c88bbc3e363beae3d64bdf5ea8ae130519579e7612c68eb6a663e4766e0
+

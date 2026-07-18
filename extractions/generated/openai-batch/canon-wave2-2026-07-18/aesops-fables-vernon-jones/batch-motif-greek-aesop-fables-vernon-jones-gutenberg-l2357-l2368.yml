@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2357-l2368
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FAWN AND HIS MOTHER / THE FOX AND THE LION / THE EAGLE AND HIS CAPTOR
+    / THE BLACKSMITH AND HIS DOG; lines 2357-2368
+  start: '2357'
+  end: '2368'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A blacksmith owns a small dog that sleeps while the blacksmith works but
+    wakes at mealtimes. After giving the dog a bone, the blacksmith reproaches it
+    for idleness and for seeking food without working. The closing moral states that
+    those who will not work deserve to starve.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A blacksmith has a little dog.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog sleeps when its master is working.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The dog is awake when it is time for meals.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The blacksmith throws the dog a bone as usual.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The blacksmith says the dog is lazy and questions its usefulness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The blacksmith says that when he hammers at the anvil, the dog curls up and
+    sleeps.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The blacksmith says that when he stops for food, the dog wakes and wags its
+    tail to be fed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The moral states that those who will not work deserve to starve.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Blacksmith
+  description: A working master who owns the little dog, hammers at an anvil, gives
+    the dog a bone, and reproaches the dog for idleness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: little Dog
+  description: A dog belonging to the blacksmith; it sleeps while the master works
+    but wakes at mealtimes and wags its tail to be fed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: working provider and reprover
+  assigned_to:
+  - fig:1
+  basis: The blacksmith works at his anvil, gives the dog a bone, and verbally rebukes
+    the dog.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: idle dependent seeking food
+  assigned_to:
+  - fig:2
+  basis: The dog sleeps during the master's work but wakes and wags its tail when
+    food is available.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: anvil labor
+  literal_form: hammering at anvil
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bone as food
+  literal_form: bone thrown to the dog
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sleep during work
+  literal_form: the dog curls up and sleeps while the master hammers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: tail-wagging for food
+  literal_form: the dog wakes and wags its tail to be fed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dog’s habitual contrast between worktime and mealtime
+  summary: The dog sleeps while the blacksmith works but is alert when meals occur.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blacksmith feeds and reproaches the dog
+  summary: The blacksmith gives the dog a bone and complains that it sleeps during
+    work but wakes and wags its tail for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing moral on work and starvation
+  summary: The passage concludes with a general moral that refusal to work merits
+    starvation.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: idle dependent expects sustenance without labor
+  taxonomy_refs:
+  - wisdom
+  basis: The dog avoids worktime activity but becomes active for food, and the moral
+    explicitly condemns those who will not work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is ethical and didactic rather than mythic; the broad taxonomy
+    reference to wisdom is based on the fable’s explicit moral.
+- id: motif:2
+  label: animal behavior used as moral example
+  taxonomy_refs:
+  - wisdom
+  basis: The dog’s conduct is narrated and then generalized into a human moral about
+    work and hunger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state that the dog represents humans;
+    the connection is inferred from the generalizing moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2357-2361
+  quote_or_summary: The passage introduces a blacksmith’s little dog, which sleeps
+    while the master works but is very awake at mealtimes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2362-2367
+  quote_or_summary: The master gives the dog a bone and says the dog sleeps when he
+    is hammering at the anvil, but wakes and wags its tail when he stops for food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quote/summary permitted.
+- id: ev:3
+  type: quote
+  locator: line 2368
+  quote_or_summary: "“Those who will not work deserve to starve.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicit. Motif identification is limited to the
+    didactic fable pattern and explicit moral; no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; although the locator label names multiple fables, the extracted content is limited to “THE BLACKSMITH AND HIS DOG.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2357-l2368
+  passage_sha256=74b02e6a9ec5ee71aa4d5b400c043a7008c29b5db3fd6e72388927ff6e0d8b2e
+

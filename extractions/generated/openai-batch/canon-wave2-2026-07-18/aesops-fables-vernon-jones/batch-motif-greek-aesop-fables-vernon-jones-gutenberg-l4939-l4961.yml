@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4939-l4961
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE WOLF, AND THE FOX / HERCULES AND PLUTUS / THE FOX AND THE LEOPARD
+    / THE FOX AND THE HEDGEHOG; lines 4939-4961
+  start: '4939'
+  end: '4961'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Fox and a Leopard dispute their looks; the Leopard praises
+    his coat, and the Fox answers that his wits are smarter. In another, a Fox is
+    swept down a rapid river, reaches dry ground bruised and exhausted, and is bitten
+    by horseflies. A Hedgehog offers to remove the flies, but the Fox refuses because
+    the current flies are already full and a new hungry swarm would take more blood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Fox and a Leopard dispute about their looks and each claims to be more handsome.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leopard points to his smart coat as something the Fox cannot match.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox replies that his wits are smarter than the Leopard's coat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Fox swimming across a rapid river is swept downstream by the current and
+    later reaches dry ground bruised and exhausted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A swarm of horseflies settles on the exhausted Fox and sucks his blood while
+    he is too weak to shake them off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Hedgehog asks whether he should brush away the flies tormenting the Fox.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Fox refuses the Hedgehog's offer, explaining that the present flies are
+    full and that a new hungry swarm would take the blood he has left.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fox in the beauty dispute
+  description: A Fox who disputes looks with a Leopard and values his wits over the
+    Leopard's coat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Leopard
+  description: A Leopard who claims superior handsomeness and points to his smart
+    coat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Fox in the river incident
+  description: A Fox swept down a rapid river, left bruised and exhausted, and bitten
+    by horseflies.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Swarm of horseflies
+  description: A swarm of horseflies that settles on the weakened Fox and sucks his
+    blood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Hedgehog
+  description: A Hedgehog who sees the Fox and offers to brush away the flies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: claimant in appearance dispute
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both animals claim to be more handsome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker for wits over coat
+  assigned_to:
+  - fig:1
+  basis: The Fox answers that his wits are smarter than the Leopard's coat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: speaker for decorated coat
+  assigned_to:
+  - fig:2
+  basis: The Leopard cites his smart coat in the dispute about looks.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: exhausted sufferer
+  assigned_to:
+  - fig:3
+  basis: The Fox is swept downstream, bruised, exhausted, and unable to move.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: blood-sucking tormentors
+  assigned_to:
+  - fig:4
+  basis: The horseflies settle on the Fox and suck his blood.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: would-be helper
+  assigned_to:
+  - fig:5
+  basis: The Hedgehog asks if he should brush away the flies.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: prudent refuser of help
+  assigned_to:
+  - fig:3
+  basis: The Fox refuses removal of the flies because a new hungry swarm would be
+    worse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: smart coat
+  literal_form: The Leopard's smart coat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rapid river and backwater
+  literal_form: A rapid river, current, downstream movement, and backwater
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood
+  literal_form: The Fox's blood sucked by horseflies
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: horsefly swarm
+  literal_form: A swarm of horseflies settled on the Fox
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fox and Leopard dispute appearances
+  summary: A Fox and a Leopard argue over who is more handsome; the Leopard invokes
+    his coat, and the Fox invokes his wits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox swept by river and bitten by flies
+  summary: A Fox is carried downstream by a rapid river, reaches dry ground exhausted,
+    and is bitten by horseflies while too weak to resist.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hedgehog's offer refused
+  summary: A Hedgehog offers to brush away the flies, but the Fox refuses because
+    the present flies are full and new hungry flies would drain him further.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wit preferred to outward display
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox contrasts the Leopard's smart coat with his own smarter wits.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the contrast through dialogue but does not provide
+    a separate explicit moral in the supplied text.
+- id: motif:2
+  label: Enduring a lesser present harm to avoid a greater future harm
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox refuses to remove satiated flies because a hungry replacement swarm
+    would take more of his remaining blood.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif label summarizes the Fox's reasoning; no external fable moral
+    is used.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4939-4945
+  quote_or_summary: In THE FOX AND THE LEOPARD, a Fox and a Leopard dispute their
+    looks; the Leopard points to his smart coat, and the Fox says his wits are smarter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4949-4954
+  quote_or_summary: In THE FOX AND THE HEDGEHOG, a Fox swimming across a rapid river
+    is swept downstream, struggles, and reaches dry ground bruised and exhausted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4955-4958
+  quote_or_summary: Horseflies settle on the exhausted Fox and suck his blood; a Hedgehog
+    asks whether he should brush away the flies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4959-4961
+  quote_or_summary: The Fox asks the Hedgehog not to remove the flies, saying they
+    are already full and that another hungry swarm would take the blood he has left.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims are
+    made because the passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage contains two fables within the stated line range; extraction does not use fables named in the locator label but absent from the passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4939-l4961
+  passage_sha256=e79bfb82e477d19540961331d33a69eec69cd9771251512b9ffae73f31400e0a
+

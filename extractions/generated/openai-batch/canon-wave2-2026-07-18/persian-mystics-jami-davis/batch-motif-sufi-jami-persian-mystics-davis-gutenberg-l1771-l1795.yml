@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1771-l1795
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FIRST GARDEN / PRIDE / FRIENDSHIP / SECOND GARDEN; lines 1771-1795
+  start: '1771'
+  end: '1795'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives brief didactic statements on friendship, secrecy, and
+    necessary knowledge. A true friend grows more attached despite hostility; a secret
+    that must be hidden from an enemy should not be revealed even to a friend; one
+    should cultivate indispensable knowledge and act according to it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A friend is described as one who becomes more attached even when met with
+    enmity from his friend.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Violent blows are described through the image of a thousand stones, which
+    strengthen rather than weaken the edifice of love.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressee is told not to reveal to a friend a secret that must be concealed
+    from a foe.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says that many people have become foes after first being friends.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The addressee is instructed to cultivate indispensable knowledge and not to
+    seek knowledge that can be dispensed with.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After acquiring indispensable knowledge, the addressee is instructed to act
+    only in accordance with it.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: friend
+  description: A generalized friend who may meet another friend with enmity, yet is
+    also the object of enduring attachment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: foe
+  description: A generalized enemy from whom a necessary secret is to be concealed;
+    former friends may become foes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: boy / addressee
+  description: The person addressed by the speaker and instructed about secrecy and
+    knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: speaker
+  description: The didactic voice that gives instructions and reports having seen
+    friends become foes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: steadfast friend
+  assigned_to:
+  - fig:1
+  basis: The passage defines a friend as becoming more attached despite enmity and
+    violence from a friend.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: potential betrayer or future enemy
+  assigned_to:
+  - fig:1
+  basis: The passage warns that friends can become foes and therefore should not be
+    trusted with a secret that must be hidden from an enemy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: enemy from whom a secret is concealed
+  assigned_to:
+  - fig:2
+  basis: The passage describes a secret necessary to be concealed from a foe.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of instruction
+  assigned_to:
+  - fig:3
+  basis: The addressee is directly instructed not to reveal a secret and to cultivate
+    indispensable knowledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: moral instructor
+  assigned_to:
+  - fig:4
+  basis: The speaker gives moral counsel and frames it with personal observation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: edifice of love
+  literal_form: An edifice made firmer by stones of violence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: secret
+  literal_form: A secret necessary to be concealed from a foe and not revealed even
+    to a friend.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: indispensable knowledge
+  literal_form: Knowledge that is necessary and must guide action after it is acquired.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Definition of steadfast friendship
+  summary: The passage defines a true friend as one whose love becomes stronger even
+    when facing enmity and violence from a friend.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning about secrets and changing friendship
+  summary: The speaker warns the addressee that a secret hidden from a foe should
+    not be told even to a friend, because friends may become enemies over time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Instruction on indispensable knowledge
+  summary: The speaker instructs the addressee to seek only indispensable knowledge
+    and to act in accordance with it once acquired.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: steadfast love under hostility
+  taxonomy_refs: []
+  basis: Friendship is characterized by increased attachment despite enmity and violence
+    from the friend.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a moral-didactic motif rather than a narrative episode with named
+    characters.
+- id: motif:2
+  label: friend may become foe
+  taxonomy_refs: []
+  basis: The passage warns that friends can become enemies and uses this as grounds
+    for withholding secrets.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents a general maxim, not a developed betrayal narrative.
+- id: motif:3
+  label: necessary knowledge as guide to action
+  taxonomy_refs:
+  - wisdom
+  basis: The passage advises cultivating indispensable knowledge and acting according
+    to it once acquired.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage does not frame
+    the knowledge as esoteric or mythic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1771-1776
+  quote_or_summary: "“He is a friend, who although meeting with enmity / From his
+    friend, only becomes more attached to him.” The stanza adds that stones of violence
+    make the edifice of love firmer."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1781-1788
+  quote_or_summary: Under “A Secret,” the speaker tells the boy not to reveal to a
+    friend a secret that must be concealed from a foe, because friends may become
+    foes over time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1791-1795
+  quote_or_summary: Under “The Indispensable Knowledge,” the speaker says to cultivate
+    indispensable knowledge, avoid dispensable knowledge, and act in accordance with
+    indispensable knowledge once acquired.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif classification is limited because
+    the passage is aphoristic and didactic, with few narrative elements. No comparison
+    claims were made because the passage itself does not identify an external comparative
+    tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy items were not applied because none of the listed symbols occur in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1771-l1795
+  passage_sha256=b916ebeb22d22b835a44bb8bbdef696663cca242a1d8b4b6ac6491f7576bac20
+

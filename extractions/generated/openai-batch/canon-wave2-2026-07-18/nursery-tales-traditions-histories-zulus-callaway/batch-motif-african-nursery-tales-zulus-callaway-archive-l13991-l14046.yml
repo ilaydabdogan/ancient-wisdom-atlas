@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l13991-l14046
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / IZINGANEKWANE. / THE  HONEY-BIRD. / INHLAMVU.; lines 13991-14046
+  start: '13991'
+  end: '14046'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The Inthlamvu is a bird which by its cry calls men to places where there
+    are honey-bees.
+  summary: The passage describes the Inhlamvu, or honey-bird, as a bird that calls
+    people to places with honey-bees. It is treated with respect and called a chief.
+    A person should not strike or blame it if he does not find bees, because bees
+    or something else are present, and striking it makes it afraid to call people.
+    The passage begins an example in which the bird comes to a hungry, weary traveler.
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Inhlamvu is identified as a bird, glossed as the honey-bird.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bird calls people by its cry to places where there are honey-bees.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Among black men, the bird is said to be a chief.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man who throws a stone at the bird when he does not follow it is regarded
+    as a man of nought.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If a person does not find bees, he should not accuse the bird of lying or
+    throw a stone at it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says that the bees are there, or, if not bees, something else
+    is there.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: If the person does not see the bees, he must not blame the bird.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If the bird is struck, it becomes afraid to call people to the honey-bee place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage describes a man walking while unaware of anything, very hungry,
+    and too weak to walk fast, when a bird may come.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Inhlamvu / Inthlamvu
+  description: A honey-bird that calls people to places where honey-bees are found
+    and is said to be a chief.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed man or traveler
+  description: A person who may follow or fail to follow the bird; in the example,
+    a hungry and weakened man is walking when the bird may appear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: animal guide to honey-bee places
+  assigned_to:
+  - fig:1
+  basis: The bird calls people by its cry to places where honey-bees are present.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chief-like respected bird
+  assigned_to:
+  - fig:1
+  basis: The passage states that among black men the bird is said to be a chief and
+    warns against blaming or striking it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: potential follower or offender
+  assigned_to:
+  - fig:2
+  basis: The man may follow the bird, fail to follow it, accuse it, or strike it;
+    the example also presents him as hungry and weary when the bird comes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: honey-bird
+  literal_form: Inhlamvu / Inthlamvu bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: honey-bees
+  literal_form: honey-bees at the place to which the bird calls people
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: stone
+  literal_form: stone thrown at the bird
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description of the honey-bird and its status
+  summary: The Inhlamvu is described as a bird whose cry calls people to honey-bee
+    places and which is regarded as a chief.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning against blaming or striking the bird
+  summary: The passage warns that a person who does not find bees should not call
+    the bird a liar, blame it, or strike it, because bees or something else are present
+    and striking it makes it afraid to call people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bird comes to a hungry traveler
+  summary: A very hungry, weakened man is walking, and the passage says that a bird
+    may come to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: helpful bird guide to hidden food source
+  taxonomy_refs: []
+  basis: The Inhlamvu calls people to places where honey-bees are located, including
+    in the context of a hungry and weary traveler.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The supplied excerpt ends before the example is completed, so the outcome
+    of the guidance is not shown here.
+- id: motif:2
+  label: prohibition against harming a beneficial animal guide
+  taxonomy_refs: []
+  basis: The passage says that a person should not throw a stone at or blame the bird,
+    and that striking it makes it afraid to call people to honey-bee places.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The warning is explicit, but the passage does not frame it with a named
+    ritual taboo or punishment beyond the bird's fear.
+- id: motif:3
+  label: animal messenger whose sign must be trusted
+  taxonomy_refs: []
+  basis: The passage states that even if bees are not found or seen, the bird should
+    not be called a liar, because bees or something else are there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a cautious motif label derived from the instruction to trust the
+    bird; no wider comparison is made in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13991-14046
+  quote_or_summary: "“The Inthlamvu is a bird which by its cry calls men to places
+    where there are honey-bees.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13991-14046
+  quote_or_summary: The English translation says the bird is regarded as a chief,
+    and that a man who throws a stone at it when he does not follow it is regarded
+    as worthless.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 13991-14046
+  quote_or_summary: The passage says that if a man does not find bees, he should not
+    throw a stone at the bird or call it a liar; the bees are there, or if not bees,
+    something else is there.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13991-14046
+  quote_or_summary: The passage says not to blame the bird if the bees are not seen,
+    because if the bird is struck it becomes afraid to call people to honey-bee places.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 13991-14046
+  quote_or_summary: The passage begins an example in which a man is walking unaware,
+    very hungry, weak, and burdened by himself; then a bird may come.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is based on the supplied English translation and Zulu
+    heading. Motif labels are cautious because the excerpt ends mid-example and no
+    explicit cross-tradition comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy list does not include a direct honey-bird, honey-bee, animal-guide, or beneficial-animal-taboo category, and the passage does not support broader comparison claims.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l13991-l14046
+  passage_sha256=ab6ca93eda31f010747c8f077e7deb2e0dcf3b841affdc5acf382e73c1dffe6c
+

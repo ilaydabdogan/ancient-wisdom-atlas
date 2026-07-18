@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.sufi-mystics-and-saints-of-islam-field-gutenberg-l3761-l3773
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+passage_locator:
+  label: CHAPTER XII. / STORY OF THE SHEIKH SANAAN. / THE ANGEL GABRIEL AND THE INFIDEL.
+    / THE CLAY OF WHICH MAN IS MADE.; lines 3761-3773
+  start: '3761'
+  end: '3773'
+  translation: Mystics and Saints of Islam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Prophet drinks sweet water from a stream, then bitter water from a
+    clay pitcher filled from the same stream. He asks God to reveal the reason for
+    the difference. The pitcher answers that its old clay has been worked into many
+    forms and is impregnated with the bitterness of mortality, making the water it
+    holds unable to be sweet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Prophet drinks from a stream and finds its taste sweeter than rose-water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed person fills a clay pitcher from the stream, and the Prophet drinks
+    from the pitcher and finds the water bitter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Prophet addresses God and asks that the secret of the difference in taste
+    be disclosed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The answer comes from the pitcher itself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The pitcher says it is old and that the clay from which it is made has been
+    worked repeatedly into many shapes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The pitcher says it is impregnated with the bitter savour of mortality, so
+    the water it holds cannot be sweet.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Prophet
+  description: A prophetic figure who drinks from the stream and the pitcher, notices
+    the difference in taste, and asks God for the reason.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed person
+  description: A person who fills a clay pitcher from the stream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Clay pitcher
+  description: An old clay vessel that contains bitter water and speaks to explain
+    that its clay carries the bitterness of mortality.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: God
+  description: The deity addressed by the Prophet in his request for disclosure of
+    the secret.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Questioning drinker
+  assigned_to:
+  - fig:1
+  basis: The Prophet tastes the waters and asks why they differ.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Water-drawer
+  assigned_to:
+  - fig:2
+  basis: The unnamed person fills the clay pitcher from the stream.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Speaking vessel and revealer
+  assigned_to:
+  - fig:3
+  basis: The pitcher itself gives the answer explaining the bitter taste.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Addressed revealer
+  assigned_to:
+  - fig:4
+  basis: The Prophet asks God to disclose the secret of the difference in taste.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Water with contrasting tastes
+  literal_form: Water from the same stream, sweet in the stream and bitter in the
+    clay pitcher.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Clay pitcher
+  literal_form: A clay vessel filled from the stream and later speaking about its
+    own material condition.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Worked clay
+  literal_form: Clay that has been worked repeatedly into a thousand shapes and retains
+    the bitter savour of mortality.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Stream
+  literal_form: A stream whose water tastes sweeter than rose-water before it is placed
+    in the pitcher.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sweet stream and bitter pitcher
+  summary: The Prophet drinks sweet water from a stream, then drinks bitter water
+    from a clay pitcher filled from that stream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Question and answer about the secret of taste
+  summary: The Prophet asks God why the same water tastes different, and the pitcher
+    answers that its clay carries the bitterness of mortality.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hidden cause revealed through altered taste
+  taxonomy_refs:
+  - wisdom
+  basis: The Prophet asks for disclosure of a secret after tasting sweet and bitter
+    water from the same source, and the answer explains the hidden cause.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is general; the passage does not name a formal
+    wisdom genre or motif family.
+- id: motif:2
+  label: Mortal clay contaminates the vessel
+  taxonomy_refs: []
+  basis: The pitcher says its old clay has passed through many shapes and is impregnated
+    with the bitter savour of mortality, making its water bitter.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif label rather than a supplied taxonomy reference.
+- id: motif:3
+  label: Speaking object gives explanation
+  taxonomy_refs: []
+  basis: The answer to the Prophet's question comes from the pitcher itself.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader comparative claim is made from this feature alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3761-3764
+  quote_or_summary: "“the Prophet drank of a stream and found its taste more sweet
+    than rose-water.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 3764-3767
+  quote_or_summary: Someone fills a clay pitcher from the stream; the Prophet drinks
+    from it and finds the water bitter.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: lines 3767-3770
+  quote_or_summary: "“O God,” he said, “the water of the stream and the water in the
+    pitcher are one; disclose to me the secret of the difference in their taste.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 3770-3772
+  quote_or_summary: "“From the pitcher itself came the answer. ‘I am old; the clay
+    of which I am made has been worked over and over again into a thousand shapes.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: lines 3772-3773
+  quote_or_summary: "“in every shape I am impregnated with the bitter savour of mortality.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based entirely on the supplied passage. Motif labels are descriptive
+    and require human review; no comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were added beyond the supplied available references where directly applicable.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-mystics-and-saints-of-islam-field-gutenberg__l3761-l3773
+  passage_sha256=c50b6b2ef27a30a04f161acf8d7b66abe4eae9e0a2535f0b4741d0bb6369bdd4
+

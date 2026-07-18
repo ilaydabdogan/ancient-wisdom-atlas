@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l6099-l6109
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: CHAPTER   IV / CHAPTER   V / CHAPTER  VI / CHAPTER  VII; lines 6099-6109
+  start: '6099'
+  end: '6109'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: FRAGMENTARY INDEPENDENT PRESENTMENTS OF THE HAPPY OTHERWORLD CONCEPTION
+  summary: A chapter heading introduces fragmentary independent presentations of a
+    happy Otherworld idea and lists several Irish narrative or dinnshenchas items,
+    including Nera's expedition into the Otherworld, the Raid of Regamna's Kine, Angus
+    of the Brugh and the Conquest of the Sid, and place-lore entries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a chapter heading for “Fragmentary Independent Presentments
+    of the Happy Otherworld Conception.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists “The Echtra Nerai” and glosses it as “Nera's Expedition
+    into the Otherworld.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists “The Tain bó Regamna” and glosses it as “the Raid of Regamna's
+    Kine.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists “Angus of the Brugh and the Conquest of the Sid.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage lists several dinnshenchas items: Mag m-Breg, Sinann, Boann,
+    Loch Carman, Sliab Fuait, and Findloch Cera.'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nera
+  description: Named in the gloss “Nera's Expedition into the Otherworld.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Regamna
+  description: Named possessively in the gloss “the Raid of Regamna's Kine.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Angus of the Brugh
+  description: Named in the listed item “Angus of the Brugh and the Conquest of the
+    Sid.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sid
+  description: Named as the object of conquest in “the Conquest of the Sid.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Otherworld expedition figure
+  assigned_to:
+  - fig:1
+  basis: Nera is named as the possessor or subject of an expedition into the Otherworld.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possessor associated with raided kine
+  assigned_to:
+  - fig:2
+  basis: Regamna is named possessively in relation to kine in a raid title.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named figure associated with Brugh and conquest
+  assigned_to:
+  - fig:3
+  basis: Angus of the Brugh is named in a title paired with “the Conquest of the Sid.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: entity or group named as conquered
+  assigned_to:
+  - fig:4
+  basis: The Sid is named in the phrase “the Conquest of the Sid.”
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Chapter heading and topic list
+  summary: The passage frames a set of Irish materials as fragmentary independent
+    presentations of the happy Otherworld conception and lists named narratives and
+    place-lore entries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Happy Otherworld conception
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The heading explicitly names a “Happy Otherworld Conception” and includes
+    an item glossed as an expedition into the Otherworld.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a heading and contents list, not a narrative episode; the
+    taxonomy link is broad and should be reviewed.
+- id: motif:2
+  label: Expedition into the Otherworld
+  taxonomy_refs:
+  - mystical_quest
+  basis: The listed Echtra Nerai is glossed as “Nera's Expedition into the Otherworld.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No details of the expedition are included in this passage, so the motif
+    identification is limited to the title/gloss.
+- id: motif:3
+  label: Conquest of a Sid-associated entity
+  taxonomy_refs: []
+  basis: The passage lists “Angus of the Brugh and the Conquest of the Sid.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives only a title and does not explain who or what the Sid
+    is in this context.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups the listed narratives and dinnshenchas items as independent
+    presentations of a shared happy Otherworld conception.
+  claim_level: same_motif
+  target: Happy Otherworld conception across the listed Irish materials
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial chapter heading and list; it does not provide
+    narrative details demonstrating the comparison within the passage itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6099-6101
+  quote_or_summary: "“FRAGMENTARY INDEPENDENT PRESENTMENTS OF THE HAPPY OTHERWORLD
+    CONCEPTION”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6103-6104
+  quote_or_summary: "“The Echtra Nerai (Nera's Expedition into the Otherworld)”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6104-6105
+  quote_or_summary: "“The Tain bó Regamna (the Raid of Regamna's Kine)”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6105-6106
+  quote_or_summary: "“Angus of the Brugh and the Conquest of the Sid”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6106-6109
+  quote_or_summary: The passage lists dinnshenchas entries for Mag m-Breg, Sinann,
+    Boann, Loch Carman, Sliab Fuait, and Findloch Cera.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly a chapter title and contents list. Extraction is limited
+    to named headings and editorial grouping, with no narrative details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy were assigned because the passage provides no clear literal symbol use.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l6099-l6109
+  passage_sha256=99eb6cbffe6b454f01131e2d2a6783a2bf64976a63bd6c35d3714919af36d3ab
+

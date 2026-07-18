@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l12132-l12224
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    DEATH    OF    THE    IKHAU. / THE    DEATH    OF    THE  LIZARD.
+    / THE    DEATH    OF    THE    LIZAED. / REMARKS    ON   PRECEDING    STORY.  217;
+    lines 12132-12224
+  start: '12132'
+  end: '12224'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage begins with the end of a story in which an unnamed male figure
+    is caught, bitten, and broken by mountains; his forepart and hinder part become
+    two named forms. In remarks, the narrator infers that the figure was traveling
+    toward red sand hills, shallow pools, and especially a named pool where he intended
+    to dwell, following a route through a vlei, along a hill, and down a river bed.
+    The line range then shifts to a poetry section with a Cat song and a note that
+    the Cat has three names and sings in a particular manner.
+  language: English with transcribed |Xam terms and song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hand gesture with the first and second fingers of the left hand is used
+    to demonstrate the catching action.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mountains catch the male figure, bite him, and break him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure's forepart becomes the named form \guru-\nd, and his hinder part
+    becomes the named form \j(e-\khwai.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The narrator says, as an inference, that the figure was going toward red sand
+    hills and shallow pools in order to live there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator identifies \kaugen-\kq\kq as a certain pool toward which the
+    figure seemed to be going.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The inferred route runs along a vlei, up the side of a hill, down into Wna-Wkuarra,
+    and along the river bed toward \kaugen-\kq\kq.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator states that the figure broke in two while going toward the intended
+    place.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A later poetry item in the same line range contains repeated song syllables
+    and references to a Cat figure.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A note says the Cat has three names and that it sings with the upper part
+    of its mouth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male figure from the preceding Ikhau/Lizard story
+  description: A male figure referred to as 'he'; he is caught and broken by mountains,
+    and the narrator infers that he was traveling toward pools where he intended to
+    live.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: mountains
+  description: Mountains act on the male figure by catching, biting, and breaking
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: narrator
+  description: The narrator provides remarks on the preceding story, repeatedly framing
+    the route and destination as an inference.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Cat
+  description: An animal figure in the poetry section; a note gives the Cat three
+    names and describes its manner of singing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: traveler toward an intended dwelling place
+  assigned_to:
+  - fig:1
+  basis: The narrator says the figure seemed to be going to red sand hills, pools,
+    and a named pool in order to live there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: victim of breaking and transformation
+  assigned_to:
+  - fig:1
+  basis: The figure is caught, bitten, and broken, after which his forepart and hinder
+    part become named forms.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: capturing and injuring landscape agent
+  assigned_to:
+  - fig:2
+  basis: The mountains are described as catching, biting, and breaking the figure.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: commentator on the preceding story
+  assigned_to:
+  - fig:3
+  basis: The narrator provides interpretive remarks beginning with 'I think' and reconstructs
+    the figure's destination and route.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: named animal singer
+  assigned_to:
+  - fig:4
+  basis: The poetry section and note associate the Cat with song, three names, and
+    a specific singing manner.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: biting mountains
+  literal_form: mountains that catch and bite
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: red sand hills and shallow pools
+  literal_form: red sand hills, shallow pools, and the named pool \kaugen-\kq\kq
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: route by vlei, hill, and river bed
+  literal_form: vlei, side of the hill, Wna-Wkuarra river, and river bed
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: divided body halves becoming named forms
+  literal_form: forepart becoming \guru-\nd; hinder part becoming \j(e-\khwai
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Cat's three names
+  literal_form: three names of the Cat, rendered in the note as Wgwdtten, Wgwqttau,
+    and yrten/yiten
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mountains break the traveler
+  summary: The mountains catch the unnamed male figure, bite him, and break him; his
+    front and rear parts become two named forms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Narrator reconstructs the destination and route
+  summary: The narrator infers that the figure was traveling to red sand hills, shallow
+    pools, and the named pool \kaugen-\kq\kq to dwell there, moving by a vlei, hill,
+    river, and river bed before breaking in two.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cat song in the poetry section
+  summary: A separate poetry item begins, containing repeated song sounds and a note
+    that the Cat has three names and sings with the upper part of its mouth.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animated mountains dismember a traveler
+  taxonomy_refs: []
+  basis: The mountains are explicit agents that catch, bite, and break the male figure.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The extract begins mid-action and does not provide the earlier setup of
+    the story.
+- id: motif:2
+  label: death or breaking followed by transformation of body parts
+  taxonomy_refs:
+  - death_rebirth
+  basis: After being broken, the figure's forepart and hinder part become two named
+    forms.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states transformation after breaking but does not show return,
+    resurrection, or a complete rebirth; the taxonomy match is broad and tentative.
+- id: motif:3
+  label: journey toward a water dwelling interrupted by destruction
+  taxonomy_refs: []
+  basis: The narrator reconstructs the figure's intended journey toward pools and
+    a named pool where he was going to dwell, and says he broke in two while going
+    there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The destination and route are framed by the narrator as inference rather
+    than direct narrative fact.
+- id: motif:4
+  label: animal song with multiple names
+  taxonomy_refs: []
+  basis: The poetry item presents song material associated with the Cat, and the note
+    states that the Cat has three names and sings in a specified way.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This appears to belong to a new poetry section within the supplied line
+    range; its relation to the preceding Ikhau/Lizard story is not established in
+    the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12132-12140; notebook no. 7209
+  quote_or_summary: The passage describes a gesture showing how the mountains caught
+    the figure; the mountains bite and break him, and his forepart and hinder part
+    become \guru-\nd and \j(e-\khwai.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12145-12158; notebook nos. 7210-7211
+  quote_or_summary: The narrator says he thinks the figure was going to red sand hills
+    and shallow pools, especially the pool \kaugen-\kq\kq, in order to live there.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12159-12172; notebook nos. 7212-7213
+  quote_or_summary: The narrator describes the inferred route through a vlei, along
+    a hill, down into Wna-Wkuarra, and along the river bed to \kaugen-\kq\kq, adding
+    that the figure broke in two while going toward it.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12187-12214; notebook nos. 3237-3239
+  quote_or_summary: A poetry item begins with repeated syllables and transcribed song
+    lines, including forms rendered with the Cat-associated name Gwatten/Wgwatten.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12215-12224; notebook no. 3238 note
+  quote_or_summary: A note states that the Cat has three names and that here it sings
+    with the upper part of its mouth because it feels that its other name is yiten.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited by OCR/transcription irregularities, a passage
+    opening in mid-action, and the inclusion of an apparently separate poetry item
+    after the prose remarks. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range contains the end and remarks of one story plus the beginning of a separate poetry section; these have been separated into distinct scenes where possible.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l12132-l12224
+  passage_sha256=3ca94761ddb1717ced935ead95c8f6c6682aaf3e354f5a85b29ae34d61689da0
+

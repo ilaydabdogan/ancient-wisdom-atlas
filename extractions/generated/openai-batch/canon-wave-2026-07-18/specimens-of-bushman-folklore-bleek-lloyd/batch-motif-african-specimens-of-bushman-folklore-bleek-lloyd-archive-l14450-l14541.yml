@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l14450-l14541
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE  MAN  WHO  FOUND  A  LION  IN  A  CAVE. / MAN    WHO    FOUND    LION   IN    CAVE.  263
+    / MAN   WHO    FOUND    LION    IN    CAVE.  265 / MAN    WHO    FOUND    LION    IN    CAVE.  267;
+    lines 14450-14541
+  start: '14450'
+  end: '14541'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At daybreak the man is still running from a lion. He sees a fire made by
+    other people, remembers a warning that a lion's eye can resemble fire at night,
+    and goes nearer to test whether it is a real fire. Seeing people lying near it,
+    he joins them and tells them that he had unknowingly entered a cave occupied by
+    a lion, heard breathing there, and escaped because the lion slept.
+  language: English with transcribed /Xam text in the latter portion
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At daybreak the man was still running because he had heard the lion making
+    noise while seeking to get him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man saw a fire kindled by other people for warmth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man thought he would run to the fire and go to the people there so that
+    he might sleep among them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man remembered that his fathers had said a lion's eye can sometimes resemble
+    a fire by night.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man went nearer to the fire to see whether it was a real fire, and he
+    saw people lying in front of it.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The man went to the people by the fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man told the people that he had walked into death that night and that
+    they saw him only because the lion had slept.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The man said he had intended to wait in the cave, but the lion had come to
+    wait for him there.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The man said he did not know the lion was inside the cave and had been seeking
+    a dry place to lay down his things.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The man said that when he walked into the cave he heard something that sounded
+    as if it breathed.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man running from a lion, approaching a fire, joining people, and
+    recounting his encounter in the cave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the lion
+  description: A lion that made noise while seeking to get the man, had been inside
+    the cave, and slept long enough for the man to survive.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: people by the fire
+  description: Other people who had kindled a fire to warm themselves and were lying
+    in front of it when the man approached.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the fathers
+  description: Remembered advisers whom the man says had told him that a lion's eye
+    can resemble a fire by night.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fugitive survivor and narrator
+  assigned_to:
+  - fig:1
+  basis: The man runs from the lion and later tells the people that he survived because
+    the lion slept.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: predator and cave occupant
+  assigned_to:
+  - fig:2
+  basis: The lion sought to get the man and was inside the cave where the man had
+    gone.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: people at a warming fire
+  assigned_to:
+  - fig:3
+  basis: They had kindled the fire to warm themselves and were lying near it when
+    the man came.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: remembered warning-givers
+  assigned_to:
+  - fig:4
+  basis: The man recalls that his fathers had warned him that a lion's eye can resemble
+    fire at night.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: fire
+  literal_form: fire kindled by other people for warmth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire-like lion eye
+  literal_form: lion's eye that can resemble a fire by night
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Daybreak flight from the lion
+  summary: The man is still running at daybreak because he hears the lion making noise
+    while pursuing him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Testing the distant fire
+  summary: The man sees a fire, wants to join the people there, remembers the warning
+    about a lion's eye resembling fire, approaches to check, and sees people lying
+    near the fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Report of the cave encounter
+  summary: After joining the people, the man says he had gone into a cave seeking
+    a dry place, not knowing a lion was inside; he says he heard breathing and survived
+    because the lion slept.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: predator inside an intended shelter
+  taxonomy_refs: []
+  basis: The man intended to wait in the cave and find a dry place there, but a lion
+    was already inside the cave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as an animal danger in a cave; it does not state
+    a supernatural descent or initiation.
+- id: motif:2
+  label: ambiguous night light mistaken for danger
+  taxonomy_refs: []
+  basis: The man considers whether the distant fire might instead be a lion's eye
+    resembling fire by night and approaches to verify it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: In this episode the light turns out to be an actual fire; the false-fire
+    danger is recalled as a warning rather than realized.
+- id: motif:3
+  label: escape because the predator sleeps
+  taxonomy_refs: []
+  basis: The man tells the people that they see him only because the lion slept and
+    that they would not have seen him otherwise.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not provide the full escape sequence, only the man's
+    report of why he survived.
+- id: motif:4
+  label: remembered ancestral warning as practical wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The man's remembered warning from his fathers shapes his decision to test
+    whether the light is truly a fire.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy match to wisdom is broad; the passage frames the saying as
+    practical caution rather than abstract teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: p. 267 / (4910)-(4911)
+  quote_or_summary: At daybreak the man is still running because he hears the lion's
+    noise while the lion seeks to get him.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: p. 267 / (4911)-(4913)
+  quote_or_summary: The man sees a fire kindled by other people, thinks of going there
+    to sleep among them, and recalls that his fathers said a lion's eye can resemble
+    fire by night.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: p. 267 / (4913)-(4915)
+  quote_or_summary: He approaches the fire, sees people lying in front of it, decides
+    they seem to be people, and goes to them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: quote
+  locator: p. 267 / (4915)-(4916)
+  quote_or_summary: The man says he has 'walked into death this night' and that the
+    people see him because 'the lion slept.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: p. 267 / (4916)-(4918)
+  quote_or_summary: The man says he meant to wait in the cave, did not know the lion
+    was inside it, and had been seeking a dry place to lay down his things.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: p. 267 / (4918)
+  quote_or_summary: When he walked into the cave, he heard 'a thing which sounded
+    as if it breathed.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the English-translated portion of the supplied passage.
+    The later transcribed /Xam text is not interpreted here. Motif labels are descriptive
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l14450-l14541
+  passage_sha256=0129b9f828e5cdfc9173a878b35126dcac346c86535a8ef7dd066d243e28a1ca
+

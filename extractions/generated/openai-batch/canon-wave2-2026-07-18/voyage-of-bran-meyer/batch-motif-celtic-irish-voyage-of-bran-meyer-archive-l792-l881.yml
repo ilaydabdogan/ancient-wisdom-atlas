@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l792-l881
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: X  THE  VOYAGE   OF   BRAN / KUNO  MEYER. / THE  VOYAGE  OF  BRAN  SON  OF  FEBAL
+    / IMRAM    BRAIN  5; lines 792-881
+  start: '792'
+  end: '881'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    Without grief, without sorrow, without death,
+    Without any sickness, without debility
+  summary: 'The supplied range includes edited Old Irish text and English translation/notes
+    for part of a woman’s song to Bran. The translated stanzas describe a wondrous
+    Emain or Mag Argatnel: a gleaming land with white-bronze feet or supports, falling
+    blossoms, an ancient blossoming tree where birds sing to the Hours, colorful plains
+    filled with joy and music, and no wailing, treachery, harshness, grief, sorrow,
+    death, sickness, or debility.'
+  language: Old Irish and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman in unusual clothing is seen in the royal house and is introduced as
+    singing fifty quatrains to Bran before the host.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A land is described as glittering, lovely through the world's age, and covered
+    by many dropping blossoms.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stanza says that feet of white bronze are under it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An ancient tree with blossoms is present there.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Birds on the tree call in harmony to every Hour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The plains are described as having splendors of every colour, gentle voices,
+    joy, and music in southern Mag Argatnel.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:7
+  text: Wailing, treachery, roughness, and harshness are said to be unknown there,
+    while sweet music strikes the ear.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sign of Emain is described as the absence of grief, sorrow, death, sickness,
+    and debility.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bran son of Febal
+  description: The named recipient of the woman’s song in the passage and source title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Unnamed woman in unusual raiment
+  description: A woman seen in the royal house who sings the quatrains describing
+    the wondrous land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Host or assembly in the royal house
+  description: The group present in the royal house before whom the woman is seen
+    and the song is sung.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Birds on the ancient tree
+  description: Birds that call from the blossoming tree in harmony to every Hour.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of song
+  assigned_to:
+  - fig:1
+  basis: The woman’s quatrains are sung to Bran.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: singer of the land-description
+  assigned_to:
+  - fig:2
+  basis: The woman sings the sequence that contains the description of the marvelous
+    land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: witnessing assembly
+  assigned_to:
+  - fig:3
+  basis: The host is present and sees the woman in the royal house.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: harmonious callers
+  assigned_to:
+  - fig:4
+  basis: The birds call together in harmony to every Hour.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Ancient blossoming tree
+  literal_form: An ancient tree with blossoms
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Birds calling to the Hours
+  literal_form: Birds on the tree calling in harmony to every Hour
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sweet music
+  literal_form: Joy around music and sweet music striking the ear
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Falling blossoms
+  literal_form: Many blossoms dropping; blossoms on the ancient tree
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: White bronze feet or supports
+  literal_form: Feet of white bronze under it
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Deathless Emain
+  literal_form: Emain marked by no grief, sorrow, death, sickness, or debility
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Mag Argatnel or Silver-Cloud Plain
+  literal_form: Southern Mag Argatnel, glossed as Silver-Cloud Plain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Woman appears and sings in the royal house
+  summary: A woman in unusual raiment is seen in the royal house and sings a sequence
+    of quatrains to Bran before the host.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gleaming blossom-covered land
+  summary: The song describes a glittering, enduring, lovely land with white-bronze
+    feet or supports and many falling blossoms.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tree with hourly birdsong
+  summary: An ancient blossoming tree stands in the land, and birds call together
+    from it in harmony to every Hour.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Musical land without suffering
+  summary: The land or plain is described through splendor, joy, and music, and by
+    the absence of wailing, treachery, harshness, grief, sorrow, death, sickness,
+    and debility.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Deathless sorrowless otherworld land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The source title frames the work as a voyage to the Land of the Living, and
+    the stanzas describe Emain as free from grief, sorrow, death, sickness, debility,
+    wailing, treachery, roughness, and harshness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The line range describes the land and its qualities but does not narrate
+    arrival, return, or a full itinerary within this excerpt.
+- id: motif:2
+  label: Perennial blossoming tree with birdsong
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage presents an ancient blossoming tree in the marvelous land, with
+    birds calling in harmony to every Hour.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The tree is prominent, but the passage does not explicitly identify it
+    as an axis, world center, or cosmic connector.
+- id: motif:3
+  label: Harmonious musical paradise
+  taxonomy_refs: []
+  basis: The land is characterized by joy around music, sweet music striking the ear,
+    and birds calling together in harmony, while discordant experiences such as wailing
+    and harshness are absent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This motif label is descriptive and not tied to a supplied taxonomy ID.
+- id: motif:4
+  label: Female figure reveals a marvelous land to the hero
+  taxonomy_refs: []
+  basis: The woman in unusual raiment sings the quatrains to Bran, and the translated
+    stanzas provide the detailed description of the land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies the woman as singer but does not state her nature,
+    origin, or motive in this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 792-881, opening prose before stanza 3
+  quote_or_summary: A woman in unusual raiment is seen in the royal house; the passage
+    introduces her as singing fifty quatrains to Bran before the host.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 792-881, stanza 6
+  quote_or_summary: Feet of white bronze under it / Glittering through beautiful ages.
+    / Lovely land throughout the world's age, / On which the many blossoms drop.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 792-881, stanza 7
+  quote_or_summary: An ancient tree there is with blossoms, / On which birds call
+    to the Hours. / 'Tis in harmony it is their wont / To call together every Hour.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 792-881, stanza 8
+  quote_or_summary: Splendours of every colour glisten / Throughout the gentle-voiced
+    plains. / Joy is known, ranked around music, / In southern Mag Argatnel.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 792-881, stanza 9
+  quote_or_summary: Unknown is wailing or treachery / In the familiar cultivated land.
+    / There is nothing rough or harsh, / But sweet music striking on the ear.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 792-881, stanza 10
+  quote_or_summary: Without grief, without sorrow, without death, / Without any sickness,
+    without debility, / That is the sign of Emain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: note
+  locator: lines 792-881, note 4 under translation
+  quote_or_summary: The editorial note glosses Mag Argatnel as a regional name, 'Silver-Cloud
+    Plain.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain; summarized note from supplied passage.
+- id: ev:8
+  type: citation
+  locator: source title and passage metadata
+  quote_or_summary: The source and passage title identify the text as The Voyage of
+    Bran, Son of Febal, to the Land of the Living.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain/source metadata supplied with request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The translated stanzas 6-10 are clear. The opening prose and Old Irish stanzas
+    3-5 are OCR-heavy and only minimally used. No separate comparison claims were
+    generated beyond candidate motif taxonomy assignments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Old Irish lines in the supplied range were not fully interpreted; extraction emphasizes the English translation and notes present in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l792-l881
+  passage_sha256=8babb252d12e1273e9f083fc83d0dd81868e4613d4264d0834a5b9d45bf82415
+

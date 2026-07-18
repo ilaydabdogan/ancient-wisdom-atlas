@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l8277-l8286
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 8277-8286'
+  start: '8277'
+  end: '8286'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"The temple of Diana, indeed, has disappeared, and the King of the Wood
+    no longer stands sentinel over the Golden Bough."'
+  summary: The narrator bids farewell to Nemi, noting that the lake and woods remain,
+    while Diana's temple and the King of the Wood are gone. The passage contrasts
+    the former worship of Diana and Virbius in the sacred grove with present church
+    bells ringing the Angelus, and closes with a French formula of royal succession.
+  language: English with a French closing phrase
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes Nemi's lake and surroundings as not much changed from
+    the days when Diana and Virbius received worshippers' homage in the sacred grove.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The temple of Diana is said to have disappeared.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King of the Wood is said no longer to stand sentinel over the Golden Bough.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nemi's woods are described as still green.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At evening, church bells from Albano, and perhaps Rome, may be heard ringing
+    the Angelus.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage ends with the French phrase meaning, literally, 'The king is dead,
+    long live the king.'
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Diana
+  description: A divine figure formerly receiving worshippers' homage at Nemi in the
+    sacred grove.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Virbius
+  description: A figure formerly receiving worshippers' homage at Nemi in the sacred
+    grove.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King of the Wood
+  description: A figure formerly standing sentinel over the Golden Bough, but no longer
+    present in that role.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of former homage
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Diana and Virbius received the homage of worshippers
+    in the sacred grove.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sentinel over the Golden Bough
+  assigned_to:
+  - fig:3
+  basis: The passage says the King of the Wood no longer stands sentinel over the
+    Golden Bough.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred grove
+  literal_form: grove at Nemi associated with former worship of Diana and Virbius
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Golden Bough
+  literal_form: golden bough watched by the King of the Wood
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lake
+  literal_form: lake at Nemi
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: church bells / Angelus
+  literal_form: evening bells from Albano, perhaps Rome, ringing the Angelus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Farewell view of Nemi
+  summary: The narrator looks around Nemi and says the lake and surroundings remain
+    much as they were when Diana and Virbius received homage in the sacred grove.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Absent temple and sentinel
+  summary: The temple of Diana has disappeared, and the King of the Wood no longer
+    stands sentinel over the Golden Bough.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Evening bells across the Campagna
+  summary: Nemi's woods remain green while evening church bells from Albano, and perhaps
+    Rome, ring the Angelus and fade across the Campagnan marshes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Royal succession formula
+  summary: The passage closes with the French formula, 'The king is dead, long live
+    the king.'
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred grove and guarded bough
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage links a sacred grove, former divine worship, the Golden Bough,
+    and the King of the Wood as its sentinel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names a sacred grove and bough but does not explicitly describe
+    an axis mundi or cosmological tree function.
+- id: motif:2
+  label: dead king and continuing kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The closing formula states, in French, 'The king is dead, long live the king,'
+    indicating royal death paired with continued kingship.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrase is quoted as a closing aphorism; the passage does not narrate
+    an actual succession event.
+- id: motif:3
+  label: replacement or persistence of sacred landscape
+  taxonomy_refs: []
+  basis: The passage contrasts the vanished temple and former grove worship with the
+    continuing woods and present Christian Angelus bells heard over the same landscape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This is a thematic pattern in the description, not a named taxonomy motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8277-8280
+  quote_or_summary: '"the lake and its surroundings" are little changed from when
+    "Diana and Virbius" received homage in "the sacred grove."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 8280-8283
+  quote_or_summary: '"The temple of Diana" has disappeared, and "the King of the Wood
+    no longer stands sentinel over the Golden Bough."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: '8283'
+  quote_or_summary: '"Nemi’s woods are still green".'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 8283-8285
+  quote_or_summary: At evening, church bells from Albano, and perhaps Rome, ring the
+    Angelus and fade across the Campagnan marshes.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: '8286'
+  quote_or_summary: '"Le roi est mort, vive le roi!"'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal entities and settings are explicit. Motif assignment is cautious
+    because the passage is reflective and allusive rather than a full myth narrative.
+    No comparison claims were made because the passage itself does not explicitly
+    establish a comparative relationship beyond juxtaposed historical-religious references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l8277-l8286
+  passage_sha256=b12a3adfc2e224ddcb38cdf1ad2ab54b09e60b9e81aec11c3a0a1fef8c086cc1
+

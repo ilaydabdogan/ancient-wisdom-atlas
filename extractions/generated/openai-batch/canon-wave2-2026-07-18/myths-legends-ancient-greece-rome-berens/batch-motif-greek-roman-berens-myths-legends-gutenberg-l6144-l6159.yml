@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6144-l6159
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PENATES. / PUBLIC WORSHIP OF THE ANCIENT GREEKS AND ROMANS. / TEMPLES. /
+    STATUES.; lines 6144-6159
+  start: '6144'
+  end: '6159'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: On a pedestal in the centre of the edifice stood the statue of the divinity
+    to whom the temple was dedicated
+  summary: 'The passage describes Greek divine images: worship without visible representations
+    until Cecrops, early square stone blocks engraved with deity names, rough early
+    sculptural forms, later idealized statues, and the placement of a temple''s dedicated
+    divinity statue at the center, surrounded by other divine images behind rails.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Greeks are said to have worshipped their gods without visible representations
+    until the time of Cecrops.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The most ancient visible representations consisted of square stone blocks
+    engraved with the name of the deity represented.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Early sculptural attempts are described as rude stocks with a head, a shapeless
+    tapering trunk, undivided feet, and undefined limbs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Later artists produced idealized divine statues, some preserved and regarded
+    as examples of pure art.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the temple, the statue of the dedicated divinity stood on a central pedestal
+    and was surrounded by images of other gods fenced off by rails.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: The Greeks
+  description: Collective worshippers of the gods described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cecrops
+  description: Named as the chronological marker after which visible representations
+    of gods are said to appear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gods or deities
+  description: Divinities worshipped by the Greeks and represented by stone blocks,
+    stocks, statues, and images.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Divinity to whom the temple was dedicated
+  description: The temple's dedicated divinity, represented by a statue standing on
+    a central pedestal.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Other gods
+  description: Gods whose images surrounded the central statue in the temple.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: worshippers
+  assigned_to:
+  - fig:1
+  basis: The Greeks are described as worshipping their gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chronological reference
+  assigned_to:
+  - fig:2
+  basis: Cecrops marks the time before which Greek worship is said to lack visible
+    representations.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: represented divinities
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage describes deities represented by names, statues, and images.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: temple dedicatee
+  assigned_to:
+  - fig:4
+  basis: The central statue represents the divinity to whom the temple was dedicated.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: surrounding divine images
+  assigned_to:
+  - fig:5
+  basis: Images of other gods surround the central statue.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: visible divine representation
+  literal_form: Visible representations of gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: engraved stone block
+  literal_form: Square blocks of stone engraved with the name of the deity represented
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rude early sculptural stock
+  literal_form: A stock-like form with a head, shapeless tapering trunk, undivided
+    feet, and undefined limbs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: idealized divine statue
+  literal_form: Later artistic statues presenting the highest ideals of the gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: central pedestal statue
+  literal_form: The statue of the temple's dedicated divinity standing on a pedestal
+    in the centre of the edifice
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: surrounding fenced images
+  literal_form: Images of other gods surrounding the central statue and fenced off
+    by rails
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Development of divine representation
+  summary: Greek worship is described as moving from no visible divine representations,
+    to engraved stone blocks, to rough stock-like sculptures, and finally to idealized
+    statues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Temple image arrangement
+  summary: Inside the temple, the dedicated divinity's statue stands on a central
+    pedestal, surrounded by images of other gods behind rails.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Aniconic-to-iconic deity representation
+  taxonomy_refs: []
+  basis: The passage explicitly traces Greek worship from no visible representations
+    to named stone blocks, rough anthropomorphic forms, and later idealized statues.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a cult-art pattern in a handbook passage, not a narrative myth
+    episode.
+- id: motif:2
+  label: Central cult statue with surrounding divine images
+  taxonomy_refs: []
+  basis: The passage describes a temple layout with the dedicated divinity's statue
+    on a central pedestal and images of other gods around it behind rails.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a spatial ritual-art arrangement, not a developed mythic
+    action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6144-6149
+  quote_or_summary: The Greeks worshipped their gods without visible representations
+    until the time of Cecrops; the earliest representations were square stone blocks
+    engraved with the deity's name.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6149-6155
+  quote_or_summary: The first sculptures were rough stock-like forms with a head and
+    shapeless trunk, while later artists produced idealized statues of gods that were
+    preserved as art.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 6157-6159
+  quote_or_summary: "“On a pedestal in the centre of the edifice stood the statue
+    of the divinity to whom the temple was dedicated,” surrounded by images of other
+    gods fenced off by rails."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports observations about divine images and temple
+    arrangement. Motif labeling is descriptive rather than tied to a supplied taxonomy
+    family. No comparison claims are made because the passage does not itself support
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied; available symbol terms such as fire, water, tree, serpent, cave, milk, and mountain are not present in this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6144-l6159
+  passage_sha256=6e9bb59a51fa8a161fe1917b698a1f57353e01247df89610a921cfd34b78693d
+

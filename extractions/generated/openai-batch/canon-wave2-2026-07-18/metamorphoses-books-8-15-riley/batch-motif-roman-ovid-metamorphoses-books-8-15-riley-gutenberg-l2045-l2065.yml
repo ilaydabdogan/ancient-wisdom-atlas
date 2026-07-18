@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2045-l2065
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2045-2065
+  start: '2045'
+  end: '2065'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An explanatory note rationalizes the story of Metra and Erisicthon as possibly
+    reflecting a daughter's labor to support a ruined father. It reports interpretations
+    of Metra's changes, mentions her marriage to Autolycus, notes Callimachus's version
+    of the Erisicthon story, describes Erisicthon's impiety and genealogy, and proposes
+    a possible Eastern origin with a broad comparison to Arabian Nights fiction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanation says the story of Metra and Erisicthon probably rests on Metra's
+    care for her father after he ruined himself through luxury and extravagance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Metra is described as a young woman able to turn her hand to useful employment.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One interpretation says Metra's changes signify wages earned while serving
+    in the capacity of a slave and given to her father; the explanation adds that
+    domestic wages were often paid in kind.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another interpretation says Metra's changes denote payment received for debaucheries.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ovid is said to add that Metra married Autolycus.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Autolycus is described as a robber who stole the oxen of Eurytus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Callimachus's Hymn to Ceres is said to give the story of Erisicthon at length.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Erisicthon is described as the great-grandfather of Ulysses.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Erisicthon is described as probably noted for infidelity, impiety, and a riotous
+    course of life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The explanation says the story is probably of Eastern origin and could rival
+    Arabian Nights fiction if expanded.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Metra
+  description: Daughter in the explanation's account; she supports her ruined father,
+    has reputed changes discussed by interpreters, and is said by Ovid to have married
+    Autolycus.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Erisicthon
+  description: Named with Metra in the story; associated with the father ruined by
+    luxury and extravagance, and later described as Ulysses' great-grandfather and
+    as impious and riotous.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Autolycus
+  description: Robber whom Ovid says Metra married; he stole Eurytus's oxen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Eurytus
+  description: Person whose oxen were stolen by Autolycus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ulysses
+  description: Descendant for whom Erisicthon is named as great-grandfather.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dutiful daughter and supporter
+  assigned_to:
+  - fig:1
+  basis: Metra is said to have diligently supported her father in his need.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruined father
+  assigned_to:
+  - fig:2
+  basis: The explanation frames the father in the Metra-Erisicthon story as ruined
+    by luxury and extravagance.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: worker or servant in rationalizing interpretation
+  assigned_to:
+  - fig:1
+  basis: Metra is said to have been able to do useful employment, and some interpreted
+    her changes as wages from service.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: robber and ox-thief
+  assigned_to:
+  - fig:3
+  basis: Autolycus is explicitly called a robber and is said to have stolen Eurytus's
+    oxen.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: impious riotous ancestor
+  assigned_to:
+  - fig:2
+  basis: Erisicthon is described as Ulysses' great-grandfather and as noted for infidelity,
+    impiety, and riotous living.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: owner of stolen oxen
+  assigned_to:
+  - fig:4
+  basis: The stolen oxen are identified as the oxen of Eurytus.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: descendant in genealogy
+  assigned_to:
+  - fig:5
+  basis: Erisicthon is described as Ulysses' great-grandfather.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Metra's changes
+  literal_form: changes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wages in kind
+  literal_form: domestic wages paid in kind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stolen oxen
+  literal_form: oxen of Eurytus
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rationalized filial support
+  summary: The explanation proposes that Metra's story may reflect her effort to support
+    her father after his ruin by extravagance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Competing readings of changes
+  summary: Metra's changes are interpreted either as wages from service, often paid
+    in kind, or as payments for debaucheries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marriage to Autolycus and ox theft
+  summary: Ovid is reported to say that Metra married Autolycus, a robber who stole
+    Eurytus's oxen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Classical literary and genealogical framing
+  summary: Callimachus is cited as telling Erisicthon's story at length, and Erisicthon
+    is characterized by genealogy and by impiety and riotous living.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Origin and broad literary comparison
+  summary: The explanation proposes a probable Eastern origin for the story and compares
+    its potential narrative interest to Arabian Nights fiction.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dutiful daughter supports ruined parent
+  taxonomy_refs: []
+  basis: Metra is described as supporting her father after he ruined himself through
+    luxury and extravagance.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is the commentator's rationalizing explanation rather than a narrated
+    mythic episode in this passage.
+- id: motif:2
+  label: Changing woman interpreted as livelihood or exchange
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage discusses Metra's changes and reports interpretations that they
+    signify wages from service or payment for debauchery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate actual transformations; it allegorizes or
+    rationalizes the reported changes.
+- id: motif:3
+  label: Theft of oxen by a robber
+  taxonomy_refs: []
+  basis: Autolycus is called a robber and is said to have stolen the oxen of Eurytus.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The theft is only briefly mentioned, and no sacred or heroic theft context
+    is supplied in the passage.
+- id: motif:4
+  label: Impious extravagant figure
+  taxonomy_refs: []
+  basis: Erisicthon is associated with ruin through luxury and extravagance and is
+    described as noted for infidelity, impiety, and riotous living.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe a divine judgment, punishment, or transformation
+    resulting from the impiety.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that Callimachus's Hymn to Ceres also gives the story
+    of Erisicthon, supporting a same-story or same-motif parallel within classical
+    literary transmission.
+  claim_level: same_motif
+  target: Callimachus, Hymn to Ceres, story of Erisicthon
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of Callimachus's version are provided in this passage.
+- id: claim:2
+  claim: The explanation asserts a probable Eastern origin for the story and broadly
+    compares its potential narrative interest to Arabian Nights fiction.
+  claim_level: historical_contact
+  target: Eastern-origin tale patterns / Arabian Night's Entertainments
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no specific Eastern source, transmission path, or
+    concrete motif parallel to Arabian Nights tales.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2047-2051
+  quote_or_summary: The explanation states that Metra likely supported her father
+    after he ruined himself by luxury and extravagance, and that she could do useful
+    work.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+- id: ev:2
+  type: summary
+  locator: 2051-2055
+  quote_or_summary: Some interpret Metra's changes as wages received from those she
+    served in the capacity of a slave and gave to her father; domestic wages were
+    often paid in kind.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+- id: ev:3
+  type: summary
+  locator: 2055-2056
+  quote_or_summary: Other writers interpret Metra's changes as the price she received
+    for debaucheries.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+- id: ev:4
+  type: summary
+  locator: 2056-2058
+  quote_or_summary: Ovid is said to add that Metra married Autolycus, the robber who
+    stole Eurytus's oxen.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+- id: ev:5
+  type: summary
+  locator: 2058-2061
+  quote_or_summary: Callimachus's Hymn to Ceres is said to give the story of Erisicthon
+    at length; Erisicthon is called Ulysses' great-grandfather and described as probably
+    impious and riotous.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+- id: ev:6
+  type: summary
+  locator: 2061-2065
+  quote_or_summary: The explanation says the story is probably of Eastern origin and
+    could, if expanded, rival many fictions in the Arabian Night's Entertainments.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain; Project Gutenberg/Riley translation metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is based on an explanatory commentary passage rather than a direct
+    mythic narrative. Motif candidates are therefore mostly rationalized or reported
+    motifs, and comparison claims rely on the commentator's brief assertions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external details of Ovid, Callimachus, or the Erisicthon myth were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l2045-l2065
+  passage_sha256=897c3c945c80a10d5dfa610e14e35716e3a4218d0b03a9a1164682b5263ecf75
+

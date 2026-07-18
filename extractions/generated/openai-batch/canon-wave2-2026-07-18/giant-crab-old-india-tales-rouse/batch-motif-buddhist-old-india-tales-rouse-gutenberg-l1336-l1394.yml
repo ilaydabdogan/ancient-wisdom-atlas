@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1336-l1394
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE MONKEYS AND THE GARDENER / THE GOBLIN AND THE SNEEZE / THE GRATEFUL BEASTS
+    AND THE UNGRATEFUL PRINCE / THE GOBLIN IN THE POOL; lines 1336-1394
+  start: '1336'
+  end: '1394'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A water-bound goblin lives in a forest pool and eats animals that enter
+    the water. During a drought, thirsty monkeys reach the pool; their king notices
+    tracks going in but not out and warns them. Two monkeys enter anyway and are dragged
+    under. A man arrives, hears the warning, recognizes the danger, and drinks through
+    a hollow reed. The monkeys imitate him, drink safely from the bank, and the goblin
+    later starves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pool in a great forest is inhabited by a horrible goblin.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goblin is described as big, black, monkey-like, with a large mouth, four
+    rows of sharp teeth, and gills instead of a nose.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The goblin cannot come out of the water and can only seize animals that enter
+    the pool, not animals that stay on the bank.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A drought dries up surrounding water sources, while the deep, cool pool remains.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A herd of monkeys comes to the pool after searching for water, and the King
+    of the Monkeys notices footprints going toward the water with none returning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The King of the Monkeys warns the monkeys not to go near the pool.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Two thirsty monkeys enter the water on separate occasions and disappear or
+    are dragged below the surface.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The monkeys remain on the high banks, unhappy and unable to reach the water
+    from above.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A man comes to the pool, and the King of the Monkeys warns him not to enter
+    it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The man pulls up a long reed, cuts off its ends, places one end in the water,
+    and sucks water through the other end.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The monkeys imitate the man by using reeds to drink from the pool without
+    entering it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After no more food is obtained from the pool, the goblin dies of starvation.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Goblin in the pool
+  description: A horrible water-bound goblin living in the forest pool; it eats animals
+    that enter the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: King of the Monkeys
+  description: A clever monkey leader who notices the pattern of footprints and warns
+    others not to enter the pool.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Herd of monkeys
+  description: A thirsty group of monkeys searching for water during drought; two
+    members are taken under the water, and the rest later drink through reeds.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Man at the pool
+  description: A man who comes to the pool for water, hears the monkeys’ warning,
+    and demonstrates drinking through a reed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: water-bound predator
+  assigned_to:
+  - fig:1
+  basis: The goblin lives in the pool, cannot leave the water, and eats animals that
+    enter it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cautious leader and warner
+  assigned_to:
+  - fig:2
+  basis: The king observes footprints going into the water but not away and warns
+    the monkeys and later the man.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: thirst-driven endangered group
+  assigned_to:
+  - fig:3
+  basis: The monkeys are thirsty during drought and are unable to drink safely at
+    first.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: imitators of successful action
+  assigned_to:
+  - fig:3
+  basis: The monkeys copy the man’s use of reeds and drink safely.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: practical problem-solver
+  assigned_to:
+  - fig:4
+  basis: The man uses a hollow reed to draw water from the pool without entering it.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dangerous pool water
+  literal_form: The deep, cool pool that remains during drought and contains the goblin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: footprints as warning sign
+  literal_form: Many footprints going down to the water and none coming away.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: reed drinking tube
+  literal_form: A long reed cut open at both ends and used to suck water from the
+    pool.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: bank of the pool
+  literal_form: The bank where animals are safe from the goblin and from which the
+    monkeys later drink through reeds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Goblin’s dangerous pool
+  summary: The passage establishes a forest pool inhabited by a goblin that can attack
+    animals in the water but cannot touch those on the bank.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Drought and discovery of tracks
+  summary: During a drought, the monkeys reach the remaining pool; their king notices
+    tracks leading into the water with none returning and warns them away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two monkeys taken below
+  summary: Two thirsty monkeys enter the pool at different moments and are pulled
+    or disappear beneath the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Man demonstrates reed drinking
+  summary: A man arrives, hears the monkeys’ account, and uses a cut reed to drink
+    from the pool without entering it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Monkeys imitate and goblin starves
+  summary: The monkeys imitate the man’s reed method, satisfy their thirst safely,
+    and the goblin dies when no more prey enter the pool.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Predator confined to dangerous water
+  taxonomy_refs: []
+  basis: The goblin lives in the pool, attacks entrants, and cannot harm those who
+    remain on the bank.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned beyond the literal passage pattern.
+- id: motif:2
+  label: Danger recognized from one-way tracks
+  taxonomy_refs:
+  - wisdom
+  basis: The King of the Monkeys infers danger from footprints going down to the water
+    with none coming away and warns the group.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The wisdom classification rests on the passage’s explicit description
+    of the monkey king as clever and his successful inference.
+- id: motif:3
+  label: Safe access to perilous water through a reed
+  taxonomy_refs:
+  - wisdom
+  basis: The man avoids entering the pool by using a reed to draw water, and the monkeys
+    follow the same method.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a practical survival motif in the passage; no claim of ritual
+    or sacred meaning is made.
+- id: motif:4
+  label: Animals imitate a human technique
+  taxonomy_refs: []
+  basis: The passage explicitly says the monkeys pull up reeds and suck water through
+    them after seeing the man do it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The extraction treats imitation as a narrative pattern only, without inferring
+    a wider taxonomy.
+- id: motif:5
+  label: Monster defeated by loss of prey
+  taxonomy_refs: []
+  basis: After the monkeys learn to drink without entering the pool, the goblin obtains
+    no more food and dies of starvation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents starvation as the result; it does not describe a
+    direct combat or intentional slaying.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1336-1345
+  quote_or_summary: A horrible goblin lives in a forest pool; it is large, black,
+    monkey-like, toothy, gilled, unable to leave the water, and able to eat animals
+    that enter the pool but not those on the bank.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1346-1357
+  quote_or_summary: A drought dries surrounding water except the deep shaded pool;
+    the monkeys arrive thirsty, and their clever king observes tracks going to the
+    water with none returning and warns them not to approach.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1357-1369
+  quote_or_summary: One monkey drinks and disappears with bubbles left behind; another
+    enters later, shrieks, raises his hands, and is dragged below the water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1370-1374
+  quote_or_summary: The monkeys are dying of thirst, afraid to drink, and unable to
+    reach the water from the high banks.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1375-1385
+  quote_or_summary: A man comes to the pool for a drink; the King of the Monkeys warns
+    him that entering the pool will drown him, and the monkeys explain what happened
+    to their companions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 1386-1392
+  quote_or_summary: The man understands the danger as a goblin, cuts a reed, drinks
+    through it from the bank, and the monkeys imitate him by pulling reeds and drinking
+    through them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 1392-1394
+  quote_or_summary: After the monkeys drink safely and no more food enters the pool,
+    the goblin dies of starvation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source metadata; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are local candidate patterns; only the available 'wisdom' motif family is used
+    where directly supported. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used; adjacent titles in the locator label were not extracted because the passage text provided is 'THE GOBLIN IN THE POOL'.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1336-l1394
+  passage_sha256=a8087fee22c61bcc1106195b82c704359cf2a4abe59164beabfa241a975ede22
+

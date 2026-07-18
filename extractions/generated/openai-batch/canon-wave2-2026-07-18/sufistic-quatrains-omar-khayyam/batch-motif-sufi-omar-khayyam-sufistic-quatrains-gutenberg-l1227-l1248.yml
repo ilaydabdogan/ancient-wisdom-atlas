@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1227-l1248
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXI. / XXXII. / XXXIII. / XXXIV.; lines 1227-1248
+  start: '1227'
+  end: '1248'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: There was a Door to which I found no Key
+  summary: In three quatrains, a first-person speaker describes a door without a key
+    and a veil past which he cannot see; a brief talk of “ME and THEE” appears and
+    then vanishes; the speaker asks Heaven what lamp Destiny used to guide children
+    stumbling in darkness and receives the reply “A blind Understanding”; finally
+    the speaker consults an earthen bowl about the secret Well of Life and receives
+    the counsel to drink while alive because the dead do not return.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first-person speaker finds no key to a door.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A veil is present, and the speaker cannot see past it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A brief “Talk” of “ME and THEE” seems to occur and then there is no more of
+    “THEE and ME.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker cries to the rolling Heaven with a question about what lamp Destiny
+    had to guide her little children stumbling in darkness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Heaven replies with the phrase “A blind Understanding!”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker puts his lip to an earthen bowl in order to learn the secret Well
+    of Life.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The earthen bowl is described as murmuring lip-to-lip that one should drink
+    while alive because, once dead, one never returns.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: I / ME / first-person speaker
+  description: The first-person speaker who encounters the door and veil, addresses
+    Heaven, and consults the earthen bowl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: THEE
+  description: A second-person term paired with “ME” in the brief talk and then absent
+    with “ME.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: rolling Heav’n
+  description: The Heaven addressed by the speaker and said to reply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Destiny
+  description: A feminine personified force in the speaker’s question, associated
+    with guiding her little children.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: little Children
+  description: The children of Destiny in the speaker’s question, described as stumbling
+    in the dark.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: earthen Bowl
+  description: The bowl to which the speaker applies his lip; it is described as murmuring
+    counsel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person seeker and questioner
+  assigned_to:
+  - fig:1
+  basis: The speaker seeks a key, cannot see past a veil, questions Heaven, and seeks
+    the secret Well of Life from the bowl.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: second-person paired referent
+  assigned_to:
+  - fig:2
+  basis: "“THEE” is paired with “ME” in the brief talk before both terms disappear."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cosmic respondent
+  assigned_to:
+  - fig:3
+  basis: Heaven is addressed by the speaker and gives an answer.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: named guiding agent in the question
+  assigned_to:
+  - fig:4
+  basis: The speaker asks what lamp Destiny had to guide her children.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: stumbling guided group
+  assigned_to:
+  - fig:5
+  basis: The children are described as stumbling in the dark while needing guidance.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: personified speaking vessel
+  assigned_to:
+  - fig:6
+  basis: The earthen bowl is consulted and is described as murmuring advice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: door without key
+  literal_form: Door and missing Key
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: veil beyond sight
+  literal_form: Veil past which the speaker cannot see
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ME and THEE pair
+  literal_form: ME and THEE / THEE and ME
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rolling Heaven
+  literal_form: rolling Heav’n
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lamp and darkness
+  literal_form: Lamp guiding children stumbling in the Dark
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: earthen bowl
+  literal_form: earthen Bowl
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Well of Life
+  literal_form: secret Well of Life
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blocked door, veil, and vanishing ME/THEE
+  summary: The speaker reports a door without a key, a veil beyond which he cannot
+    see, and a brief talk of ME and THEE that disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Question to Heaven about Destiny’s lamp
+  summary: The speaker addresses rolling Heaven, asking what lamp Destiny used to
+    guide her children in darkness; Heaven replies, “A blind Understanding!”
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Consultation with the earthen bowl
+  summary: The speaker turns lip-to-lip to an earthen bowl to learn the secret Well
+    of Life; the bowl counsels drinking while alive because the dead do not return.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Frustrated access to hidden knowledge
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The passage combines a door without a key, a veil beyond sight, and a later
+    attempt to learn the secret Well of Life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage presents obstructed access and questioning, but it does not
+    narrate a completed passage through the threshold.
+- id: motif:2
+  label: Dissolution of ME/THEE distinction
+  taxonomy_refs:
+  - duality
+  - annihilation_union
+  basis: A brief talk of ME and THEE appears, followed by “no more of THEE and ME.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text states disappearance of the paired terms, but it does not explicitly
+    name union or annihilation.
+- id: motif:3
+  label: Cosmic questioning met by blind guidance
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks Heaven about Destiny’s lamp for children in darkness, and
+    Heaven answers with “A blind Understanding!”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reply is aphoristic; the passage does not define the doctrine or agent
+    behind the answer.
+- id: motif:4
+  label: Death as non-return and urgency of living
+  taxonomy_refs: []
+  basis: The earthen bowl counsels the speaker to drink while alive because once dead
+    one never returns.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is not a death-rebirth or resurrection scene; the passage explicitly
+    denies return after death.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXXII; lines 1227-1230
+  quote_or_summary: "“There was a Door to which I found no Key: / There was a Veil
+    past which I could not see”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: XXXII; lines 1231-1232
+  quote_or_summary: "“Some little Talk awhile of ME and THEE / There seem’d--and then
+    no more of THEE and ME.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: XXXIII; lines 1234-1239
+  quote_or_summary: The speaker cries to rolling Heaven, asks what lamp Destiny had
+    to guide her little children stumbling in the dark, and Heaven replies, “A blind
+    Understanding!”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain Project Gutenberg source; summary with brief quotation
+    used.
+- id: ev:4
+  type: summary
+  locator: XXXIV; lines 1241-1248
+  quote_or_summary: The speaker turns his lip to an earthen bowl to learn the secret
+    Well of Life; lip-to-lip it murmurs, “While you live / Drink!--for once dead you
+    never shall return.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain Project Gutenberg source; summary with brief quotation
+    used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    readings and require review, especially where taxonomy references imply broader
+    Sufi or comparative categories. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions XXXI, but the passage text provided for extraction contains XXXII, XXXIII, and XXXIV only.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1227-l1248
+  passage_sha256=2b5f9f891b225791bfe49ade56efe03ba36cfd0772825b394521b9c256e6b269
+

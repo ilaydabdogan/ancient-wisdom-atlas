@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29800-l29825
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  21 / PLATE  NO.  22 / PLATE  NO.  23 / PLATE  NO.  24; lines
+    29800-29825
+  start: '29800'
+  end: '29825'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives plate captions for a building brick stamped with an inscription
+    of Kudur Mabuk and for a bronze canephore figure of Arad-Sin (Eri-Aku), king of
+    Larsa, with British Museum and illustration-source information.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plate No. 23 describes a building brick stamped with an inscription of Kudur
+    Mabuk.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The building brick is said to be preserved in the British Museum with number
+    900.541.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The photograph for Plate No. 23 is credited to W. A. Mansell & Co., London.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Plate No. 24 describes a bronze canephore figure of Arad-Sin (Eri-Aku).
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Arad-Sin (Eri-Aku) is identified as king of Larsa.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bronze figure is associated with British Museum number 91.144.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The illustration for Plate No. 24 is said to come from a 1908 second edition
+    guide to Babylonian and Assyrian antiquities, by permission of the Trustees of
+    the British Museum.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kudur Mabuk
+  description: Named in relation to an inscription stamped on a building brick.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arad-Sin (Eri-Aku)
+  description: Named as associated with a bronze canephore figure and identified as
+    king of Larsa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king of Larsa
+  assigned_to:
+  - fig:2
+  basis: The caption explicitly identifies Arad-Sin (Eri-Aku) as king of Larsa.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: stamped building brick
+  literal_form: Building brick stamped with an inscription of Kudur Mabuk.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bronze canephore figure
+  literal_form: Bronze figure, canephore, of Arad-Sin (Eri-Aku).
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Plate No. 23 artifact caption
+  summary: The caption identifies a building brick stamped with an inscription of
+    Kudur Mabuk and gives its British Museum preservation number.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plate No. 24 artifact caption
+  summary: The caption identifies a bronze canephore figure of Arad-Sin (Eri-Aku),
+    king of Larsa, and gives its British Museum number.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29800-29806
+  quote_or_summary: "“Building brick stamped with an inscription of Kudur Mabuk...
+    preserved in the British Museum, Number 900.541.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request; full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 29807-29808
+  quote_or_summary: "“Photograph by W. A. Mansell & Co.. London.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request; full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 29813-29815
+  quote_or_summary: "“Bronze figure, canephore, of Arad-Sin (Eri-Aku). king of Larsa.
+    British Museum, Number 91.144.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 29817-29820
+  quote_or_summary: The Plate No. 24 illustration is attributed to A Guide to the
+    Babylonian and Assyrian Antiquities, 2d edition, 1908, by permission of the Trustees
+    of the British Museum.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage consists of plate captions and artifact metadata rather than
+    a mythological narrative; no candidate mythic motifs or comparison claims are
+    supported by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif refs were applied because the passage does not present a narrative pattern or explicit mythic comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29800-l29825
+  passage_sha256=094949696a633d05963223f0a1696822f30ce158e096887c95d0c0e0de5a106e
+

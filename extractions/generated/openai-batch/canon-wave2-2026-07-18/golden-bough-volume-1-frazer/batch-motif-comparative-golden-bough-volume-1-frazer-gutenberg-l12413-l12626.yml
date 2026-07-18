@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l12413-l12626
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 12413-12626
+  start: '12413'
+  end: '12626'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“the central mystery revealed to the initiated was a reaped ear of corn”"
+  summary: The passage gives footnote evidence for Demeter as a corn-goddess and Proserpine
+    in the same character. It also states that, at initiation into the Eleusinian
+    mysteries, the central mystery revealed to initiates was a reaped ear of corn.
+    A later note records Rapegyrne as an old Scottish name for the Maiden.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Demeter is identified in the note as a corn-goddess, with references to Mannhardt
+    and other authorities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Proserpine is said to be treated “in the same character” as Demeter, namely
+    as a corn-goddess.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the initiation into the Eleusinian mysteries, the central mystery revealed
+    to the initiated is said to have been a reaped ear of corn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Eleusinian mysteries are described as the most famous rites of Demeter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An old Scottish name for the Maiden, glossed parenthetically as “autumnalis
+    nymphula,” is given as Rapegyrne.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Demeter
+  description: Described as a corn-goddess; the Eleusinian mysteries are described
+    as rites of Demeter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Proserpine
+  description: Described as being in the same corn-goddess character as Demeter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the initiated
+  description: Participants in the Eleusinian initiation to whom the central mystery
+    was revealed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Maiden / Rapegyrne
+  description: A figure or appellation called the Maiden, for which Rapegyrne is given
+    as an old Scottish name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: corn-goddess
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note names Demeter as a corn-goddess and says Proserpine is treated in
+    the same character.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deity associated with Eleusinian rites
+  assigned_to:
+  - fig:1
+  basis: The Eleusinian mysteries are described as the most famous of the rites of
+    Demeter.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: initiates / recipients of revelation
+  assigned_to:
+  - fig:3
+  basis: The central mystery is said to have been revealed to the initiated at Eleusinian
+    initiation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named Maiden figure
+  assigned_to:
+  - fig:4
+  basis: The note gives Rapegyrne as an old Scottish name for the Maiden.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: reaped ear of corn
+  literal_form: A reaped ear of corn revealed in initiation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: corn
+  literal_form: Corn as the defining attribute of Demeter and Proserpine as corn-goddesses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Eleusinian initiation and revealed corn-ear
+  summary: During initiation into the Eleusinian mysteries, the central mystery revealed
+    to the initiated is identified as a reaped ear of corn; the rite is associated
+    with Demeter.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: initiation with revealed sacred object
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly describes an initiation in which a central mystery
+    is revealed to initiates, with the revealed object identified as a reaped ear
+    of corn.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The supplied passage is a footnote and does not describe the broader ritual
+    sequence.
+- id: motif:2
+  label: corn-goddess identification
+  taxonomy_refs: []
+  basis: Demeter is identified as a corn-goddess, and Proserpine is said to share
+    the same character.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage supplies scholarly citations and attributes, but not a narrative
+    episode of the goddesses.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats Proserpine as sharing Demeter’s corn-goddess function.
+  claim_level: same_function
+  target: Demeter as corn-goddess and Proserpine in the same character
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied passage does not provide narrative details for either
+    figure; the claim is limited to the stated shared character.
+- id: claim:2
+  claim: The Eleusinian note fits the initiation motif family because it describes
+    initiates receiving a central revealed mystery.
+  claim_level: same_motif
+  target: initiation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage identifies only the revelation of the corn-ear and does
+    not describe other stages of the rite.
+evidence:
+- id: ev:1
+  type: quote
+  locator: footnote 1089; within lines 12413-12626
+  quote_or_summary: "“On Demeter as a corn-goddess”; “on Proserpine in the same character.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: footnote 1089; within lines 12413-12626
+  quote_or_summary: At the Eleusinian mysteries, described as rites of Demeter, “the
+    central mystery revealed to the initiated was a reaped ear of corn.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: footnote 1160; within lines 12413-12626
+  quote_or_summary: "“An old Scottish name for the Maiden (_autumnalis nymphula_)
+    was _Rapegyrne_.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The explicit statements about Demeter, Proserpine, and the Eleusinian corn-ear
+    are clear. Overall confidence is limited because the supplied passage is a set
+    of footnotes with little continuous mythic or ritual narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol reference was assigned to corn because the provided symbol list does not include grain or corn.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l12413-l12626
+  passage_sha256=1f56224555ad69e7355021e8f91b4fe1145eb249f3eee38a764e7ca6d6bfa41c
+

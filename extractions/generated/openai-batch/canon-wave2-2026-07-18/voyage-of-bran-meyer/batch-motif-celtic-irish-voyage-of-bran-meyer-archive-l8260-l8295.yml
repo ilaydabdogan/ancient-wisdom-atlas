@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l8260-l8295
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: MAELDUIN  163 / THE    AMOROUS    QUEEN  .  165 / THE    AMOROUS    QUEEN  167
+    / THE    AMOROUS    QUEEN  169; lines 8260-8295
+  start: '8260'
+  end: '8295'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses Maelduin''s Land of Women in relation to Bran, then
+    notes Happy Otherworld features elsewhere in Maelduin''s Voyage: magic apples
+    that sustain voyagers, a rotating fiery rampart around an island with an open
+    door, and beautiful human inhabitants feasting with golden vessels. It also includes
+    a note on Manannan as rider of sea-horses or ocean steeds, with caution about
+    using riding as a dating test.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator concludes that Maelduin's presentation of the Land of Women
+    is later and less close to the original form than Bran's version.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the seventh island, Maelduin's seafarers find three magic apples, each
+    of which suffices them for forty nights.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the tenth island, the voyagers encounter the same apples, which keep hunger
+    and thirst from them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the thirty-first adventure, an island is surrounded by a fiery rampart
+    that continually turns around it.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fiery rampart has an open door, and when the door comes opposite the voyagers,
+    they see the island and what is inside it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The island's indwellers are described as human beings, beautiful and numerous,
+    wearing richly adorned garments and feasting with golden vessels in their hands.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wanderers hear ale music and gaze for a long time on the marvel, which
+    seems delightful to them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The commentator notes the description of the fortunate beings as human and
+    interprets this as a sign that their original nature and connections were no longer
+    present to the storyteller.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Manannan is described as figured as a rider of glistening sea-horses or ocean
+    steeds; the footnote cautions that riding may have replaced driving in the manuscript
+    tradition.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Manannan
+  description: A named figure described as rider of glistening sea-horses or ocean
+    steeds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Maelduin's seafarers or wanderers
+  description: Voyagers who find the magic apples, see the fiery-rampart island, hear
+    ale music, and gaze on the marvel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Indwellers or fortunate beings of the island
+  description: Human beings described as beautiful, numerous, richly dressed, and
+    feasting with golden vessels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ocean-steed rider
+  assigned_to:
+  - fig:1
+  basis: The passage and footnote describe Manannan as rider of glistening sea-horses
+    or ocean steeds.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: voyaging observers
+  assigned_to:
+  - fig:2
+  basis: The seafarers encounter apples on islands and later behold the island through
+    the moving rampart door.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: feasting Otherworld island inhabitants
+  assigned_to:
+  - fig:3
+  basis: The inhabitants are described as beautiful, richly clothed human beings feasting
+    with golden vessels; the commentator calls them fortunate beings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: magic apples
+  literal_form: Three magic apples that sustain the voyagers for forty nights and
+    keep hunger and thirst away.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fiery rampart
+  literal_form: A fiery rampart turning around an island.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: open door in the rampart
+  literal_form: An open door in the side of the turning fiery rampart through which
+    the island becomes visible.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: golden vessels
+  literal_form: Golden vessels held by the feasting inhabitants.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sea-horses or ocean steeds
+  literal_form: Glistening sea-horses or ocean steeds associated with Manannan's riding
+    image.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sustaining apples on voyage islands
+  summary: On two islands in Maelduin's Voyage, the seafarers encounter magic apples
+    that sustain them and prevent hunger and thirst.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Glimpse through the rotating fiery rampart
+  summary: The wanderers see an island through the open door of a continually turning
+    fiery rampart.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Feasting inhabitants of the island
+  summary: Inside the island, beautiful numerous human beings in richly adorned garments
+    feast with golden vessels while ale music is heard.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Manannan with ocean steeds
+  summary: Manannan is represented as associated with riding sea-horses or ocean steeds,
+    though the footnote cautions that riding may be a scribal substitution for driving.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Happy Otherworld encountered in an island-voyage sequence
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage calls these elements part of the gear of the Happy Otherworld
+    and describes voyage islands, including a mysterious island seen through a fiery
+    boundary.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt says Happy Otherworld, but it does not present a death journey
+    or full afterlife itinerary.
+- id: motif:2
+  label: Otherworld food that prevents hunger and thirst
+  taxonomy_refs: []
+  basis: The apples sustain the voyagers for forty nights and are said to forbid hunger
+    and thirst.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy does not include an apple or inexhaustible food
+    symbol.
+- id: motif:3
+  label: Rotating fiery enclosure with timed access
+  taxonomy_refs: []
+  basis: The island is encircled by a fiery rampart that continually turns, with an
+    open door that allows a glimpse when it comes opposite the wanderers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available motif-family ref precisely matches this boundary image.
+- id: motif:4
+  label: Splendid feasting beings beyond an Otherworld boundary
+  taxonomy_refs: []
+  basis: The voyagers see beautiful, richly dressed inhabitants feasting with golden
+    vessels and hear ale music beyond the fiery rampart.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage calls the inhabitants human, while also recording the commentator's
+    caution that their original nature may be obscured.
+- id: motif:5
+  label: Land of Women episode compared across voyage tales
+  taxonomy_refs: []
+  basis: The passage explicitly discusses the Land of Women in Maelduin as a later
+    and less original presentation than the form in Bran.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This excerpt contains the comparison but does not narrate the Land of
+    Women episode itself.
+- id: motif:6
+  label: Manannan associated with sea-horses or ocean steeds
+  taxonomy_refs: []
+  basis: Manannan is described as figured as rider of glistening sea-horses or ocean
+    steeds.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The footnote warns that riding may have replaced driving and should not
+    be used too rigidly for dating.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats Maelduin's Land of Women and Bran's Land of Women as related
+    versions of the same episode or motif, with Maelduin's form judged later and less
+    close to the original.
+  claim_level: same_motif
+  target: Land of Women episode in Bran
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the commentator's conclusion in the excerpt; the episode's
+    narrative details are not included here.
+- id: claim:2
+  claim: The passage groups the magic apples and the fiery-rampart island as Happy
+    Otherworld features found elsewhere in Maelduin's Voyage.
+  claim_level: same_motif
+  target: Happy Otherworld features within Maelduin's Voyage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The grouping is made by the commentator; the passage does not supply
+    a complete catalogue of Happy Otherworld traits.
+- id: claim:3
+  claim: The seventh-island and tenth-island apple episodes share the same sustaining
+    function for the voyagers.
+  claim_level: same_function
+  target: Magic apples on the seventh and tenth islands of Maelduin's Voyage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the apples' stated function of sustaining
+    the travelers and preventing hunger and thirst.
+- id: claim:4
+  claim: The footnote compares this representation of Manannan with other texts in
+    which Manannan is figured as rider of ocean steeds, while cautioning that riding
+    may be a later substitution for driving.
+  claim_level: same_motif
+  target: Manannan as rider of ocean steeds in other texts
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage names no specific parallel texts and explicitly warns against
+    using the riding detail too rigidly as dating evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8265-8267
+  quote_or_summary: The commentator concludes that Maelduin's Land of Women is later
+    and less close to the original form than Bran's.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8268-8272
+  quote_or_summary: 'The passage says Happy Otherworld gear appears elsewhere in Maelduin''s
+    Voyage: on the seventh island, the seafarers find three magic apples, and each
+    apple suffices them for forty nights.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8272-8274
+  quote_or_summary: On the tenth island, the voyagers meet the same apples, which
+    forbid hunger and thirst from them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8274-8285
+  quote_or_summary: In the thirty-first adventure, the wanderers see an island encircled
+    by a constantly turning fiery rampart with an open door; through it they behold
+    beautiful human inhabitants in rich garments feasting with golden vessels and
+    hear their ale music.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8285-8288
+  quote_or_summary: The commentator notes that the beings are described as human and
+    takes this as a sign that their original nature and connections were no longer
+    present to the storyteller.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8262-8263 and 8290-8295
+  quote_or_summary: Manannan is described as figured as rider of glistening sea-horses;
+    the footnote refers to texts where Manannan is rider of ocean steeds and cautions
+    that riding may have been substituted for driving by the last scribe.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal details are clear, but several motif labels derive from scholarly
+    commentary and embedded quotation rather than from a continuous narrative episode
+    in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage combines editorial commentary, brief quotation from Maelduin's Voyage, and a footnote about Manannan; extraction keeps explicit commentary and narrative details distinct where possible.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l8260-l8295
+  passage_sha256=68f5edbef8fd757b207f6f091cc1e2b0f92f1efd9fc93dce6f5cb71954c96651
+

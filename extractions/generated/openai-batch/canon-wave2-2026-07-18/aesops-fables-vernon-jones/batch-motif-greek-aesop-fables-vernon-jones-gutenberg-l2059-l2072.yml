@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2059-l2072
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MOUSE, THE FROG, AND THE HAWK / THE BOY AND THE NETTLES / THE PEASANT
+    AND THE APPLE-TREE / THE JACKDAW AND THE PIGEONS; lines 2059-2072
+  start: '2059'
+  end: '2072'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A jackdaw envies the well-fed pigeons in a farmyard, paints himself white
+    to pass as one of them, and joins their flock. When his chattering reveals him,
+    the pigeons attack him. Returning to other jackdaws, he is not recognized in his
+    white appearance and is driven away, becoming homeless.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A jackdaw watches pigeons in a farmyard.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jackdaw envies the pigeons because they are well fed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The jackdaw decides to disguise himself as a pigeon to obtain a share of their
+    food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The jackdaw paints himself white from head to foot and joins the pigeon flock.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The pigeons do not suspect the jackdaw while he remains silent.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The jackdaw chatters, and the pigeons recognize the disguise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The pigeons peck the jackdaw until he escapes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Other jackdaws do not recognize him in his white dress and refuse to let him
+    feed with them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The jackdaw is driven away and becomes a homeless wanderer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jackdaw
+  description: A jackdaw who envies the pigeons, disguises himself in white, is exposed
+    by his chattering, and is rejected by both pigeons and jackdaws.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pigeons
+  description: A well-fed farmyard flock that initially accepts the silent disguised
+    jackdaw but attacks him after recognizing him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Other jackdaws
+  description: The jackdaw’s own kind, who fail to recognize him in his white dress
+    and drive him away from their food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Disguised imitator
+  assigned_to:
+  - fig:1
+  basis: The jackdaw paints himself white and joins the pigeons to pass as one of
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Deceived and then rejecting flock
+  assigned_to:
+  - fig:2
+  basis: The pigeons do not suspect the silent jackdaw but peck him once his chattering
+    reveals him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Former in-group rejecting altered member
+  assigned_to:
+  - fig:3
+  basis: The other jackdaws do not recognize him in his white dress and drive him
+    away.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Excluded wanderer
+  assigned_to:
+  - fig:1
+  basis: After being rejected by both groups, the jackdaw becomes homeless.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: White disguise
+  literal_form: White paint or white dress covering the jackdaw from head to foot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Chattering voice
+  literal_form: The jackdaw’s chattering that reveals he is not a pigeon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Shared food
+  literal_form: The well-fed pigeons’ good things that the jackdaw wants to share.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Envy in the farmyard
+  summary: The jackdaw sees well-fed pigeons in a farmyard, envies them, and plans
+    to disguise himself to obtain food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Successful silent disguise
+  summary: The jackdaw paints himself white and joins the pigeon flock; while silent,
+    he is not suspected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Exposure by speech
+  summary: The jackdaw chatters, the pigeons detect the disguise, and they peck him
+    until he escapes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rejection by his own kind
+  summary: The jackdaw returns to other jackdaws, but they do not recognize him in
+    his white dress, refuse him food, and drive him away.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Disguise to enter another group for gain
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The jackdaw crosses a social/species boundary by disguising himself as a
+    pigeon to share the pigeons’ food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents deception by animal disguise, not a sacred or supernatural
+    boundary crossing.
+- id: motif:2
+  label: True identity revealed by speech
+  taxonomy_refs: []
+  basis: The jackdaw remains accepted only while silent; his chattering reveals that
+    he is not a pigeon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the available list.
+- id: motif:3
+  label: Impostor rejected by both groups
+  taxonomy_refs: []
+  basis: After being exposed and attacked by the pigeons, the jackdaw is also rejected
+    by other jackdaws because they do not recognize him in his white dress.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage implies a moral pattern, but no explicit moral statement is
+    included in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2059-2063
+  quote_or_summary: A jackdaw watches well-fed pigeons in a farmyard, envies them,
+    and decides to disguise himself as one of them to share their food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 2063-2065
+  quote_or_summary: The jackdaw paints himself white from head to foot, joins the
+    flock, and is not suspected while he stays silent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2065-2068
+  quote_or_summary: When the jackdaw begins chattering, the pigeons see through the
+    disguise and peck him until he escapes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2068-2072
+  quote_or_summary: Other jackdaws do not recognize him in his white dress, will not
+    let him feed with them, drive him away, and he becomes homeless.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the supplied passage. Motif labels
+    are passage-level candidates; only one available taxonomy reference is cautiously
+    applied. No comparison claims are made because the passage itself does not provide
+    an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; despite the broader locator label, the extracted content concerns “The Jackdaw and the Pigeons.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2059-l2072
+  passage_sha256=afc955095b76d021499264f741840fbcc740bd6dd5b1ca4c9b77294bda037bca
+

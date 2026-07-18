@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2625-l2635
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE WILD ASS / THE MAN AND THE SATYR / THE IMAGE-SELLER / THE
+    EAGLE AND THE ARROW; lines 2625-2635
+  start: '2625'
+  end: '2635'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An eagle watches for prey from a high rock. A huntsman hidden in a mountain
+    cleft sees the eagle and shoots it with an arrow. As the eagle dies, it laments
+    that the fatal arrow is winged with eagle feathers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An eagle is perched on a lofty rock and keeps watch for prey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A huntsman is concealed in a cleft of the mountain and watches for game.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The huntsman sees the eagle and shoots an arrow at him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The arrow strikes the eagle in the breast and pierces him through.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eagle, while dying, looks at the arrow and speaks about his fate.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The eagle says the arrow that kills him is winged with eagle feathers.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: An eagle perched on a lofty rock, watching for prey, later struck by
+    the arrow and speaking as he dies.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Huntsman
+  description: A huntsman hidden in a mountain cleft, watching for game, who sees
+    the eagle and shoots an arrow at him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: watcher for prey
+  assigned_to:
+  - fig:1
+  basis: The eagle keeps a sharp lookout for prey from a lofty rock.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wounded victim
+  assigned_to:
+  - fig:1
+  basis: The arrow strikes the eagle in the breast and pierces him through.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dying speaker
+  assigned_to:
+  - fig:1
+  basis: As he lies dying, the eagle looks at the arrow and cries out about his fate.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: concealed hunter
+  assigned_to:
+  - fig:2
+  basis: The huntsman is concealed in a mountain cleft, watches for game, sees the
+    eagle, and shoots an arrow.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountain cleft and lofty rock
+  literal_form: A lofty rock and a cleft of the mountain where the eagle and huntsman
+    are positioned.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: arrow
+  literal_form: An arrow shot by the huntsman that strikes the eagle in the breast
+    and pierces him through.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eagle feathers on the arrow
+  literal_form: The fatal arrow is described by the eagle as winged with eagle feathers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Eagle and huntsman watching from the mountain
+  summary: The eagle watches for prey from a lofty rock while the huntsman, hidden
+    in a mountain cleft, watches for game and notices the eagle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The arrow strikes the eagle
+  summary: The huntsman shoots an arrow at the eagle; the arrow strikes the eagle
+    in the breast and pierces him through.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The dying eagle recognizes the feathered arrow
+  summary: As the eagle lies dying, he looks at the arrow and laments that the arrow
+    that kills him is winged with eagle feathers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Predator becomes prey
+  taxonomy_refs: []
+  basis: The eagle is first shown watching for prey, but he is then seen and shot
+    by a huntsman watching for game.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif label summarizes
+    the literal reversal in action.
+- id: motif:2
+  label: Death by a weapon fitted with feathers of one's own kind
+  taxonomy_refs: []
+  basis: The dying eagle emphasizes that the arrow killing him is winged with eagle
+    feathers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage identifies eagle feathers on the arrow, but does not say they
+    came from this individual eagle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2625-2627
+  quote_or_summary: An eagle sits on a lofty rock and keeps a sharp lookout for prey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2627-2630
+  quote_or_summary: A huntsman, concealed in a mountain cleft and watching for game,
+    sees the eagle and shoots an arrow at him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2630-2631
+  quote_or_summary: The shaft strikes the eagle in the breast and pierces him through.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2631-2635
+  quote_or_summary: As he dies, the eagle looks at the arrow and says it is more cruel
+    that the arrow killing him is “winged with an Eagle's feathers.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied fable passage. No comparison claims
+    were made because the passage does not itself support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or inferred taxonomy identifiers were used beyond the supplied symbol taxonomy reference for mountain.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2625-l2635
+  passage_sha256=37caf34926c41050a5f273978a5d007eca9669832f035e2c69345abf5058da40
+

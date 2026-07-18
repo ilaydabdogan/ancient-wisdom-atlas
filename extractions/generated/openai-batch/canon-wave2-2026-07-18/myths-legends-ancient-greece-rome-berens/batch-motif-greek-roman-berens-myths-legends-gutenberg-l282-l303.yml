@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l282-l303
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: 'NEW YORK: / PREFACE. / E. M. BERENS. / CONTENTS.; lines 282-303'
+  start: '282'
+  end: '303'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: PART II.--LEGENDS.
+  summary: A table-of-contents segment for Part II lists legend chapter titles with
+    page numbers, followed by a separator and page marker.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Part II, Legends.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists legend entries with page numbers, including named individuals,
+    named groups, paired names, and event-like chapter titles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: One contents entry pairs Alcmaeon with a necklace in the title.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One contents entry is titled as a return of Greeks from Troy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage gives chapter titles and page numbers rather than narrating mythic
+    episodes.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: Named as a contents entry with page number 203.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Perseus
+  description: Named as a contents entry with page number 205.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ion
+  description: Named as a contents entry with page number 210.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Daedalus and Icarus
+  description: Named jointly as a contents entry with page number 211.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The Argonauts
+  description: Named as a contents entry with page number 213.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Pelops
+  description: Named as a contents entry with page number 232.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Heracles
+  description: Named as a contents entry with page number 234.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Bellerophon
+  description: Named as a contents entry with page number 256.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Theseus
+  description: Named as a contents entry with page number 259.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Oedipus
+  description: Named as a contents entry with page number 269.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:11
+  name_or_label: The Seven Against Thebes
+  description: Named as a contents entry with page number 272; no individual members
+    are specified in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: The Epigoni
+  description: Named as a contents entry with page number 276.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:13
+  name_or_label: Alcmaeon
+  description: Named in a contents entry titled with a necklace, page number 277.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:14
+  name_or_label: The Heraclidae
+  description: Named as a contents entry with page number 280.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:15
+  name_or_label: Greeks from Troy
+  description: Named in the contents entry 'Return of the Greeks from Troy,' page
+    number 304.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: contents-listed legend subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  - fig:14
+  - fig:15
+  basis: Each figure or group is named in a chapter title in the Part II contents
+    list.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: return subject in title
+  assigned_to:
+  - fig:15
+  basis: The title states 'Return of the Greeks from Troy.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: necklace in chapter title
+  literal_form: the necklace
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: return from Troy
+  taxonomy_refs:
+  - return
+  basis: A contents entry is titled 'Return of the Greeks from Troy.'
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a table-of-contents title is present; the passage gives no narrative
+    details about the journey, outcome, or ritual meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 282
+  quote_or_summary: PART II.--LEGENDS.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: summary
+  locator: lines 283-292
+  quote_or_summary: Contents entries list Cadmus, Perseus, Ion, Daedalus and Icarus,
+    the Argonauts, Pelops, Heracles, Bellerophon, Theseus, and Oedipus with page numbers
+    203-269.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 293-298
+  quote_or_summary: Contents entries list The Seven Against Thebes, The Epigoni, Alcmaeon
+    and the Necklace, The Heraclidae, The Siege of Troy, and Return of the Greeks
+    from Troy with page numbers 272-304.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is straightforward because the passage is a contents list. Motif
+    identification is limited to the explicit word 'Return' in a chapter title; no
+    narrative motifs can be confirmed from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and objects are treated only as contents-title elements. No mythic actions, scenes, or comparative claims are inferred beyond the explicit chapter titles.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l282-l303
+  passage_sha256=c7a5e67cdcfe963fcd947346d3f5be41b6dad4f36143fdab4b2b079d916f0c69
+

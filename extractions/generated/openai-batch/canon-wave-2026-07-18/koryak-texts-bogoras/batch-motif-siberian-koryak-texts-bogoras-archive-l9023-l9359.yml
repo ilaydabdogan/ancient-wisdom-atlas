@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l9023-l9359
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: VOCABULARY. / KORYAK-ENGLISH. / I  10 / I  29; lines 9023-9359
+  start: '9023'
+  end: '9359'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Koryak-English vocabulary segment lists lexical entries and glosses,
+    many with Chukchee comparisons. Items include eating, sleeping-room parts, hair,
+    named labels, settlement and country terms, waking and living, bed and sleep terms,
+    supernatural spirit terms, fishing terms, writing/adornment terms, clothing, navel,
+    and voice.
+  language: English with Koryak and Chukchee lexical forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One vocabulary entry glosses a verb as “to taste well” and notes that it belongs
+    to the supposed language of supernatural spirits.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage glosses a “pillows’ border” as the sill at the entrance of a sleeping-room
+    and describes a cross-pole parting one sleeping-place from another.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes hair and Hairless-One entries.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage glosses ka'mak as a supernatural spirit and includes a compound
+    glossed as kamak woman.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage connects waking vocabulary with living vocabulary, including glosses
+    for being waking, living, wakeful, and living one.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage includes land and open-country movement vocabulary.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage includes proper-name entries for Kilu as female and Kali-na'ut
+    as Painted-Woman.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage includes fishing-related vocabulary for drag-net and fishing with
+    drag-nets.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage includes navel vocabulary and a verb for cutting the navel.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage groups carving, adorning, writing, carving or letter or paper,
+    and spotted or adorned vocabulary.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Hairless-One
+  description: A vocabulary entry glosses A'xgike as Hairless-One.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Kamak
+  description: A vocabulary entry glosses ka'mak as a supernatural spirit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Kamak woman
+  description: A vocabulary entry gives kama'w-na'ut as kamak woman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Kilu
+  description: A vocabulary entry identifies Kilu as a proper female name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Painted-Woman
+  description: A vocabulary entry identifies Ka'li-na'ut as a proper name glossed
+    Painted-Woman.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:10
+roles:
+- id: role:1
+  label: descriptive named figure
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage gives descriptive name-glosses Hairless-One and Painted-Woman.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: supernatural spirit
+  assigned_to:
+  - fig:2
+  basis: The vocabulary gloss explicitly identifies ka'mak as a supernatural spirit.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: spirit-associated woman label
+  assigned_to:
+  - fig:3
+  basis: The vocabulary gives kama'w-na'ut as kamak woman immediately after the supernatural
+    spirit entry.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: female proper-name label
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Kilu is marked as a proper female name, and Painted-Woman contains the gloss
+    Woman and is marked as a proper name.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: supernatural spirit
+  literal_form: ka'mak, glossed as “(supernatural) spirit”
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: spirit speech register
+  literal_form: copro'ykin, glossed “to taste well,” with note that it belongs to
+    the supposed language of supernatural spirits
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sleeping-room entrance sill
+  literal_form: cot-ta'gm, “pillows’ border,” the sill at the entrance of the sleeping-room
+    formed by pillows
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sleeping-place divider
+  literal_form: cotci'lqan, a cross-pole parting one sleeping-place from another
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: hairlessness
+  literal_form: A'xgike, Hairless-One, in a vocabulary cluster that includes hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: navel cutting
+  literal_form: ki'lki/ki'lkil, navel; kilis'viykm, to cut the navel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: adornment and writing
+  literal_form: kali'ykm, to carve, adorn, write; kali'kal, carving, letter, paper;
+    kali-, spotted, adorned
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: special language of supernatural spirits
+  taxonomy_refs: []
+  basis: The vocabulary explicitly notes that a word meaning “to taste well” belongs
+    to the supposed language of supernatural spirits, and elsewhere glosses ka'mak
+    as a supernatural spirit.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a lexical note rather than a narrative episode; it supports a
+    cultural-linguistic pattern, not a full mythic plot motif.
+- id: motif:2
+  label: marked sleeping-place boundary
+  taxonomy_refs: []
+  basis: The vocabulary gives terms for a pillows’ border at the entrance of a sleeping-room
+    and for a cross-pole dividing sleeping-places.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage supplies architectural or domestic vocabulary only; no ritual
+    or narrative significance is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself records a lexical comparison between Koryak ka'mak and
+    a Chukchee form for the term glossed as supernatural spirit.
+  claim_level: linguistic_similarity
+  target: Chukchee lexical comparison for ka'mak / supernatural spirit
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical comparison only. It does not establish motif identity,
+    historical contact, or common inheritance for a mythic narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9023-9359, entry copro
+  quote_or_summary: "“copro'ykin ... to taste well (this word belongs to the supposed
+    language of supernatural spirits)”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: quote
+  locator: lines 9023-9359, entries cot / cotci'lqan
+  quote_or_summary: "“cot-ta'gm ... ‘pillows’ border’ ... the sill at the entrance
+    of the sleeping-room” and “cotci'lqan, cross-pole parting one sleeping-place from
+    another.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 9023-9359, entries gi'chm / A'xgike
+  quote_or_summary: "“gi'chm ... hair” and “A'xgike, Hairless-One.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: lines 9023-9359, entry kamak
+  quote_or_summary: "“ka'mak ... (supernatural) spirit” and “kama'w-na'ut, kamak woman.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: quote
+  locator: lines 9023-9359, entries kiyaw / kiyulat
+  quote_or_summary: "“kiya'wikm ... to wake up”; “kiyula'tikm ... to be waking, to
+    live”; “nilhi-kyu'qin, quite wakeful”; “kiyula'la8n, living one.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: quote
+  locator: lines 9023-9359, entry nuta
+  quote_or_summary: "“nu'tanut ... country, land” and “nutila'tikin ... to go into
+    the (open) country.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: quote
+  locator: lines 9023-9359, entries Kilu / Ka'li-na'ut
+  quote_or_summary: "“Kilu', proper name (female)” and “Ka'li-na'ut (proper name),
+    Painted-Woman.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: quote
+  locator: lines 9023-9359, entry kanat
+  quote_or_summary: "“kana't-ingi, drag-net” and “kana'tekm ... to fish with drag-nets.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:9
+  type: quote
+  locator: lines 9023-9359, entry kil/kij
+  quote_or_summary: "“ki'lki}, ki'lkil ... navel” and “kilis'vi'ykm, to cut the navel.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+- id: ev:10
+  type: quote
+  locator: lines 9023-9359, entry kali
+  quote_or_summary: "“kali'ykm ... to carve, to adorn, to write”; “kali'kal ... carving,
+    letter, paper”; “kali'- ... spotted, adorned.”"
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a vocabulary excerpt, not a narrative passage. Literal lexical
+    extraction is relatively secure, but motif candidates are limited and should be
+    treated as cultural-linguistic patterns rather than story motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy terms are not directly supported by this vocabulary passage.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l9023-l9359
+  passage_sha256=0a53a540e79d74c714f8474580f4dd25d16d1e00d4c7c7f9cd29138e382e9326
+

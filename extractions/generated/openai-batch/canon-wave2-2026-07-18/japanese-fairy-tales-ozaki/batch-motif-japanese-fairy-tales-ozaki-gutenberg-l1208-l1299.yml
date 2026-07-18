@@ -1,0 +1,631 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1208-l1299
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO,
+    THE FISHER LAD / THE FARMER AND THE BADGER; lines 1208-1299
+  start: '1208'
+  end: '1299'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An old farmer catches a destructive badger and leaves it bound under his
+    wife’s guard, intending to make it into soup. The badger persuades the wife to
+    untie him, kills her, cooks her as soup, assumes her form, and deceives the farmer
+    until revealing himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old farmer and his wife live in the mountains far from any town.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A malicious badger repeatedly enters the farmer’s field at night and spoils
+    vegetables and rice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer tries to catch the badger with a club and then sets traps for it.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The farmer finds the badger caught in a hole, binds it with rope, and carries
+    it home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The farmer tells his wife to guard the badger while he works, because he intends
+    to make the badger into soup that night.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The badger is hung upside down from the rafters of the storehouse while the
+    wife pounds barley nearby.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The badger addresses the wife politely, says she must be tired, and offers
+    to do the barley-pounding for her.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The wife initially refuses to untie the badger because he might escape and
+    her husband would be angry.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The badger promises not to escape and says the wife can bind him again before
+    her husband returns.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The wife, described as good, simple, and pitying, unties the badger and lets
+    him down.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The wife gives the badger a wooden pestle and tells him to work while she
+    rests.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Instead of pounding barley, the badger attacks the wife with the pestle, kills
+    her, cuts her up, and makes soup of her.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The farmer returns at sunset expecting hot badger soup.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: The badger assumes the wife’s form and greets the farmer as if she had prepared
+    badger soup.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:15
+  text: The farmer does not realize that the figure waiting on him is the badger rather
+    than his wife.
+  category: relationship
+  evidence_refs:
+  - ev:12
+- id: obs:16
+  text: The badger changes back to his natural form and calls the farmer a wife-eating
+    old man, telling him to look for bones in the kitchen.
+  category: speech
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: old farmer
+  description: An old farmer living in the mountains with his wife; he cultivates
+    vegetables and rice, traps the badger, and later returns home expecting badger
+    soup.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:10
+- id: fig:2
+  name_or_label: old farmer’s wife / old woman
+  description: The farmer’s wife; she is left to guard the bound badger, is persuaded
+    to release it, and is killed and made into soup.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: badger
+  description: A malicious badger who destroys the farmer’s crops, is trapped and
+    bound, deceives the wife into freeing him, kills her, cooks her as soup, assumes
+    her form, and reveals himself to the farmer.
+  role_refs:
+  - role:7
+  - role:8
+  - role:9
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:11
+  - ev:13
+roles:
+- id: role:1
+  label: mountain farmer
+  assigned_to:
+  - fig:1
+  basis: The passage says the farmer and wife made their home in the mountains and
+    that the farmer cultivated vegetables and rice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: trapper of the badger
+  assigned_to:
+  - fig:1
+  basis: The farmer lays traps and finds the badger caught in a hole.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceived husband
+  assigned_to:
+  - fig:1
+  basis: The farmer does not realize that the person waiting on him is the badger
+    rather than his wife.
+  evidence_refs:
+  - ev:12
+- id: role:4
+  label: guardian of captive
+  assigned_to:
+  - fig:2
+  basis: The farmer tells his wife to keep watch over the bound badger while he is
+    at work.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: pitying releaser
+  assigned_to:
+  - fig:2
+  basis: The wife pities the bound badger and unties him after believing his promise.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: victim
+  assigned_to:
+  - fig:2
+  basis: The badger knocks her down, kills her, cuts her up, and makes soup of her.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: crop-destroying animal antagonist
+  assigned_to:
+  - fig:3
+  basis: The badger repeatedly spoils vegetables and rice in the farmer’s field.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: captive marked for cooking
+  assigned_to:
+  - fig:3
+  basis: The farmer binds the caught badger and says he wants to make it into soup.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:9
+  label: deceptive persuader
+  assigned_to:
+  - fig:3
+  basis: The badger uses polite and sorrowful speech to persuade the wife to untie
+    him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:10
+  label: killer and cook
+  assigned_to:
+  - fig:3
+  basis: After release, the badger kills the wife and makes soup of her.
+  evidence_refs:
+  - ev:9
+- id: role:11
+  label: shapeshifting impostor
+  assigned_to:
+  - fig:3
+  basis: The badger assumes the old woman’s form and later changes back to his natural
+    form.
+  evidence_refs:
+  - ev:11
+  - ev:13
+symbols:
+- id: sym:1
+  label: mountain dwelling
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cultivated field
+  literal_form: farmer’s field with vegetables and rice
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: binding rope
+  literal_form: rope and cord binding the badger upside down
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: storehouse rafters
+  literal_form: rafters of the farmer’s storehouse
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wooden pestle
+  literal_form: wooden pestle used for pounding barley and then as a weapon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: soup
+  literal_form: intended badger soup, replaced by soup made from the wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:10
+  - ev:11
+- id: sym:7
+  label: borrowed human form
+  literal_form: the old woman’s form assumed by the badger
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:13
+- id: sym:8
+  label: bones in the kitchen
+  literal_form: bones in the kitchen mentioned by the badger after revealing himself
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Mountain farm and crop damage
+  summary: The old farmer and his wife live in the mountains, where a malicious badger
+    repeatedly damages the farmer’s vegetables and rice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Capture of the badger
+  summary: After failed attempts with a club and traps, the farmer catches the badger
+    in a hole, binds it, and brings it home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Badger left under the wife’s guard
+  summary: The farmer hangs the bound badger in the storehouse and tells his wife
+    to watch it because he plans to make it into soup.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Persuasion and release
+  summary: The badger uses courteous and sorrowful speech to persuade the wife that
+    he will help her and not escape; she pities him and unties him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Killing and substituted soup
+  summary: The released badger takes the pestle, attacks and kills the wife, cuts
+    her up, and makes soup of her while waiting for the farmer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Imposture before the farmer
+  summary: The farmer returns expecting badger soup; the badger has assumed the wife’s
+    form and greets him as though she had prepared the meal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: scene:7
+  label: Revelation of the badger
+  summary: The badger changes back to his natural form, accuses the farmer of eating
+    his wife, and points him toward the bones in the kitchen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: destructive animal antagonist damages cultivated food
+  taxonomy_refs: []
+  basis: The badger repeatedly spoils the farmer’s vegetables and rice, prompting
+    the farmer to try to stop it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local plot function in the passage; no supplied taxonomy reference
+    directly names it.
+- id: motif:2
+  label: captured animal threatened with being cooked
+  taxonomy_refs: []
+  basis: The farmer binds the captured badger and explicitly says he wants to make
+    him into soup that night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available list does
+    not include a direct cooking-captive motif.
+- id: motif:3
+  label: deceptive plea for release from captivity
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The captive badger persuades the wife to release him by offering help, speaking
+    gently, and promising not to escape.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage shows trickery around
+    captivity and release, but does not itself name a boundary motif.'
+- id: motif:4
+  label: kindness to a dangerous captive leads to harm
+  taxonomy_refs: []
+  basis: The wife pities and frees the bound badger, after which he immediately attacks
+    and kills her.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is phrased as a passage-level pattern rather than a formal taxonomy
+    identification.
+- id: motif:5
+  label: intended animal meal reversed into human victim soup
+  taxonomy_refs: []
+  basis: The farmer intends to make badger soup, but the badger kills the wife and
+    makes soup of her instead.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No available taxonomy reference directly matches the reversal of the intended
+    meal.
+- id: motif:6
+  label: animal shapeshifter impersonates a human spouse
+  taxonomy_refs:
+  - shapeshifter
+  basis: The badger assumes the old woman’s form, greets the farmer, waits on him,
+    and later returns to his natural form.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: The passage explicitly describes transformation, so the taxonomy reference
+    is strong.
+- id: motif:7
+  label: false spouse or household impostor
+  taxonomy_refs: []
+  basis: The farmer believes the figure waiting on him is his wife, but the passage
+    states it is the badger in her form.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: No supplied taxonomy reference directly names imposture by a false spouse.
+- id: motif:8
+  label: villain reveals deception after the victim is implicated
+  taxonomy_refs: []
+  basis: After the farmer sits for the meal, the badger changes back and calls him
+    a wife-eating old man, directing him to the bones.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: This candidate describes the local narrative sequence only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1208-1220
+  quote_or_summary: 'Opening setting: an old farmer and wife live in the mountains;
+    a malicious badger comes nightly to spoil vegetables and rice; the farmer decides
+    to stop it.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 1222-1226
+  quote_or_summary: The farmer finds the badger caught in a hole dug as a trap, binds
+    it with rope, carries it home, and speaks to his wife.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 1228-1231
+  quote_or_summary: "“You must keep an eye on him while I am out at work ... I want
+    to make him into soup to-night.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 1233-1243
+  quote_or_summary: The farmer hangs the badger upside down from the storehouse rafters
+    and goes to the fields; the old wife stands nearby pounding barley.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: 1245-1248
+  quote_or_summary: The badger politely tells the wife she must be weary and offers
+    to do the heavy work with his strong arms.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: 1249-1252
+  quote_or_summary: The wife says she cannot untie the badger because he might escape
+    and her husband would be angry.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: 1254-1261
+  quote_or_summary: The passage calls the badger cunning; he speaks sadly and gently,
+    promises not to escape, and says the wife can bind him again before the farmer
+    returns.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:8
+  type: summary
+  locator: 1263-1270
+  quote_or_summary: The wife is described as good, simple, and pitying; seeing the
+    badger’s painful bonds, she believes his promise and unties him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:9
+  type: summary
+  locator: 1272-1278
+  quote_or_summary: The wife gives the badger a wooden pestle; he attacks her with
+    it, kills her, cuts her up, makes soup of her, and waits for the farmer.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:10
+  type: summary
+  locator: 1280-1283
+  quote_or_summary: At sunset the farmer goes home, cheered by the thought of hot
+    badger soup and unaware of any danger to his wife.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:11
+  type: summary
+  locator: 1285-1290
+  quote_or_summary: The badger assumes the old woman’s form, greets the approaching
+    farmer, and says that the badger soup has been made.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:12
+  type: summary
+  locator: 1292-1295
+  quote_or_summary: The farmer removes his sandals, sits at his tray, and does not
+    realize the server is the badger rather than his wife.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:13
+  type: quote
+  locator: 1295-1297
+  quote_or_summary: 'The badger transforms back and cries: “You wife-eating old man!
+    Look out for the bones in the kitchen!”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the supplied passage. Motif candidates
+    are passage-level patterns; only shapeshifting is directly aligned with a supplied
+    taxonomy family. No comparison claims were made because the passage and metadata
+    do not themselves establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator metadata, public-domain status, and available taxonomy references. The broader locator label includes several tale titles, but the provided passage text is from “The Farmer and the Badger.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1208-l1299
+  passage_sha256=ed7837e3b8c420036fee0bb2145eb0506281c56b49d9524f5ab9293ae8dacdce
+

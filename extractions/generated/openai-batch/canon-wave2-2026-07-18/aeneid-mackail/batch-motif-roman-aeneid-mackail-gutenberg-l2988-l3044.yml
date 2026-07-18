@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2988-l3044
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FOURTH / THE LOVE OF DIDO, AND HER END / BOOK FIFTH / THE GAMES OF THE
+    FLEET; lines 2988-3044
+  start: '2988'
+  end: '3044'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas gathers Trojans and Sicilians in a natural amphitheatre for a footrace,
+    announces gifts and ranked prizes, and oversees the contest. Nisus leads but slips
+    on sacrificial blood; he then obstructs Salius to aid Euryalus, who wins. Salius
+    protests, Diores supports Euryalus, and Aeneas gives compensatory prizes to Salius
+    and Nisus, including a lion-skin and a shield taken from Neptune's temple gates.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aeneas moves to a grassy plain surrounded by wooded hills and sits on a mound
+    in a valley amphitheatre before a large crowd.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aeneas invites competitors for a footrace and announces universal gifts plus
+    special prizes for the first three finishers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Trojans and Sicilians gather for the race; Nisus and Euryalus are named foremost,
+    with Euryalus described as youthful and beautiful and Nisus as marked by love
+    for him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the signal, the runners begin; Nisus leads, followed by Salius, Euryalus,
+    Helymus, and Diores in close pursuit.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Near the goal, Nisus slips on blood from slain sacrificial steers and falls
+    into ordure and blood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After falling, Nisus remembers Euryalus and throws himself in front of Salius,
+    causing Salius to fall.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Euryalus passes and wins first place; Helymus follows, and Diores becomes
+    third for the prize.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Salius loudly protests that his prize has been defrauded, while Diores supports
+    keeping the results; Aeneas preserves the prize order and gives Salius a lion-skin.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Nisus asks what reward he should receive after his fall; he displays his fouled
+    body, and Aeneas gives him a shield from Neptune's temple gates.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: The hero and lord who convenes the race, announces prizes, adjudicates
+    protests, and awards additional gifts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Nisus
+  description: A foremost runner, famed for pure love of Euryalus; he leads, slips
+    on sacrificial blood, obstructs Salius, and receives a shield.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Euryalus
+  description: A youthful and beautiful runner beloved by Nisus; he wins first place
+    after Nisus obstructs Salius.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Salius
+  description: A runner who follows Nisus, is obstructed by Nisus, protests the result,
+    and receives a lion-skin from Aeneas.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Diores
+  description: A runner of Priam's royal line who pursues near the front, becomes
+    third, and supports Euryalus in the dispute.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Helymus
+  description: A Sicilian runner who follows Euryalus and finishes ahead of Diores.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: race host, judge, and reward-giver
+  assigned_to:
+  - fig:1
+  basis: Aeneas gathers the crowd, announces the race rewards, maintains the prize
+    order, and grants extra gifts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:2
+  label: footrace contestant
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures are named among the competitors and appear in the race order
+    or finish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: loving helper through interference
+  assigned_to:
+  - fig:2
+  basis: Nisus is described as loving Euryalus and, after falling, obstructs Salius
+    so Euryalus can win.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: beloved beneficiary of aid
+  assigned_to:
+  - fig:3
+  basis: Euryalus is the object of Nisus's love and wins the first place that Nisus's
+    action makes possible.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: protesting claimant
+  assigned_to:
+  - fig:4
+  basis: Salius demands restoration of the prize after being obstructed.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: supporter of retained prize order
+  assigned_to:
+  - fig:5
+  basis: Diores supports Euryalus and argues against restoring the highest honors
+    to Salius.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: natural amphitheatre
+  literal_form: Grassy plain, wooded hills, valley amphitheatre, and mound
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: race prizes and gifts
+  literal_form: Gnosian spearheads, silver-chased axe, olive head-binding, horse,
+    quiver, and helmet
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: olive for the three foremost
+  literal_form: Pale olive bound about the head of the top three
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: sacrificial blood on the racecourse
+  literal_form: Slippery blood of slain steers spilled on green grass
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: compensatory lion-skin
+  literal_form: Vast Gaetulian lion-skin with shaggy hair and claws of gold
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: shield from Neptune's temple gates
+  literal_form: Shield made by Didymaon, torn from the hallowed gates of Neptune's
+    Grecian temple
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Assembly and prize announcement for the footrace
+  summary: Aeneas seats himself in a natural amphitheatre, gathers competitors, and
+    announces gifts for all contestants and ranked prizes for the three foremost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Race, fall, obstruction, and finish
+  summary: The runners start; Nisus leads but falls on sacrificial blood, then obstructs
+    Salius so Euryalus wins, with Helymus and Diores following.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Protest and compensatory awards
+  summary: Salius protests the outcome, Diores supports Euryalus, and Aeneas maintains
+    the result while awarding extra prizes to Salius and Nisus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Athletic contest with formal prize distribution
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Aeneas promises gifts to all competitors, gives ranked prizes for the first
+    three, and later adds compensatory rewards.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents a prize ceremony and honor distribution; it does
+    not present a reciprocal covenant or explicit sacred bargain.
+- id: motif:2
+  label: Sacrificial blood causing reversal in a contest
+  taxonomy_refs:
+  - sacrifice
+  basis: Nisus is near victory when he slips on blood from slain sacrificial steers
+    and loses his place.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the blood's practical effect in the race; any broader
+    ritual meaning would require external evidence.
+- id: motif:3
+  label: Friendship-driven interference to secure another's victory
+  taxonomy_refs: []
+  basis: Nisus, described as loving Euryalus, throws himself in front of Salius after
+    falling, allowing Euryalus to win.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The action is explicit, but the passage does not generalize it into a
+    moral or supernatural pattern.
+- id: motif:4
+  label: Sacred temple spoil awarded as heroic prize
+  taxonomy_refs:
+  - sacred_theft
+  basis: Aeneas rewards Nisus with a shield described as torn from the hallowed gates
+    of Neptune's Grecian temple.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage reports the object's sacred origin and removal, but it does
+    not narrate the removal episode or frame it directly as theft.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2988-2993
+  quote_or_summary: Aeneas moves to a grassy plain encircled by wooded hills, enters
+    a valley amphitheatre with a great crowd, and sits on a mound.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2993-3009
+  quote_or_summary: 'Aeneas offers race rewards: gifts for all contestants and special
+    prizes for the first three, including olive, a horse, a quiver, and a helmet.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2994-3002
+  quote_or_summary: Trojans and Sicilians gather; Nisus and Euryalus are foremost,
+    Euryalus is young and beautiful, and Nisus is noted for pure love of him; Diores,
+    Salius, Helymus, and others are named.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3009-3020
+  quote_or_summary: At the signal, runners leave the line; Nisus leads, followed by
+    Salius, then Euryalus, Helymus, and Diores close behind.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 3020-3027
+  quote_or_summary: '"unfortunate Nisus trips on the slippery blood of the slain steers"
+    and falls among "the ordure and blood of the sacrifice."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 3027-3034
+  quote_or_summary: Nisus remembers Euryalus, throws himself over the slippery ground
+    in front of Salius, Salius falls, Euryalus wins first, Helymus follows, and Diores
+    is third.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3034-3041
+  quote_or_summary: Salius protests and demands his prize; Diores supports Euryalus;
+    Aeneas maintains the prize order and gives Salius a Gaetulian lion-skin with golden
+    claws.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3041-3044
+  quote_or_summary: Nisus asks what reward he should receive, shows his fouled limbs,
+    and Aeneas kindly laughs and awards him a shield from the hallowed gates of Neptune's
+    Grecian temple.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main sequence, figures, and objects are explicit in the supplied passage.
+    Motif labels are conservative; taxonomy mappings for sacred exchange and sacred
+    theft are interpretive and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added because the supplied passage alone does not establish a specific cross-textual relationship.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2988-l3044
+  passage_sha256=fcbebb805a554095d9df2fca5d65d82258df2eeb484b561b860076f6979faf52
+

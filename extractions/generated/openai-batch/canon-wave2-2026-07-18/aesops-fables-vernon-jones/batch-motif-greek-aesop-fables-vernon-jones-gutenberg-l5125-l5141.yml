@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5125-l5141
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE BRAMBLE / THE FOX AND THE SNAKE / THE LION, THE FOX, AND
+    THE STAG / THE MAN WHO LOST HIS SPADE; lines 5125-5141
+  start: '5125'
+  end: '5141'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man whose spade is missing suspects his labourers and proposes that they
+    swear an oath in a town temple, because he thinks the town gods are better at
+    detecting theft than country deities. At the town gates he hears a crier seeking
+    information about a thief who stole from the city temple, and decides to go home
+    because gods unable to detect theft from their own temple are unlikely to identify
+    his spade's thief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is digging over his vineyard and later finds that his spade is missing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man thinks the spade may have been stolen by one of his labourers, questions
+    them, and all deny knowledge of it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man insists that the labourers go to town and take an oath in a temple
+    that they are not guilty of the theft.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man has a low opinion of the country deities and considers the town gods
+    shrewder at detecting theft.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Inside the town gates, a town crier announces a reward for information about
+    a thief who stole something from the city temple.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man concludes that if the town gods cannot detect thieves from their own
+    temples, they are unlikely to tell him who stole his spade.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Man
+  description: A man working in his vineyard whose spade is missing; he questions
+    labourers, seeks a temple oath, and then decides to return home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: The labourers
+  description: The man's labourers, who are questioned about the missing spade and
+    deny knowledge of it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Country deities
+  description: Deities described only through the man's low opinion of them as simple
+    country deities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Town gods
+  description: Gods of the town, considered by the man to be shrewder and expected
+    to detect a thief, but later doubted by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Town crier
+  description: A public announcer who proclaims a reward for information about a theft
+    from the city temple.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Unidentified city-temple thief
+  description: A thief mentioned in the crier's proclamation as having stolen something
+    from the city temple.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: searcher for missing property
+  assigned_to:
+  - fig:1
+  basis: The man notices the spade is missing, questions others, and seeks a way to
+    identify the thief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: accused deniers
+  assigned_to:
+  - fig:2
+  basis: The labourers are suspected and questioned, but all deny knowledge of the
+    spade.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: discounted rural deities
+  assigned_to:
+  - fig:3
+  basis: The man has no great opinion of the country deities and contrasts them with
+    town gods.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: expected divine detectors
+  assigned_to:
+  - fig:4
+  basis: The man expects the town gods to detect the thief through a temple oath,
+    then doubts their ability after hearing of a temple theft.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: public announcer
+  assigned_to:
+  - fig:5
+  basis: The town crier announces a reward for information about the temple theft.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: sacred-space thief
+  assigned_to:
+  - fig:6
+  basis: The proclaimed thief stole something from the city temple.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: missing spade
+  literal_form: A spade that the man finds missing from his work in the vineyard.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: vineyard
+  literal_form: The man's vineyard where he is digging and where the missing spade
+    is first noticed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: temple oath
+  literal_form: An oath to be taken in a town temple by the labourers to deny guilt
+    for the alleged theft.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: city temple theft
+  literal_form: A theft of something from the city temple, publicly announced by the
+    town crier.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:4
+  taxonomy_refs:
+  - sacred_theft
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: town gates
+  literal_form: The gates through which the group enters before hearing the crier's
+    proclamation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Missing spade in the vineyard
+  summary: The man works in his vineyard, discovers his spade missing, suspects his
+    labourers, and questions them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Proposed oath before town gods
+  summary: Because he distrusts country deities and prefers the town gods, the man
+    requires the labourers to go to a town temple and swear they did not steal the
+    spade.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Crier's announcement and return home
+  summary: After entering the town gates, the group hears a reward announced for information
+    about a theft from the city temple, prompting the man to abandon the inquiry and
+    return home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: temple oath as attempted divine detection
+  taxonomy_refs:
+  - divine_judgment
+  basis: The man tries to use a temple oath before town gods to determine whether
+    the labourers are guilty of theft.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage undercuts rather than confirms divine detection; no actual
+    divine judgment occurs.
+- id: motif:2
+  label: theft from a temple
+  taxonomy_refs:
+  - sacred_theft
+  basis: The town crier announces that someone stole something from the city temple.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The temple theft is reported briefly; the stolen object and thief are
+    not further described.
+- id: motif:3
+  label: skeptical practical inference
+  taxonomy_refs:
+  - wisdom
+  basis: The man reasons from the town gods' apparent failure to detect theft from
+    their own temple that they are unlikely to identify his missing spade's thief.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied passage does not include a separate stated moral; the motif
+    label is inferred from the man's reasoning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5125-5141; opening situation
+  quote_or_summary: A man is digging in his vineyard and comes to work one day to
+    find his spade missing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5125-5141; questioning of labourers
+  quote_or_summary: The man thinks a labourer may have stolen the spade, questions
+    them closely, and all deny knowledge of it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5125-5141; temple-oath plan and divine preference
+  quote_or_summary: The man insists the labourers go to town and swear in a temple,
+    because he distrusts country deities and believes the town gods are shrewder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5125-5141; proclamation inside the town gates
+  quote_or_summary: After the group enters the town gates, a town crier proclaims
+    a reward for information about a thief who stole something from the city temple.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5125-5141; man's concluding speech
+  quote_or_summary: The man decides to go home, reasoning that gods who cannot detect
+    thieves stealing from their own temples are unlikely to identify who stole his
+    spade.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates require review because
+    the passage is a brief fable and the available taxonomy categories are broad.
+    No comparison claims are made because the passage itself does not support cross-textual
+    or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Although the locator label lists several adjacent fables, the supplied passage_text contains only THE MAN WHO LOST HIS SPADE; no motifs from the absent fox, bramble, snake, lion, or stag passages were extracted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5125-l5141
+  passage_sha256=c2a6ee83867b3afdf9be967c4d1a202331e716cdc99dde804d6d7e7fe295104a
+

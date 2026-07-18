@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l26202-l26316
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  CODE  OF  HAMMURAPI  417 / THE  CODE  OF  HAMMURAPI  419 / THE  CODE  OF  HAMMURAPI  421
+    / THE  CODE  OF  HAMMURAPI  423; lines 26202-26316
+  start: '26202'
+  end: '26316'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives laws from the Code of Hammurapi concerning wine merchants
+    and votaries, transport of entrusted goods, and debt collection or seizure, with
+    specified penalties including death, burning, restitution, silver payments, and
+    forfeiture of loans.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Outlaws are described as gathering in the house of a wine merchant.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wine merchant who does not arrest the outlaws and bring them to the palace
+    is to be put to death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A female votary not living in a convent is prohibited from opening a wine
+    shop or entering one for drink; the stated penalty is burning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A wine seller who gives 60 KA of drink on credit at harvest time is to receive
+    50 KA of grain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A man away on a journey gives silver, gold, stones, or portable property to
+    another man for transport.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the transporter fails to deliver the goods and takes them for himself,
+    he must deliver fivefold the amount to the owner.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A creditor who takes grain from a heap or store without the owner's consent
+    must restore the grain and forfeit what he had lent.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A man who seizes another for debt without having a debt against him must pay
+    one third of a mina of silver for each seizure.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: If a person seized for a valid debt dies a natural death in the seizer's house,
+    the law says that no case lies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: If a seized person dies in the seizer's house from blows or want, the owner
+    of the seized person may call the merchant to account, with penalties depending
+    on the status of the deceased.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Outlaws
+  description: Persons gathered in the wine merchant's house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Wine merchant / wine seller
+  description: A female seller whose house or wine trade is regulated in the provisions
+    on outlaws and credit for drink.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Female votary not living in a convent
+  description: A religious woman described as not living in a convent and as opening
+    or entering a wine shop for drink.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Man away on a journey / owner of transported goods
+  description: The man who entrusts silver, gold, stones, or portable property to
+    another for transport.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Man entrusted with transport
+  description: The man who receives property for transport and is liable if he does
+    not deliver it and takes it for himself.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Creditor who takes grain
+  description: A man with a debt claim of grain or money who takes grain from a heap
+    or store without the owner's consent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Owner of grain
+  description: The owner whose consent is required before grain is taken from a heap
+    or store.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Debt seizer / merchant
+  description: The man or merchant associated with seizing a person for debt and with
+    liability for death in custody.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Person seized for debt
+  description: The person seized in the debt provisions, whose death may occur in
+    the seizer's house.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:10
+  name_or_label: Owner of the one seized
+  description: The person who calls the merchant to account if the seized person dies
+    from blows or want.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: outlaw group
+  assigned_to:
+  - fig:1
+  basis: The passage states that outlaws have gathered in the wine merchant's house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: liable wine-house keeper
+  assigned_to:
+  - fig:2
+  basis: The wine merchant must arrest outlaws and bring them to the palace or be
+    put to death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prohibited votary
+  assigned_to:
+  - fig:3
+  basis: The female votary not living in a convent is penalized for opening or entering
+    a wine shop for drink.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: crediting drink seller
+  assigned_to:
+  - fig:2
+  basis: The wine seller gives 60 KA of drink on credit and receives grain at harvest
+    time.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: entrusting traveler and owner
+  assigned_to:
+  - fig:4
+  basis: The man away on a journey gives valuables to another for transport and remains
+    owner of the goods.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: carrier liable for nondelivery
+  assigned_to:
+  - fig:5
+  basis: The entrusted man is liable if he does not deliver the goods and takes them
+    for himself.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: self-help creditor
+  assigned_to:
+  - fig:6
+  basis: The creditor takes grain without the owner's consent and is made to restore
+    and forfeit.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: owner whose consent is required
+  assigned_to:
+  - fig:7
+  basis: The law centers on grain taken from the heap or store without the owner's
+    consent.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: debt seizer liable in custody cases
+  assigned_to:
+  - fig:8
+  basis: The seizer or merchant is treated differently depending on whether the seizure
+    was justified and how the seized person died.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:10
+  label: seized debtor or dependent
+  assigned_to:
+  - fig:9
+  basis: The provisions describe a person seized for debt who may die naturally or
+    from blows or want.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:11
+  label: claimant for the seized person
+  assigned_to:
+  - fig:10
+  basis: The owner of the seized person calls the merchant to account after death
+    from blows or want.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wine-house space
+  literal_form: house of a wine merchant / wine shop
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: palace
+  literal_form: the palace to which outlaws are to be brought
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: convent
+  literal_form: convent where the female votary is not living
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: measured drink and grain
+  literal_form: 60 KA of drink and 50 KA of grain at harvest time
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: entrusted valuables
+  literal_form: silver, gold, stones, or portable property for transport
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fivefold restitution
+  literal_form: five fold the amount given for transport
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: grain heap or store
+  literal_form: heap or store from which grain is taken
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: one-third mina of silver
+  literal_form: one third of a mina of silver
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:9
+  label: house of the seizer
+  literal_form: house of him who seized the debtor
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wine-house obligations and prohibitions
+  summary: The laws regulate the wine merchant's duty regarding outlaws, the votary's
+    contact with wine shops, and a measured credit exchange involving drink and grain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Entrusted goods on a journey
+  summary: A traveler entrusts valuables to another man for transport; nondelivery
+    and appropriation require fivefold restitution to the owner.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Unauthorized grain collection
+  summary: A creditor who takes grain from a heap or store without the owner's consent
+    must restore the grain and loses the loan claim.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Debt seizure and death in custody
+  summary: The laws distinguish wrongful seizure, natural death during justified seizure,
+    and death from blows or want in the seizer's house, assigning different penalties.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: failure to hand over wrongdoers to central authority
+  taxonomy_refs: []
+  basis: The wine merchant must arrest outlaws gathered in her house and bring them
+    to the palace; failure carries death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal pattern in a law code, not a mythic narrative motif.
+- id: motif:2
+  label: religious-status transgression in a wine shop
+  taxonomy_refs: []
+  basis: A female votary not living in a convent is punished for opening or entering
+    a wine shop for drink.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a legal prohibition; it does not explain symbolic or
+    ritual meaning.
+- id: motif:3
+  label: measured credit exchange of drink for grain
+  taxonomy_refs: []
+  basis: The law fixes repayment for 60 KA of drink given on credit at harvest time
+    as 50 KA of grain.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an economic legal formula rather than a narrative motif.
+- id: motif:4
+  label: breach of entrusted transport and multiplied restitution
+  taxonomy_refs: []
+  basis: Goods entrusted for transport must be delivered; taking them for oneself
+    requires fivefold repayment to the owner.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports a legal-accountability pattern but no broader mythological
+    comparison.
+- id: motif:5
+  label: unauthorized self-help collection from stored grain
+  taxonomy_refs: []
+  basis: A creditor who takes grain without consent from a heap or store must restore
+    it and forfeit his loan.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a legal debt-collection rule, not a mythic episode.
+- id: motif:6
+  label: debt seizure governed by liability for death in custody
+  taxonomy_refs: []
+  basis: The debt-seizure laws distinguish wrongful seizure, natural death, and death
+    from blows or want, with different penalties.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is extracted as a passage-level legal pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§109, within lines 26202-26316"
+  quote_or_summary: Outlaws gathered in a wine merchant's house; if she does not arrest
+    them and bring them to the palace, the wine seller is put to death.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: "§110, within lines 26202-26316"
+  quote_or_summary: A female votary not living in a convent who opens a wine shop
+    or enters one for drink is to be burned.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: "§111, within lines 26202-26316"
+  quote_or_summary: A wine seller who gives 60 KA of drink on credit at harvest time
+    receives 50 KA of grain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: "§112, within lines 26202-26316"
+  quote_or_summary: A traveler entrusts silver, gold, stones, or portable property
+    to another for transport; if the carrier takes it and fails to deliver it, he
+    owes the owner fivefold.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: "§113, within lines 26202-26316"
+  quote_or_summary: A creditor who takes grain from a heap or store without the owner's
+    consent must restore the grain and forfeits whatever he lent.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: "§114, within lines 26202-26316"
+  quote_or_summary: A man who seizes another for debt without a debt claim pays one
+    third of a mina of silver for each seizure.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: "§115, within lines 26202-26316"
+  quote_or_summary: If a man has a debt claim, seizes the debtor, and the seized person
+    dies a natural death in the seizer's house, no case lies.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: "§116, within lines 26202-26316"
+  quote_or_summary: If the seized person dies in the seizer's house from blows or
+    want, the owner calls the merchant to account; penalties vary for a son of a freedman
+    or a servant.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal provisions are explicit, so literal extraction is high confidence.
+    Candidate motifs are framed as passage-level legal patterns, not mythological
+    motifs. No comparison claims are made because the passage itself provides no comparative
+    basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family was assigned; the passage does not explicitly support mythological comparison or the listed symbol taxonomy terms.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l26202-l26316
+  passage_sha256=1a23d080c8828055313c70bf470f696fe2a6587ecf87e2523f78e9130c02711c
+

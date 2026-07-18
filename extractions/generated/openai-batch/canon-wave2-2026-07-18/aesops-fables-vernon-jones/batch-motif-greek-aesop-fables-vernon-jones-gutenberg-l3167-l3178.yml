@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3167-l3178
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF, THE FOX, AND THE APE / THE EAGLE AND THE COCKS / THE ESCAPED JACKDAW
+    / THE FARMER AND THE FOX; lines 3167-3178
+  start: '3167'
+  end: '3178'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Revenge is a two-edged sword.
+  summary: A farmer, angered by a fox stealing his fowls, traps the fox and releases
+    it with burning tow tied to its tail. The fox runs into the farmer's ripe corn,
+    which catches fire and destroys the harvest. The passage concludes with a moral
+    about revenge harming both ways.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Fox prowls around the Farmer's yard at night and carries off his fowls.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Farmer sets a trap for the Fox and catches him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Farmer ties a bunch of tow to the Fox's tail, sets it on fire, and lets
+    the Fox go.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Fox goes directly to fields where corn is ripe and ready for cutting.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The corn catches fire, burns up, and the Farmer loses his harvest.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The closing moral states that revenge is a two-edged sword.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer annoyed by a fox stealing his fowls; he traps and punishes
+    the fox, then loses his harvest when the corn burns.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Fox
+  description: A fox that prowls the farmer's yard at night, carries off fowls, is
+    trapped, and is released with burning tow tied to its tail.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: retaliating owner
+  assigned_to:
+  - fig:1
+  basis: The Farmer is annoyed by the theft of his fowls and acts in revenge after
+    catching the Fox.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: animal thief
+  assigned_to:
+  - fig:2
+  basis: The Fox prowls the yard at night and carries off the Farmer's fowls.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: self-harmed avenger
+  assigned_to:
+  - fig:1
+  basis: The Farmer's revenge leads to the burning of his own ripe corn and loss of
+    his harvest.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: carrier of destructive fire
+  assigned_to:
+  - fig:2
+  basis: After being released with burning tow on its tail, the Fox runs into the
+    ripe corn fields, which catch fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire set to tow tied to the Fox's tail, later spreading to the ripe
+    corn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: trap
+  literal_form: A trap set by the Farmer to catch the Fox.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ripe corn and harvest
+  literal_form: Fields where corn is standing ripe and ready for cutting; the Farmer's
+    harvest that burns up.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: two-edged sword
+  literal_form: The moral image, "Revenge is a two-edged sword."
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fox raids the farmyard
+  summary: The Fox comes around the Farmer's yard at night and carries off fowls,
+    greatly annoying the Farmer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farmer traps and burns the Fox's tail
+  summary: The Farmer catches the Fox in a trap, ties tow to the Fox's tail, sets
+    the tow on fire, and releases the Fox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Burning fox enters the ripe corn
+  summary: The Fox runs into the ripe corn fields; the corn catches fire, burns up,
+    and the Farmer loses his harvest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-defeating revenge
+  taxonomy_refs: []
+  basis: The Farmer's attempt to take revenge on the Fox causes the destruction of
+    his own harvest, and the moral explicitly warns that revenge is two-edged.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a local fable motif extraction, not a claim about historical diffusion
+    or a named external motif index.
+- id: motif:2
+  label: punishment by fire causing unintended loss
+  taxonomy_refs: []
+  basis: The Farmer uses fire as a punishment by tying burning tow to the Fox's tail,
+    but the fire spreads to the Farmer's ripe corn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports fire as a narrative device, but not a cosmic or sacred-fire
+    motif.
+- id: motif:3
+  label: animal theft followed by retaliatory trapping
+  taxonomy_refs: []
+  basis: The Fox steals fowls from the yard, after which the Farmer sets a trap and
+    catches him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The broader pattern is limited to the supplied fable episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3167-3178
+  quote_or_summary: A Farmer is annoyed because a Fox prowls around his yard at night
+    and carries off his fowls.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3167-3178
+  quote_or_summary: The Farmer sets a trap for the Fox and catches him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3167-3178
+  quote_or_summary: To take revenge, the Farmer ties tow to the Fox's tail, sets it
+    on fire, and lets him go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3167-3178
+  quote_or_summary: The Fox makes straight for fields where the corn is ripe and ready
+    for cutting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 3167-3178
+  quote_or_summary: The corn catches fire, burns up, and the Farmer loses all his
+    harvest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 3167-3178
+  quote_or_summary: '"Revenge is a two-edged sword."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal episode extraction is straightforward. Motif labels are descriptive
+    and local to the passage. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text was used. Although the locator label names several adjacent fables, the supplied passage text contains only THE FARMER AND THE FOX.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3167-l3178
+  passage_sha256=067316deb8e0d5bf74338bbd848f658253f681765177249a4b3019eb0a4a1937
+

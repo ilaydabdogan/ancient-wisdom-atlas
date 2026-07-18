@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3504-l3515
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SICK MAN AND THE DOCTOR / THE TRAVELLERS AND THE PLANE-TREE / THE FLEA
+    AND THE OX / THE BIRDS, THE BEASTS, AND THE BAT; lines 3504-3515
+  start: '3504'
+  end: '3515'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Birds and the Beasts are at war. The Bat avoids a fixed allegiance,
+    joining whichever side is currently successful. After peace is restored, both
+    sides reject him as a double-faced traitor, leaving him a solitary outcast.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Birds and the Beasts are at war, and many battles have varying success
+    on either side.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bat does not definitely commit himself to either party.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the Birds are doing well, the Bat is found fighting among the Birds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the Beasts have the upper hand, the Bat is found among the Beasts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While the war lasts, no one pays attention to the Bat's conduct.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the war ends and peace is restored, neither Birds nor Beasts will associate
+    with the Bat.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Bat remains a solitary outcast from both parties.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: The Birds
+  description: A collective animal group at war with the Beasts; later refuses to
+    associate with the Bat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: The Beasts
+  description: A collective animal group at war with the Birds; later refuses to associate
+    with the Bat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: The Bat
+  description: An animal figure who alternates between the Birds and the Beasts according
+    to which side is successful, and is later rejected by both.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: warring party
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the Birds were at war with the Beasts and that battles
+    were fought between them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: opportunistic side-switcher
+  assigned_to:
+  - fig:3
+  basis: The Bat fights with the Birds when they prosper and is among the Beasts when
+    they have the upper hand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rejecting community
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After peace is restored, both groups refuse to have anything to do with the
+    Bat.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rejected double-faced traitor
+  assigned_to:
+  - fig:3
+  basis: The Bat is described as a double-faced traitor and remains an outcast from
+    both sides.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Bat
+  literal_form: bat
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Birds
+  literal_form: birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Beasts
+  literal_form: beasts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: War with alternating advantage
+  summary: The Birds and Beasts fight a war whose success varies between the two sides.
+    The Bat aligns himself with whichever side is currently doing better.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Postwar rejection of the Bat
+  summary: Once the war is over and peace returns, both Birds and Beasts reject the
+    Bat, leaving him solitary and excluded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Double allegiance and opportunistic side-changing
+  taxonomy_refs:
+  - duality
+  - trickster_boundary
+  basis: The Bat avoids a fixed allegiance and crosses between the Birds and Beasts
+    depending on which side has the advantage.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage explicitly presents the Bat as double-faced and shifting sides;
+    the supplied trickster-boundary taxonomy is approximate because the text emphasizes
+    betrayal more than trickster skill.
+- id: motif:2
+  label: Punitive exclusion after restored peace
+  taxonomy_refs: []
+  basis: After conflict ends, both former opposing groups reject the Bat, and he remains
+    an outcast from both.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches social ostracism or punishment
+    of treachery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3504-3506
+  quote_or_summary: The Birds are at war with the Beasts, with many battles and varying
+    success on both sides.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 3506-3511
+  quote_or_summary: The Bat does not commit to either party; he joins the Birds when
+    they prosper and the Beasts when they have the upper hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 3511-3515
+  quote_or_summary: After peace, neither side accepts "so double-faced a traitor,"
+    and the Bat remains a solitary outcast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied passage only. Motif candidates are straightforward
+    at the passage level, but taxonomy alignment is partly approximate. No comparison
+    claims were made because the passage itself does not support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line-range label mentions several fables, but the provided passage text contains only 'THE BIRDS, THE BEASTS, AND THE BAT'; extraction is limited to that text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3504-l3515
+  passage_sha256=3c5d809ac7ba32056cb1f39e07ccef6ef66093ebaa44cd7f12584259d1029266
+

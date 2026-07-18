@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5880-l5895
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PALES. / PICUS. / PICUMNUS AND PILUMNUS. / SILVANUS.; lines 5880-5895
+  start: '5880'
+  end: '5895'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Picumnus and Pilumnus as Roman household divinities
+    presiding over newborn infants. It describes Silvanus as a woodland deity resembling
+    Faunus and the Greek Pan, presiding over plantations and forests and protecting
+    field boundaries. Silvanus is represented as an old man carrying a cypress tree,
+    connected with the transformation of Cyparissus into that tree. His sacrifices
+    include milk, meat, wine, grapes, wheat-ears, and pigs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Picumnus and Pilumnus are described as two Roman household divinities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Picumnus and Pilumnus are described as presiding especially over newborn infants.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Silvanus is described as a woodland divinity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Silvanus is said to resemble Faunus and the Greek Pan.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Silvanus presides over plantations and forests.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Silvanus specially protects the boundaries of fields.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Silvanus is represented as a hale old man carrying a cypress tree.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The transformation of Cyparissus into the cypress tree is attributed to Silvanus
+    in the passage's account of Roman mythology.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The sacrifices of Silvanus are listed as milk, meat, wine, grapes, wheat-ears,
+    and pigs.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Picumnus
+  description: A Roman household divinity and special presiding deity of newborn infants.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pilumnus
+  description: A Roman household divinity and special presiding deity of newborn infants.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Silvanus
+  description: A woodland divinity who presides over plantations and forests, protects
+    field boundaries, is represented as a hale old man carrying a cypress tree, and
+    receives listed sacrifices.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Faunus
+  description: A figure whom Silvanus is said to resemble.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Greek Pan
+  description: A Greek figure whom Silvanus is said to resemble.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Cyparissus
+  description: A youth whose transformation into the cypress tree is attributed to
+    Silvanus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: household divinity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage calls Picumnus and Pilumnus two Roman household divinities.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: presiding deity of newborn infants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says they were special presiding deities of newborn infants.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: woodland divinity
+  assigned_to:
+  - fig:3
+  basis: The passage calls Silvanus a woodland divinity.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: presiding deity of plantations and forests
+  assigned_to:
+  - fig:3
+  basis: The passage says Silvanus presided over plantations and forests.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: protector of field boundaries
+  assigned_to:
+  - fig:3
+  basis: The passage says Silvanus specially protected the boundaries of fields.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: comparative resembling figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage compares Silvanus to Faunus and the Greek Pan.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: transformed youth
+  assigned_to:
+  - fig:6
+  basis: The passage refers to the transformation of the youth Cyparissus into the
+    cypress tree.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cypress tree
+  literal_form: A cypress tree carried by Silvanus; Cyparissus is said to have been
+    transformed into the tree.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: field boundary
+  literal_form: The boundaries of fields specially protected by Silvanus.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: milk offering
+  literal_form: Milk listed among the sacrifices of Silvanus.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sacrificial offerings
+  literal_form: Milk, meat, wine, grapes, wheat-ears, and pigs listed as sacrifices
+    of Silvanus.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Roman household divinities of newborn infants
+  summary: Picumnus and Pilumnus are identified as Roman household divinities who
+    preside over newborn infants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silvanus as woodland and boundary deity
+  summary: Silvanus is described as a woodland deity resembling Faunus and Greek Pan,
+    presiding over plantations and forests and protecting field boundaries.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Silvanus with cypress and Cyparissus transformation
+  summary: Silvanus is represented as a hale old man carrying a cypress tree, and
+    the transformation of Cyparissus into that tree is attributed to him.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sacrifices to Silvanus
+  summary: Silvanus receives sacrifices consisting of milk, meat, wine, grapes, wheat-ears,
+    and pigs.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrificial offerings to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly lists the sacrifices of Silvanus as milk, meat, wine,
+    grapes, wheat-ears, and pigs.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a list of offerings but does not narrate a sacrificial
+    ritual.
+- id: motif:2
+  label: human transformed into tree
+  taxonomy_refs: []
+  basis: The passage states that the transformation of the youth Cyparissus into the
+    cypress tree was attributed to Silvanus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only alludes to the transformation and gives no narrative
+    details.
+- id: motif:3
+  label: deity guarding cultivated boundaries
+  taxonomy_refs: []
+  basis: Silvanus is described as protecting the boundaries of fields and presiding
+    over plantations and forests.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available taxonomy reference directly matches boundary protection without
+    additional interpretation.
+- id: motif:4
+  label: household divine guardianship of infants
+  taxonomy_refs: []
+  basis: Picumnus and Pilumnus are identified as household divinities presiding over
+    newborn infants.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the protective role but does not narrate a birth or
+    infancy episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Silvanus with Faunus and the Greek Pan as resembling
+    figures in a woodland-divinity context.
+  claim_level: same_function
+  target: Faunus and Greek Pan
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance but does not specify the exact traits,
+    functions, iconography, or history behind the comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5880-5883
+  quote_or_summary: Picumnus and Pilumnus are described as two Roman household divinities
+    and special presiding deities of newborn infants.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5885-5889
+  quote_or_summary: Silvanus is described as a woodland divinity resembling Faunus
+    and Greek Pan, presiding over plantations and forests, and protecting field boundaries.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5891-5894
+  quote_or_summary: Silvanus is represented as a hale old man carrying a cypress tree;
+    the transformation of Cyparissus into the cypress is attributed to him.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 5895
+  quote_or_summary: Silvanus's sacrifices consist of milk, meat, wine, grapes, wheat-ears,
+    and pigs.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is concise and descriptive. Motifs are mostly cultic or symbolic
+    rather than narrative, so motif classification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs were added beyond the supplied available references. Comparison claim is limited to the explicit resemblance stated in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5880-l5895
+  passage_sha256=19551bc45e0c711860a3cbbbeb4e1297ee7ad702b29bc68f3e9ccb7f05186be2
+

@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8912-l8988
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 8912-8988
+  start: '8912'
+  end: '8988'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Arethusa recounts how Alpheus spoke from the stream and pursued her as
+    she fled naked across named Arcadian and Elean places. She invoked Dictynna, who
+    concealed her in a cloud. Under siege, Arethusa dissolved into water and became
+    a stream; Alpheus became his own waters to mingle with her. The Delian Goddess
+    then opened the ground, and Arethusa was carried through dark caverns to Ortygia
+    and the upper air.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker hears an unusual murmuring beneath the middle of
+    the stream and Alpheus speaks from his waves, asking where Arethusa hastens.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arethusa flees without her clothes because her garments are on the other side,
+    and Alpheus pursues her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The pursuit is compared to doves fleeing a hawk.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chase passes through named places including Orchomenus, Psophis, Cyllene,
+    the Maenalian valleys, Erymanthus, and Elis, and over fields, wooded mountains,
+    rocks, crags, and pathless places.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Arethusa asks Dictynna for aid, calling herself the goddess's armor-bearer
+    and mentioning the goddess's bow and quiver.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Goddess throws a dense cloud over Arethusa, and Alpheus searches around
+    the cloud and calls Arethusa by name.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Arethusa compares her feelings while hidden to a lamb hearing wolves and a
+    hare seeing dogs while unable to move.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Cold perspiration, azure drops, flowing water at her feet, and drops from
+    her hair accompany Arethusa's change into a stream.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Alpheus recognizes Arethusa's waters, lays aside his assumed mortal shape,
+    and changes into his own waters in order to mingle with her.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The Delian Goddess cleaves the ground, and Arethusa sinks and is carried through
+    dark caverns to Ortygia, where she reaches the upper air.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Arethusa
+  description: First-person speaker who flees Alpheus, invokes Dictynna, is concealed
+    by a cloud, changes into a stream, and is carried through caverns to Ortygia.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Alpheus
+  description: A speaking river figure who addresses Arethusa from his waves, pursues
+    her, searches for her, and changes from an assumed mortal shape into his own waters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Dictynna / the Delian Goddess
+  description: The goddess invoked by Arethusa for aid; she throws a dense cloud over
+    Arethusa and later cleaves the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+roles:
+- id: role:1
+  label: pursued speaker
+  assigned_to:
+  - fig:1
+  basis: Arethusa narrates in the first person and describes fleeing while Alpheus
+    pursues her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: river pursuer
+  assigned_to:
+  - fig:2
+  basis: Alpheus speaks from the waves, pursues Arethusa, searches for her around
+    the cloud, and changes into waters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:3
+  label: divine rescuer
+  assigned_to:
+  - fig:3
+  basis: The goddess responds to Arethusa's plea by covering her with a cloud and
+    later opening the ground.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: role:4
+  label: object of Alpheus' love and pursuit
+  assigned_to:
+  - fig:1
+  basis: The passage says Alpheus was inflamed by Arethusa and later recognized her
+    waters as the objects of his love.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:5
+  label: armor-bearer of Dictynna
+  assigned_to:
+  - fig:1
+  basis: Arethusa calls herself Dictynna's armor-bearer and says she had carried the
+    goddess's bow and quiver.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water transformation
+  literal_form: stream, waters, lake-like flow, drops, and river waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: concealing cloud
+  literal_form: dense cloud thrown over Arethusa
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dark caverns
+  literal_form: dark caverns beneath the cleaved ground
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: bow and quiver
+  literal_form: bow and darts enclosed in a quiver
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: predator-prey pursuit images
+  literal_form: doves and hawk; lamb and wolves; hare and dogs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Alpheus speaks and pursues
+  summary: Arethusa hears Alpheus from the stream, flees without her clothes, and
+    is pursued by him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Overland chase
+  summary: The pursuit ranges through named places and rugged landscapes while Arethusa
+    weakens under the chase.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Invocation and concealment
+  summary: Arethusa invokes Dictynna, and the Goddess hides her in a dense cloud while
+    Alpheus searches and calls out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Change into water
+  summary: Arethusa dissolves into water and becomes a stream; Alpheus then becomes
+    his own waters in order to mingle with her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Underground passage to Ortygia
+  summary: The Delian Goddess opens the ground, and Arethusa is carried through dark
+    caverns to Ortygia and the upper air.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: pursuit followed by metamorphic escape into water
+  taxonomy_refs:
+  - shapeshifter
+  basis: Arethusa flees Alpheus, is concealed, and changes into a stream; Alpheus
+    also changes into his own waters.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference captures transformation broadly; the passage describes
+    a change into water rather than a voluntary disguise.
+- id: motif:2
+  label: divine rescue through concealment and opened earth
+  taxonomy_refs: []
+  basis: After Arethusa invokes Dictynna, the Goddess hides her in a cloud and later
+    cleaves the ground for her passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: No specific taxonomy family from the supplied list exactly names this
+    rescue pattern.
+- id: motif:3
+  label: subterranean passage and re-emergence
+  taxonomy_refs: []
+  basis: Arethusa sinks and is carried through dark caverns to Ortygia, which introduces
+    her to the upper air.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage describes an underground route but does not identify it as
+    an afterlife or underworld journey.
+- id: motif:4
+  label: pursuer changes form to join transformed beloved
+  taxonomy_refs: []
+  basis: Alpheus recognizes Arethusa's waters as the objects of his love, gives up
+    an assumed mortal shape, and becomes waters to mingle with her.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage states Alpheus' intention to mingle but does not describe
+    mutual consent or the final state in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the chase through predator-prey images, comparing
+    Arethusa and Alpheus to doves and a hawk, a lamb and wolves, and a hare and dogs.
+  claim_level: visual_similarity
+  target: predator-prey pursuit pattern within the passage
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile-based comparison only; it does not establish
+    historical contact or a broader tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8912-8919
+  quote_or_summary: 'Alpheus speaks from his waves: "Whither dost thou hasten, Arethusa?"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 8919-8925
+  quote_or_summary: Arethusa flees naked because her garments are across the stream;
+    Alpheus pursues, and the chase is compared to doves fleeing a hawk.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8925-8935
+  quote_or_summary: The chase reaches Orchomenus, Psophis, Cyllene, the Maenalian
+    valleys, Erymanthus, and Elis, then crosses fields, wooded mountains, rocks, crags,
+    and pathless places.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8935-8940
+  quote_or_summary: 'Arethusa prays: "Give aid, Dictynna, to thy armor-bearer," recalling
+    the goddess''s bow and quiver.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 8940-8950
+  quote_or_summary: The Goddess throws a dense cloud over Arethusa; Alpheus searches
+    around it and twice calls, "Ho, Arethusa!"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized with short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 8950-8957
+  quote_or_summary: Arethusa likens her terror to a lamb hearing wolves around a sheep-fold
+    and a hare hidden from dogs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 8957-8964
+  quote_or_summary: '"Wherever I move my foot, there flows a lake"; drops flow from
+    her hair, and she is "changed into a stream."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 8964-8968
+  quote_or_summary: The river recognizes Arethusa's waters as objects of love, lays
+    aside his assumed mortal shape, and changes into his own waters to mingle with
+    her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 8968-8972
+  quote_or_summary: The Delian Goddess "cleaved the ground" and Arethusa was carried
+    "through dark caverns to Ortygia" and the upper air.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, and transformations are explicit. Some motif labels
+    are broader than the passage's literal wording and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to the provided available lists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8912-l8988
+  passage_sha256=4e39727f5fdea226ef90b9dd62e88d72ad714ff356c9b92212bfa940777c8236
+

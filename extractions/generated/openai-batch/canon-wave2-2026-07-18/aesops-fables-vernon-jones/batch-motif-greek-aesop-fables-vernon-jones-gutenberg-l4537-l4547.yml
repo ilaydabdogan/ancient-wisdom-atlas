@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4537-l4547
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MONKEY AND THE DOLPHIN / THE CROW AND THE SNAKE / THE DOGS AND THE FOX
+    / THE NIGHTINGALE AND THE HAWK; lines 4537-4547
+  start: '4537'
+  end: '4547'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A nightingale sings from an oak branch. A hungry hawk seizes her and prepares
+    to kill her. She begs for her life, arguing that she is too small for a meal and
+    that the hawk should hunt larger birds. The hawk refuses to abandon a certain
+    prize for the mere possibility of a better one.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A nightingale is sitting on a bough of an oak and singing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hungry hawk sees the nightingale, darts to the spot, and seizes her in his
+    talons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hawk is about to tear the nightingale in pieces.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The nightingale begs the hawk to spare her life and argues that she is too
+    small to make a good meal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The nightingale says the hawk should seek prey among bigger birds.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hawk refuses to give up a certain prize for an unseen chance of a better
+    one.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nightingale
+  description: A singing bird sitting on an oak bough; seized by the hawk and pleading
+    for her life.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Hawk
+  description: A hungry bird of prey who seizes the nightingale and refuses to release
+    her.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: captured prey
+  assigned_to:
+  - fig:1
+  basis: The nightingale is seized in the hawk’s talons and pleads not to be killed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: predator
+  assigned_to:
+  - fig:2
+  basis: The hawk is hungry, seizes the nightingale, and is about to tear her in pieces.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: petitioner for mercy
+  assigned_to:
+  - fig:1
+  basis: The nightingale begs the hawk to spare her life.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: pragmatic refuser
+  assigned_to:
+  - fig:2
+  basis: The hawk rejects the nightingale’s argument because he will not abandon a
+    certain prize for an uncertain better one.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oak tree
+  literal_form: bough of an oak
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: talons
+  literal_form: hawk’s talons
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Nightingale singing in the oak
+  summary: The nightingale sits on an oak bough and sings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hawk captures the nightingale
+  summary: A hungry hawk spots the nightingale, darts to her location, and seizes
+    her in his talons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plea and refusal
+  summary: The nightingale asks to be spared and proposes that the hawk hunt larger
+    birds; the hawk refuses to release a certain captive for a merely possible better
+    prey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: certain gain preferred over uncertain greater gain
+  taxonomy_refs:
+  - wisdom
+  basis: The hawk explicitly says he will not give up the prey he has for the chance
+    of a better prey he cannot see.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical reasoning
+    rather than an explicitly named mythic wisdom figure.
+- id: motif:2
+  label: captive prey pleads for release from predator
+  taxonomy_refs: []
+  basis: The nightingale, already seized by the hawk, begs for her life and offers
+    a reason for the hawk to release her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a fable situation and not necessarily a distinct mythological
+    motif without broader comparative evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4537-4539
+  quote_or_summary: The nightingale sits on a bough of an oak and sings as usual.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4539-4541
+  quote_or_summary: A hungry hawk sees the nightingale, darts to the spot, and seizes
+    her in his talons.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4541-4542
+  quote_or_summary: The hawk is about to tear the nightingale in pieces.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4542-4545
+  quote_or_summary: The nightingale begs to be spared, saying she is not large enough
+    to make a good meal and that the hawk should seek larger birds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4545-4547
+  quote_or_summary: "“I am going to give up a certain prize on the chance of a better
+    of which I see at present no signs.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based on the fable’s
+    explicit action and reasoning; no passage-supported external comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a cautious comparison to another tradition or motif family beyond broad candidate motif classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4537-l4547
+  passage_sha256=4ef28957c735f0de012a0c119bcb10121f993e6a8fde3153d7853d7b275d93d1
+

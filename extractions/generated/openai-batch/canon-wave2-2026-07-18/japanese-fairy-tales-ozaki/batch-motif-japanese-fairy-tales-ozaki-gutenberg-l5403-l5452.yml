@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5403-l5452
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE HAPPY HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE
+    WITHERED TREES TO FLOWER / THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE
+    MONKEY AND THE CRAB; lines 5403-5452
+  start: '5403'
+  end: '5452'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The monkey is welcomed by the crab’s family and treated as an honored guest
+    at a feast, then taken to a tea-ceremony room and left waiting. As he tries to
+    pour hot water from a kettle at the charcoal fireplace, a hidden chestnut bursts
+    from the ashes and strikes him. A bee then stings him, and a stone mortar with
+    other stones falls on him from the gate. The young crab confronts the monkey for
+    murdering his father and kills him, avenging the father’s death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The crab’s family and relatives welcome the monkey, lead him to a hall, and
+    entertain him as the guest of honor at a feast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young chief mourner receives the monkey, and they exchange condolences
+    and thanks.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the feast, the monkey is invited to the tea-ceremony room; the young
+    crab conducts him there, leaves, and does not return for some time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The monkey says he is tired of waiting and thirsty after drinking sake at
+    dinner.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The monkey approaches the charcoal fireplace and begins to pour hot water
+    from the boiling kettle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A chestnut, described as one of the crab’s friends, has hidden in the fireplace,
+    bursts from the ashes, and hits the monkey in the neck.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A bee hidden outside the screens flies out and stings the monkey on the cheek.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A stone mortar and several stones have hidden on top of the crab’s gate and
+    fall onto the monkey’s head as he runs underneath.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The young crab confronts the helpless monkey and asks whether he remembers
+    murdering the crab’s father.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The monkey recognizes the young crab as his enemy but says the death was the
+    father’s fault, not his own.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The young crab cuts off the monkey’s head with his claws, and the narration
+    states that the young crab avenged his father’s death.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: monkey
+  description: The welcomed guest of honor who is later attacked, accused of murdering
+    the young crab’s father, and killed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: young crab / young chief mourner
+  description: The young chief mourner who receives the monkey, leads him to the tea
+    room, later confronts him, and kills him in vengeance for his father.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: crab’s family and relatives
+  description: A collective group waiting to receive and welcome the monkey before
+    the feast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: chestnut
+  description: One of the crab’s friends, hidden in the fireplace, who bursts from
+    the ashes and strikes the monkey’s neck.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: bee
+  description: A hidden attacker outside the screens who flies out and stings the
+    monkey on the cheek.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: stone mortar
+  description: A mortar hidden on top of the crab’s gate with other stones, falling
+    onto the monkey’s head.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: several other stones
+  description: Stones hidden with the mortar on top of the gate that fall with it
+    onto the monkey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: young crab’s father
+  description: The murdered father named in the young crab’s accusation and in the
+    narration of vengeance.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: honored guest
+  assigned_to:
+  - fig:1
+  basis: The monkey is entertained as the guest of honor at the feast.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accused murderer and punished wrongdoer
+  assigned_to:
+  - fig:1
+  basis: The young crab accuses the monkey of murdering his father, and the narration
+    calls the monkey wicked and punished.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: chief mourner
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the young crab as the young chief mourner who comes
+    to receive the monkey.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: avenger of father
+  assigned_to:
+  - fig:2
+  basis: The young crab confronts the monkey about his father’s murder and kills him;
+    the narration states he avenged his father’s death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: welcoming hosts
+  assigned_to:
+  - fig:3
+  basis: The crab’s family and relatives wait to receive and welcome the monkey and
+    lead him to the hall.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: hidden allies and attackers
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The chestnut, bee, mortar, and stones are each described as hidden before
+    attacking or falling on the monkey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: target of ambush
+  assigned_to:
+  - fig:1
+  basis: The monkey is successively struck by the chestnut, stung by the bee, and
+    crushed by the mortar and stones.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: murdered father
+  assigned_to:
+  - fig:8
+  basis: The young crab says the monkey murdered his father, and the conclusion identifies
+    the father’s death as avenged.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: charcoal fireplace and ashes
+  literal_form: A charcoal fireplace with a boiling kettle and ashes where the chestnut
+    is hidden.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tea-ceremony room
+  literal_form: The room where the monkey is left waiting after the feast before the
+    first attack.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: screens
+  literal_form: The screens outside which the bee is hidden before it stings the monkey.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: crab’s gate
+  literal_form: The gate where the stone mortar and stones are hidden above the monkey’s
+    path.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: crab claws as cutting weapon
+  literal_form: The young crab’s great claw scissors or claws used to cut off the
+    monkey’s head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Reception and feast
+  summary: The crab’s family and relatives welcome the monkey, the young chief mourner
+    receives him, and the monkey is entertained as guest of honor at a luxurious feast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Waiting in the tea room
+  summary: After the feast, the young crab takes the monkey to the tea-ceremony room,
+    leaves him there, and the monkey grows impatient and thirsty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chestnut from the fireplace
+  summary: The monkey goes to pour hot water from the kettle, and the hidden chestnut
+    bursts from the ashes and hits his neck.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bee from behind the screens
+  summary: As the monkey runs out, the bee emerges from outside the screens and stings
+    his cheek.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mortar and stones from the gate
+  summary: The stone mortar and several stones fall from the top of the crab’s gate
+    onto the monkey’s head, leaving him crushed and unable to rise.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Accusation and vengeance
+  summary: The young crab accuses the helpless monkey of murdering his father; the
+    monkey refuses blame, and the young crab kills him, avenging the father’s death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hospitality as setting for a revenge trap
+  taxonomy_refs: []
+  basis: The monkey is welcomed, feasted, and taken to the tea-ceremony room before
+    the hidden attacks begin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage shows the sequence but does not explicitly state the entire
+    reception was planned as a trap.
+- id: motif:2
+  label: sequential ambush by hidden allies
+  taxonomy_refs: []
+  basis: The chestnut, bee, mortar, and stones are each hidden in separate places
+    and attack or fall on the monkey in sequence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the chestnut as one of the crab’s friends; it does
+    not explicitly describe the bee, mortar, or stones with the same friendship label
+    in this excerpt.
+- id: motif:3
+  label: filial vengeance for murdered parent
+  taxonomy_refs: []
+  basis: The young crab accuses the monkey of murdering his father and then kills
+    him; the narration states that he avenged his father’s death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No wider legal, ritual, or divine framework is stated in the passage.
+- id: motif:4
+  label: unrepentant wrongdoer receives punishment
+  taxonomy_refs: []
+  basis: The monkey denies responsibility by blaming the father, and the narration
+    calls him wicked and describes his death as well-merited punishment.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a moralizing narrative conclusion within the passage, not an external
+    comparative claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5403-5410
+  quote_or_summary: The crab’s family and relatives welcome the monkey, the young
+    chief mourner receives him, and he is entertained as guest of honor at a luxurious
+    feast.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5411-5420
+  quote_or_summary: After the feast, the monkey is taken to the tea-ceremony room,
+    left there by the young crab, and complains of waiting and thirst.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5421-5427
+  quote_or_summary: The monkey tries to pour hot water from the kettle at the charcoal
+    fireplace; the chestnut, hidden in the fireplace, bursts from the ashes and hits
+    his neck.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5428-5432
+  quote_or_summary: The bee, hidden outside the screens, flies out and stings the
+    monkey’s cheek while he runs in pain.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5433-5438
+  quote_or_summary: The stone mortar and several other stones, hidden on top of the
+    crab’s gate, fall onto the monkey’s head and leave him crushed and helpless.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 5439-5448
+  quote_or_summary: The young crab asks, “Do you now remember that you murdered my
+    father?” The monkey answers that it was the father’s fault, not his own.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 5449-5452
+  quote_or_summary: The young crab cuts off the monkey’s head with his claws; the
+    narration says the wicked monkey received punishment and that the young crab avenged
+    his father’s death.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and passage-level; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference applied only for the literal fire/fireplace symbol.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5403-l5452
+  passage_sha256=e355c3235869814a96c181f4c8933c93c5a04921950d8622233a4e80889ddd16
+

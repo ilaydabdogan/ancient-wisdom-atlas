@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8715-l8746
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: NOTES / BOOK FIRST / BOOK SECOND / BOOK THIRD; lines 8715-8746
+  start: '8715'
+  end: '8746'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes to Book III discuss manuscript readings and translation
+    choices: a sea/straits phrase; a line about the full moon entering latticed windows,
+    with comparison to a Lucretian image of rays entering houses; a difficult sentence
+    involving Helenus'' warnings about Scylla and Charybdis; and a variant involving
+    tempests.'
+  language: English with Latin quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a set of editorial and philological notes rather than a continuous
+    narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: One note records a preferred manuscript reading involving stirred straits
+    or waters beside land.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One note discusses a Latin line in which the full Moon pours through windows,
+    with the translation adopting a latticed-window interpretation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Servius is cited as giving alternative interpretations of the word under discussion
+    in the moon-and-windows line.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that Virgil imitated a Lucretian passage in which sunlight
+    or rays enter dark or opaque houses.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A quoted passage names Helenus' warnings and the route involving Scylla and
+    Charybdis, with death close on both ways.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentator explains the difficult passage by treating 'courses' as the
+    subject and the route or way as the object or appositional element.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final note records a textual variant involving tempests.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Virgil
+  description: Named by the note as having imitated the cited Lucretian passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Lucretius
+  description: Named as the source of a cited passage at ii.114 involving rays entering
+    houses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Servius
+  description: Named as mentioning two interpretations of the word under discussion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Luna / Full Moon
+  description: The Latin line describes the full Moon pouring through windows.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Helenus
+  description: Named in the quoted Latin as the source of warnings or commands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Scylla
+  description: Named together with Charybdis in the cited route passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Charybdis
+  description: Named together with Scylla in the cited route passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: poet described as imitator
+  assigned_to:
+  - fig:1
+  basis: The note says Virgil has imitated the cited Lucretian passage.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited source poet
+  assigned_to:
+  - fig:2
+  basis: The note identifies a passage of Lucretius as the source being imitated.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: commentator and interpreter
+  assigned_to:
+  - fig:3
+  basis: Servius is cited as giving alternative interpretations.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: celestial light source
+  assigned_to:
+  - fig:4
+  basis: The cited Latin line has the full Moon pouring through windows.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: warning-giver
+  assigned_to:
+  - fig:5
+  basis: The quoted line refers to Helenus' warnings or commands.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: paired maritime peril
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Scylla and Charybdis are named together in a passage about a route where
+    death is close on either side.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: latticed windows
+  literal_form: windows interpreted as latticed or barred openings
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: celestial rays entering an interior
+  literal_form: moonlight or sunlight/rays passing through windows or into houses
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea route between dangers
+  literal_form: straits, courses, and a way between Scylla and Charybdis
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: tempests
+  literal_form: tempests mentioned in a textual variant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Light through windows
+  summary: The notes discuss an image of the full Moon pouring through windows and
+    compare it with a Lucretian image of rays entering houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Route between Scylla and Charybdis
+  summary: The quoted passage and explanation concern Helenus' warnings and a course
+    or route involving Scylla and Charybdis, with death close on either side.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Light entering through windows into an interior
+  taxonomy_refs: []
+  basis: The note discusses Luna pouring through windows and a Lucretian image of
+    rays entering dark or opaque houses, explicitly linked as an imitation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is extracted from an editorial note and may be primarily a literary
+    image rather than a mythic motif.
+- id: motif:2
+  label: Steering between two lethal sea perils
+  taxonomy_refs: []
+  basis: The quoted lines name Scylla and Charybdis and describe a course or way between
+    dangers where death is close on either side.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a commentary on a difficult Latin construction, not the
+    full narrative context of the voyage.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly states that Virgil imitated Lucretius ii.114 in the passage
+    about light or rays entering interiors, supporting a textual and imagistic similarity
+    between the two Latin passages.
+  claim_level: linguistic_similarity
+  target: 'Lucretius ii.114: sun-lights or rays pouring through opaque houses'
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests only on the editor's note supplied here; it does not
+    establish a broader mythological relationship or historical argument beyond the
+    stated literary imitation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8715-8717; note to Book III l.127
+  quote_or_summary: The note records the reading 'freta concita terris' with the best
+    manuscripts, against 'consita' in another edition.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8718-8724; note to Book III l.152
+  quote_or_summary: The note discusses the line in which the full Luna pours through
+    windows, rejects one transferred-epithet explanation, reports Servius' alternative
+    interpretations, and says the translation adopts the latticed interpretation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8725-8734; Lucretius comparison within note to Book III l.152
+  quote_or_summary: The note says Virgil imitated Lucretius ii.114, where the sun's
+    lights or inserted rays pour through opaque houses; it suggests that 'clatris'
+    may be a lost word.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8735-8744; note to Book III l.684
+  quote_or_summary: The note quotes a difficult passage naming Helenus' warnings,
+    Scylla and Charybdis, and a narrow margin of death, then explains 'cursus' as
+    the subject and 'viam' as object or apposition.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8745-8746; note to Book III l.708
+  quote_or_summary: The note records the reading 'tempestatibus actis' with specified
+    manuscripts and contrasts another reading, 'actus'.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage's nature as editorial notes
+    with brief Latin citations. Motif candidates are therefore cautious and based
+    on imagery or patterns explicitly present in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No broader mythological comparisons were added beyond the explicit Virgil-Lucretius imitation claim in the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8715-l8746
+  passage_sha256=78969a0f1eb7935e3ca7d226475c63ac4c99b728c65cb0c23da050bb3ac1aaba
+

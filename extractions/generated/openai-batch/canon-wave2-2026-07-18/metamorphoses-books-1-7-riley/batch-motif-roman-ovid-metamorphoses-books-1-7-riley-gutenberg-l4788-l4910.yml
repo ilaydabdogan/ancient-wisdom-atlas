@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4788-l4910
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE THIRD. / EXPLANATION. / EXPLANATION.; lines 4788-4910
+  start: '4788'
+  end: '4910'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The pack of Actæon is said to have consisted of fifty dogs.
+  summary: Translator's footnotes on Ovid's catalogue of Actæon's hounds explain that
+    the names are Greek-derived dog epithets, discuss ancient source lists, and gloss
+    individual names by traits, animals, colors, places, or actions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The notes state that the dog names are Greek-derived and show epithets used
+    by ancient people for dogs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Actæon's pack is said to have consisted of fifty dogs, while Ovid is said
+    here to name thirty-six.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The notes compare the dog-name catalogue with lists or mentions attributed
+    to Greek poets, Apollodorus, Hyginus, and Æschylus.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: obs:4
+  text: Crete, Arcadia, and Laconia are identified as places that produced valuable
+    hounds.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several dog names are glossed as actions or traits connected with tracking,
+    hunting, running, swiftness, barking, snatching, worrying, or subduing wild beasts.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several dog names are glossed by color, body trait, animal, or weather terms,
+    including blackness, whiteness, soot, spots, tiger, wolf, and storm.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some etymologies or name explanations refer to natural or geographic features,
+    including mountain, wood, forest, river, and the Cretan mountain Dicte.
+  category: other
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Actæon
+  description: Named as the person whose pack of dogs is being discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Actæon's dog pack
+  description: A pack said to have fifty dogs; the notes focus on Greek-derived names
+    and epithets for these hounds, with Ovid said to name thirty-six.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: pack-associated mythic figure
+  assigned_to:
+  - fig:1
+  basis: The footnote calls the dogs the pack of Actæon.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hound pack
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a pack of dogs associated with Actæon and gives its
+    reported size.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: epithet-bearing named animals
+  assigned_to:
+  - fig:2
+  basis: The passage explains the dog names as Greek-derived epithets and provides
+    many glosses.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: hounds / dog pack
+  literal_form: Actæon's pack of dogs or hounds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain term in hound names
+  literal_form: Mountain references in names or explanations, including Oribasus,
+    Oresitrophus, and Dicte as a mountain of Crete
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: river name
+  literal_form: Ladon, explained as a river of Sicyon from which a dog takes its name
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Commentarial catalogue of Actæon's hounds
+  summary: The excerpt is a set of footnotes cataloguing and explaining names of Actæon's
+    hounds, their etymologies, source-list variants, and associated traits; no narrated
+    action occurs in this line range.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: catalogue of named hounds belonging to a mythic figure
+  taxonomy_refs: []
+  basis: The passage reports a large pack associated with Actæon and says Ovid names
+    thirty-six dogs, while other ancient lists preserve related catalogues.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This passage is a translator's note and catalogue discussion, not a narrative
+    episode of the Actæon myth.
+- id: motif:2
+  label: functional and descriptive animal naming
+  taxonomy_refs: []
+  basis: The hound names are repeatedly glossed as traits of motion, hunting, appetite,
+    sound, color, animal likeness, or geographic origin.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The pattern is linguistic and descriptive; the passage does not itself
+    assign symbolic meanings to the names.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that Hyginus's first list of Actæon's dog names contains
+    many names similar to Ovid's list and in nearly the same order.
+  claim_level: linguistic_similarity
+  target: Hyginus's first list of Actæon's dog names compared with Ovid's list
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:9
+  confidence: high
+  limitations: The claim rests on the translator's note; the excerpt does not provide
+    the full lists for independent comparison.
+- id: claim:2
+  claim: The passage places Ovid's dog-name catalogue within a broader ancient catalogue
+    tradition involving Greek poets, Apollodorus, Hyginus, and Æschylus.
+  claim_level: same_function
+  target: ancient Greek and Roman lists or mentions of Actæon's hounds
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:9
+  confidence: medium
+  limitations: The note also states that Apollodorus's list is partly lost and corrupt,
+    and that Hyginus's second list differs from Ovid's.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Footnote 27, within lines 4788-4910
+  quote_or_summary: "“These names are all from the Greek, and are interesting, as
+    showing the epithets by which the ancients called their dogs.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:2
+  type: summary
+  locator: Footnote 27, within lines 4788-4910
+  quote_or_summary: The footnote says Actæon's pack consisted of fifty dogs and that
+    Ovid here names thirty-six.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: Footnote 27, within lines 4788-4910
+  quote_or_summary: The footnote says the dog names were preserved by Greek poets
+    and copied by Apollodorus; Hyginus has a first list of thirty-nine names mostly
+    similar to Ovid's and in almost the same order; Æschylus names four; Ovid names
+    thirty-six.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: Footnote 27, within lines 4788-4910
+  quote_or_summary: "“Crete, Arcadia, and Laconia produced the most valuable hounds.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: Footnotes 28-36, 42-43, 49-57, 59-60, within lines 4788-4910
+  quote_or_summary: Names are glossed with hunting, movement, sound, or predation
+    traits, including Tracer, Glutton, Ranger, Kill-buck, Tempest, Hunter, Swift-footed,
+    Catcher, Runner, Barker, Storm, Swift, Snap, Worrier, Wild-tooth, Babbler, beast-subduer,
+    and Rover.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: Footnotes 27, 44-48, 50-54, 58, within lines 4788-4910
+  quote_or_summary: Names are glossed with color, body, animal, and weather terms,
+    including Black-foot, Spot, Tiger, Strong, White, Soot, Lacon, Storm, Swift, Wolf,
+    Black-coat, hair-thickness, and Black-hair.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnotes 31, 55, 60, within lines 4788-4910
+  quote_or_summary: Oribasus and Oresitrophus are explained through the Greek word
+    for mountain, and Dicte is identified as a mountain of Crete in the note on Labros.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnotes 37-38, 41, within lines 4788-4910
+  quote_or_summary: Hylæus and Nape are explained through words for wood or forest,
+    and Ladon is explained as the name of a river of Sicyon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: Footnote 27, within lines 4788-4910
+  quote_or_summary: The footnote says much of Apollodorus's copied list has perished
+    and is corrupt, and that Hyginus's second list contains thirty-six names different
+    from those given by Ovid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly explanatory footnotes rather than mythic narration.
+    Extraction of names, roles, and catalogue patterns is well supported; symbolic
+    and motif readings are limited to literal hound-pack and naming patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy symbol refs for mountain and water are used only for literal etymological or toponymic references in the footnotes, not for a sacred-mountain or water-motif interpretation.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4788-l4910
+  passage_sha256=6c58306eead6483011b7d96faa08a9fc3f58b4472dbe43542f47240222e61764
+

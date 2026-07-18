@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6482-l6494
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THESMOPHORIA. / DIONYSIA. / PANATHENAEA. / DAPHNEPHORIA.; lines 6482-6494
+  start: '6482'
+  end: '6494'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the Daphnephoria at Thebes as a festival held every
+    ninth year in honor of Apollo. Its main feature is a procession to Apollo’s temple:
+    a noble young priest called the Daphnephorus, crowned in gold and splendidly dressed,
+    is preceded by a youth carrying an emblem of celestial and calendrical bodies
+    and followed by maidens carrying laurel branches and singing hymns.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Daphnephoria was celebrated at Thebes in honor of Apollo every ninth year.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The festival’s distinguishing feature was a procession to the temple of Apollo.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A young priest called the Daphnephorus was of noble descent, splendidly attired,
+    and wore a crown of gold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A youth preceded the Daphnephorus while carrying an emblematical representation
+    of the sun, moon, stars, and days of the year.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Beautiful maidens followed the Daphnephorus while bearing laurel branches
+    and singing hymns in honor of Apollo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: The god in whose honor the Daphnephoria was celebrated and to whose
+    temple the procession went.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Daphnephorus
+  description: A young priest of noble descent, splendidly attired and wearing a crown
+    of gold.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Youth carrying emblem
+  description: A youth who preceded the Daphnephorus and carried an emblematical representation
+    of the sun, moon, stars, and days of the year.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Maidens bearing laurel branches
+  description: Beautiful maidens who followed the Daphnephorus, bore laurel branches,
+    and sang hymns in honor of Apollo.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: honored deity
+  assigned_to:
+  - fig:1
+  basis: The festival is held in honor of Apollo, and the procession goes to his temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: young priest in procession
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Daphnephorus as a young priest and places him
+    in the procession.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: emblem bearer
+  assigned_to:
+  - fig:3
+  basis: The youth carries an emblematical representation and precedes the Daphnephorus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hymn-singing branch bearers
+  assigned_to:
+  - fig:4
+  basis: The maidens bear laurel branches and sing hymns in honor of the god.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: temple of Apollo
+  literal_form: temple of Apollo
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gold crown
+  literal_form: crown of gold worn by the Daphnephorus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: astral and calendrical emblem
+  literal_form: emblematical representation of the sun, moon, stars, and days of the
+    year
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: laurel branches
+  literal_form: laurel branches borne by maidens
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ninth-year interval
+  literal_form: celebration every ninth year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Daphnephoria procession to Apollo’s temple
+  summary: 'At Thebes, the Daphnephoria is marked by a procession to Apollo’s temple:
+    a crowned young priest is preceded by a youth with an astral-calendar emblem and
+    followed by maidens carrying laurel branches and singing hymns.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual procession to a deity’s temple
+  taxonomy_refs: []
+  basis: The passage identifies the main feature of the festival as a procession to
+    the temple of Apollo.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a ritual pattern in a festival description rather than a narrative
+    myth episode.
+- id: motif:2
+  label: calendrical and astral emblem in festival procession
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The procession includes an emblem representing the sun, moon, stars, and
+    days of the year, and the festival is held every ninth year.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a calendrical association, but it does not explicitly
+    describe seasonal change or renewal.
+- id: motif:3
+  label: laurel-bearing hymn procession for Apollo
+  taxonomy_refs: []
+  basis: Maidens follow the priest bearing laurel branches and singing hymns in honor
+    of Apollo.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the laurel’s meaning beyond its use in the
+    procession.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6482-6486
+  quote_or_summary: The Daphnephoria was celebrated at Thebes in honor of Apollo every
+    ninth year.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 6487-6490
+  quote_or_summary: The festival’s distinguishing feature was a procession to Apollo’s
+    temple; a young priest, the Daphnephorus, was noble, splendidly attired, and crowned
+    in gold.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 6490-6492
+  quote_or_summary: A youth preceded the Daphnephorus carrying an emblem representing
+    the sun, moon, stars, and days of the year.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 6492-6494
+  quote_or_summary: Maidens followed, bearing laurel branches and singing hymns in
+    honor of the god.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is a handbook description of a festival, not a mythic narrative. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference 'tree' is applied only to literal laurel branches; 'seasonal_cycle' is applied cautiously to the calendrical/astral festival motif.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6482-l6494
+  passage_sha256=36b8179d35697f4677a79e1504a400794ec705022a8eab6ff6230e6fff4a0c91
+

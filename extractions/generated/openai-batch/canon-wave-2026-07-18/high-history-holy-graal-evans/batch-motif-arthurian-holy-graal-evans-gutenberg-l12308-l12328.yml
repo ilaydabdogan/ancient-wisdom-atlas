@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l12308-l12328
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXIII. / XXIV. / XXVI. / XXVII.; lines 12308-12328
+  start: '12308'
+  end: '12328'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker laments the death of an incomparable Queen. Lancelot asks the
+    King for leave to return toward Cardoil to defend the King’s troubled land while
+    the King is away in relation to the Graal. Gawain supports the request. The King
+    consents and asks Lancelot to guard and govern the land until God brings the King
+    back. Lancelot departs sorrowfully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker declares that the best and most understanding Queen is dead and
+    that none of equal worth will come after her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lancelot asks the King’s permission, with Gawain’s willingness, to go back
+    toward Cardoil.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lancelot says he will help defend the King’s land because it is sorely discounselled
+    until the King comes back from the Graal.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Messire Gawain tells the King that Lancelot has spoken well and supports granting
+    consent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The King consents and asks Lancelot to be guardian of his land and its governance
+    until God brings him back.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lancelot takes leave of the King and goes back sorrowing and full of discontent.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed dead Queen
+  description: A Queen described as the best in the world, most understanding, dead,
+    and without equal worth hereafter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lancelot
+  description: He asks to return toward Cardoil to defend the King’s land, is asked
+    to guard and govern it, and departs sorrowfully.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The King
+  description: He is addressed by Lancelot and Gawain, consents to Lancelot’s return,
+    and refers to the land as his own until God brings him back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Messire Gawain
+  description: He supports Lancelot’s proposal and asks the King to grant consent.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: God
+  description: Invoked by the King as the one who may bring him back.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased exemplary queen
+  assigned_to:
+  - fig:1
+  basis: The Queen is said to be dead and of unmatched worth and understanding.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: proposed defender and guardian of the royal land
+  assigned_to:
+  - fig:2
+  basis: Lancelot offers to defend the King’s land and is asked to be guardian of
+    its governance.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: king and Graal-bound ruler
+  assigned_to:
+  - fig:3
+  basis: The figure is addressed as King, has land needing defense, and is expected
+    to return from the Graal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: supporting counselor or companion
+  assigned_to:
+  - fig:4
+  basis: Gawain endorses Lancelot’s speech and the granting of consent.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: invoked divine return-bringer
+  assigned_to:
+  - fig:5
+  basis: The King says God shall have brought him back.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Graal
+  literal_form: the Graal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Cardoil
+  literal_form: Cardoil
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: royal land and governance
+  literal_form: my land and the governance thereof
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lament for the dead Queen
+  summary: A speaker states that an unsurpassed Queen is dead.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lancelot proposes return to Cardoil
+  summary: Lancelot asks the King, with Gawain’s willingness, to go back toward Cardoil
+    and help defend the King’s troubled land until the King returns from the Graal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Consent and delegated guardianship
+  summary: Gawain supports Lancelot’s request; the King consents and asks Lancelot
+    to guard and govern his land until God brings him back.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sorrowful departure
+  summary: Lancelot takes leave of the King and goes back in sorrow and discontent.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Graal quest absence requiring worldly defense
+  taxonomy_refs:
+  - mystical_quest
+  basis: The King’s expected return is framed as coming back from the Graal, while
+    Lancelot returns to defend the land during that interval.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage alludes to the Graal but does not narrate the Graal episode
+    itself.
+- id: motif:2
+  label: Delegated guardianship during royal absence
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King formally consents to Lancelot’s return and asks him to be guardian
+    of the land and its governance until the King is brought back.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage shows royal delegation, but it does not explicitly stage a
+    legitimacy contest.
+- id: motif:3
+  label: Sorrowful return from service
+  taxonomy_refs:
+  - return
+  basis: Lancelot takes leave and goes back sorrowing and full of discontent.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a brief return action and may not constitute a full return motif
+    without wider narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The reference to the King’s return from the Graal supports a cautious identification
+    with the Grail quest as a mystical quest motif family.
+  claim_level: same_motif
+  target: Grail quest / mystical quest motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names the Graal and its effect on royal absence, but provides
+    no detailed vision, trial, or sacred object episode in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12310-12312
+  quote_or_summary: A speaker says that the best Queen in the world, most understanding,
+    is dead and that none of equal worth will follow.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12314-12317
+  quote_or_summary: Lancelot asks the King for leave, with Gawain’s willingness, to
+    go back toward Cardoil and defend the King’s land until the King comes back from
+    the Graal.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 12319-12320
+  quote_or_summary: Messire Gawain says Lancelot has spoken well and asks that the
+    King grant consent.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 12322-12325
+  quote_or_summary: The King consents and asks that Lancelot go and be guardian of
+    his land and governance until God brings him back.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 12327-12328
+  quote_or_summary: "“Lancelot taketh leave of the King and goeth his way back, all
+    sorrowing and full of discontent.”"
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal actions and speakers are mostly explicit. The first speaker’s identity
+    is not established within the supplied excerpt. Motif assignments are cautious
+    because the excerpt mainly alludes to the Graal and royal absence rather than
+    narrating a full quest episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external Arthurian context was added.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l12308-l12328
+  passage_sha256=5080e39bb4aaedd867cb058d49f4d968e3c8bc67a3f268fce0e7c50d6721a3df
+

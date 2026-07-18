@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5210-l5269
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    ORIGIN    OF    DEATH.  61 / THE    ORIGIN    OF   DEATH.  63 / THE    ORIGIN    OF   DEATH.  65
+    / MOON  NOT  TO  BE  LOOKED  AT.  67; lines 5210-5269
+  start: '5210'
+  end: '5269'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents a hunting taboo: after game has been shot, people
+    must not look at the Moon or up toward the sky. Mothers taught that the Moon is
+    not good if looked at in this situation. If the hunters look at the Moon, predators
+    may eat the wounded game, and the Moon''s water may fall on the game, cool the
+    poison, cure it, and allow it to rise and live.'
+  language: English translation with Xam-language transcript excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Moon is not to be looked at when game has been
+    shot.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After shooting game, the speakers lower their heads and do not look up toward
+    the sky because they fear the Moon's shining.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mothers taught that the Moon is not a good person if looked at.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the hunters look at the Moon after shooting game, beasts of prey will eat
+    the game while it lies dying.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Moon's water is said to cause game that has not died to live.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Moon's water is described as visible on a bush and resembling liquid honey.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the Moon's water falls on the game, it cools the poison, cures the game,
+    and the game arises and goes on.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mothers warned the children not to look at things in the sky, saying that
+    the shot game would go along like the Moon if they looked at him.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A celestial figure referred to as 'him' and as a person; his shining
+    is feared, and his water can cure wounded game.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hunters / speaker's group
+  description: The 'we' who have shot game and are instructed not to look at the Moon
+    or sky.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Mothers
+  description: The mothers who taught the prohibition and explained the danger of
+    looking at the Moon after shooting game.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Shot game
+  description: Game wounded by poison; it may lie dying, be eaten by beasts of prey,
+    or arise and live if the Moon's water falls on it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Beasts of prey
+  description: Predatory animals that will eat the dying game if the hunters look
+    at the Moon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prohibited celestial person
+  assigned_to:
+  - fig:1
+  basis: The Moon is not to be looked at after game has been shot, and mothers say
+    he is not a good person if looked at.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: taboo-bound hunters
+  assigned_to:
+  - fig:2
+  basis: The speakers have shot game and are instructed to lower their heads and avoid
+    looking at the Moon or sky.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: maternal instructors
+  assigned_to:
+  - fig:3
+  basis: The mothers are the ones who tell the speakers about the prohibition and
+    its consequences.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: wounded prey
+  assigned_to:
+  - fig:4
+  basis: The game has been shot with poison, lies dying, and may either be eaten or
+    revived.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: predatory consumers of dying game
+  assigned_to:
+  - fig:5
+  basis: The beasts of prey are said to eat the game when it lies dying if the hunters
+    look at the Moon.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: source of curing water
+  assigned_to:
+  - fig:1
+  basis: The Moon's water is said to cool the poison, cure the game, and cause it
+    to live.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: The Moon, treated as a male person whose shining is feared.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Moon's water
+  literal_form: Water of the Moon, seen on a bush, resembling liquid honey, falling
+    on wounded game.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: lowered head / averted gaze
+  literal_form: The hunters lower their heads and do not look up toward the sky.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: poison on the shot game
+  literal_form: The poison with which the game has been shot, cooled by the Moon's
+    water.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: bush bearing Moon's water
+  literal_form: A bush on which the Moon's water is seen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Avoiding the Moon after shooting game
+  summary: After shooting game, the hunters are told not to look at the Moon; they
+    lower their heads and avoid looking up toward the sky because they fear the Moon's
+    shining.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maternal explanation of the Moon's danger
+  summary: Mothers explain that the Moon is not good if looked at and that looking
+    at him after shooting game can cause predators to eat the wounded game.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Moon's water curing the shot game
+  summary: The Moon's water, described as being on a bush and like liquid honey, falls
+    on the game, cools the poison, cures it, and allows the game to rise and live.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Warning not to look at sky-things
+  summary: Mothers warn the children not to look at things in the sky, saying that
+    if they look at the Moon, the shot game will go along like the Moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Taboo against looking at the Moon after hunting
+  taxonomy_refs: []
+  basis: The passage directly states that people may not look at the Moon after game
+    has been shot and gives feared consequences for doing so.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The taxonomy list does not contain a precise hunting-taboo or lunar-taboo
+    category.
+- id: motif:2
+  label: Lunar water cures wounded game
+  taxonomy_refs:
+  - resurrection
+  basis: The Moon's water is said to fall on poisoned game, cool the poison, cure
+    the game, and make it arise and live.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes curing or revival of game that has not died; it
+    does not explicitly describe return from actual death.
+- id: motif:3
+  label: Broken hunting prohibition causes loss of prey to predators
+  taxonomy_refs: []
+  basis: If hunters look at the Moon after shooting game, beasts of prey are said
+    to eat the game while it lies dying.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as an explanation of a specific hunting rule rather
+    than a fully developed narrative episode.
+- id: motif:4
+  label: Maternal transmission of taboo instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The speakers repeatedly say their mothers told them about the prohibition
+    and warned them not to look at the Moon or sky-things.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The fit to the broad 'wisdom' taxonomy family is general; the passage
+    is more specifically about inherited practical taboo instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5643-5644 within supplied passage
+  quote_or_summary: '"We may not look at the Moon, when we have shot game"; the speakers
+    lower their heads and do not look up toward the sky because they fear the Moon''s
+    shining.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5644-5645 within supplied passage
+  quote_or_summary: The mothers said that "the Moon is not a good person, if we look
+    at him."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5645-5646 within supplied passage
+  quote_or_summary: If the hunters look at the Moon after shooting game, beasts of
+    prey will eat the game when it lies dying.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5646-5647 within supplied passage
+  quote_or_summary: The Moon's water is said to make game live; it is seen on a bush
+    and resembles liquid honey.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5647-5649 within supplied passage
+  quote_or_summary: The Moon's water falls on the game, cools the poison used to shoot
+    it, cures it, and the game arises, goes on, and lives.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5649-5650 within supplied passage
+  quote_or_summary: Mothers did not want the children to look about or look at things
+    in the sky; they said that if the hunters looked at the Moon, the shot game would
+    go along like the Moon.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the English translation in the supplied passage.
+    Motif taxonomy mapping is cautious because the available taxonomy does not include
+    exact categories for lunar hunting taboos or poisoned-game revival. No comparison
+    claims were made because the passage itself does not compare this account with
+    another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied excerpt includes Xam-language transcript lines after the English translation; this extraction relies on the English translation and does not interpret untranslated transcript material.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5210-l5269
+  passage_sha256=3ffff7d8b96836f7f585cea3883b353a40c4082dc2d5b3f852cbf289e3f38d68
+

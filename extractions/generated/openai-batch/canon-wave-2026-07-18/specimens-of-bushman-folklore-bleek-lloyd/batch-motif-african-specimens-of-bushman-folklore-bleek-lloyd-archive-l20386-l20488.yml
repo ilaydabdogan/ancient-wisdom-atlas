@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l20386-l20488
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: HOW    TTO    IS    OBTAINED. / GUIDING    SIGNS.  381 / GUIDING    SIGNS.  383
+    / SIGNALLING    WITH    DUST.  385; lines 20386-20488
+  start: '20386'
+  end: '20488'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes practical signs used in travel and distress: a person
+    reads a reversed branch as indicating where people have gone toward water, then
+    follows footprints and a footpath to a house; another account says a man faint
+    from heat on the way home throws earth into the air so that people at home, especially
+    his wife watching for him, may see the dust and come to help.'
+  language: English with interlinear or source-language transcription in part of the
+    passage
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A reversed branch is interpreted as pointing toward the place where water
+    is located.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The observer goes to the water to look for the people’s footprints.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The observer finds the people’s footpath, takes it, and follows it to the
+    house.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A man who feels he may not reach home throws earth into the air.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The thrown earth is intended to make dust visible to people at home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A person looking out at home is identified in a note as the man’s wife, concerned
+    because her husband has not returned while others have returned.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The wife stands up and looks out because of the heat of the sun and the man’s
+    delayed return.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: A note states that dying is the reason a person throws earth into the air.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: observer following the guiding signs
+  description: A person who sees a reversed branch, infers where the people have gone,
+    goes to the water, and follows their path to the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the folk or people who travelled away
+  description: People inferred to have gone toward a little pool and to have made
+    a house near the route to water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: faint returning man
+  description: A man returning home who feels he may not reach home and throws earth
+    upward to make dust.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: wife looking out
+  description: The person at home who looks out is identified as the man’s wife, watching
+    because her husband has not returned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: people at home
+  description: Those at home who may perceive the dust and come to help the returning
+    man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reader of travel signs
+  assigned_to:
+  - fig:1
+  basis: This figure interprets the reversed branch, seeks footprints at the water,
+    and follows the footpath.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: departed group whose route is traced
+  assigned_to:
+  - fig:2
+  basis: The group has travelled away and left indications such as the branch, footprints,
+    and footpath.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: distressed signaler
+  assigned_to:
+  - fig:3
+  basis: The man, faint or in danger of not reaching home, throws earth into the air
+    to raise dust.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: watching spouse
+  assigned_to:
+  - fig:4
+  basis: A note identifies the lookout as the man’s wife, watching because he has
+    not returned.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: potential helpers at home
+  assigned_to:
+  - fig:5
+  basis: The people at home are the intended viewers of the dust signal and are expected
+    to come help.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: reversed branch as direction sign
+  literal_form: branch reversed to point toward the place where water is
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water place
+  literal_form: little pool or water source
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: footprints and footpath
+  literal_form: people’s footprints at the water and footpath leading to the house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: dust signal
+  literal_form: earth thrown into the air, making dust visible from home
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sun heat
+  literal_form: heat of the sun during the man’s return
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: house or home
+  literal_form: house reached by the footpath; home from which people look out
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Following the reversed branch to water and a house
+  summary: An observer sees a reversed branch, understands it as pointing toward water,
+    goes to the water to seek footprints, finds the people’s footpath, and follows
+    it to the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Throwing earth to signal distress from heat
+  summary: A returning man who feels he may not reach home throws earth into the air
+    so that people at home may notice the dust and help him.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Wife watching for the delayed husband
+  summary: The lookout at home, identified as the man’s wife, stands and watches because
+    her husband has not returned though others have.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Guiding signs left in the landscape
+  taxonomy_refs:
+  - wisdom
+  basis: A reversed branch, footprints, and a footpath are read as practical signs
+    indicating where people have gone and how to reach their house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents practical tracking knowledge rather than an explicit
+    mythic episode; the taxonomy reference to wisdom is broad and should be reviewed.
+- id: motif:2
+  label: Dust raised as distress signal
+  taxonomy_refs: []
+  basis: A man in danger of not reaching home throws earth into the air so that those
+    at home may see the dust and come help.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this practical signalling
+    motif.
+- id: motif:3
+  label: Spouse watches for delayed return
+  taxonomy_refs: []
+  basis: The lookout is identified as the man’s wife, who watches because her husband
+    has not returned while others have.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a social-observational pattern in the passage, not necessarily
+    a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20386-20393
+  quote_or_summary: The observer sees a branch and says the people must have gone
+    to the little pool because the branch is reversed and points toward the water.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20393-20400
+  quote_or_summary: The observer goes down to the water to look for the people’s footprints
+    at the water.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20400-20403
+  quote_or_summary: At the water he sees the people’s footpath, takes it, and follows
+    it along to the house.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20404-20417
+  quote_or_summary: A man returning home, feeling that he may not reach home, throws
+    earth into the air so that people at home may perceive the dust.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20418-20431 note §
+  quote_or_summary: The person looking out is explained in a note as the man’s wife,
+    who feels her husband has not returned and sees that the other people have returned
+    home.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 20418-20422
+  quote_or_summary: The lookout stands up to look out while feeling that the sun is
+    very hot.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: line 20429 note |
+  quote_or_summary: A note says that dying is the reason for a person throwing earth
+    into the air.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the English translation and notes in the provided
+    passage. Some later source-language lines are not interpreted beyond the English
+    material supplied. No comparison claims were made because the passage itself does
+    not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is mainly ethnographic/practical instruction about guiding signs and signalling rather than a myth narrative; motif labels are therefore descriptive and cautious.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l20386-l20488
+  passage_sha256=815d46d75b98660c25e9b7a39aa1c7d2babc67c6eb28f9c01c5562c6e3e41b9f
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.arthurian-holy-graal-evans-gutenberg-l10642-l10658
+source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+passage_locator:
+  label: XXIV. / XXVI. / XXVII. / XXVIII.; lines 10642-10658
+  start: '10642'
+  end: '10658'
+  translation: The High History of the Holy Graal
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Perceval mounts a white mule marked with a red cross, takes a banner, and
+    holds a drawn sword. A white lion sees him, frees itself, runs to a lifted bridge,
+    and lowers it among the knights. The King of Castle Mortal, speaking from the
+    battlements, rebukes the bridge-warding knights as cowardly and praises the lion
+    as hardier than they are.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Perceval comes to the place where the white mule is.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The white mule is marked on the forehead with a red cross.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Perceval mounts the mule, takes the banner, and holds his sword drawn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The white lion sees Perceval approaching, unchains itself, and runs to the
+    lifted bridge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The white lion lowers the bridge among the knights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The King of Castle Mortal is on the battlements of the greater fortress of
+    the castle.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king tells the bridge-warding knights that they are chosen and hardy,
+    but that lifting bridges before one knight is cowardice rather than hardiness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The king says the lion is hardier than all the knights and would have guarded
+    the first bridge better than the slain warders.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Perceval
+  description: A figure who mounts the marked white mule, takes a banner, and holds
+    a drawn sword.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: white mule
+  description: A white mule marked on the forehead with a red cross; Perceval mounts
+    it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: white lion
+  description: A white lion that unchains itself, runs to the lifted bridge, and lowers
+    it; the king later calls it hardier than the knights.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: King of Castle Mortal
+  description: The ruler on the battlements of the greater fortress who addresses
+    and rebukes the bridge-warding knights.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: knights warding the bridge
+  description: Knights guarding the bridge, addressed by the king as chosen and hardy
+    but rebuked for lifting bridges before a single knight.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: armed mounted knight
+  assigned_to:
+  - fig:1
+  basis: Perceval mounts the mule, takes a banner, and holds his sword drawn.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: marked mount
+  assigned_to:
+  - fig:2
+  basis: The mule is white, bears a red cross on its forehead, and is mounted by Perceval.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bridge-lowering animal
+  assigned_to:
+  - fig:3
+  basis: The white lion unchains itself and lowers the lifted bridge.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: castle ruler and speaker
+  assigned_to:
+  - fig:4
+  basis: The King of Castle Mortal speaks from the battlements to the bridge-warding
+    knights.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bridge guards
+  assigned_to:
+  - fig:5
+  basis: The knights are described as warding the bridge.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: exemplar of hardiness in the king's speech
+  assigned_to:
+  - fig:3
+  basis: The king says the lion is hardier than all the knights.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: rebuked defenders
+  assigned_to:
+  - fig:5
+  basis: The king criticizes the knights for lifting the bridges rather than facing
+    one knight body to body.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: red cross mark
+  literal_form: a red cross on the forehead of the white mule
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: banner
+  literal_form: the banner taken by Perceval
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: drawn sword
+  literal_form: Perceval's sword held drawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: white lion
+  literal_form: a white lion that frees itself and lowers the bridge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: lifted and lowered bridge
+  literal_form: a bridge that had been lifted and is lowered by the lion
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Perceval mounts the marked mule
+  summary: Perceval reaches the white mule, whose forehead bears a red cross, mounts
+    it, takes a banner, and holds a drawn sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: White lion lowers the bridge
+  summary: When the white lion sees Perceval coming, it unchains itself, runs to the
+    lifted bridge among the knights, and lowers it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: King rebukes the bridge wardens
+  summary: From the battlements, the King of Castle Mortal rebukes the bridge-warding
+    knights for lifting bridges before one knight and praises the lion as hardier
+    than they are.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: marked mount and armed approach
+  taxonomy_refs: []
+  basis: Perceval mounts a white mule marked with a red cross while carrying a banner
+    and drawn sword.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives no explicit explanation of the red cross, banner, or
+    sword beyond their literal presence.
+- id: motif:2
+  label: animal opens guarded passage
+  taxonomy_refs: []
+  basis: The white lion unchains itself and lowers the lifted bridge as Perceval approaches.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly call the lion a helper or state its motive.
+- id: motif:3
+  label: guarded bridge as contested threshold
+  taxonomy_refs: []
+  basis: The bridge is warded by knights and lifted against a single approaching knight;
+    the lion lowers it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The wider trial or conflict at the castle is not included in this excerpt.
+- id: motif:4
+  label: animal valor contrasted with human cowardice
+  taxonomy_refs: []
+  basis: The king criticizes the knights as cowardly and says the lion is hardier
+    than all of them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The contrast is stated within the king's speech and should not be generalized
+    beyond the passage without further context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10642-10645
+  quote_or_summary: Perceval comes to a white mule marked on the forehead with a red
+    cross, mounts it, takes a banner, and holds a drawn sword.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 10645-10648
+  quote_or_summary: The white lion sees Perceval, unchains itself, runs to the lifted
+    bridge among the knights, and lowers it.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 10648-10654
+  quote_or_summary: The King of Castle Mortal speaks from the battlements to the knights
+    warding the bridge, calling them chosen and hardy but saying their lifting of
+    bridges before a single knight is cowardice.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 10654-10658
+  quote_or_summary: The king says the lion is hardier than all the knights and would
+    have guarded the first bridge better than those who were slain.
+  source_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are limited
+    to immediate narrative patterns; no available taxonomy reference is asserted because
+    the supplied taxonomy list does not directly match the literal bridge, lion, cross,
+    banner, or sword details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another tradition, motif family, or nearby corpus pattern.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:arthurian-holy-graal-evans-gutenberg__l10642-l10658
+  passage_sha256=db02135ed7a490f8280bdb3069fc59226c635d8a8eef54d07244970282e9594a
+

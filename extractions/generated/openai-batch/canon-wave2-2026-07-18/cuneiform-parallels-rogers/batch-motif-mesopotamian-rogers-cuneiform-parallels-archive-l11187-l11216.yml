@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l11187-l11216
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PRAYER  TO  ISHTAR  155 / PRAYER  TO  ISHTAR  157 / PRAYER  TO  ISHTAR  159
+    / PRAYER    OF    THE    RAISING    OF    THE    HAND    TO    ISHTAR; lines 11187-11216
+  start: '11187'
+  end: '11216'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a hand-raising prayer or ritual to Ishtar. The ritual
+    instructions tell the addressed practitioner to kneel, sprinkle a green bough
+    with pure water, and set up four sahbu bricks. The following transliterated prayer
+    lines include divine names or labels including Ishtar, Belti, Irnini, Sin, and
+    a formula naming Inanna.
+  language: English with Akkadian/Sumerian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as a formula or prayer of the raising of the hand to
+    Ishtar.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ritual instructions address a second-person performer and tell that performer
+    to kneel at the foot.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A green bough is to be sprinkled with pure water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Four sahbu bricks are to be set up.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The transliterated prayer section includes the written divine names or labels
+    Ishtar, Belti, Irnini, and Sin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A later formula line names Inanna with a divine marker.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ishtar / Inanna
+  description: Divine addressee named in the English heading and formula as Ishtar,
+    and in a later formula line as Inanna.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Ritual performer
+  description: The unnamed second-person addressee instructed to kneel, sprinkle the
+    bough, and set up bricks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Belti
+  description: A divine name or label appearing in the transliterated prayer section
+    as “(ilu) belti.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Irnini
+  description: A divine name appearing in the transliterated prayer section as “(ilu)
+    Ir-ni-ni.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sin
+  description: A divine name appearing in the transliterated prayer section as “(ilu)
+    Sin.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine recipient of prayer
+  assigned_to:
+  - fig:1
+  basis: The passage title and formula identify the ritual as directed to Ishtar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual practitioner
+  assigned_to:
+  - fig:2
+  basis: The ritual instructions use second-person commands for kneeling, sprinkling,
+    and setting up bricks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named divine figure in prayer section
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The transliterated lines include these names with the parenthetical divine
+    marker “(ilu).”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: raised hand gesture
+  literal_form: raising of the hand
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: green bough
+  literal_form: green bough
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pure water
+  literal_form: pure water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: four sahbu bricks
+  literal_form: four bricks sahbu
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ritual preparation for hand-raising prayer
+  summary: The performer is instructed to kneel, sprinkle a green bough with pure
+    water, and set up four sahbu bricks as part of the ritual to Ishtar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transliterated divine naming within the prayer
+  summary: The prayer section names Ishtar and other divine names or labels, including
+    Belti, Irnini, Sin, and Inanna.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hand-raising prayer to a deity
+  taxonomy_refs: []
+  basis: The heading and formula identify the passage as a raising-of-the-hand prayer
+    directed to Ishtar.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage supplies ritual labeling and instructions, but little narrative
+    context.
+- id: motif:2
+  label: Ritual purification or preparation with water and vegetation
+  taxonomy_refs: []
+  basis: The performer is instructed to sprinkle a green bough with pure water during
+    the ritual setup.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the symbolic meaning of the bough or water.
+- id: motif:3
+  label: Ritual arrangement using four bricks
+  taxonomy_refs: []
+  basis: The ritual instructions specify that four sahbu bricks are to be set up.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The function of the four bricks is not explained in the provided passage.
+- id: motif:4
+  label: Divine name-list or praise naming in prayer
+  taxonomy_refs: []
+  basis: The transliterated prayer lines include multiple divine names or labels associated
+    with the prayer section.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Most of the prayer text is transliterated rather than translated in the
+    supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11187-11190
+  quote_or_summary: "“PRAYER OF THE RAISING OF THE HAND TO ISHTAR” and “Formula of
+    the raising of the hand to Ishtar.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 11191-11194
+  quote_or_summary: "“This is the (magical) ritual: thou shalt kneel at the foot,
+    a green bough shalt thou sprinkle with pure water; four bricks sahbu shalt thou
+    set up.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 11204-11210
+  quote_or_summary: The transliterated prayer section includes the strings “(ilu)
+    Is-tar,” “(ilu) belti,” “(ilu) Ir-ni-ni,” and “(ilu) Sin.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; brief summary with short strings used.
+- id: ev:4
+  type: quote
+  locator: line 11213
+  quote_or_summary: "“INIM-INIM-MA SU-IL-LX (DINGIR) INNANNA(na)-KAM.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on explicit headings, ritual instructions, and visible
+    divine names. Motif labels remain cautious because the passage gives limited explanation
+    of the ritual objects and much of the prayer is transliterated rather than translated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are made because the passage itself does not explicitly compare this ritual to another motif family, text, or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l11187-l11216
+  passage_sha256=e1651f2498746a6f807207502ca1c091f08f06e2f6a999f59ec8cf8bf5208847
+

@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l20082-l20092
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: IIHARA    AND    TTO. / WHARA    AND    TTO. / HOW    TTO    IS    OBTAINED.
+    / HOW    TTO    IS    OBTAINED.  379; lines 20082-20092
+  start: '20082'
+  end: '20092'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: "“His head ... is surpassingly ... beautiful; for, his head is like the \\khi
+    tree.”"
+  summary: Unnamed speakers praise a handsome young man, saying that his head is surpassingly
+    beautiful and comparing it to the \khi tree. The passage then describes this tree
+    as a large, great tree found abundantly in the speakers’ country, along with the
+    Wtherri tree and the \Mi.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Unnamed speakers address a male figure as a handsome young man.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers describe the young man’s head as surpassingly beautiful and associated
+    with blackness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young man’s head is compared to the \khi tree.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tree is said to be in the speakers’ country.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tree is described as large and great.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the trees are abundant in the speakers’ country and names
+    the Wtherri tree and the \Mi.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: handsome young man
+  description: A male figure addressed as handsome; his head is praised as surpassingly
+    beautiful and likened to the \khi tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed speakers
+  description: A group referred to as “They” who speak to or about the young man and
+    describe the tree as being in their country.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: praised young man
+  assigned_to:
+  - fig:1
+  basis: The figure is addressed as a handsome young man, and his head is described
+    as surpassingly beautiful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: praising speakers
+  assigned_to:
+  - fig:2
+  basis: The group speaks praise to the young man and supplies descriptive information
+    about the tree and their country.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree used as beauty comparison
+  literal_form: "\\khi tree / \\Jchl tree"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: young man’s head
+  literal_form: head described as surpassingly beautiful and black
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: abundant country trees
+  literal_form: Wtherri tree and \Mi
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Praise and tree comparison
+  summary: Unnamed speakers praise a handsome young man and compare the beauty of
+    his head to the \khi tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of country trees
+  summary: The passage explains that the tree named in the comparison is a large tree
+    in the speakers’ country and that related named trees are abundant there.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: human beauty compared to a tree
+  taxonomy_refs: []
+  basis: The passage explicitly compares the young man’s beautiful head to a named
+    tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a local simile or descriptive pattern, but it does not
+    identify the tree as sacred or connect it to a broader mythic motif family.
+- id: motif:2
+  label: local landscape marker in praise speech
+  taxonomy_refs: []
+  basis: The praised feature is interpreted through a tree said to belong to the speakers’
+    own country and described as large and abundant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The excerpt is brief and does not provide a full narrative context for
+    the praise or for how Tto is obtained.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20082-20086
+  quote_or_summary: Speakers say “Handsome young man” and describe his head as surpassingly
+    beautiful with blackness.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 20085-20087
+  quote_or_summary: "“His head ... is surpassingly ... beautiful; for, his head is
+    like the \\khi tree.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 20088-20090
+  quote_or_summary: "“It is a tree which is in our country; it is the \\Jchl tree;
+    it is large; (it) is a great tree.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 20090-20092
+  quote_or_summary: The passage says the trees are abundant in the speakers’ country
+    and names the Wtherri tree and the \Mi.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal extraction is limited by the short excerpt and possible transcription
+    or OCR uncertainty in the tree names. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy symbol ref “tree” is applied where directly supported; no motif-family taxonomy ref is assigned.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l20082-l20092
+  passage_sha256=4fddb69da813899d3732f01618f10c07c419afab263958614c05cb33cc4e8541
+

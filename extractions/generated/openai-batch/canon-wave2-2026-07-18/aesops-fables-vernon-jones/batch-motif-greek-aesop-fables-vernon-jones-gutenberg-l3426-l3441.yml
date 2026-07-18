@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3426-l3441
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS, THE COCK, AND THE LION / THE BELLY AND THE MEMBERS / THE BALD MAN
+    AND THE FLY / THE ASS AND THE WOLF; lines 3426-3441
+  start: '3426'
+  end: '3441'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An Ass sees a Wolf approaching, pretends to be lame, and asks the Wolf
+    to remove a supposed thorn before eating him. When the Wolf bends to do so, the
+    Ass kicks him in the mouth, breaks his teeth, and escapes. The Wolf concludes
+    that he should have kept to the trade of killing rather than trying to cure.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Ass is feeding in a meadow when he sees the Wolf, described as his enemy,
+    at a distance.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ass pretends to be lame and hobbles painfully.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ass tells the Wolf that he stepped on a thorn while going through a hedge
+    and asks the Wolf to pull it out with his teeth before eating him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Wolf agrees, tells the Ass to lift his foot, and focuses on removing the
+    thorn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Ass kicks the Wolf in the mouth with his heels, breaks the Wolf's teeth,
+    and gallops away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Wolf says that his father taught him to kill and that he should not have
+    attempted to cure.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An ass feeding in a meadow who deceives and injures the Wolf, then
+    escapes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Wolf
+  description: The Ass's enemy, who intends to eat the Ass, attempts to remove the
+    supposed thorn, is kicked, and reflects on his mistake.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive threatened animal
+  assigned_to:
+  - fig:1
+  basis: The Ass pretends to be lame and invents a thorn injury when the Wolf approaches.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: escapee
+  assigned_to:
+  - fig:1
+  basis: The Ass kicks the Wolf and gallops away at full speed.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: predatory enemy
+  assigned_to:
+  - fig:2
+  basis: The Wolf is called the Ass's enemy and is expected by the Ass to eat him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: deceived would-be helper
+  assigned_to:
+  - fig:2
+  basis: The Wolf accepts the Ass's request and gives his attention to removing the
+    supposed thorn.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: supposed thorn
+  literal_form: thorn in the Ass's foot, claimed by the Ass as the cause of lameness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: broken teeth
+  literal_form: the Wolf's teeth broken by the Ass's kick
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ass notices the Wolf and feigns injury
+  summary: In a meadow, the Ass sees the Wolf approaching and pretends to be lame.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Request to remove the thorn
+  summary: The Ass explains his lameness as a thorn injury and persuades the Wolf
+    to try to remove it before eating him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Kick and escape
+  summary: While the Wolf is occupied with the Ass's foot, the Ass kicks him in the
+    mouth, breaks his teeth, and runs away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Wolf's reflection
+  summary: The injured Wolf concludes that he should have remained within the trade
+    of killing rather than attempting to cure.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prey escapes predator through deceptive feigned injury
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The threatened Ass uses a false display of lameness and a fabricated thorn
+    to draw the Wolf into a vulnerable position, then escapes by kicking him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an animal fable rather than an explicit mythic trickster
+    narrative; the taxonomy link is based on deception and reversal, not a named trickster
+    figure.
+- id: motif:2
+  label: predator punished for abandoning its proper role
+  taxonomy_refs:
+  - wisdom
+  basis: The Wolf's final speech frames his injury as the result of attempting to
+    cure instead of following the killing trade taught by his father.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The moral is stated within the fable, but the broader wisdom taxonomy
+    reference is general.
+- id: motif:3
+  label: false healing request as trap
+  taxonomy_refs: []
+  basis: The Ass asks the Wolf to remove a supposed thorn with his teeth; this creates
+    the opening for the Ass's kick and escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level narrative pattern with no supplied specific taxonomy
+    reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3426-3441
+  quote_or_summary: The Ass feeds in a meadow and sees the Wolf, called his enemy,
+    in the distance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3426-3441
+  quote_or_summary: The Ass pretends to be lame, says he stepped on a thorn while
+    going through a hedge, and asks the Wolf to pull it out before eating him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3426-3441
+  quote_or_summary: The Wolf agrees, tells the Ass to lift his foot, and concentrates
+    on removing the thorn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3426-3441
+  quote_or_summary: The Ass kicks the Wolf in the mouth, breaks his teeth, and gallops
+    away at full speed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 3426-3441
+  quote_or_summary: The Wolf says that his father taught him to kill and that he should
+    have kept to that trade instead of trying to cure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied fable. Motif labels
+    are passage-level candidates; taxonomy references are broad and require review.
+    No comparison claims were added because the passage itself does not make an explicit
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; despite the locator label naming multiple fables, the extraction covers only "THE ASS AND THE WOLF."
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3426-l3441
+  passage_sha256=bd3704af50558216c0be3d541a50652075ad28b48d9d536498662b38e0bd6ca6
+

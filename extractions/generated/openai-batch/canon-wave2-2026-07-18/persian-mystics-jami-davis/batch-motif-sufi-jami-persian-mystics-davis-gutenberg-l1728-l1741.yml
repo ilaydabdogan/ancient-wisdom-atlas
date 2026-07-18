@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1728-l1741
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: ZULAIKHA'S YOUTH RETURNS / ZULAIKHA'S WISH / UNITED / SONG IN PRAISE OF THE
+    BELOVED; lines 1728-1741
+  start: '1728'
+  end: '1741'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn addresses the Maker and describes the sphere as a small part of
+    His creation. It asks that singers of His praise have jeweled oblations, that
+    His glory shine, and that His perfection be exalted. It then sends many salutations
+    from philomels associated with Union, benevolence, witness, song, and Ecstasy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a song in praise of the Beloved.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses the Maker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sphere is described as a rose-grove that is only one leaf of the flower-garden
+    of His creation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who sing His praises are associated with a plate of pearls and jewels
+    full of oblations.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker wishes for His glory to shine and for the world of His perfection
+    to be exalted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A thousand chants of salutation and greeting are said to come from philomels
+    of the garden-mansion of Union and benevolence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The philomels are described as musicians of an assembly of witnesses and as
+    songsters in a delightful house of Ecstasy and benevolence.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maker / Beloved
+  description: The addressed divine figure, called the Maker in the hymn and associated
+    with creation, glory, and perfection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Those who sing His praises
+  description: A collective group who sing praises to the Maker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Philomels of Union and benevolence
+  description: Bird-like singers described as sending chants of salutation and greeting
+    and as musicians and songsters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Assembly of witnesses
+  description: A collective assembly associated with the musicians in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: praised divine maker
+  assigned_to:
+  - fig:1
+  basis: The hymn is in praise of the Beloved, addresses the Maker, and refers to
+    His creation, glory, and perfection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: praise singers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: One group sings His praises, and the philomels produce chants and song.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: musicians and songsters
+  assigned_to:
+  - fig:3
+  basis: The philomels are explicitly called musicians and songsters.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: witnesses
+  assigned_to:
+  - fig:4
+  basis: The passage names an assembly of witnesses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rose-grove of the sphere
+  literal_form: rose-grove of the sphere
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: leaf of the flower-garden of creation
+  literal_form: one leaf of the flower-garden of His creation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plate of pearls and jewels
+  literal_form: a plate of pearls and jewels full of oblations
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: garden-mansion of Union
+  literal_form: garden-mansion of Union and benevolence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: house of Ecstasy
+  literal_form: delightful house of Ecstasy and benevolence
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hymnic address to the Maker
+  summary: The hymn addresses the Maker, frames the sphere as part of His creation,
+    and asks that His glory and perfection be exalted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Salutations from Union and Ecstasy
+  summary: The passage describes a thousand chants of salutation and greeting from
+    philomels connected with Union, benevolence, witness, song, and Ecstasy.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: praise of the divine Beloved as Maker
+  taxonomy_refs:
+  - divine_beloved
+  basis: The heading names the Beloved, and the hymn addresses the Maker while praising
+    His creation, glory, and perfection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is hymnic rather than narrative; the identification rests
+    on the heading and devotional address.
+- id: motif:2
+  label: mystical union and ecstasy as devotional setting
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage names a garden-mansion of Union and a house of Ecstasy as the
+    setting from which praise and salutation arise.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage explicitly names Union and Ecstasy, but it does not describe
+    annihilation or a process of union.
+- id: motif:3
+  label: cosmic creation imaged as garden and flower
+  taxonomy_refs: []
+  basis: The sphere is compared to a rose-grove and to a leaf in the flower-garden
+    of the Maker's creation.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a symbolic image in a hymn, not a developed cosmological narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious motif-family comparison to the divine beloved
+    pattern because the hymn is explicitly framed as praise of the Beloved and addresses
+    the Maker in devotional language.
+  claim_level: same_motif
+  target: 'available taxonomy motif family: divine_beloved'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not compare itself to another named text or tradition;
+    the comparison is limited to the supplied taxonomy family.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1728-1729
+  quote_or_summary: '"SONG IN PRAISE OF THE BELOVED"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1730-1732
+  quote_or_summary: '"To the Maker!--the rose-grove of the sphere / Is but one leaf
+    of the flower-garden of. His creation"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1733-1736
+  quote_or_summary: The hymn refers to those who sing His praises, a plate of pearls
+    and jewels full of oblations, and the wish that His glory shine and His perfection
+    be exalted.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1738-1741
+  quote_or_summary: The hymn sends a thousand chants of salutation and greeting from
+    philomels of the garden-mansion of Union and benevolence, who are musicians of
+    an assembly of witnesses and songsters in the house of Ecstasy and benevolence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and clear, but much of its symbolic content is hymnic
+    and metaphorical rather than narrative. The union/ecstasy motif is present lexically
+    but not elaborated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied comparisons were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1728-l1741
+  passage_sha256=4782f4af40915c07c9e681fd260c8b619534f96863032f9ca0a4df975b457f6d
+

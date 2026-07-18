@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l17118-l17197
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: KILLED. / THE    THUNDEESTOKM. / THE    THUNDERSTORM.  321 / THE    THUNDERSTORM.;
+    lines 17118-17197
+  start: '17118'
+  end: '17197'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is headed as a thunderstorm account. Its translated opening
+    says that rain fell on the group at night and that the first-person speaker lay
+    playing the goura while the rain fell. A note identifies the goura as a musical
+    instrument. Another translated note reports a mother saying not to play with meat,
+    because meat is laid to roast, and says a leveret is killed and roasted rather
+    than played with. Most of the remaining passage is Xam transcription without supplied
+    translation in this excerpt; near the end, an exclamation is glossed as one of
+    suffering or pain.
+  language: English with Xam transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “THE THUNDERSTORM.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says rain fell on the group at night.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: While the rain fell, the speaker lay down and played the “goura.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A footnote identifies the goura as a musical instrument and points to an external
+    description and image of it.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A mother tells the addressed person not to play with meat and says meat is
+    laid to roast.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The leveret is described as killed and laid to roast rather than played with.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Near the end, a line attributes an exclamation to “mama”; the supplied note
+    glosses the exclamation as one of suffering or pain.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: A speaker included in “us” says rain fell at night and describes lying
+    down while playing the goura.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: mother
+  description: The mother is reported as saying that the addressed person should not
+    play with meat and that meat is laid to roast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: leveret
+  description: An animal mentioned as killed and laid to roast rather than played
+    with.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: mama in untranslated line
+  description: The line “He mama kkdii” precedes an exclamation glossed as suffering
+    or pain; the excerpt does not provide a full translation of the line.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: goura-player in rain
+  assigned_to:
+  - fig:1
+  basis: The speaker says that while rain fell at night, they lay playing the goura.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maternal instructor about meat
+  assigned_to:
+  - fig:2
+  basis: The mother is reported as instructing that meat should not be played with
+    but laid to roast.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: animal killed for roasting
+  assigned_to:
+  - fig:3
+  basis: The leveret is said to be killed and laid to roast.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: utterer of pain/suffering exclamation
+  assigned_to:
+  - fig:4
+  basis: The passage attributes an exclamation to “mama,” and the note glosses the
+    exclamation as suffering or pain.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: rain falling at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: goura
+  literal_form: named musical instrument, “goura”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: meat for roasting
+  literal_form: meat that should be laid to roast rather than played with
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: leveret as meat animal
+  literal_form: leveret killed and laid to roast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rain at night with goura-playing
+  summary: In the thunderstorm passage, rain falls on the group at night while the
+    speaker lies down and plays the goura.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Instruction not to play with meat
+  summary: The mother says not to play with meat; meat, including a leveret, is killed
+    and laid to roast.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Glossed exclamation of pain
+  summary: Near the end of the excerpt, an exclamation attributed to “mama” is glossed
+    as an expression of suffering or pain.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: storm-rain setting with musical performance
+  taxonomy_refs: []
+  basis: The heading identifies a thunderstorm, and the opening says that while rain
+    fell at night, the speaker lay playing the goura.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The excerpt does not explicitly state a ritual, causal, or mythic function
+    for playing the goura during the rain; much of the passage remains untranslated
+    in the supplied text.
+- id: motif:2
+  label: prohibition against playing with meat
+  taxonomy_refs: []
+  basis: The mother says the addressed person should not play with meat, because meat
+    is laid to roast; the leveret is killed and roasted rather than played with.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This appears in a translated note or fragment within the supplied passage,
+    and its connection to the thunderstorm material is unclear. No supplied taxonomy
+    motif directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17118-17120
+  quote_or_summary: "“THE    THUNDERSTORM.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 17120-17122; internal no. (5623)
+  quote_or_summary: The translated opening says rain fell on “us” at night and that,
+    while the rain fell, the speaker lay playing the “goura.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 17129-17133; footnote to “goura”
+  quote_or_summary: A footnote says a description of the goura musical instrument
+    appears in G. W. Stow’s The Native Races of South Africa and that a picture appears
+    in the preceding plate.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 17122-17127; internal no. (7214)
+  quote_or_summary: A translated note reports the mother saying not to play with meat;
+    meat is laid to roast, and the leveret is killed and laid to roast rather than
+    played with.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 17194-17197; internal no. (5724)-(5724')
+  quote_or_summary: The line attributes the exclamation “N n ii ii h!” to “mama”;
+    the note glosses it as an exclamation of suffering or pain.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summary with short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Only the translated English portions and explicit notes were used. The large
+    block of Xam transcription in the middle is not translated in the supplied excerpt,
+    so figure, role, scene, and motif extraction is necessarily limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support a cautious comparison to another corpus, historical contact claim, or named motif family.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l17118-l17197
+  passage_sha256=5cdb82987f1dced0e3dba7df0916d1080a5647ea3cff6e9994718d92fa83ccf6
+

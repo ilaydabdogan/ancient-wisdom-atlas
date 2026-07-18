@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1392-l1424
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE BANYAN DEER / THE PRINCES AND THE WATER-SPRITE / THE KING'S WHITE ELEPHANT
+    / THE OX WHO ENVIED THE PIG; lines 1392-1424
+  start: '1392'
+  end: '1424'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: That little Pig is eating the food of death!
+  summary: Two ox brothers work on a farm while a pig receives choice food because
+    it is being fattened for a wedding feast. Little Red questions the unequal feeding;
+    Big Red warns that the pig’s fine food leads to death. After the pig is killed
+    and cooked, Little Red recognizes that plain food with long life is better than
+    brief luxury ending in death.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An ox named Big Red has a younger brother named Little Red.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two ox brothers do all the carting on a large farm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer has an only daughter who is soon to be married.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The daughter’s mother orders that the Pig be fattened for the wedding feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Little Red notices that the Pig receives choice food while the oxen receive
+    only straw and grass.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Little Red says the oxen do hard farm work while the Pig does nothing but
+    eat choice food.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Big Red tells Little Red not to envy the Pig and says the Pig is eating “the
+    food of death.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Big Red explains that the Pig is being fattened for the wedding feast and
+    advises Little Red to eat straw and grass, be content, and live long.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fattened Pig is killed and cooked for the wedding feast.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Little Red later says the oxen can eat plain food for years, while the Pig’s
+    good feed lasted only a short time and ended in death.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Big Red
+  description: An ox and the elder brother of Little Red; he works at carting on the
+    farm and explains the danger of the Pig’s fattening.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Little Red
+  description: A younger ox brother of Big Red; he works at carting, notices the Pig’s
+    better food, and later acknowledges Big Red’s explanation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: the Pig
+  description: A pig on the farm who is fed choice food, fattened for the wedding
+    feast, and later killed and cooked.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the farmer
+  description: Owner or head of the large farm; Little Red says the farmer gives choice
+    food to the Pig.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: the farmer’s daughter
+  description: The farmer’s only daughter, soon to be married.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: the daughter’s mother
+  description: The mother who orders that the Pig be fattened for the wedding feast.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: working ox
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two brothers do all the carting on the farm.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: elder counsel-giver
+  assigned_to:
+  - fig:1
+  basis: Big Red, the elder brother, explains why Little Red should not envy the Pig.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: questioning younger brother
+  assigned_to:
+  - fig:2
+  basis: Little Red asks why the Pig receives choice food while the working oxen receive
+    straw and grass.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: fattened feast animal
+  assigned_to:
+  - fig:3
+  basis: The Pig is fattened for the wedding feast and then killed and cooked.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: farm owner or household head
+  assigned_to:
+  - fig:4
+  basis: The passage locates the story on the farmer’s large farm and refers to food
+    the farmer gives the Pig.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: bride-to-be
+  assigned_to:
+  - fig:5
+  basis: The farmer’s only daughter is soon to be married.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: order-giver for feast preparation
+  assigned_to:
+  - fig:6
+  basis: The mother gives orders that the Pig be fattened for the wedding feast.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: food of death
+  literal_form: choice food given to the Pig while it is being fattened
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: plain food and long life
+  literal_form: straw and grass eaten by the oxen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Farm work and wedding preparation
+  summary: Big Red and Little Red work at carting on a large farm, while the household
+    prepares for the farmer’s daughter’s wedding and orders the Pig to be fattened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Little Red questions the Pig’s choice food
+  summary: Little Red observes that the Pig is given choice food while the working
+    oxen eat only straw and grass, and he asks Big Red about the unequal treatment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Big Red warns against envy
+  summary: Big Red tells Little Red not to envy the Pig, because the Pig’s rich food
+    is connected to its coming death at the wedding feast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The Pig’s fate confirms the warning
+  summary: The Pig is killed and cooked for the wedding feast; afterward the oxen
+    contrast their plain food and long life with the Pig’s brief fine feeding and
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: apparent luxury conceals fatal danger
+  taxonomy_refs: []
+  basis: The Pig receives choice food, but Big Red explains that this food is preparing
+    the Pig for death at the wedding feast.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames this through animal dialogue rather than an explicit
+    abstract moral statement.
+- id: motif:2
+  label: wise counsel against envy
+  taxonomy_refs:
+  - wisdom
+  basis: Big Red advises Little Red not to envy the Pig and explains the hidden cost
+    of the Pig’s fine feeding.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supplies a practical warning
+    rather than a formal wisdom teaching.
+- id: motif:3
+  label: plain sustenance preferred to dangerous abundance
+  taxonomy_refs:
+  - wisdom
+  basis: Little Red concludes that plain food can sustain the oxen for years, while
+    the Pig’s good food lasted briefly and ended in death.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motif is inferred from the contrast made in the characters’ speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1392-1397
+  quote_or_summary: The tale introduces Big Red and Little Red as ox brothers who
+    do all the carting on a large farm.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1398-1401
+  quote_or_summary: The farmer’s only daughter is soon to be married, and her mother
+    orders that the Pig be fattened for the wedding feast.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1402-1408
+  quote_or_summary: Little Red notices the Pig being fed choice food and asks why
+    the working oxen receive only straw and grass while the Pig does no work.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1409-1413
+  quote_or_summary: Big Red says, “envy him not,” calls the Pig’s food “the food of
+    death,” and explains that the Pig is being fattened for the wedding feast.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 1414-1416
+  quote_or_summary: The fattened Pig is killed and cooked for the wedding feast.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1417-1423
+  quote_or_summary: Afterward, Big Red asks Little Red what became of the Pig, and
+    Little Red says the oxen can go on eating plain food for years while the Pig’s
+    good feed ended quickly in death.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit about figures, actions, and the food/death
+    contrast. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1392-l1424
+  passage_sha256=5f3f19804c228cc63c0f4f02ffb97d05b7252b98a0c2464b56363981dac6e6e1
+

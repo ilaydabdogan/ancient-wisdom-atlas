@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l3533-l3600
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  35 / THE    SIXTH    TABLET / THE    SIXTH    TABLET
+    / THE  STORY  OF  CREATION  37; lines 3533-3600
+  start: '3533'
+  end: '3600'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary portion of the Sixth Tablet reports Ea answering and speaking
+    about transformation, destruction of one, and men. After a lost section, the gods
+    rejoice, set their dwelling in Upshukkinaku, identify a heroic son as their avenger
+    and succorer, sit in assembly, name him, and exalt him.
+  language: English translation with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ea answers and speaks a word.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fragment mentions something of the gods being transformed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fragment says that one shall be destroyed and mentions men in connection
+    with Ea's speech.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Anunaki are named in a fragmentary line.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After a lost intermediate portion, a group rejoices and sets its dwelling
+    in Upshukkinaku.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A heroic son is called the group's avenger, and the group refers to itself
+    as having been succored by him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The group sits in assembly, names the heroic son, cries aloud, and exalts
+    him.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ea
+  description: Divine figure who answers and speaks in the preserved opening lines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the gods
+  description: Divine collective mentioned in the fragmentary opening and in the later
+    assembly scene.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Anunaki
+  description: Divine group named in a fragmentary line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: heroic son / their avenger
+  description: Figure described as a heroic son, the group's avenger, and the one
+    who succored them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: men
+  description: Humans or men mentioned in a fragmentary clause within Ea's speech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: Ea answers and speaks the word.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine assembly or rejoicing collective
+  assigned_to:
+  - fig:2
+  basis: The gods are mentioned in fragments and the later group rejoices, dwells
+    in Upshukkinaku, sits in assembly, names, and exalts the heroic son.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: named divine group
+  assigned_to:
+  - fig:3
+  basis: The Anunaki are explicitly named in a fragmentary line.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: avenger and succorer
+  assigned_to:
+  - fig:4
+  basis: The figure is called a heroic son and avenger, and the group says he succored
+    them.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: humans mentioned in divine speech
+  assigned_to:
+  - fig:5
+  basis: Men are mentioned in a fragmentary clause following a statement that one
+    shall be destroyed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Upshukkinaku
+  literal_form: Named place where the group sets its dwelling
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: assembly
+  literal_form: Gathering in which the group sits and names the heroic son
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ea's fragmentary speech
+  summary: Ea answers and speaks; the fragment mentions transformation, the destruction
+    of one, men, gods, and the Anunaki, though much is broken or lost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rejoicing and assembly in Upshukkinaku
+  summary: After a lost intermediate section, the divine group rejoices, establishes
+    a dwelling in Upshukkinaku, identifies the heroic son as avenger and succorer,
+    sits in assembly, names him, and exalts him.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine assembly names and exalts a heroic avenger
+  taxonomy_refs: []
+  basis: The group sits in assembly, names the heroic son, cries aloud, and exalts
+    him after identifying him as their avenger and succorer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The figure's personal name is not preserved in this passage excerpt.
+- id: motif:2
+  label: Destruction of one being associated with the making or fate of men
+  taxonomy_refs: []
+  basis: Ea's broken speech states that one shall be destroyed and immediately mentions
+    men, but the verbs and context are fragmentary.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is heavily damaged; it does not preserve the full action involving
+    men or the identity of the one destroyed.
+- id: motif:3
+  label: Divine dwelling established at a named sacred place
+  taxonomy_refs: []
+  basis: The rejoicing group sets its dwelling in Upshukkinaku before the assembly
+    and exaltation scene.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact nature of Upshukkinaku is not explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3533-3536
+  quote_or_summary: "“And Ea answered him and spoke the word”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:2
+  type: summary
+  locator: lines 3537-3547
+  quote_or_summary: Ea's damaged speech mentions something of the gods being transformed,
+    says that one shall be destroyed, and mentions men; surrounding words are fragmentary.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized fragment.
+- id: ev:3
+  type: quote
+  locator: line 3556
+  quote_or_summary: "“the Anunaki . . .”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3558-3564
+  quote_or_summary: The text notes that the intermediate portion is lost; in the final
+    preserved lines the group rejoices and sets its dwelling in Upshukkinaku.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized fragment.
+- id: ev:5
+  type: quote
+  locator: lines 3565-3566
+  quote_or_summary: "“Of the heroic son, their avenger” and “We, whom he succored”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 3567-3569
+  quote_or_summary: They sit in assembly, name him, cry aloud, and exalt him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized fragment.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes a note that the intermediate portion
+    is lost; motifs based on the damaged opening are low confidence, while the assembly
+    naming and exaltation scene is clearer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No external identification of unnamed figures was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l3533-l3600
+  passage_sha256=89dcd987cf314b61cd9e4aebc3cc94116c6f662178dc94f0e6f6de821ecb2724
+

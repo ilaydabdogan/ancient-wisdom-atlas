@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l225-l241
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER / THE GULISTAN / SA'DI / INTRODUCTION; lines 225-241
+  start: '225'
+  end: '241'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Above all, we find in Sa'di the science of life, as comprising morality and
+    religion...
+  summary: The passage praises Sa'di's Gulistan as a spiritually rich work of moral
+    and religious wisdom, compares it with Bacon's Essays, contrasts the temperaments
+    attributed to the two writers, and notes Sa'di's death at Shiraz around 1292 at
+    a reputed age of 110.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says Sa'di presents a “science of life” comprising morality and
+    religion in a suggestive and attractive form.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Rose Garden may remind readers of Bacon's Essays.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says both the Rose Garden and Bacon's Essays cover a large area
+    of thought and experience.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage contrasts Bacon as clear, cold, and sometimes cynical with Sa'di
+    as more spiritual, acute, poetic, and religiously devoted.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the Rose Garden contains maxims and that Sa'di's writings
+    can serve as a guide and inspirer of inward life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that Sa'di died at Shiraz around 1292 at the reputed age
+    of 110.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sa'di
+  description: Persian writer praised for morality, religion, poetic fervor, religious
+    devotion, serenity of mind, poetic fire, and transparent sincerity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Bacon
+  description: English philosopher associated with the Essays and characterized in
+    contrast to Sa'di as clear, cold, and sometimes cynical.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: moral and religious wisdom writer
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Sa'di a science of life comprising morality and
+    religion and describes his writings as a guide and inspirer of inward life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: contrasted philosophical essayist
+  assigned_to:
+  - fig:2
+  basis: The passage compares Bacon's Essays with the Rose Garden and contrasts Bacon's
+    tone with Sa'di's.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: poetic fire
+  literal_form: poetic fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introductory praise and comparison
+  summary: The passage presents Sa'di's Gulistan as a moral and religious work, compares
+    it with Bacon's Essays, contrasts the two authors, and concludes with biographical
+    notice of Sa'di's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom text as guide for life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames Sa'di's work as a science of life involving morality and
+    religion, containing maxims, and serving as a guide and inspirer of inward life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an introductory literary assessment rather than a narrative mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly says the Rose Garden may remind readers of Bacon's
+    Essays and notes that both works cover a broad range of thought and experience.
+  claim_level: same_function
+  target: Bacon's Essays
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The comparison is literary and functional, not evidence of historical
+    contact, shared origin, or a mythic motif family.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 225-227
+  quote_or_summary: "“we find in Sa'di the science of life, as comprising morality
+    and religion” presented in a suggestive and attractive form."
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 227-231
+  quote_or_summary: The Rose Garden is said to remind the reader of Bacon's Essays;
+    both works are described as covering a large area of thought and experience.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 231-235
+  quote_or_summary: The passage contrasts the Englishman as clear, cold, and sometimes
+    cynical with the Persian as more spiritual, acute, poetic, and religiously devoted.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 235-239
+  quote_or_summary: The Rose Garden is described as containing maxims; Sa'di's serenity,
+    poetic fire, and sincerity are said to make his writings a safe guide and inspirer
+    of inward life.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 239-241
+  quote_or_summary: Sa'di is said to have died at Shiraz around 1292 at the reputed
+    age of 110.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is prose introduction and literary evaluation, so motif extraction
+    is limited; the wisdom motif and Bacon comparison are directly supported by the
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative mythic episode is present in this passage; extraction focuses on explicit wisdom, symbolic language, and literary comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l225-l241
+  passage_sha256=4607383932d39f6e3850fd5a7b22808039544e06a2d909e04bf6416d360093ef
+

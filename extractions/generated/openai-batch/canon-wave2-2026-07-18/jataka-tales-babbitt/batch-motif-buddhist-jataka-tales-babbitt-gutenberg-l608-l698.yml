@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l608-l698
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE MERCHANT OF SERI / THE TURTLE WHO COULDN'T STOP TALKING / THE OX WHO
+    WON THE FORFEIT / THE SANDY ROAD; lines 608-698
+  start: '608'
+  end: '698'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A merchant caravan crosses a hot desert by night. After the pilot falls
+    asleep, the caravan returns to the same place after discarding most of its water
+    and firewood. The merchant refuses to give up, finds a tuft of grass, hears water
+    under a rock, and urges a serving-lad to strike the rock. The rock breaks, water
+    fills the well, the caravan recovers, marks the well with a flag, reaches the
+    city, sells its goods, and returns home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A merchant with goods packed in many carts enters a desert on the way to a
+    country on the other side.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sand is too hot for daytime walking, so the caravan travels after dark
+    and rests under an awning during the day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A pilot rides first because he knows the stars and guides the drivers by them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Near the expected end of the desert, the merchant tells the men to throw away
+    nearly all the remaining water and firewood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The pilot falls asleep, the oxen turn around, and the caravan is found at
+    daybreak to be in the same place as the day before.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The remaining water is gone, the oxen are tired and thirsty, and the men say
+    that they are lost.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The merchant decides not to sleep, searches the ground for water, and finds
+    a tuft of grass.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The men dig where the grass grows, strike a rock, and the merchant says he
+    hears water running under the rock.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A serving-lad strikes the rock with a hammer; the rock breaks and the well
+    fills with cool water.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The men drink, water the oxen, bathe, cook rice with a fire made from extra
+    yokes and axles, and rest through the day.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: The caravan sets up a flag on the well for other travelers, starts again at
+    sundown, reaches the city, sells the goods, and returns home.
+  category: sequence
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: merchant
+  description: Merchant leading carts of goods across the desert and later directing
+    the search for water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: pilot
+  description: The man who rides first, knows the stars, guides the drivers, falls
+    asleep, and realizes the caravan has returned to the same place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: men and drivers
+  description: The caravan men who drive, camp, dig, drink, cook, rest, and continue
+    to the city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: oxen
+  description: Draft animals yoked to the carts; they travel through the night, lie
+    down tired and thirsty, and later are watered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: serving-lad
+  description: A boy asked by the merchant to go down into the hole and try; he strikes
+    the rock with a hammer until it breaks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: caravan leader and merchant
+  assigned_to:
+  - fig:1
+  basis: He owns or leads the goods-carrying caravan, gives instructions about supplies,
+    and directs the water search.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:2
+  label: star-guided pilot
+  assigned_to:
+  - fig:2
+  basis: He knows the stars and uses them to guide the drivers at the head of the
+    line.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: caravan workers and drivers
+  assigned_to:
+  - fig:3
+  basis: They drive the carts, handle the oxen and camp, dig for water, cook rice,
+    and continue the journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:4
+  label: draft animals
+  assigned_to:
+  - fig:4
+  basis: The oxen are yoked to the carts, travel through the desert, become thirsty,
+    and are later watered.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: serving-lad who breaks the rock
+  assigned_to:
+  - fig:5
+  basis: The merchant calls on him to try, and he strikes the rock with the hammer
+    until it breaks.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: hot sandy desert
+  literal_form: desert and fine sand heated by the sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stars for navigation
+  literal_form: stars used by the pilot to guide the drivers
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: water jars, missing water, hidden running water under rock, and well
+    filled with cool water
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: tuft of grass
+  literal_form: a tuft of grass growing in the desert ground
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: rock above water
+  literal_form: rock struck during digging, with water heard underneath
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: hammer and spade
+  literal_form: tools brought to dig and strike the rock
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: fire and firewood
+  literal_form: firewood carried or discarded, and fire made from extra yokes and
+    axles for cooking rice
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: sym:8
+  label: flag on the well
+  literal_form: a flag set up on the well for travelers to see
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Night travel across the desert
+  summary: The caravan enters the desert, travels at night because the sand is too
+    hot by day, and follows a pilot who guides by the stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The caravan returns to the same place
+  summary: After the merchant orders most water and firewood discarded, the pilot
+    sleeps, the oxen turn around, and the caravan discovers it has returned to the
+    previous place without water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Merchant searches for water
+  summary: The merchant refuses to sleep or give up, searches the ground, sees a tuft
+    of grass, and calls for digging tools.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Rock broken and well filled
+  summary: The men dig until they reach rock; the merchant hears water below it; the
+    serving-lad strikes the rock with a hammer and the well fills with cool water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Recovery and completion of journey
+  summary: The men and oxen drink, the caravan cooks and rests, marks the well with
+    a flag, reaches the city, sells the goods, and returns home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Star-guided night journey through a dangerous desert
+  taxonomy_refs: []
+  basis: The caravan crosses the desert at night because the sand is too hot by day,
+    and the pilot guides by the stars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a practical travel pattern in the passage; no broader cosmological
+    or ritual meaning is stated.
+- id: motif:2
+  label: Lost travelers after failed guidance and discarded provisions
+  taxonomy_refs: []
+  basis: The merchant orders most water and firewood thrown away; the pilot sleeps;
+    the caravan returns to its earlier place and lacks water.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a narrative crisis, not as a named traditional
+    motif.
+- id: motif:3
+  label: Wise search for hidden water in a barren place
+  taxonomy_refs:
+  - wisdom
+  basis: The merchant infers from a tuft of grass that water must be below and persists
+    after rock blocks the digging.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is limited to the explicit practical discernment
+    and refusal to give up in the tale.
+- id: motif:4
+  label: Obstacle broken to release life-saving water
+  taxonomy_refs: []
+  basis: A serving-lad strikes the rock with a hammer, the rock breaks, and the well
+    fills with cool water for the men and oxen.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage describes a physical rock and water source; no miraculous
+    agency is stated.
+- id: motif:5
+  label: Survivors mark a life-saving well for future travelers
+  taxonomy_refs: []
+  basis: After recovery, the caravan sets up a flag on the well for travelers to see.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage does not explain whether the marker has ritual, commemorative,
+    or purely practical function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 608-613
+  quote_or_summary: The tale opens with a merchant whose goods are packed in many
+    carts entering a desert on the way to the country beyond it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 614-627
+  quote_or_summary: The sand is too hot by day, so travel occurs after dark; one pilot
+    rides first because he knows the stars and guides the drivers by them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 629-640
+  quote_or_summary: At daybreak the caravan camps, feeds and unyokes the oxen, cooks
+    rice, spreads an awning, rests until sunset, then resumes after supper when the
+    sand is cool.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 642-648
+  quote_or_summary: The pilot says one more night will bring them out of the sand;
+    after supper the merchant tells the men to throw away nearly all the water and
+    firewood because they expect to reach the city the next day.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 650-660
+  quote_or_summary: The pilot lies down and sleeps from exhaustion; near daybreak
+    he sees the fading stars and calls halt, saying they are in the same place as
+    yesterday and the oxen must have turned while he slept.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 662-668
+  quote_or_summary: The oxen have no water because the remaining water was thrown
+    away; the oxen and men lie down tired and thirsty, and the men say the wood and
+    water are gone and they are lost.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 670-680
+  quote_or_summary: The merchant tells himself he must not sleep or give up, searches
+    the ground, sees a tuft of grass, infers there must be water below, and calls
+    for the spade and hammer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 682-689
+  quote_or_summary: The men dig where the grass grows and strike a rock; the merchant
+    goes into the hole, listens, says he hears water running under the rock, urges
+    that they must not give up, and tells a serving-lad to try.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 691-696
+  quote_or_summary: The boy raises the hammer and strikes the rock; the rock breaks,
+    the well fills with cool water, the men drink, and they water the oxen and bathe.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 698-701
+  quote_or_summary: The men split extra yokes and axles, build a fire, cook rice,
+    rest through the day, and set up a flag on the well for travelers to see.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:11
+  type: summary
+  locator: lines 703-705
+  quote_or_summary: At sundown the caravan starts again; the next morning it reaches
+    the city, sells the goods, and returns home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high confidence from the supplied passage. Motif labeling
+    is kept conservative; only the explicit wisdom-like pattern is linked to an available
+    taxonomy family. No comparison claims were made because the passage itself does
+    not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The supplied locator label mentions several tale titles, but the provided passage text contains only THE SANDY ROAD.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l608-l698
+  passage_sha256=7f2b6db547c1bdcd7246bb6e112d86059b0f38d48bbd12a56a614b6cfad6f964
+

@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4902-l4921
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: HERCULES AND MINERVA / THE FOX WHO SERVED A LION / THE QUACK DOCTOR / THE
+    LION, THE WOLF, AND THE FOX; lines 4902-4921
+  start: '4902'
+  end: '4921'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An aged sick lion lies in his den while the forest beasts visit him. The
+    wolf accuses the absent fox of neglecting the lion. The fox arrives, claims he
+    has been seeking a cure, and recommends that the lion flay a wolf and wrap himself
+    in the warm skin. The lion kills the wolf, and the fox treats this as the result
+    of stirring up ill-will.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion, described as aged and sick, lies in his den.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The beasts of the forest come to ask after the lion's health, except for the
+    fox.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf uses the fox's absence to accuse the fox before the lion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fox enters and hears the wolf's final words.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lion roars at the fox in displeasure.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fox says he has been visiting doctors and seeking a cure for the lion's
+    illness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The fox says the cure is for the lion to flay a wolf and wrap himself in the
+    wolf's warm skin.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The lion kills the wolf with one blow of his paw in order to try the fox's
+    prescription.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The fox laughs and says that this is what comes from stirring up ill-will.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: An aged, infirm, sick lion lying in his den and addressed as sire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Wolf
+  description: A wolf who accuses the absent fox and is later killed by the lion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Fox
+  description: The absent fox who arrives, explains his absence, gives a prescription
+    involving a wolf's skin, and laughs after the wolf is killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Beasts of the forest
+  description: The animals who come to inquire after the lion's health, except for
+    the fox.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Doctors
+  description: Doctors whom the fox says he has been visiting to seek a cure for the
+    lion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sick ruler or dominant animal
+  assigned_to:
+  - fig:1
+  basis: The lion is sick in his den and addressed as sire; his displeasure and action
+    determine the wolf's fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: accuser punished by consequence of accusation
+  assigned_to:
+  - fig:2
+  basis: The wolf accuses the fox before the lion and is then killed after the fox's
+    counter-speech.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: cunning respondent
+  assigned_to:
+  - fig:3
+  basis: The fox answers the accusation by claiming to have found a cure that requires
+    a wolf's skin, leading to the wolf's death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: court or visiting assembly
+  assigned_to:
+  - fig:4
+  basis: The beasts of the forest come collectively to inquire after the lion's health.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: reported healers
+  assigned_to:
+  - fig:5
+  basis: The fox says he has been going round to doctors to find a cure.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: den of the sick lion
+  literal_form: den
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wolf skin as cure
+  literal_form: flayed wolf skin, still warm
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: lion's paw blow
+  literal_form: one blow of the lion's paw
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sick lion receives visitors
+  summary: The aged lion lies sick in his den, and the forest beasts come to inquire
+    after him, with the fox absent.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wolf accuses absent fox
+  summary: The wolf tells the lion that the fox has not visited and does not care
+    whether the lion is well or ill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox offers a lethal prescription
+  summary: After entering and hearing the accusation, the fox claims he was seeking
+    a cure and says the lion should flay a wolf and wrap himself in the warm skin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Wolf killed and fox comments
+  summary: The lion kills the wolf to try the prescription, and the fox laughs that
+    this is what comes from stirring up ill-will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Slanderer punished by the victim's counter-speech
+  taxonomy_refs: []
+  basis: The wolf attempts to harm the fox by accusing him before the lion, but the
+    fox's explanation redirects the lion's violence against the wolf.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level fable pattern label, not a supplied formal taxonomy
+    ID.
+- id: motif:2
+  label: Trickster turns accusation into revenge
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox, after being accused, uses a deceptive or opportunistic medical prescription
+    to make the lion kill the wolf.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not call the fox a trickster; the taxonomy reference
+    is inferred from the fox's cunning speech and reversal of danger.
+- id: motif:3
+  label: Dangerous cure requiring another animal's skin
+  taxonomy_refs: []
+  basis: The fox presents the flaying of a wolf and use of the still-warm skin as
+    a cure for the lion's illness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the prescription within the fox's speech; it does
+    not verify the cure's medical truth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4902-4905
+  quote_or_summary: An aged, infirm lion lies sick in his den; the forest beasts come
+    to inquire after his health, except for the fox.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 4905-4909
+  quote_or_summary: The wolf says the fox "hasn't come near you, and doesn't care
+    whether you are well or ill."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 4909-4911
+  quote_or_summary: The fox comes in, hears the wolf's last words, and the lion roars
+    at him in displeasure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 4911-4915
+  quote_or_summary: The fox says he has been "going round to the doctors and trying
+    to find a cure" for the lion's illness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 4915-4917
+  quote_or_summary: 'The fox''s cure: "you must flay a Wolf and wrap yourself in his
+    skin while it is still warm."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 4917-4920
+  quote_or_summary: The lion turns to the wolf and kills him with one paw blow in
+    order to try the fox's prescription.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: 4920-4921
+  quote_or_summary: The fox laughs and says, "That's what comes of stirring up ill-will."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal narrative is straightforward. Motif labels are descriptive and
+    require human review, especially the optional trickster_boundary taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used. No comparison claims were added because the passage itself does not make an explicit comparison to another tradition or corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4902-l4921
+  passage_sha256=a3a2081893591833f49dd4d98df35cfb9ac9f14888927d2a0d9abf579f3aadf6
+

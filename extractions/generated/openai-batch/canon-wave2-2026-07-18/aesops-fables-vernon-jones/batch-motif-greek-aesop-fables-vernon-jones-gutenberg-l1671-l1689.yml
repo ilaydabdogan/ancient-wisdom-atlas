@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1671-l1689
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BLIND MAN AND THE CUB / THE BOY AND THE SNAILS / THE APES AND THE TWO
+    TRAVELLERS / THE ASS AND HIS BURDENS; lines 1671-1689
+  start: '1671'
+  end: '1689'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A pedlar loads his ass with salt. After the ass falls in a stream, some
+    salt dissolves and the burden becomes lighter. The ass later lies down in the
+    stream to repeat this result, but the master detects the trick and replaces the
+    load with sponges, which absorb water and make the burden heavier. The moral warns
+    that a successful tactic may be overused.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pedlar owns an ass and loads it with as much salt as it can bear.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the way home, the ass stumbles while crossing a stream and falls into the
+    water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wetted salt melts and drains away, and the ass finds that its load has
+    become much less heavy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The master drives the ass back to town, buys more salt, adds it to the panniers,
+    and starts out again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When they reach a stream again, the ass lies down in it and rises with a lighter
+    load.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The master detects the ass’s trick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The master buys many sponges and piles them on the ass’s back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the ass lies down in the stream again, the sponges soak up water and
+    the ass has a bigger burden than before.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'The passage ends with the moral: “You may play a good card once too often.”'
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pedlar / master
+  description: A pedlar who owns the ass, buys salt and sponges, loads the animal,
+    detects the trick, and changes the burden.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ass
+  description: A burden-bearing animal that first falls into the stream and later
+    lies down in it to reduce its salt load, before the sponge load makes the burden
+    heavier.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Owner and load-giver
+  assigned_to:
+  - fig:1
+  basis: The pedlar owns the ass and loads it with salt and later sponges.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Burden bearer
+  assigned_to:
+  - fig:2
+  basis: The ass carries the salt and later the sponges as loads.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: User of a detected trick
+  assigned_to:
+  - fig:2
+  basis: The ass lies down in the stream to obtain a lighter load, and the master
+    detects the trick.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Detector and reverser of the trick
+  assigned_to:
+  - fig:1
+  basis: After detecting the trick, the master replaces the salt burden with sponges,
+    causing the repeated action to increase the load.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Stream water
+  literal_form: A stream and its water, first dissolving salt and later filling sponges.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Salt burden
+  literal_form: Salt loaded in panniers on the ass, which melts and drains away when
+    wetted.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Sponge burden
+  literal_form: Sponges piled on the ass’s back, which soak up water and become heavier.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Accidental lightening of the salt load
+  summary: The pedlar loads the ass with salt; while crossing a stream, the ass falls
+    into the water, the salt dissolves, and the load becomes lighter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Repeated action and detection
+  summary: After the master adds more salt, the ass lies down in the stream and rises
+    with a lighter load; the master detects the trick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reversal through sponges
+  summary: The master loads the ass with sponges; when the ass lies down in the stream
+    again, the sponges absorb water and make the burden heavier.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral statement
+  summary: The fable concludes with a warning that a successful tactic can be used
+    once too often.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Accidental discovery of a burden-lightening device
+  taxonomy_refs: []
+  basis: The ass’s accidental fall into the stream causes the salt to dissolve and
+    the load to become lighter.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no narrower supplied
+    taxonomy reference applies.
+- id: motif:2
+  label: Repeated trick detected and reversed
+  taxonomy_refs:
+  - wisdom
+  basis: The ass repeats the stream action to lighten its load, but the master detects
+    the trick and changes the load to sponges, making the same action produce a heavier
+    burden.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference “wisdom” is broad and reflects the fable’s cautionary
+    moral rather than a specific mythological type.
+- id: motif:3
+  label: Overuse of a successful tactic brings harm
+  taxonomy_refs:
+  - wisdom
+  basis: The final moral explicitly warns that one may play a good card once too often,
+    matching the ass’s failed repetition of the earlier successful action.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This motif is drawn from the passage’s explicit moral; no claim of historical
+    relationship to other versions is made.
+comparison_claims:
+- id: claim:1
+  claim: The fable functions as a wisdom pattern in which a successful deceptive tactic
+    is repeated until it backfires.
+  claim_level: same_function
+  target: 'wisdom motif family: cautionary tale against overusing a trick'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a functional comparison to a broad wisdom pattern
+    only; it does not establish historical contact, common inheritance, or a specific
+    external analogue.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1671-1674
+  quote_or_summary: The title identifies the fable as “THE ASS AND HIS BURDENS”; a
+    pedlar owns an ass, buys salt, and loads the animal with as much as it can bear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1674-1678
+  quote_or_summary: The ass stumbles while crossing a stream, falls into the water,
+    and the wetted salt melts and drains away, leaving the ass with a much lighter
+    load.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1678-1682
+  quote_or_summary: The master returns to town, adds more salt to the panniers, and
+    starts again; at the stream the ass lies down and rises with a lighter load.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1682-1684
+  quote_or_summary: The master detects the trick, turns back, buys many sponges, and
+    piles them on the ass’s back.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1684-1687
+  quote_or_summary: At the stream the ass lies down again, but the sponges soak up
+    water, so the ass rises with a bigger burden than ever.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1688-1689
+  quote_or_summary: "“You may play a good card once too often.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The narrative sequence, figures, objects, and moral are explicit in the supplied
+    passage. Motif taxonomy assignment is broad because the available taxonomy has
+    no narrow fable-specific category for a repeated trick that backfires.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used. Although the locator label names several fables, the extracted content is limited to “THE ASS AND HIS BURDENS,” the only fable included in the passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1671-l1689
+  passage_sha256=33e866adfd024e5e7be3c7fa93a96160ade6e80ed44fae2397932ba2defb2511
+

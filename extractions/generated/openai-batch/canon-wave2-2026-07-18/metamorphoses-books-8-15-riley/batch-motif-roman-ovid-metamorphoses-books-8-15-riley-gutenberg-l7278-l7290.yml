@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7278-l7290
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7278-7290
+  start: '7278'
+  end: '7290'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two editorial footnotes discuss a translated phrase about plunging into
+    the deep and an etymological explanation of the Latin bird-name “mergus” from
+    diving, while distinguishing that etymology from the poetic fiction in which it
+    appears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote reports Clarke’s rendering of the Latin phrase “Inque profundum
+    Pronus abit” as “Goes plumb down into the deep.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note compares “plumb down” with the French expression “a plomb” and the
+    later English form “plump down.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A footnote states that the Latin name of the diver or didapper, “mergus,”
+    is explained as coming from “a mergendo,” meaning from diving.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentator says the etymology likely reflects the origin of the name,
+    but not because of the poetic fiction being discussed.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Clarke
+  description: A translator whose rendering of a Latin phrase is quoted in the footnote.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: diver or didapper, “mergus”
+  description: A bird-name discussed as being derived from the act of diving.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Poet
+  description: The poetic author associated by the footnote with the fiction in which
+    the etymological point appears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: Clarke is said to render the Latin phrase into English.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named diving bird
+  assigned_to:
+  - fig:2
+  basis: The diver or didapper is identified with the Latin name “mergus,” explained
+    from diving.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: poetic source of fiction
+  assigned_to:
+  - fig:3
+  basis: The footnote refers to a fiction related by “the Poet.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: deep water
+  literal_form: the deep / profundum
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: diving or plunging
+  literal_form: plunges into the deep; diving
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial note on plunging and diving terminology
+  summary: The footnotes explain a translated phrase for going into the deep and an
+    etymology for the bird-name “mergus” based on diving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: etiological naming from characteristic action
+  taxonomy_refs: []
+  basis: The passage states that the name “mergus” is explained from the action of
+    diving, while noting that the real etymology is not caused by the poetic fiction.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial footnote rather than the narrative episode
+    itself; it does not recount the fiction or metamorphosis in detail.
+- id: motif:2
+  label: plunge into deep water
+  taxonomy_refs: []
+  basis: The passage centers on language describing a figure or creature going down
+    into the deep and on diving as the basis of a name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: Only the phrase and commentary are present; the actor and narrative context
+    of the plunge are not supplied in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7278-7284
+  quote_or_summary: "“Inque profundum Pronus abit,” Clarke renders, “Goes plumb down
+    into the deep”; the note compares this with French “a plomb” and English “plump
+    down.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7286-7290
+  quote_or_summary: The note says the Latin name of the diver or didapper, “mergus,”
+    is explained as “a mergendo,” from diving, though not truly arising from the poetic
+    fiction.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the supplied passage consists of editorial footnotes rather than the narrative
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not supply enough narrative context for a supported family-level classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7278-l7290
+  passage_sha256=b7957e207a77094cf35479305d01ef163b234690a01f0d083e735516be842f41
+

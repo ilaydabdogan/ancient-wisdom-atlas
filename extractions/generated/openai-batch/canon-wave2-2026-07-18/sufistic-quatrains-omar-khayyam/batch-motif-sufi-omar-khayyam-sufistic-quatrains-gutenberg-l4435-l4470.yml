@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4435-l4470
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: PAGE 7. / PAGE 7. / IN THE NOTES. / XVIII.; lines 4435-4470
+  start: '4435'
+  end: '4470'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives notes to two quatrains. In XVIII, a once-exalted palace
+    where kings prostrated is now seen with a solitary dove or ringdove crying from
+    its battlements. In XC, an old or waning moon/month is described as lean, bent,
+    and sinking, while a young or festival moon is expected to bring cheer and mirth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A palace is described as having raised or thrown its pillars up to heaven.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Kings are described as drawing their foreheads to, or prostrating themselves
+    upon, the palace threshold.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: A solitary ringdove or dove is seen at the palace, specifically on its battlements
+    in the note translation.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:4
+  text: The bird utters repeated cries, rendered as “Coo” in one version and as “Where”
+    in the note translation.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:5
+  text: The prose note states that the quatrain in the note to No. 18 is translated
+    from C. 419.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A sullen month is said to die, and a young moon is expected to come by and
+    by.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The old moon is described as meagre, bent, wan, aged, and fainting from the
+    sky.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note translation says the festival moon will come and the means of mirth
+    will be propitious.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The same note translation describes the present moon as lean, bent-figured,
+    thin, and sinking under trouble.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The prose note states that the quatrain in the note to No. 90 is translated
+    from C. 218.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kings
+  description: Royal figures who prostrate themselves or draw their foreheads upon
+    the palace threshold.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Solitary ringdove or dove
+  description: A bird seen at the palace or upon its battlements, uttering repeated
+    cries.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: prostrating royal visitors
+  assigned_to:
+  - fig:1
+  basis: The kings are described as placing their foreheads on the palace threshold
+    or prostrating themselves upon it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: solitary caller at the palace
+  assigned_to:
+  - fig:2
+  basis: The dove or ringdove is the only living figure seen at the palace and is
+    described as crying repeatedly.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: exalted palace
+  literal_form: A palace with pillars reaching heaven, a threshold, and battlements.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: bird cry at deserted palace
+  literal_form: A solitary ringdove or dove crying “Coo” or “Where” from the palace
+    setting.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: waning and renewed moon
+  literal_form: An old, lean, bent, wan moon sinking from the sky, contrasted with
+    a young or festival moon to come.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Palace of former kings with solitary dove
+  summary: A palace once associated with royal prostration is now observed with a
+    solitary dove or ringdove crying from the palace area or battlements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Old moon wanes before the coming festival moon
+  summary: An aged or troubled moon/month is described as diminishing and sinking,
+    while a young or festival moon is expected to bring cheer and mirth.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: impermanence of royal power in a deserted palace
+  taxonomy_refs: []
+  basis: The palace that once drew kings to its threshold is represented by a later
+    scene of a solitary bird crying there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage gives the image but does not explicitly state a moral interpretation.
+- id: motif:2
+  label: lunar decline followed by renewal and mirth
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The old or present moon is lean, bent, and sinking, while a young or festival
+    moon is expected to arrive with cheer and mirth.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy reference is seasonal rather than specifically
+    lunar; the fit is functional but not exact.
+comparison_claims:
+- id: claim:1
+  claim: The English quatrain XVIII and the supplied C. 419 translation share the
+    same core scene of an exalted palace, kings at its threshold, and a dove crying
+    there.
+  claim_level: same_motif
+  target: C. 419 quatrain translation in the note to No. 18
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports comparison between the printed quatrain and its
+    cited source translation, but not a broader historical claim beyond the note’s
+    translation statement.
+- id: claim:2
+  claim: The English quatrain XC and the supplied C. 218 translation share a pattern
+    in which a waning or troubled present moon/month gives way to a coming moon associated
+    with cheer, festival, or mirth.
+  claim_level: same_motif
+  target: C. 218 quatrain translation in the note to No. 90
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports comparison between the printed quatrain and its
+    cited source translation, but not a wider comparative-mythology claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4438-4441
+  quote_or_summary: "“The Palace that to Heav'n his pillars threw, / And Kings the
+    forehead on his threshold drew-- / I saw the solitary Ringdove there, / And «Coo,
+    coo, coo!» she cried”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: '4443'
+  quote_or_summary: The note says the quatrain in the note to quatrain No. 18 is translated
+    from C. 419.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: quote
+  locator: 4445-4448
+  quote_or_summary: "“That palace that reared its pillars up to heaven, / Kings prostrated
+    themselves upon its threshold; / I saw a dove that, upon its battlements, / Uttered
+    its cry: «Where, where, where, where?»”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: citation
+  locator: 4450-4451
+  quote_or_summary: References listed for quatrain XVIII include C. 419 and other
+    abbreviations.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: quote
+  locator: 4455-4458
+  quote_or_summary: "“Be of Good Cheer--the sullen Month will die, / And a young Moon
+    requite us by and by: / Look how the Old one, meagre, bent, and wan / With Age
+    and Past, is fainting from the Sky!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:6
+  type: summary
+  locator: '4460'
+  quote_or_summary: The note says the quatrain in the note to quatrain No. 90 is translated
+    from C. 218.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata.
+- id: ev:7
+  type: quote
+  locator: 4462-4465
+  quote_or_summary: "“Be happy! for the moon of thy festival will come, / The means
+    of mirth will all be propitious; / This moon has become lean, bent-figured and
+    thin, / Thou may'st say that it will sink under this trouble.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:8
+  type: citation
+  locator: '4467'
+  quote_or_summary: References listed for quatrain XC include C. 218 and B. ii. 186.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal imagery and source-note relationships are explicit. Motif labels
+    are concise interpretive candidates and require human review, especially the taxonomy
+    assignment of seasonal_cycle to the lunar passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No broader Sufi or Khayyam interpretive context was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4435-l4470
+  passage_sha256=46c9c8a392f0bf504ba3ef81cec4c269e74a34db168f98f9accf08889019a4e6
+

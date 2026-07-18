@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9394-l9534
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9394-9534
+  start: '9394'
+  end: '9534'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of footnotes cites classical, ethnographic, and travel sources.
+    Several notes explicitly mention a bull's-blood draught used as an ordeal for
+    a priestess, priests or deity-representatives drinking warm blood of a victim,
+    inspiration from the savour of sacrifice, and a buffalo sacrifice in Kachh preceded
+    by sprinkling water between the animal's horns and observing its head movement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One note says Pausanias mentions a draught of bull's blood as an ordeal to
+    test the chastity of a priestess.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same note adds that the draught of bull's blood was thought to serve both
+    purposes referred to in the note's context.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One note groups other instances of priests or representatives of the deity
+    drinking the warm blood of the victim.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says that snuffing up the savour of the sacrifice was similarly supposed
+    to produce inspiration.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One note says that when the Rao of Kachh sacrifices a buffalo, water is sprinkled
+    between the buffalo's horns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In that Kachh example, if the buffalo shakes its head it is unsuitable, and
+    if it nods its head it is sacrificed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The author comments that the Kachh buffalo procedure is probably a modern
+    misinterpretation of an old custom.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: priestess
+  description: A priestess whose chastity is tested by an ordeal involving a draught
+    of bull's blood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: priests or representatives of the deity
+  description: Persons described in grouped examples as drinking the warm blood of
+    the victim.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: victim
+  description: The victim whose warm blood is drunk in the cited instances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Rao of Kachh
+  description: The sacrificer named in the buffalo-sacrifice example.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: buffalo
+  description: A buffalo whose suitability for sacrifice is judged by its head movement
+    after water is sprinkled between its horns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ordeal subject
+  assigned_to:
+  - fig:1
+  basis: The priestess is the person whose chastity is tested by the bull's-blood
+    ordeal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual blood drinker
+  assigned_to:
+  - fig:2
+  basis: The note describes priests or deity-representatives drinking the warm blood
+    of the victim.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sacrificial victim
+  assigned_to:
+  - fig:3
+  basis: The victim provides the warm blood drunk in the cited instances.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sacrificer
+  assigned_to:
+  - fig:4
+  basis: The Rao of Kachh is said to sacrifice a buffalo.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tested sacrificial animal
+  assigned_to:
+  - fig:5
+  basis: The buffalo's head movement determines whether it is unsuitable or sacrificed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bull's-blood draught
+  literal_form: Draught of bull's blood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: warm blood of the victim
+  literal_form: Warm blood drunk by priests or deity-representatives
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: savour of sacrifice
+  literal_form: Savour of the sacrifice snuffed up for inspiration
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sprinkled water
+  literal_form: Water sprinkled between a buffalo's horns
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: buffalo head movement
+  literal_form: Head shake or nod used to decide suitability for sacrifice
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bull's-blood ordeal for priestess
+  summary: A note reports an ordeal in which a priestess's chastity is tested by a
+    draught of bull's blood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inspiration through sacrificial blood or savour
+  summary: A note collects instances of priests or deity-representatives drinking
+    warm victim blood and adds that snuffing the savour of sacrifice was similarly
+    supposed to produce inspiration.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kachh buffalo sacrifice and suitability sign
+  summary: When the Rao of Kachh sacrifices a buffalo, water is sprinkled between
+    its horns; a head shake makes it unsuitable, while a nod leads to sacrifice.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ordeal by animal blood
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage reports a bull's-blood draught used as an ordeal to test a priestess's
+    chastity.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The footnote gives only a compressed reference and does not describe the
+    full ritual context.
+- id: motif:2
+  label: sacrificial blood or savour producing inspiration
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage groups examples of priests or deity-representatives drinking
+    warm victim blood and says the savour of sacrifice was similarly supposed to produce
+    inspiration.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The cited practices are summarized in a footnote; individual cultural
+    contexts are not described in this passage.
+- id: motif:3
+  label: sacrificial victim accepted or rejected by sign
+  taxonomy_refs:
+  - sacrifice
+  basis: The Kachh buffalo example uses the animal's head movement after water sprinkling
+    to decide whether it is unsuitable or will be sacrificed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The author explicitly cautions that this may be a modern misinterpretation
+    of an older custom.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself groups multiple cited instances of priests or deity-representatives
+    drinking warm blood from a sacrificial victim as examples of the same ritual pattern.
+  claim_level: same_motif
+  target: cited instances of ritual drinking of warm victim blood in footnote 135
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnote lists sources but does not provide details for each cited
+    instance.
+- id: claim:2
+  claim: The passage compares snuffing the savour of sacrifice with drinking sacrificial
+    blood by saying it was similarly supposed to produce inspiration.
+  claim_level: same_function
+  target: blood-drinking and savour-snuffing practices connected with inspiration
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and compressed; the passage does not specify
+    identical ritual form or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnote 131; lines 9420-9423
+  quote_or_summary: Pausanias is cited for a draught of bull's blood as an ordeal
+    to test the chastity of the priestess; the author says it was thought to serve
+    both purposes.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: footnote 135; lines 9437-9446
+  quote_or_summary: The note cites other instances of priests or representatives of
+    the deity drinking the warm blood of the victim, and adds that snuffing the savour
+    of sacrifice was similarly supposed to produce inspiration.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: footnote 140; lines 9455-9468
+  quote_or_summary: When the Rao of Kachh sacrifices a buffalo, water is sprinkled
+    between its horns; a shake of the head makes it unsuitable, while a nod leads
+    to sacrifice; the author calls this probably a modern misinterpretation of an
+    old custom.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily bibliographic footnotes, so extractable narrative
+    and ritual detail is limited to a few explanatory notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to supplied refs and only applied where directly supported.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9394-l9534
+  passage_sha256=77930d847e21bc09a25b8a60ff7cc6d4d3e302f31e81403f2668082c9307b27f
+

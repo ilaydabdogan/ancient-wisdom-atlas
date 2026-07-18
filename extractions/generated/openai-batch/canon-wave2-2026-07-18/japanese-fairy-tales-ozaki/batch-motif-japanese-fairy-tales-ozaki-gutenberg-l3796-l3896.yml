@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3796-l3896
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE
+    MOON-CHILD / THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS MONKEY AND THE BOAR; lines
+    3796-3896
+  start: '3796'
+  end: '3896'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An old performing monkey overhears that his master plans to sell him to
+    the butcher. The monkey seeks advice from a wild boar known for wisdom. The boar
+    proposes a staged abduction of the master''s infant son so the monkey can rescue
+    the child and regain favor. The plan succeeds: the parents spare the monkey, send
+    the butcher away, and the monkey lives peacefully thereafter.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A traveling monkey-man in Shinshin earns his living by exhibiting a monkey's
+    tricks.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man decides the monkey is too old to perform properly and tells his wife
+    to send for the butcher.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wife feels sorry for the monkey and pleads for him to be spared, but the
+    husband remains determined.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The monkey overhears the plan, understands he is to be killed, and decides
+    to seek counsel from a wild boar in the nearby forest.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The monkey addresses the boar as wise and asks what he should do.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The boar proposes to seize the master's infant son so that the monkey can
+    pursue him, rescue the child, and gain the parents' gratitude.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The next morning the mother places the child near the porch, and the boar
+    carries the child away through the gate.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The parents see the monkey running after the boar, and the monkey brings the
+    child safely back.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The man agrees not to kill the monkey, sends the butcher away, orders boar's
+    meat, and later treats the monkey kindly.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: traveling monkey-man / master
+  description: A man in Shinshin who earns his living by showing a monkey's tricks
+    and initially intends to sell the old monkey to the butcher.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: fig:2
+  name_or_label: wife / mistress
+  description: The monkey-man's wife, who feels sorry for the monkey, pleads for him,
+    and later argues that he should be spared after returning the child.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:3
+  name_or_label: the monkey
+  description: An old performing monkey who has served his master for years, overhears
+    the plan to kill him, seeks advice from the boar, and returns the child safely.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: the wild boar
+  description: A boar living in the nearby forest, reputed for wisdom, who devises
+    and carries out the staged seizure of the child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: infant son / child
+  description: The master's infant son, placed near the porch in the morning, seized
+    by the boar, and safely brought back by the monkey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: the butcher
+  description: The butcher whom the wife is told to summon for the monkey, and who
+    is later sent away with an order for boar's meat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:9
+roles:
+- id: role:1
+  label: traveling animal exhibitor and master
+  assigned_to:
+  - fig:1
+  basis: He earns his living by taking around a monkey and showing off its tricks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: threatened aged performing animal
+  assigned_to:
+  - fig:3
+  basis: The master says the monkey is old, forgets his tricks, and should be sold
+    to the butcher.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: compassionate advocate
+  assigned_to:
+  - fig:2
+  basis: The wife feels sorry for the monkey and pleads for her husband to spare him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wise counselor and accomplice
+  assigned_to:
+  - fig:4
+  basis: The boar is approached for wisdom and devises the plan to create a rescue
+    scene.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: rescuer in staged rescue
+  assigned_to:
+  - fig:3
+  basis: The monkey runs after the boar and returns the child safely, gaining the
+    parents' gratitude.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: abducted and rescued infant
+  assigned_to:
+  - fig:5
+  basis: The child is seized by the boar and then brought back safely by the monkey.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: grateful parents
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both parents admire the monkey's conduct and are grateful when the child
+    is returned.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: intended slaughterer or meat-seller
+  assigned_to:
+  - fig:6
+  basis: The butcher is summoned in connection with selling the monkey, then sent
+    away with an order for boar's meat.
+  evidence_refs:
+  - ev:2
+  - ev:9
+symbols:
+- id: sym:1
+  label: butcher
+  literal_form: The butcher called for the old monkey and later sent away.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:2
+  label: nearby forest
+  literal_form: The forest where the wild boar lives and where the monkey goes for
+    counsel.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: household threshold
+  literal_form: Door, porch, and gate area where the infant is placed and from which
+    the boar carries him away.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: infant son
+  literal_form: The master's baby used in the boar's plan and returned safely by the
+    monkey.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Threat to the old monkey
+  summary: The traveling monkey-man says the monkey is too old to perform and instructs
+    his wife to send for the butcher despite her pleading.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Monkey seeks the boar's counsel
+  summary: After overhearing that he will be killed, the monkey leaves the house and
+    goes to the forest to ask the wise boar for advice.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Plan of staged abduction and rescue
+  summary: The boar explains that he will seize the infant son, allowing the monkey
+    to chase him and return the child to the parents.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Morning abduction and pursuit
+  summary: The mother places the child near the porch; the boar carries him away through
+    the gate, and the parents see the monkey pursuing the thief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Reversal of the monkey's fate
+  summary: The monkey returns the child, the parents spare him, the butcher is sent
+    away, and the monkey lives without further beating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Threatened servant escapes death through clever stratagem
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The old monkey is to be sold to the butcher, seeks advice from a reputedly
+    wise boar, and survives by participating in a deceptive rescue plan.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy labels are broad; the passage does not name an external tale-type.
+- id: motif:2
+  label: Staged abduction creates a rescuer
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The boar plans to take the infant so the monkey can appear to rescue him
+    and thereby change the parents' decision.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The abduction is planned as a ruse; no direct claim of supernatural or
+    sacred action appears.
+- id: motif:3
+  label: Animal wisdom and counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey seeks out the boar because of his reputation for wisdom, and the
+    boar supplies the successful plan.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The wisdom is practical cunning rather than doctrinal or sacred wisdom.
+- id: motif:4
+  label: Rescue reverses household judgment
+  taxonomy_refs: []
+  basis: After the monkey returns the child, the wife argues that the monkey should
+    not be killed, and the husband spares him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a plot pattern inferred from the sequence, not a named taxonomy
+    item in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3796-3801
+  quote_or_summary: In Shinshin, Japan, a traveling monkey-man earns his living by
+    taking a monkey around and showing its tricks.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3802-3814
+  quote_or_summary: The man tells his wife to send for the butcher because the monkey
+    is too old, forgets his tricks, and will no longer dance properly.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3815-3818
+  quote_or_summary: The woman feels sorry for the animal and pleads that her husband
+    spare the monkey, but he remains determined to sell him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3819-3832
+  quote_or_summary: The monkey overhears the conversation, understands that he is
+    to be killed, and decides to go to the nearby forest to seek the counsel of a
+    wild boar said to be wise.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3833-3841
+  quote_or_summary: The monkey tells the boar he has heard of his excellent wisdom
+    and asks for advice about the master's plan to sell him to the butcher.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3842-3857
+  quote_or_summary: The pleased boar proposes to seize the master's infant son, after
+    which the monkey should rescue the child and bring him safely home so the parents
+    will not sell him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 3858-3876
+  quote_or_summary: In the morning the mother places the child near the porch; the
+    boar appears, seizes the child, and disappears through the gate.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 3877-3885
+  quote_or_summary: The parents see the monkey running after the thief, admire the
+    monkey's conduct, and receive the child safely back from him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 3886-3896
+  quote_or_summary: The wife says the child would have been lost without the monkey;
+    the husband sends the butcher back, orders boar's meat for dinner, and the monkey
+    is petted and never struck again.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Plot extraction is direct from the passage. Motif labels are cautious and
+    limited to broad supplied taxonomy families where applicable; no external comparative
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type or comparative tradition was added beyond the supplied passage and taxonomy list.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3796-l3896
+  passage_sha256=8e357797264a485ba4404463c0bbd00f5adb05479c186425fc2f1393c3984fca
+

@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2826-l2840
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXVII. / XXVIII. / XXIX. / XXXI.; lines 2826-2840
+  start: '2826'
+  end: '2840'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Up from Earth's Centre through the Seventh Gate / I rose, and on the Throne
+    of Saturn sate”"
+  summary: The speaker describes rising from the earth’s center or nadir to Saturn’s
+    height, solving many heavenly problems and escaping deceit, yet being unable to
+    undo the final bond or master-knot of fate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he rose from Earth's center through the Seventh Gate.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he sat on the Throne of Saturn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he unraveled many knots during the journey, but not the master-knot
+    of human fate.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The alternate translation describes movement from the nadir of the earthly
+    globe to the zenith of Saturn.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The alternate translation says the speaker solved all the problems of heaven
+    and escaped from trickery and deceit, while the bond of fate remained.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who rises, sits on Saturn's throne, solves problems,
+    and confronts the remaining bond or knot of fate.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: ascent traveler
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker reports rising from Earth's center or nadir to Saturn's
+    height.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: problem solver limited by fate
+  assigned_to:
+  - fig:1
+  basis: The speaker unravels many knots or solves heavenly problems, but cannot remove
+    the master-knot or bond of fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Earth's Centre / earthly nadir
+  literal_form: Earth's Centre; Nadir of the earthly globe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Seventh Gate
+  literal_form: Seventh Gate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Throne or zenith of Saturn
+  literal_form: Throne of Saturn; Zenith of Saturn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: knots and bond of fate
+  literal_form: Knot; Master-knot of Human Fate; Bond of Fate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: trickery and deceit
+  literal_form: bondage of all trickery and deceit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ascent from earth to Saturn
+  summary: The speaker ascends from the earth's center or nadir through a gate to
+    Saturn's throne or zenith.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Knowledge gained but fate remains unresolved
+  summary: During or after the ascent, the speaker unravels many knots or solves heavenly
+    problems and escapes deceit, but the knot or bond of fate remains unsolved.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: cosmic ascent to Saturn
+  taxonomy_refs:
+  - ascent
+  basis: The speaker explicitly rises from the earth's center or nadir to Saturn's
+    throne or zenith.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives an ascent image but does not describe a full ritual,
+    visionary itinerary, or named guide.
+- id: motif:2
+  label: quest for heavenly knowledge limited by fate
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The speaker solves many heavenly problems or unravels knots, yet cannot solve
+    or remove the final bond of fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The quatrain frames knowledge and limitation metaphorically; the passage
+    does not specify a formal quest narrative beyond the speaker's ascent and discoveries.
+- id: motif:3
+  label: inescapable fate after spiritual or cosmic progress
+  taxonomy_refs: []
+  basis: All obstacles are removed except the Bond of Fate; the Master-knot of Human
+    Fate remains unresolved.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference directly names fate-binding as a motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2826-2831
+  quote_or_summary: The quatrain states that the speaker rose from Earth's Centre
+    through the Seventh Gate, sat on the Throne of Saturn, unraveled many knots, but
+    not the Master-knot of Human Fate.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2834-2838
+  quote_or_summary: The alternate translation describes ascent from the nadir of the
+    earthly globe to the zenith of Saturn, solving heavenly problems, escaping trickery
+    and deceit, and leaving only the Bond of Fate unresolved.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: citation
+  locator: lines 2826-2840
+  quote_or_summary: The passage is identified as quatrain XXXI, translated from C.
+    314, with references including C. 314, L. 491, B. 487, B. ii. 338, T. 215, W.
+    303, and V. 531.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; bibliographic reference summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ascent, Saturn, problem-solving, and unresolved fate are explicit.
+    Motif classification is limited to supplied taxonomy and remains interpretive.
+    No comparison claims were added because the passage itself does not explicitly
+    compare traditions or motif families beyond its own imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy symbols did not include the passage's main literal symbols, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2826-l2840
+  passage_sha256=8994ea76a2f9e44611f55a44a4d4e92690e266350be4b3518e90a3ddbf0ee2d5
+

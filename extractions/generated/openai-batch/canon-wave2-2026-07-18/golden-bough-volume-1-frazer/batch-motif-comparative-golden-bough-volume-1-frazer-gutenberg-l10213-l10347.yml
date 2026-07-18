@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10213-l10347
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10213-10347
+  start: '10213'
+  end: '10347'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The soul of Aristeas issued from his mouth in the form of a raven.
+  summary: The passage consists of footnotes citing comparative examples about souls.
+    It specifically notes stories in which a soul leaves the body through the mouth
+    or nose in animal or insect form, a note about a priest restoring a soul and then
+    telling it to go away again, and a remark that some souls resemble cotton seeds.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the stories of Hermotimus and King Gunthram belong
+    to the same class.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the King Gunthram example, the king's soul comes out of his mouth as a
+    small reptile.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The soul of Aristeas issues from his mouth in the form of a raven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In an East Indian story, a sleeper's soul issues from his nose in the form
+    of a cricket.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In a Swabian story, a girl's soul creeps out of her mouth in the form of a
+    white mouse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note says that a priest, after restoring a soul, tells it to go away again;
+    the reason is stated to be unclear.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note says that sometimes souls resemble cotton seeds.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hermotimus
+  description: Named as an example belonging to the same class of stories as the King
+    Gunthram story; no further narrative detail is given in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King Gunthram's soul
+  description: The king's soul comes out of his mouth as a small reptile.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aristeas's soul
+  description: The soul issues from Aristeas's mouth in the form of a raven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: East Indian sleeper's soul
+  description: The sleeper's soul issues from the nose in the form of a cricket.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Swabian girl's soul
+  description: The girl's soul creeps out of her mouth in the form of a white mouse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Priest
+  description: A priest restores a soul and then tells it to go away again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Restored soul
+  description: A soul restored by a priest and then told to go away again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Souls resembling cotton seeds
+  description: Souls are described as sometimes resembling cotton seeds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named comparative example
+  assigned_to:
+  - fig:1
+  basis: Hermotimus is named as belonging to the same class of stories, but without
+    detail in this passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: soul externalized in animal or insect form
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each cited soul leaves the body through the mouth or nose and appears as
+    a reptile, bird, insect, or mouse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: soul-restoring priest
+  assigned_to:
+  - fig:6
+  basis: The note says a priest restores the soul.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: restored and dismissed soul
+  assigned_to:
+  - fig:7
+  basis: The note says the restored soul is told to go away again.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: seed-like soul appearance
+  assigned_to:
+  - fig:8
+  basis: The note says souls sometimes resemble cotton seeds.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mouth as soul exit point
+  literal_form: mouth
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: nose as soul exit point
+  literal_form: nose
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: small reptile soul-form
+  literal_form: small reptile
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: raven soul-form
+  literal_form: raven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: cricket soul-form
+  literal_form: cricket
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: white mouse soul-form
+  literal_form: white mouse
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: cotton seed soul-form
+  literal_form: cotton seeds
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Comparative catalogue of animal-form soul emergence
+  summary: The passage groups several cited stories in which a soul leaves the body
+    through the mouth or nose and appears as a small reptile, raven, cricket, or white
+    mouse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Priest restores and dismisses a soul
+  summary: A note reports that a priest restores a soul and then tells it to go away
+    again, while adding that the reason is unclear.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Souls compared to cotton seeds
+  summary: A note reports that souls sometimes resemble cotton seeds.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Soul leaving the body in animal or insect form
+  taxonomy_refs: []
+  basis: Multiple cited stories describe a soul issuing from the mouth or nose and
+    appearing as a small reptile, raven, cricket, or white mouse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a footnote catalogue; detailed narrative contexts are not
+    supplied for most examples.
+- id: motif:2
+  label: Soul restoration followed by dismissal
+  taxonomy_refs: []
+  basis: A note states that a priest restores a soul and then tells it to go away
+    again.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The note itself says the reason is unclear, and the surrounding ritual
+    or narrative context is not included in this passage.
+- id: motif:3
+  label: Soul represented as seed-like substance
+  taxonomy_refs: []
+  basis: A note states that souls sometimes resemble cotton seeds.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The remark is brief and does not provide a full narrative or ritual context.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Hermotimus, King Gunthram, Aristeas, East
+    Indian, and Swabian examples as comparable instances of a story pattern in which
+    the soul leaves the body in a visible non-human form.
+  claim_level: same_motif
+  target: animal-form soul-emergence stories cited in footnote 415
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on Frazer's brief footnote statements; the
+    full cited stories are not present in the supplied passage, and the animal forms
+    and body exit points differ.
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnote 415 within lines 10213-10347
+  quote_or_summary: The passage says the stories of Hermotimus and King Gunthram belong
+    to the same class; in the Gunthram story the king's soul comes out of his mouth
+    as a small reptile.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: footnote 415 within lines 10213-10347
+  quote_or_summary: The soul of Aristeas issued from his mouth in the form of a raven.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: footnote 415 within lines 10213-10347
+  quote_or_summary: In an East Indian story of the same type, the sleeper's soul issues
+    from his nose in the form of a cricket.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: footnote 415 within lines 10213-10347
+  quote_or_summary: In a Swabian story, a girl's soul creeps out of her mouth in the
+    form of a white mouse.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 437 within lines 10213-10347
+  quote_or_summary: Frazer notes that it is unclear why the priest, after restoring
+    the soul, tells it to go away again.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: footnote 447 within lines 10213-10347
+  quote_or_summary: A note says that sometimes the souls resemble cotton seeds.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extracted details are explicit, but the passage is primarily a footnote
+    list, so many cited sources provide no recoverable narrative content within the
+    supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only details present in the supplied passage were extracted. Most bibliographic footnotes in the range contain citations without extractable motif content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10213-l10347
+  passage_sha256=5d3939dd83684d83a8089c7c9f2aa4f9621a214ff1124595510c9bcf8b591537
+

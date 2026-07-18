@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.romanian-fairy-tales-kremnitz-gutenberg-l7190-l7214
+source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+passage_locator:
+  label: PREFACE. / CONTENTS. / BY THE / PILGRIM SORROW; lines 7190-7214
+  start: '7190'
+  end: '7214'
+  translation: Roumanian Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A paratextual advertisement presents Pilgrim Sorrow, a cycle of tales by
+    the Queen of Roumania translated by Helen Zimmern, followed by several newspaper
+    review excerpts praising the work’s beauty, sentiment, and presentation. One review
+    compares the tales to amber beads and says they contain nymphs of the wood, naiads
+    of the stream, and tender graces of nature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Pilgrim Sorrow, a cycle of tales by the
+    Queen of Roumania.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the cycle of tales was translated by Helen Zimmern.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A review compares the tales to a connected string of amber beads.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same review says the tales imprison nymphs of the wood, naiads of the
+    stream, and graces of nature revealed to devoted lovers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Other review excerpts describe the tales as charming, full of beautiful thought
+    and sentiment, and attractively printed.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Queen of Roumania
+  description: Named as the authorial figure associated with Pilgrim Sorrow.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Helen Zimmern
+  description: Named as the translator of Pilgrim Sorrow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: nymphs of the wood
+  description: Nature beings mentioned in a review excerpt as contained within the
+    tales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: naiads of the stream
+  description: Water-associated nature beings mentioned in a review excerpt as contained
+    within the tales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: authorial attribution
+  assigned_to:
+  - fig:1
+  basis: The passage places the work under the heading 'BY THE QUEEN OF ROUMANIA.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: The passage states that the cycle was translated by Helen Zimmern.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: nature beings named in review
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The review excerpt names nymphs of the wood and naiads of the stream as figures
+    contained in the tales.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: amber beads
+  literal_form: string of amber beads
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wood
+  literal_form: wood
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stream
+  literal_form: stream
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: nature
+  literal_form: nature and its graces
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Advertisement and review notices for Pilgrim Sorrow
+  summary: The passage presents publication information for Pilgrim Sorrow and reproduces
+    praise from several newspapers, including a figurative description of the tales
+    as amber beads containing nature beings and graces of nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7190-7196
+  quote_or_summary: '"BY THE _QUEEN OF ROUMANIA_. PILGRIM SORROW A CYCLE OF TALES.
+    TRANSLATED BY HELEN ZIMMERN."'
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 7198-7202
+  quote_or_summary: '"Like a string of amber beads"; the review says the tales "imprison
+    nymphs of the wood, and naiads of the stream" and graces of nature.'
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 7204-7205
+  quote_or_summary: A Cincinnati Commercial Gazette excerpt describes the work as
+    the heart experiences of a princess and queen who is also a true and noble woman.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7207-7209
+  quote_or_summary: A Providence Journal excerpt describes the tales as charming,
+    full of beautiful thought and sentiment, and nearly poetic in form.
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 7211-7212
+  quote_or_summary: '"Wholly attractive and interesting--beautifully printed."'
+  source_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The passage is paratextual advertising/review material rather than a narrative
+    tale. Literal references to nature beings and imagery are extractable, but no
+    supported narrative motif candidate or comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage itself does not present a narrative episode or explicit comparative relation.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:romanian-fairy-tales-kremnitz-gutenberg__l7190-l7214
+  passage_sha256=220dcbd7e73735d91c7bc2ec8c85aa74d02d9c6552fbdb005f424a1411630725
+

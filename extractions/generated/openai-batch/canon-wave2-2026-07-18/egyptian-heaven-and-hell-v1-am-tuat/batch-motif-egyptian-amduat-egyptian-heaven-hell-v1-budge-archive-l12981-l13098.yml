@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l12981-l13098
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I     I     I / I  I  I / THE    BOOK   OF   AM-TUAT / I       I       I;
+    lines 12981-13098
+  start: '12981'
+  end: '13098'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary page or plate text from The Book of Am-Tuat containing captions
+    for a named fire pit, Anc-sekhetu; a separate label, Her-shau-s; a deity named
+    Her-utu-f; and a separate label, Salt. The surrounding material is mostly glyphic
+    or OCR-fragment text rather than continuous prose.
+  language: English with transliterated Egyptian names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a caption identifying a place or object as the pit of
+    fire named Anc-sekhetu.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The label Her-shau-s appears separately in the passage.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A deity is identified by the caption naming the god Her-utu-f.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The word Salt appears as a separate label.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The supplied passage is a fragmentary tableau or plate-like excerpt from The
+    Book of Am-Tuat rather than a continuous narrative passage.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Her-utu-f
+  description: A named deity identified in the passage as the god Her-utu-f.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: god/deity
+  assigned_to:
+  - fig:1
+  basis: The caption explicitly identifies Her-utu-f as a god.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pit of fire
+  literal_form: The pit of fire, Anc-sekhetu
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: salt
+  literal_form: Salt
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fragmentary captioned Am-Tuat tableau
+  summary: The passage presents a set of labels, including the pit of fire Anc-sekhetu,
+    Her-shau-s, the god Her-utu-f, and Salt, without narrating an explicit action
+    sequence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: named fiery place in an Am-Tuat tableau
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The excerpt is from The Book of Am-Tuat and labels a place or object as the
+    pit of fire, Anc-sekhetu; however, the extract itself gives no narrative action.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The supplied text is fragmentary and caption-like. It does not explicitly
+    describe a journey, judgment, punishment, or ritual function in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12981-13098
+  quote_or_summary: '"The pit of fire, Anc-sekhetu."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12981-13098
+  quote_or_summary: '"Her-shau-s."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12981-13098
+  quote_or_summary: '"The god Her-utu-f,"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 12981-13098
+  quote_or_summary: '"Salt."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 12981-13098
+  quote_or_summary: '"THE    BOOK   OF   AM-TUAT"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Entity and object extraction is based on explicit captions, but the passage
+    is fragmentary OCR/plate text with little continuous narrative. Motif identification
+    is therefore tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison beyond the tentative taxonomy placement.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l12981-l13098
+  passage_sha256=c736815eb1d1e2ad8cefccd3bcbb09015f96d96421cd232cc5d5dc3f725a56f7
+

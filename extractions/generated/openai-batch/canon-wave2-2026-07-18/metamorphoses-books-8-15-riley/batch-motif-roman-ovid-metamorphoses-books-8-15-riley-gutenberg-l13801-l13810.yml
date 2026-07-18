@@ -1,0 +1,112 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13801-l13810
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / THE END.; lines 13801-13810
+  start: '13801'
+  end: '13810'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: THE END.
+  summary: 'The passage is end matter: an end marker, a London printer imprint, and
+    decorative rows of asterisks.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage marks the conclusion with the words “THE END.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the text was printed in London by William Clowes and
+    Sons, Limited, with locations at Stamford Street and Charing Cross.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage ends with rows of asterisks arranged as typographic decoration
+    or separators.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: William Clowes and Sons, Limited
+  description: A named printing firm in the imprint.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: printer
+  assigned_to:
+  - fig:1
+  basis: The imprint says the work was printed by William Clowes and Sons, Limited.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: decorative asterisks
+  literal_form: Rows of asterisks after the imprint.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: End matter and printer imprint
+  summary: The passage presents the end marker, identifies the London printer, and
+    closes with decorative asterisk rows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13801-13801
+  quote_or_summary: "“THE END.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 13803-13804
+  quote_or_summary: "“London: Printed by William Clowes and Sons, Limited, / Stamford
+    Street and Charing Cross.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 13806-13810
+  quote_or_summary: Rows of asterisks appear after the printer imprint as typographic
+    decoration or separators.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic end matter rather than narrative mythology;
+    no motif candidates or comparative claims are supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological figures, actions, or motifs are present in this line range.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l13801-l13810
+  passage_sha256=cf40802219993728aa6eec76befa74b9abf6d4d20c067ac58e48a2ed7ddc27e8
+

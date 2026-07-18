@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6182-l6199
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: TEMPLES. / STATUES. / ALTARS. / PRIESTS.; lines 6182-6199
+  start: '6182'
+  end: '6199'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes ancient priests as a special social caste marked
+    by vestments and moral qualities, acting as mediators between gods and people
+    through prayers, sacrifices, and guidance about acceptable vows, gifts, and offerings.
+    It also describes separate priestly orders for each deity, high-priests supervising
+    sacred rites, and marriage or celibacy rules for priests and priestesses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Priests are described as a special social caste in ancient times.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Priests are distinguished by sacerdotal vestments, piety, wisdom, and blameless
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Priests are described as chosen mediators between gods and men.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Priests offer prayers and sacrifices in the name of the people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Priests instruct the people about vows, gifts, and offerings acceptable to
+    the gods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Every deity has a different order of priests consecrated to that deity's worship.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A high-priest is appointed in every place to supervise the rest of the order
+    and carry out more sacred rites and religious observances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Priests and priestesses are permitted to marry, but not a second time; some
+    voluntarily adopt celibacy.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: priests
+  description: A special social caste distinguished by vestments, piety, wisdom, and
+    blameless life; mediators who offer prayers and sacrifices and instruct the people
+    about acceptable vows, gifts, and offerings.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: gods
+  description: Divine recipients of prayers, sacrifices, vows, gifts, and offerings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: people
+  description: The community in whose name priests offer prayers and sacrifices and
+    whom priests instruct about acceptable vows, gifts, and offerings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: deity
+  description: Each deity has a distinct order of priests consecrated to that deity's
+    worship.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: high-priest
+  description: An appointed priest in each place who supervises the rest of the order
+    and performs more sacred rites and religious observances.
+  role_refs:
+  - role:6
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: priestesses
+  description: Female religious personnel permitted to marry once, with some voluntarily
+    adopting celibacy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: special priestly caste
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Priests are explicitly called a special social caste; priestesses are included
+    in the later rule about priestly marriage and celibacy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Priests offer prayers and sacrifices; high-priests carry out more sacred
+    rites and religious observances.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mediator between gods and people
+  assigned_to:
+  - fig:1
+  basis: The passage states that priests are chosen mediators between gods and men.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine recipient of worship
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Gods receive prayers, sacrifices, vows, gifts, and offerings; priestly orders
+    are consecrated to individual deities' worship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: worshipping community
+  assigned_to:
+  - fig:3
+  basis: Priests act in the name of the people and instruct them about acceptable
+    religious offerings.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: supervisor of priestly order
+  assigned_to:
+  - fig:5
+  basis: The high-priest superintends the rest of the order.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacerdotal vestments
+  literal_form: priestly garments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prayers and sacrifices
+  literal_form: ritual prayers and sacrifices offered in the people's name
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: vows, gifts, and offerings
+  literal_form: religious promises and material offerings acceptable to gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sacred rites and religious observances
+  literal_form: rites and observances performed by the high-priest
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Priests defined as a sacred social class
+  summary: Priests are described as a special caste marked by vestments and qualities
+    of piety, wisdom, and blameless conduct.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Priests mediate offerings between people and gods
+  summary: Priests act between gods and people by offering prayers and sacrifices
+    for the people and instructing them about vows, gifts, and offerings acceptable
+    to the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Priestly orders and high-priestly supervision
+  summary: Each deity has a separate consecrated priestly order, and each place has
+    a high-priest who supervises the order and performs more sacred rites.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Marriage and celibacy rules for priests and priestesses
+  summary: Priests and priestesses may marry once, while some voluntarily choose celibacy.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: priestly mediation between human and divine realms
+  taxonomy_refs: []
+  basis: The passage explicitly identifies priests as chosen mediators between gods
+    and men who act in the people's name.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an institutional-religious pattern rather than a narrative episode.
+- id: motif:2
+  label: sacrifice offered to gods
+  taxonomy_refs:
+  - sacrifice
+  basis: Priests are said to offer sacrifices in the name of the people.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no details about sacrificial victims, procedures, or
+    mythic context.
+- id: motif:3
+  label: sacred exchange through vows, gifts, and offerings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Priests instruct people about vows, gifts, and offerings that would be acceptable
+    to the gods.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes acceptable offerings but does not narrate a reciprocal
+    divine response.
+- id: motif:4
+  label: hierarchical sacred office
+  taxonomy_refs: []
+  basis: The passage describes separate priestly orders for each deity and a high-priest
+    who supervises other priests and performs more sacred rites.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches priestly hierarchy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6182-6186
+  quote_or_summary: Priests in ancient times are described as a special social caste,
+    distinguished by sacerdotal vestments, piety, wisdom, and blameless life.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6186-6190
+  quote_or_summary: Priests are chosen mediators between gods and men, offering prayers
+    and sacrifices for the people and instructing them about acceptable vows, gifts,
+    and offerings.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6194-6197
+  quote_or_summary: Each deity has a different priestly order, and each place has
+    a high-priest who supervises the rest and carries out more sacred rites and religious
+    observances.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 6199
+  quote_or_summary: Priests and priestesses may marry, but not a second time; some
+    voluntarily choose celibacy.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and institutional rather than narrative, so literal
+    extraction is straightforward while motif assignments are limited to clearly stated
+    ritual patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative connection to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6182-l6199
+  passage_sha256=63478b70677640ee1c58fc59633d5dd3674c2cb9bf1fc1dbb4e10901ff791484
+

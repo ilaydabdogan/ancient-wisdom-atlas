@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.norse-njals-saga-dasent-gutenberg-l13435-l13451
+source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+passage_locator:
+  label: CHAPTER CXXX. / OF KARI SOLMUND'S SON. / CHAPTER CXXXI. / NJAL'S AND BERGTHORA'S
+    BONES FOUND.; lines 13435-13451
+  start: '13435'
+  end: '13451'
+  translation: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Kari is unable to sleep at night. Asgrim wakes and asks whether he cannot
+    sleep. Kari answers with a verse saying that the memory or bidding of murdered
+    companions keeps him awake, and that men burned Njal, his house, and his household
+    the previous autumn. The prose adds that Kari often spoke of Njal, Skarphedinn,
+    Bergthora, and Helgi, but did not abuse or threaten his foes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kari cannot sleep at night.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Asgrim wakes during the night, hears that Kari is awake, and asks whether
+    Kari cannot sleep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kari responds by singing a verse.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the verse, Kari says that murdered messmates' bidding haunts his mind through
+    the night.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the verse, Kari says that men burned guileless Njal, together with his
+    house and home, the previous autumn.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Kari speaks often of Njal, Skarphedinn, Bergthora, and Helgi.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Kari does not abuse his foes and does not threaten them.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kari
+  description: A sleepless man who sings about his murdered companions and the burning
+    of Njal; he often speaks of Njal, Skarphedinn, Bergthora, and Helgi, and does
+    not threaten his foes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Asgrim
+  description: A man who wakes at night, hears that Kari is awake, and asks Kari whether
+    he cannot sleep.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Njal
+  description: Named by Kari in the verse as guileless and burned together with house
+    and home; also one of the people Kari often speaks about.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Skarphedinn
+  description: One of the people Kari often speaks about.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Bergthora
+  description: One of the people Kari often speaks about.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Helgi
+  description: One of the people Kari often speaks about.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Kari's foes
+  description: The foes whom Kari neither abuses nor threatens.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: the men who burned Njal
+  description: A group described in Kari's verse as having abused their brands and
+    burned Njal, house and home together.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sleepless speaker
+  assigned_to:
+  - fig:1
+  basis: Kari is awake at night and sings in response to Asgrim's question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: remembering survivor or companion
+  assigned_to:
+  - fig:1
+  basis: Kari says the bidding of murdered messmates haunts him and says he is mindful
+    of his hurt.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: nighttime questioner
+  assigned_to:
+  - fig:2
+  basis: Asgrim wakes, hears Kari awake, and asks him about his sleeplessness.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: burned victim
+  assigned_to:
+  - fig:3
+  basis: Kari's verse says men burned guileless Njal, house and home together.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: remembered named person
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The prose states that Kari spoke of these named people very often.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: unthreatened foes
+  assigned_to:
+  - fig:7
+  basis: Kari never abused his foes and never threatened them.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: burners of Njal's household
+  assigned_to:
+  - fig:8
+  basis: The verse identifies men who abused their brands and burned Njal with his
+    house and home.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire or burning
+  literal_form: brands used to burn Njal, house, and home
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sleepless night
+  literal_form: nighttime wakefulness and unsealed eyelids
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: haunting memory or bidding of the dead
+  literal_form: murdered messmates' bidding haunting Kari's mind through the night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Asgrim questions sleepless Kari
+  summary: At night Asgrim wakes, hears Kari awake, and asks whether he cannot sleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kari's song of remembered burning
+  summary: Kari sings that murdered companions haunt his mind at night and that men
+    burned Njal with his house and home the previous autumn.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Kari's speech about the dead and restraint toward foes
+  summary: Kari often speaks of Njal, Skarphedinn, Bergthora, and Helgi, while neither
+    abusing nor threatening his foes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sleepless survivor haunted by murdered companions
+  taxonomy_refs: []
+  basis: Kari cannot sleep, and his verse says murdered messmates' bidding haunts
+    his mind throughout the night.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as memory or mental haunting in verse; it does
+    not explicitly present a supernatural apparition.
+- id: motif:2
+  label: destruction of a household by burning
+  taxonomy_refs: []
+  basis: Kari's verse states that men burned Njal, house and home together.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage refers to a past burning rather than narrating the event directly.
+- id: motif:3
+  label: restraint in speech toward enemies after injury
+  taxonomy_refs: []
+  basis: The prose states that Kari never abused his foes and never threatened them,
+    despite being mindful of his hurt.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage reports the restraint but does not explain its motive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13435-13436
+  quote_or_summary: Kari could not sleep at night.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13435-13438
+  quote_or_summary: Asgrim wakes one night, hears Kari awake, and asks whether Kari
+    cannot sleep.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: line 13440
+  quote_or_summary: Kari sings a song in response.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 13442-13445
+  quote_or_summary: '"Sleep will not my eyelids seal" and "Still my murdered messmates''
+    bidding / Haunts my mind the livelong night".'
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 13446-13450
+  quote_or_summary: '"Burned last autumn guileless Njal, / Burned him house and home
+    together"; Kari is also "Mindful" of his hurt.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 13452-13453
+  quote_or_summary: Kari spoke of Njal, Skarphedinn, Bergthora, and Helgi more often
+    than of anyone else.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: line 13453
+  quote_or_summary: Kari never abused his foes and never threatened them.
+  source_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct. Motif labels are descriptive rather than taxonomy-linked
+    because the available motif families do not precisely fit a household burning
+    and sleepless survivor memory.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line references follow the supplied locator, though the provided excerpt includes content immediately after the nominal end line in the passage label.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:norse-njals-saga-dasent-gutenberg__l13435-l13451
+  passage_sha256=eb88c141029abb5e4b6b569e1733dd6aa6f187a4b5194d0a824e7ba6e57c3d13
+

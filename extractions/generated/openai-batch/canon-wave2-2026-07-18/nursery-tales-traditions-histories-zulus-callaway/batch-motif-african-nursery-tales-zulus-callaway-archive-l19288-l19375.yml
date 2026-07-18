@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19288-l19375
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UMKXAKAZA-WAKOGINGQWAYO. / IZINGANEKWANE. / UMKXAKAZA-WAKOGINGQWAYO. / UMKXAKAZA-WAKOGINGQWAYO.;
+    lines 19288-19375
+  start: '19288'
+  end: '19375'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Take a water-vessel, Ubalatusi, and go and fetch water from the river.”"
+  summary: A group identified as leaves enters a house and sends Ubalatusi to fetch
+    water from the river. When her water-vessel is full, Ubalatusi cannot leave the
+    river. The leaves then send Umkccakaza to look for water at home despite her objection
+    that she is of age and does not leave the umgong'o. She fetches water from another
+    house. The leaves then order her to light a fire, and she says she cannot.
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The leaves enter the house where others are sitting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The leaves tell Ubalatusi to take a water-vessel and fetch water from the
+    river.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ubalatusi fills the water-vessel at the river but cannot leave the place afterward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The leaves tell Umkccakaza to go out and look for water at home.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Umkccakaza says she is of age and does not yet quit the umgong'o.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Umkccakaza fetches water from another house and returns with it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The leaves tell Umkccakaza to light a fire, and she says she cannot light
+    a fire.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An editorial note describes Ubalatusi's inability to move as being spell-bound
+    and compares it with examples from other nursery tales.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the leaves
+  description: A group called the leaves gives commands in the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ubalatusi
+  description: A figure sent to fetch water from the river who becomes unable to leave
+    after filling the water-vessel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Umkccakaza
+  description: A figure ordered to seek water at home and later to light a fire; she
+    says she is of age and does not leave the umgong'o.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: command-givers
+  assigned_to:
+  - fig:1
+  basis: They instruct Ubalatusi to fetch water, instruct Umkccakaza to seek water,
+    and then tell Umkccakaza to light a fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: water-fetcher impeded at river
+  assigned_to:
+  - fig:2
+  basis: Ubalatusi is sent for water and becomes unable to leave the river after filling
+    the vessel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: reluctant household task performer
+  assigned_to:
+  - fig:3
+  basis: Umkccakaza objects to leaving the umgong'o but fetches water from another
+    house and is then told to light a fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water-vessel
+  literal_form: water-vessel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: river water
+  literal_form: water from the river
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fire-lighting task
+  literal_form: fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: umgong'o
+  literal_form: umgong'o
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ubalatusi sent to the river
+  summary: The leaves enter a house and order Ubalatusi to take a water-vessel to
+    the river for water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ubalatusi unable to leave
+  summary: At the river, Ubalatusi fills the water-vessel and then cannot leave the
+    place.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Umkccakaza sent for water at home
+  summary: The leaves order Umkccakaza to go out and find water at home. She objects
+    that she is of age and does not leave the umgong'o, but she fetches water from
+    another house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Order to light fire
+  summary: After Umkccakaza returns with water, the leaves tell her to light a fire,
+    and she replies that she cannot.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: spell-bound inability to leave after a task
+  taxonomy_refs: []
+  basis: Ubalatusi fills the water-vessel at the river but cannot leave the place,
+    and the editorial note explicitly identifies this as inability to move from being
+    spell-bound.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The spell itself is not described in the narrative excerpt; the label
+    'spell-bound' comes from the editorial note.
+- id: motif:2
+  label: testing or compelling a young woman through household tasks
+  taxonomy_refs:
+  - initiation
+  basis: The leaves compel Umkccakaza to fetch water and then to light a fire, despite
+    her statements about age status and inability.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not state the purpose of the commands, so an initiation-related
+    reading is tentative.
+- id: motif:3
+  label: water-fetching errand
+  taxonomy_refs: []
+  basis: Both Ubalatusi and Umkccakaza are directed to obtain water, one from the
+    river and one from another house.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a plain recurring action in the excerpt; no broader symbolic meaning
+    is asserted.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares Ubalatusi's inability to leave the river with
+    a wider nursery-tale pattern in which a person is magically fixed to a place or
+    object until released.
+  claim_level: same_motif
+  target: spell-bound binding to a place or object in nursery tales
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the editor's note, not by the Zulu narrative
+    voice; the excerpt itself does not explain the mechanism of the binding.
+- id: claim:2
+  claim: The editorial note specifically compares the treatment of Umkccakaza with
+    Hacon Grizzlebeard's method of subduing a proud princess.
+  claim_level: same_function
+  target: Hacon Grizzlebeard proud-princess subduing pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note gives only a brief comparison; the excerpt does not provide
+    enough surrounding plot to evaluate the functional parallel independently.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19288-19375, translated text
+  quote_or_summary: The leaves enter a house and say, “Take a water-vessel, Ubalatusi,
+    and go and fetch water from the river.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 19288-19375, translated text
+  quote_or_summary: At the river, Ubalatusi fills the water-vessel, and “when it was
+    full she was unable to leave the place.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 19288-19375, translated text
+  quote_or_summary: The leaves say, “Go out, Umkccakaza, and look for water here at
+    home.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 19288-19375, translated text
+  quote_or_summary: Umkccakaza replies, “I am of age, and I do not yet quit the umgong'o.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 19288-19375, translated text
+  quote_or_summary: Umkccakaza fetches water from another house; after she returns,
+    the leaves tell her to light a fire, and she says she cannot light a fire.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 19288-19375, footnote 32
+  quote_or_summary: The note says that inability to move from being spell-bound is
+    common in nursery tales and gives examples involving people fixed to doors, gates,
+    calves, a golden goose, a boat, a pear-tree, a chair, and a steel purse.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 19288-19375, footnote 33
+  quote_or_summary: The note compares the treatment of Umkccakaza with the method
+    adopted by Hacon Grizzlebeard to subdue a proud princess.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative actions are clear, but the excerpt begins mid-context
+    and ends before the fire-lighting command is resolved. Some motif labeling depends
+    on editorial footnotes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the available motif-family and symbol lists.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19288-l19375
+  passage_sha256=fe31a1d27ee88dfa8193ee04b7aaeeb29b2e97e899b9ed85a9e6765e3d11ad7d
+

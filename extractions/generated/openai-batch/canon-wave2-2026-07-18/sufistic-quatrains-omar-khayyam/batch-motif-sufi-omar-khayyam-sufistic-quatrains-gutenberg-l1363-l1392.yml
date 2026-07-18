@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1363-l1392
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLVI. / XLVII. / XLVIII. / XLIX.; lines 1363-1392
+  start: '1363'
+  end: '1392'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"The Moving Finger writes; and, having writ, / Moves on"'
+  summary: Four quatrains present human life through images of a game board ruled
+    by Destiny, a ball struck by a Player, an irreversible written line, and the sky
+    as an inverted bowl under which people live and die without receiving help from
+    it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The world is described as a chequer-board made of nights and days.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Destiny plays with men as pieces on the board.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The pieces are moved, mated, slain, and laid back one by one in a closet.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A ball asks no questions of yes or no and goes right or left according to
+    the Player's strike.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A figure called He is said to have tossed the addressed person down into the
+    field and to know all about it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Moving Finger writes, moves on, and cannot be lured back by piety or wit
+    to cancel part of a line.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tears cannot wash out a word written by the Moving Finger.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The sky is described as an inverted bowl under which people crawl, confined,
+    and live and die.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The addressee is told not to lift hands to the sky for help because it rolls
+    impotently on.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Destiny
+  description: An abstract agent that plays with men as game pieces, moving, mating,
+    slaying, and laying them away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Men / human beings
+  description: A collective human figure represented as pieces in Destiny's game and
+    as people living and dying under the sky.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Player / He
+  description: A controlling figure associated with striking the ball and with having
+    tossed the addressed person into the field; this figure is said to know all about
+    it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Thee / Thou
+  description: The addressed person, described as tossed down into the field and included
+    among those living under the sky.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: The Moving Finger
+  description: A writing agency that writes and then moves on, leaving words that
+    cannot be cancelled or washed out.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: The Sky / inverted Bowl
+  description: The sky is named as an inverted bowl and described as rolling impotently
+    on.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mover and disposer
+  assigned_to:
+  - fig:1
+  basis: Destiny plays with men as pieces and moves, mates, slays, and lays them away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: played-with pieces / confined mortals
+  assigned_to:
+  - fig:2
+  basis: Men are called pieces in Destiny's game and are also described as living
+    and dying under the sky.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: striker, caster, and knower
+  assigned_to:
+  - fig:3
+  basis: The Player strikes the ball, and He is said to have tossed the addressee
+    into the field and to know all about it.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: addressed participant
+  assigned_to:
+  - fig:4
+  basis: The addressed person is placed in the field and later told not to seek help
+    from the sky.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: irrevocable writer
+  assigned_to:
+  - fig:5
+  basis: The Moving Finger writes, moves on, and its writing cannot be cancelled or
+    washed away.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: impotent enclosure
+  assigned_to:
+  - fig:6
+  basis: The sky is an inverted bowl over human life and is said to roll on impotently.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: chequer-board of Nights and Days
+  literal_form: A chequer-board made of nights and days.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: men as pieces
+  literal_form: Men represented as game pieces.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: closet for pieces
+  literal_form: A closet into which pieces are laid back one by one.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ball and field
+  literal_form: A ball in a field, moving right or left according to the Player's
+    strike.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Moving Finger and written line
+  literal_form: A finger writing a line and moving on from it.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: tears unable to wash a word
+  literal_form: Tears that cannot wash out a written word.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: inverted Bowl / Sky
+  literal_form: The sky imagined as an inverted bowl over living and dying people.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Destiny's chequer-board
+  summary: Destiny plays with men as pieces on a board of nights and days, moving,
+    mating, slaying, and laying them away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The ball in the field
+  summary: A ball goes right or left according to the Player's strike, and the addressed
+    person is said to have been tossed into the field by one who knows all.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The irreversible writing
+  summary: The Moving Finger writes and moves on; piety, wit, and tears cannot reverse
+    or erase its writing.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Under the inverted sky
+  summary: People live and die beneath the sky imagined as an inverted bowl, and the
+    addressee is told not to ask it for help because it rolls on impotently.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: life as a game controlled by destiny
+  taxonomy_refs: []
+  basis: The passage depicts human beings as pieces on a board moved by Destiny and
+    also uses a ball and Player image for directed motion without questioning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy list does not include a precise fate-game motif;
+    no external source comparison is asserted.
+- id: motif:2
+  label: irrevocable written fate
+  taxonomy_refs: []
+  basis: The Moving Finger writes and moves on, and neither piety, wit, nor tears
+    can cancel or wash out its writing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly name the writing as fate or decree; that
+    label is inferred from the image's function in context.
+- id: motif:3
+  label: transcendent player or knower over human action
+  taxonomy_refs: []
+  basis: The Player directs the ball, and He who tossed the addressee into the field
+    is said to know all about it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity of the Player and the emphasized He is not fully explained
+    within the passage.
+- id: motif:4
+  label: enclosed and unhelpful cosmos
+  taxonomy_refs: []
+  basis: The sky is presented as an inverted bowl under which people live and die,
+    and it is described as unable to help.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage focuses on the sky's impotence rather than developing a broader
+    cosmological myth.
+- id: motif:5
+  label: paired opposites as the field of mortal movement
+  taxonomy_refs:
+  - duality
+  basis: The imagery includes Nights and Days, Ayes and Noes, and Right and Left as
+    paired terms within the game and ball scenes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The duality reference is broad; the passage uses paired terms poetically
+    rather than presenting a formal dualist system.
+- id: motif:6
+  label: gnomic reflection on limits of human agency
+  taxonomy_refs:
+  - wisdom
+  basis: The four quatrains make aphoristic statements about human inability to control
+    Destiny, the Player's action, irreversible writing, or the sky.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wisdom taxonomy ref is general and functional; the passage itself
+    does not name a wisdom genre.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XLIX, within lines 1363-1392
+  quote_or_summary: '"''Tis all a Chequer-board of Nights and Days / Where Destiny
+    with Men for Pieces plays"; Destiny moves, mates, slays, and lays pieces back
+    in a closet.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: L, within lines 1363-1392
+  quote_or_summary: '"The Ball no Question makes of Ayes and Noes"; it goes right
+    or left as the Player strikes, and He who tossed the addressee into the field
+    knows all.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: LI, within lines 1363-1392
+  quote_or_summary: '"The Moving Finger writes; and, having writ, / Moves on"; piety,
+    wit, and tears cannot cancel or wash out the writing.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: LII, within lines 1363-1392
+  quote_or_summary: '"that inverted Bowl we call The Sky"; people live and die beneath
+    it, and the addressee is told not to seek help from it because it rolls on impotently.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the images are explicit and
+    repeated. Motif labels are medium confidence where they generalize the metaphoric
+    function of the quatrains. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator, metadata, and available taxonomy refs. No historical-contact or external-tradition claims are asserted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1363-l1392
+  passage_sha256=ce7b5c04770cb64a7aabf3a604fabf5f1344729f4aa86ff349807078041408c2
+

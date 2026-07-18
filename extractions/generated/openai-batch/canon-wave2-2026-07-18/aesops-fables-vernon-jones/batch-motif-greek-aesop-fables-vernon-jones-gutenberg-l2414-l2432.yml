@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2414-l2432
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG AT THE POOL / THE DOG AND THE SHADOW / MERCURY AND THE TRADESMEN
+    / THE MICE AND THE WEASELS; lines 2414-2432
+  start: '2414'
+  end: '2432'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Greatness carries its own penalties.
+  summary: The Mice, repeatedly defeated by the Weasels, appoint the biggest Mice
+    as leaders and give them plume-bearing helmets as rank markers. When the Mice
+    are defeated again, ordinary Mice escape into their holes, while the leaders are
+    hindered by their rank badges and are caught by their pursuers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: There is war between the Mice and the Weasels, and the Mice repeatedly suffer
+    defeat, with many killed and eaten.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mice call a council of war.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An old Mouse says the Mice lose because they have no generals to plan battles
+    and direct field movements.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Mice choose the biggest Mice to be their leaders.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The chosen leaders distinguish themselves from the rank and file by wearing
+    helmets with large plumes of straw.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Mice go into battle confident of victory but are defeated as usual.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Mice flee toward their holes, and most reach safety without difficulty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The leaders are hindered by their badges of rank, cannot get into their holes,
+    and fall to their pursuers.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The closing moral says that greatness carries its own penalties.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Mice
+  description: A collective group at war with the Weasels; they repeatedly lose, call
+    a council, choose leaders, and flee to their holes after defeat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: The Weasels
+  description: The opposing group in the war; they defeat the Mice, kill and eat many
+    of them, and pursue them after battle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: An old Mouse
+  description: A Mouse who speaks at the council of war and argues that the Mice need
+    generals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The biggest Mice / leaders
+  description: The Mice chosen as leaders; they wear plume-bearing helmets as badges
+    of rank and are unable to enter their holes during the retreat.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Repeatedly defeated combatants
+  assigned_to:
+  - fig:1
+  basis: The Mice always get the worst of the war and are defeated again after choosing
+    leaders.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Enemy pursuers
+  assigned_to:
+  - fig:2
+  basis: The Weasels kill and eat Mice and pursue them after battle.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: Council adviser
+  assigned_to:
+  - fig:3
+  basis: The old Mouse addresses the council and proposes that lack of generals explains
+    their defeats.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Chosen leaders
+  assigned_to:
+  - fig:4
+  basis: The biggest Mice are chosen to lead the Mice into battle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Bearers of rank badges
+  assigned_to:
+  - fig:4
+  basis: The leaders wear helmets with straw plumes to distinguish themselves and
+    are later hampered by those badges.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Badges of rank
+  literal_form: Helmets bearing large plumes of straw
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Holes as places of refuge
+  literal_form: Mouse holes
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: War and council
+  summary: The Mice are losing a war against the Weasels and hold a council where
+    an old Mouse says they need generals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Leaders appointed and marked
+  summary: The Mice choose the biggest among them as leaders, and the leaders put
+    on plume-bearing helmets to distinguish their rank.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Defeat and failed escape of leaders
+  summary: After another defeat, the Mice flee to their holes; most escape, but the
+    leaders cannot enter because of their rank badges and are caught by their pursuers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Rank or greatness brings its own penalty
+  taxonomy_refs: []
+  basis: The leaders' visible rank markers prevent their escape, and the moral explicitly
+    states that greatness carries penalties.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is the passage's stated moral rather than a broader taxonomy assignment.
+- id: motif:2
+  label: Status marker becomes fatal hindrance
+  taxonomy_refs: []
+  basis: The plume-bearing helmets that distinguish the leaders from the rank and
+    file also keep them from entering their holes during retreat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not connect this pattern to a named comparative motif
+    family.
+- id: motif:3
+  label: Misguided remedy for repeated defeat
+  taxonomy_refs: []
+  basis: The Mice respond to repeated losses by appointing leaders, but the new leadership
+    structure does not prevent defeat and causes the leaders' capture.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes the penalty of greatness more directly than military
+    misjudgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2414-2418
+  quote_or_summary: The fable is titled THE MICE AND THE WEASELS; the Mice and Weasels
+    are at war, and the Mice repeatedly lose, with many killed and eaten.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 2418-2421
+  quote_or_summary: At a council of war, an old Mouse says the Mice are beaten because
+    they have no generals to plan and direct their battles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 2421-2424
+  quote_or_summary: The Mice choose the biggest Mice as leaders, and those leaders
+    wear helmets with large straw plumes to distinguish themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 2424-2430
+  quote_or_summary: The Mice are defeated again and flee to their holes; most escape,
+    but the leaders are hampered by rank badges, cannot enter, and fall to the pursuers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: quote
+  locator: '2432'
+  quote_or_summary: Greatness carries its own penalties.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are passage-level descriptions without external taxonomy claims. No comparison
+    claims are made because the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned; the passage supports local fable motifs concerning rank, status markers, and consequences.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2414-l2432
+  passage_sha256=fc10b40c2f47ddc39b639ecfb35d85b890bbe680f0e3e6cb5dfcab4d89b5048a
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3552-l3565
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BIRDS, THE BEASTS, AND THE BAT / THE MAN AND HIS TWO SWEETHEARTS / THE
+    EAGLE, THE JACKDAW, AND THE SHEPHERD / THE WOLF AND THE BOY; lines 3552-3565
+  start: '3552'
+  end: '3565'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"if you can say three things to me, the truth of which cannot be disputed,
+    I will spare your life."'
+  summary: A wolf who has just eaten sees a boy lying on the ground and trying to
+    hide from him. The wolf offers to spare the boy if he can state three indisputable
+    truths. The boy gives three statements about being seen and about hatred of wolves
+    for attacking flocks, and the wolf accepts the answer and lets him go.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wolf has just eaten and is in a playful mood when he sees the boy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy lies flat on the ground and is trying to hide because he fears the
+    wolf.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf tells the boy that he will spare his life if the boy can say three
+    indisputable truths.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The boy gathers courage, thinks, and gives three statements: that it is a
+    pity the wolf saw him, that he was foolish to be seen, and that people hate wolves
+    for unprovoked attacks on their flocks.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wolf says the boy's statements are true enough from the boy's point of
+    view and allows him to leave.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf who has just eaten, notices the hiding boy, sets a condition
+    for sparing the boy's life, and then releases him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Boy
+  description: A boy lying flat on the ground in fear of the wolf; he answers the
+    wolf's challenge with three statements and is released.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Flocks
+  description: The boy refers to human flocks as targets of unprovoked wolf attacks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: threatening predator
+  assigned_to:
+  - fig:1
+  basis: The boy fears the wolf, and the wolf frames the encounter as a matter of
+    sparing the boy's life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: challenge-giver and judge of truth
+  assigned_to:
+  - fig:1
+  basis: The wolf requires three indisputable truths and later judges the boy's statements
+    acceptable.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: endangered hider
+  assigned_to:
+  - fig:2
+  basis: The boy lies flat, tries to hide, and is afraid of the wolf.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: successful truth-speaker
+  assigned_to:
+  - fig:2
+  basis: The boy gives three statements that the wolf accepts as true enough.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: attacked property or herd
+  assigned_to:
+  - fig:3
+  basis: The flocks are mentioned as the objects of unprovoked wolf attacks.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: three indisputable truths
+  literal_form: A verbal test requiring three statements whose truth cannot be disputed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: life spared by answer
+  literal_form: The boy's life is made conditional on giving an acceptable verbal
+    answer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wolf discovers the hiding boy
+  summary: After eating, the wolf sees a boy lying flat on the ground and understands
+    that the boy is hiding out of fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Truth challenge and release
+  summary: The wolf sets a three-truth condition for sparing the boy. The boy gives
+    three statements, and the wolf accepts them and lets him go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: life spared through truthful speech
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf offers to spare the boy if he can utter three indisputable truths;
+    the boy answers successfully and is released.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broad; the passage presents a
+    fable-like clever answer rather than an explicitly mythic wisdom episode.
+- id: motif:2
+  label: threefold verbal test
+  taxonomy_refs: []
+  basis: The wolf specifically demands three things whose truth cannot be disputed,
+    and the boy responds with three statements.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not attach symbolic meaning to the number three beyond
+    the test structure.
+- id: motif:3
+  label: predator grants conditional mercy to prey
+  taxonomy_refs: []
+  basis: The wolf, a threatening figure, conditions the boy's survival on a successful
+    response and then lets him go.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a narrative pattern within the fable; no broader historical or
+    cross-cultural connection is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3552-3557
+  quote_or_summary: A wolf who has just enjoyed a meal and is playful sees a boy lying
+    flat on the ground, recognizes that the boy is hiding, and understands that fear
+    of the wolf motivates him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 3557-3559
+  quote_or_summary: '"if you can say three things to me, the truth of which cannot
+    be disputed, I will spare your life."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 3560-3563
+  quote_or_summary: 'The boy takes courage and says three things: it is a pity the
+    wolf saw him; he was foolish to let himself be seen; and people hate wolves because
+    wolves make unprovoked attacks on flocks.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 3564-3565
+  quote_or_summary: '"Well, what you say is true enough from your point of view; so
+    you may go."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the supplied taxonomy is broad and the passage is an Aesopic fable rather than
+    a mythological narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No taxonomy symbol refs were applied because none of the available symbol terms appears in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3552-l3565
+  passage_sha256=353928609c9ea8bcd0e3e6dd86603178711811ddd3e39b581a9115dbf9382f4a
+

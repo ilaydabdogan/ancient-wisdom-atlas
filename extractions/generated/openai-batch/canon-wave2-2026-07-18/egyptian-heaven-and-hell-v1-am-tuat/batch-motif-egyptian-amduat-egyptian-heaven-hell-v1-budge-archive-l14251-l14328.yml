@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l14251-l14328
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: D    D / J    AAAAAA / AAAAAA / AAAAAA  I  I  I     K; lines 14251-14328
+  start: '14251'
+  end: '14328'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes figures with paddles who drive Apep to the back of
+    the sky after the god's birth. Their daily work is to hold up the Great Disk in
+    the eastern horizon. It also names the serpent Senmekhef, which burns up the enemies
+    of Ea at dawn, and says these gods follow the great god around the heights of
+    heaven and receive protection for this Circle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Figures in the picture have paddles and drive Apep to the back of the sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The driving of Apep occurs after the birth of the god.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work of these figures is to hold up the Great Disk in the eastern horizon
+    of the sky every day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A serpent named Senmekhef burns up the enemies of Ea at dawn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The gods go around the heights of heaven following the great god every day.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gods receive protection for this Circle.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: paddle-bearing gods in the picture
+  description: Those in the picture with paddles who drive Apep, hold up the Great
+    Disk, go around heaven following the great god, and receive protection.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Apep
+  description: A being driven to the back of the sky by the paddle-bearing figures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the god
+  description: A god whose birth precedes the driving of Apep.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Senmekhef
+  description: A serpent that burns up the enemies of Ea at dawn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: enemies of Ea
+  description: Enemies burned up by the serpent Senmekhef at dawn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the great god
+  description: A great god whom the gods follow around the heights of heaven every
+    day.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: drivers of Apep
+  assigned_to:
+  - fig:1
+  basis: The passage says those with paddles drive Apep to the back of the sky.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supporters of the Great Disk
+  assigned_to:
+  - fig:1
+  basis: Their daily work is to hold up the Great Disk in the eastern horizon.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: driven sky adversary
+  assigned_to:
+  - fig:2
+  basis: Apep is driven to the back of the sky.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: burning serpent
+  assigned_to:
+  - fig:4
+  basis: Senmekhef is called a serpent and burns up enemies at dawn.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: followers in heaven
+  assigned_to:
+  - fig:1
+  basis: The gods go around the heights of heaven following the great god every day.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: newly born god
+  assigned_to:
+  - fig:3
+  basis: The passage refers to action after the birth of the god.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: burned enemies
+  assigned_to:
+  - fig:5
+  basis: The enemies of Ea are burned up by Senmekhef at dawn.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: followed great god
+  assigned_to:
+  - fig:6
+  basis: The gods follow this great god around the heights of heaven every day.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: paddles
+  literal_form: paddles held by the figures in the picture
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Apep
+  literal_form: Apep, driven to the back of the sky
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Great Disk
+  literal_form: the Great Disk held up in the eastern horizon of the sky every day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: eastern horizon of the sky
+  literal_form: the Eastern Horizon of the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: serpent Senmekhef
+  literal_form: the serpent Senmekhef
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: burning at dawn
+  literal_form: Senmekhef burns up enemies at dawn
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: heights of heaven
+  literal_form: the heights of heaven around which the gods go
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Circle
+  literal_form: the Circle for which the gods receive protection
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Apep driven to the back of the sky
+  summary: Paddle-bearing figures drive Apep to the back of the sky after the birth
+    of the god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Great Disk held in the eastern horizon
+  summary: The paddle-bearing figures hold up the Great Disk in the eastern horizon
+    of the sky every day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Senmekhef burns enemies at dawn
+  summary: The serpent Senmekhef burns up the enemies of Ea at dawn.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Daily circuit in the heights of heaven
+  summary: The gods go around the heights of heaven following the great god every
+    day and receive protection for the Circle.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent as active cosmic figure
+  taxonomy_refs:
+  - serpent
+  basis: The passage names Senmekhef as a serpent that burns enemies at dawn, and
+    it also includes Apep as a being driven to the back of the sky.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly classify Apep as a serpent in this excerpt,
+    so the serpent taxonomy is most directly supported by Senmekhef.
+- id: motif:2
+  label: daily celestial circuit with divine following
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The gods go around the heights of heaven every day in the following of the
+    great god and receive protection for the Circle.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt describes a daily heavenly circuit but does not provide a
+    full journey map by itself.
+- id: motif:3
+  label: support of the solar disk at dawn horizon
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The figures hold up the Great Disk in the eastern horizon of the sky every
+    day, and Senmekhef acts at dawn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage calls the object the Great Disk; identifying it more specifically
+    as solar is suggested by dawn and horizon language but should be reviewed.
+- id: motif:4
+  label: divine enemies burned at dawn
+  taxonomy_refs:
+  - fire
+  basis: Senmekhef burns up the enemies of Ea at dawn.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy term is a symbol rather than a motif family; no
+    broader judgment or annihilation motif is asserted.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the motif-family level with serpent traditions
+    because it features a named serpent, Senmekhef, acting against divine enemies.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level comparison only; the passage does not support
+    claims of historical contact or broader cross-cultural derivation.
+- id: claim:2
+  claim: The passage can be compared functionally with afterlife or celestial journey-map
+    patterns because it describes gods moving daily around the heights of heaven and
+    receiving protection for a Circle.
+  claim_level: same_function
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives only a short description of a daily heavenly circuit
+    and does not itself map a complete route.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14251-14328
+  quote_or_summary: '"Those who are in this picture with their paddles drive Apep
+    to the back of the sky, after the birth of the god."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14251-14328
+  quote_or_summary: '"Their work is to hold up the Great Disk in the Eastern Horizon
+    of the sky every day."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 14251-14328
+  quote_or_summary: '"Behold the serpent Senmekhef which burneth up the enemies of
+    Ea at the dawn!"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 14251-14328
+  quote_or_summary: '"These gods go round about the heights of heaven in the following
+    of this great god every day, and they receive their protection for this Circle."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The English passage is brief and surrounded by OCR/glyph material. Literal
+    actions and named figures are clear, but broader motif assignments remain cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l14251-l14328
+  passage_sha256=699fe74f62672256d91339ebf476deebce10b62cc6ede09d88167b110ade8468
+

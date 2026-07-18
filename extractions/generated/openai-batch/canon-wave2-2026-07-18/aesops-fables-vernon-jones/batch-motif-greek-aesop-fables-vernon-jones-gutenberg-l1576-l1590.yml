@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1576-l1590
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GNAT AND THE BULL / THE BEAR AND THE TRAVELLERS / THE SLAVE AND THE LION
+    / THE FLEA AND THE MAN; lines 1576-1590
+  start: '1576'
+  end: '1590'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A flea repeatedly bites a man. The man searches for it, catches it, and
+    holds it. The flea begs for its life, saying it is too small to do much harm.
+    The man refuses mercy, saying that whatever is bad must be destroyed regardless
+    of how slight its harm is. The stated moral warns not to waste pity on a scamp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flea bites a man repeatedly until he can no longer endure it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man makes a thorough search and catches the flea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man holds the flea between his finger and thumb and angrily questions
+    it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The flea is described as terrified and speaks in a weak little voice.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The flea begs the man not to kill it and argues that it is too little to do
+    much harm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man laughs and says he will kill the flea at once.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man states a general rule that whatever is bad must be destroyed, no matter
+    how slight the harm it does.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'The passage ends with the moral: do not waste pity on a scamp.'
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Flea
+  description: A small biting creature that repeatedly bites the man, is caught, becomes
+    terrified, and begs not to be killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Man
+  description: A person bitten by the flea who searches for it, catches it, questions
+    it angrily, and refuses its plea for mercy.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: harmful small offender
+  assigned_to:
+  - fig:1
+  basis: The flea repeatedly bites the man and is later treated as something bad despite
+    its small size.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: supplicant for mercy
+  assigned_to:
+  - fig:1
+  basis: The flea begs to be released and not killed.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: injured captor
+  assigned_to:
+  - fig:2
+  basis: The man is repeatedly bitten, searches for the flea, and catches it.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: punisher who refuses mercy
+  assigned_to:
+  - fig:2
+  basis: The man rejects the flea’s plea and says he will kill it at once.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: small harmful creature
+  literal_form: flea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: restraining grasp
+  literal_form: holding the flea between finger and thumb
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Repeated biting and capture
+  summary: The flea repeatedly bites the man until he searches for it and catches
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Confrontation with the captive flea
+  summary: The man holds the flea between finger and thumb and angrily asks who it
+    is to treat his body so freely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plea refused and moral stated
+  summary: The flea pleads that it is too small to do much harm, but the man says
+    he will kill it because bad things must be destroyed regardless of the degree
+    of harm; the moral warns against pitying a scamp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: small offender pleads harmlessness
+  taxonomy_refs: []
+  basis: The flea asks not to be killed and argues that its small size means it cannot
+    do much harm.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local fable pattern rather than a named taxonomy motif in the
+    supplied list.
+- id: motif:2
+  label: refusal of mercy to a harmful scamp
+  taxonomy_refs:
+  - wisdom
+  basis: The man rejects the plea and states that whatever is bad must be destroyed,
+    while the closing moral instructs not to waste pity on a scamp.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference “wisdom” is broad; the passage supports it only
+    as a moralizing fable lesson.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1576-1590
+  quote_or_summary: A flea repeatedly bites a man until he can no longer endure it;
+    he searches thoroughly and catches it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1576-1590
+  quote_or_summary: The man holds the flea between his finger and thumb and angrily
+    asks who it is to make free with his person.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1576-1590
+  quote_or_summary: The terrified flea begs to be let go and not killed, saying it
+    is such a little thing that it cannot do much harm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1576-1590
+  quote_or_summary: The man laughs and says he will kill the flea at once because
+    whatever is bad must be destroyed, however slight its harm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 1576-1590
+  quote_or_summary: "“Do not waste your pity on a scamp.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative details and moral are explicit. Motif labeling is cautious
+    because the supplied taxonomy has only a broad “wisdom” category applicable to
+    the moralizing function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1576-l1590
+  passage_sha256=e7fd443df3c0c3a2c92d6aca115373f9369916e1c9955b2c44372fce871adf78
+

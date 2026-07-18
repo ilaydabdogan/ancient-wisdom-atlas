@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3473-l3487
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE WOLF / THE MONKEY AND THE CAMEL / THE SICK MAN AND THE DOCTOR
+    / THE TRAVELLERS AND THE PLANE-TREE; lines 3473-3487
+  start: '3473'
+  end: '3487'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two travellers on a hot, dusty summer road take shelter under a plane-tree.
+    One traveller calls the tree useless because it bears no fruit and offers no service
+    to humans. The personified tree rebukes him for enjoying its shade while abusing
+    it. The stated moral is that many services are met with ingratitude.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two travellers walk along a bare and dusty road during the heat of a summer
+    day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travellers turn aside to shelter beneath a plane-tree from the sun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The plane-tree is described as having deep shade, spreading branches, and
+    foliage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: One traveller says the plane-tree is useless, bears no fruit, and is of no
+    service to humans.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The plane-tree interrupts and rebukes the traveller for using its shade while
+    insulting it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage ends with the moral that many services are met with ingratitude.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Two Travellers
+  description: A pair of travellers walking on a hot, dusty road who rest in the shade
+    of the plane-tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: One traveller
+  description: One of the travellers who complains that the plane-tree is useless
+    and of no service to humans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Plane-tree
+  description: A personified tree with spreading branches and shade; it speaks indignantly
+    to the traveller who insults it.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: Shelter-seeking travellers
+  assigned_to:
+  - fig:1
+  basis: They walk in summer heat and turn aside to shelter under the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Ungrateful critic
+  assigned_to:
+  - fig:2
+  basis: He calls the tree useless while benefiting from its shade.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Benefactor providing shade
+  assigned_to:
+  - fig:3
+  basis: The travellers take shelter under the tree from the sun and enjoy its cool
+    shade.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Personified reprover
+  assigned_to:
+  - fig:3
+  basis: The tree speaks and rebukes the traveller for ingratitude.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Tree
+  literal_form: Plane-tree with spreading branches, foliage, and shade.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Shade
+  literal_form: Deep, cool shade from the plane-tree that shelters the travellers
+    from the sun.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shelter under the plane-tree
+  summary: On a hot, dusty summer road, two travellers stop beneath a plane-tree for
+    shade.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Complaint and rebuke
+  summary: One traveller calls the tree useless, and the personified tree rebukes
+    him for insulting it while enjoying its shade.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Moral statement
+  summary: The fable concludes that services are often answered with ingratitude.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ingratitude toward a benefactor
+  taxonomy_refs: []
+  basis: The traveller benefits from the tree’s shade but calls the tree useless;
+    the moral explicitly names ingratitude toward service.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level fable motif label, not a supplied taxonomy ID.
+- id: motif:2
+  label: Personified tree reproves human speech
+  taxonomy_refs: []
+  basis: The plane-tree is treated as a speaking figure that interrupts and rebukes
+    the traveller.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents personification within a fable; no broader sacred-tree
+    or axis-mundi function is stated.
+- id: motif:3
+  label: Practical benefit overlooked because it is not fruit-bearing
+  taxonomy_refs: []
+  basis: The traveller dismisses the tree because it bears no fruit, while the tree
+    points to the shelter it is already providing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an inferred motif from the contrast between fruitlessness and
+    shade-service.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3473-3475
+  quote_or_summary: Two travellers walk along a bare, dusty road in the heat of a
+    summer day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3475-3478
+  quote_or_summary: They come to a plane-tree and take shelter from the sun in the
+    deep shade of its spreading branches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3478-3481
+  quote_or_summary: "“What a useless tree the Plane is! It bears no fruit and is of
+    no service to man at all.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote.
+- id: ev:4
+  type: summary
+  locator: 3481-3486
+  quote_or_summary: The plane-tree angrily calls the speaker ungrateful and says he
+    is abusing it while enjoying the cool shade of its foliage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: '3487'
+  quote_or_summary: "“Many a service is met with ingratitude.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the provided fable. Motif labels
+    are descriptive and passage-based; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The broader passage locator label lists multiple fables, but the supplied passage text contains only “THE TRAVELLERS AND THE PLANE-TREE.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3473-l3487
+  passage_sha256=cb81d7c725afc0cf24bea86b86b6c4a137e06558fab07c1b5b0812df92b1e452
+

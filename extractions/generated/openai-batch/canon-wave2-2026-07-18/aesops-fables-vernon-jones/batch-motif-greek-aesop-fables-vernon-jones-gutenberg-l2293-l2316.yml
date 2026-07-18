@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2293-l2316
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TRAVELLER AND HIS DOG / THE SHIPWRECKED MAN AND THE SEA / THE WILD BOAR
+    AND THE FOX / MERCURY AND THE SCULPTOR; lines 2293-2316
+  start: '2293'
+  end: '2316'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a wild boar sharpens his tusks on a tree before any visible
+    danger, explaining to a fox that he must be ready before danger arrives. In the
+    next, Mercury disguises himself as a man to learn how people value him, asks a
+    sculptor the prices of statues of Jupiter, Juno, and himself, and hears that his
+    own statue would be included for free if the others are bought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wild boar is in a forest whetting his tusks on the trunk of a tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fox sees the boar and asks why he is sharpening his tusks when huntsmen
+    are not out and no other danger is apparent.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boar replies that when his life is in danger he will need his tusks immediately
+    and will not have time to sharpen them then.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mercury wants to know how mankind estimates him.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mercury disguises himself as a man and enters a sculptor's studio.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sculptor's studio contains multiple finished statues ready for sale.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mercury asks the prices of statues of Jupiter, Juno, and himself.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The sculptor values the Jupiter statue at a crown, the Juno statue at half
+    a crown, and offers to include the Mercury statue for nothing if the other two
+    are bought.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wild Boar
+  description: Animal figure who whets his tusks on a tree before danger is present.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Fox
+  description: Animal figure who questions the boar's preparation because no immediate
+    danger is visible.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Huntsmen
+  description: Human hunters mentioned by the fox as not being out that day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mercury
+  description: Named figure who disguises himself as a man to learn how he is valued
+    by mankind.
+  role_refs:
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Sculptor
+  description: Studio owner or maker who states the prices of the statues.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Jupiter
+  description: Named subject of a statue in the sculptor's studio.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Juno
+  description: Named subject of a statue in the sculptor's studio.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prepared defender
+  assigned_to:
+  - fig:1
+  basis: The boar sharpens his tusks before danger because he expects to need them
+    when danger comes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: questioning observer
+  assigned_to:
+  - fig:2
+  basis: The fox asks why the boar is sharpening his tusks when no danger is apparent.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: absent threat
+  assigned_to:
+  - fig:3
+  basis: The huntsmen are mentioned as not out that day, framing the fox's claim that
+    danger is absent.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: disguised inquirer
+  assigned_to:
+  - fig:4
+  basis: Mercury disguises himself as a man to learn how he is regarded by mankind.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: seller and appraiser
+  assigned_to:
+  - fig:5
+  basis: The sculptor gives prices for the statues and offers the Mercury statue as
+    an add-on for nothing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: represented figure in priced statue
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: Statues representing Jupiter, Juno, and Mercury are each brought into the
+    pricing exchange.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: unexpectedly low-valued self-image
+  assigned_to:
+  - fig:4
+  basis: The statue of Mercury is offered for no additional price if the other two
+    statues are purchased.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree trunk
+  literal_form: The trunk of a tree used by the boar to whet his tusks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sharpened tusks
+  literal_form: The boar's tusks, sharpened before they are needed for danger.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: human disguise
+  literal_form: Mercury's disguise as a man.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sculptor's studio
+  literal_form: A studio containing finished statues ready for sale.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: statue of Jupiter
+  literal_form: A finished statue of Jupiter offered for sale.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: statue of Juno
+  literal_form: A finished statue of Juno offered for sale.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: statue of Mercury
+  literal_form: A finished statue of Mercury, pointed out by Mercury himself.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: price scale
+  literal_form: 'The stated values: a crown for Jupiter, half a crown for Juno, and
+    no added cost for Mercury if the first two are bought.'
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Boar prepares before visible danger
+  summary: In a forest, the wild boar sharpens his tusks on a tree. The fox questions
+    the need because huntsmen and other dangers are not present, and the boar answers
+    that preparation must happen before life is in danger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mercury tests his value in a sculptor's studio
+  summary: Mercury takes human disguise, enters a studio of finished statues, asks
+    the prices of statues of Jupiter, Juno, and himself, and learns that his own statue
+    would be included for nothing with the purchase of the other two.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: preparedness before crisis
+  taxonomy_refs:
+  - wisdom
+  basis: The boar sharpens his tusks before danger arrives because there will be no
+    time once his life is threatened.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy label 'wisdom' is broad; the passage gives a practical
+    lesson rather than an explicit taxonomy term.
+- id: motif:2
+  label: disguised figure seeks public estimation
+  taxonomy_refs: []
+  basis: Mercury disguises himself as a man specifically to learn how he is regarded
+    by mankind.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states disguise but does not describe a bodily transformation.
+- id: motif:3
+  label: self-image humbled by external valuation
+  taxonomy_refs: []
+  basis: Mercury asks about a statue of himself after hearing the prices of Jupiter
+    and Juno, but the sculptor offers Mercury's statue for nothing with the purchase
+    of the others.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The moral is implied by the pricing exchange; no explicit closing moral
+    is included in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2293-2296
+  quote_or_summary: THE WILD BOAR AND THE FOX opens with a wild boar whetting his
+    tusks on the trunk of a tree in the forest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 2296-2299
+  quote_or_summary: The fox asks why the boar is doing this, saying the huntsmen are
+    not out that day and no other dangers are visible.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 2299-2301
+  quote_or_summary: The boar replies that when his life is in danger he will need
+    his tusks, and there will be no time to sharpen them then.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 2303-2307
+  quote_or_summary: MERCURY AND THE SCULPTOR begins with Mercury anxious to know mankind's
+    estimation of him, so he disguises himself as a man and enters a sculptor's studio.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: 2307-2313
+  quote_or_summary: The studio has finished statues ready for sale; Mercury asks about
+    Jupiter's statue, priced at a crown, and Juno's statue, priced at half a crown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: quote
+  locator: 2313-2316
+  quote_or_summary: When Mercury asks about the statue of himself, the sculptor says,
+    "I'll throw him in for nothing if you'll buy the other two."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied passage text. Candidate motifs are
+    fable-level patterns inferred from actions and dialogue. No external comparison
+    claims were made because the passage itself does not support a specific historical
+    or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The locator label names additional fables, but the provided passage text contains only THE WILD BOAR AND THE FOX and MERCURY AND THE SCULPTOR; no extraction was made for absent text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2293-l2316
+  passage_sha256=171a3ff360e3af868b318ed14a250ce87042c546dee814742d4a7e6c250cdd82
+

@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3248-l3260
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG WITH ONE EYE / THE FLY AND THE DRAUGHT-MULE / THE COCK AND THE JEWEL
+    / THE WOLF AND THE SHEPHERD; lines 3248-3260
+  start: '3248'
+  end: '3260'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“It serves me right for trusting my flock to a Wolf.”"
+  summary: A wolf stays near a flock without attacking, causing the shepherd to trust
+    him as a protector. When the shepherd leaves for the city, the wolf kills many
+    sheep. The shepherd returns and recognizes that he was wrong to trust the wolf.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A wolf remained near a flock of sheep for a long time without molesting them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shepherd initially watched the wolf closely because he thought the wolf
+    intended mischief.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After time passed and the wolf did not meddle with the flock, the shepherd
+    began to regard the wolf as more of a protector than an enemy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The shepherd went on an errand to the city and left the wolf with the sheep
+    without uneasiness.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the shepherd left, the wolf attacked the sheep and killed the greater
+    number.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the shepherd returned and saw the havoc, he said that trusting his flock
+    to a wolf served him right.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf that stays near the flock without attacking at first, then attacks
+    and kills many sheep when the shepherd leaves.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Shepherd
+  description: The keeper of the flock who first watches the wolf, then trusts him,
+    leaves for the city, and later laments his decision.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Flock of sheep
+  description: The flock left with the wolf; many are killed by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: predatory enemy
+  assigned_to:
+  - fig:1
+  basis: The shepherd initially suspects mischief, and the wolf later attacks and
+    kills many sheep.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: perceived protector
+  assigned_to:
+  - fig:1
+  basis: The shepherd comes to see the wolf as more a protector than an enemy after
+    the wolf refrains from harming the flock.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: flock guardian
+  assigned_to:
+  - fig:2
+  basis: The shepherd keeps watch over the flock and decides whether to leave it with
+    the wolf.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victims of attack
+  assigned_to:
+  - fig:3
+  basis: The sheep are attacked by the wolf, who kills the greater number.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: speaker of self-reproach
+  assigned_to:
+  - fig:2
+  basis: The shepherd says it serves him right for trusting the flock to a wolf.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wolf
+  literal_form: A wolf near and then left with a flock of sheep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: flock of sheep
+  literal_form: A flock of sheep watched by a shepherd and attacked by a wolf.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: city errand
+  literal_form: The shepherd’s errand to the city, causing his absence from the flock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wolf’s harmless appearance
+  summary: The wolf remains near the flock without attacking, and the shepherd’s suspicion
+    gradually changes into trust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shepherd’s absence and wolf’s attack
+  summary: The shepherd goes to the city and leaves the sheep with the wolf; once
+    the shepherd is gone, the wolf attacks and kills many sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Return and recognition
+  summary: The shepherd returns, sees the destruction, and states that he deserved
+    the result for trusting the flock to a wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: misplaced trust in a natural enemy
+  taxonomy_refs: []
+  basis: The shepherd entrusts his flock to the wolf, and the wolf destroys many sheep
+    once left alone with them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this through animal fable logic; it does not state
+    a broader mythic taxonomy.
+- id: motif:2
+  label: predator as apparent protector
+  taxonomy_refs: []
+  basis: The wolf’s long period of non-attack leads the shepherd to regard him as
+    a protector, but the wolf later attacks the flock.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The wolf does not speak or explicitly disguise himself; the apparent protection
+    arises from the shepherd’s interpretation of the wolf’s behavior.
+- id: motif:3
+  label: moral wisdom through negative example
+  taxonomy_refs:
+  - wisdom
+  basis: The shepherd’s final speech frames the event as a lesson about the folly
+    of trusting the flock to a wolf.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a practical moral rather
+    than an extended wisdom myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3248-3250
+  quote_or_summary: The fable opens with a wolf staying near a flock of sheep for
+    a long time without molesting them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3250-3255
+  quote_or_summary: The shepherd first watches the wolf carefully because he expects
+    mischief, but later sees him more as a protector than an enemy when the wolf does
+    not meddle with the flock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3255-3257
+  quote_or_summary: The shepherd leaves on an errand to the city and feels no uneasiness
+    leaving the wolf with the sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3257-3259
+  quote_or_summary: After the shepherd leaves, the wolf attacks the sheep and kills
+    the greater number.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 3259-3260
+  quote_or_summary: "“It serves me right for trusting my flock to a Wolf.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are clear
+    at the fable-pattern level, but taxonomy mapping is limited; no comparison claims
+    were added because the passage itself does not invoke a comparative tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label names multiple fables, but the provided passage text contains only “THE WOLF AND THE SHEPHERD.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3248-l3260
+  passage_sha256=f65c6c1e27ee465f500461297c81b68a00a19654bb6d517fd1e4b31737bb8c46
+

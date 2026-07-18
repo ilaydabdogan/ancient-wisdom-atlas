@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4249-l4268
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GOATHERD AND THE GOAT / THE SHEEP AND THE DOG / THE SHEPHERD AND THE
+    WOLF / THE LION, JUPITER, AND THE ELEPHANT; lines 4249-4268
+  start: '4249'
+  end: '4268'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“if the Elephant, huge as he is, is afraid of a gnat, I needn't be so much
+    ashamed”"
+  summary: A lion, despite his strength, is ashamed that he fears a cock's crow. Jupiter
+    tells him that this is only one failing. The lion later learns that an elephant
+    fears a gnat entering his ear and takes comfort by comparison.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The lion is described as large, strong, sharp-toothed, and clawed, yet unable
+    to bear the sound of a cock crowing and running away when he hears it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion complains to Jupiter about having been made with this fear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jupiter says the lion's condition is not his fault, that he did the best he
+    could, and that the lion should be content because this is his only failing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion remains ashamed of his timidity and wishes he might die.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lion meets the elephant, notices the elephant keeping his ears raised
+    as if listening, and asks why.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A gnat hums by, and the elephant says he is terribly afraid that it may get
+    into his ear and kill him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After hearing the elephant's fear, the lion's spirits rise, and he reasons
+    that he need not be so ashamed of fearing a cock if a huge elephant fears a gnat.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A strong animal with size, sharp teeth, and claws, but afraid of a
+    cock's crow; he complains to Jupiter and later speaks with the elephant.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jupiter
+  description: The divine figure addressed by the lion; he answers that he did the
+    best he could and that the lion has only one failing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Elephant
+  description: A great beast who keeps his ears raised as if listening and fears that
+    a gnat might enter his ear.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Cock
+  description: The animal whose crowing frightens the lion; the lion later compares
+    the cock's size with the gnat's.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Gnat
+  description: A small buzzing insect that hums by and is feared by the elephant as
+    a deadly threat if it enters his ear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Powerful animal with a particular fear
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The lion is physically formidable but fears a cock's crow; the elephant is
+    huge but fears a gnat entering his ear.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Divine respondent
+  assigned_to:
+  - fig:2
+  basis: Jupiter is addressed by the lion and replies to the complaint about the lion's
+    failing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Feared small or lesser creature
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The cock's crow frightens the lion, and the gnat frightens the elephant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Comparison pair
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage explicitly compares the lion's fear with the elephant's fear,
+    leading the lion to feel less ashamed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Cock-crow
+  literal_form: The sound of a cock crowing
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Gnat at the ear
+  literal_form: A buzzing gnat feared as a threat if it enters the elephant's ear
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Raised listening ears
+  literal_form: The elephant cocking up his ears as if listening for something
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: The lion complains to Jupiter
+  summary: The lion fears the cock's crow despite his strength, complains to Jupiter,
+    and receives the answer that this is his only failing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The lion learns the elephant's fear
+  summary: The lion meets the elephant, observes his anxious ears, and hears him explain
+    his fear of a gnat entering his ear.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The lion takes comfort by comparison
+  summary: The lion compares the elephant's fear of a gnat with his own fear of a
+    cock and becomes less ashamed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mighty animal afraid of a small creature
+  taxonomy_refs: []
+  basis: Both the lion and the elephant are presented as large or powerful animals
+    with fears centered on smaller creatures or their sounds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the motif through animal fable rather than through
+    explicit mythic symbolism.
+- id: motif:2
+  label: Consolation through another's weakness
+  taxonomy_refs:
+  - wisdom
+  basis: The lion's shame diminishes when he learns that the elephant, though huge,
+    has a fear even more disproportionate than his own.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no separate stated moral; the wisdom reading is inferred
+    from the lion's concluding reflection.
+- id: motif:3
+  label: Complaint to a deity about an inherent failing
+  taxonomy_refs: []
+  basis: The lion complains to Jupiter for making him afraid, and Jupiter replies
+    that the lion should accept the single failing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The divine exchange is brief and does not include judgment, punishment,
+    or transformation.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the lion's fear of the cock and the elephant's fear of
+    the gnat are presented as parallel instances of a large animal fearing a much
+    smaller or seemingly lesser creature.
+  claim_level: same_motif
+  target: 'Internal comparison: lion/cock fear and elephant/gnat fear'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the fable itself; it does
+    not establish historical contact, common inheritance, or comparison with an external
+    tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4249-4254
+  quote_or_summary: The lion is described as strong and armed with teeth and claws,
+    but afraid of a cock crowing; he complains to Jupiter about being made this way.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 4254-4258
+  quote_or_summary: Jupiter says he did the best he could and that the lion should
+    be content because this is his only failing; the lion remains ashamed and wishes
+    he might die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 4258-4264
+  quote_or_summary: The lion meets the elephant, notices his ears raised as if listening,
+    and hears him say he fears a buzzing gnat getting into his ear and killing him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 4264-4268
+  quote_or_summary: "“if the Elephant, huge as he is, is afraid of a gnat, I needn't
+    be so much ashamed of being afraid of a cock”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates;
+    only the broad wisdom taxonomy reference is used, and it should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. The provided locator label mentions multiple fables, but the supplied passage text contains only “THE LION, JUPITER, AND THE ELEPHANT.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4249-l4268
+  passage_sha256=36e9fa9ffa8a94cea0e5fa9590ccbfd82475d7c79ac68769c67a6c9e98e776a3
+

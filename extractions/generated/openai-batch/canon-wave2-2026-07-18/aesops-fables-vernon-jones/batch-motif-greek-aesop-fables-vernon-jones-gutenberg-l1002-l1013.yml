@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1002-l1013
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GOOSE THAT LAID THE GOLDEN EGGS / THE CAT AND THE MICE / THE MISCHIEVOUS
+    DOG / THE CHARCOAL-BURNER AND THE FULLER; lines 1002-1013
+  start: '1002'
+  end: '1013'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A charcoal-burner who lives and works alone invites a newly arrived fuller
+    to share his house to improve acquaintance and reduce expenses. The fuller refuses
+    because the charcoal would quickly blacken the things he works to whiten.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The charcoal-burner lives and works by himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fuller settles in the same neighbourhood as the charcoal-burner.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The charcoal-burner becomes acquainted with the fuller and finds him agreeable.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The charcoal-burner asks the fuller to share his house, saying they would
+    know one another better and reduce household expenses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fuller refuses the invitation because charcoal would blacken the things
+    he takes pains to whiten.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Charcoal-burner
+  description: A person who lives and works by himself and invites the fuller to share
+    his house.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Fuller
+  description: A person who settles in the same neighbourhood and refuses to share
+    the charcoal-burner's house because his whitened work would be blackened by charcoal.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: solitary worker
+  assigned_to:
+  - fig:1
+  basis: The passage states that the charcoal-burner lived and worked by himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: host proposing shared household
+  assigned_to:
+  - fig:1
+  basis: The charcoal-burner asks the fuller to come and share his house.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: new neighbour
+  assigned_to:
+  - fig:2
+  basis: The fuller settles in the same neighbourhood as the charcoal-burner.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: invitee who refuses
+  assigned_to:
+  - fig:2
+  basis: The fuller thanks the charcoal-burner but says he cannot accept the house-sharing
+    proposal.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: charcoal
+  literal_form: charcoal associated with the charcoal-burner's work
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: whitened work
+  literal_form: things the fuller takes pains to whiten
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: blackening
+  literal_form: the threatened blackening of the fuller's whitened things by charcoal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invitation and refusal to share a house
+  summary: After the fuller settles nearby, the charcoal-burner invites him to share
+    his house for companionship and lower expenses. The fuller refuses because the
+    charcoal-burner's work would blacken what the fuller whitens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: incompatible companions or occupations
+  taxonomy_refs: []
+  basis: The proposed shared household is rejected because the charcoal-burner's blackening
+    material would undo the fuller's whitening work.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a practical incompatibility rather than an explicit
+    mythic or religious motif.
+- id: motif:2
+  label: material opposition of blackening and whitening
+  taxonomy_refs: []
+  basis: The contrast between charcoal that blackens and the fuller's work of whitening
+    is the reason for the refusal.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a literal occupational contrast; broader symbolic interpretation
+    should be reviewed before use.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1002-1004
+  quote_or_summary: '"There was once a Charcoal-burner who lived and worked by himself."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1004-1006
+  quote_or_summary: A fuller comes and settles in the same neighbourhood as the charcoal-burner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1006-1007
+  quote_or_summary: The charcoal-burner makes the fuller's acquaintance and finds
+    him agreeable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1007-1010
+  quote_or_summary: The charcoal-burner asks the fuller to share his house, saying
+    they would know one another better and their household expenses would be diminished.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized with brief wording from public domain
+    passage.
+- id: ev:5
+  type: quote
+  locator: lines 1010-1013
+  quote_or_summary: 'The fuller refuses: "everything I take such pains to whiten would
+    be blackened in no time by your charcoal."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Candidate motifs are limited to
+    passage-level fable patterns and do not assert broader mythological taxonomy or
+    historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references or comparison claims were added because the supplied passage does not directly support them.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1002-l1013
+  passage_sha256=a35097eca8874d089229cf0ede72e4835e145b4cd34d93a04e7c9ea9d208e06c
+

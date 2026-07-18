@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2089-l2105
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE JACKDAW AND THE PIGEONS / JUPITER AND THE TORTOISE / THE DOG IN THE MANGER
+    / THE TWO BAGS; lines 2089-2105
+  start: '2089'
+  end: '2105'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A dog lies on hay in a manger meant for cattle and prevents the cattle
+    from eating, though he cannot eat the hay himself. A second fable says every man
+    carries two bags of faults: neighbours'' faults in front and his own behind, explaining
+    why people see others'' faults but not their own.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dog is lying in a manger on hay that had been put there for cattle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the cattle come and try to eat, the dog growls and snaps at them and
+    prevents them from reaching their food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One of the cattle calls the dog selfish and says the dog cannot eat the food
+    himself but will not let those who can eat it do so.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that every man carries two bags, one in front and one behind,
+    both full of faults.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The front bag contains neighbours' faults, while the bag behind contains the
+    person's own faults.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage explains that men do not see their own faults but do see the faults
+    of others.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A dog lying on hay in a manger who growls, snaps, and blocks the cattle
+    from their food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Cattle
+  description: Cattle for whom the hay had been put in the manger; they come to eat
+    and are blocked by the dog. One of them speaks to companions.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Every man / men
+  description: A generalized human figure described as carrying two bags of faults
+    and as seeing others' faults rather than his own.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Neighbours
+  description: Other people whose faults are said to be contained in the front bag.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: selfish blocker of access to food
+  assigned_to:
+  - fig:1
+  basis: The dog cannot eat the hay but prevents the cattle from eating it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: intended eaters denied food
+  assigned_to:
+  - fig:2
+  basis: The hay is put there for the cattle, but the dog prevents them from reaching
+    it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: speaker of judgment
+  assigned_to:
+  - fig:2
+  basis: One of the cattle calls the dog selfish and explains the complaint to companions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bearer of two bags of faults
+  assigned_to:
+  - fig:3
+  basis: Every man is said to carry one bag in front and one behind, both full of
+    faults.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: possessors of visible faults
+  assigned_to:
+  - fig:4
+  basis: The front bag contains neighbours' faults, which men are said to see.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: possessor of hidden own faults
+  assigned_to:
+  - fig:3
+  basis: The bag behind contains one's own faults, explaining why men do not see them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: manger with hay
+  literal_form: A manger containing hay put there for the cattle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two bags
+  literal_form: Two bags carried by every man, one in front and one behind, both packed
+    full of faults.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: front bag
+  literal_form: The bag in front containing neighbours' faults.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bag behind
+  literal_form: The bag behind containing the carrier's own faults.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dog blocks cattle from the manger
+  summary: A dog lies on hay placed for cattle. When the cattle try to eat, the dog
+    growls and snaps, preventing them from reaching the food; one of the cattle calls
+    this selfish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Two bags of faults
+  summary: The passage describes every man as carrying two bags of faults, with neighbours'
+    faults in front and his own behind, and uses this to explain why people see others'
+    faults but not their own.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: withholding what one cannot use
+  taxonomy_refs:
+  - wisdom
+  basis: The dog cannot eat the hay but still prevents the cattle, who can eat it,
+    from accessing it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific selfish-withholding pattern
+    is not an available taxonomy ID.
+- id: motif:2
+  label: seeing others' faults while missing one's own
+  taxonomy_refs:
+  - wisdom
+  basis: The front bag contains neighbours' faults and the rear bag contains one's
+    own, explaining why men see others' faults and not their own.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific self-blindness pattern is
+    not an available taxonomy ID.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2089-2094
+  quote_or_summary: A dog lies in a manger on hay placed for cattle; when they try
+    to eat, he growls, snaps, and prevents them from reaching the food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 2094-2096
+  quote_or_summary: '"he can''t eat himself and yet he won''t let those eat who can."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 2100-2102
+  quote_or_summary: Every man is said to carry two bags, one in front and one behind,
+    both filled with faults.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2102-2105
+  quote_or_summary: The front bag contains neighbours' faults and the one behind contains
+    one's own; therefore men see others' faults but not their own.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit. No comparison claims were generated because
+    the supplied passage does not itself make a comparative claim to another text,
+    tradition, or motif family beyond broad wisdom classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used; no figures or episodes from the broader locator label were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2089-l2105
+  passage_sha256=bf8899a4eaa1ec0c8c1e2631c2a5cb9b375be38a8a076dd4162a6f35b8b8fa4e
+

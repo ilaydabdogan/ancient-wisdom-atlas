@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1222-l1238
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MOON AND HER MOTHER / MERCURY AND THE WOODMAN / THE ASS, THE FOX, AND
+    THE LION / THE LION AND THE MOUSE; lines 1222-1238
+  start: '1222'
+  end: '1238'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"you see, even a Mouse can help a Lion."'
+  summary: A Mouse wakes a sleeping Lion, is seized, begs for its life, and promises
+    future repayment. The Lion laughs but lets it go. Later the Lion is caught in
+    a hunters' net; the Mouse hears him, gnaws the ropes, frees him, and points out
+    that even a Mouse can help a Lion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Lion is asleep in his lair when a Mouse runs over his face and wakes him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion loses his temper, seizes the Mouse with his paw, and is about to
+    kill it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Mouse is terrified and entreats the Lion to spare its life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Mouse asks to be released and says that one day it will repay the Lion's
+    kindness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Lion is amused by the idea that the Mouse could ever help him, laughs
+    aloud, and lets the Mouse go.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Later, the Lion becomes entangled in a net spread for game by hunters.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Mouse hears and recognizes the Lion's angry roars and runs to him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Mouse gnaws the ropes with its teeth and succeeds in freeing the Lion.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Mouse reminds the Lion that he had laughed at the promise of repayment
+    and says that even a Mouse can help a Lion.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A Lion asleep in his lair; he seizes and releases the Mouse, later
+    becomes entangled in a hunters' net, and is freed by the Mouse.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Mouse
+  description: A Mouse that runs over the Lion's face, begs for life, promises repayment,
+    later hears the Lion, gnaws the ropes, frees him, and speaks the closing lesson.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: hunters
+  description: Unspecified hunters who had spread the net for game.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: captor who spares
+  assigned_to:
+  - fig:1
+  basis: The Lion seizes the Mouse and is about to kill it, but laughs and lets it
+    go.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: supplicant who promises repayment
+  assigned_to:
+  - fig:2
+  basis: The Mouse begs for its life and says it will repay the Lion's kindness one
+    day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: trapped figure needing rescue
+  assigned_to:
+  - fig:1
+  basis: The Lion becomes entangled in a hunters' net and roars angrily before being
+    freed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: rescuer who repays kindness
+  assigned_to:
+  - fig:2
+  basis: The Mouse gnaws the ropes and frees the Lion, then states that it has shown
+    a Mouse can help a Lion.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: offstage trap-setters
+  assigned_to:
+  - fig:3
+  basis: The net that entangles the Lion had been spread for game by hunters.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lair
+  literal_form: the Lion's lair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paw
+  literal_form: the Lion's paw used to seize the Mouse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hunters' net
+  literal_form: a net spread for game by hunters
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: ropes
+  literal_form: ropes of the net gnawed by the Mouse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: teeth
+  literal_form: the Mouse's teeth used to gnaw the ropes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mouse wakes the Lion
+  summary: In the Lion's lair, a Mouse runs over the sleeping Lion's face and wakes
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plea, promise, and release
+  summary: The Lion seizes the Mouse and is about to kill it; the Mouse begs to live
+    and promises repayment; the amused Lion releases it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lion caught in a hunters' net
+  summary: The Lion is later caught in a net laid by hunters, and the Mouse hears
+    and recognizes his angry roars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Mouse frees the Lion
+  summary: The Mouse gnaws the ropes of the net with its teeth, frees the Lion, and
+    states that even a Mouse can help a Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: kindness repaid by an unlikely helper
+  taxonomy_refs: []
+  basis: The Lion spares the Mouse after it promises repayment; later the Mouse frees
+    the Lion from the net.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a fable-level moral pattern rather than an explicitly mythic or
+    sacred motif.
+- id: motif:2
+  label: small creature aids a powerful creature
+  taxonomy_refs:
+  - wisdom
+  basis: The Mouse, described as insignificant from the Lion's point of view, succeeds
+    in freeing the Lion and says that even a Mouse can help a Lion.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage supports practical
+    moral instruction, not esoteric or divine wisdom.
+- id: motif:3
+  label: reversal of dependence between captor and captive
+  taxonomy_refs: []
+  basis: The Lion first holds the Mouse's life in his paw, but later the Lion depends
+    on the Mouse to escape the net.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The reversal is inferred from the sequence of actions, not stated as a
+    formal motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: A Lion asleep in his lair is awakened by a Mouse running over
+    his face.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: The Lion loses his temper, seizes the Mouse with his paw, and
+    is about to kill it; the terrified Mouse begs to be spared.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1222-1238
+  quote_or_summary: '"Please let me go," it cried, "and one day I will repay you for
+    your kindness."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: The Lion is amused by the thought of such an insignificant creature
+    helping him, laughs aloud, and lets the Mouse go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: One day the Lion becomes entangled in a net that had been spread
+    for game by hunters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: The Mouse hears and recognizes the Lion's roars of anger and runs
+    to the spot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1222-1238
+  quote_or_summary: The Mouse gnaws the ropes with its teeth and succeeds in setting
+    the Lion free.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:8
+  type: quote
+  locator: lines 1222-1238
+  quote_or_summary: '"you laughed at me when I promised I would repay you: but now
+    you see, even a Mouse can help a Lion."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are plain
+    descriptive candidates; only the broad wisdom taxonomy reference is used, with
+    caution. No comparison claims are made because the passage itself does not compare
+    this fable to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text for "THE LION AND THE MOUSE" was used; other fable titles in the locator label were not extracted because their text was not included.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1222-l1238
+  passage_sha256=e049b99292cf71e95c2f66c8f06dd9430265c267b6a2ac445c9ba23ecd078979
+

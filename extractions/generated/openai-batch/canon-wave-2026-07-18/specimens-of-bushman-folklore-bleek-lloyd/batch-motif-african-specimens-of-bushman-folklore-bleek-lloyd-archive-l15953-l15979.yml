@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l15953-l15979
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: TRAIN. / IIKABBO'S    INTENDED    RETURN    HOME. / IIKABBO'S   JOURNEY    IN    THE    RAILWAY    TRAIN.       299
+    / IIKABBO'S   JOUENEY   IN   THE   EAILWAY; lines 15953-15979
+  start: '15953'
+  end: '15979'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a first-person account titled Iikabbo's journey in the railway train,
+    the narrator says the train, called a fire wagon, is pleasant; sits in it with
+    a black man; is drawn inside by a woman to avoid falling; comments on the appearances
+    of black and white men; and answers the black man's questions by naming Bitterpits
+    as his place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person narrator says the train, glossed as a fire wagon, is nice
+    and that he sat in it with a black man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woman seizes the narrator's arm and draws him inside because he would have
+    fallen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator sits beside a black man and describes the man's face and mouth
+    as black.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says white men have red faces and are handsome, and contrasts
+    this with his description of the black man as ugly because his face and mouth
+    are black.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The black man asks where the narrator comes from, and the narrator answers
+    that he comes from this place.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The black man asks the name of the narrator's place, and the narrator answers
+    that his place is the Bitterpits.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Iikabbo / first-person narrator
+  description: The named subject of the passage title and the speaker who describes
+    sitting in the train, being drawn inside, and answering questions about his place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Unnamed woman
+  description: A woman who seizes the narrator's arm and draws him inside so that
+    he will not fall.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed black man
+  description: A man seated beside the narrator; the narrator describes his appearance,
+    and he asks the narrator where he comes from and the name of his place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: White men
+  description: A collective group described by the narrator as having red faces and
+    being handsome.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person traveler
+  assigned_to:
+  - fig:1
+  basis: The speaker reports sitting in the train/fire wagon and answers questions
+    during the journey.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: helper preventing fall
+  assigned_to:
+  - fig:2
+  basis: The woman draws the narrator inside because he would have fallen.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seatmate and questioner
+  assigned_to:
+  - fig:3
+  basis: The black man sits with the narrator and asks where he comes from and the
+    place name.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:4
+  label: described comparison group
+  assigned_to:
+  - fig:4
+  basis: The narrator describes white men in contrast to his description of the black
+    man.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: train / fire wagon
+  literal_form: train, glossed in the passage as fire wagon
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Bitterpits place-name
+  literal_form: the Bitterpits
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sitting in the train and being drawn inside
+  summary: The narrator describes the train/fire wagon as nice, says he sat in it
+    with a black man, and says a woman drew him inside to prevent his falling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Descriptions and questions about place of origin
+  summary: The narrator comments on the appearances of black and white men, then the
+    black man asks where he comes from and what the place is called; the narrator
+    names the Bitterpits.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey in a fire wagon or train
+  taxonomy_refs: []
+  basis: The passage centers on the narrator's experience of sitting in and traveling
+    by a train described as a fire wagon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a literal travel account rather than a clearly mythological motif;
+    no available motif-family taxonomy reference is assigned.
+- id: motif:2
+  label: assisted entry preventing a fall
+  taxonomy_refs: []
+  basis: An unnamed woman draws the narrator into the train because he would otherwise
+    have fallen.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This may be an incidental event in the travel narrative rather than an
+    independent recurring motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15953-15957
+  quote_or_summary: The passage title names Iikabbo's journey in the railway train;
+    the narrator says the train or fire wagon is nice and that he sat in it with a
+    black man.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 15958-15961
+  quote_or_summary: A woman seizes the narrator's arm and draws him inside because
+    he would have fallen.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 15960-15963
+  quote_or_summary: The narrator sits beside a black man and describes the man's face
+    and mouth as black.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 15964-15967
+  quote_or_summary: The narrator says white men have red faces and are handsome, then
+    describes the black man negatively in relation to his black face and mouth.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 15968-15972
+  quote_or_summary: The black man asks where the narrator comes from; the narrator
+    replies that he comes from this place.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 15972-15975
+  quote_or_summary: '"My place is the Bitterpits."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the passage reads as a travel recollection rather than a mythic narrative. No
+    comparison claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The taxonomy reference to fire is based only on the supplied gloss 'fire wagon'; the passage does not describe a separate fire episode.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l15953-l15979
+  passage_sha256=49c89b66957092e824eb4788dbc7ab2a3f24a771ddd8b2080cb206c2541a30b5
+

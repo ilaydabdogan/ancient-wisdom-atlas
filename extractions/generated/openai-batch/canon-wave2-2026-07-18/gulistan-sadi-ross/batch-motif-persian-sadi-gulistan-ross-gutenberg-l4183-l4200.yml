@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4183-l4200
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / CHAPTER VIII / XVIII / XXIII; lines 4183-4200
+  start: '4183'
+  end: '4200'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“string thy bow, and range stones around thy battlements.”"
+  summary: 'Two aphoristic counsels are given: first, remain quiet when enemies are
+    divided, but prepare defenses when they are united; second, withhold unpleasant
+    intelligence until another person reveals it, letting the nightingale announce
+    spring and the owl announce evil.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker advises quietness when discord is raging among enemy troops.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker advises preparing a bow and stones around battlements when enemies
+    are united in one mind.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker advises keeping unpleasant intelligence private until someone
+    else discloses it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A nightingale is addressed as the bearer of glad tidings of spring.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An owl is associated with being the harbinger of evil.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: speaker or counselor
+  description: An advisory voice giving practical maxims about enemies, news, and
+    omens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: enemy troops
+  description: Troops of the enemy who may be either divided by discord or united.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: nightingale
+  description: Bird addressed as bringer of glad tidings of spring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: owl
+  description: Bird assigned the role of harbinger of evil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: advisor
+  assigned_to:
+  - fig:1
+  basis: The passage consists of imperatives and counsel about how to act in specified
+    circumstances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: opposing force
+  assigned_to:
+  - fig:2
+  basis: They are explicitly called the troops of the enemy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bearer of good news
+  assigned_to:
+  - fig:3
+  basis: The nightingale is asked to bring glad tidings of spring.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bearer of bad omen or evil news
+  assigned_to:
+  - fig:4
+  basis: The owl is left to be the harbinger of evil.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bow
+  literal_form: bow prepared for defense
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stones around battlements
+  literal_form: stones ranged around battlements
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: nightingale
+  literal_form: nightingale bringing glad tidings of spring
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spring
+  literal_form: spring announced by the nightingale
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: owl
+  literal_form: owl as harbinger of evil
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Counsel on enemy division and unity
+  summary: 'The passage contrasts two military conditions: enemy discord permits quietness
+    and peace with friends, while enemy unity calls for readiness with bow, stones,
+    and battlements.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Counsel on disclosing unpleasant news
+  summary: The passage advises withholding unpleasant intelligence and contrasts the
+    nightingale as announcer of spring with the owl as announcer of evil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: prudent counsel in response to enemy condition
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives practical strategic advice about waiting during enemy discord
+    and preparing defenses when enemies are united.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a wisdom maxim rather than a narrative mythic episode.
+- id: motif:2
+  label: contrasted birds as bearers of good and evil news
+  taxonomy_refs:
+  - wisdom
+  basis: The nightingale is assigned glad tidings of spring, while the owl is assigned
+    the announcement of evil.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no specific bird-omen symbol; the classification
+    rests on the aphoristic wisdom function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXIII; lines 4183-4192
+  quote_or_summary: The maxim advises quietness when enemy troops are in discord,
+    but readiness with bow, stones, and battlements when they are united.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: XXVI; lines 4194-4200
+  quote_or_summary: The maxim advises withholding unpleasant intelligence, asking
+    the nightingale to bring spring’s glad tidings and leaving the owl to announce
+    evil.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif classification is limited because
+    the passage is aphoristic and only the broad wisdom taxonomy reference is supported.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage label supplied in metadata includes XVIII, while the passage text itself contains sections XXIII and XXVI; extraction follows the provided passage text and line range.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4183-l4200
+  passage_sha256=02a6f689f61dcb65dcd3d57930e10cda84e86c96e17c553f52b12e310f078886
+

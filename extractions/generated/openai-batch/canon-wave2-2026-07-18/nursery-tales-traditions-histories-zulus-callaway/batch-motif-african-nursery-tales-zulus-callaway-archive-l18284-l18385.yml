@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18284-l18385
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UKUYELA  KWEZIMFENE. / THE  ORIGIN  OF  BABOONS. / ANOTHER  VERSION.;
+    lines 18284-18385
+  start: '18284'
+  end: '18385'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: He slept in the open country, and became a baboon.
+  summary: The passage explains baboons as descended from an idle man who attached
+    a hoe handle behind himself to become an animal. After becoming a baboon, he enters
+    a guarded garden, eats the crops, strikes the sleeping watcher with a reed of
+    corn, escapes toward a precipice, and leaves footprints and a wasted garden behind.
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator says the baboon was formerly a man of the nation called Amatusi,
+    and that the Amafene say baboons descended from them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man is described as a very great idler who avoided work, liked eating
+    food others worked for, and was scolded and ridiculed for idleness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man took the handle of his hoe and fastened it behind himself so that
+    he might become an animal and eat by stealing food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man slept in the open country and became a baboon.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When a watcher at a garden fell asleep, the baboon entered the garden and
+    ate until satisfied.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The baboon broke off a reed of corn, used it as a switch, climbed into the
+    watchhouse, and struck the sleeping watcher hard with it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The watcher woke, saw the baboon ascending a precipice, found footprints below
+    the watchhouse, and discovered the garden was wasted.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: idle man who becomes a baboon
+  description: A man of the Amatusi/Amafene people described as idle, who fastens
+    a hoe handle behind himself and becomes a baboon.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: garden watcher
+  description: A man who is watching the garden, becomes tired, sleeps in the watchhouse,
+    is struck, and later finds the garden wasted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: idle man
+  assigned_to:
+  - fig:1
+  basis: The passage says he was a very great idler and disliked all kinds of work.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: transformed animal
+  assigned_to:
+  - fig:1
+  basis: The passage says he fastened a hoe handle behind himself to become an animal
+    and then became a baboon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: garden thief
+  assigned_to:
+  - fig:1
+  basis: After becoming a baboon, he enters the garden, eats the crops, and leaves
+    the garden wasted.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: sleeping garden watcher
+  assigned_to:
+  - fig:2
+  basis: The passage says a man was watching, became tired, went to sleep, and was
+    struck while asleep in the watchhouse.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: hoe handle fastened behind
+  literal_form: The handle of the man's hoe, fastened on behind himself before he
+    becomes an animal.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: baboon body
+  literal_form: The animal form the man becomes after sleeping in the open country.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: garden
+  literal_form: The cultivated garden entered and wasted by the baboon while the watcher
+    sleeps.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: reed of corn used as switch
+  literal_form: A reed of corn broken off by the baboon and used to strike the watcher.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: watchhouse
+  literal_form: The place where the watcher sleeps and where the baboon climbs to
+    strike him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: precipice
+  literal_form: The place the watcher sees the baboon ascending after the attack.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Origin of the baboon from an idle man
+  summary: An idle man of the Amatusi/Amafene people, ridiculed for refusing work
+    and eating others' food, attaches a hoe handle behind himself, sleeps in the open
+    country, and becomes a baboon.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Baboon raids the garden
+  summary: The baboon comes to a guarded garden after the watcher falls asleep, enters
+    the garden, and eats until satisfied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Baboon strikes the watcher and escapes
+  summary: The baboon breaks off a reed of corn, climbs into the watchhouse, strikes
+    the sleeping watcher, descends, leaves the garden, and is seen ascending a precipice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Garden damage discovered
+  summary: The watcher finds footprints below the watchhouse, examines the garden,
+    and discovers it has already been wasted.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Human becomes baboon
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says a man fastens a hoe handle behind himself in order to become
+    an animal, then sleeps outside and becomes a baboon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The transformation is etiological and deliberate; the passage does not
+    describe repeated shifting back and forth.
+- id: motif:2
+  label: Animal origin from social misconduct
+  taxonomy_refs: []
+  basis: The man’s idleness, refusal to work, and desire to eat by stealing food are
+    directly linked to his decision to become an animal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external moral formula is stated beyond the passage's description of
+    ridicule and theft.
+- id: motif:3
+  label: Crop-raiding animal outwits sleeping guard
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The baboon enters the garden while the watcher sleeps, eats the crops, strikes
+    the watcher with a reed, and escapes toward the precipice.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly call the baboon a trickster; the label
+    is based on the narrated theft, deception-like timing, and escape.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously aligned with the shapeshifter motif family
+    because it narrates a human intentionally becoming an animal.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage presents a local origin story for baboons and does not
+    provide evidence for historical contact, common inheritance, or a broader comparative
+    chain.
+- id: claim:2
+  claim: The garden raid episode has the same narrative function as a trickster-boundary
+    pattern in which an animal figure crosses into cultivated human space, takes food,
+    humiliates a guard, and escapes.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not use the word trickster or compare the baboon
+    with other trickster figures; the claim is functional rather than historical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18284-18385, opening English paragraph
+  quote_or_summary: The baboon is said to have been a man of the Amatusi people, and
+    the Amafene are said to claim descent connection with baboons.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 18284-18385, opening English paragraph
+  quote_or_summary: "“a man of that nation was a very great idler”; he disliked work,
+    liked food others worked for, and was ridiculed for idleness."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 18284-18385, opening English paragraph
+  quote_or_summary: The man takes the handle of his hoe and fastens it behind himself
+    so that he might become an animal and eat by stealing food.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 18284-18385, opening English paragraph
+  quote_or_summary: "“He slept in the open country, and became a baboon.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 18284-18385, second English paragraph
+  quote_or_summary: A watcher at the garden becomes tired and sleeps; the baboon enters
+    the garden and eats until satisfied.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 18284-18385, second English paragraph
+  quote_or_summary: The baboon breaks off a reed of corn, takes it as a switch, climbs
+    into the watchhouse, and hits the sleeping watcher hard with it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 18284-18385, second English paragraph
+  quote_or_summary: The watcher wakes, sees the baboon ascending the precipice, finds
+    footprints below the watchhouse, examines the garden, and finds it wasted.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative details are clear in the supplied English translation. Motif and
+    comparison labels are cautious and limited to available taxonomy references; no
+    historical contact or inheritance is inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction based only on the supplied passage and metadata. Taxonomy references were limited to the provided available motif families and symbols.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18284-l18385
+  passage_sha256=c1ffebca9b0d5a2ef3e8d95da51c0c17b69725390283c58a719ce313e1aba2d9
+

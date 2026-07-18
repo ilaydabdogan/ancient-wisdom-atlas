@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2269-l2290
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX WITHOUT A TAIL / THE VAIN JACKDAW / THE TRAVELLER AND HIS DOG / THE
+    SHIPWRECKED MAN AND THE SEA; lines 2269-2290
+  start: '2269'
+  end: '2290'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A traveller tells his dog to hurry for a journey; the dog replies that
+    it is already ready and waiting for him. A shipwrecked man blames the Sea for
+    deceiving sailors, but the Sea appears in female form and says the Winds, not
+    the Sea itself, cause its destructive fury.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A traveller is about to begin a journey and wants his dog to accompany him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog is stretching by the door while the traveller addresses it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The traveller tells the dog to stop yawning, hurry, and get ready.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The dog wags its tail and says it is ready and waiting for its master.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A shipwrecked man is cast onto a beach and sleeps after struggling with waves.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After waking, the shipwrecked man reproaches the Sea for attracting men with
+    a smooth surface and then destroying ships and sailors in fury.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Sea appears in the form of a woman.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Sea replies that blame should be placed on the Winds, not on the Sea.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Sea describes itself as naturally calm and safe, but says the Winds lash
+    it into an unnatural fury.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Traveller
+  description: A person preparing to start on a journey with his dog.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Dog
+  description: The traveller's dog, stretching by the door, wagging its tail, and
+    speaking to its master.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Shipwrecked Man
+  description: A man cast up on the beach after struggling with waves; he reproaches
+    the Sea.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sea
+  description: The Sea, addressed as treacherous by the shipwrecked man, appears in
+    the form of a woman and answers him.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Winds
+  description: The Winds are named by the Sea as the forces that lash it into fury
+    with gusts and gales.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: journey-starter
+  assigned_to:
+  - fig:1
+  basis: The traveller is about to start on a journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: master
+  assigned_to:
+  - fig:1
+  basis: The dog addresses him as master.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal companion
+  assigned_to:
+  - fig:2
+  basis: The traveller intends the dog to go with him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: speaking animal respondent
+  assigned_to:
+  - fig:2
+  basis: The dog replies that it is ready and waiting.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: shipwreck survivor
+  assigned_to:
+  - fig:3
+  basis: The man is described as shipwrecked and cast up on the beach.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: accuser of the Sea
+  assigned_to:
+  - fig:3
+  basis: He reproaches the Sea for treachery and destruction.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: personified natural force
+  assigned_to:
+  - fig:4
+  basis: The Sea arises in the form of a woman and speaks.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: defendant shifting blame
+  assigned_to:
+  - fig:4
+  basis: The Sea says the blame should be placed on the Winds.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: alleged cause of storm-fury
+  assigned_to:
+  - fig:5
+  basis: The Sea says the Winds lash it into fury with gusts and gales.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: journey
+  literal_form: A planned journey by the traveller with his dog.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: door
+  literal_form: The door beside which the dog is stretching.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tail-wagging
+  literal_form: The dog wags its tail before speaking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sea and waves
+  literal_form: The Sea, waves, smooth surface, and stormy fury described in the shipwreck
+    scene.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: winds
+  literal_form: Gusts and gales that lash the Sea into fury.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: female form of the Sea
+  literal_form: The Sea arising in the form of a woman.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Traveller calls the dog to depart
+  summary: A traveller preparing for a journey tells his dog to stop yawning and get
+    ready to accompany him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog says it is already ready
+  summary: The dog wags its tail and tells the traveller that it is ready and has
+    been waiting for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Shipwreck survivor blames the Sea
+  summary: A man cast onto the beach after a shipwreck wakes and accuses the Sea of
+    luring men with calmness before destroying ships and sailors.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sea answers in female form
+  summary: The Sea appears as a woman and says the Winds, not the Sea itself, are
+    responsible for the violent fury that harms sailors.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: departure with animal companion
+  taxonomy_refs:
+  - departure
+  basis: The traveller is about to begin a journey and intends the dog to go with
+    him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The episode is a brief fable scene rather than a mythic departure cycle.
+- id: motif:2
+  label: speaking animal corrects human assumption
+  taxonomy_refs:
+  - wisdom
+  basis: The dog answers the traveller by saying it is already ready and that the
+    traveller is the one being waited for.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage contains a witty animal reply, but no explicit moral is included
+    in the provided text.
+- id: motif:3
+  label: personified natural force answers accusation
+  taxonomy_refs: []
+  basis: The shipwrecked man reproaches the Sea, and the Sea appears in female form
+    to answer him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a fable personification of the Sea; no broader divine identity
+    is stated.
+- id: motif:4
+  label: natural element taking human form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Sea arises in the form of a woman before speaking.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage supports personified appearance, but does not describe a full
+    transformation or recurring shapeshifter figure.
+- id: motif:5
+  label: misdirected blame for disaster
+  taxonomy_refs: []
+  basis: The shipwrecked man blames the Sea for destruction, while the Sea redirects
+    blame to the Winds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The claim is limited to the internal explanation given in the fable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2269-2274
+  quote_or_summary: In THE TRAVELLER AND HIS DOG, a traveller about to start on a
+    journey addresses his dog, which is stretching by the door, and tells it to hurry
+    and get ready to go with him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 2274-2277
+  quote_or_summary: 'The dog wags its tail and says, "I''m ready, master: it''s you
+    I''m waiting for."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 2280-2282
+  quote_or_summary: In THE SHIPWRECKED MAN AND THE SEA, a shipwrecked man is cast
+    onto the beach and sleeps after struggling with the waves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2282-2286
+  quote_or_summary: When he wakes, the shipwrecked man bitterly reproaches the Sea
+    for enticing men with a smooth surface and then destroying ships and sailors in
+    fury.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2286-2290
+  quote_or_summary: The Sea appears in the form of a woman and replies that the Winds,
+    with gusts and gales, lash it into an unnatural fury, though it is naturally calm
+    and safe.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    assignments are cautious because the passage is a fable excerpt and does not explicitly
+    frame these scenes as mythic motifs. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used. Although the locator label names additional fables, the supplied passage text contains only THE TRAVELLER AND HIS DOG and THE SHIPWRECKED MAN AND THE SEA.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2269-l2290
+  passage_sha256=6c80071fbe475a58c7746a25a146522e5094b7e679006ee7e8247ab59a51dbc6
+

@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l16844-l16948
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: CANNIBALISM. / IZINGANEKWANE. / U GUN  GQTJ-KUBANTWANA. / UGUNGQU-KUBANTWAXA.;
+    lines 16844-16948
+  start: '16844'
+  end: '16948'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Go and fetch for me water at a place where no frog cries.”"
+  summary: During a famine, an old woman repeatedly returns at noon to her son-in-law’s
+    house and eats the amasi stored for the household. The hungry household and children
+    cry, while the old woman blames an unnamed thief. The husband lies in wait, catches
+    her, and tells her to fetch water from a place where no frog cries, promising
+    not to expose her. He gives her a water-vessel, and she travels for a long time,
+    passing many rivers and reaching unknown rivers.
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The old woman returns home at noon during the digging-season and eats the
+    amasi from her son-in-law’s house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The household expects the calabash of amasi to be full for a meal with boiled
+    maize, but the husband finds it empty except for whey.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children and adults cry because they are hungry.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old woman says a thief is eating the children’s milk, although the passage
+    states that she herself has been eating it.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The husband lies in wait and catches the old woman.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The old woman claims she did it for the first time that day.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The son-in-law tells her to fetch water from a place where no frog cries and
+    says he will not expose her to the people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: He gives her a water-vessel.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: She travels for a long time, passes many rivers, and reaches rivers she does
+    not know.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: old woman / mother-in-law
+  description: An old woman described as the mother-in-law or mother who repeatedly
+    eats the household’s amasi and is later caught.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: son-in-law / husband
+  description: The husband who expects the stored amasi, discovers the empty calabash,
+    lies in wait, catches the old woman, and sends her to fetch water.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: wife
+  description: The wife addressed by the husband and told to go home and boil maize
+    for eating with amasi.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: children
+  description: The children of the household who are hungry and cry when the milk
+    is gone.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: food thief
+  assigned_to:
+  - fig:1
+  basis: The passage states that the old woman repeatedly pours out and eats the amasi.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: detector
+  assigned_to:
+  - fig:2
+  basis: The husband lies in wait and catches the old woman.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: task-setter
+  assigned_to:
+  - fig:2
+  basis: He orders the old woman to fetch water from a place where no frog cries.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: accused offender seeking concealment
+  assigned_to:
+  - fig:1
+  basis: After being caught, she denies repeated wrongdoing, and the son-in-law offers
+    not to expose her if she performs the task.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: She goes on a long journey with the water-vessel, passing many rivers.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: meal preparer
+  assigned_to:
+  - fig:3
+  basis: The wife is told to boil maize, and the passage says she boiled maize and
+    made a soft mass.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: hungry dependents
+  assigned_to:
+  - fig:4
+  basis: The children cry from hunger after the milk is gone.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: milk / amasi
+  literal_form: Amasi stored in a large calabash for the household meal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: calabash
+  literal_form: Large calabash containing amasi and whey.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: water
+  literal_form: Water to be fetched from a place where no frog cries.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: frog cry
+  literal_form: The absence of a frog’s cry marks the required water-place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water-vessel
+  literal_form: A vessel given to the old woman for fetching water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: many rivers
+  literal_form: Rivers passed during the old woman’s long journey, including rivers
+    she does not know.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Repeated theft of amasi during famine
+  summary: In the digging-season famine, the old woman comes home at noon, opens her
+    son-in-law’s house, pours out and eats the amasi, and later the family finds only
+    whey in the calabash.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: scene:2
+  label: Detection and imposed task
+  summary: The husband lies in wait and catches the old woman. She claims this was
+    the first time. He tells her to fetch water from a place where no frog cries,
+    promising not to expose her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Journey toward unknown rivers
+  summary: The son-in-law gives her a water-vessel. She sets out, travels a long time,
+    passes many rivers, and reaches rivers she does not know.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: secret theft of household food in famine
+  taxonomy_refs: []
+  basis: The old woman repeatedly eats the amasi while the household and children
+    go hungry, and she attributes the loss to a thief.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage fragment does not include the wider narrative outcome.
+- id: motif:2
+  label: culprit caught by lying in wait
+  taxonomy_refs: []
+  basis: The husband watches for the thief and catches the old woman.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supernatural detection is stated in the excerpt.
+- id: motif:3
+  label: impossible or difficult task assigned to avoid public exposure
+  taxonomy_refs: []
+  basis: After catching her, the son-in-law tells the old woman to fetch water from
+    a place where no frog cries, with concealment from the people as the condition.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage labels the task as impossible in the printed heading, but
+    the narrative fragment does not show whether it can be completed.
+- id: motif:4
+  label: departure on a quest for a remote water-place
+  taxonomy_refs:
+  - departure
+  basis: The old woman receives a water-vessel and travels for a long time, passing
+    many rivers and reaching unknown rivers.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only the beginning of the journey is present; no return or resolution
+    appears in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16844-16948, opening paragraph
+  quote_or_summary: During the digging-season, the old woman returns at noon, opens
+    her son-in-law’s house, pours out the amasi, and eats it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16844-16948, opening paragraph
+  quote_or_summary: The husband tells his wife to boil maize so they may mix it with
+    the amasi, but he finds the calabash empty, with only whey remaining.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 16844-16948, opening paragraph
+  quote_or_summary: "“They and their children cried, being hungry; and the mother-in-law
+    said, ‘My child’s children will die, for a thief is eating their milk.’”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 16844-16948, opening paragraph
+  quote_or_summary: The passage states that the old woman did this repeatedly and
+    that the husband and wife did not know the milk was eaten by their mother.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 16844-16948, section 'The son-in-law detects her'
+  quote_or_summary: "“The husband lay in wait, and caught their mother; but their
+    mother cried, saying, ‘I did it for the first time this very day.’”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 16844-16948, section 'sets her an impossible task'
+  quote_or_summary: "“Go and fetch for me water at a place where no frog cries; and
+    I will not expose you to the people.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 16844-16948, section 'She sets out to fetch water...'
+  quote_or_summary: He gives her a water-vessel; she goes on for a long time, passing
+    many rivers, and comes to rivers she does not know.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: note
+  locator: footnotes 96-97 within supplied passage
+  quote_or_summary: The notes explain that daily milk is poured into a large calabash,
+    whey is drawn off, and fresh milk added until the amasi is ready; the empty calabash
+    implies the curds were eaten and whey returned.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage notes.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is supported by the supplied English translation and notes.
+    Motif labels are conservative and mostly not linked to taxonomy except for the
+    journey/departure element. No comparison claims are made because the passage itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The provided passage ends mid-scene after the old woman reaches unknown rivers; later events in the tale are not inferred.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l16844-l16948
+  passage_sha256=ef53153d3ff3f0a45463470f7e3607c65833af171ac6fb0ea52ebbb1ba7f4525
+

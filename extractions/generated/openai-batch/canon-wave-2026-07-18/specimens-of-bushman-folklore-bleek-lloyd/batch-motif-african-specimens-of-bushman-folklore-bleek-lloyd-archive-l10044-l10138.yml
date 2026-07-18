@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l10044-l10138
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: CHILDREN. / THE   MASON    WASP.  171 / YOUNG    MAN    CARRIED    OFF    BY    LION.  175
+    / YOUNG    MAN    CARRIED    OFF    BY    LION.  177; lines 10044-10138
+  start: '10044'
+  end: '10138'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a passage from “Young Man Carried Off by Lion,” a lion decides to drink
+    water before eating the young man because it is thirsty. It presses the man’s
+    head between stems of a zwart-storm tree to hold him there. The man moves his
+    head because the tree or a stick hurts him, and he cries quietly. The lion notices
+    possible movement, presses his head down again, and licks the tears from his eyes.
+    The supplied passage then continues in Xam transcription without an English translation
+    in this excerpt.
+  language: English translation with Xam transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lion thinks it will remain thirsty if it eats the man before going to
+    drink water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion plans to go to the water first and return afterward to eat the man.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion presses the man’s head between the stems of a zwart-storm tree before
+    going back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man turns his head a little after being pressed into the tree.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The lion looks back because it notices or suspects that the man’s head has
+    moved.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The lion again presses the man’s head into the middle of the tree stems.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The lion licks the tears from the man’s eyes while the man weeps.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A stick or broken piece lodged in the tree pierces or hurts the hollow at
+    the back of the man’s head.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note explains that the man cries quietly because he sees himself in the
+    lion’s power and in great danger.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A note explains that the man watches through nearly closed eyes to see whether
+    the lion notices his movement.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: lion
+  description: The animal that has carried off the young man, intends to drink before
+    eating him, restrains him in a tree, notices movement, and licks his tears.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: young man / man
+  description: The human captive whose head is pressed into the tree, who moves because
+    of pain, weeps, and watches the lion cautiously.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: predatory captor
+  assigned_to:
+  - fig:1
+  basis: The lion controls the man, plans to eat him after drinking, and pins his
+    head in the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: captive in danger
+  assigned_to:
+  - fig:2
+  basis: The man is held by the lion, has his head pressed into the tree, cries quietly,
+    and is described in a note as being in the lion’s power and in great danger.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: water sought before eating
+  literal_form: water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: zwart-storm tree used as restraint
+  literal_form: zwart-storm tree stems
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: painful lodged stick
+  literal_form: stick or broken piece lodged in the tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: tears licked by lion
+  literal_form: tears from the man’s eyes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lion postpones eating to drink
+  summary: The lion reasons that eating while thirsty would leave it thirsty, so it
+    decides to go to water first and return afterward to eat the man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Man pinned in the tree
+  summary: Before leaving, the lion presses the man’s head between the stems of a
+    zwart-storm tree. The man moves slightly because the tree or a lodged stick hurts
+    him, and the lion notices possible movement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Lion checks movement and licks tears
+  summary: The lion presses the man’s head down again, while the man weeps quietly
+    and watches through nearly closed eyes. The lion licks the tears from his eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human captive carried off by a lion
+  taxonomy_refs: []
+  basis: The passage title identifies a young man carried off by a lion, and the excerpt
+    shows the lion holding the man and planning to eat him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied excerpt begins mid-episode and does not include the initial
+    carrying-off event itself, except in the passage title.
+- id: motif:2
+  label: predator postpones eating captive to drink first
+  taxonomy_refs: []
+  basis: The lion explicitly decides to drink water before returning to eat the man.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a passage-level pattern; no broader comparative classification
+    is asserted.
+- id: motif:3
+  label: captive restrained in a tree while captor watches for movement
+  taxonomy_refs: []
+  basis: The lion fixes the man’s head between tree stems, notices when the man moves,
+    and presses him down again.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not show the outcome of the restraint within the supplied
+    English excerpt.
+- id: motif:4
+  label: tears reveal captive distress to captor
+  taxonomy_refs: []
+  basis: The man weeps quietly while in danger, and the lion licks the tears from
+    his eyes.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The narrative function of the tears beyond this literal action is not
+    explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10044-10052; internal no. 4463
+  quote_or_summary: The lion thinks it will still be thirsty if it eats the man, so
+    it will first go to the water to drink and then return to eat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10053-10063; internal nos. 4464-4465
+  quote_or_summary: The lion presses the man’s head between the stems of the zwart-storm
+    tree, goes back, then looks back when the man turns his head a little.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: note
+  locator: footnote to internal no. 4464
+  quote_or_summary: The note explains that the tree hurt the back of the man’s head,
+    so he moved it a little.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10064-10080; internal nos. 4466-4469
+  quote_or_summary: The lion presses the man’s head into the tree stems again, licks
+    the tears from his eyes, and considers pressing him down thoroughly to test whether
+    it had failed to lay him firmly.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10068-10074 and footnote to internal no. 4467
+  quote_or_summary: The man feels a stick piercing the hollow at the back of his head;
+    the note says it was a broken piece lodged in the bottom of the tree.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: note
+  locator: footnote to internal no. 4466
+  quote_or_summary: The note explains that the man cried quietly because he saw himself
+    in the lion’s power and in great danger.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: note
+  locator: footnote to internal no. 4467
+  quote_or_summary: The note explains that the man looked through almost closed eyes
+    while watching whether the lion noticed his head movement.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: citation
+  locator: lines 10082-10138; internal nos. 4470-4477
+  quote_or_summary: The supplied passage continues in Xam transcription without English
+    translation in this excerpt; no motif details are extracted from these untranslated
+    lines.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on the English translation and explanatory notes in the
+    supplied passage. The later Xam transcription is not interpreted because no English
+    translation is included in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are made because the passage itself does not explicitly support comparison to another text, tradition, or taxonomy motif family beyond passage-level patterns.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l10044-l10138
+  passage_sha256=b53f4cea63dae31fd73a00e7a7dd6fd976abef14c9bd280dcccfe4eb56dd116a
+

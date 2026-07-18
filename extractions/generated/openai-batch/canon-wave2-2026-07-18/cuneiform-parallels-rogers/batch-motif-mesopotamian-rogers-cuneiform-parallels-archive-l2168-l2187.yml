@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l2168-l2187
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE  STORY  OF  CREATION  13 / THE  STORY  OF  CREATION  15 / THE    THIRD    TABLET
+    / THE    THIRD    TABLET; lines 2168-2187
+  start: '2168'
+  end: '2187'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "[a-na (ilu) Marduk mu]-tir-ri gi-mil-li-su-nu li-§i-mu §im-ta"
+  summary: In the Third Tablet, An-Sar addresses Gaga, identified as a messenger,
+    says he will send him to Lahmu and Lahamu, and gives instructions involving all
+    the gods, food and drink, and the decreeing of Marduk's destiny.
+  language: Akkadian transliteration with English heading
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as part of the Third Tablet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An-Sar opens his mouth and speaks words to Gaga.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gaga is identified in the speech as a messenger and as one who gladdens An-Sar's
+    inner being.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An-Sar says he will send Gaga to Lahmu and Lahamu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The instructions refer to all the gods and to their being gathered or seated
+    together.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The instructions include eating bread or grain and mixing a drink named kurunnu.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The instructions say that destiny is to be decreed for Marduk, described in
+    the line as the one who restores or avenges them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Gaga is told to go and stand before the addressees.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: An-Sar
+  description: A divine figure who opens his mouth, speaks to Gaga, and commissions
+    him to go to Lahmu and Lahamu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ga-ga / Gaga
+  description: The addressee of An-Sar's speech, called a messenger and sent to Lahmu
+    and Lahamu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Lab-mu and La-ba-mu / Lahmu and Lahamu
+  description: A pair of divine figures to whom Gaga is to be sent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: All the gods
+  description: A collective group referred to in the instructions, associated with
+    gathering, eating, drinking, and decreeing destiny.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Marduk
+  description: The deity for whom destiny is to be decreed; the line describes him
+    as the one who restores or avenges them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine commissioner
+  assigned_to:
+  - fig:1
+  basis: An-Sar speaks the command and says he will send Gaga.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: messenger or envoy
+  assigned_to:
+  - fig:2
+  basis: Gaga is called sukkallu and is sent to other divine figures.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: destination addressees
+  assigned_to:
+  - fig:3
+  basis: Lahmu and Lahamu are named as those to whom Gaga is to be sent.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine assembly
+  assigned_to:
+  - fig:4
+  basis: The instructions mention all the gods and their collective sitting or gathering.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: beneficiary of destiny decree
+  assigned_to:
+  - fig:5
+  basis: The line says destiny is to be decreed for Marduk.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: decreers of destiny
+  assigned_to:
+  - fig:4
+  basis: The command uses a plural action for decreeing Marduk's destiny in the context
+    of all the gods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: bread or grain
+  literal_form: a§-na-an
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: kurunnu drink
+  literal_form: ku-ru-na
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: decreed destiny
+  literal_form: "§im-ta"
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: An-Sar addresses Gaga
+  summary: An-Sar opens his mouth and speaks to Gaga, who is identified as his messenger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commission to Lahmu and Lahamu
+  summary: An-Sar says he will send Gaga to Lahmu and Lahamu and gives him instructions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Assembly, feast, and destiny decree
+  summary: The instructions refer to all the gods gathering or sitting, eating and
+    mixing drink, and decreeing destiny for Marduk.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: commissioned divine messenger
+  taxonomy_refs: []
+  basis: A divine speaker sends a named messenger to other divine figures and tells
+    him to stand before them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives the commission but not the messenger's completed report.
+- id: motif:2
+  label: divine assembly decrees a champion's destiny
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: All the gods are invoked in connection with a gathering and a command to
+    decree destiny for Marduk, who is described as the one who restores or avenges
+    them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt preserves the instruction to decree destiny; the actual decree
+    or enthronement lies outside this line range.
+- id: motif:3
+  label: feast before divine decision
+  taxonomy_refs: []
+  basis: The instructions place eating bread or grain and mixing drink near the command
+    to decree Marduk's destiny.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The precise ritual or social function of the food and drink is not explained
+    within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 2168-2169
+  quote_or_summary: 'Heading: THE THIRD TABLET.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: quote
+  locator: 2170-2172
+  quote_or_summary: An-Sar pa-a-§u i-pu-§am-ma / a-na (ilu) Ga-ga suk-kal-li-] §u
+    a-ma-tu i-zak-kar
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 2173-2175
+  quote_or_summary: "\"(ilu) Ga-ga suk-kal]-lum mu-tib ka-bit-ti-ia / a-na (ilu) Lab-mu
+    u (ilu) La-b]a-mu ka-a-ta Iu-uS-pur-ka"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 2176-2183
+  quote_or_summary: ilani na-gab-§u-un / li-§a-nu li§-ku-n]u i-na ki-ri-e-ti ii§-bu
+    / a§-na-an li-k] u-[l]u lip-ti-ku ku-ru-na
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 2184-2187
+  quote_or_summary: "[a-na (ilu) Marduk mu]-tir-ri gi-mil-li-su-nu li-§i-mu §im-ta
+    / [a-Uk (ilu) Ga-ga kud-me-§u-nu i-ziz-ma"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short transliterated and partly bracketed passage.
+    Literal names and actions are clear enough for draft extraction, but some terms
+    and restorations require specialist review. No passage-supported comparison claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy mapping is limited to the cautiously supported royal-legitimacy association for Marduk's destiny decree.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l2168-l2187
+  passage_sha256=002a7e15832bc40e65036c4c8072c02cab31feeff9f437e62af7a534f5f3d3a4
+

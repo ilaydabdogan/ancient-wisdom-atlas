@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4863-l4875
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE EAGLE AND THE FOX / THE BUTCHER AND HIS CUSTOMERS / HERCULES AND MINERVA
+    / THE FOX WHO SERVED A LION; lines 4863-4875
+  start: '4863'
+  end: '4875'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A Fox serves a Lion in hunting: the Fox locates prey, the Lion kills it,
+    and the Lion takes the larger share. Dissatisfied, the Fox tries to hunt or steal
+    independently by taking a lamb, but the shepherd sets dogs on him and the dogs
+    kill him. The moral favors safe servitude over dangerous freedom.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Lion has a Fox attend on him during hunts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During hunts, the Fox finds the prey and the Lion kills it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Lion and Fox divide the prey, but the Lion receives a very large share
+    while the Fox receives a very small one.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Fox is displeased with the division and decides to act independently.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Fox tries to steal a lamb from a flock of sheep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The shepherd sees the Fox and sets his dogs on him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Fox is caught and killed by the dogs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The stated moral says that servitude with safety is better than freedom with
+    danger.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion attended by the Fox; he kills prey found by the Fox and takes
+    the larger share.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fox
+  description: An attendant of the Lion who finds prey, receives a small share, attempts
+    independent theft of a lamb, and is killed by dogs.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: shepherd
+  description: The shepherd sees the Fox trying to steal a lamb and sets dogs on him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dogs
+  description: Dogs set on the Fox by the shepherd; they catch and kill him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: lamb
+  description: A lamb from a flock of sheep that the Fox tries to steal.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: dominant hunting partner
+  assigned_to:
+  - fig:1
+  basis: The Lion kills the prey and always receives the larger share.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: subordinate attendant
+  assigned_to:
+  - fig:2
+  basis: The Fox attends on the Lion, finds prey for him, and receives a small share.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: failed independent thief
+  assigned_to:
+  - fig:2
+  basis: The Fox decides to act on his own and tries to steal a lamb, but is pursued
+    and killed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: guardian of flock
+  assigned_to:
+  - fig:3
+  basis: The shepherd sees the theft attempt and sends dogs after the Fox.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: pursuers and killers
+  assigned_to:
+  - fig:4
+  basis: The dogs pursue, catch, and dispatch the Fox.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: intended stolen prey
+  assigned_to:
+  - fig:5
+  basis: The lamb is the object the Fox tries to steal from the flock.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lion
+  literal_form: Lion
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fox
+  literal_form: Fox
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: lamb from flock
+  literal_form: lamb from a flock of sheep
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dogs
+  literal_form: dogs
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Unequal hunting partnership
+  summary: The Fox attends the Lion in hunting, finds prey, and the Lion kills it;
+    the two divide the prey unequally, with the Lion taking much more.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed independent theft
+  summary: The dissatisfied Fox attempts to steal a lamb from sheep, but the shepherd
+    notices and sends dogs after him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reversal and death of the hunter
+  summary: The Fox, formerly a hunter's assistant, becomes the hunted and is caught
+    and killed by the dogs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Moral statement
+  summary: The fable concludes that safe servitude is preferable to dangerous freedom.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: unequal alliance between strong ruler and weaker helper
+  taxonomy_refs: []
+  basis: The Lion and Fox cooperate in hunting, but the stronger Lion consistently
+    takes the larger share.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a supplied taxonomy
+    motif.
+- id: motif:2
+  label: failed bid for independence after subordination
+  taxonomy_refs: []
+  basis: The Fox leaves an unsatisfying but safe service arrangement, attempts to
+    act on his own, and is killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is expressed through the fable's moral; no broader historical
+    comparison is asserted.
+- id: motif:3
+  label: hunter becomes hunted
+  taxonomy_refs: []
+  basis: The narrative explicitly reverses the Fox's role from hunting assistant to
+    pursued victim of the dogs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No taxonomy reference is assigned because the available motif families
+    do not directly name this pattern.
+- id: motif:4
+  label: attempted theft punished
+  taxonomy_refs: []
+  basis: The Fox tries to steal a lamb, is discovered by the shepherd, and is killed
+    by dogs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the episode primarily as a lesson about safety and
+    danger rather than theft as a sacred or mythic act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4863-4868
+  quote_or_summary: A Lion has a Fox attend him in hunting; the Fox finds prey, the
+    Lion kills it, and the Lion receives a much larger share than the Fox.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 4868-4873
+  quote_or_summary: The displeased Fox decides to act on his own, tries to steal a
+    lamb, is seen by the shepherd, pursued by dogs, caught, and killed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: '4875'
+  quote_or_summary: "“Better servitude with safety than freedom with danger.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal narrative extraction is straightforward. Motif labels are passage-level
+    descriptive candidates and are not mapped to supplied taxonomy IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison to another tradition, text, or motif family.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4863-l4875
+  passage_sha256=c09a10c1982bfcba8f0efc76ecb8afa732e1b679e879e0b2d2256f001c6bb490
+

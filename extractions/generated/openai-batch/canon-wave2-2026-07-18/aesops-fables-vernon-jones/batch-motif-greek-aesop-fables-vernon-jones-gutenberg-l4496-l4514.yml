@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4496-l4514
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WEASEL AND THE MAN / THE PLOUGHMAN, THE ASS, AND THE OX / DEMADES AND
+    HIS FABLE / THE MONKEY AND THE DOLPHIN; lines 4496-4514
+  start: '4496'
+  end: '4514'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A pet Monkey is aboard a ship returning to Athens. A storm capsizes the
+    ship near Attica, and the Monkey is thrown into the water. A Dolphin mistakes
+    him for a man and carries him toward shore. Near the Piræus, the Dolphin questions
+    him about being Athenian and knowing the port. The Monkey falsely claims status
+    and acquaintance, exposes his ignorance, and is drowned after the Dolphin abandons
+    him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that voyagers often take lap-dogs or monkeys as pets to
+    pass the time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man returning to Athens from the East has a pet Monkey on board.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Near the coast of Attica, a great storm capsizes the ship.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All on board are thrown into the water and try to save themselves by swimming,
+    including the Monkey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Dolphin sees the Monkey, mistakes him for a man, carries him on his back,
+    and swims toward shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Near the Piræus, the Dolphin asks whether the Monkey is Athenian; the Monkey
+    says that he is and claims to come from a distinguished family.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When asked whether he knows the Piræus, the Monkey mistakes the place-name
+    for a person and says that he is an old friend.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Dolphin detects the Monkey's hypocrisy, dives below the surface, and the
+    Monkey drowns.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: A pet Monkey aboard a ship returning to Athens; after the shipwreck,
+    he is carried by a Dolphin, falsely claims Athenian identity and status, and drowns.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Dolphin
+  description: A Dolphin who mistakes the Monkey for a man, carries him toward shore,
+    questions him near the Piræus, detects hypocrisy, and dives away.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Man returning to Athens
+  description: A man returning to Athens from the East with a pet Monkey on board
+    the ship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: pet passenger
+  assigned_to:
+  - fig:1
+  basis: The Monkey is described as the man's pet on board the ship.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: owner and voyager
+  assigned_to:
+  - fig:3
+  basis: The man is returning to Athens from the East and has the pet Monkey with
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mistaken rescue recipient
+  assigned_to:
+  - fig:1
+  basis: The Dolphin supposes the Monkey to be a man and carries him toward shore.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rescuer under mistaken assumption
+  assigned_to:
+  - fig:2
+  basis: The Dolphin takes the Monkey on his back because he thinks the Monkey is
+    a man.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: false claimant of civic identity and acquaintance
+  assigned_to:
+  - fig:1
+  basis: The Monkey claims to be Athenian, from a distinguished family, and an old
+    friend of the Piræus, while misunderstanding the reference.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: questioner who detects hypocrisy and withdraws aid
+  assigned_to:
+  - fig:2
+  basis: The Dolphin asks about Athenian identity and the Piræus, detects hypocrisy,
+    and dives below the surface.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: shipwrecked swimmer
+  assigned_to:
+  - fig:1
+  basis: The Monkey is among those thrown into the water who try to save themselves
+    by swimming.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: The water into which the shipwrecked passengers are thrown and beneath
+    whose surface the Dolphin dives.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Piræus
+  literal_form: The Piræus, identified in the passage as the port of Athens and named
+    in the Dolphin's question.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Voyage and shipwreck near Attica
+  summary: A man returning from the East to Athens has a pet Monkey aboard; a storm
+    near Attica capsizes the ship and throws everyone into the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dolphin's mistaken rescue
+  summary: A Dolphin sees the Monkey, assumes he is a man, takes him on his back,
+    and swims toward shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Questioning near the Piræus
+  summary: Near the port of Athens, the Dolphin asks whether the Monkey is Athenian
+    and whether he knows the Piræus; the Monkey's answers assert status and false
+    familiarity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Abandonment and drowning
+  summary: After detecting the Monkey's hypocrisy, the Dolphin dives below the surface,
+    and the Monkey drowns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Shipwrecked animal receives mistaken rescue
+  taxonomy_refs: []
+  basis: The storm capsizes the ship; the Dolphin mistakes the Monkey for a man and
+    carries him toward shore.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied taxonomy
+    family.
+- id: motif:2
+  label: False identity exposed by local-knowledge test
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Monkey claims to be Athenian and socially distinguished, then exposes
+    ignorance by treating the Piræus as a person rather than the port of Athens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: 'The taxonomy link to trickster_boundary is broad: the passage shows deception
+    and boundary-crossing of identity, but not an elaborate trickster cycle.'
+- id: motif:3
+  label: Withdrawal of rescue after hypocrisy is detected
+  taxonomy_refs: []
+  basis: After detecting hypocrisy, the Dolphin dives below the surface and the Monkey
+    drowns.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives the action but does not state a separate explicit moral
+    in the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4496-4498
+  quote_or_summary: Voyagers are said often to take lap-dogs or monkeys as pets to
+    pass the time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 4498-4504
+  quote_or_summary: A man returning to Athens from the East has a pet Monkey on board;
+    near Attica a storm capsizes the ship, and all aboard, including the Monkey, are
+    thrown into the water and try to swim.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 4504-4507
+  quote_or_summary: A Dolphin sees the Monkey, supposes him to be a man, takes him
+    on his back, and swims toward shore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 4507-4510
+  quote_or_summary: Near the Piræus, the port of Athens, the Dolphin asks whether
+    the Monkey is Athenian; the Monkey says yes and claims a distinguished family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: 4510-4513
+  quote_or_summary: The Dolphin asks whether the Monkey knows the Piræus; the Monkey
+    thinks this refers to an official and says he is an old friend.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: 4513-4514
+  quote_or_summary: The Dolphin detects the Monkey's hypocrisy, is disgusted, dives
+    below the surface, and the Monkey drowns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence for the supplied passage. Motif candidates
+    are concise passage-level patterns; only one broad taxonomy mapping is proposed.
+    No comparison claims are made because the passage itself does not support a specific
+    comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. No external parallels or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4496-l4514
+  passage_sha256=e70be8297b4fe0c1ca6f4165b1f720cca83ec5ed6971c084179dc2bbffc47f4e
+

@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l20892-l21003
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / UMKXAKAZA  WAKOGINGQWAYO. / IZINGANEKWANE. / UMKXAKAZA-WAKOGINGQWAYO.;
+    lines 20892-21003
+  start: '20892'
+  end: '21003'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the translated tale excerpt, the Amadhlungundhlebe see a turbulent cloud.
+    Umkrakaza sings to heaven, and the song links thunder with rain and change of
+    season. The sky becomes clouded, thunders, rains heavily, quenches a red-hot sherd,
+    and throws it upward. An English editorial note then compares this storm-related
+    power with several literary and mythological examples.
+  language: Zulu with English translation and English editorial commentary
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group called the Amadhlungundhlebe sees a cloud gathering tumultuously.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Umkrakaza sings again and addresses heaven, telling it to listen; the untranslated
+    term or name “mayoya” also appears in the address.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song says that heaven thunders in an undertone and thunders to produce
+    rain and a change of season.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the song, the whole heaven becomes covered with clouds, thunders terribly,
+    and rains a great rain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rain or sky quenches a red-hot sherd, takes it, and tosses it into the
+    air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editorial commentary frames the episode as involving power over tempest
+    or waters and cites several analogues from poetry, Polynesian mythology, Hiawatha,
+    a New Zealand deluge legend, and the legend of St. Scholastica.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Amadhlungundhlebe
+  description: A named group that sees the turbulent cloud.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Umkrakaza
+  description: A named figure who sings again and addresses heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: heaven / sky
+  description: The heaven is addressed by Umkrakaza and then described as clouding,
+    thundering, raining, quenching the sherd, and tossing it upward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: singer addressing heaven
+  assigned_to:
+  - fig:2
+  basis: Umkrakaza is said to sing again and call on heaven to listen.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: witnessing group
+  assigned_to:
+  - fig:1
+  basis: The Amadhlungundhlebe are described as seeing the cloud gather.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressed and acting sky power
+  assigned_to:
+  - fig:3
+  basis: Heaven is addressed in the song and then performs or undergoes the clouding,
+    thunder, rain, and action toward the sherd.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: clouded heaven
+  literal_form: a cloud gathering tumultuously; the whole heaven covered with clouds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: rain / water
+  literal_form: great rain produced after thunder
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: red-hot sherd
+  literal_form: a red-hot sherd quenched and tossed into the air
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thunder
+  literal_form: thunder in an undertone; terrible thunder
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cloud gathering and song to heaven
+  summary: The Amadhlungundhlebe see a turbulent cloud, and Umkrakaza sings to heaven,
+    calling it to listen and speaking of thunder, rain, and seasonal change.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Storm and the red-hot sherd
+  summary: The sky becomes clouded, thunders, and rains heavily; the red-hot sherd
+    is quenched and tossed upward.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: weather-command by song or address
+  taxonomy_refs: []
+  basis: Umkrakaza sings to heaven, and the passage immediately describes clouds,
+    thunder, and heavy rain; the editorial note also treats the passage as an example
+    of power over tempest and wave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The primary narrative gives sequence rather than an explicit causal explanation;
+    the interpretation is strengthened by the editor’s commentary but still needs
+    review.
+- id: motif:2
+  label: thunder and rain produce seasonal change
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The song states that heaven thunders to produce rain and change of season,
+    and the subsequent scene brings thunder and great rain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not explain the wider seasonal context beyond the song’s
+    statement.
+- id: motif:3
+  label: rain quenches a red-hot object
+  taxonomy_refs: []
+  basis: The storm quenches the red-hot sherd and throws it into the air.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The broader narrative significance of the sherd is not present in this
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editor’s Ngatoro example has the same broad function of speech or incantation
+    calling winds, storms, thunder, and lightning; in that cited example the resulting
+    storm destroys Manaia’s host.
+  claim_level: same_function
+  target: Ngatoro in Grey’s Polynesian Mythology as cited in the editorial note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The analogy is supplied by the editor; the narratives differ in purpose
+    and outcome, and the passage does not claim historical contact.
+- id: claim:2
+  claim: The Hiawatha example cited by the editor similarly features a figure calling
+    on tempest, lightning, and thunder, which then come in response.
+  claim_level: same_function
+  target: Hiawatha calling the tempest, lightning, and thunder in Longfellow’s Hiawatha
+    as cited in the editorial note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional analogy in the editor’s commentary, not evidence
+    of a shared source or identical narrative structure.
+- id: claim:3
+  claim: The Tawaki deluge example cited by the editor shares the function of prayer
+    or calling that brings waters from heaven, though its scale is a universal destructive
+    flood rather than the localized storm in the Umkrakaza excerpt.
+  claim_level: same_function
+  target: Tawaki’s prayer-caused deluge in New Zealand legend as cited in the editorial
+    note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited by major differences in scale and narrative
+    outcome; no renewal element is stated in the supplied passage.
+- id: claim:4
+  claim: The St. Scholastica example cited by the editor parallels the function of
+    prayer producing a storm of rain, thunder, and lightning that changes events.
+  claim_level: same_function
+  target: St. Scholastica’s storm-producing prayer as cited in the editorial note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly analogical and devotional-literary; the
+    passage does not support historical contact or common inheritance.
+- id: claim:5
+  claim: The editor frames European poetic examples, including Shakespeare’s Tempest
+    and H. K. White’s Gondoline, as allusions to a comparable power over tempest and
+    waters.
+  claim_level: same_function
+  target: European literary storm-control imagery cited in the editorial note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited poetic examples are brief allusions in the commentary and
+    are not full narrative parallels in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20892-21003, opening translated narrative
+  quote_or_summary: All the Amadhlungundhlebe see a cloud gathering tumultuously.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20892-21003, Umkrakaza’s translated song
+  quote_or_summary: Umkrakaza sings again, calling on heaven to listen; the song says
+    heaven thunders in an undertone and thunders to produce rain and change of season.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20892-21003, storm after the song
+  quote_or_summary: The whole heaven becomes covered with clouds, thunders terribly,
+    and rains a great rain; it quenches the red-hot sherd, takes it, and tosses it
+    into the air.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20892-21003, editorial note on tempest power
+  quote_or_summary: The commentary speaks of power over tempest and wave and cites
+    allusions in Shakespeare’s Tempest, H. K. White’s Gondoline, and Thorpe’s Yule-tide
+    Stories.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20892-21003, editorial note on Ngatoro
+  quote_or_summary: 'The commentary cites Ngatoro in Grey’s Polynesian Mythology:
+    he repeats incantations and calls on winds, storms, thunder, and lightning to
+    arise and destroy Manaia’s host; the storm arises and the host perishes.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 20892-21003, editorial note on Hiawatha
+  quote_or_summary: The commentary says the elements obey Hiawatha’s call; he raises
+    his hands and calls the tempest, lightning, and thunder, which come with darkness
+    from the Thunder Mountains.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 20892-21003, editorial note on Tawaki
+  quote_or_summary: The commentary cites a New Zealand legend in which Tawaki calls
+    to the gods and the floods of heaven descend, overwhelming the earth and killing
+    all human beings.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 20892-21003, editorial note on St. Scholastica
+  quote_or_summary: The commentary cites St. Scholastica praying that heaven intervene,
+    after which a furious tempest of rain, thunder, and lightning prevents St. Benedict’s
+    departure.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Primary storm sequence is clear, but the excerpt is mid-context and OCR/lineation
+    are irregular. Comparative claims are based on the editor’s own analogies and
+    should not be read as historical-contact claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction separates the translated Zulu tale episode from the English editorial comparison note. The unglossed term “mayoya” is recorded only as part of the speech and is not treated as a figure or symbol.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l20892-l21003
+  passage_sha256=5321fd18f9e369c70b97ea7010b764832b8166f5af7fdc3c5b4d432b8e056b53
+

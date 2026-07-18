@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l35430-l35466
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZIXGANEKWANE. / APPENDIX. / ISITWALANGCENGCE. / ISITWALANGCENGCE.; lines
+    35430-35466
+  start: '35430'
+  end: '35466'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: there used to be an animal called the Isitwalangcengce
+  summary: The passage reports an ancestral tale about an animal named Isitwalangcengce,
+    described as hyena-like, with a broad head used as a carrying basket. In famine
+    it leaves the open country and stays near a village. A note glosses the name as
+    “Basket-bearer.”
+  language: Zulu and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage introduces the account as a tale heard from the ancients.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The animal is called Isitwalangcengce.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The animal is said to be like a hyena.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The animal’s head is described as somewhat spread out and broad.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The animal carries all things, with its head serving as a carrying basket.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When there is a famine, the animal no longer lives in the open country.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When there is a famine, the animal remains constantly near a village.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A footnote glosses Isitwalangcengce as “Basket-bearer.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Isitwalangcengce
+  description: A hyena-like animal with a broad head used as a carrying basket; it
+    comes near a village during famine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: animal described in ancestral tale
+  assigned_to:
+  - fig:1
+  basis: The passage says the account is heard from the ancients and names an animal
+    called Isitwalangcengce.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: basket-bearer or carrier
+  assigned_to:
+  - fig:1
+  basis: The animal carries all things, its head is described as a basket for carrying,
+    and the note glosses the name as “Basket-bearer.”
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: carrying basket head
+  literal_form: The animal’s head is described as a basket for carrying.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Isitwalangcengce
+  summary: An ancestral tale describes an animal called Isitwalangcengce as hyena-like,
+    with a broad head that functions as a carrying basket.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Famine behavior near a village
+  summary: During famine, the animal is said to stop living in the open country and
+    to stay near a village.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: basket-bearing animal
+  taxonomy_refs: []
+  basis: The named animal carries all things, and its head is described as a carrying
+    basket; the note glosses the name as “Basket-bearer.”
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is descriptive and does not provide a fuller narrative function
+    for the animal.
+- id: motif:2
+  label: famine draws wild animal toward human settlement
+  taxonomy_refs: []
+  basis: The passage states that when there is a famine, the animal no longer lives
+    in the open country and remains near a village.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief behavioral statement and does not explain
+    the reason or consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 35430-35466
+  quote_or_summary: "“There is a tale which we hear from the ancients; they say, there
+    used to be an animal called the Isitwalangcengce; it was like an hyena.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 35430-35466
+  quote_or_summary: "“its little head was rather spread out, and broadish; it carried
+    all things, its head being a basket for carrying.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 35430-35466
+  quote_or_summary: "“If there was a famine it no longer lived in the open country,
+    but remained constantly near a village.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: footnote 93 within 35430-35466
+  quote_or_summary: "“Basket-bearer.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and mostly descriptive. No cross-tradition comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage supports only local descriptive motif candidates.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l35430-l35466
+  passage_sha256=d9271b9a6042c642fd961e9a66e28eab66149e271746fa0349253e0bba2cc8c8
+

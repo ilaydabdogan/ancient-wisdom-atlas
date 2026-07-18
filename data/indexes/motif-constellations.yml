@@ -1,15 +1,15 @@
 ---
 motif_constellation_index_version: '1'
-generated_at: '2026-07-18T16:19:48Z'
+generated_at: '2026-07-18T18:27:59Z'
 summary:
-  traditions_analyzed: 53
+  traditions_analyzed: 59
   traditions_skipped_small: 6
-  conserved_edges: 300
+  conserved_edges: 308
   constellations: 1
   min_pair_count: 3
   min_traditions: 4
 constellations:
-- constellation_id: constellation_miraculous_child
+- constellation_id: constellation_death_and_transformation
   families:
   - afterlife_passage
   - ascent
@@ -40,52 +40,15 @@ constellations:
   - shapeshifter
   - trickster
   size: 28
-  internal_edges: 300
-  mean_edge_traditions: 11.54
+  internal_edges: 308
+  mean_edge_traditions: 12.76
 conserved_edges:
-- pair:
-  - initiation
-  - sacred_exchange
-  tradition_count: 32
-  traditions:
-  - andamanese
-  - australian-aboriginal
-  - biblical
-  - buddhist
-  - christian-apocrypha
-  - comparative
-  - estonian
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - gnostic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - nahua-maya-inca
-  - native-american-great-lakes
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - navajo
-  - norse
-  - persian
-  - roman
-  - sikh
-  - slavic
-  - sufi
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 428
 - pair:
   - hero_journey
   - mystical_quest
-  tradition_count: 31
+  tradition_count: 36
   traditions:
+  - arthurian
   - australian-aboriginal
   - buddhist
   - caucasian
@@ -95,6 +58,7 @@ conserved_edges:
   - egyptian
   - estonian
   - ethiopian-christian
+  - filipino
   - finnish-karelian
   - germanic
   - gnostic
@@ -114,15 +78,19 @@ conserved_edges:
   - native-american-southwest
   - norse
   - persian
+  - romanian
+  - siberian
   - slavic
   - sufi
+  - zulu
   - zuni
-  total_cooccurrences: 629
+  total_cooccurrences: 968
 - pair:
   - sacred_exchange
   - sacrifice
-  tradition_count: 30
+  tradition_count: 36
   traditions:
+  - arthurian
   - biblical
   - buddhist
   - caucasian
@@ -130,15 +98,18 @@ conserved_edges:
   - egyptian
   - estonian
   - ethiopian-christian
+  - filipino
   - finnish-karelian
   - germanic
   - greek
+  - greek-roman
   - hawaiian
   - hindu
   - hopi
   - islamic
   - islamicate-folklore
   - jewish-pseudepigrapha
+  - mesopotamian
   - mongol
   - nahua-maya-inca
   - native-american-northwest-coast
@@ -149,54 +120,65 @@ conserved_edges:
   - norse
   - persian
   - roman
+  - siberian
   - slavic
   - sufi
   - zoroastrian
+  - zulu
   - zuni
-  total_cooccurrences: 779
+  total_cooccurrences: 986
 - pair:
-  - mystical_quest
-  - sacred_knowledge
-  tradition_count: 29
+  - initiation
+  - sacred_exchange
+  tradition_count: 34
   traditions:
+  - andamanese
+  - arthurian
+  - australian-aboriginal
   - biblical
   - buddhist
-  - celtic-irish
   - christian-apocrypha
+  - comparative
+  - egyptian
   - estonian
   - ethiopian-christian
+  - filipino
   - finnish-karelian
   - germanic
   - gnostic
-  - greek-roman
   - hermetic
   - hindu
   - hopi
-  - inuit
   - islamic
-  - islamicate-folklore
-  - jewish-pseudepigrapha
-  - mesopotamian
+  - nahua-maya-inca
+  - native-american-great-lakes
+  - native-american-northwest-coast
   - native-american-plains
   - native-american-southeast
   - native-american-southwest
   - navajo
   - norse
-  - persian
   - roman
+  - romanian
   - sikh
   - slavic
+  - sufi
   - zoroastrian
+  - zulu
   - zuni
-  total_cooccurrences: 809
+  total_cooccurrences: 479
 - pair:
   - initiation
   - sacred_knowledge
-  tradition_count: 29
+  tradition_count: 33
   traditions:
   - amazonian
+  - arthurian
   - australian-aboriginal
   - buddhist
+  - celtic-irish
+  - comparative
+  - daoist
   - egyptian
   - estonian
   - ethiopian-christian
@@ -217,27 +199,65 @@ conserved_edges:
   - native-american-southwest
   - navajo
   - norse
-  - roman
+  - romanian
   - sikh
   - slavic
   - sufi
   - zoroastrian
   - zuni
-  total_cooccurrences: 757
+  total_cooccurrences: 1031
+- pair:
+  - mystical_quest
+  - sacred_knowledge
+  tradition_count: 31
+  traditions:
+  - arthurian
+  - biblical
+  - buddhist
+  - christian-apocrypha
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek-roman
+  - hermetic
+  - hindu
+  - hopi
+  - inuit
+  - islamic
+  - islamicate-folklore
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - navajo
+  - norse
+  - persian
+  - romanian
+  - sikh
+  - slavic
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 876
 - pair:
   - divine_judgment
   - sacred_knowledge
-  tradition_count: 28
+  tradition_count: 30
   traditions:
   - ainu
+  - arthurian
   - australian-aboriginal
   - biblical
-  - buddhist
   - caucasian
   - celtic-irish
   - celtic-welsh
   - christian-apocrypha
   - confucian
+  - daoist
   - egyptian
   - finnish-karelian
   - germanic
@@ -253,16 +273,18 @@ conserved_edges:
   - native-american-southeast
   - persian
   - roman
+  - romanian
   - sikh
   - slavic
   - sufi
   - zoroastrian
-  total_cooccurrences: 1551
+  total_cooccurrences: 1878
 - pair:
   - initiation
   - mystical_quest
-  tradition_count: 28
+  tradition_count: 30
   traditions:
+  - arthurian
   - buddhist
   - celtic-welsh
   - christian-apocrypha
@@ -288,14 +310,15 @@ conserved_edges:
   - norse
   - persian
   - roman
+  - romanian
   - slavic
   - sufi
   - zuni
-  total_cooccurrences: 485
+  total_cooccurrences: 706
 - pair:
   - ascent
   - mystical_quest
-  tradition_count: 27
+  tradition_count: 29
   traditions:
   - buddhist
   - caucasian
@@ -303,6 +326,7 @@ conserved_edges:
   - daoist
   - egyptian
   - estonian
+  - filipino
   - germanic
   - gnostic
   - greek
@@ -312,6 +336,7 @@ conserved_edges:
   - hopi
   - islamic
   - islamicate-folklore
+  - japanese
   - jewish-pseudepigrapha
   - native-american-northwest-coast
   - native-american-plains
@@ -324,48 +349,54 @@ conserved_edges:
   - slavic
   - sufi
   - zuni
-  total_cooccurrences: 379
+  total_cooccurrences: 556
 - pair:
   - ascent
-  - miraculous_child
-  tradition_count: 25
+  - hero_journey
+  tradition_count: 29
   traditions:
+  - australian-aboriginal
   - biblical
   - buddhist
+  - daoist
   - egyptian
-  - estonian
   - ethiopian-christian
+  - filipino
   - germanic
   - gnostic
-  - greek
   - greek-roman
+  - guiana-amerindian
+  - hawaiian
   - hermetic
-  - hindu
-  - inuit
+  - hopi
   - islamic
-  - jewish-pseudepigrapha
+  - islamicate-folklore
+  - japanese
+  - mesopotamian
   - mongol
   - nahua-maya-inca
   - native-american-northwest-coast
   - native-american-plains
   - native-american-southeast
-  - navajo
-  - norse
-  - roman
+  - native-american-southwest
+  - persian
+  - siberian
+  - slavic
   - sufi
-  - zoroastrian
   - zuni
-  total_cooccurrences: 243
+  total_cooccurrences: 383
 - pair:
   - hero_journey
   - initiation
-  tradition_count: 25
+  tradition_count: 29
   traditions:
   - buddhist
   - caucasian
   - celtic-welsh
   - christian-apocrypha
   - comparative
+  - daoist
+  - egyptian
   - finnish-karelian
   - germanic
   - greek
@@ -382,15 +413,17 @@ conserved_edges:
   - native-american-southwest
   - persian
   - roman
+  - romanian
   - sikh
   - slavic
   - sufi
+  - zulu
   - zuni
-  total_cooccurrences: 448
+  total_cooccurrences: 578
 - pair:
   - death_and_transformation
   - miraculous_child
-  tradition_count: 25
+  tradition_count: 27
   traditions:
   - australian-aboriginal
   - biblical
@@ -417,11 +450,13 @@ conserved_edges:
   - norse
   - roman
   - sufi
-  total_cooccurrences: 313
+  - zoroastrian
+  - zulu
+  total_cooccurrences: 390
 - pair:
   - hero_journey
   - sacred_exchange
-  tradition_count: 24
+  tradition_count: 27
   traditions:
   - afro-caribbean
   - buddhist
@@ -430,8 +465,10 @@ conserved_edges:
   - christian-apocrypha
   - egyptian
   - ethiopian-christian
+  - filipino
   - germanic
   - greek
+  - greek-roman
   - hawaiian
   - hindu
   - hopi
@@ -446,49 +483,22 @@ conserved_edges:
   - roman
   - sikh
   - sufi
+  - zulu
   - zuni
-  total_cooccurrences: 708
-- pair:
-  - ascent
-  - hero_journey
-  tradition_count: 24
-  traditions:
-  - australian-aboriginal
-  - biblical
-  - buddhist
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - gnostic
-  - guiana-amerindian
-  - hawaiian
-  - hermetic
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - japanese
-  - mongol
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - persian
-  - slavic
-  - sufi
-  - zuni
-  total_cooccurrences: 306
+  total_cooccurrences: 884
 - pair:
   - mystical_quest
   - sacred_exchange
-  tradition_count: 24
+  tradition_count: 27
   traditions:
   - ainu
+  - arthurian
   - buddhist
   - caucasian
   - celtic-irish
   - christian-apocrypha
   - ethiopian-christian
+  - filipino
   - finnish-karelian
   - greek
   - greek-roman
@@ -498,6 +508,7 @@ conserved_edges:
   - islamic
   - islamicate-folklore
   - japanese
+  - mesopotamian
   - native-american-northwest-coast
   - native-american-plains
   - native-american-southeast
@@ -507,15 +518,311 @@ conserved_edges:
   - sufi
   - zoroastrian
   - zuni
-  total_cooccurrences: 400
+  total_cooccurrences: 569
+- pair:
+  - divine_judgment
+  - sacred_exchange
+  tradition_count: 27
+  traditions:
+  - ainu
+  - arthurian
+  - australian-aboriginal
+  - buddhist
+  - comparative
+  - egyptian
+  - estonian
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - hopi
+  - japanese
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - persian
+  - roman
+  - slavic
+  - sufi
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 631
+- pair:
+  - sacred_exchange
+  - sacred_knowledge
+  tradition_count: 27
+  traditions:
+  - arthurian
+  - australian-aboriginal
+  - caucasian
+  - celtic-irish
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - germanic
+  - gnostic
+  - greek-roman
+  - hermetic
+  - hopi
+  - inuit
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-great-lakes
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - navajo
+  - norse
+  - persian
+  - roman
+  - romanian
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 742
+- pair:
+  - death_and_transformation
+  - sacred_knowledge
+  tradition_count: 27
+  traditions:
+  - andamanese
+  - biblical
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek-roman
+  - hermetic
+  - hindu
+  - hopi
+  - islamic
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - persian
+  - roman
+  - sikh
+  - slavic
+  - zuni
+  total_cooccurrences: 901
+- pair:
+  - ascent
+  - miraculous_child
+  tradition_count: 27
+  traditions:
+  - biblical
+  - buddhist
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - filipino
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - inuit
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - mongol
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - navajo
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 304
+- pair:
+  - death_and_transformation
+  - hero_journey
+  tradition_count: 27
+  traditions:
+  - biblical
+  - buddhist
+  - christian-apocrypha
+  - comparative
+  - daoist
+  - estonian
+  - gnostic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hermetic
+  - hopi
+  - islamic
+  - islamicate-folklore
+  - mesopotamian
+  - mongol
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southwest
+  - norse
+  - roman
+  - siberian
+  - sikh
+  - sufi
+  - zoroastrian
+  - zulu
+  - zuni
+  total_cooccurrences: 510
+- pair:
+  - mystical_quest
+  - sacred_love
+  tradition_count: 27
+  traditions:
+  - ainu
+  - biblical
+  - caucasian
+  - celtic-irish
+  - celtic-welsh
+  - egyptian
+  - estonian
+  - filipino
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hermetic
+  - hindu
+  - hopi
+  - japanese
+  - mesopotamian
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - romanian
+  - siberian
+  - sikh
+  - slavic
+  - sufi
+  - zuni
+  total_cooccurrences: 475
+- pair:
+  - hero_journey
+  - royal_legitimacy
+  tradition_count: 26
+  traditions:
+  - arthurian
+  - buddhist
+  - caucasian
+  - celtic-welsh
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - hopi
+  - islamic
+  - japanese
+  - mongol
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  - persian
+  - roman
+  - romanian
+  - slavic
+  - sufi
+  - zoroastrian
+  - zulu
+  total_cooccurrences: 838
+- pair:
+  - miraculous_child
+  - sacred_exchange
+  tradition_count: 26
+  traditions:
+  - ainu
+  - biblical
+  - caucasian
+  - christian-apocrypha
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - filipino
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hermetic
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - mongol
+  - nahua-maya-inca
+  - norse
+  - persian
+  - roman
+  - romanian
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 487
+- pair:
+  - afterlife_passage
+  - death_and_transformation
+  tradition_count: 26
+  traditions:
+  - andamanese
+  - australian-aboriginal
+  - biblical
+  - buddhist
+  - celtic-irish
+  - christian-apocrypha
+  - comparative
+  - egyptian
+  - ethiopian-christian
+  - finnish-karelian
+  - gnostic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hermetic
+  - hindu
+  - hopi
+  - islamic
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-southeast
+  - norse
+  - roman
+  - sikh
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 466
 - pair:
   - culture_hero
   - sacred_knowledge
-  tradition_count: 24
+  tradition_count: 25
   traditions:
   - andamanese
   - australian-aboriginal
   - celtic-irish
+  - daoist
+  - filipino
   - finnish-karelian
   - greek
   - greek-roman
@@ -532,134 +839,166 @@ conserved_edges:
   - native-american-southwest
   - navajo
   - norse
-  - persian
   - roman
   - sikh
   - zoroastrian
   - zuni
-  total_cooccurrences: 305
+  total_cooccurrences: 368
 - pair:
   - death_and_transformation
-  - sacred_knowledge
-  tradition_count: 24
+  - mystical_quest
+  tradition_count: 25
   traditions:
-  - andamanese
-  - biblical
+  - arthurian
   - buddhist
   - celtic-irish
-  - celtic-welsh
   - comparative
+  - daoist
+  - egyptian
   - finnish-karelian
   - germanic
-  - gnostic
+  - greek
   - greek-roman
   - hermetic
   - hindu
   - hopi
   - islamic
-  - nahua-maya-inca
+  - islamicate-folklore
+  - mesopotamian
   - native-american-northwest-coast
   - native-american-plains
-  - native-american-southeast
   - native-american-southwest
+  - norse
   - persian
   - roman
   - sikh
   - slavic
-  - zuni
-  total_cooccurrences: 772
+  - sufi
+  total_cooccurrences: 591
 - pair:
-  - sacred_exchange
-  - sacred_knowledge
+  - initiation
+  - miraculous_child
   tradition_count: 24
   traditions:
   - australian-aboriginal
+  - buddhist
   - caucasian
   - celtic-irish
+  - comparative
   - egyptian
-  - estonian
-  - ethiopian-christian
   - germanic
   - gnostic
-  - greek-roman
+  - greek
+  - hawaiian
   - hermetic
+  - hindu
   - hopi
-  - inuit
+  - islamic
   - mesopotamian
   - nahua-maya-inca
-  - native-american-great-lakes
+  - native-american-northwest-coast
   - native-american-plains
   - native-american-southeast
-  - native-american-southwest
   - navajo
   - norse
   - persian
-  - slavic
   - sufi
-  - zoroastrian
-  total_cooccurrences: 526
+  - zuni
+  total_cooccurrences: 246
 - pair:
-  - mystical_quest
-  - sacred_love
-  tradition_count: 23
+  - divine_judgment
+  - miraculous_child
+  tradition_count: 24
   traditions:
   - ainu
+  - andamanese
+  - australian-aboriginal
   - biblical
   - caucasian
   - celtic-irish
   - celtic-welsh
   - egyptian
-  - estonian
+  - finnish-karelian
   - germanic
   - greek
   - greek-roman
   - hawaiian
-  - hermetic
   - hindu
-  - hopi
-  - japanese
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - mongol
   - native-american-northwest-coast
-  - native-american-southeast
+  - native-american-southwest
   - norse
   - roman
-  - sikh
-  - slavic
+  - romanian
   - sufi
-  - zuni
-  total_cooccurrences: 384
+  total_cooccurrences: 553
 - pair:
-  - afterlife_passage
-  - death_and_transformation
-  tradition_count: 23
+  - royal_legitimacy
+  - sacred_exchange
+  tradition_count: 24
   traditions:
-  - andamanese
-  - australian-aboriginal
-  - biblical
   - buddhist
+  - caucasian
   - celtic-irish
+  - celtic-welsh
   - christian-apocrypha
+  - comparative
   - egyptian
   - ethiopian-christian
-  - finnish-karelian
-  - gnostic
+  - germanic
   - greek
-  - hawaiian
-  - hermetic
   - hindu
-  - hopi
   - islamic
-  - nahua-maya-inca
-  - native-american-southeast
-  - norse
+  - islamicate-folklore
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - mongol
+  - native-american-northwest-coast
+  - native-american-plains
   - roman
+  - romanian
   - sikh
   - sufi
+  - zulu
+  total_cooccurrences: 654
+- pair:
+  - miraculous_child
+  - royal_legitimacy
+  tradition_count: 24
+  traditions:
+  - biblical
+  - buddhist
+  - caucasian
+  - celtic-irish
+  - celtic-welsh
+  - christian-apocrypha
+  - comparative
+  - egyptian
+  - estonian
+  - finnish-karelian
+  - germanic
+  - greek
+  - hindu
+  - islamic
+  - islamicate-folklore
+  - japanese
+  - mongol
+  - nahua-maya-inca
+  - norse
+  - persian
+  - roman
+  - sufi
   - zoroastrian
-  total_cooccurrences: 362
+  - zulu
+  total_cooccurrences: 490
 - pair:
   - death_and_transformation
   - divine_judgment
-  tradition_count: 23
+  tradition_count: 24
   traditions:
   - ainu
   - australian-aboriginal
@@ -678,298 +1017,169 @@ conserved_edges:
   - hopi
   - islamic
   - jewish-pseudepigrapha
+  - mesopotamian
   - norse
   - persian
   - roman
   - sikh
   - slavic
   - sufi
-  total_cooccurrences: 960
+  total_cooccurrences: 1087
 - pair:
+  - ascent
   - death_and_transformation
-  - hero_journey
   tradition_count: 23
   traditions:
+  - andamanese
   - biblical
   - buddhist
-  - celtic-irish
   - christian-apocrypha
   - comparative
-  - estonian
+  - daoist
+  - egyptian
+  - ethiopian-christian
   - gnostic
   - greek
   - greek-roman
-  - hawaiian
   - hermetic
+  - hindu
   - hopi
   - islamic
-  - islamicate-folklore
-  - mongol
+  - nahua-maya-inca
   - native-american-northwest-coast
   - native-american-plains
   - native-american-southwest
-  - norse
-  - sikh
+  - roman
   - sufi
   - zoroastrian
-  - zuni
+  - zulu
   total_cooccurrences: 388
 - pair:
-  - initiation
+  - sacred_love
+  - shapeshifter
+  tradition_count: 23
+  traditions:
+  - afro-caribbean
+  - ainu
+  - australian-aboriginal
+  - celtic-irish
+  - estonian
+  - filipino
+  - germanic
+  - greek
+  - greek-roman
+  - guiana-amerindian
+  - hindu
+  - hopi
+  - mongol
+  - native-american-northwest-coast
+  - native-american-plains
+  - norse
+  - roman
+  - romanian
+  - san
+  - siberian
+  - slavic
+  - zulu
+  - zuni
+  total_cooccurrences: 403
+- pair:
+  - hero_journey
+  - sacred_knowledge
+  tradition_count: 23
+  traditions:
+  - afro-caribbean
+  - ainu
+  - arthurian
+  - australian-aboriginal
+  - buddhist
+  - confucian
+  - daoist
+  - egyptian
+  - ethiopian-christian
+  - gnostic
+  - greek-roman
+  - hawaiian
+  - hopi
+  - inuit
+  - islamic
+  - japanese
+  - mesopotamian
+  - native-american-plains
+  - navajo
+  - roman
+  - romanian
+  - siberian
+  - slavic
+  total_cooccurrences: 682
+- pair:
+  - sacred_exchange
+  - sacred_love
+  tradition_count: 23
+  traditions:
+  - ainu
+  - biblical
+  - buddhist
+  - caucasian
+  - celtic-irish
+  - comparative
+  - egyptian
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hawaiian
+  - hopi
+  - islamicate-folklore
+  - japanese
+  - mesopotamian
+  - native-american-northwest-coast
+  - norse
+  - persian
+  - roman
+  - romanian
+  - zoroastrian
+  total_cooccurrences: 329
+- pair:
+  - hero_journey
   - miraculous_child
   tradition_count: 23
   traditions:
-  - australian-aboriginal
+  - biblical
   - buddhist
-  - caucasian
-  - celtic-irish
   - comparative
-  - germanic
+  - daoist
+  - estonian
+  - filipino
   - gnostic
   - greek
-  - hawaiian
   - hermetic
-  - hindu
-  - hopi
   - islamic
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - navajo
-  - norse
-  - persian
-  - roman
-  - sufi
-  - zuni
-  total_cooccurrences: 227
-- pair:
-  - miraculous_child
-  - sacred_exchange
-  tradition_count: 22
-  traditions:
-  - biblical
-  - caucasian
-  - christian-apocrypha
-  - estonian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hermetic
-  - hindu
-  - islamic
-  - japanese
   - jewish-pseudepigrapha
   - mongol
   - nahua-maya-inca
-  - norse
-  - persian
-  - roman
-  - slavic
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 404
-- pair:
-  - royal_legitimacy
-  - sacred_exchange
-  tradition_count: 22
-  traditions:
-  - buddhist
-  - caucasian
-  - celtic-irish
-  - celtic-welsh
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - hindu
-  - islamic
-  - islamicate-folklore
-  - japanese
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - mongol
-  - native-american-northwest-coast
-  - native-american-plains
-  - roman
-  - sikh
-  - sufi
-  total_cooccurrences: 561
-- pair:
-  - miraculous_child
-  - royal_legitimacy
-  tradition_count: 22
-  traditions:
-  - biblical
-  - buddhist
-  - caucasian
-  - celtic-irish
-  - celtic-welsh
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hindu
-  - islamic
-  - islamicate-folklore
-  - mesopotamian
-  - mongol
-  - nahua-maya-inca
-  - norse
-  - persian
-  - roman
-  - zoroastrian
-  total_cooccurrences: 429
-- pair:
-  - death_and_transformation
-  - mystical_quest
-  tradition_count: 21
-  traditions:
-  - buddhist
-  - celtic-irish
-  - daoist
-  - egyptian
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - native-american-northwest-coast
   - native-american-plains
   - native-american-southwest
-  - norse
-  - roman
-  - sikh
-  - slavic
-  - sufi
-  total_cooccurrences: 394
-- pair:
-  - divine_judgment
-  - sacred_exchange
-  tradition_count: 21
-  traditions:
-  - australian-aboriginal
-  - buddhist
-  - comparative
-  - estonian
-  - germanic
-  - gnostic
-  - greek
-  - hawaiian
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - norse
   - persian
   - roman
+  - romanian
+  - siberian
   - slavic
   - sufi
   - zoroastrian
   - zuni
-  total_cooccurrences: 432
-- pair:
-  - hero_journey
-  - royal_legitimacy
-  tradition_count: 21
-  traditions:
-  - caucasian
-  - celtic-welsh
-  - estonian
-  - ethiopian-christian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - hopi
-  - islamic
-  - japanese
-  - mongol
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  - persian
-  - roman
-  - slavic
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 642
-- pair:
-  - sacred_exchange
-  - shapeshifter
-  tradition_count: 21
-  traditions:
-  - ainu
-  - buddhist
-  - celtic-irish
-  - celtic-welsh
-  - comparative
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - native-american-plains
-  - native-american-southeast
-  - navajo
-  - norse
-  - slavic
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 310
-- pair:
-  - afterlife_passage
-  - divine_judgment
-  tradition_count: 20
-  traditions:
-  - australian-aboriginal
-  - biblical
-  - christian-apocrypha
-  - egyptian
-  - finnish-karelian
-  - germanic
-  - gnostic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - jewish-pseudepigrapha
-  - norse
-  - roman
-  - sikh
-  - slavic
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 504
+  total_cooccurrences: 333
 - pair:
   - axis_mundi
   - sacred_knowledge
-  tradition_count: 20
+  tradition_count: 22
   traditions:
   - ainu
   - biblical
-  - buddhist
   - celtic-irish
+  - comparative
+  - daoist
   - egyptian
   - estonian
   - ethiopian-christian
@@ -986,16 +1196,17 @@ conserved_edges:
   - norse
   - persian
   - roman
-  total_cooccurrences: 285
+  - sufi
+  total_cooccurrences: 315
 - pair:
   - mystical_quest
   - shapeshifter
-  tradition_count: 20
+  tradition_count: 22
   traditions:
   - ainu
   - caucasian
-  - celtic-irish
   - celtic-welsh
+  - egyptian
   - finnish-karelian
   - germanic
   - greek
@@ -1010,534 +1221,84 @@ conserved_edges:
   - native-american-southwest
   - norse
   - roman
+  - romanian
   - slavic
+  - sufi
   - zuni
-  total_cooccurrences: 271
+  total_cooccurrences: 332
+- pair:
+  - sacred_exchange
+  - shapeshifter
+  tradition_count: 22
+  traditions:
+  - ainu
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - comparative
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - hopi
+  - islamic
+  - islamicate-folklore
+  - native-american-plains
+  - native-american-southeast
+  - navajo
+  - norse
+  - romanian
+  - slavic
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 359
 - pair:
   - ascent
   - axis_mundi
-  tradition_count: 20
+  tradition_count: 22
   traditions:
   - australian-aboriginal
   - biblical
   - buddhist
+  - daoist
   - ethiopian-christian
   - finnish-karelian
   - greek
   - hindu
   - hopi
   - islamic
-  - islamicate-folklore
-  - jewish-pseudepigrapha
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - navajo
-  - norse
-  - roman
-  - slavic
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 147
-- pair:
-  - sacred_exchange
-  - sacred_love
-  tradition_count: 20
-  traditions:
-  - ainu
-  - biblical
-  - buddhist
-  - caucasian
-  - celtic-irish
-  - comparative
-  - egyptian
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hawaiian
-  - hopi
   - islamicate-folklore
   - japanese
-  - native-american-northwest-coast
-  - norse
-  - persian
-  - roman
-  - zoroastrian
-  total_cooccurrences: 261
-- pair:
-  - miraculous_child
-  - shapeshifter
-  tradition_count: 20
-  traditions:
-  - ainu
-  - andamanese
-  - celtic-irish
-  - celtic-welsh
-  - christian-apocrypha
-  - egyptian
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 316
-- pair:
-  - ascent
-  - death_and_transformation
-  tradition_count: 20
-  traditions:
-  - andamanese
-  - biblical
-  - christian-apocrypha
-  - comparative
-  - daoist
-  - egyptian
-  - ethiopian-christian
-  - gnostic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southwest
-  - roman
-  - sufi
-  total_cooccurrences: 290
-- pair:
-  - divine_judgment
-  - miraculous_child
-  tradition_count: 20
-  traditions:
-  - andamanese
-  - australian-aboriginal
-  - biblical
-  - caucasian
-  - celtic-irish
-  - celtic-welsh
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - mongol
-  - native-american-northwest-coast
-  - native-american-southwest
-  - norse
-  - roman
-  - sufi
-  total_cooccurrences: 428
-- pair:
-  - ascent
-  - sacred_knowledge
-  tradition_count: 20
-  traditions:
-  - afro-caribbean
-  - akan
-  - andamanese
-  - egyptian
-  - germanic
-  - gnostic
-  - greek
-  - hawaiian
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - persian
-  - roman
-  - slavic
-  - sufi
-  total_cooccurrences: 474
-- pair:
-  - culture_hero
-  - miraculous_child
-  tradition_count: 19
-  traditions:
-  - australian-aboriginal
-  - caucasian
-  - celtic-irish
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - japanese
-  - mongol
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - navajo
-  - norse
-  - roman
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 206
-- pair:
-  - ascent
-  - divine_judgment
-  tradition_count: 19
-  traditions:
-  - australian-aboriginal
-  - biblical
-  - egyptian
-  - estonian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - inuit
-  - islamic
   - jewish-pseudepigrapha
   - native-american-plains
-  - native-american-southeast
-  - norse
-  - roman
-  - sufi
-  - zuni
-  total_cooccurrences: 350
-- pair:
-  - death_and_transformation
-  - sacrifice
-  tradition_count: 19
-  traditions:
-  - biblical
-  - buddhist
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - hawaiian
-  - hindu
-  - jewish-pseudepigrapha
-  - mongol
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - roman
-  - slavic
-  - sufi
-  total_cooccurrences: 245
-- pair:
-  - hero_journey
-  - miraculous_child
-  tradition_count: 18
-  traditions:
-  - biblical
-  - buddhist
-  - comparative
-  - estonian
-  - gnostic
-  - greek
-  - hermetic
-  - islamic
-  - jewish-pseudepigrapha
-  - mongol
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southwest
-  - persian
-  - roman
-  - slavic
-  - sufi
-  - zuni
-  total_cooccurrences: 259
-- pair:
-  - sacred_love
-  - shapeshifter
-  tradition_count: 18
-  traditions:
-  - afro-caribbean
-  - ainu
-  - australian-aboriginal
-  - celtic-irish
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - guiana-amerindian
-  - hindu
-  - hopi
-  - mongol
-  - native-american-northwest-coast
-  - native-american-plains
-  - norse
-  - roman
-  - slavic
-  - zuni
-  total_cooccurrences: 307
-- pair:
-  - flood_and_renewal
-  - sacred_knowledge
-  tradition_count: 18
-  traditions:
-  - celtic-irish
-  - celtic-welsh
-  - ethiopian-christian
-  - finnish-karelian
-  - gnostic
-  - guiana-amerindian
-  - hawaiian
-  - hindu
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - navajo
-  - persian
-  - slavic
-  - sufi
-  total_cooccurrences: 146
-- pair:
-  - duality
-  - sacred_knowledge
-  tradition_count: 18
-  traditions:
-  - biblical
-  - buddhist
-  - christian-apocrypha
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hermetic
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - native-american-southeast
-  - persian
-  - roman
-  - sikh
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 704
-- pair:
-  - death_and_transformation
-  - initiation
-  tradition_count: 18
-  traditions:
-  - biblical
-  - buddhist
-  - comparative
-  - egyptian
-  - estonian
-  - germanic
-  - gnostic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - native-american-great-lakes
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - navajo
-  - sufi
-  - zuni
-  total_cooccurrences: 201
-- pair:
-  - afterlife_passage
-  - ascent
-  tradition_count: 17
-  traditions:
-  - andamanese
-  - australian-aboriginal
-  - buddhist
-  - christian-apocrypha
-  - egyptian
-  - estonian
-  - germanic
-  - gnostic
-  - greek
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - native-american-northwest-coast
-  - native-american-southeast
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 188
-- pair:
-  - death_and_transformation
-  - shapeshifter
-  tradition_count: 17
-  traditions:
-  - celtic-irish
-  - celtic-welsh
-  - comparative
-  - egyptian
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - inuit
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 226
-- pair:
-  - miraculous_child
-  - sacred_knowledge
-  tradition_count: 17
-  traditions:
-  - biblical
-  - celtic-irish
-  - celtic-welsh
-  - germanic
-  - gnostic
-  - greek-roman
-  - hawaiian
-  - hermetic
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - slavic
-  - zoroastrian
-  total_cooccurrences: 259
-- pair:
-  - flood_and_renewal
-  - mystical_quest
-  tradition_count: 17
-  traditions:
-  - biblical
-  - celtic-irish
-  - egyptian
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hindu
-  - hopi
-  - islamic
-  - mesopotamian
-  - native-american-northwest-coast
-  - persian
-  - roman
-  - sikh
-  - sufi
-  - zuni
-  total_cooccurrences: 95
-- pair:
-  - mystical_quest
-  - sacrifice
-  tradition_count: 17
-  traditions:
-  - buddhist
-  - celtic-irish
-  - comparative
-  - estonian
-  - ethiopian-christian
-  - germanic
-  - islamic
-  - nahua-maya-inca
   - native-american-southeast
   - native-american-southwest
   - navajo
   - norse
-  - persian
-  - sikh
-  - slavic
-  - sufi
-  - zuni
-  total_cooccurrences: 126
-- pair:
-  - ascent
-  - initiation
-  tradition_count: 17
-  traditions:
-  - biblical
-  - buddhist
-  - christian-apocrypha
-  - daoist
-  - germanic
-  - gnostic
-  - greek
-  - greek-roman
-  - hermetic
-  - hindu
-  - islamicate-folklore
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - slavic
-  - sufi
-  - zuni
-  total_cooccurrences: 227
-- pair:
-  - descent
-  - hero_journey
-  tradition_count: 17
-  traditions:
-  - caucasian
-  - celtic-irish
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-southeast
-  - native-american-southwest
-  - norse
   - roman
   - slavic
+  - sufi
+  - zoroastrian
   total_cooccurrences: 173
 - pair:
   - sacred_knowledge
   - trickster
-  tradition_count: 17
+  tradition_count: 22
   traditions:
+  - ainu
   - australian-aboriginal
   - buddhist
   - caucasian
   - celtic-irish
   - celtic-welsh
+  - egyptian
   - estonian
+  - filipino
   - germanic
   - greek-roman
+  - indigenous-australian
   - islamic
   - japanese
   - jewish-pseudepigrapha
@@ -1545,37 +1306,533 @@ conserved_edges:
   - navajo
   - norse
   - roman
+  - romanian
   - slavic
   - sufi
-  total_cooccurrences: 265
+  total_cooccurrences: 388
+- pair:
+  - afterlife_passage
+  - divine_judgment
+  tradition_count: 21
+  traditions:
+  - australian-aboriginal
+  - biblical
+  - celtic-irish
+  - christian-apocrypha
+  - egyptian
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - hopi
+  - islamic
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - sikh
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 615
+- pair:
+  - descent
+  - hero_journey
+  tradition_count: 21
+  traditions:
+  - caucasian
+  - celtic-irish
+  - comparative
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hopi
+  - islamic
+  - islamicate-folklore
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
+  - siberian
+  - slavic
+  - zulu
+  total_cooccurrences: 225
 - pair:
   - hero_journey
+  - sacred_love
+  tradition_count: 21
+  traditions:
+  - biblical
+  - caucasian
+  - celtic-irish
+  - comparative
+  - estonian
+  - filipino
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - jewish-pseudepigrapha
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - roman
+  - siberian
+  - slavic
+  - sufi
+  - zulu
+  - zuni
+  total_cooccurrences: 396
+- pair:
+  - flood_and_renewal
   - sacred_knowledge
-  tradition_count: 17
+  tradition_count: 21
+  traditions:
+  - arthurian
+  - celtic-irish
+  - celtic-welsh
+  - comparative
+  - daoist
+  - ethiopian-christian
+  - finnish-karelian
+  - gnostic
+  - guiana-amerindian
+  - hawaiian
+  - hindu
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - navajo
+  - slavic
+  - sufi
+  total_cooccurrences: 192
+- pair:
+  - duality
+  - sacred_knowledge
+  tradition_count: 21
+  traditions:
+  - arthurian
+  - biblical
+  - buddhist
+  - christian-apocrypha
+  - daoist
+  - ethiopian-christian
+  - finnish-karelian
+  - germanic
+  - greek
+  - hermetic
+  - hindu
+  - islamic
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-southeast
+  - persian
+  - roman
+  - sikh
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 1143
+- pair:
+  - miraculous_child
+  - shapeshifter
+  tradition_count: 21
+  traditions:
+  - ainu
+  - andamanese
+  - celtic-irish
+  - celtic-welsh
+  - christian-apocrypha
+  - egyptian
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
+  - siberian
+  - slavic
+  total_cooccurrences: 437
+- pair:
+  - ascent
+  - sacred_knowledge
+  tradition_count: 21
   traditions:
   - afro-caribbean
-  - australian-aboriginal
-  - buddhist
-  - confucian
+  - akan
+  - andamanese
+  - daoist
   - egyptian
-  - ethiopian-christian
+  - germanic
   - gnostic
+  - greek
   - hawaiian
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - roman
+  - slavic
+  - sufi
+  total_cooccurrences: 681
+- pair:
+  - death_and_transformation
+  - shapeshifter
+  tradition_count: 20
+  traditions:
+  - ainu
+  - celtic-irish
+  - celtic-welsh
+  - comparative
+  - egyptian
+  - estonian
+  - filipino
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - inuit
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - san
+  - slavic
+  total_cooccurrences: 316
+- pair:
+  - ascent
+  - divine_judgment
+  tradition_count: 20
+  traditions:
+  - ainu
+  - australian-aboriginal
+  - biblical
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - germanic
+  - hindu
   - hopi
   - inuit
   - islamic
   - japanese
+  - jewish-pseudepigrapha
   - mesopotamian
   - native-american-plains
+  - native-american-southeast
+  - norse
+  - persian
+  - roman
+  - zuni
+  total_cooccurrences: 327
+- pair:
+  - death_and_transformation
+  - sacrifice
+  tradition_count: 20
+  traditions:
+  - biblical
+  - buddhist
+  - christian-apocrypha
+  - egyptian
+  - ethiopian-christian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - jewish-pseudepigrapha
+  - mongol
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - siberian
+  - slavic
+  - sufi
+  total_cooccurrences: 252
+- pair:
+  - miraculous_child
+  - sacred_knowledge
+  tradition_count: 20
+  traditions:
+  - biblical
+  - celtic-irish
+  - celtic-welsh
+  - daoist
+  - germanic
+  - gnostic
+  - hawaiian
+  - hermetic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - romanian
+  - slavic
+  - sufi
+  - zoroastrian
+  - zulu
+  total_cooccurrences: 323
+- pair:
+  - culture_hero
+  - miraculous_child
+  tradition_count: 20
+  traditions:
+  - australian-aboriginal
+  - caucasian
+  - celtic-irish
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - japanese
+  - mongol
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
   - navajo
+  - norse
+  - roman
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 246
+- pair:
+  - ascent
+  - initiation
+  tradition_count: 19
+  traditions:
+  - biblical
+  - buddhist
+  - christian-apocrypha
+  - daoist
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - islamicate-folklore
+  - japanese
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
   - roman
   - slavic
-  total_cooccurrences: 467
+  - sufi
+  - zuni
+  total_cooccurrences: 305
+- pair:
+  - axis_mundi
+  - mystical_quest
+  tradition_count: 19
+  traditions:
+  - ainu
+  - biblical
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - daoist
+  - estonian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-plains
+  - native-american-southwest
+  - slavic
+  - sufi
+  total_cooccurrences: 180
+- pair:
+  - covenant
+  - sacred_exchange
+  tradition_count: 19
+  traditions:
+  - biblical
+  - celtic-irish
+  - celtic-welsh
+  - christian-apocrypha
+  - comparative
+  - ethiopian-christian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 300
+- pair:
+  - ascent
+  - culture_hero
+  tradition_count: 19
+  traditions:
+  - andamanese
+  - australian-aboriginal
+  - estonian
+  - greek
+  - greek-roman
+  - guiana-amerindian
+  - hawaiian
+  - hindu
+  - hopi
+  - islamic
+  - japanese
+  - mongol
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - navajo
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 116
+- pair:
+  - hero_journey
+  - sacred_twins
+  tradition_count: 19
+  traditions:
+  - arthurian
+  - biblical
+  - buddhist
+  - egyptian
+  - finnish-karelian
+  - hindu
+  - hopi
+  - inuit
+  - islamic
+  - islamicate-folklore
+  - japanese
+  - mesopotamian
+  - native-american-northwest-coast
+  - persian
+  - romanian
+  - siberian
+  - slavic
+  - zulu
+  - zuni
+  total_cooccurrences: 197
+- pair:
+  - flood_and_renewal
+  - mystical_quest
+  tradition_count: 19
+  traditions:
+  - arthurian
+  - biblical
+  - celtic-irish
+  - estonian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - islamic
+  - mesopotamian
+  - native-american-northwest-coast
+  - norse
+  - persian
+  - roman
+  - sikh
+  - sufi
+  - zuni
+  total_cooccurrences: 141
+- pair:
+  - afterlife_passage
+  - hero_journey
+  tradition_count: 18
+  traditions:
+  - buddhist
+  - celtic-irish
+  - christian-apocrypha
+  - comparative
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hopi
+  - islamic
+  - mesopotamian
+  - native-american-southeast
+  - persian
+  - roman
+  - sufi
+  - zoroastrian
+  - zulu
+  total_cooccurrences: 295
+- pair:
+  - culture_hero
+  - flood_and_renewal
+  tradition_count: 18
+  traditions:
+  - andamanese
+  - celtic-irish
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - guiana-amerindian
+  - hawaiian
+  - hindu
+  - hopi
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southwest
+  - norse
+  - zoroastrian
+  total_cooccurrences: 80
 - pair:
   - divine_judgment
   - flood_and_renewal
-  tradition_count: 17
+  tradition_count: 18
   traditions:
+  - ainu
   - andamanese
   - biblical
   - egyptian
@@ -1588,56 +1845,429 @@ conserved_edges:
   - hindu
   - hopi
   - jewish-pseudepigrapha
+  - mesopotamian
   - nahua-maya-inca
   - norse
   - roman
   - sufi
-  - zoroastrian
-  total_cooccurrences: 177
+  total_cooccurrences: 221
 - pair:
+  - culture_hero
   - hero_journey
-  - sacred_love
-  tradition_count: 16
+  tradition_count: 18
   traditions:
+  - andamanese
+  - australian-aboriginal
   - biblical
-  - caucasian
-  - celtic-irish
+  - buddhist
   - estonian
-  - germanic
+  - greek-roman
+  - guiana-amerindian
+  - hopi
+  - japanese
+  - jewish-pseudepigrapha
+  - maya
+  - mesopotamian
+  - mongol
+  - nahua-maya-inca
+  - native-american-plains
+  - native-american-southeast
+  - roman
+  - zoroastrian
+  total_cooccurrences: 162
+- pair:
+  - serpent_guardian
+  - shapeshifter
+  tradition_count: 18
+  traditions:
+  - afro-caribbean
+  - ainu
+  - celtic-irish
+  - comparative
+  - finnish-karelian
   - greek
   - greek-roman
+  - hindu
+  - hopi
+  - islamic
+  - japanese
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
+  - slavic
+  - zulu
+  - zuni
+  total_cooccurrences: 244
+- pair:
+  - miraculous_child
+  - sacred_love
+  tradition_count: 18
+  traditions:
+  - comparative
+  - egyptian
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hermetic
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - navajo
+  - norse
+  - persian
+  - roman
+  - siberian
+  - zuni
+  total_cooccurrences: 255
+- pair:
+  - death_and_transformation
+  - initiation
+  tradition_count: 18
+  traditions:
+  - biblical
+  - buddhist
+  - comparative
+  - egyptian
+  - estonian
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - native-american-great-lakes
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - navajo
+  - sufi
+  - zuni
+  total_cooccurrences: 274
+- pair:
+  - ascent
+  - sacred_exchange
+  tradition_count: 18
+  traditions:
+  - buddhist
+  - caucasian
+  - christian-apocrypha
+  - estonian
+  - filipino
+  - finnish-karelian
+  - germanic
+  - greek-roman
   - hawaiian
-  - jewish-pseudepigrapha
+  - mesopotamian
+  - nahua-maya-inca
   - native-american-northwest-coast
   - native-american-plains
   - native-american-southeast
   - norse
+  - roman
+  - sikh
+  - sufi
+  total_cooccurrences: 185
+- pair:
+  - ascent
+  - shapeshifter
+  tradition_count: 17
+  traditions:
+  - ainu
+  - andamanese
+  - australian-aboriginal
+  - daoist
+  - egyptian
+  - finnish-karelian
+  - indigenous-australian
+  - inuit
+  - islamic
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
   - slavic
   - sufi
-  - zuni
-  total_cooccurrences: 303
+  total_cooccurrences: 181
 - pair:
-  - flood_and_renewal
-  - hero_journey
-  tradition_count: 16
+  - culture_hero
+  - divine_judgment
+  tradition_count: 17
   traditions:
-  - biblical
+  - ainu
+  - andamanese
+  - australian-aboriginal
+  - caucasian
+  - estonian
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - mongol
+  - nahua-maya-inca
+  - native-american-plains
+  - norse
+  - persian
+  - roman
+  total_cooccurrences: 164
+- pair:
+  - hero_journey
+  - shapeshifter
+  tradition_count: 17
+  traditions:
+  - afro-caribbean
   - buddhist
-  - celtic-irish
+  - christian-apocrypha
+  - comparative
   - egyptian
+  - estonian
+  - filipino
+  - greek
+  - hopi
+  - inuit
+  - islamicate-folklore
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - persian
+  - sufi
+  - zuni
+  total_cooccurrences: 241
+- pair:
+  - death_and_transformation
+  - descent
+  tradition_count: 17
+  traditions:
+  - christian-apocrypha
+  - comparative
   - estonian
   - ethiopian-christian
   - finnish-karelian
+  - germanic
   - greek
+  - greek-roman
+  - hindu
   - hopi
   - islamic
   - islamicate-folklore
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  - roman
+  - siberian
+  total_cooccurrences: 113
+- pair:
+  - afterlife_passage
+  - ascent
+  tradition_count: 17
+  traditions:
+  - andamanese
+  - australian-aboriginal
+  - buddhist
+  - christian-apocrypha
+  - egyptian
+  - estonian
+  - germanic
+  - gnostic
+  - greek
+  - hermetic
+  - hindu
+  - hopi
+  - islamic
+  - native-american-northwest-coast
+  - native-american-southeast
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 225
+- pair:
+  - miraculous_child
+  - sacred_twins
+  tradition_count: 17
+  traditions:
+  - biblical
+  - celtic-irish
+  - egyptian
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-southeast
+  - navajo
+  - norse
+  - roman
+  - romanian
+  - siberian
+  - zuni
+  total_cooccurrences: 193
+- pair:
+  - sacred_knowledge
+  - sacrifice
+  tradition_count: 17
+  traditions:
+  - arthurian
+  - caucasian
+  - daoist
+  - filipino
+  - finnish-karelian
+  - greek-roman
+  - hawaiian
+  - islamicate-folklore
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-northwest-coast
   - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
+  - slavic
+  total_cooccurrences: 209
+- pair:
+  - shapeshifter
+  - trickster
+  tradition_count: 17
+  traditions:
+  - afro-caribbean
+  - ainu
+  - akan
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - greek
+  - hindu
+  - indigenous-australian
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - san
+  - slavic
+  - zulu
+  total_cooccurrences: 264
+- pair:
+  - descent
+  - mystical_quest
+  tradition_count: 17
+  traditions:
+  - ainu
+  - celtic-irish
+  - celtic-welsh
+  - estonian
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hindu
+  - japanese
+  - mesopotamian
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - slavic
+  total_cooccurrences: 158
+- pair:
+  - mystical_quest
+  - sacrifice
+  tradition_count: 17
+  traditions:
+  - buddhist
+  - celtic-irish
+  - comparative
+  - estonian
+  - ethiopian-christian
+  - germanic
+  - islamic
+  - nahua-maya-inca
+  - native-american-southeast
   - native-american-southwest
   - navajo
+  - norse
+  - persian
+  - sikh
   - slavic
   - sufi
-  total_cooccurrences: 152
+  - zuni
+  total_cooccurrences: 188
+- pair:
+  - axis_mundi
+  - sacred_exchange
+  tradition_count: 17
+  traditions:
+  - ainu
+  - buddhist
+  - celtic-welsh
+  - comparative
+  - egyptian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - islamic
+  - japanese
+  - nahua-maya-inca
+  - native-american-plains
+  - norse
+  - slavic
+  - sufi
+  - zuni
+  total_cooccurrences: 208
+- pair:
+  - miraculous_child
+  - mystical_quest
+  tradition_count: 16
+  traditions:
+  - arthurian
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - filipino
+  - gnostic
+  - greek
+  - hermetic
+  - islamic
+  - japanese
+  - native-american-northwest-coast
+  - native-american-plains
+  - navajo
+  - norse
+  - sufi
+  - zuni
+  total_cooccurrences: 197
+- pair:
+  - death_and_transformation
+  - sacred_exchange
+  tradition_count: 16
+  traditions:
+  - australian-aboriginal
+  - buddhist
+  - celtic-irish
+  - egyptian
+  - greek-roman
+  - hindu
+  - mongol
+  - nahua-maya-inca
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - navajo
+  - norse
+  - sikh
+  - sufi
+  - zulu
+  total_cooccurrences: 224
 - pair:
   - initiation
   - shapeshifter
@@ -1650,82 +2280,38 @@ conserved_edges:
   - germanic
   - greek
   - hopi
-  - indigenous-australian
   - native-american-great-lakes
   - native-american-plains
   - native-american-southeast
   - navajo
   - norse
+  - romanian
   - slavic
   - sufi
   - zuni
-  total_cooccurrences: 132
+  total_cooccurrences: 144
 - pair:
-  - covenant
-  - sacred_exchange
-  tradition_count: 16
-  traditions:
-  - biblical
-  - celtic-irish
-  - celtic-welsh
-  - christian-apocrypha
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - roman
-  - sufi
-  total_cooccurrences: 270
-- pair:
-  - miraculous_child
-  - sacred_love
-  tradition_count: 16
-  traditions:
-  - celtic-irish
-  - egyptian
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hermetic
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - navajo
-  - norse
-  - persian
-  - roman
-  - zuni
-  total_cooccurrences: 214
-- pair:
-  - culture_hero
+  - flood_and_renewal
   - hero_journey
   tradition_count: 16
   traditions:
-  - andamanese
-  - australian-aboriginal
   - biblical
   - buddhist
+  - celtic-irish
   - estonian
+  - ethiopian-christian
+  - finnish-karelian
+  - greek
   - greek-roman
-  - guiana-amerindian
   - hopi
-  - japanese
-  - jewish-pseudepigrapha
-  - maya
-  - mongol
-  - nahua-maya-inca
+  - islamic
+  - islamicate-folklore
   - native-american-plains
-  - native-american-southeast
-  - roman
-  total_cooccurrences: 127
+  - native-american-southwest
+  - navajo
+  - slavic
+  - sufi
+  total_cooccurrences: 163
 - pair:
   - miraculous_child
   - serpent_guardian
@@ -1734,7 +2320,6 @@ conserved_edges:
   - biblical
   - buddhist
   - christian-apocrypha
-  - egyptian
   - ethiopian-christian
   - finnish-karelian
   - germanic
@@ -1747,144 +2332,14 @@ conserved_edges:
   - native-american-southeast
   - norse
   - slavic
-  total_cooccurrences: 135
-- pair:
-  - afterlife_passage
-  - hero_journey
-  tradition_count: 16
-  traditions:
-  - buddhist
-  - celtic-irish
-  - christian-apocrypha
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hopi
-  - islamic
-  - native-american-southeast
-  - norse
-  - persian
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 200
-- pair:
-  - ascent
-  - sacred_exchange
-  tradition_count: 16
-  traditions:
-  - buddhist
-  - caucasian
-  - christian-apocrypha
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek-roman
-  - hawaiian
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - roman
-  - sikh
-  - sufi
-  total_cooccurrences: 137
-- pair:
-  - death_and_transformation
-  - sacred_love
-  tradition_count: 16
-  traditions:
-  - caucasian
-  - celtic-irish
-  - celtic-welsh
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - greek-roman
-  - hopi
-  - native-american-northwest-coast
-  - norse
-  - roman
-  - sikh
-  - slavic
-  - sufi
-  total_cooccurrences: 140
-- pair:
-  - divine_judgment
-  - shapeshifter
-  tradition_count: 16
-  traditions:
-  - ainu
-  - andamanese
-  - australian-aboriginal
-  - celtic-irish
-  - egyptian
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - hopi
-  - islamic
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  - roman
-  - zuni
-  total_cooccurrences: 302
-- pair:
-  - culture_hero
-  - divine_judgment
-  tradition_count: 16
-  traditions:
-  - andamanese
-  - australian-aboriginal
-  - caucasian
-  - celtic-irish
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - jewish-pseudepigrapha
-  - mongol
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - persian
-  - roman
-  total_cooccurrences: 120
-- pair:
-  - flood_and_renewal
-  - shapeshifter
-  tradition_count: 16
-  traditions:
-  - andamanese
-  - celtic-irish
-  - celtic-welsh
-  - egyptian
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - roman
-  total_cooccurrences: 112
+  - zulu
+  total_cooccurrences: 139
 - pair:
   - divine_judgment
   - serpent_guardian
   tradition_count: 16
   traditions:
+  - arthurian
   - biblical
   - christian-apocrypha
   - egyptian
@@ -1898,594 +2353,111 @@ conserved_edges:
   - jewish-pseudepigrapha
   - norse
   - persian
-  - roman
   - sufi
-  - zuni
-  total_cooccurrences: 217
-- pair:
-  - sacred_knowledge
-  - serpent_guardian
-  tradition_count: 16
-  traditions:
-  - australian-aboriginal
-  - biblical
-  - buddhist
-  - caucasian
-  - celtic-welsh
-  - egyptian
-  - ethiopian-christian
-  - finnish-karelian
-  - greek-roman
-  - hopi
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - native-american-southeast
-  - native-american-southwest
-  - roman
-  - sufi
-  total_cooccurrences: 170
-- pair:
-  - initiation
-  - serpent_guardian
-  tradition_count: 15
-  traditions:
-  - buddhist
-  - celtic-irish
-  - celtic-welsh
-  - comparative
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hermetic
-  - hopi
-  - islamic
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - persian
-  - zuni
-  total_cooccurrences: 90
-- pair:
-  - culture_hero
-  - royal_legitimacy
-  tradition_count: 15
-  traditions:
-  - buddhist
-  - celtic-irish
-  - celtic-welsh
-  - estonian
-  - greek-roman
-  - hindu
-  - islamic
-  - mongol
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - norse
-  - persian
-  - roman
-  - zoroastrian
-  total_cooccurrences: 134
-- pair:
-  - miraculous_child
-  - sacred_twins
-  tradition_count: 15
-  traditions:
-  - biblical
-  - celtic-irish
-  - egyptian
-  - estonian
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-southeast
-  - navajo
-  - norse
-  - roman
-  - zuni
-  total_cooccurrences: 157
-- pair:
-  - axis_mundi
-  - mystical_quest
-  tradition_count: 15
-  traditions:
-  - biblical
-  - celtic-irish
-  - celtic-welsh
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - japanese
-  - jewish-pseudepigrapha
-  - native-american-plains
-  - native-american-southwest
-  - slavic
-  - sufi
-  total_cooccurrences: 120
-- pair:
-  - ascent
-  - shapeshifter
-  tradition_count: 15
-  traditions:
-  - ainu
-  - andamanese
-  - australian-aboriginal
-  - egyptian
-  - finnish-karelian
-  - greek-roman
-  - inuit
-  - islamic
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 135
-- pair:
-  - initiation
-  - royal_legitimacy
-  tradition_count: 15
-  traditions:
-  - celtic-irish
-  - comparative
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - maya
-  - native-american-northwest-coast
-  - native-american-plains
-  - norse
-  - persian
-  - roman
-  - sufi
-  total_cooccurrences: 176
-- pair:
-  - afterlife_passage
-  - sacred_knowledge
-  tradition_count: 15
-  traditions:
-  - biblical
-  - celtic-irish
-  - egyptian
-  - finnish-karelian
-  - greek-roman
-  - hindu
-  - hopi
-  - jewish-pseudepigrapha
-  - native-american-southeast
-  - persian
-  - roman
-  - sikh
-  - sufi
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 267
-- pair:
-  - death_and_transformation
-  - descent
-  tradition_count: 15
-  traditions:
-  - christian-apocrypha
-  - comparative
-  - estonian
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hindu
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  - roman
-  total_cooccurrences: 87
-- pair:
-  - ascent
-  - culture_hero
-  tradition_count: 15
-  traditions:
-  - andamanese
-  - australian-aboriginal
-  - estonian
-  - greek
-  - guiana-amerindian
-  - hawaiian
-  - hindu
-  - hopi
-  - islamic
-  - mongol
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - navajo
-  - roman
-  total_cooccurrences: 92
-- pair:
-  - serpent_guardian
-  - shapeshifter
-  tradition_count: 15
-  traditions:
-  - afro-caribbean
-  - celtic-irish
-  - egyptian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - islamic
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - roman
-  - slavic
-  - zuni
-  total_cooccurrences: 184
-- pair:
-  - hero_journey
-  - sacred_twins
-  tradition_count: 14
-  traditions:
-  - biblical
-  - buddhist
-  - egyptian
-  - finnish-karelian
-  - hindu
-  - hopi
-  - inuit
-  - islamic
-  - islamicate-folklore
-  - native-american-northwest-coast
-  - norse
-  - persian
-  - slavic
-  - zuni
-  total_cooccurrences: 168
-- pair:
-  - shapeshifter
-  - trickster
-  tradition_count: 14
-  traditions:
-  - afro-caribbean
-  - ainu
-  - akan
-  - celtic-irish
-  - celtic-welsh
-  - greek
-  - hindu
-  - indigenous-australian
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 200
-- pair:
-  - descent
-  - mystical_quest
-  tradition_count: 14
-  traditions:
-  - celtic-irish
-  - celtic-welsh
-  - estonian
-  - finnish-karelian
-  - germanic
-  - gnostic
-  - greek
-  - hindu
-  - japanese
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 117
-- pair:
-  - initiation
-  - sacrifice
-  tradition_count: 14
-  traditions:
-  - biblical
-  - buddhist
-  - greek-roman
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - roman
-  - sufi
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 142
-- pair:
-  - ascent
-  - sacred_love
-  tradition_count: 14
-  traditions:
-  - comparative
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hermetic
-  - native-american-northwest-coast
-  - native-american-plains
-  - norse
-  - roman
-  - slavic
-  - sufi
-  total_cooccurrences: 91
-- pair:
-  - royal_legitimacy
-  - sacred_love
-  tradition_count: 14
-  traditions:
-  - biblical
-  - buddhist
-  - caucasian
-  - celtic-irish
-  - estonian
-  - ethiopian-christian
-  - greek
-  - greek-roman
-  - islamicate-folklore
-  - mongol
-  - native-american-northwest-coast
-  - norse
-  - persian
-  - slavic
-  total_cooccurrences: 116
-- pair:
-  - culture_hero
-  - flood_and_renewal
-  tradition_count: 14
-  traditions:
-  - andamanese
-  - celtic-irish
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - guiana-amerindian
-  - hawaiian
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southwest
-  total_cooccurrences: 62
-- pair:
-  - sacred_knowledge
-  - sacred_love
-  tradition_count: 14
-  traditions:
-  - afro-caribbean
-  - comparative
-  - estonian
-  - germanic
-  - hopi
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - norse
-  - roman
-  - slavic
-  - sufi
-  - zoroastrian
-  - zuni
-  total_cooccurrences: 166
-- pair:
-  - sacred_exchange
-  - trickster
-  tradition_count: 14
-  traditions:
-  - biblical
-  - celtic-irish
-  - celtic-welsh
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - islamic
-  - islamicate-folklore
-  - jewish-pseudepigrapha
-  - norse
-  - roman
-  - slavic
-  - sufi
-  total_cooccurrences: 191
-- pair:
-  - axis_mundi
-  - sacred_exchange
-  tradition_count: 14
-  traditions:
-  - buddhist
-  - celtic-welsh
-  - comparative
-  - egyptian
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - islamic
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - slavic
-  - zuni
-  total_cooccurrences: 160
-- pair:
-  - sacred_knowledge
-  - sacrifice
-  tradition_count: 14
-  traditions:
-  - buddhist
-  - caucasian
-  - finnish-karelian
-  - greek-roman
-  - hawaiian
-  - islamicate-folklore
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 152
-- pair:
-  - death_and_transformation
-  - serpent_guardian
-  tradition_count: 14
-  traditions:
-  - australian-aboriginal
-  - biblical
-  - buddhist
-  - comparative
-  - egyptian
-  - finnish-karelian
-  - greek
-  - hindu
-  - indigenous-australian
-  - islamic
-  - nahua-maya-inca
-  - roman
-  - slavic
-  - zoroastrian
-  total_cooccurrences: 136
-- pair:
-  - hero_journey
-  - sacrifice
-  tradition_count: 14
-  traditions:
-  - buddhist
-  - caucasian
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - greek
-  - greek-roman
-  - hawaiian
-  - islamicate-folklore
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - roman
   - zuni
   total_cooccurrences: 220
 - pair:
-  - miraculous_child
-  - mystical_quest
-  tradition_count: 14
-  traditions:
-  - egyptian
-  - estonian
-  - ethiopian-christian
-  - gnostic
-  - greek
-  - hermetic
-  - islamic
-  - japanese
-  - native-american-northwest-coast
-  - native-american-plains
-  - navajo
-  - norse
-  - sufi
-  - zuni
-  total_cooccurrences: 152
-- pair:
-  - culture_hero
+  - divine_judgment
   - shapeshifter
-  tradition_count: 14
+  tradition_count: 16
   traditions:
   - ainu
   - andamanese
   - australian-aboriginal
+  - buddhist
+  - egyptian
+  - greek
+  - greek-roman
+  - hawaiian
+  - hindu
+  - hopi
+  - islamic
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  - roman
+  - zuni
+  total_cooccurrences: 439
+- pair:
+  - axis_mundi
+  - shapeshifter
+  tradition_count: 16
+  traditions:
+  - ainu
+  - celtic-welsh
+  - egyptian
   - estonian
+  - finnish-karelian
+  - germanic
   - greek
   - greek-roman
   - hindu
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - zuni
-  total_cooccurrences: 133
-- pair:
-  - hero_journey
-  - shapeshifter
-  tradition_count: 14
-  traditions:
-  - afro-caribbean
-  - buddhist
-  - christian-apocrypha
-  - estonian
-  - greek
-  - hopi
-  - inuit
-  - islamicate-folklore
-  - nahua-maya-inca
+  - islamic
   - native-american-northwest-coast
   - native-american-plains
   - norse
-  - persian
+  - roman
+  - zoroastrian
   - zuni
-  total_cooccurrences: 223
+  total_cooccurrences: 130
 - pair:
-  - divine_judgment
+  - culture_hero
   - royal_legitimacy
-  tradition_count: 14
+  tradition_count: 16
   traditions:
-  - biblical
+  - buddhist
   - celtic-irish
   - celtic-welsh
-  - greek
+  - estonian
   - greek-roman
   - hindu
-  - jewish-pseudepigrapha
-  - mesopotamian
+  - islamic
+  - japanese
   - mongol
   - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - norse
   - persian
+  - roman
+  - zoroastrian
+  total_cooccurrences: 158
+- pair:
+  - death_and_transformation
+  - sacred_love
+  tradition_count: 16
+  traditions:
+  - caucasian
+  - celtic-welsh
+  - comparative
+  - egyptian
+  - ethiopian-christian
+  - germanic
+  - greek
+  - greek-roman
+  - hopi
+  - native-american-northwest-coast
+  - norse
+  - roman
+  - romanian
+  - sikh
   - slavic
   - sufi
-  - zoroastrian
-  total_cooccurrences: 289
+  total_cooccurrences: 168
 - pair:
   - divine_judgment
   - mystical_quest
-  tradition_count: 14
+  tradition_count: 16
   traditions:
+  - ainu
+  - arthurian
   - biblical
   - celtic-irish
   - celtic-welsh
   - egyptian
   - estonian
   - gnostic
-  - greek-roman
+  - greek
   - hopi
   - japanese
   - jewish-pseudepigrapha
@@ -2493,15 +2465,269 @@ conserved_edges:
   - roman
   - sikh
   - zuni
-  total_cooccurrences: 219
+  total_cooccurrences: 322
+- pair:
+  - initiation
+  - serpent_guardian
+  tradition_count: 16
+  traditions:
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - comparative
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hermetic
+  - hopi
+  - islamic
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - persian
+  - sufi
+  - zuni
+  total_cooccurrences: 108
+- pair:
+  - death_and_transformation
+  - flood_and_renewal
+  tradition_count: 15
+  traditions:
+  - celtic-irish
+  - celtic-welsh
+  - egyptian
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - islamic
+  - islamicate-folklore
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - norse
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 159
+- pair:
+  - divine_judgment
+  - hero_journey
+  tradition_count: 15
+  traditions:
+  - australian-aboriginal
+  - biblical
+  - celtic-welsh
+  - egyptian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hopi
+  - islamicate-folklore
+  - japanese
+  - mongol
+  - native-american-plains
+  - native-american-southeast
+  - sikh
+  - zoroastrian
+  total_cooccurrences: 384
+- pair:
+  - axis_mundi
+  - hero_journey
+  tradition_count: 15
+  traditions:
+  - buddhist
+  - celtic-irish
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hopi
+  - islamicate-folklore
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-plains
+  - persian
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 141
+- pair:
+  - hero_journey
+  - sacrifice
+  tradition_count: 15
+  traditions:
+  - buddhist
+  - caucasian
+  - christian-apocrypha
+  - egyptian
+  - greek
+  - greek-roman
+  - hawaiian
+  - islamicate-folklore
+  - japanese
+  - nahua-maya-inca
+  - native-american-plains
+  - roman
+  - sufi
+  - zulu
+  - zuni
+  total_cooccurrences: 322
+- pair:
+  - duality
+  - mystical_quest
+  tradition_count: 15
+  traditions:
+  - arthurian
+  - biblical
+  - buddhist
+  - daoist
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek
+  - hindu
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-southeast
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 391
+- pair:
+  - royal_legitimacy
+  - sacred_love
+  tradition_count: 15
+  traditions:
+  - biblical
+  - buddhist
+  - caucasian
+  - celtic-irish
+  - estonian
+  - ethiopian-christian
+  - greek
+  - islamicate-folklore
+  - mesopotamian
+  - mongol
+  - native-american-northwest-coast
+  - norse
+  - persian
+  - romanian
+  - slavic
+  total_cooccurrences: 126
+- pair:
+  - sacred_exchange
+  - sacred_time
+  tradition_count: 15
+  traditions:
+  - biblical
+  - buddhist
+  - celtic-irish
+  - comparative
+  - egyptian
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - japanese
+  - nahua-maya-inca
+  - norse
+  - roman
+  - slavic
+  - zoroastrian
+  total_cooccurrences: 315
+- pair:
+  - ascent
+  - sacred_love
+  tradition_count: 15
+  traditions:
+  - comparative
+  - estonian
+  - filipino
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - hawaiian
+  - hermetic
+  - native-american-northwest-coast
+  - native-american-plains
+  - norse
+  - roman
+  - slavic
+  - sufi
+  total_cooccurrences: 122
+- pair:
+  - axis_mundi
+  - serpent_guardian
+  tradition_count: 15
+  traditions:
+  - biblical
+  - buddhist
+  - comparative
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - nahua-maya-inca
+  - native-american-southwest
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 136
+- pair:
+  - flood_and_renewal
+  - shapeshifter
+  tradition_count: 15
+  traditions:
+  - andamanese
+  - celtic-welsh
+  - egyptian
+  - estonian
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - roman
+  total_cooccurrences: 131
+- pair:
+  - royal_legitimacy
+  - sacred_knowledge
+  tradition_count: 15
+  traditions:
+  - biblical
+  - celtic-irish
+  - celtic-welsh
+  - daoist
+  - egyptian
+  - ethiopian-christian
+  - islamic
+  - islamicate-folklore
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - norse
+  - roman
+  - romanian
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 505
 - pair:
   - sacred_knowledge
   - shapeshifter
-  tradition_count: 14
+  tradition_count: 15
   traditions:
   - andamanese
   - celtic-irish
   - celtic-welsh
+  - daoist
   - greek-roman
   - hopi
   - indigenous-australian
@@ -2511,93 +2737,202 @@ conserved_edges:
   - native-american-plains
   - native-american-southeast
   - norse
-  - roman
+  - romanian
   - slavic
-  total_cooccurrences: 284
+  total_cooccurrences: 279
+- pair:
+  - afterlife_passage
+  - sacred_exchange
+  tradition_count: 15
+  traditions:
+  - ainu
+  - australian-aboriginal
+  - celtic-irish
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  - slavic
+  - sufi
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 184
+- pair:
+  - initiation
+  - royal_legitimacy
+  tradition_count: 15
+  traditions:
+  - celtic-irish
+  - comparative
+  - estonian
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - maya
+  - native-american-northwest-coast
+  - native-american-plains
+  - norse
+  - persian
+  - roman
+  - sufi
+  total_cooccurrences: 216
+- pair:
+  - divine_judgment
+  - royal_legitimacy
+  tradition_count: 15
+  traditions:
+  - biblical
+  - celtic-irish
+  - celtic-welsh
+  - egyptian
+  - greek
+  - greek-roman
+  - hindu
+  - jewish-pseudepigrapha
+  - mongol
+  - nahua-maya-inca
+  - norse
+  - persian
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 372
+- pair:
+  - afterlife_passage
+  - mystical_quest
+  tradition_count: 15
+  traditions:
+  - ainu
+  - arthurian
+  - celtic-irish
+  - finnish-karelian
+  - gnostic
+  - greek
+  - hermetic
+  - hindu
+  - hopi
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - norse
+  - persian
+  - sufi
+  - zuni
+  total_cooccurrences: 318
+- pair:
+  - death_and_transformation
+  - sacred_time
+  tradition_count: 15
+  traditions:
+  - celtic-irish
+  - comparative
+  - daoist
+  - egyptian
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - japanese
+  - mesopotamian
+  - nahua-maya-inca
+  - native-american-southeast
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 352
+- pair:
+  - ascent
+  - flood_and_renewal
+  tradition_count: 15
+  traditions:
+  - biblical
+  - egyptian
+  - ethiopian-christian
+  - greek-roman
+  - hermetic
+  - hindu
+  - hopi
+  - islamic
+  - japanese
+  - native-american-northwest-coast
+  - native-american-plains
+  - navajo
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 106
+- pair:
+  - culture_hero
+  - death_and_transformation
+  tradition_count: 14
+  traditions:
+  - andamanese
+  - buddhist
+  - comparative
+  - estonian
+  - greek-roman
+  - hindu
+  - mongol
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southwest
+  - navajo
+  - roman
+  - zoroastrian
+  total_cooccurrences: 93
+- pair:
+  - divine_judgment
+  - sacrifice
+  tradition_count: 14
+  traditions:
+  - arthurian
+  - christian-apocrypha
+  - comparative
+  - egyptian
+  - ethiopian-christian
+  - greek
+  - greek-roman
+  - hindu
+  - mesopotamian
+  - native-american-plains
+  - norse
+  - persian
+  - sufi
+  - zuni
+  total_cooccurrences: 338
+- pair:
+  - royal_legitimacy
+  - sacrifice
+  tradition_count: 14
+  traditions:
+  - caucasian
+  - celtic-irish
+  - christian-apocrypha
+  - comparative
+  - confucian
+  - egyptian
+  - greek
+  - greek-roman
+  - hindu
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 421
 - pair:
   - axis_mundi
-  - serpent_guardian
+  - royal_legitimacy
   tradition_count: 14
   traditions:
   - biblical
   - buddhist
-  - comparative
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - native-american-southwest
-  - norse
-  - roman
-  - zoroastrian
-  total_cooccurrences: 113
-- pair:
-  - afterlife_passage
-  - mystical_quest
-  tradition_count: 13
-  traditions:
-  - celtic-irish
-  - egyptian
-  - finnish-karelian
-  - gnostic
-  - greek
-  - hermetic
-  - hindu
-  - hopi
-  - jewish-pseudepigrapha
-  - norse
-  - persian
-  - sufi
-  - zuni
-  total_cooccurrences: 193
-- pair:
-  - death_and_transformation
-  - sacred_exchange
-  tradition_count: 13
-  traditions:
-  - australian-aboriginal
-  - buddhist
-  - celtic-irish
-  - greek-roman
-  - hindu
-  - mongol
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southeast
-  - native-american-southwest
-  - navajo
-  - norse
-  - sikh
-  total_cooccurrences: 132
-- pair:
-  - duality
-  - mystical_quest
-  tradition_count: 13
-  traditions:
-  - biblical
-  - daoist
-  - finnish-karelian
-  - germanic
-  - gnostic
-  - greek
-  - hindu
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - native-american-southeast
-  - norse
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 185
-- pair:
-  - axis_mundi
-  - royal_legitimacy
-  tradition_count: 13
-  traditions:
-  - biblical
-  - buddhist
   - celtic-irish
   - celtic-welsh
   - comparative
@@ -2607,1202 +2942,1082 @@ conserved_edges:
   - greek-roman
   - islamicate-folklore
   - mesopotamian
+  - norse
   - roman
   - zoroastrian
-  total_cooccurrences: 144
+  total_cooccurrences: 173
 - pair:
-  - axis_mundi
-  - shapeshifter
-  tradition_count: 13
+  - sacred_exchange
+  - trickster
+  tradition_count: 14
   traditions:
+  - biblical
+  - celtic-irish
   - celtic-welsh
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - islamic
+  - islamicate-folklore
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - slavic
+  - sufi
+  total_cooccurrences: 229
+- pair:
+  - afterlife_passage
+  - descent
+  tradition_count: 14
+  traditions:
+  - ainu
+  - celtic-irish
+  - christian-apocrypha
+  - comparative
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hindu
+  - mesopotamian
+  - nahua-maya-inca
+  - norse
+  - roman
+  - slavic
+  total_cooccurrences: 166
+- pair:
+  - descent
+  - initiation
+  tradition_count: 14
+  traditions:
+  - celtic-irish
   - estonian
   - finnish-karelian
   - germanic
   - greek
   - greek-roman
   - hindu
-  - islamic
+  - hopi
+  - islamicate-folklore
   - native-american-northwest-coast
-  - native-american-plains
+  - native-american-southeast
+  - norse
   - roman
+  - slavic
+  total_cooccurrences: 92
+- pair:
+  - afterlife_passage
+  - sacred_knowledge
+  tradition_count: 14
+  traditions:
+  - biblical
+  - finnish-karelian
+  - greek-roman
+  - hindu
+  - hopi
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-southeast
+  - persian
+  - roman
+  - sikh
+  - sufi
   - zoroastrian
   - zuni
-  total_cooccurrences: 93
+  total_cooccurrences: 314
 - pair:
-  - death_and_transformation
-  - flood_and_renewal
-  tradition_count: 13
+  - duality
+  - sacred_exchange
+  tradition_count: 14
   traditions:
+  - celtic-irish
   - celtic-welsh
   - egyptian
-  - greek
+  - finnish-karelian
+  - germanic
+  - greek-roman
   - hermetic
+  - hopi
+  - islamic
+  - nahua-maya-inca
+  - navajo
+  - persian
+  - roman
+  - sikh
+  total_cooccurrences: 106
+- pair:
+  - death_and_transformation
+  - serpent_guardian
+  tradition_count: 14
+  traditions:
+  - australian-aboriginal
+  - biblical
+  - buddhist
+  - comparative
+  - finnish-karelian
+  - greek
+  - hindu
+  - indigenous-australian
+  - islamic
+  - nahua-maya-inca
+  - norse
+  - roman
+  - slavic
+  - zoroastrian
+  total_cooccurrences: 167
+- pair:
+  - initiation
+  - sacrifice
+  tradition_count: 14
+  traditions:
+  - arthurian
+  - biblical
+  - greek-roman
   - hindu
   - islamic
-  - islamicate-folklore
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - native-american-plains
+  - native-american-southeast
+  - native-american-southwest
+  - roman
+  - sufi
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 181
+- pair:
+  - axis_mundi
+  - initiation
+  tradition_count: 14
+  traditions:
+  - buddhist
+  - celtic-welsh
+  - christian-apocrypha
+  - comparative
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - japanese
+  - mesopotamian
+  - native-american-southeast
+  - slavic
+  - sufi
+  total_cooccurrences: 122
+- pair:
+  - sacred_twins
+  - shapeshifter
+  tradition_count: 14
+  traditions:
+  - ainu
+  - egyptian
+  - estonian
+  - germanic
+  - greek
+  - greek-roman
+  - hopi
+  - inuit
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - native-american-plains
+  - norse
+  - romanian
+  - siberian
+  total_cooccurrences: 93
+- pair:
+  - miraculous_child
+  - sacrifice
+  tradition_count: 13
+  traditions:
+  - egyptian
+  - ethiopian-christian
+  - finnish-karelian
+  - greek
+  - hawaiian
+  - hindu
+  - islamic
+  - mongol
+  - nahua-maya-inca
+  - norse
+  - sufi
+  - zoroastrian
+  - zuni
+  total_cooccurrences: 253
+- pair:
+  - axis_mundi
+  - miraculous_child
+  tradition_count: 13
+  traditions:
+  - buddhist
+  - ethiopian-christian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - nahua-maya-inca
+  - native-american-plains
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 163
+- pair:
+  - cosmic_origin
+  - royal_legitimacy
+  tradition_count: 13
+  traditions:
+  - biblical
+  - celtic-irish
+  - celtic-welsh
+  - egyptian
+  - germanic
+  - greek
+  - greek-roman
+  - islamic
+  - nahua-maya-inca
+  - norse
+  - persian
+  - roman
+  - zoroastrian
+  total_cooccurrences: 99
+- pair:
+  - axis_mundi
+  - death_and_transformation
+  tradition_count: 13
+  traditions:
+  - buddhist
+  - celtic-irish
+  - egyptian
+  - ethiopian-christian
+  - germanic
+  - greek
+  - hindu
   - jewish-pseudepigrapha
   - nahua-maya-inca
   - norse
-  - slavic
+  - roman
   - sufi
+  - zoroastrian
+  total_cooccurrences: 136
+- pair:
+  - descent
+  - sacred_knowledge
+  tradition_count: 13
+  traditions:
+  - buddhist
+  - estonian
+  - finnish-karelian
+  - germanic
+  - gnostic
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - native-american-northwest-coast
+  - native-american-southeast
+  - roman
+  - slavic
+  total_cooccurrences: 153
+- pair:
+  - sacred_exchange
+  - sacred_twins
+  tradition_count: 13
+  traditions:
+  - ainu
+  - biblical
+  - buddhist
+  - egyptian
+  - estonian
+  - greek
+  - hawaiian
+  - hopi
+  - islamic
+  - japanese
+  - jewish-pseudepigrapha
+  - navajo
+  - slavic
+  total_cooccurrences: 77
+- pair:
+  - hero_journey
+  - serpent_guardian
+  tradition_count: 13
+  traditions:
+  - biblical
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - christian-apocrypha
+  - comparative
+  - estonian
+  - greek-roman
+  - hopi
+  - islamic
+  - islamicate-folklore
+  - japanese
+  - zuni
+  total_cooccurrences: 99
+- pair:
+  - sacred_knowledge
+  - sacred_love
+  tradition_count: 13
+  traditions:
+  - afro-caribbean
+  - comparative
+  - egyptian
+  - estonian
+  - germanic
+  - hopi
+  - japanese
+  - native-american-northwest-coast
+  - native-american-plains
+  - native-american-southeast
+  - norse
+  - slavic
+  - zuni
+  total_cooccurrences: 146
+- pair:
+  - royal_legitimacy
+  - shapeshifter
+  tradition_count: 13
+  traditions:
+  - buddhist
+  - caucasian
+  - celtic-irish
+  - celtic-welsh
+  - estonian
+  - greek
+  - islamic
+  - mongol
+  - native-american-plains
+  - norse
+  - persian
+  - romanian
   - zoroastrian
   total_cooccurrences: 135
 - pair:
-  - culture_hero
-  - sacred_exchange
+  - divine_judgment
+  - duality
   tradition_count: 13
   traditions:
+  - arthurian
   - celtic-irish
-  - celtic-welsh
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hawaiian
-  - mongol
-  - native-american-plains
-  - native-american-southwest
-  - navajo
-  - norse
-  - roman
-  - zuni
-  total_cooccurrences: 157
-- pair:
-  - flood_and_renewal
-  - miraculous_child
-  tradition_count: 13
-  traditions:
-  - biblical
-  - celtic-welsh
-  - egyptian
   - ethiopian-christian
   - germanic
-  - greek
-  - greek-roman
-  - hawaiian
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - norse
-  - roman
-  total_cooccurrences: 146
-- pair:
-  - afterlife_passage
-  - sacred_exchange
-  tradition_count: 13
-  traditions:
-  - australian-aboriginal
-  - celtic-irish
-  - germanic
   - gnostic
-  - greek
-  - greek-roman
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
   - norse
+  - sikh
   - slavic
+  - sufi
   - zoroastrian
-  - zuni
-  total_cooccurrences: 126
+  total_cooccurrences: 424
 - pair:
-  - divine_judgment
-  - hero_journey
+  - sacred_knowledge
+  - serpent_guardian
   tradition_count: 13
   traditions:
   - australian-aboriginal
   - biblical
-  - celtic-welsh
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hopi
-  - islamicate-folklore
-  - japanese
-  - mongol
-  - native-american-plains
-  - native-american-southeast
-  - sikh
-  total_cooccurrences: 293
-- pair:
-  - royal_legitimacy
-  - sacrifice
-  tradition_count: 13
-  traditions:
   - caucasian
-  - celtic-irish
-  - christian-apocrypha
-  - comparative
-  - confucian
-  - greek
-  - greek-roman
-  - hindu
-  - jewish-pseudepigrapha
-  - norse
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 333
-- pair:
-  - duality
-  - sacred_exchange
-  tradition_count: 12
-  traditions:
-  - celtic-irish
   - celtic-welsh
+  - ethiopian-christian
   - finnish-karelian
-  - germanic
   - greek-roman
-  - hermetic
   - hopi
-  - islamic
-  - nahua-maya-inca
-  - navajo
-  - roman
-  - sikh
-  total_cooccurrences: 90
-- pair:
-  - divine_judgment
-  - duality
-  tradition_count: 12
-  traditions:
-  - celtic-irish
-  - ethiopian-christian
-  - germanic
-  - gnostic
-  - islamic
   - jewish-pseudepigrapha
-  - norse
-  - roman
-  - sikh
-  - slavic
+  - mesopotamian
+  - native-american-southeast
+  - native-american-southwest
   - sufi
-  - zoroastrian
-  total_cooccurrences: 345
+  total_cooccurrences: 153
 - pair:
-  - ascent
-  - flood_and_renewal
-  tradition_count: 12
-  traditions:
-  - biblical
-  - egyptian
-  - ethiopian-christian
-  - hermetic
-  - hindu
-  - hopi
-  - islamic
-  - native-american-northwest-coast
-  - native-american-plains
-  - navajo
-  - norse
-  - roman
-  total_cooccurrences: 83
-- pair:
-  - afterlife_passage
-  - descent
-  tradition_count: 12
+  - sacred_exchange
+  - serpent_guardian
+  tradition_count: 13
   traditions:
   - ainu
-  - christian-apocrypha
-  - comparative
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - nahua-maya-inca
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 107
-- pair:
-  - axis_mundi
-  - miraculous_child
-  tradition_count: 12
-  traditions:
   - buddhist
-  - ethiopian-christian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - roman
-  - zoroastrian
-  total_cooccurrences: 138
-- pair:
-  - covenant
-  - hero_journey
-  tradition_count: 12
-  traditions:
-  - biblical
-  - christian-apocrypha
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - native-american-plains
-  - native-american-southeast
-  - roman
-  - sufi
-  total_cooccurrences: 268
-- pair:
-  - axis_mundi
-  - death_and_transformation
-  tradition_count: 12
-  traditions:
-  - buddhist
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - hindu
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - norse
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 101
-- pair:
-  - cosmic_origin
-  - royal_legitimacy
-  tradition_count: 12
-  traditions:
-  - biblical
-  - celtic-irish
   - celtic-welsh
-  - egyptian
-  - germanic
-  - greek
-  - islamic
-  - mesopotamian
-  - nahua-maya-inca
-  - norse
-  - persian
-  - roman
-  total_cooccurrences: 89
-- pair:
-  - sacred_exchange
-  - sacred_time
-  tradition_count: 12
-  traditions:
-  - biblical
-  - celtic-irish
   - comparative
-  - egyptian
-  - greek
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - norse
-  - roman
-  - slavic
-  - zoroastrian
-  total_cooccurrences: 217
-- pair:
-  - descent
-  - sacred_knowledge
-  tradition_count: 12
-  traditions:
-  - estonian
-  - finnish-karelian
   - germanic
-  - gnostic
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - native-american-northwest-coast
-  - native-american-southeast
-  - roman
-  - slavic
-  total_cooccurrences: 122
-- pair:
-  - sacrifice
-  - serpent_guardian
-  tradition_count: 12
-  traditions:
-  - buddhist
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - germanic
-  - greek
-  - hindu
-  - hopi
-  - native-american-southeast
-  - native-american-southwest
-  - norse
-  - zuni
-  total_cooccurrences: 97
-- pair:
-  - axis_mundi
-  - hero_journey
-  tradition_count: 12
-  traditions:
-  - buddhist
-  - celtic-irish
-  - estonian
-  - germanic
-  - hopi
-  - islamicate-folklore
-  - nahua-maya-inca
-  - native-american-plains
-  - persian
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 86
-- pair:
-  - death_and_transformation
-  - trickster
-  tradition_count: 12
-  traditions:
-  - australian-aboriginal
-  - celtic-irish
-  - germanic
-  - hindu
-  - hopi
-  - islamic
-  - native-american-northwest-coast
-  - native-american-southeast
-  - navajo
-  - norse
-  - roman
-  - sufi
-  total_cooccurrences: 110
-- pair:
-  - descent
-  - initiation
-  tradition_count: 12
-  traditions:
-  - estonian
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - islamicate-folklore
-  - native-american-northwest-coast
-  - native-american-southeast
-  - roman
-  - slavic
-  total_cooccurrences: 74
-- pair:
-  - hero_journey
-  - serpent_guardian
-  tradition_count: 12
-  traditions:
-  - biblical
-  - buddhist
-  - celtic-irish
-  - celtic-welsh
-  - christian-apocrypha
-  - estonian
   - greek-roman
   - hopi
-  - islamic
-  - islamicate-folklore
   - japanese
-  - zuni
-  total_cooccurrences: 84
-- pair:
-  - divine_judgment
-  - sacrifice
-  tradition_count: 12
-  traditions:
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - greek
-  - greek-roman
-  - hindu
+  - nahua-maya-inca
   - native-american-plains
-  - norse
-  - persian
+  - native-american-southeast
   - sufi
   - zuni
-  total_cooccurrences: 259
+  total_cooccurrences: 104
 - pair:
   - culture_hero
-  - death_and_transformation
-  tradition_count: 12
+  - shapeshifter
+  tradition_count: 13
   traditions:
   - andamanese
-  - buddhist
+  - australian-aboriginal
   - estonian
+  - greek
   - greek-roman
   - hindu
-  - mongol
   - nahua-maya-inca
   - native-american-northwest-coast
   - native-american-plains
+  - native-american-southeast
   - native-american-southwest
-  - navajo
-  - roman
-  total_cooccurrences: 75
+  - norse
+  - zuni
+  total_cooccurrences: 144
 - pair:
-  - axis_mundi
+  - divine_judgment
   - initiation
   tradition_count: 12
   traditions:
-  - buddhist
+  - arthurian
+  - australian-aboriginal
   - celtic-welsh
   - christian-apocrypha
-  - comparative
-  - germanic
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - native-american-southeast
-  - slavic
-  - sufi
-  total_cooccurrences: 87
-- pair:
-  - axis_mundi
-  - flood_and_renewal
-  tradition_count: 11
-  traditions:
-  - biblical
-  - greek
-  - guiana-amerindian
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - navajo
-  - norse
-  - roman
-  - zoroastrian
-  total_cooccurrences: 75
-- pair:
-  - culture_hero
-  - initiation
-  tradition_count: 11
-  traditions:
-  - australian-aboriginal
-  - buddhist
-  - celtic-irish
-  - greek
-  - greek-roman
-  - hopi
-  - islamic
-  - mesopotamian
-  - navajo
-  - norse
-  - roman
-  total_cooccurrences: 66
-- pair:
-  - cosmic_origin
-  - flood_and_renewal
-  tradition_count: 11
-  traditions:
-  - biblical
   - egyptian
-  - greek
-  - hindu
-  - islamic
+  - gnostic
+  - hermetic
+  - hopi
   - jewish-pseudepigrapha
-  - mesopotamian
-  - nahua-maya-inca
+  - native-american-northwest-coast
   - norse
-  - roman
   - zoroastrian
-  total_cooccurrences: 80
+  total_cooccurrences: 120
 - pair:
-  - ascent
   - descent
-  tradition_count: 11
-  traditions:
-  - caucasian
-  - estonian
-  - ethiopian-christian
-  - finnish-karelian
-  - germanic
-  - greek
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - slavic
-  total_cooccurrences: 48
-- pair:
-  - royal_legitimacy
-  - shapeshifter
-  tradition_count: 11
-  traditions:
-  - buddhist
-  - caucasian
-  - celtic-welsh
-  - estonian
-  - greek
-  - islamic
-  - mongol
-  - native-american-plains
-  - norse
-  - persian
-  - zoroastrian
-  total_cooccurrences: 91
-- pair:
-  - initiation
-  - sacred_love
-  tradition_count: 11
-  traditions:
-  - finnish-karelian
-  - germanic
-  - greek-roman
-  - hermetic
-  - hopi
-  - native-american-northwest-coast
-  - native-american-southeast
-  - norse
-  - slavic
-  - sufi
-  - zuni
-  total_cooccurrences: 82
-- pair:
-  - axis_mundi
-  - divine_judgment
-  tradition_count: 11
-  traditions:
-  - biblical
-  - estonian
-  - ethiopian-christian
-  - greek
-  - hindu
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - norse
-  - roman
-  - sikh
-  - sufi
-  total_cooccurrences: 181
-- pair:
-  - sacred_knowledge
-  - sacred_time
-  tradition_count: 11
-  traditions:
-  - buddhist
-  - christian-apocrypha
-  - confucian
-  - finnish-karelian
-  - hermetic
-  - islamic
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - native-american-northwest-coast
-  - native-american-southeast
-  - slavic
-  total_cooccurrences: 84
-- pair:
-  - royal_legitimacy
-  - sacred_knowledge
-  tradition_count: 11
-  traditions:
-  - biblical
-  - celtic-irish
-  - celtic-welsh
-  - ethiopian-christian
-  - islamic
-  - islamicate-folklore
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 354
-- pair:
-  - cosmic_origin
-  - miraculous_child
-  tradition_count: 11
-  traditions:
-  - biblical
-  - egyptian
-  - finnish-karelian
-  - gnostic
-  - greek
-  - hermetic
-  - hindu
-  - islamic
-  - mesopotamian
-  - nahua-maya-inca
-  - norse
-  total_cooccurrences: 116
-- pair:
-  - sacred_love
-  - sacred_time
-  tradition_count: 11
-  traditions:
-  - australian-aboriginal
-  - celtic-irish
-  - comparative
-  - egyptian
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - norse
-  - roman
-  - sikh
-  total_cooccurrences: 111
-- pair:
-  - cosmic_origin
-  - serpent_guardian
-  tradition_count: 11
-  traditions:
-  - biblical
-  - egyptian
-  - finnish-karelian
-  - gnostic
-  - greek
-  - hermetic
-  - hindu
-  - mesopotamian
-  - norse
-  - roman
-  - zoroastrian
-  total_cooccurrences: 77
-- pair:
-  - covenant
-  - divine_judgment
-  tradition_count: 11
-  traditions:
-  - biblical
-  - celtic-irish
-  - christian-apocrypha
-  - ethiopian-christian
-  - greek
-  - hindu
-  - islamic
-  - norse
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 535
-- pair:
-  - axis_mundi
-  - sacrifice
-  tradition_count: 11
-  traditions:
-  - comparative
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - islamic
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southwest
-  - norse
-  - sufi
-  total_cooccurrences: 108
-- pair:
-  - death_and_transformation
-  - sacred_time
-  tradition_count: 11
-  traditions:
-  - comparative
-  - egyptian
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - native-american-southeast
-  - norse
-  - roman
-  - sufi
-  total_cooccurrences: 211
-- pair:
-  - axis_mundi
-  - sacred_time
-  tradition_count: 11
-  traditions:
-  - biblical
-  - comparative
-  - finnish-karelian
-  - greek
-  - hindu
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - norse
-  - roman
-  - sufi
-  - zoroastrian
-  total_cooccurrences: 86
-- pair:
-  - culture_hero
-  - trickster
-  tradition_count: 10
+  - sacred_exchange
+  tradition_count: 12
   traditions:
   - ainu
   - celtic-irish
   - estonian
   - greek
   - greek-roman
-  - hawaiian
+  - hindu
+  - hopi
+  - islamic
   - japanese
   - native-american-northwest-coast
-  - native-american-southwest
   - norse
-  total_cooccurrences: 75
+  - roman
+  total_cooccurrences: 100
 - pair:
-  - divine_judgment
+  - afterlife_passage
   - initiation
-  tradition_count: 10
+  tradition_count: 12
   traditions:
   - australian-aboriginal
-  - celtic-welsh
-  - christian-apocrypha
+  - finnish-karelian
   - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - mesopotamian
+  - native-american-southeast
+  - roman
+  - sikh
+  - sufi
+  - zuni
+  total_cooccurrences: 130
+- pair:
+  - initiation
+  - sacred_love
+  tradition_count: 12
+  traditions:
+  - finnish-karelian
+  - germanic
+  - greek-roman
   - hermetic
   - hopi
-  - jewish-pseudepigrapha
   - native-american-northwest-coast
+  - native-american-southeast
   - norse
+  - slavic
+  - sufi
+  - zulu
+  - zuni
+  total_cooccurrences: 94
+- pair:
+  - sacred_love
+  - trickster
+  tradition_count: 12
+  traditions:
+  - celtic-irish
+  - celtic-welsh
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - islamicate-folklore
+  - japanese
+  - norse
+  - roman
+  - romanian
+  - slavic
+  total_cooccurrences: 146
+- pair:
+  - death_and_transformation
+  - trickster
+  tradition_count: 12
+  traditions:
+  - australian-aboriginal
+  - celtic-irish
+  - germanic
+  - hindu
+  - hopi
+  - islamic
+  - native-american-northwest-coast
+  - native-american-southeast
+  - navajo
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 131
+- pair:
+  - ascent
+  - descent
+  tradition_count: 12
+  traditions:
+  - caucasian
+  - estonian
+  - ethiopian-christian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - hindu
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - slavic
+  total_cooccurrences: 55
+- pair:
+  - axis_mundi
+  - culture_hero
+  tradition_count: 12
+  traditions:
+  - comparative
+  - finnish-karelian
+  - greek
+  - hindu
+  - hopi
+  - nahua-maya-inca
+  - native-american-plains
+  - native-american-southwest
+  - navajo
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 65
+- pair:
+  - covenant
+  - divine_judgment
+  tradition_count: 12
+  traditions:
+  - arthurian
+  - biblical
+  - celtic-irish
+  - christian-apocrypha
+  - ethiopian-christian
+  - greek
+  - hindu
+  - islamic
+  - mesopotamian
+  - norse
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 549
+- pair:
+  - covenant
+  - royal_legitimacy
+  tradition_count: 12
+  traditions:
+  - biblical
+  - christian-apocrypha
+  - ethiopian-christian
+  - greek
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - persian
+  - roman
+  - slavic
+  - sufi
+  total_cooccurrences: 212
+- pair:
+  - axis_mundi
+  - divine_judgment
+  tradition_count: 12
+  traditions:
+  - biblical
+  - celtic-irish
+  - estonian
+  - ethiopian-christian
+  - greek
+  - greek-roman
+  - hindu
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - sikh
+  - sufi
+  total_cooccurrences: 220
+- pair:
+  - cosmic_origin
+  - serpent_guardian
+  tradition_count: 12
+  traditions:
+  - biblical
+  - egyptian
+  - finnish-karelian
+  - gnostic
+  - greek
+  - hermetic
+  - hindu
+  - mesopotamian
+  - norse
+  - persian
+  - roman
   - zoroastrian
   total_cooccurrences: 98
 - pair:
-  - afterlife_passage
-  - initiation
-  tradition_count: 10
-  traditions:
-  - australian-aboriginal
-  - egyptian
-  - finnish-karelian
-  - gnostic
-  - greek
-  - hermetic
-  - native-american-southeast
-  - roman
-  - sikh
-  - zuni
-  total_cooccurrences: 93
-- pair:
-  - divine_judgment
-  - sacred_time
-  tradition_count: 10
-  traditions:
-  - christian-apocrypha
-  - egyptian
-  - estonian
-  - greek
-  - hindu
-  - islamic
-  - norse
-  - persian
-  - sikh
-  - slavic
-  total_cooccurrences: 102
-- pair:
-  - miraculous_child
-  - sacrifice
-  tradition_count: 10
-  traditions:
-  - ethiopian-christian
-  - finnish-karelian
-  - greek
-  - hawaiian
-  - hindu
-  - islamic
-  - mongol
-  - nahua-maya-inca
-  - norse
-  - zuni
-  total_cooccurrences: 205
-- pair:
-  - axis_mundi
-  - culture_hero
-  tradition_count: 10
-  traditions:
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southwest
-  - navajo
-  - roman
-  total_cooccurrences: 54
-- pair:
-  - sacred_knowledge
-  - sacred_twins
-  tradition_count: 10
-  traditions:
-  - afro-caribbean
-  - caucasian
-  - gnostic
-  - greek-roman
-  - hopi
-  - islamic
-  - islamicate-folklore
-  - mesopotamian
-  - native-american-northwest-coast
-  - persian
-  total_cooccurrences: 56
-- pair:
-  - mystical_quest
+  - flood_and_renewal
   - serpent_guardian
-  tradition_count: 10
+  tradition_count: 12
   traditions:
-  - estonian
-  - finnish-karelian
+  - biblical
+  - egyptian
+  - ethiopian-christian
   - greek
   - greek-roman
-  - hermetic
+  - hindu
   - hopi
-  - native-american-southeast
-  - native-american-southwest
+  - islamic
+  - mesopotamian
+  - norse
   - roman
-  - zuni
-  total_cooccurrences: 79
+  - sufi
+  total_cooccurrences: 123
+- pair:
+  - royal_legitimacy
+  - sacred_twins
+  tradition_count: 12
+  traditions:
+  - buddhist
+  - celtic-welsh
+  - egyptian
+  - ethiopian-christian
+  - hindu
+  - japanese
+  - jewish-pseudepigrapha
+  - norse
+  - persian
+  - roman
+  - romanian
+  - slavic
+  total_cooccurrences: 156
 - pair:
   - descent
   - sacrifice
-  tradition_count: 10
+  tradition_count: 12
   traditions:
   - caucasian
   - christian-apocrypha
+  - comparative
   - ethiopian-christian
   - greek
   - greek-roman
   - hindu
   - islamicate-folklore
   - nahua-maya-inca
-  - roman
-  - slavic
-  total_cooccurrences: 62
-- pair:
-  - royal_legitimacy
-  - sacred_twins
-  tradition_count: 10
-  traditions:
-  - buddhist
-  - celtic-welsh
-  - egyptian
-  - ethiopian-christian
-  - hindu
-  - jewish-pseudepigrapha
   - norse
-  - persian
   - roman
   - slavic
-  total_cooccurrences: 135
+  total_cooccurrences: 93
 - pair:
-  - royal_legitimacy
+  - afterlife_passage
   - serpent_guardian
-  tradition_count: 10
+  tradition_count: 12
   traditions:
-  - biblical
-  - buddhist
-  - celtic-welsh
-  - ethiopian-christian
-  - germanic
-  - greek
-  - greek-roman
-  - islamic
-  - mesopotamian
-  - persian
-  total_cooccurrences: 70
-- pair:
-  - sacred_exchange
-  - serpent_guardian
-  tradition_count: 10
-  traditions:
-  - buddhist
-  - celtic-welsh
-  - comparative
-  - germanic
-  - greek-roman
-  - hopi
-  - nahua-maya-inca
-  - native-american-plains
-  - native-american-southeast
-  - zuni
-  total_cooccurrences: 77
-- pair:
-  - axis_mundi
-  - cosmic_origin
-  tradition_count: 10
-  traditions:
-  - biblical
-  - estonian
+  - ainu
+  - egyptian
   - finnish-karelian
-  - greek
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - mesopotamian
-  - norse
-  - zoroastrian
-  total_cooccurrences: 71
-- pair:
-  - ascent
-  - sacrifice
-  tradition_count: 10
-  traditions:
-  - buddhist
-  - caucasian
-  - christian-apocrypha
-  - comparative
-  - egyptian
-  - ethiopian-christian
-  - hindu
-  - native-american-plains
-  - native-american-southwest
-  - sufi
-  total_cooccurrences: 109
-- pair:
-  - miraculous_child
-  - trickster
-  tradition_count: 10
-  traditions:
-  - buddhist
-  - estonian
-  - greek
   - greek-roman
+  - hindu
+  - hopi
   - islamic
-  - native-american-northwest-coast
   - native-american-southeast
   - norse
   - roman
-  - slavic
-  total_cooccurrences: 100
-- pair:
-  - sacred_exchange
-  - sacred_twins
-  tradition_count: 10
-  traditions:
-  - biblical
-  - buddhist
-  - egyptian
-  - estonian
-  - hawaiian
-  - hopi
-  - islamic
-  - jewish-pseudepigrapha
-  - navajo
-  - slavic
-  total_cooccurrences: 58
-- pair:
-  - death_and_transformation
-  - duality
-  tradition_count: 10
-  traditions:
-  - buddhist
-  - daoist
-  - greek-roman
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - norse
-  - slavic
   - sufi
   - zoroastrian
   total_cooccurrences: 171
 - pair:
+  - cosmic_origin
+  - miraculous_child
+  tradition_count: 12
+  traditions:
+  - biblical
+  - egyptian
+  - finnish-karelian
+  - gnostic
+  - greek
+  - greek-roman
+  - hermetic
+  - hindu
+  - islamic
+  - mesopotamian
+  - nahua-maya-inca
+  - norse
+  total_cooccurrences: 135
+- pair:
+  - sacrifice
+  - serpent_guardian
+  tradition_count: 12
+  traditions:
+  - buddhist
+  - comparative
+  - egyptian
+  - ethiopian-christian
+  - germanic
+  - greek
+  - hindu
+  - hopi
+  - native-american-southeast
+  - native-american-southwest
+  - norse
+  - zuni
+  total_cooccurrences: 115
+- pair:
+  - mystical_quest
+  - serpent_guardian
+  tradition_count: 12
+  traditions:
+  - ainu
+  - buddhist
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hermetic
+  - hopi
+  - mesopotamian
+  - native-american-southeast
+  - native-american-southwest
+  - zuni
+  total_cooccurrences: 82
+- pair:
   - covenant
-  - royal_legitimacy
-  tradition_count: 10
+  - hero_journey
+  tradition_count: 12
   traditions:
   - biblical
   - christian-apocrypha
   - ethiopian-christian
+  - finnish-karelian
+  - germanic
   - greek
   - hindu
   - islamic
   - jewish-pseudepigrapha
-  - persian
+  - native-american-plains
+  - native-american-southeast
   - roman
-  - slavic
-  total_cooccurrences: 198
+  total_cooccurrences: 283
 - pair:
-  - sacred_twins
-  - shapeshifter
-  tradition_count: 10
+  - culture_hero
+  - initiation
+  tradition_count: 12
   traditions:
-  - estonian
-  - germanic
+  - australian-aboriginal
+  - buddhist
+  - celtic-irish
   - greek
   - greek-roman
   - hopi
-  - inuit
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - native-american-plains
-  - norse
-  total_cooccurrences: 71
-- pair:
-  - ascent
-  - serpent_guardian
-  tradition_count: 10
-  traditions:
-  - biblical
-  - buddhist
-  - caucasian
-  - egyptian
-  - gnostic
   - islamic
-  - islamicate-folklore
-  - native-american-plains
+  - japanese
+  - mesopotamian
+  - navajo
+  - norse
   - roman
-  - slavic
-  total_cooccurrences: 70
+  total_cooccurrences: 87
 - pair:
-  - mystical_quest
-  - royal_legitimacy
-  tradition_count: 10
+  - cosmic_origin
+  - flood_and_renewal
+  tradition_count: 12
   traditions:
   - biblical
-  - caucasian
   - egyptian
-  - estonian
+  - greek
+  - hindu
+  - islamic
+  - japanese
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - nahua-maya-inca
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 100
+- pair:
+  - flood_and_renewal
+  - miraculous_child
+  tradition_count: 12
+  traditions:
+  - biblical
+  - celtic-welsh
   - ethiopian-christian
   - germanic
   - greek
   - greek-roman
+  - hawaiian
+  - hindu
   - islamic
+  - nahua-maya-inca
+  - norse
+  - roman
+  total_cooccurrences: 156
+- pair:
+  - culture_hero
+  - sacred_exchange
+  tradition_count: 12
+  traditions:
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - finnish-karelian
+  - greek
+  - hawaiian
+  - mongol
+  - native-american-plains
+  - native-american-southwest
+  - navajo
+  - norse
+  - zuni
+  total_cooccurrences: 144
+- pair:
+  - ascent
+  - serpent_guardian
+  tradition_count: 12
+  traditions:
+  - biblical
+  - buddhist
+  - caucasian
+  - gnostic
+  - islamic
+  - islamicate-folklore
+  - native-american-plains
+  - norse
+  - persian
+  - roman
   - slavic
-  total_cooccurrences: 115
+  - sufi
+  total_cooccurrences: 94
+- pair:
+  - axis_mundi
+  - sacrifice
+  tradition_count: 11
+  traditions:
+  - comparative
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - islamic
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - native-american-plains
+  - native-american-southwest
+  - norse
+  - sufi
+  total_cooccurrences: 138
+- pair:
+  - axis_mundi
+  - cosmic_origin
+  tradition_count: 11
+  traditions:
+  - biblical
+  - estonian
+  - finnish-karelian
+  - greek
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 82
+- pair:
+  - axis_mundi
+  - sacred_time
+  tradition_count: 11
+  traditions:
+  - biblical
+  - comparative
+  - finnish-karelian
+  - greek
+  - hindu
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - norse
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 118
+- pair:
+  - cosmic_origin
+  - hero_journey
+  tradition_count: 11
+  traditions:
+  - arthurian
+  - daoist
+  - gnostic
+  - greek
+  - greek-roman
+  - mongol
+  - nahua-maya-inca
+  - persian
+  - roman
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 80
+- pair:
+  - culture_hero
+  - serpent_guardian
+  tradition_count: 11
+  traditions:
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hopi
+  - japanese
+  - nahua-maya-inca
+  - native-american-plains
+  - norse
+  - persian
+  - roman
+  - zoroastrian
+  total_cooccurrences: 101
+- pair:
+  - sacred_love
+  - sacred_time
+  tradition_count: 11
+  traditions:
+  - australian-aboriginal
+  - celtic-irish
+  - comparative
+  - egyptian
+  - estonian
+  - greek
+  - hindu
+  - norse
+  - roman
+  - sikh
+  - sufi
+  total_cooccurrences: 150
+- pair:
+  - axis_mundi
+  - flood_and_renewal
+  tradition_count: 11
+  traditions:
+  - biblical
+  - greek
+  - guiana-amerindian
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - navajo
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 81
+- pair:
+  - death_and_transformation
+  - duality
+  tradition_count: 11
+  traditions:
+  - buddhist
+  - daoist
+  - greek-roman
+  - hindu
+  - islamic
+  - nahua-maya-inca
+  - norse
+  - roman
+  - slavic
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 241
+- pair:
+  - sacred_knowledge
+  - sacred_time
+  tradition_count: 11
+  traditions:
+  - buddhist
+  - christian-apocrypha
+  - confucian
+  - daoist
+  - finnish-karelian
+  - hermetic
+  - islamic
+  - jewish-pseudepigrapha
+  - native-american-northwest-coast
+  - native-american-southeast
+  - slavic
+  total_cooccurrences: 103
+- pair:
+  - miraculous_child
+  - trickster
+  tradition_count: 11
+  traditions:
+  - buddhist
+  - estonian
+  - greek
+  - islamic
+  - native-american-northwest-coast
+  - native-american-southeast
+  - norse
+  - roman
+  - siberian
+  - slavic
+  - sufi
+  total_cooccurrences: 124
 - pair:
   - culture_hero
   - sacrifice
-  tradition_count: 10
+  tradition_count: 11
   traditions:
   - biblical
+  - daoist
   - finnish-karelian
   - greek
   - hawaiian
   - hindu
+  - japanese
   - mongol
   - native-american-plains
   - norse
   - roman
-  - zoroastrian
-  total_cooccurrences: 79
-- pair:
-  - descent
-  - sacred_exchange
-  tradition_count: 10
-  traditions:
-  - celtic-irish
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - islamic
-  - native-american-northwest-coast
-  - norse
-  - roman
-  total_cooccurrences: 73
-- pair:
-  - sacred_time
-  - sacrifice
-  tradition_count: 9
-  traditions:
-  - biblical
-  - comparative
-  - greek-roman
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - native-american-southeast
-  - norse
-  - roman
-  - zoroastrian
-  total_cooccurrences: 249
-- pair:
-  - ascent
-  - royal_legitimacy
-  tradition_count: 9
-  traditions:
-  - biblical
-  - egyptian
-  - islamicate-folklore
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - norse
-  - persian
-  - roman
-  - zoroastrian
-  total_cooccurrences: 85
-- pair:
-  - mystical_quest
-  - sacred_twins
-  tradition_count: 9
-  traditions:
-  - caucasian
-  - egyptian
-  - germanic
-  - greek
-  - greek-roman
-  - mesopotamian
-  - native-american-northwest-coast
-  - native-american-southeast
-  - slavic
-  total_cooccurrences: 48
-- pair:
-  - culture_hero
-  - serpent_guardian
-  tradition_count: 9
-  traditions:
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hopi
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - persian
-  - roman
-  total_cooccurrences: 74
-- pair:
-  - divine_judgment
-  - sacred_love
-  tradition_count: 9
-  traditions:
-  - biblical
-  - estonian
-  - greek
-  - greek-roman
-  - hindu
-  - hopi
-  - mongol
-  - norse
-  - roman
-  total_cooccurrences: 196
-- pair:
-  - sacred_love
-  - trickster
-  tradition_count: 9
-  traditions:
-  - celtic-irish
-  - celtic-welsh
-  - greek-roman
-  - hindu
-  - hopi
-  - islamicate-folklore
-  - norse
-  - roman
-  - slavic
-  total_cooccurrences: 106
+  total_cooccurrences: 92
 - pair:
   - sacrifice
   - shapeshifter
-  tradition_count: 9
+  tradition_count: 11
   traditions:
   - egyptian
+  - filipino
+  - greek
   - hopi
   - islamic
   - islamicate-folklore
@@ -3811,126 +4026,298 @@ conserved_edges:
   - norse
   - zoroastrian
   - zuni
-  total_cooccurrences: 62
+  total_cooccurrences: 95
 - pair:
-  - flood_and_renewal
-  - serpent_guardian
-  tradition_count: 9
+  - mystical_quest
+  - sacred_twins
+  tradition_count: 11
+  traditions:
+  - arthurian
+  - caucasian
+  - egyptian
+  - germanic
+  - greek
+  - greek-roman
+  - mesopotamian
+  - native-american-northwest-coast
+  - native-american-southeast
+  - romanian
+  - slavic
+  total_cooccurrences: 69
+- pair:
+  - afterlife_passage
+  - axis_mundi
+  tradition_count: 11
   traditions:
   - biblical
-  - egyptian
-  - ethiopian-christian
+  - celtic-irish
+  - comparative
   - greek
   - hindu
-  - hopi
   - islamic
+  - jewish-pseudepigrapha
+  - mesopotamian
   - norse
   - roman
-  total_cooccurrences: 76
+  - sufi
+  total_cooccurrences: 108
+- pair:
+  - afterlife_passage
+  - shapeshifter
+  tradition_count: 10
+  traditions:
+  - ainu
+  - amazonian
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - hopi
+  - islamic
+  - native-american-southeast
+  - norse
+  total_cooccurrences: 66
+- pair:
+  - miraculous_child
+  - sacred_time
+  tradition_count: 10
+  traditions:
+  - celtic-irish
+  - egyptian
+  - greek
+  - greek-roman
+  - hindu
+  - islamic
+  - nahua-maya-inca
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 127
 - pair:
   - mystical_quest
   - sacred_time
-  tradition_count: 9
+  tradition_count: 10
   traditions:
   - celtic-irish
   - celtic-welsh
   - egyptian
   - estonian
   - finnish-karelian
+  - greek
   - mesopotamian
   - norse
   - persian
   - sikh
-  total_cooccurrences: 50
+  total_cooccurrences: 66
 - pair:
+  - ascent
   - cosmic_origin
-  - duality
-  tradition_count: 9
+  tradition_count: 10
   traditions:
-  - celtic-irish
+  - biblical
   - daoist
   - egyptian
   - gnostic
   - greek
+  - hermetic
   - islamic
+  - jewish-pseudepigrapha
   - norse
   - sufi
-  - zoroastrian
-  total_cooccurrences: 103
+  total_cooccurrences: 87
 - pair:
-  - cosmic_origin
-  - divine_judgment
-  tradition_count: 8
+  - ascent
+  - sacrifice
+  tradition_count: 10
+  traditions:
+  - buddhist
+  - caucasian
+  - christian-apocrypha
+  - comparative
+  - egyptian
+  - ethiopian-christian
+  - hindu
+  - native-american-plains
+  - native-american-southwest
+  - sufi
+  total_cooccurrences: 134
+- pair:
+  - ascent
+  - royal_legitimacy
+  tradition_count: 10
   traditions:
   - biblical
+  - daoist
+  - egyptian
+  - islamicate-folklore
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - norse
+  - persian
+  - roman
+  - zoroastrian
+  total_cooccurrences: 100
+- pair:
+  - descent
+  - miraculous_child
+  tradition_count: 10
+  traditions:
+  - buddhist
+  - celtic-irish
+  - estonian
+  - ethiopian-christian
+  - greek-roman
+  - islamic
+  - japanese
+  - native-american-northwest-coast
+  - norse
+  - roman
+  total_cooccurrences: 71
+- pair:
+  - sacred_love
+  - serpent_guardian
+  tradition_count: 10
+  traditions:
+  - ainu
+  - celtic-irish
+  - comparative
+  - finnish-karelian
   - greek
-  - hindu
+  - greek-roman
+  - nahua-maya-inca
+  - native-american-plains
+  - roman
+  - slavic
+  total_cooccurrences: 107
+- pair:
+  - duality
+  - sacred_time
+  tradition_count: 10
+  traditions:
+  - daoist
+  - egyptian
+  - greek-roman
+  - hermetic
   - islamic
   - jewish-pseudepigrapha
   - nahua-maya-inca
   - norse
-  - sufi
-  total_cooccurrences: 159
-- pair:
-  - descent
-  - miraculous_child
-  tradition_count: 8
-  traditions:
-  - estonian
-  - ethiopian-christian
-  - greek
-  - greek-roman
-  - islamic
-  - native-american-northwest-coast
-  - norse
   - roman
-  total_cooccurrences: 50
+  - sufi
+  total_cooccurrences: 82
 - pair:
-  - afterlife_passage
-  - sacrifice
-  tradition_count: 8
+  - divine_judgment
+  - sacred_time
+  tradition_count: 10
   traditions:
-  - australian-aboriginal
   - christian-apocrypha
   - egyptian
+  - estonian
   - greek
   - hindu
-  - nahua-maya-inca
+  - islamic
   - norse
-  - roman
-  total_cooccurrences: 119
+  - persian
+  - sikh
+  - slavic
+  total_cooccurrences: 112
 - pair:
+  - miraculous_child
   - mother_goddess
-  - sacred_time
-  tradition_count: 8
+  tradition_count: 10
   traditions:
   - comparative
   - egyptian
   - finnish-karelian
   - greek
   - greek-roman
-  - nahua-maya-inca
-  - norse
-  - roman
-  total_cooccurrences: 57
-- pair:
-  - miraculous_child
-  - mother_goddess
-  tradition_count: 8
-  traditions:
-  - egyptian
-  - finnish-karelian
-  - greek
-  - greek-roman
+  - mesopotamian
   - nahua-maya-inca
   - native-american-plains
   - norse
   - roman
-  total_cooccurrences: 102
+  total_cooccurrences: 138
+- pair:
+  - mystical_quest
+  - royal_legitimacy
+  tradition_count: 10
+  traditions:
+  - biblical
+  - caucasian
+  - egyptian
+  - estonian
+  - ethiopian-christian
+  - germanic
+  - greek
+  - greek-roman
+  - islamic
+  - slavic
+  total_cooccurrences: 120
+- pair:
+  - descent
+  - shapeshifter
+  tradition_count: 10
+  traditions:
+  - ainu
+  - estonian
+  - hopi
+  - japanese
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  - siberian
+  - slavic
+  - zuni
+  total_cooccurrences: 68
+- pair:
+  - cosmic_origin
+  - mystical_quest
+  tradition_count: 9
+  traditions:
+  - arthurian
+  - biblical
+  - daoist
+  - egyptian
+  - estonian
+  - finnish-karelian
+  - greek
+  - norse
+  - sufi
+  total_cooccurrences: 64
+- pair:
+  - covenant
+  - sacred_knowledge
+  tradition_count: 9
+  traditions:
+  - celtic-welsh
+  - christian-apocrypha
+  - daoist
+  - ethiopian-christian
+  - hindu
+  - norse
+  - persian
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 149
+- pair:
+  - cosmic_origin
+  - culture_hero
+  tradition_count: 9
+  traditions:
+  - estonian
+  - finnish-karelian
+  - greek
+  - hindu
+  - islamic
+  - japanese
+  - persian
+  - roman
+  - zoroastrian
+  total_cooccurrences: 41
 - pair:
   - sacred_love
   - sacred_twins
-  tradition_count: 8
+  tradition_count: 9
   traditions:
   - ainu
   - egyptian
@@ -3938,41 +4325,134 @@ conserved_edges:
   - greek
   - native-american-northwest-coast
   - roman
+  - siberian
   - slavic
   - zuni
-  total_cooccurrences: 58
+  total_cooccurrences: 71
 - pair:
-  - descent
-  - shapeshifter
-  tradition_count: 8
-  traditions:
-  - celtic-irish
-  - estonian
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  - slavic
-  - zuni
-  total_cooccurrences: 55
-- pair:
-  - cosmic_origin
-  - sacred_knowledge
-  tradition_count: 8
+  - sacred_time
+  - sacrifice
+  tradition_count: 9
   traditions:
   - biblical
-  - celtic-welsh
-  - egyptian
-  - estonian
-  - ethiopian-christian
+  - comparative
+  - greek-roman
   - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - native-american-southeast
+  - norse
   - roman
+  - zoroastrian
+  total_cooccurrences: 383
+- pair:
+  - royal_legitimacy
+  - serpent_guardian
+  tradition_count: 9
+  traditions:
+  - biblical
+  - buddhist
+  - celtic-welsh
+  - ethiopian-christian
+  - germanic
+  - greek-roman
+  - islamic
+  - mesopotamian
+  - persian
+  total_cooccurrences: 74
+- pair:
+  - duality
+  - initiation
+  tradition_count: 9
+  traditions:
+  - arthurian
+  - buddhist
+  - christian-apocrypha
+  - daoist
+  - germanic
+  - greek
+  - hindu
+  - mesopotamian
+  - native-american-northwest-coast
+  total_cooccurrences: 86
+- pair:
+  - sacred_time
+  - shapeshifter
+  tradition_count: 9
+  traditions:
+  - australian-aboriginal
+  - finnish-karelian
+  - greek
+  - hindu
+  - hopi
+  - indigenous-australian
+  - native-american-southeast
+  - norse
+  - slavic
+  total_cooccurrences: 64
+- pair:
+  - flood_and_renewal
+  - sacred_exchange
+  tradition_count: 9
+  traditions:
+  - ainu
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek-roman
+  - native-american-plains
+  total_cooccurrences: 35
+- pair:
+  - cosmic_origin
+  - duality
+  tradition_count: 9
+  traditions:
+  - celtic-irish
+  - egyptian
+  - gnostic
+  - greek
+  - greek-roman
+  - islamic
+  - norse
   - sufi
-  total_cooccurrences: 71
+  - zoroastrian
+  total_cooccurrences: 123
+- pair:
+  - flood_and_renewal
+  - royal_legitimacy
+  tradition_count: 9
+  traditions:
+  - buddhist
+  - celtic-welsh
+  - germanic
+  - greek
+  - greek-roman
+  - islamic
+  - norse
+  - persian
+  - zoroastrian
+  total_cooccurrences: 54
+- pair:
+  - death_and_transformation
+  - sacred_twins
+  tradition_count: 9
+  traditions:
+  - comparative
+  - egyptian
+  - germanic
+  - greek
+  - greek-roman
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - siberian
+  - slavic
+  total_cooccurrences: 52
 - pair:
   - initiation
   - sacred_twins
-  tradition_count: 8
+  tradition_count: 9
   traditions:
   - germanic
   - hindu
@@ -3981,82 +4461,43 @@ conserved_edges:
   - mesopotamian
   - navajo
   - norse
+  - romanian
   - slavic
-  total_cooccurrences: 58
+  total_cooccurrences: 63
 - pair:
-  - ascent
-  - cosmic_origin
-  tradition_count: 8
+  - descent
+  - sacred_love
+  tradition_count: 9
   traditions:
-  - biblical
-  - egyptian
-  - gnostic
+  - ainu
+  - celtic-irish
   - greek
-  - hermetic
-  - islamic
-  - jewish-pseudepigrapha
-  - roman
-  total_cooccurrences: 79
-- pair:
-  - sacred_time
-  - shapeshifter
-  tradition_count: 8
-  traditions:
-  - australian-aboriginal
-  - finnish-karelian
-  - greek
+  - greek-roman
   - hindu
-  - hopi
-  - native-american-southeast
-  - norse
-  - slavic
-  total_cooccurrences: 45
-- pair:
-  - flood_and_renewal
-  - sacred_time
-  tradition_count: 8
-  traditions:
-  - biblical
-  - comparative
-  - egyptian
-  - hopi
-  - jewish-pseudepigrapha
-  - mesopotamian
+  - islamicate-folklore
   - native-american-northwest-coast
   - norse
-  total_cooccurrences: 33
+  - slavic
+  total_cooccurrences: 66
 - pair:
-  - afterlife_passage
-  - axis_mundi
-  tradition_count: 8
+  - divine_judgment
+  - sacred_love
+  tradition_count: 9
   traditions:
   - biblical
+  - estonian
   - greek
+  - greek-roman
   - hindu
-  - islamic
-  - jewish-pseudepigrapha
+  - hopi
+  - mongol
   - norse
   - roman
-  - sufi
-  total_cooccurrences: 74
-- pair:
-  - cosmic_origin
-  - culture_hero
-  tradition_count: 8
-  traditions:
-  - estonian
-  - finnish-karelian
-  - greek
-  - hindu
-  - islamic
-  - persian
-  - roman
-  - zoroastrian
-  total_cooccurrences: 34
+  total_cooccurrences: 239
 - pair:
   - ascent
   - trickster
-  tradition_count: 8
+  tradition_count: 9
   traditions:
   - afro-caribbean
   - estonian
@@ -4066,63 +4507,223 @@ conserved_edges:
   - navajo
   - norse
   - roman
-  total_cooccurrences: 43
+  - sufi
+  total_cooccurrences: 57
 - pair:
-  - divine_judgment
-  - trickster
-  tradition_count: 8
+  - afterlife_passage
+  - sacrifice
+  tradition_count: 9
   traditions:
-  - ainu
-  - germanic
+  - australian-aboriginal
+  - celtic-irish
+  - christian-apocrypha
   - greek
-  - islamic
+  - greek-roman
+  - hindu
+  - nahua-maya-inca
   - norse
   - roman
+  total_cooccurrences: 147
+- pair:
+  - sacred_twins
+  - serpent_guardian
+  tradition_count: 9
+  traditions:
+  - comparative
+  - germanic
+  - greek
+  - greek-roman
+  - hopi
+  - islamic
+  - nahua-maya-inca
+  - norse
   - slavic
-  - sufi
-  total_cooccurrences: 136
+  total_cooccurrences: 51
+- pair:
+  - culture_hero
+  - trickster
+  tradition_count: 9
+  traditions:
+  - ainu
+  - celtic-irish
+  - estonian
+  - greek
+  - greek-roman
+  - hawaiian
+  - native-american-northwest-coast
+  - native-american-southwest
+  - norse
+  total_cooccurrences: 81
 - pair:
   - cosmic_origin
-  - mystical_quest
-  tradition_count: 8
+  - sacred_knowledge
+  tradition_count: 9
   traditions:
   - biblical
+  - celtic-welsh
   - daoist
   - egyptian
   - estonian
-  - finnish-karelian
-  - greek
-  - norse
+  - ethiopian-christian
+  - japanese
+  - jewish-pseudepigrapha
   - sufi
-  total_cooccurrences: 44
+  total_cooccurrences: 97
 - pair:
-  - flood_and_renewal
-  - royal_legitimacy
+  - sacred_knowledge
+  - sacred_twins
+  tradition_count: 9
+  traditions:
+  - afro-caribbean
+  - caucasian
+  - celtic-irish
+  - gnostic
+  - greek-roman
+  - hopi
+  - islamic
+  - islamicate-folklore
+  - native-american-northwest-coast
+  total_cooccurrences: 57
+- pair:
+  - descent
+  - serpent_guardian
   tradition_count: 8
   traditions:
-  - buddhist
-  - celtic-welsh
-  - egyptian
+  - ainu
+  - caucasian
+  - finnish-karelian
   - germanic
+  - hindu
+  - hopi
+  - roman
+  - slavic
+  total_cooccurrences: 59
+- pair:
+  - culture_hero
+  - sacred_time
+  tradition_count: 8
+  traditions:
+  - comparative
+  - finnish-karelian
   - greek
-  - islamic
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
   - norse
+  - roman
+  total_cooccurrences: 66
+- pair:
+  - divine_judgment
+  - sacred_twins
+  tradition_count: 8
+  traditions:
+  - egyptian
+  - greek
+  - greek-roman
+  - nahua-maya-inca
   - persian
-  total_cooccurrences: 55
+  - roman
+  - romanian
+  - zuni
+  total_cooccurrences: 82
+- pair:
+  - mother_goddess
+  - sacred_time
+  tradition_count: 8
+  traditions:
+  - comparative
+  - egyptian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - nahua-maya-inca
+  - norse
+  - roman
+  total_cooccurrences: 73
+- pair:
+  - sacred_love
+  - sacrifice
+  tradition_count: 8
+  traditions:
+  - caucasian
+  - finnish-karelian
+  - greek
+  - nahua-maya-inca
+  - norse
+  - roman
+  - sikh
+  - zoroastrian
+  total_cooccurrences: 105
 - pair:
   - flood_and_renewal
   - initiation
   tradition_count: 8
   traditions:
   - gnostic
-  - greek
   - hermetic
   - hindu
   - hopi
   - islamic
+  - mesopotamian
   - navajo
   - sufi
-  total_cooccurrences: 41
+  total_cooccurrences: 45
+- pair:
+  - ascent
+  - duality
+  tradition_count: 8
+  traditions:
+  - christian-apocrypha
+  - greek
+  - hindu
+  - hopi
+  - islamic
+  - jewish-pseudepigrapha
+  - roman
+  - sufi
+  total_cooccurrences: 158
+- pair:
+  - cosmic_origin
+  - divine_judgment
+  tradition_count: 8
+  traditions:
+  - biblical
+  - egyptian
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - nahua-maya-inca
+  - norse
+  - sufi
+  total_cooccurrences: 161
+- pair:
+  - cosmic_origin
+  - sacred_time
+  tradition_count: 8
+  traditions:
+  - biblical
+  - egyptian
+  - finnish-karelian
+  - greek
+  - jewish-pseudepigrapha
+  - norse
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 44
+- pair:
+  - divine_judgment
+  - trickster
+  tradition_count: 8
+  traditions:
+  - germanic
+  - greek
+  - greek-roman
+  - islamic
+  - norse
+  - roman
+  - slavic
+  - sufi
+  total_cooccurrences: 180
 - pair:
   - descent
   - divine_judgment
@@ -4136,21 +4737,133 @@ conserved_edges:
   - greek-roman
   - hindu
   - hopi
-  total_cooccurrences: 48
+  total_cooccurrences: 59
 - pair:
-  - flood_and_renewal
+  - hero_journey
+  - sacred_time
+  tradition_count: 8
+  traditions:
+  - biblical
+  - buddhist
+  - daoist
+  - greek
+  - hopi
+  - native-american-southwest
+  - persian
+  - sufi
+  total_cooccurrences: 85
+- pair:
+  - covenant
+  - sacrifice
+  tradition_count: 8
+  traditions:
+  - biblical
+  - christian-apocrypha
+  - comparative
+  - greek
+  - islamic
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  total_cooccurrences: 170
+- pair:
+  - afterlife_passage
+  - sacred_time
+  tradition_count: 8
+  traditions:
+  - greek
+  - hindu
+  - islamic
+  - mesopotamian
+  - nahua-maya-inca
+  - norse
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 66
+- pair:
+  - axis_mundi
+  - sacred_love
+  tradition_count: 8
+  traditions:
+  - ainu
+  - comparative
+  - egyptian
+  - finnish-karelian
+  - germanic
+  - greek
+  - greek-roman
+  - norse
+  total_cooccurrences: 58
+- pair:
+  - culture_hero
+  - sacred_love
+  tradition_count: 8
+  traditions:
+  - estonian
+  - filipino
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - native-american-plains
+  - norse
+  - roman
+  total_cooccurrences: 84
+- pair:
+  - mystical_quest
+  - trickster
+  tradition_count: 8
+  traditions:
+  - celtic-irish
+  - finnish-karelian
+  - hawaiian
+  - islamic
+  - native-american-southeast
+  - norse
+  - roman
+  - romanian
+  total_cooccurrences: 82
+- pair:
+  - cosmic_origin
   - sacred_exchange
   tradition_count: 8
   traditions:
-  - buddhist
   - celtic-irish
   - celtic-welsh
   - egyptian
   - estonian
-  - finnish-karelian
+  - germanic
+  - japanese
+  - nahua-maya-inca
+  - norse
+  total_cooccurrences: 48
+- pair:
+  - duality
+  - sacred_twins
+  tradition_count: 8
+  traditions:
+  - germanic
   - greek-roman
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - navajo
+  - norse
+  - roman
+  - zuni
+  total_cooccurrences: 34
+- pair:
+  - mother_goddess
+  - sacred_knowledge
+  tradition_count: 8
+  traditions:
+  - celtic-irish
+  - daoist
+  - egyptian
+  - hermetic
+  - mesopotamian
+  - nahua-maya-inca
   - native-american-plains
-  total_cooccurrences: 30
+  - norse
+  total_cooccurrences: 40
 - pair:
   - sacred_knowledge
   - sacred_waters
@@ -4166,230 +4879,135 @@ conserved_edges:
   - sufi
   total_cooccurrences: 49
 - pair:
-  - duality
-  - initiation
-  tradition_count: 8
-  traditions:
-  - buddhist
-  - christian-apocrypha
-  - daoist
-  - germanic
-  - greek
-  - hindu
-  - mesopotamian
-  - native-american-northwest-coast
-  total_cooccurrences: 57
-- pair:
-  - duality
-  - sacred_time
-  tradition_count: 8
-  traditions:
-  - daoist
-  - hermetic
-  - islamic
-  - jewish-pseudepigrapha
-  - nahua-maya-inca
-  - norse
-  - roman
-  - sufi
-  total_cooccurrences: 43
-- pair:
   - descent
-  - sacred_love
-  tradition_count: 8
+  - royal_legitimacy
+  tradition_count: 7
   traditions:
-  - celtic-irish
+  - comparative
   - greek
   - greek-roman
   - hindu
   - islamicate-folklore
-  - native-american-northwest-coast
   - norse
-  - slavic
-  total_cooccurrences: 57
-- pair:
-  - sacred_love
-  - serpent_guardian
-  tradition_count: 8
-  traditions:
-  - celtic-irish
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - nahua-maya-inca
-  - native-american-plains
-  - roman
-  - slavic
-  total_cooccurrences: 77
-- pair:
-  - divine_judgment
-  - sacred_twins
-  tradition_count: 7
-  traditions:
-  - egyptian
-  - greek
-  - greek-roman
-  - nahua-maya-inca
   - persian
-  - roman
-  - zuni
-  total_cooccurrences: 55
-- pair:
-  - sacred_twins
-  - serpent_guardian
-  tradition_count: 7
-  traditions:
-  - germanic
-  - greek
-  - greek-roman
-  - hopi
-  - islamic
-  - nahua-maya-inca
-  - slavic
-  total_cooccurrences: 36
-- pair:
-  - cosmic_origin
-  - sacred_exchange
-  tradition_count: 7
-  traditions:
-  - celtic-irish
-  - celtic-welsh
-  - egyptian
-  - estonian
-  - germanic
-  - nahua-maya-inca
-  - norse
-  total_cooccurrences: 40
-- pair:
-  - descent
-  - serpent_guardian
-  tradition_count: 7
-  traditions:
-  - caucasian
-  - finnish-karelian
-  - germanic
-  - hindu
-  - hopi
-  - roman
-  - slavic
-  total_cooccurrences: 51
-- pair:
-  - culture_hero
-  - sacred_time
-  tradition_count: 7
-  traditions:
-  - finnish-karelian
-  - greek
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  - roman
-  total_cooccurrences: 55
-- pair:
-  - culture_hero
-  - mystical_quest
-  tradition_count: 7
-  traditions:
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - hindu
-  - native-american-plains
-  - native-american-southwest
-  - norse
-  total_cooccurrences: 57
-- pair:
-  - ascent
-  - duality
-  tradition_count: 7
-  traditions:
-  - christian-apocrypha
-  - greek
-  - hindu
-  - hopi
-  - islamic
-  - jewish-pseudepigrapha
-  - sufi
-  total_cooccurrences: 86
-- pair:
-  - covenant
-  - sacred_love
-  tradition_count: 7
-  traditions:
-  - biblical
-  - ethiopian-christian
-  - greek
-  - hindu
-  - jewish-pseudepigrapha
-  - norse
-  - roman
-  total_cooccurrences: 72
-- pair:
-  - afterlife_passage
-  - shapeshifter
-  tradition_count: 7
-  traditions:
-  - amazonian
-  - estonian
-  - finnish-karelian
-  - greek-roman
-  - hopi
-  - islamic
-  - native-american-southeast
-  total_cooccurrences: 29
-- pair:
-  - duality
-  - serpent_guardian
-  tradition_count: 7
-  traditions:
-  - amazonian
-  - finnish-karelian
-  - hermetic
-  - nahua-maya-inca
-  - roman
-  - slavic
-  - zoroastrian
   total_cooccurrences: 45
 - pair:
   - hero_journey
   - trickster
   tradition_count: 7
   traditions:
-  - buddhist
-  - celtic-irish
+  - ainu
   - estonian
   - greek
   - islamic
   - norse
   - persian
-  total_cooccurrences: 118
+  - roman
+  total_cooccurrences: 137
 - pair:
-  - afterlife_passage
-  - duality
+  - flood_and_renewal
+  - sacred_twins
   tradition_count: 7
   traditions:
-  - celtic-irish
-  - hindu
+  - estonian
+  - hopi
   - islamic
-  - jewish-pseudepigrapha
+  - japanese
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - norse
+  total_cooccurrences: 32
+- pair:
+  - axis_mundi
+  - sacred_twins
+  tradition_count: 7
+  traditions:
+  - germanic
+  - greek-roman
+  - islamic
   - norse
   - roman
-  - zoroastrian
-  total_cooccurrences: 102
+  - slavic
+  - zuni
+  total_cooccurrences: 32
+- pair:
+  - culture_hero
+  - sacred_twins
+  tradition_count: 7
+  traditions:
+  - filipino
+  - hawaiian
+  - hopi
+  - native-american-southwest
+  - navajo
+  - roman
+  - zuni
+  total_cooccurrences: 46
+- pair:
+  - ascent
+  - sacred_twins
+  tradition_count: 7
+  traditions:
+  - inuit
+  - islamic
+  - native-american-northwest-coast
+  - native-american-southeast
+  - navajo
+  - roman
+  - zulu
+  total_cooccurrences: 34
 - pair:
   - mother_goddess
-  - sacred_knowledge
+  - sacred_love
+  tradition_count: 7
+  traditions:
+  - comparative
+  - estonian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - norse
+  - roman
+  total_cooccurrences: 56
+- pair:
+  - axis_mundi
+  - mother_goddess
+  tradition_count: 7
+  traditions:
+  - comparative
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - nahua-maya-inca
+  - norse
+  - roman
+  total_cooccurrences: 44
+- pair:
+  - axis_mundi
+  - trickster
+  tradition_count: 7
+  traditions:
+  - germanic
+  - greek
+  - hindu
+  - islamic
+  - native-american-northwest-coast
+  - navajo
+  - sufi
+  total_cooccurrences: 27
+- pair:
+  - afterlife_passage
+  - flood_and_renewal
   tradition_count: 7
   traditions:
   - celtic-irish
   - egyptian
-  - hermetic
+  - hindu
+  - islamic
   - mesopotamian
-  - nahua-maya-inca
-  - native-american-plains
   - norse
-  total_cooccurrences: 30
+  - sufi
+  total_cooccurrences: 104
 - pair:
   - royal_legitimacy
   - sacred_time
@@ -4402,20 +5020,20 @@ conserved_edges:
   - hindu
   - norse
   - roman
-  total_cooccurrences: 81
+  total_cooccurrences: 92
 - pair:
-  - mystical_quest
-  - trickster
+  - ascent
+  - sacred_time
   tradition_count: 7
   traditions:
-  - celtic-irish
-  - finnish-karelian
-  - hawaiian
-  - islamic
-  - native-american-southeast
+  - australian-aboriginal
+  - buddhist
+  - greek-roman
+  - hopi
+  - native-american-northwest-coast
   - norse
   - roman
-  total_cooccurrences: 59
+  total_cooccurrences: 50
 - pair:
   - mystical_quest
   - sacred_waters
@@ -4428,111 +5046,59 @@ conserved_edges:
   - hindu
   - roman
   - sufi
-  total_cooccurrences: 31
+  total_cooccurrences: 32
 - pair:
-  - culture_hero
+  - afterlife_passage
+  - duality
+  tradition_count: 7
+  traditions:
+  - celtic-irish
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 129
+- pair:
+  - duality
+  - shapeshifter
+  tradition_count: 7
+  traditions:
+  - ainu
+  - daoist
+  - egyptian
+  - islamic
+  - nahua-maya-inca
+  - norse
+  - sufi
+  total_cooccurrences: 29
+- pair:
+  - covenant
   - sacred_love
   tradition_count: 7
   traditions:
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - native-american-plains
-  - norse
-  - roman
-  total_cooccurrences: 66
-- pair:
-  - cosmic_origin
-  - hero_journey
-  tradition_count: 7
-  traditions:
-  - daoist
-  - gnostic
-  - greek
-  - mongol
-  - nahua-maya-inca
-  - roman
-  - zoroastrian
-  total_cooccurrences: 51
-- pair:
-  - initiation
-  - trickster
-  tradition_count: 7
-  traditions:
-  - celtic-welsh
-  - estonian
-  - islamicate-folklore
-  - native-american-southeast
-  - persian
-  - roman
-  - slavic
-  total_cooccurrences: 36
-- pair:
-  - axis_mundi
-  - covenant
-  tradition_count: 7
-  traditions:
+  - arthurian
   - biblical
   - ethiopian-christian
   - greek
-  - islamic
-  - native-american-plains
-  - norse
-  - roman
-  total_cooccurrences: 96
-- pair:
-  - cosmic_origin
-  - sacred_time
-  tradition_count: 7
-  traditions:
-  - biblical
-  - egyptian
-  - finnish-karelian
-  - greek
+  - hindu
   - jewish-pseudepigrapha
   - norse
-  - zoroastrian
-  total_cooccurrences: 33
+  total_cooccurrences: 71
 - pair:
-  - miraculous_child
-  - sacred_time
-  tradition_count: 7
-  traditions:
-  - egyptian
-  - greek
-  - greek-roman
-  - hindu
-  - islamic
-  - nahua-maya-inca
-  - norse
-  total_cooccurrences: 65
-- pair:
-  - hero_journey
+  - flood_and_renewal
   - sacred_time
   tradition_count: 7
   traditions:
   - biblical
-  - celtic-irish
-  - greek
-  - hopi
-  - native-american-southwest
-  - persian
-  - sufi
-  total_cooccurrences: 65
-- pair:
-  - afterlife_passage
-  - serpent_guardian
-  tradition_count: 7
-  traditions:
   - egyptian
-  - finnish-karelian
-  - greek-roman
-  - hindu
   - hopi
-  - islamic
-  - native-american-southeast
-  total_cooccurrences: 67
+  - jewish-pseudepigrapha
+  - mesopotamian
+  - native-american-northwest-coast
+  - norse
+  total_cooccurrences: 35
 - pair:
   - duality
   - flood_and_renewal
@@ -4540,109 +5106,51 @@ conserved_edges:
   traditions:
   - egyptian
   - ethiopian-christian
+  - japanese
   - jewish-pseudepigrapha
   - nahua-maya-inca
   - native-american-southeast
   - norse
-  - zoroastrian
-  total_cooccurrences: 26
+  total_cooccurrences: 29
 - pair:
-  - covenant
-  - sacrifice
+  - cosmic_origin
+  - death_and_transformation
   tradition_count: 7
   traditions:
   - biblical
-  - christian-apocrypha
-  - greek
-  - islamic
-  - jewish-pseudepigrapha
-  - norse
-  - roman
-  total_cooccurrences: 158
-- pair:
-  - mother_goddess
-  - sacred_exchange
-  tradition_count: 6
-  traditions:
-  - finnish-karelian
-  - greek
-  - nahua-maya-inca
-  - native-american-plains
-  - norse
-  - zoroastrian
-  total_cooccurrences: 36
-- pair:
-  - initiation
-  - sacred_time
-  tradition_count: 6
-  traditions:
-  - buddhist
-  - celtic-irish
-  - celtic-welsh
-  - greek
-  - greek-roman
-  - hopi
-  total_cooccurrences: 23
-- pair:
-  - death_and_transformation
-  - mother_goddess
-  tradition_count: 6
-  traditions:
-  - comparative
   - egyptian
-  - greek
-  - greek-roman
-  - nahua-maya-inca
+  - hindu
+  - islamic
   - norse
-  total_cooccurrences: 31
+  - sufi
+  - zoroastrian
+  total_cooccurrences: 101
 - pair:
   - duality
-  - sacrifice
-  tradition_count: 6
+  - serpent_guardian
+  tradition_count: 7
   traditions:
-  - comparative
-  - greek-roman
-  - hindu
+  - amazonian
+  - egyptian
+  - finnish-karelian
+  - hermetic
   - nahua-maya-inca
-  - navajo
-  - sufi
-  total_cooccurrences: 47
-- pair:
-  - culture_hero
-  - sacred_twins
-  tradition_count: 6
-  traditions:
-  - hawaiian
-  - hopi
-  - native-american-southwest
-  - navajo
-  - roman
-  - zuni
-  total_cooccurrences: 38
-- pair:
-  - axis_mundi
-  - sacred_twins
-  tradition_count: 6
-  traditions:
-  - germanic
-  - greek-roman
-  - islamic
-  - roman
   - slavic
-  - zuni
-  total_cooccurrences: 20
+  - zoroastrian
+  total_cooccurrences: 60
 - pair:
-  - death_and_transformation
-  - sacred_twins
-  tradition_count: 6
+  - duality
+  - miraculous_child
+  tradition_count: 7
   traditions:
   - egyptian
-  - germanic
-  - greek
+  - hindu
+  - mesopotamian
   - nahua-maya-inca
-  - native-american-northwest-coast
+  - norse
+  - roman
   - slavic
-  total_cooccurrences: 38
+  total_cooccurrences: 61
 - pair:
   - flood_and_renewal
   - trickster
@@ -4654,55 +5162,139 @@ conserved_edges:
   - navajo
   - norse
   - roman
-  total_cooccurrences: 32
+  total_cooccurrences: 37
 - pair:
-  - afterlife_passage
-  - trickster
+  - culture_hero
+  - descent
   tradition_count: 6
   traditions:
   - celtic-irish
-  - finnish-karelian
-  - germanic
-  - greek-roman
-  - islamic
-  - slavic
-  total_cooccurrences: 29
+  - estonian
+  - hopi
+  - nahua-maya-inca
+  - native-american-northwest-coast
+  - roman
+  total_cooccurrences: 36
 - pair:
-  - afterlife_passage
-  - sacred_love
+  - axis_mundi
+  - sacred_waters
   tradition_count: 6
   traditions:
-  - celtic-irish
   - greek
-  - greek-roman
+  - hindu
+  - islamic
+  - islamicate-folklore
   - norse
   - roman
-  - sikh
-  total_cooccurrences: 55
+  total_cooccurrences: 23
 - pair:
-  - sacred_love
-  - sacrifice
+  - axis_mundi
+  - covenant
   tradition_count: 6
   traditions:
-  - caucasian
+  - biblical
+  - ethiopian-christian
+  - greek
+  - islamic
+  - native-american-plains
+  - roman
+  total_cooccurrences: 91
+- pair:
+  - culture_hero
+  - mystical_quest
+  tradition_count: 6
+  traditions:
+  - finnish-karelian
+  - greek
+  - hindu
+  - native-american-plains
+  - native-american-southwest
+  - norse
+  total_cooccurrences: 57
+- pair:
+  - duality
+  - royal_legitimacy
+  tradition_count: 6
+  traditions:
+  - biblical
+  - buddhist
+  - celtic-welsh
+  - germanic
+  - norse
+  - roman
+  total_cooccurrences: 26
+- pair:
+  - mother_goddess
+  - sacred_exchange
+  tradition_count: 6
+  traditions:
   - finnish-karelian
   - greek
   - nahua-maya-inca
+  - native-american-plains
   - norse
+  - zoroastrian
+  total_cooccurrences: 41
+- pair:
+  - afterlife_passage
+  - sacred_love
+  tradition_count: 6
+  traditions:
+  - ainu
+  - greek
+  - norse
+  - roman
   - sikh
-  total_cooccurrences: 51
+  - sufi
+  total_cooccurrences: 57
 - pair:
   - covenant
-  - sacred_knowledge
+  - initiation
+  tradition_count: 6
+  traditions:
+  - arthurian
+  - celtic-welsh
+  - hindu
+  - islamic
+  - jewish-pseudepigrapha
+  - sufi
+  total_cooccurrences: 56
+- pair:
+  - death_and_transformation
+  - royal_legitimacy
+  tradition_count: 6
+  traditions:
+  - biblical
+  - celtic-irish
+  - comparative
+  - estonian
+  - mongol
+  - zulu
+  total_cooccurrences: 63
+- pair:
+  - initiation
+  - trickster
   tradition_count: 6
   traditions:
   - celtic-welsh
-  - christian-apocrypha
-  - ethiopian-christian
-  - hindu
+  - estonian
+  - islamicate-folklore
+  - native-american-southeast
   - persian
-  - zoroastrian
-  total_cooccurrences: 90
+  - slavic
+  total_cooccurrences: 33
+- pair:
+  - cosmic_origin
+  - mother_goddess
+  tradition_count: 6
+  traditions:
+  - egyptian
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - mesopotamian
+  - roman
+  total_cooccurrences: 29
 - pair:
   - duality
   - hero_journey
@@ -4712,101 +5304,160 @@ conserved_edges:
   - gnostic
   - mesopotamian
   - native-american-southeast
-  - persian
+  - roman
+  - zulu
+  total_cooccurrences: 47
+- pair:
+  - culture_hero
+  - duality
+  tradition_count: 6
+  traditions:
+  - daoist
+  - finnish-karelian
+  - mesopotamian
+  - nahua-maya-inca
+  - navajo
   - roman
   total_cooccurrences: 33
+- pair:
+  - initiation
+  - sacred_time
+  tradition_count: 6
+  traditions:
+  - buddhist
+  - celtic-irish
+  - celtic-welsh
+  - greek
+  - greek-roman
+  - hopi
+  total_cooccurrences: 28
+- pair:
+  - culture_hero
+  - mother_goddess
+  tradition_count: 6
+  traditions:
+  - estonian
+  - finnish-karelian
+  - greek-roman
+  - nahua-maya-inca
+  - native-american-plains
+  - roman
+  total_cooccurrences: 34
+- pair:
+  - flood_and_renewal
+  - sacrifice
+  tradition_count: 6
+  traditions:
+  - arthurian
+  - greek
+  - hopi
+  - mesopotamian
+  - norse
+  - sufi
+  total_cooccurrences: 32
 - pair:
   - duality
   - sacred_love
   tradition_count: 6
   traditions:
   - egyptian
-  - greek-roman
   - hermetic
   - norse
   - slavic
+  - sufi
   - zoroastrian
-  total_cooccurrences: 29
+  total_cooccurrences: 36
 - pair:
-  - flood_and_renewal
-  - sacred_twins
-  tradition_count: 6
-  traditions:
-  - estonian
-  - hopi
-  - islamic
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - norse
-  total_cooccurrences: 27
-- pair:
-  - ascent
-  - sacred_twins
-  tradition_count: 6
-  traditions:
-  - inuit
-  - islamic
-  - native-american-northwest-coast
-  - native-american-southeast
-  - navajo
-  - roman
-  total_cooccurrences: 27
-- pair:
-  - duality
-  - miraculous_child
+  - mother_goddess
+  - royal_legitimacy
   tradition_count: 6
   traditions:
   - egyptian
+  - greek-roman
   - hindu
   - nahua-maya-inca
   - norse
   - roman
-  - slavic
-  total_cooccurrences: 41
+  total_cooccurrences: 37
 - pair:
-  - serpent_guardian
-  - trickster
-  tradition_count: 5
+  - death_and_transformation
+  - mother_goddess
+  tradition_count: 6
   traditions:
+  - comparative
+  - egyptian
+  - greek
+  - greek-roman
+  - nahua-maya-inca
+  - norse
+  total_cooccurrences: 40
+- pair:
+  - afterlife_passage
+  - cosmic_origin
+  tradition_count: 6
+  traditions:
+  - biblical
   - hindu
-  - hopi
   - islamic
+  - jewish-pseudepigrapha
   - norse
   - roman
-  total_cooccurrences: 41
+  total_cooccurrences: 49
 - pair:
-  - culture_hero
-  - descent
-  tradition_count: 5
-  traditions:
-  - estonian
-  - hopi
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - roman
-  total_cooccurrences: 28
-- pair:
-  - sacred_twins
+  - duality
   - sacrifice
   tradition_count: 5
   traditions:
-  - germanic
-  - greek-roman
-  - hopi
-  - islamic
-  - roman
-  total_cooccurrences: 32
+  - comparative
+  - hindu
+  - nahua-maya-inca
+  - navajo
+  - sufi
+  total_cooccurrences: 70
 - pair:
-  - ascent
-  - sacred_time
+  - afterlife_passage
+  - miraculous_child
   tradition_count: 5
   traditions:
-  - australian-aboriginal
-  - comparative
-  - hopi
-  - native-american-northwest-coast
+  - hindu
+  - islamic
+  - native-american-southeast
+  - norse
   - roman
-  total_cooccurrences: 37
+  total_cooccurrences: 106
+- pair:
+  - descent
+  - trickster
+  tradition_count: 5
+  traditions:
+  - greek
+  - greek-roman
+  - hindu
+  - native-american-northwest-coast
+  - norse
+  total_cooccurrences: 26
+- pair:
+  - sacrifice
+  - trickster
+  tradition_count: 5
+  traditions:
+  - filipino
+  - islamic
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 45
+- pair:
+  - sacred_time
+  - serpent_guardian
+  tradition_count: 5
+  traditions:
+  - greek
+  - hindu
+  - hopi
+  - nahua-maya-inca
+  - zoroastrian
+  total_cooccurrences: 32
 - pair:
   - flood_and_renewal
   - sacred_waters
@@ -4828,138 +5479,105 @@ conserved_edges:
   - islamic
   - jewish-pseudepigrapha
   - roman
-  total_cooccurrences: 40
+  total_cooccurrences: 42
 - pair:
-  - cosmic_origin
-  - death_and_transformation
+  - sacred_twins
+  - sacrifice
   tradition_count: 5
   traditions:
-  - biblical
-  - hindu
+  - germanic
+  - greek-roman
+  - hopi
   - islamic
+  - roman
+  total_cooccurrences: 49
+- pair:
+  - afterlife_passage
+  - trickster
+  tradition_count: 5
+  traditions:
+  - finnish-karelian
+  - germanic
+  - greek-roman
+  - islamic
+  - slavic
+  total_cooccurrences: 26
+- pair:
+  - sacred_waters
+  - shapeshifter
+  tradition_count: 5
+  traditions:
+  - greek
+  - greek-roman
+  - native-american-northwest-coast
   - norse
-  - zoroastrian
-  total_cooccurrences: 83
+  - roman
+  total_cooccurrences: 34
 - pair:
   - axis_mundi
+  - duality
+  tradition_count: 5
+  traditions:
+  - daoist
+  - hindu
+  - norse
+  - roman
+  - sufi
+  total_cooccurrences: 35
+- pair:
+  - sacred_exchange
   - sacred_waters
   tradition_count: 5
   traditions:
   - greek
-  - hindu
+  - greek-roman
   - islamic
-  - islamicate-folklore
+  - norse
   - roman
-  total_cooccurrences: 20
+  total_cooccurrences: 23
 - pair:
-  - sacred_time
-  - sacred_twins
+  - covenant
+  - duality
+  tradition_count: 5
+  traditions:
+  - celtic-irish
+  - jewish-pseudepigrapha
+  - norse
+  - roman
+  - zoroastrian
+  total_cooccurrences: 29
+- pair:
+  - miraculous_child
+  - sacred_waters
+  tradition_count: 5
+  traditions:
+  - finnish-karelian
+  - greek
+  - greek-roman
+  - islamic
+  - roman
+  total_cooccurrences: 27
+- pair:
+  - cosmic_origin
+  - sacred_love
   tradition_count: 5
   traditions:
   - egyptian
   - greek
-  - hindu
-  - hopi
-  - roman
-  total_cooccurrences: 24
-- pair:
-  - afterlife_passage
-  - cosmic_origin
-  tradition_count: 5
-  traditions:
-  - biblical
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  - norse
-  total_cooccurrences: 43
-- pair:
-  - duality
-  - sacred_twins
-  tradition_count: 5
-  traditions:
-  - germanic
-  - jewish-pseudepigrapha
+  - greek-roman
   - mesopotamian
-  - navajo
-  - zuni
-  total_cooccurrences: 20
-- pair:
-  - afterlife_passage
-  - sacred_time
-  tradition_count: 5
-  traditions:
-  - greek
-  - hindu
-  - islamic
-  - nahua-maya-inca
   - norse
-  total_cooccurrences: 36
+  total_cooccurrences: 30
 - pair:
-  - hero_journey
-  - sacred_waters
+  - cosmic_origin
+  - shapeshifter
   tradition_count: 5
   traditions:
-  - greek
-  - hindu
-  - islamicate-folklore
+  - egyptian
+  - nahua-maya-inca
   - native-american-northwest-coast
   - norse
-  total_cooccurrences: 25
-- pair:
-  - mother_goddess
-  - sacred_love
-  tradition_count: 5
-  traditions:
-  - estonian
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - roman
-  total_cooccurrences: 39
-- pair:
-  - culture_hero
-  - mother_goddess
-  tradition_count: 5
-  traditions:
-  - estonian
-  - finnish-karelian
-  - nahua-maya-inca
-  - native-american-plains
-  - roman
-  total_cooccurrences: 26
-- pair:
-  - afterlife_passage
-  - miraculous_child
-  tradition_count: 5
-  traditions:
-  - hindu
-  - islamic
-  - native-american-southeast
-  - norse
-  - roman
-  total_cooccurrences: 82
-- pair:
-  - culture_hero
-  - duality
-  tradition_count: 5
-  traditions:
-  - finnish-karelian
-  - mesopotamian
-  - nahua-maya-inca
-  - navajo
-  - roman
-  total_cooccurrences: 22
-- pair:
-  - axis_mundi
-  - sacred_love
-  tradition_count: 5
-  traditions:
-  - comparative
-  - finnish-karelian
-  - germanic
-  - greek
-  - greek-roman
+  - zoroastrian
   total_cooccurrences: 33
 - pair:
   - sacred_love
@@ -4973,49 +5591,86 @@ conserved_edges:
   - native-american-northwest-coast
   total_cooccurrences: 19
 - pair:
-  - afterlife_passage
-  - flood_and_renewal
+  - sacred_time
+  - sacred_twins
   tradition_count: 5
   traditions:
   - egyptian
-  - hindu
-  - islamic
-  - norse
-  - sufi
-  total_cooccurrences: 51
-- pair:
-  - axis_mundi
-  - trickster
-  tradition_count: 5
-  traditions:
-  - germanic
-  - hindu
-  - islamic
-  - native-american-northwest-coast
-  - navajo
-  total_cooccurrences: 18
-- pair:
-  - axis_mundi
-  - mother_goddess
-  tradition_count: 5
-  traditions:
-  - comparative
-  - finnish-karelian
   - greek
-  - nahua-maya-inca
+  - hindu
+  - hopi
   - roman
-  total_cooccurrences: 33
+  total_cooccurrences: 25
 - pair:
-  - miraculous_child
+  - divine_judgment
   - sacred_waters
-  tradition_count: 5
+  tradition_count: 4
   traditions:
-  - finnish-karelian
   - greek
   - greek-roman
   - islamic
   - roman
-  total_cooccurrences: 26
+  total_cooccurrences: 40
+- pair:
+  - hero_journey
+  - sacred_fire
+  tradition_count: 4
+  traditions:
+  - greek
+  - hindu
+  - islamic
+  - roman
+  total_cooccurrences: 19
+- pair:
+  - serpent_guardian
+  - trickster
+  tradition_count: 4
+  traditions:
+  - hindu
+  - hopi
+  - islamic
+  - roman
+  total_cooccurrences: 33
+- pair:
+  - sacred_waters
+  - serpent_guardian
+  tradition_count: 4
+  traditions:
+  - finnish-karelian
+  - hindu
+  - norse
+  - roman
+  total_cooccurrences: 20
+- pair:
+  - hero_journey
+  - sacred_waters
+  tradition_count: 4
+  traditions:
+  - greek
+  - hindu
+  - islamicate-folklore
+  - native-american-northwest-coast
+  total_cooccurrences: 22
+- pair:
+  - royal_legitimacy
+  - trickster
+  tradition_count: 4
+  traditions:
+  - greek
+  - islamicate-folklore
+  - japanese
+  - persian
+  total_cooccurrences: 55
+- pair:
+  - death_and_transformation
+  - sacred_fire
+  tradition_count: 4
+  traditions:
+  - finnish-karelian
+  - islamic
+  - norse
+  - roman
+  total_cooccurrences: 19
 - pair:
   - sacred_twins
   - trickster
@@ -5025,67 +5680,7 @@ conserved_edges:
   - biblical
   - greek
   - jewish-pseudepigrapha
-  total_cooccurrences: 17
-- pair:
-  - mother_goddess
-  - sacrifice
-  tradition_count: 4
-  traditions:
-  - comparative
-  - nahua-maya-inca
-  - roman
-  - zoroastrian
-  total_cooccurrences: 30
-- pair:
-  - descent
-  - trickster
-  tradition_count: 4
-  traditions:
-  - greek
-  - hindu
-  - native-american-northwest-coast
-  - norse
-  total_cooccurrences: 20
-- pair:
-  - axis_mundi
-  - descent
-  tradition_count: 4
-  traditions:
-  - comparative
-  - greek
-  - hindu
-  - norse
-  total_cooccurrences: 14
-- pair:
-  - sacred_time
-  - serpent_guardian
-  tradition_count: 4
-  traditions:
-  - greek
-  - hindu
-  - hopi
-  - nahua-maya-inca
-  total_cooccurrences: 29
-- pair:
-  - descent
-  - royal_legitimacy
-  tradition_count: 4
-  traditions:
-  - hindu
-  - islamicate-folklore
-  - norse
-  - persian
-  total_cooccurrences: 29
-- pair:
-  - duality
-  - trickster
-  tradition_count: 4
-  traditions:
-  - germanic
-  - islamic
-  - norse
-  - sufi
-  total_cooccurrences: 16
+  total_cooccurrences: 19
 - pair:
   - covenant
   - miraculous_child
@@ -5095,7 +5690,7 @@ conserved_edges:
   - greek
   - jewish-pseudepigrapha
   - roman
-  total_cooccurrences: 57
+  total_cooccurrences: 62
 - pair:
   - covenant
   - mystical_quest
@@ -5105,27 +5700,97 @@ conserved_edges:
   - greek
   - islamic
   - sufi
-  total_cooccurrences: 40
+  total_cooccurrences: 52
 - pair:
-  - death_and_transformation
-  - royal_legitimacy
+  - covenant
+  - shapeshifter
   tradition_count: 4
   traditions:
-  - biblical
-  - celtic-irish
-  - estonian
-  - mongol
-  total_cooccurrences: 21
+  - finnish-karelian
+  - greek
+  - hindu
+  - islamic
+  total_cooccurrences: 32
+- pair:
+  - covenant
+  - culture_hero
+  tradition_count: 4
+  traditions:
+  - finnish-karelian
+  - greek
+  - islamic
+  - native-american-plains
+  total_cooccurrences: 18
+- pair:
+  - covenant
+  - trickster
+  tradition_count: 4
+  traditions:
+  - celtic-welsh
+  - greek
+  - islamic
+  - jewish-pseudepigrapha
+  total_cooccurrences: 29
+- pair:
+  - mother_goddess
+  - serpent_guardian
+  tradition_count: 4
+  traditions:
+  - finnish-karelian
+  - greek
+  - mesopotamian
+  - nahua-maya-inca
+  total_cooccurrences: 19
 - pair:
   - duality
-  - royal_legitimacy
+  - trickster
   tradition_count: 4
   traditions:
-  - biblical
-  - celtic-welsh
   - germanic
+  - islamic
+  - norse
+  - sufi
+  total_cooccurrences: 25
+- pair:
+  - axis_mundi
+  - descent
+  tradition_count: 4
+  traditions:
+  - comparative
+  - greek
+  - hindu
+  - norse
+  total_cooccurrences: 17
+- pair:
+  - divine_judgment
+  - mother_goddess
+  tradition_count: 4
+  traditions:
+  - hindu
+  - mesopotamian
+  - norse
   - roman
-  total_cooccurrences: 15
+  total_cooccurrences: 32
+- pair:
+  - sacred_fire
+  - serpent_guardian
+  tradition_count: 4
+  traditions:
+  - greek
+  - hindu
+  - norse
+  - roman
+  total_cooccurrences: 18
+- pair:
+  - descent
+  - sacred_time
+  tradition_count: 4
+  traditions:
+  - greek-roman
+  - hopi
+  - mesopotamian
+  - norse
+  total_cooccurrences: 20
 - pair:
   - covenant
   - sacred_time
@@ -5135,7 +5800,7 @@ conserved_edges:
   - hindu
   - jewish-pseudepigrapha
   - norse
-  total_cooccurrences: 30
+  total_cooccurrences: 33
 - pair:
   - sacred_exchange
   - sacred_fire
@@ -5155,167 +5820,34 @@ conserved_edges:
   - hindu
   - islamic
   - sufi
-  total_cooccurrences: 21
-- pair:
-  - covenant
-  - initiation
-  tradition_count: 4
-  traditions:
-  - celtic-welsh
-  - hindu
-  - islamic
-  - jewish-pseudepigrapha
-  total_cooccurrences: 40
-- pair:
-  - cosmic_origin
-  - shapeshifter
-  tradition_count: 4
-  traditions:
-  - egyptian
-  - nahua-maya-inca
-  - native-american-northwest-coast
-  - zoroastrian
-  total_cooccurrences: 21
-- pair:
-  - mother_goddess
-  - royal_legitimacy
-  tradition_count: 4
-  traditions:
-  - egyptian
-  - hindu
-  - nahua-maya-inca
-  - roman
-  total_cooccurrences: 24
-- pair:
-  - duality
-  - shapeshifter
-  tradition_count: 4
-  traditions:
-  - egyptian
-  - greek-roman
-  - islamic
-  - nahua-maya-inca
-  total_cooccurrences: 16
-- pair:
-  - death_and_transformation
-  - sacred_fire
-  tradition_count: 4
-  traditions:
-  - finnish-karelian
-  - islamic
-  - norse
-  - roman
-  total_cooccurrences: 19
-- pair:
-  - cosmic_origin
-  - mother_goddess
-  tradition_count: 4
-  traditions:
-  - finnish-karelian
-  - greek
-  - greek-roman
-  - mesopotamian
-  total_cooccurrences: 17
-- pair:
-  - covenant
-  - shapeshifter
-  tradition_count: 4
-  traditions:
-  - finnish-karelian
-  - greek
-  - hindu
-  - islamic
-  total_cooccurrences: 31
-- pair:
-  - covenant
-  - culture_hero
-  tradition_count: 4
-  traditions:
-  - finnish-karelian
-  - greek
-  - islamic
-  - native-american-plains
-  total_cooccurrences: 18
-- pair:
-  - mother_goddess
-  - serpent_guardian
-  tradition_count: 4
-  traditions:
-  - finnish-karelian
-  - greek
-  - mesopotamian
-  - nahua-maya-inca
-  total_cooccurrences: 18
-- pair:
-  - sacred_fire
-  - serpent_guardian
-  tradition_count: 4
-  traditions:
-  - greek
-  - hindu
-  - norse
-  - roman
-  total_cooccurrences: 17
-- pair:
-  - hero_journey
-  - sacred_fire
-  tradition_count: 4
-  traditions:
-  - greek
-  - hindu
-  - islamic
-  - roman
-  total_cooccurrences: 19
-- pair:
-  - divine_judgment
-  - sacred_waters
-  tradition_count: 4
-  traditions:
-  - greek
-  - greek-roman
-  - islamic
-  - roman
-  total_cooccurrences: 38
-- pair:
-  - sacred_waters
-  - shapeshifter
-  tradition_count: 4
-  traditions:
-  - greek
-  - greek-roman
-  - native-american-northwest-coast
-  - roman
-  total_cooccurrences: 28
-- pair:
-  - royal_legitimacy
-  - trickster
-  tradition_count: 4
-  traditions:
-  - greek
-  - islamicate-folklore
-  - japanese
-  - roman
-  total_cooccurrences: 45
-- pair:
-  - sacred_exchange
-  - sacred_waters
-  tradition_count: 4
-  traditions:
-  - greek-roman
-  - islamic
-  - norse
-  - roman
-  total_cooccurrences: 16
+  total_cooccurrences: 22
 tradition_edge_counts:
   biblical: 98
-  buddhist: 79
-  celtic-irish: 101
+  buddhist: 87
+  celtic-irish: 102
   celtic-welsh: 62
   confucian: 4
-  daoist: 16
-  egyptian: 107
+  daoist: 48
+  egyptian: 121
   finnish-karelian: 109
-  roman: 193
+  norse: 232
+  arthurian: 35
+  siberian: 21
+  filipino: 30
+  romanian: 36
+  san: 3
+  roman: 194
+  greek: 223
+  ainu: 51
+  indigenous-australian: 7
+  sufi: 135
+  mesopotamian: 90
+  comparative: 77
+  persian: 63
+  japanese: 58
+  greek-roman: 170
+  zulu: 26
+  zoroastrian: 87
   andamanese: 20
   native-american-southwest: 48
   jewish-pseudepigrapha: 77
@@ -5325,24 +5857,13 @@ tradition_edge_counts:
   ethiopian-christian: 67
   native-american-southeast: 88
   amazonian: 4
-  zoroastrian: 73
   sikh: 34
   hermetic: 51
   native-american-plains: 94
   hindu: 173
   native-american-great-lakes: 5
-  persian: 61
-  norse: 200
-  greek: 218
-  ainu: 19
   islamicate-folklore: 47
-  indigenous-australian: 5
-  sufi: 102
-  comparative: 54
-  japanese: 24
   islamic: 156
-  greek-roman: 145
-  mesopotamian: 42
   australian-aboriginal: 40
   germanic: 99
   inuit: 16

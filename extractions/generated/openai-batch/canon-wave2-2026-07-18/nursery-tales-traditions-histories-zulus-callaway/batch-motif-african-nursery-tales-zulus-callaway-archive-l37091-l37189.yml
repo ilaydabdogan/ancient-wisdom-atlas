@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l37091-l37189
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANE. / THE  MAN  AND  THE  BREAD. / FOR  IT  AGAIN,  BUT  NEVER  FOUND  IT.)
+    / IZINGANEKWANE.; lines 37091-37189
+  start: '37091'
+  end: '37189'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed man takes more bread than he can eat while traveling. Because
+    he is full and does not want to carry the surplus, he throws the bread beside
+    the path. After many days, mice have eaten it. Later, during a famine when roots
+    are being dug for food, he passes the same place, remembers the bread, searches
+    for it in the grass, and does not find it.
+  language: Zulu and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man takes a large quantity of bread, thinking he will eat it all, but
+    becomes unable to continue eating on the way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage explicitly says he does not think of carrying the bread for future
+    hunger or for a hungry person he might meet.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Because he is satisfied and wants to travel easily, he throws the bread on
+    the lower side of the path.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many days pass without his returning by that path, and mice take and eat all
+    the bread.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Later, the land is described as killed by famine; corn is gone and roots are
+    being eaten.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: While going by the same path and digging roots, the path or place makes him
+    remember the bread he discarded there.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He runs to find the bread, searches in the thick grass with his hands, and
+    does not find it.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: A man who takes more bread than he can eat, discards the surplus beside
+    a path, and later searches for it during famine.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: mice
+  description: Mice take the discarded bread and eat it all up while the man is absent
+    from the path.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveler with surplus food
+  assigned_to:
+  - fig:1
+  basis: He takes a large quantity of bread on the way and cannot finish it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: one who discards a provision
+  assigned_to:
+  - fig:1
+  basis: He chooses not to carry the remaining bread and throws it beside the path.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: famine searcher
+  assigned_to:
+  - fig:1
+  basis: During famine he remembers and searches for the discarded bread.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: consumers of discarded bread
+  assigned_to:
+  - fig:2
+  basis: The mice take and eat all the bread left beside the path.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bread as provision
+  literal_form: A large quantity of bread, first carried and partly eaten, then thrown
+    beside the path, eaten by mice, and later sought again.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: path and remembered place
+  literal_form: The path and the specific place where the bread was thrown and later
+    remembered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: roots in famine
+  literal_form: Roots dug and eaten after the corn is gone during famine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thick grass concealing the search place
+  literal_form: Long or thick grass where the man searches with his hands for the
+    lost bread.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discarding surplus bread
+  summary: The man takes too much bread, becomes full, does not plan for future hunger
+    or another hungry person, and throws the bread beside the path so he can travel
+    easily.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bread consumed in the man’s absence
+  summary: After many days without the man returning by that path, mice take and eat
+    all the discarded bread.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Famine return and failed search
+  summary: During a famine, when roots are being dug because corn is gone, the man
+    passes the same place, remembers the bread, and searches for it unsuccessfully
+    in the thick grass.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Failure of foresight about future hunger
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly contrasts the man’s satisfied state with his failure
+    to think of future hunger or a hungry person, followed by a later famine in which
+    he seeks the discarded food.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not state an explicit moral; the wisdom classification
+    is an abstracted reading of the narrated sequence.
+- id: motif:2
+  label: Discarded provision later needed but unrecoverable
+  taxonomy_refs: []
+  basis: The man throws away bread when full; later, during scarcity, he remembers
+    and searches for it, but it has already been eaten by mice and is not found.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a mapped external
+    taxonomy motif.
+- id: motif:3
+  label: Place triggers memory of an abandoned object
+  taxonomy_refs: []
+  basis: The path and place are described as making or summoning the man to remember
+    the bread he threw away there.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is based on a localized phrasing in the passage and may function
+    mainly as narrative transition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37091-37189; English translation, first paragraph
+  quote_or_summary: The man takes a large quantity of bread on the way, thinking he
+    should eat it all, but eats until he can eat no more.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 37091-37189; English translation, first paragraph
+  quote_or_summary: He does not think of carrying the bread for future hunger or for
+    a hungry person; because he is full and wants to travel easily, he throws it on
+    the lower side of the path.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 37091-37189; English translation, first paragraph
+  quote_or_summary: "“Mice took the bread, and ate it all up.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt from public domain text supplied
+    in request.
+- id: ev:4
+  type: summary
+  locator: lines 37091-37189; English translation, second paragraph
+  quote_or_summary: Later, the land is said to have died from famine; no corn remains,
+    and roots are now eaten while the man travels digging them up.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 37091-37189; English translation, second paragraph
+  quote_or_summary: As he goes by the same way, the path makes him remember the bread;
+    seeing the place, he identifies it as where he threw away his bread.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 37091-37189; English translation, second paragraph
+  quote_or_summary: He runs to find the bread, does not find it, and searches earnestly
+    with his hands in the thick grass until time passes.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied bilingual passage and its English translation.
+    The passage appears to begin and end mid-context, so motif labels are limited
+    to the visible narrative sequence. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include bread, path, roots, mice, grass, or famine.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l37091-l37189
+  passage_sha256=d5cc9e30cdd193a9b6ade4ca3e76ff7e09ee7f12af2d934856bfd23ea6f80357
+

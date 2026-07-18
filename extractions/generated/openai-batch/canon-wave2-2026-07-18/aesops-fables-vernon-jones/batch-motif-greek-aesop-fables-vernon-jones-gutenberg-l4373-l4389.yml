@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4373-l4389
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BEE-KEEPER / THE WOLF AND THE HORSE / THE BAT, THE BRAMBLE, AND THE SEAGULL
+    / THE DOG AND THE WOLF; lines 4373-4389
+  start: '4373'
+  end: '4389'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A wolf attacks a dog at a farmyard gate. The dog persuades the wolf to
+    wait until after an upcoming feast, when the dog claims he will be fatter. The
+    wolf leaves and later returns, but the dog is safely on the stable roof and refuses
+    to come down, warning the wolf not to wait next time if he finds the dog by the
+    gate. The stated moral is “Once bitten, twice shy.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dog is lying in the sun before a farmyard gate.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wolf pounces on the dog and is about to eat him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dog begs for his life and argues that he is too thin to make a good meal.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog says that after his master’s feast he will receive scraps, become
+    fat, and then be better for the wolf to eat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wolf accepts the plan and goes away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the wolf returns later, the dog is lying out of reach on the stable roof.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wolf calls on the dog to come down and be eaten, appealing to their prior
+    agreement.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The dog refuses and says that if the wolf ever catches him lying by the gate
+    again, the wolf should not wait for a feast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The fable closes with the moral: “Once bitten, twice shy.”'
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A farmyard dog who is first vulnerable at the gate, persuades the wolf
+    to postpone eating him, and later stays out of reach on the stable roof.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Wolf
+  description: A wolf who pounces on the dog intending to eat him, accepts the dog’s
+    proposal to wait, and later returns to claim the agreed meal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Dog’s master
+  description: Mentioned by the dog as the person who is going to give a feast; the
+    figure does not appear directly in the narrated action.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: threatened animal
+  assigned_to:
+  - fig:1
+  basis: The dog is attacked by the wolf and begs for his life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: speaker who delays danger
+  assigned_to:
+  - fig:1
+  basis: The dog persuades the wolf to wait for a later, supposedly better meal and
+    later remains out of reach.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:2
+  basis: The wolf pounces on the dog intending to eat him and later returns to do
+    so.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: mentioned provider of feast
+  assigned_to:
+  - fig:3
+  basis: The dog says his master is going to give a feast that will provide scraps
+    for him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: farmyard gate
+  literal_form: gate before the farmyard
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: stable roof
+  literal_form: stable roof where the dog lies out of reach
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: feast scraps
+  literal_form: rich scraps and pickings said to fall to the dog after the master’s
+    feast
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wolf threatens dog at the gate
+  summary: The dog lies at the farmyard gate until the wolf pounces and prepares to
+    eat him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog persuades wolf to postpone the meal
+  summary: The dog pleads that he is thin and says the wolf should wait until after
+    a feast, when the dog will be fat from scraps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wolf returns to find dog out of reach
+  summary: The wolf later returns to the farmyard, but the dog is on the stable roof
+    beyond reach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Dog states the lesson learned
+  summary: The dog refuses to come down and tells the wolf not to wait if he ever
+    catches the dog lying by the gate again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: escape from predator by postponement
+  taxonomy_refs: []
+  basis: The threatened dog convinces the wolf not to eat him immediately by promising
+    that he will be a better meal later.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not name a formal motif type; the label is descriptive.
+- id: motif:2
+  label: predator deceived by promised later gain
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf accepts the dog’s proposed delay and later finds the dog safely
+    out of reach rather than available to be eaten.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: 'The taxonomy reference is cautious: the passage shows verbal outwitting
+    and a shift from vulnerable gate to safe roof, but it does not explicitly frame
+    the dog as a trickster.'
+- id: motif:3
+  label: prudence learned after danger
+  taxonomy_refs:
+  - wisdom
+  basis: The dog’s closing statement and the stated moral emphasize future caution
+    after a prior threat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The moral is explicit, but the broader taxonomy placement under wisdom
+    remains interpretive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4373-4375
+  quote_or_summary: "“A Dog was lying in the sun before a farmyard gate when a Wolf
+    pounced upon him and was just going to eat him up”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 4375-4380
+  quote_or_summary: The dog begs for his life, says he is thin, and tells the wolf
+    to wait until after his master’s feast, when scraps will make him fat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: '4381'
+  quote_or_summary: "“The Wolf thought this was a very good plan and went away.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4381-4383
+  quote_or_summary: The wolf later comes back to the farmyard and finds the dog lying
+    out of reach on the stable roof.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 4383-4385
+  quote_or_summary: "“Come down,” he called, “and be eaten: you remember our agreement?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: 4385-4388
+  quote_or_summary: The dog says that if the wolf ever catches him lying by the gate
+    again, the wolf should not wait for any feast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: '4389'
+  quote_or_summary: "“Once bitten, twice shy.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and require human review for taxonomy alignment. No comparison
+    claims were made because the passage itself does not provide an explicit cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage was used. Although the passage locator label lists several fables, the provided passage text contains only “THE DOG AND THE WOLF.”
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4373-l4389
+  passage_sha256=11735a978093abd41ad2214b2f3babcad0070aac7b2fe46830b36eb8ee531bf0
+

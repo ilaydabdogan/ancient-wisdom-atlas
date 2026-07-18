@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4007-l4019
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HOUND AND THE FOX / THE FATHER AND HIS DAUGHTERS / THE THIEF AND THE
+    INNKEEPER / THE PACK-ASS AND THE WILD ASS; lines 4007-4019
+  start: '4007'
+  end: '4019'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Advantages that are dearly bought are doubtful blessings.
+  summary: A Wild Ass first envies a Pack-Ass who appears comfortable and well-fed,
+    but later withdraws that envy after seeing the Pack-Ass carrying a heavy load
+    while being beaten by a driver. The fable concludes that advantages purchased
+    at great cost are uncertain blessings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Wild Ass wanders idly and comes upon a Pack-Ass lying at full length in
+    a sunny spot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Pack-Ass is described as thoroughly enjoying himself when first seen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Wild Ass speaks to the Pack-Ass, calling him lucky and saying that his
+    sleek coat shows he lives well.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Wild Ass says he envies the Pack-Ass during the first encounter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Later, the Wild Ass sees the Pack-Ass carrying a heavy load.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A driver follows behind the Pack-Ass and beats him with a thick stick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Wild Ass says he no longer envies the Pack-Ass because the Pack-Ass pays
+    dearly for his comforts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The closing moral states that advantages bought dearly are doubtful blessings.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wild Ass
+  description: A wild ass who wanders idly, first envies the Pack-Ass, then rejects
+    that envy after seeing the Pack-Ass's burden and beating.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Pack-Ass
+  description: A pack-ass first seen lying in a sunny spot and later seen carrying
+    a heavy load while being beaten by a driver.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: driver
+  description: The person following behind the Pack-Ass and beating him with a thick
+    stick.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wandering observer
+  assigned_to:
+  - fig:1
+  basis: The Wild Ass is described as wandering idly and coming upon the Pack-Ass.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker who revises his envy
+  assigned_to:
+  - fig:1
+  basis: The Wild Ass first says he envies the Pack-Ass, then later says he does not
+    envy him anymore.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: apparently comfortable animal
+  assigned_to:
+  - fig:2
+  basis: The Pack-Ass is first lying in a sunny spot and is described as enjoying
+    himself; his sleek coat is taken as evidence that he lives well.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: burdened and beaten animal
+  assigned_to:
+  - fig:2
+  basis: The Pack-Ass is later seen carrying a heavy load while being beaten.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: punishing handler
+  assigned_to:
+  - fig:3
+  basis: The driver follows the Pack-Ass and beats him with a thick stick.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sunny resting place
+  literal_form: sunny spot where the Pack-Ass lies at full length
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sleek coat
+  literal_form: the Pack-Ass's sleek coat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heavy load
+  literal_form: heavy load carried by the Pack-Ass
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thick stick
+  literal_form: thick stick used by the driver to beat the Pack-Ass
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: First encounter and envy
+  summary: The Wild Ass finds the Pack-Ass resting comfortably in a sunny spot and
+    says he envies the Pack-Ass's apparent good living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Second encounter and rejection of envy
+  summary: The Wild Ass later sees the Pack-Ass carrying a heavy load while being
+    beaten by a driver, and says he no longer envies him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Concluding moral
+  summary: The fable concludes that advantages obtained at a dear price are doubtful
+    blessings.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: envy dispelled by seeing hidden cost
+  taxonomy_refs: []
+  basis: The Wild Ass first envies the Pack-Ass's apparent comfort, but stops envying
+    him after seeing the burden and beating attached to that comfort.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an abstracted fable motif rather than a named taxonomy item in
+    the supplied motif-family list.
+- id: motif:2
+  label: dearly bought advantages as doubtful blessings
+  taxonomy_refs:
+  - wisdom
+  basis: The fable's explicit moral states that advantages bought dearly are doubtful
+    blessings.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied taxonomy reference 'wisdom' is broad; the passage supports
+    a practical moral lesson, not a mythic wisdom figure or sacred wisdom episode.
+- id: motif:3
+  label: appearance of prosperity conceals servitude and punishment
+  taxonomy_refs: []
+  basis: The Pack-Ass's sleek coat and comfort initially suggest good fortune, but
+    the later scene shows labor, beating, and the price paid for comforts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a moral fable; no historical or cross-cultural
+    comparison is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4007-4010
+  quote_or_summary: A Wild Ass wandering idly finds a Pack-Ass lying at full length
+    in a sunny spot and enjoying himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 4010-4013
+  quote_or_summary: '"What a lucky beast you are! Your sleek coat shows how well you
+    live: how I envy you!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 4013-4016
+  quote_or_summary: The Wild Ass later sees the Pack-Ass carrying a heavy load while
+    a driver follows and beats him with a thick stick.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 4016-4018
+  quote_or_summary: '"I don''t envy you any more: for I see you pay dear for your
+    comforts."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: '4019'
+  quote_or_summary: Advantages that are dearly bought are doubtful blessings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are based on the
+    fable's explicit moral and narrative contrast. No comparison claims are made because
+    the passage does not itself establish cross-textual or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label names multiple fables, but the provided passage text contains only 'THE PACK-ASS AND THE WILD ASS'; extraction is limited to that text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4007-l4019
+  passage_sha256=8e0c206aab0c006784fb9835e7735acec3d4895a77a65df10b85e30792aff0e9
+

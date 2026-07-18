@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l2218-l2239
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: I  MR  AM    BRAIN  31 / IMRAM    BRAIN  33 / THE   END / IMRAM    BRAIN  35;
+    lines 2218-2239
+  start: '2218'
+  end: '2239'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Adfet iarsin Bran a imthechta uli ... ocus scribais inna rundu so tre ogum.
+  summary: The closing passage includes a quatrain mentioning the son of Collbrain,
+    clear water, and Nechtan. It then says that Bran recounted all his wanderings
+    from the beginning up to that point to the people of the assembly, wrote these
+    quatrains in ogam, bade them farewell, and that his wanderings were not known
+    from that time onward.
+  language: Old/Middle Irish with English headings and textual apparatus
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented under closing headings including “THE END” and “IMRAM
+    BRAIN 35.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quatrain mentions the son of Collbrain, a wave of clear water, and Nechtan,
+    son of Collbrain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bran recounts all his wanderings from the beginning up to that point to the
+    people of the assembly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bran writes the quatrains in ogam.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bran bids farewell to the people addressed in the passage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After that hour, Bran’s wanderings are said not to be known.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bran
+  description: Named figure who recounts his wanderings, writes the quatrains in ogam,
+    and bids farewell.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: people of the assembly
+  description: The audience to whom Bran recounts his wanderings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Nechtan, son of Collbrain
+  description: Named in the quatrain as Nechtan, son of Collbrain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: returning narrator of wanderings
+  assigned_to:
+  - fig:1
+  basis: Bran tells all his wanderings from the beginning up to that point.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ogam inscriber
+  assigned_to:
+  - fig:1
+  basis: Bran writes the quatrains in ogam.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: departing voyager
+  assigned_to:
+  - fig:1
+  basis: Bran bids farewell, and his later wanderings are no longer known.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: assembly audience
+  assigned_to:
+  - fig:2
+  basis: The people of the assembly receive Bran’s account.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named quatrain figure
+  assigned_to:
+  - fig:3
+  basis: The quatrain names Nechtan, son of Collbrain.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ogam writing
+  literal_form: ogam inscription of the quatrains
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: clear water
+  literal_form: wave of clear water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: closing report to the assembly
+  summary: Bran recounts all his wanderings to the people of the assembly and writes
+    the quatrains in ogam.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: farewell and unknown onward wandering
+  summary: Bran bids farewell, and the text states that his wanderings were not known
+    from that time onward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: closing quatrain naming Nechtan
+  summary: A quatrain mentions the son of Collbrain, clear water, and Nechtan, son
+    of Collbrain.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: returning voyager recounts the journey
+  taxonomy_refs:
+  - return
+  basis: Bran gives a full account of his wanderings to the people of the assembly
+    after the journey described in the work.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the telling of the wanderings but does not narrate
+    the physical return itself in detail.
+- id: motif:2
+  label: journey knowledge preserved in writing
+  taxonomy_refs:
+  - wisdom
+  basis: Bran writes the quatrains in ogam after recounting his wanderings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states that the quatrains are written, but it does not explicitly
+    explain the purpose or sacred status of the writing.
+- id: motif:3
+  label: final farewell followed by disappearance from knowledge
+  taxonomy_refs:
+  - departure
+  basis: Bran bids farewell, and the text says his wanderings are not known from that
+    hour onward.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not specify where Bran goes after the farewell.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2218-2221
+  quote_or_summary: "“THE   END” and “IMRAM    BRAIN  35” appear as closing headings."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2223-2226
+  quote_or_summary: The quatrain includes references to “mace Chollbrain,” “toind
+    usci glain,” and “Nechtdn ... mac CoUbrain.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; brief transliterated terms summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2228-2229
+  quote_or_summary: Bran tells all his wanderings from the beginning to that point
+    to the people of the assembly.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2229-2230
+  quote_or_summary: "“scribais inna rundu so tre ogum”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: line 2230
+  quote_or_summary: Bran bids them farewell after writing the quatrains.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2230-2231
+  quote_or_summary: The text states that Bran’s wanderings were not known from that
+    hour onward.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The final prose narrative is clear enough for motif extraction, but the initial
+    quatrain is preserved here without an English translation and is treated cautiously.
+    No comparison claims are made beyond candidate taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l2218-l2239
+  passage_sha256=719f2055463e6d5562f3f2949770fa339684b859f5a84d04ef042ffbaa409588
+

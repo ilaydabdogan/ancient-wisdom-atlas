@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1733-l1757
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SHEPHERD'S BOY AND THE WOLF / THE FOX AND THE GOAT / THE FISHERMAN AND
+    THE SPRAT / THE BOASTING TRAVELLER; lines 1733-1757
+  start: '1733'
+  end: '1757'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Deeds, not words.
+  summary: Two fables are presented. In the first, a fisherman catches a single sprat,
+    hears its plea to be released until it grows larger, and refuses to give up what
+    he has. In the second, a traveller boasts of an unmatched jump at Rhodes, and
+    a listener challenges him to prove it immediately by jumping as if the present
+    place were Rhodes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A fisherman casts his net into the sea and draws up only one sprat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sprat begs to be put back into the water.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sprat says it is small now, will grow big one day, and would be useful
+    if caught again later.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fisherman refuses to release the sprat and says he will keep it now that
+    he has it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A man returns from travels abroad and tells wonderful stories about what he
+    did in foreign countries.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The traveller claims that at Rhodes he made an unbeatable jump and says witnesses
+    there will confirm it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: One listener says there is no need to go to Rhodes and challenges the traveller
+    to jump immediately by imagining the present place is Rhodes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The fable closes with the moral statement, "Deeds, not words."
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fisherman
+  description: A fisherman who casts a net into the sea, catches a single sprat, and
+    refuses to release it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sprat
+  description: A single small fish caught in the fisherman's net; it speaks and asks
+    to be returned to the water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Boasting traveller
+  description: A man who has travelled abroad and claims to have made an unmatched
+    jump at Rhodes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Listener
+  description: One of the people listening to the traveller; he challenges the traveller
+    to prove the boast immediately.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Captor and keeper
+  assigned_to:
+  - fig:1
+  basis: The fisherman catches the sprat and refuses to put it back into the water.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Supplicant bargaining for release
+  assigned_to:
+  - fig:2
+  basis: The sprat asks to be released and offers the prospect of future usefulness
+    if caught later.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Boaster and claimant
+  assigned_to:
+  - fig:3
+  basis: The traveller tells tales of his deeds abroad and claims an unbeatable jump
+    at Rhodes.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Skeptical tester
+  assigned_to:
+  - fig:4
+  basis: The listener dismisses the need for distant witnesses and asks for immediate
+    proof through action.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Net
+  literal_form: fishing net cast into the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water
+  literal_form: sea and water into which the sprat asks to be returned
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Rhodes
+  literal_form: Rhodes as the named place of the claimed jumping-match
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Jump
+  literal_form: the claimed and demanded jump
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: The fisherman catches and keeps the sprat
+  summary: A fisherman catches only one sprat. The sprat asks to be released because
+    it may later grow larger, but the fisherman keeps it rather than trust a future
+    possibility.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The traveller's boast is challenged
+  summary: A returned traveller boasts of an unmatched jump at Rhodes and appeals
+    to witnesses there. A listener tells him to treat the present place as Rhodes
+    and jump at once; the fable states the moral that deeds matter more than words.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Present possession preferred to uncertain future gain
+  taxonomy_refs:
+  - wisdom
+  basis: The fisherman keeps the small fish he has rather than release it on the promise
+    that it may become more useful later.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied passage gives no separate explicit moral for this fable;
+    the motif label is derived from the narrated exchange.
+- id: motif:2
+  label: Captive animal bargains for release
+  taxonomy_refs: []
+  basis: The caught sprat speaks to the fisherman, asks to be put back into the water,
+    and argues for future benefit if released now.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a fable episode; no additional mythic identity
+    or supernatural role is stated for the fish.
+- id: motif:3
+  label: Claim tested by immediate performance
+  taxonomy_refs:
+  - wisdom
+  basis: The traveller's distant claim about a jump at Rhodes is challenged by a listener
+    who asks him to demonstrate the feat immediately; the stated moral is "Deeds,
+    not words."
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The comparison is limited to the internal moral pattern expressed by the
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: THE FISHERMAN AND THE SPRAT, within supplied lines 1733-1757
+  quote_or_summary: A fisherman casts a net into the sea and draws up nothing but
+    a single sprat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: THE FISHERMAN AND THE SPRAT, within supplied lines 1733-1757
+  quote_or_summary: The sprat asks to be returned to the water and says that although
+    it is little now, it will grow big and be useful if caught later.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: quote
+  locator: THE FISHERMAN AND THE SPRAT, within supplied lines 1733-1757
+  quote_or_summary: '"Oh, no, I shall keep you now I''ve got you: if I put you back,
+    should I ever see you again? Not likely!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: THE BOASTING TRAVELLER, within supplied lines 1733-1757
+  quote_or_summary: A man returns from travel abroad, tells wonderful tales of deeds
+    in foreign countries, and claims that at Rhodes he made a jump no one could beat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: THE BOASTING TRAVELLER, within supplied lines 1733-1757
+  quote_or_summary: A listener says they need not go to Rhodes and can imagine the
+    present place is Rhodes, then tells the traveller to jump; the fable ends, "Deeds,
+    not words."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The literal events and stated moral are clear in the supplied passage. Broader
+    taxonomy placement is limited to the general wisdom function of the fables.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1733-l1757
+  passage_sha256=b4de51ef1d242d6f4aae846c0de081db17968f1533023417c5631f2952674638
+

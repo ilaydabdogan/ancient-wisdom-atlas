@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1085-l1110
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: INTRODUCTION / CHAPTER I / XVIII / XXIII; lines 1085-1110
+  start: '1085'
+  end: '1110'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A tyrant exploits the poor in firewood sales. A holy man rebukes him, comparing
+    him to harmful creatures and warning that injustice cannot escape God. The tyrant
+    rejects the rebuke, but later a fire from his kitchen consumes his property. The
+    holy man interprets the fire as arising from the suffering of the poor. A separate
+    crown inscription attributed to Kai-khosrau reflects on the passing of kingdoms
+    from one ruler to another.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tyrant buys firewood from the poor at a low price and sells it to the rich
+    at a higher price.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A good and holy man tells the tyrant he is like a snake that bites everyone
+    or an owl that ruins its dwelling place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The holy man warns that the tyrant's injustice cannot escape God and that
+    complaints from people of the earth may rise to heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unjust man is offended by the holy man's words, turns his face aside,
+    and shows him no civility.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A fire from the tyrant's kitchen reaches the wood stack, consumes his property,
+    and leaves him on ashes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The tyrant says to his friends that he cannot imagine where the fire came
+    from.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The holy man says the fire came from the smoke of the hearts of the poor and
+    warns that one sigh can set a whole world aflame.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Verses are said to have been written in golden letters on Kai-khosrau's crown,
+    stating that mankind will walk over his head and that kingdom passes from hand
+    to hand.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: tyrant / unjust man
+  description: A ruler or powerful man who profits from buying firewood cheaply from
+    the poor and selling it dearly to the rich; later his property is burned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: good and holy man
+  description: A holy man who rebukes the tyrant and later explains the fire as connected
+    with the suffering of the poor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the poor
+  description: People from whom the tyrant buys firewood cheaply; their afflicted
+    hearts and complaints are invoked in the holy man's warning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: the rich
+  description: People to whom the tyrant sells firewood at an advance.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: friends of the unjust man
+  description: People to whom the unjust man remarks that he cannot imagine the source
+    of the fire.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Kai-khosrau
+  description: A named royal figure whose crown is said to bear verses in golden letters
+    about the passing of kingdoms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: oppressive exploiter
+  assigned_to:
+  - fig:1
+  basis: He buys firewood from the poor at a low price, sells it to the rich at an
+    advance, and is called unjust.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: moral rebuker
+  assigned_to:
+  - fig:2
+  basis: He confronts the tyrant, warns him against injustice, and later interprets
+    the destructive fire.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: afflicted poor
+  assigned_to:
+  - fig:3
+  basis: They are economically exploited and are later described through complaints,
+    smoke of hearts, and sore-afflicted hearts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: crown-associated former king
+  assigned_to:
+  - fig:6
+  basis: The passage names Kai-khosrau as the owner of a crown bearing verses about
+    the transfer of kingdoms.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: firewood
+  literal_form: firewood bought from the poor, sold to the rich, and gathered in a
+    wood stack
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: snake image
+  literal_form: the holy man's comparison of the tyrant to a snake that bites everyone
+    it sees
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: owl image
+  literal_form: the holy man's comparison of the tyrant to an owl that ruins the place
+    where it sits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: destructive fire
+  literal_form: fire from the kitchen falling on the wood stack and consuming the
+    tyrant's property
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: smoke and sigh of the afflicted heart
+  literal_form: the holy man's explanation that the fire came from the smoke of the
+    poor's hearts, with a warning that one sigh may set a world aflame
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: gold-lettered crown
+  literal_form: Kai-khosrau's crown inscribed in golden letters with verses on mortality
+    and the passing of kingdoms
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: exploitative firewood trade
+  summary: The tyrant buys firewood cheaply from the poor and sells it at a profit
+    to the rich.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: holy man's rebuke
+  summary: The holy man confronts the tyrant with animal images and warns that injustice
+    cannot escape God or heavenward complaints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: fire and interpretation
+  summary: After the unjust man rejects the rebuke, a fire destroys his property;
+    he wonders about its source, and the holy man attributes it to the suffering of
+    the poor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Kai-khosrau's crown inscription
+  summary: Verses on the crown state that many generations will pass over the king's
+    head and that the kingdom will pass to others.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine punishment of an unjust oppressor
+  taxonomy_refs:
+  - divine_judgment
+  basis: The holy man says injustice cannot escape God; the text then cites God overtaking
+    the unjust man amid sins and narrates a fire that destroys his property.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a moral and theological framing but does not identify
+    a specific external tale-type.
+- id: motif:2
+  label: complaints of the oppressed rising to heaven
+  taxonomy_refs:
+  - divine_judgment
+  basis: The holy man warns that people's complaints may rise to heaven and later
+    explains the destructive fire as coming from the smoke of the poor's hearts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The causal language is expressed in the holy man's speech and may be rhetorical
+    within the moral anecdote.
+- id: motif:3
+  label: moral wisdom against causing pain
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on admonitions against injustice and causing pain, including
+    the warning that one sigh may set a world aflame.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a wisdom or ethical teaching motif rather than a narrative mythic
+    episode.
+- id: motif:4
+  label: impermanence of kingship
+  taxonomy_refs:
+  - wisdom
+  basis: The crown inscription says that mankind will walk over the king's head and
+    that the kingdom, received from hand to hand, will pass to others.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the inscription and does not narrate Kai-khosrau's
+    life or succession.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the tyrant's downfall with a Koran-attributed statement
+    about God overtaking him amid sins, supporting comparison to a divine-judgment
+    pattern in which injustice is followed by punishment.
+  claim_level: same_function
+  target: Koran-attributed divine punishment formula / divine_judgment motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific Koranic verse reference is provided in the supplied passage,
+    and the claim is limited to the passage's own attribution and narrative function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1085-1087
+  quote_or_summary: A tyrant buys firewood from the poor at a low price and sells
+    it to the rich at an advance.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1087-1092
+  quote_or_summary: A good and holy man rebukes the tyrant as like a snake or owl
+    and warns that injustice cannot escape God and that complaints may rise to heaven.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 1093-1095
+  quote_or_summary: The unjust man is offended and uncivil; the text invokes a Koran-attributed
+    phrase that God overtook him amid his sins.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 1095-1098
+  quote_or_summary: One night the kitchen fire falls on the wood stack, consumes all
+    his property, and leaves him on ashes described with hell-torment imagery.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 1098-1105
+  quote_or_summary: The unjust man wonders where the fire came from; the holy man
+    answers that it came from the smoke of the poor's hearts and warns that one sigh
+    can set a world aflame.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 1107-1110
+  quote_or_summary: Golden-lettered verses on Kai-khosrau's crown say that mankind
+    will walk over his head and that the kingdom came by hands and will pass to others.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied English passage. Motif labels
+    are cautious and mostly reflect explicit moral, theological, and symbolic language
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied taxonomy identifiers were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1085-l1110
+  passage_sha256=7c6f3a63096008ee13eb9bba741fcf1515f1fbaab59d18eeddcea241702b71df
+

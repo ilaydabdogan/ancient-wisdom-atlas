@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.egyptian-tales-second-series-petrie-gutenberg-l68-l141
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+passage_locator:
+  label: EDWARDS PROFESSOR OF EGYPTOLOGY, UNIVERSITY COLLEGE, LONDON / ILLUSTRATED
+    BY TRISTRAM ELLIS / SECOND EDITION / PREFACE; lines 68-141
+  start: '68'
+  end: '141'
+  translation: 'Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth
+    to XIXth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: "“the doings and the thoughts of men and women who are human”"
+  summary: The passage is the title-page and preface opening for Petrie’s second series
+    of Egyptian tales. The preface argues that the tales are not fairy tales but human-centered
+    narratives in which supernatural elements belong to the beliefs and motives of
+    the people depicted. It describes fiction as enabling readers to enter another
+    mental position, and briefly names Sanehat, the Doomed Prince, Bata, and Ahura
+    as examples from the tales.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as the second series of Egyptian tales, covering
+    the XVIIIth to XIXth Dynasty, edited by W. M. Flinders Petrie and illustrated
+    by Tristram Ellis.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface rejects the idea that the Egyptian tales are fairy tales or an
+    impossible world of imaginary beings.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The preface states that the tales relate the actions and thoughts of human
+    men and women.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface states that any supernatural elements in the tales belong to the
+    beliefs and motives of the people whose lives are pictured.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The preface describes fiction as allowing a reader to enter another mental
+    position and experience another way of seeing, feeling, and reasoning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The preface names Sanehat, the Doomed Prince, Bata, and Ahura, assigning each
+    a brief descriptive association.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage ends with an erratum for the first edition of the first series.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sanehat
+  description: An old refugee described as craving to be buried with his ancestors
+    in the blessed land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: The Doomed Prince
+  description: A prince whose story is associated with enterprise and success.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Bata
+  description: A figure characterized in the preface by sweetness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ahura
+  description: A figure associated in the preface with misfortunes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: old refugee seeking ancestral burial
+  assigned_to:
+  - fig:1
+  basis: The preface describes Sanehat as an old refugee craving burial with his ancestors
+    in the blessed land.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: enterprising and successful prince
+  assigned_to:
+  - fig:2
+  basis: The preface refers to the enterprise and success of the Doomed Prince.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: sweet-natured figure
+  assigned_to:
+  - fig:3
+  basis: The preface names the sweetness of Bata.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: figure marked by misfortune
+  assigned_to:
+  - fig:4
+  basis: The preface names the misfortunes of Ahura.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: blessed land
+  literal_form: The blessed land where Sanehat wants to be buried with his ancestors.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prefatory genre framing
+  summary: The preface frames the Egyptian tales as human-centered narratives rather
+    than fairy tales, and says supernatural material belongs to the beliefs and motives
+    of the depicted people.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fiction as entering another life
+  summary: The preface explains the value of fiction as allowing the reader to enter
+    another mental position and then applies this value to the Egyptian tales.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Examples from the tales
+  summary: The preface briefly invokes Sanehat, the Doomed Prince, Bata, and Ahura
+    as figures whose feelings and situations can be imaginatively shared by readers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural elements embedded in ordinary human belief
+  taxonomy_refs: []
+  basis: The preface says supernatural elements in the tales are part of the beliefs
+    and motives of the people whose lives are pictured, while the tales remain centered
+    on human men and women.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a prefatory description of the corpus rather than a complete narrative
+    episode.
+- id: motif:2
+  label: refugee longing for ancestral burial in a blessed land
+  taxonomy_refs:
+  - return
+  basis: Sanehat is described as an old refugee craving burial with his ancestors
+    in the blessed land.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a one-sentence allusion; the actual tale would
+    be needed to confirm the motif shape and taxonomy link.
+- id: motif:3
+  label: doomed prince associated with enterprise and success
+  taxonomy_refs: []
+  basis: The preface links the Doomed Prince with enterprise and success.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The phrase is too brief to establish a fuller fate, royal, or heroic motif
+    without the narrative passage.
+comparison_claims:
+- id: claim:1
+  claim: The preface compares the Egyptian tales with other works of fiction by assigning
+    them the same literary function of transporting the reader into another life or
+    mental position.
+  claim_level: same_function
+  target: The literary examples named in the preface, including Treasure Island, Plain
+    Tales from the Hills, The Scarlet Letter, Old Mortality, and Hypatia.
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a literary-function comparison made by the preface, not evidence
+    for historical contact, common inheritance, or a shared mythological motif.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 68-91
+  quote_or_summary: Title-page information identifies Egyptian Tales, Second Series,
+    XVIIIth to XIXth Dynasty, edited by W. M. Flinders Petrie and illustrated by Tristram
+    Ellis; second edition noted as February 1913.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 99-104
+  quote_or_summary: "“the Egyptian Tales are exactly the opposite of this, they relate
+    the doings and the thoughts of men and women who are human”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; short quotation used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 104-108
+  quote_or_summary: "“Whatever there is of supernatural elements is a very part of
+    the beliefs and motives of the people whose lives are here pictured.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; short quotation used for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 116-126
+  quote_or_summary: The preface says fiction lets the reader place himself in another
+    mental position, see and feel with another being, and be transplanted into a new
+    life; it compares this function with several named works of fiction.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 127-136
+  quote_or_summary: "“The old refugee Sanehat craving to be buried with his ancestors
+    in the blessed land, the enterprise and success of the Doomed Prince, the sweetness
+    of Bata, the misfortunes of Ahura”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; short quotation used for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 138-141
+  quote_or_summary: The erratum says that in the first edition, first series, page
+    31, line 6 from below, “no It” should read “not I.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  rights_note: Public domain Project Gutenberg text; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear, but it is a title-page and preface rather than a full
+    mythic or narrative episode. Motif candidates are therefore limited to explicit
+    prefatory statements and brief allusions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy IDs or historical-contact claims were added. The only taxonomy reference used is the tentative return motif for Sanehat’s longing for ancestral burial.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-second-series-petrie-gutenberg__l68-l141
+  passage_sha256=0ba8887d0fd7ceaba4a578ff85f418a3dd578f9cf58ad715cdacaeb1381f90e2
+

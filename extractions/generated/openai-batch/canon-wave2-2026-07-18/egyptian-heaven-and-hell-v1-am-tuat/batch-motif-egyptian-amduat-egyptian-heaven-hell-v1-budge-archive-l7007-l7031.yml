@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l7007-l7031
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I  O     I / D    D / I    I    I / I    I; lines 7007-7031
+  start: '7007'
+  end: '7031'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "[These are the] hidden magical figures of the Tuat, the funeral shrines
+    of the hidden heads."
+  summary: The passage identifies hidden magical figures and funeral shrines associated
+    with hidden heads in the Tuat. It says that when beings reach this region, the
+    hidden heads appear, hear the voice of Ra, and eat their own forms after the great
+    god has passed by.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes hidden magical figures of the Tuat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes funeral shrines of hidden heads.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hidden heads appear when those who have reached the region come there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hidden heads hear the voice of Ra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the great god passes by, the hidden heads eat their own forms.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Hidden magical figures of the Tuat
+  description: Hidden magical figures named as belonging to the Tuat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hidden heads
+  description: Heads described as hidden and associated with funeral shrines; they
+    appear, hear Ra's voice, and eat their own forms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ra
+  description: Ra is named as the source of the voice heard by the hidden heads.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The great god
+  description: A great god passes by before the hidden heads eat their own forms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Hidden underworld figures
+  assigned_to:
+  - fig:1
+  basis: They are called hidden magical figures of the Tuat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Manifesting hidden heads
+  assigned_to:
+  - fig:2
+  basis: They appear in the region and then eat their own forms after hearing Ra's
+    voice.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Divine voice heard by hidden heads
+  assigned_to:
+  - fig:3
+  basis: The passage says the hidden heads hear the voice of Ra.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Passing great god
+  assigned_to:
+  - fig:4
+  basis: The passage says the great god passes them by before their self-consuming
+    action.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tuat region
+  literal_form: The Tuat and a specific region within it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Funeral shrines
+  literal_form: Funeral shrines of the hidden heads
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Hidden heads
+  literal_form: Heads described as hidden and capable of appearing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Voice of Ra
+  literal_form: The voice of Ra heard by the hidden heads
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Eating their own forms
+  literal_form: The hidden heads eat their own forms
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hidden heads respond after Ra's passage
+  summary: In a region of the Tuat, hidden heads associated with funeral shrines appear,
+    hear Ra's voice, and then eat their own forms after the great god has passed by.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Journey through mapped regions of the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage places beings and actions in a named region of the Tuat and describes
+    what occurs after the great god passes through.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is brief and does not itself give the wider route or full
+    map structure.
+- id: motif:2
+  label: Self-consumption after divine passage
+  taxonomy_refs:
+  - annihilation_union
+  basis: The hidden heads eat their own forms after hearing Ra's voice and after the
+    great god passes by.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage states self-consumption but does not explicitly explain it
+    as annihilation, union, punishment, renewal, or transformation.
+- id: motif:3
+  label: Concealed underworld beings revealed by divine presence
+  taxonomy_refs: []
+  basis: The hidden heads appear when beings reach the region and after hearing the
+    voice of Ra.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not clarify the nature, purpose, or full mythic function
+    of the hidden heads.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7007-7031
+  quote_or_summary: '"[These are the] hidden magical figures of the Tuat, the funeral
+    shrines of the hidden heads."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7007-7031
+  quote_or_summary: '"[When] those who reached this region [come there, the hidden
+    heads] appear, [and when they have heard the voice of Ra] they eat their own forms,
+    after this great god hath passed them by."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7007-7031
+  quote_or_summary: The passage also notes a line of hieroglyphics above the upper
+    register, but the readable supplied excerpt does not provide a translatable content
+    summary for it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source text summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short and partially bracketed passage. Some wording
+    is restored in the edition and the hieroglyphic line is not meaningfully extractable
+    from the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material with another tradition or corpus.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l7007-l7031
+  passage_sha256=e3a5a5b5ec2f6e296443cca4c9347be3fe7489f6acaefad2cca0fcba5a122584
+

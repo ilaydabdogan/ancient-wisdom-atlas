@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4284-l4294
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SHEPHERD AND THE WOLF / THE LION, JUPITER, AND THE ELEPHANT / THE PIG
+    AND THE SHEEP / THE GARDENER AND HIS DOG; lines 4284-4294
+  start: '4284'
+  end: '4294'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: A Gardner's Dog fell into a deep well
+  summary: A gardener's dog falls into a deep well used for drawing water. The gardener
+    tries to rescue the dog with the rope and bucket and then descends into the well
+    himself. The dog mistakes the rescue attempt for an attempt to drown him, bites
+    the gardener, and is left in the well while the gardener remarks on the outcome.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The dog falls into a deep well.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The well is used by the gardener to draw water for garden plants with a rope
+    and bucket.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gardener first fails to get the dog out using the rope and bucket.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gardener descends into the well to bring the dog up.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dog believes the gardener has come to make sure he drowns.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dog bites the gardener when he comes within reach and hurts him considerably.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The gardener leaves the dog to his fate and climbs out of the well.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The gardener says it serves him right for trying to save so determined a suicide.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gardener
+  description: The dog's master, who uses the well to draw water for his garden and
+    attempts to rescue the dog.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Gardener's Dog
+  description: The gardener's dog, who falls into the well, bites his master during
+    the rescue attempt, and is left in the well.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: master
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the gardener as the dog's master.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal in danger
+  assigned_to:
+  - fig:2
+  basis: The dog has fallen into a deep well and needs to be brought out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: The gardener tries to get the dog out and goes down into the well to fetch
+    him up.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mistaken attacker
+  assigned_to:
+  - fig:2
+  basis: The dog mistakes the gardener's purpose and bites him during the rescue attempt.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: deep well
+  literal_form: A deep well into which the dog falls and into which the gardener descends.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water
+  literal_form: Water drawn from the well for the plants in the garden.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rope and bucket
+  literal_form: The tools used by the gardener to draw water and unsuccessfully to
+    try to retrieve the dog.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: bite
+  literal_form: The dog's bite that injures the gardener during the attempted rescue.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dog in the well
+  summary: The gardener's dog falls into a deep well that the gardener uses to draw
+    water for plants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attempted rescue
+  summary: After the rope and bucket fail to retrieve the dog, the gardener descends
+    into the well to fetch him up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Misread rescue and abandonment
+  summary: The dog interprets the gardener's descent as a threat, bites him, and the
+    gardener leaves the dog in the well while commenting on the failed rescue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: rescuer harmed by the one being rescued
+  taxonomy_refs: []
+  basis: The gardener descends to save the dog, but the dog bites and injures him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Plain fable motif label; no supplied taxonomy family directly matches
+    it.
+- id: motif:2
+  label: misinterpretation of help as harm
+  taxonomy_refs: []
+  basis: The dog thinks the gardener has come to drown him, although the gardener
+    has come to fetch him up.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Interpretive label is closely based on the passage wording but is not
+    tied to a supplied taxonomy ID.
+- id: motif:3
+  label: abandonment after rejected rescue
+  taxonomy_refs: []
+  basis: After being bitten, the gardener climbs out and leaves the dog to his fate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states the abandonment, but the broader motif label should
+    be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4284-4287
+  quote_or_summary: The title names the fable as THE GARDENER AND HIS DOG; the dog
+    falls into a deep well from which the gardener draws water for garden plants with
+    a rope and bucket.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 4287-4289
+  quote_or_summary: The gardener fails to get the dog out with the rope and bucket,
+    then goes down into the well himself to fetch the dog up.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 4289-4292
+  quote_or_summary: The dog thinks the gardener has come to make sure he drowns, bites
+    him when he comes within reach, and hurts him a good deal.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: 4292-4294
+  quote_or_summary: The gardener leaves the dog and says, "It serves me quite right
+    for trying to save so determined a suicide."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; supplied metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are plain descriptive candidates without taxonomy matches. No comparison claims
+    were added because the passage itself does not support a cross-text or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage locator label mentions several neighboring fables, but the provided passage text contains only THE GARDENER AND HIS DOG.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4284-l4294
+  passage_sha256=ec2f54ff480b3c0567a1862861344e90393239c086f94f79b037d82f676a2627
+

@@ -1,0 +1,154 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1774-l1789
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1774-1789
+  start: '1774'
+  end: '1789'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three explanatory footnotes describe the stages of the Roman chief meal,
+    comment on an unnamed humane action by two deities in contrast with other divinities,
+    and identify Tyana as a city in Cappadocia, Asia Minor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Roman cœna, or chief meal, is described as consisting of three stages.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first stage of the meal is identified by the names promulsis, antecœna,
+    or gustatio, and is described as involving foods that stimulated appetite.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage distinguishes the substantial first course from the second course,
+    at which bellaria such as pastry and fruits were served.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The commentator says an act of humanity reflects credit on two deities.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentator contrasts the two deities with other divinities, whom he characterizes
+    as usually cruel and revengeful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Tyana is identified as a city of Cappadocia in Asia Minor.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: two Deities
+  description: Unnamed pair of deities credited by the commentator with an act of
+    humanity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: fellow Divinities of the heathen Mythology
+  description: A broader group of divinities described by the commentator as usually
+    cruel and revengeful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: credited humane divine actors
+  assigned_to:
+  - fig:1
+  basis: The footnote states that an act of humanity reflects credit on the two deities.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: contrasting divine group
+  assigned_to:
+  - fig:2
+  basis: The footnote contrasts the two deities with fellow divinities characterized
+    as cruel and revengeful.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: three-stage Roman chief meal
+  literal_form: cœna consisting of promulsis/antecœna/gustatio, first course, and
+    second course with bellaria
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tyana
+  literal_form: city of Cappadocia in Asia Minor
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: deities credited with humane action
+  taxonomy_refs: []
+  basis: The passage explicitly says an act of humanity reflects credit on two deities.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The footnote does not describe the underlying action in detail, so the
+    motif remains broad and uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1774-1780
+  quote_or_summary: 'Footnote 88 explains that the Roman cœna consisted of three stages:
+    an appetite-stimulating opening stage, a substantial first course, and a second
+    course with bellaria such as pastry and fruits.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1782-1785
+  quote_or_summary: Footnote 89 says the act of humanity reflects credit on two deities
+    and contrasts them with the usual cruel and revengeful disposition attributed
+    to other divinities by the commentator.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1787-1789
+  quote_or_summary: Footnote 90 identifies Tyana as a city of Cappadocia in Asia Minor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a set of explanatory footnotes rather than a narrative episode.
+    Literal extraction is clear, but motif extraction is limited because the underlying
+    mythic action is only alluded to.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif refs were assigned because the passage does not provide enough narrative detail to support them.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l1774-l1789
+  passage_sha256=0e570498d608f85fa1c5381e91da05d5b1d41991ac9f11787de694a0b8b552ef
+

@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1301-l1411
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO,
+    THE FISHER LAD / THE FARMER AND THE BADGER; lines 1301-1411
+  start: '1301'
+  end: '1411'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'After the badger kills and cooks the farmer''s wife, the farmer grieves.
+    A nearby rabbit hears him, promises to avenge the wife, and begins a sequence
+    of deceptive punishments against the badger: burning a grass bundle on the badger''s
+    back, applying a painful red-pepper mixture as supposed medicine, and then planning
+    a fishing trip using two boats, one wooden and one clay.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The badger escapes from the farmer's house to his den in the hills after the
+    farmer learns what has happened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man understands that his wife has been killed and cooked by the badger,
+    and that he nearly drank soup made from her.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old man faints, then cries and rocks himself in grief.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A kind old rabbit living nearby on the same mountain hears the old man crying
+    and comes to help.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After hearing the story, the rabbit becomes angry at the badger and tells
+    the old man he will avenge the wife's death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The rabbit goes home to plan the badger's punishment, then later finds the
+    badger hiding in his den.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The rabbit invites the badger to cut grass on the hills, and the badger agrees
+    because he does not doubt the rabbit's friendship.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The rabbit and badger cut grass, tie it into bundles, and start home with
+    the bundles on their backs; the rabbit makes the badger go first.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The rabbit uses flint and steel to set the badger's bundle of dry grass on
+    fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'When the badger asks about the sounds, the rabbit explains them as names
+    of the mountain: Crackling Mountain and Burning Mountain.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The fire burns the grass bundle and burns the hair off the badger's back,
+    causing him to scream and run to his hole.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The rabbit presents a sauce-and-red-pepper mixture as medicine for burns and
+    applies it to the badger's sore back, causing severe pain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: After about a month the badger recovers, and the rabbit decides on another
+    plan to cause his death.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The rabbit describes fishing in fine weather and smooth sea, and the badger
+    asks to join him on a future fishing trip.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: The rabbit builds two boats, one of wood and one of clay, hoping his plan
+    will allow him to kill the badger.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: old man / farmer
+  description: A farmer whose wife has been killed by the badger; he grieves and receives
+    help from the rabbit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: old wife
+  description: The farmer's wife, described as faithful and old, killed and cooked
+    by the badger before this passage's revenge sequence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: badger
+  description: A wicked and deceitful animal who killed the farmer's wife, hides in
+    his den, trusts the rabbit, and is subjected to retaliatory punishments.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: old rabbit
+  description: A kind, good-natured rabbit living near the farmer; he promises revenge
+    and deceives the badger through successive plans.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: grieving husband and farmer
+  assigned_to:
+  - fig:1
+  basis: He learns his wife has been killed and cooked and responds with fear, tears,
+    and grief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: murdered wife
+  assigned_to:
+  - fig:2
+  basis: The passage says the badger killed and cooked the farmer's faithful old wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: killer and offender
+  assigned_to:
+  - fig:3
+  basis: The badger is identified as the animal who killed the old woman and deceived
+    the farmer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: neighbor-helper and avenger
+  assigned_to:
+  - fig:4
+  basis: The rabbit hears the farmer's distress, comes to help, and promises to avenge
+    the wife's death.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: deceptive punisher
+  assigned_to:
+  - fig:4
+  basis: The rabbit pretends friendship, lies about the burning bundle, gives painful
+    false medicine, and then plans another death-dealing trick.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: deceived target of retaliation
+  assigned_to:
+  - fig:3
+  basis: The badger accepts the rabbit as a friend, believes his explanations and
+    medicine, and joins the fishing plan.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: mountain and hills
+  literal_form: The same mountain, nearby hills, and the badger's den in the hills.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fire
+  literal_form: Fire set in the badger's dry grass bundle with flint and steel.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: flint and steel
+  literal_form: The tools the rabbit uses over the badger's back to ignite the grass
+    bundle.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: grass bundle
+  literal_form: Bundles of cut grass carried on the backs of the rabbit and badger;
+    the badger's bundle is set on fire.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: false burn medicine
+  literal_form: An ointment made by mixing sauce and red pepper together.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sea and fishing
+  literal_form: Fishing in fine weather when the sea is smooth.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: wooden boat and clay boat
+  literal_form: Two boats built by the rabbit, one of wood and one of clay.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Badger's crime revealed and farmer's grief
+  summary: The badger escapes to his den, and the farmer realizes the badger has killed
+    and cooked his wife; the farmer faints and weeps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rabbit promises revenge
+  summary: The rabbit hears the farmer crying, visits him, learns what happened, and
+    promises to avenge the wife's death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Grass-cutting invitation
+  summary: The rabbit finds the badger hiding, invites him to cut grass, and leads
+    him away to hills where both prepare bundles of grass.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Burning grass-bundle trick
+  summary: The rabbit sets the badger's grass bundle on fire and explains the noises
+    by naming the places Crackling Mountain and Burning Mountain; the badger is burned.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Red-pepper false medicine
+  summary: The rabbit pretends to treat the badger's burns with medicine but applies
+    a sauce-and-red-pepper mixture that causes agony.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Fishing-trip boat plan
+  summary: After the badger recovers, the rabbit entices him with talk of fishing
+    and builds two boats, one wooden and one clay, as part of a plan to kill him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Animal helper avenges a murdered household member
+  taxonomy_refs: []
+  basis: The rabbit hears the farmer's grief, learns of the wife's murder, and promises
+    to avenge her death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is limited to the passage's revenge setup and does not establish
+    a broader tradition by itself.
+- id: motif:2
+  label: Animal trickster punishes an offender through deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: 'The rabbit repeatedly deceives the badger while appearing friendly: inviting
+    him to cut grass, lying about the fire, offering painful false medicine, and planning
+    a fishing trip to kill him.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy family is broad; the passage supports deceptive punishment
+    but not a full comparative history.
+- id: motif:3
+  label: Punitive fire hidden in an ordinary task
+  taxonomy_refs: []
+  basis: Grass-cutting and carrying fodder become the setting for the rabbit to ignite
+    the badger's bundle and burn his back.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is expressed at episode level; no external motif index is supplied
+    for this exact pattern.
+- id: motif:4
+  label: False medicine worsens the victim's wound
+  taxonomy_refs: []
+  basis: The rabbit calls the sauce-and-red-pepper mixture a wonderful burn medicine,
+    but its application causes the badger intense pain.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames this as revenge, not as healing magic or medical transformation.
+- id: motif:5
+  label: Unsafe vessel planned as death trap
+  taxonomy_refs: []
+  basis: The rabbit builds two boats, one of wood and one of clay, after enticing
+    the badger to go fishing and while intending to kill him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt ends before the fishing-trip outcome, so the boat plan's result
+    is not shown in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a trickster-boundary pattern in
+    which a figure crosses between helper and deceiver roles to punish another figure.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the functional comparison through repeated deception,
+    but it does not provide evidence for historical contact, common inheritance, or
+    a wider corpus-level claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1301-1314
+  quote_or_summary: The badger escapes to his den; the old man realizes the badger
+    killed and cooked his wife and that he nearly drank the soup, then faints and
+    grieves.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1315-1324
+  quote_or_summary: A kind old rabbit living nearby hears the old man crying, comes
+    to help, hears the story, becomes angry at the badger, and promises to avenge
+    the wife's death.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1325-1337
+  quote_or_summary: The rabbit returns home to plan punishment, later goes to the
+    badger's den, and finds the badger hiding from the farmer's wrath.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1338-1350
+  quote_or_summary: The rabbit invites the badger to cut grass on the hills; the badger
+    trusts him, and they cut and bundle grass for winter food, with the badger walking
+    first on the way home.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1351-1367
+  quote_or_summary: The rabbit strikes flint and steel over the badger's back, setting
+    the grass bundle on fire; he explains the noises as Crackling Mountain and Burning
+    Mountain, and the badger is burned.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1368-1384
+  quote_or_summary: The rabbit finds the badger in pain, offers medicine, makes a
+    mixture of sauce and red pepper, applies it to the badger's sore back, and the
+    badger howls in agony.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1385-1402
+  quote_or_summary: After about a month the badger recovers; the rabbit plans another
+    attempt, talks about fishing in fine weather and smooth sea, and the badger asks
+    to come along.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1403-1411
+  quote_or_summary: The rabbit builds two boats, one wooden and one clay, hoping his
+    plan will succeed and allow him to kill the badger.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal episode extraction is well supported by the passage. Motif labels
+    are passage-level candidates and require human review for alignment with any formal
+    motif index or wider Japanese folklore corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range spans a continuation of 'The Farmer and the Badger'; only the provided passage text was used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1301-l1411
+  passage_sha256=cefb6af71d64c0f9e12a9226cd31a7debd8dacf02de6a344392b588a6fb45205
+

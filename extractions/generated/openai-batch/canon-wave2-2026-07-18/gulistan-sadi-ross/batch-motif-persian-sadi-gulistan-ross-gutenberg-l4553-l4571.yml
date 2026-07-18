@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4553-l4571
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: LXXVI / LXXVII / LXXVIII / LXXXI; lines 4553-4571
+  start: '4553'
+  end: '4571'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two aphoristic passages state that fishing success and a fish’s death depend
+    on lot or fate; that a miser seeks wealth while death seeks him; and that an envious
+    man resents Providence’s gifts and should not be wished further misfortune because
+    his own condition is calamity enough.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fisherman catches no fish in the Tigris unless it is his lot, and a fish
+    does not die on dry land unless it is its fate.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wretched miser prowls the world seeking pelf while death seeks him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The envious man is described as niggardly toward the gifts of Providence and
+    as an enemy of the innocent.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says he met a dry-brained fellow dressed in the robe of a dignified
+    person.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator asks the addressee why the fortunate are to blame if the addressee
+    has an unfortunate disposition.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator advises not wishing misfortune to the misanthrope because his
+    own ill-conditioned lot is sufficient calamity and he already has an enemy close
+    at his heels.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: fisherman
+  description: A fisherman whose catching of fish in the Tigris is said to depend
+    on his lot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fish
+  description: A fish whose death on dry land is said to depend on fate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wretched miser
+  description: A miser prowling the world in quest of pelf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: death
+  description: Death is described as being in quest of the miser.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: envious man / dry-brained fellow
+  description: An envious man, also described as a dry-brained fellow wearing the
+    robe of a dignified person.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: narrator
+  description: The speaker who meets and admonishes the envious man.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: the fortunate
+  description: People whom the narrator says are not to blame for the addressee’s
+    unfortunate disposition.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: one whose success depends on lot
+  assigned_to:
+  - fig:1
+  basis: The fisherman’s catching of fish is explicitly conditioned on his lot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: one whose death depends on fate
+  assigned_to:
+  - fig:2
+  basis: The fish’s death on dry land is explicitly conditioned on fate.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wealth-seeker
+  assigned_to:
+  - fig:3
+  basis: The miser is said to prowl the world in quest of pelf.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pursuer of the mortal
+  assigned_to:
+  - fig:4
+  basis: Death is said to be in quest of the miser.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: envier and admonished person
+  assigned_to:
+  - fig:5
+  basis: The passage describes the envious man’s disposition and records the narrator’s
+    admonition to him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: moral admonisher
+  assigned_to:
+  - fig:6
+  basis: The narrator addresses the envious man and gives corrective counsel.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: blameless fortunate group
+  assigned_to:
+  - fig:7
+  basis: The narrator asks what blame the fortunate bear for the addressee’s disposition.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Tigris river
+  literal_form: the Tigris
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dry land
+  literal_form: dry land
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pelf
+  literal_form: pelf
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: death in quest
+  literal_form: death in quest of him
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: robe of dignity
+  literal_form: robe of a dignified person
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: gifts of Providence
+  literal_form: gifts of Providence
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: enemy close at heels
+  literal_form: enemy close at his heels
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fishing and fate aphorism
+  summary: The passage states that a fisherman’s catch in the Tigris and a fish’s
+    death on dry land occur only according to lot or fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Miser pursued by death
+  summary: The miser searches the world for wealth while death is described as searching
+    for him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Admonition against envy
+  summary: The narrator meets an envious man in dignified clothing and tells him not
+    to blame the fortunate or wish further misfortune on someone whose own condition
+    is already calamity enough.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: fate governing outcomes
+  taxonomy_refs:
+  - wisdom
+  basis: The fisherman’s success and the fish’s death are both framed as dependent
+    on lot or fate.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as proverbial moral instruction rather than
+    as a developed mythic narrative.
+- id: motif:2
+  label: death pursues the wealth-seeker
+  taxonomy_refs:
+  - wisdom
+  basis: The miser seeks pelf while death simultaneously seeks him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Death is personified in a brief aphorism; no afterlife journey or judgment
+    scene is described.
+- id: motif:3
+  label: envy as self-punishing condition
+  taxonomy_refs:
+  - wisdom
+  basis: The envious man resents Providence’s gifts, blames the fortunate, and is
+    said to have an ill-conditioned lot that is already calamity enough.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is ethical and proverbial; it should not be treated as a full
+    narrative pattern without further context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXVIII, lines 4553-4556
+  quote_or_summary: The fisherman catches no fish in the Tigris unless it is his lot,
+    and the fish dies on dry land only if it is its fate.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: LXXVIII, lines 4556-4558
+  quote_or_summary: "“The wretched miser is prowling all over the world, he in quest
+    of pelf, and death in quest of him.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: LXXXI, lines 4562-4564
+  quote_or_summary: The envious man is described as niggardly toward Providence’s
+    gifts and as an enemy of the innocent.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: LXXXI, lines 4564-4566
+  quote_or_summary: "“I met a dry-brained fellow of this sort, tricked forth in the
+    robe of a dignified person.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: LXXXI, lines 4566-4569
+  quote_or_summary: The narrator asks why the fortunate are to blame if the addressee
+    has an unfortunate disposition.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: LXXXI, lines 4569-4571
+  quote_or_summary: The narrator counsels not wishing misfortune to the misanthrope,
+    whose own ill-conditioned lot and close enemy are calamity enough.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    broad ethical-proverbial patterns using the available taxonomy term “wisdom”;
+    no separate comparison claims were generated because the passage itself does not
+    make an explicit cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4553-l4571
+  passage_sha256=f681cdf545c5db9a060319a2ea0c73c81266b7c6be4e537fa6d54cc09eeeb274
+

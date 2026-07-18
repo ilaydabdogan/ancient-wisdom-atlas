@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4634-l4646
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SWAN / THE SNAKE AND JUPITER / THE WOLF AND HIS SHADOW / THE PLOUGHMAN
+    AND THE WOLF; lines 4634-4646
+  start: '4634'
+  end: '4646'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A ploughman leads his oxen away from the plough to drink. In his absence,
+    a hungry wolf gnaws the plough’s leather straps, becomes tangled in the harness,
+    and is reproached by the returning ploughman for thieving instead of honest work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ploughman loosens his oxen from the plough and leads them to water to
+    drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A half-starved wolf appears while the ploughman is absent.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wolf chews leather straps attached to the yoke in an attempt to satisfy
+    hunger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wolf becomes entangled in the harness, takes fright, struggles to get
+    free, and tugs at the traces.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ploughman returns, sees the wolf, and speaks a rebuke wishing that the
+    wolf would give up thieving and take up honest work.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ploughman
+  description: A man working with a plough and oxen; he leads the oxen to water, returns,
+    observes the wolf, and rebukes it.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Oxen
+  description: Draft animals loosed from the plough and led away to water to drink.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Wolf
+  description: A half-starved wolf that appears in the ploughman’s absence, gnaws
+    the straps, becomes entangled in the harness, and is rebuked by the ploughman.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ploughman and handler of oxen
+  assigned_to:
+  - fig:1
+  basis: He loosens the oxen from the plough and leads them to water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: draft animals
+  assigned_to:
+  - fig:2
+  basis: They are oxen attached to a plough and then loosed from it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hungry intruder at the plough
+  assigned_to:
+  - fig:3
+  basis: The wolf appears while the ploughman is absent and gnaws the leather straps
+    because of hunger.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: reproving speaker
+  assigned_to:
+  - fig:1
+  basis: The ploughman returns and addresses the wolf with a rebuke.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: reproached as a thief
+  assigned_to:
+  - fig:3
+  basis: The ploughman calls the wolf a rascal and wishes it would give up thieving.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: plough
+  literal_form: plough
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: yoke straps and harness
+  literal_form: leather straps attached to the yoke; harness; traces
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: water to drink
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Oxen led from plough to water
+  summary: The ploughman detaches his oxen from the plough and takes them to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wolf caught in plough harness
+  summary: During the ploughman’s absence, the hungry wolf chews the straps and becomes
+    entangled in the harness while trying to free itself.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ploughman rebukes the wolf
+  summary: The ploughman returns, sees the wolf’s predicament, and rebukes it for
+    thieving rather than doing honest work.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hungry animal trapped by the equipment it tries to consume
+  taxonomy_refs: []
+  basis: The wolf gnaws the leather straps out of hunger and becomes entangled in
+    the harness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif description, not a formal taxonomy match.
+- id: motif:2
+  label: Wrongdoer rebuked toward honest work
+  taxonomy_refs: []
+  basis: The ploughman explicitly wishes the wolf would abandon thieving and take
+    up honest work.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The moral frame is expressed through the ploughman’s speech rather than
+    a separate narrator’s moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4634-4636
+  quote_or_summary: The ploughman loosens his oxen from the plough and leads them
+    away to water to drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 4636-4640
+  quote_or_summary: While the ploughman is absent, a half-starved wolf appears and
+    chews the leather straps attached to the yoke, hoping to satisfy hunger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 4640-4643
+  quote_or_summary: The wolf becomes entangled in the harness, is frightened, struggles
+    to get free, and tugs at the traces as if dragging the plough.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: 4643-4646
+  quote_or_summary: '"Ah, you old rascal, I wish you would give up thieving for good
+    and take to honest work instead."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not mapped to a formal motif taxonomy. No comparison claims are made because
+    the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions several fables, but the provided passage text contains only "THE PLOUGHMAN AND THE WOLF."
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4634-l4646
+  passage_sha256=ab70abf78698025d6fdca91f97f6acacf08cd44cb8fa97eb3ef44a9c21bc1333
+

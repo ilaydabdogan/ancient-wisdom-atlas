@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1567-l1627
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXVII / XXXVIII / XXXIX / CHAPTER II; lines 1567-1627
+  start: '1567'
+  end: '1627'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents several didactic anecdotes: a dervish avoids legal
+    punishment for stealing a rug from a friend after an argument about alms property;
+    a holy man tells a king he thinks of him only when forgetting God; a dream reveals
+    a king in paradise and a holy man in hell because of their differing attachments;
+    and a barefoot pilgrim survives a desert journey while a wealthy camel-rider dies.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dervish steals a rug from a friend's hut because of a pressing need.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A judge orders the dervish's hand to be cut off, but later withdraws the punishment
+    after hearing an argument that property belonging to dervishes is for the necessitous.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rug owner intercedes for the dervish and says he has forgiven him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A holy man replies to a king that he thinks of the king only when forgetting
+    God Almighty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In a dream, a righteous person sees a king in paradise and a holy man in hell.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A voice from above explains that the king is in heaven because of affection
+    for the holy, while the holy man is in hell because of connection with kingship.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A naked pedestrian leaves Cufah with the caravan of pilgrims for Hijaz or
+    Mecca, lacking necessary travel provisions but cheerful.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A mounted gentleman warns the pedestrian to turn back or perish, but the pedestrian
+    continues into the desert on foot.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: At the palm plantation of Mahmud, the rich mounted man dies, while the pedestrian
+    survives and comments on the reversal.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dervish who stole the rug
+  description: A religious mendicant who steals a rug from a friend's hut under pressing
+    need.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: friend and rug owner
+  description: Owner of the stolen rug who forgives the dervish and intercedes for
+    him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: judge
+  description: Legal authority who orders the hand-cutting sentence, refuses at first
+    to relax the law, then withdraws the punishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: king asking the holy man
+  description: A king who asks a holy man whether he thinks of him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: holy man addressed by the king
+  description: A holy man who says he thinks of the king only when forgetting God
+    Almighty.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: righteous dreamer
+  description: One of the righteous who sees a king in paradise and a holy man in
+    hell during a dream.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: king in paradise
+  description: A king seen in paradise in the dream, explained as exalted because
+    of affection for the holy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: parsa in hell
+  description: A holy man seen in hell in the dream, explained as degraded because
+    of connection with kingly power.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: voice from above
+  description: A voice that answers the dreamer's question about the king and the
+    holy man.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: naked pedestrian dervish
+  description: A destitute pedestrian traveling from Cufah with pilgrims toward Hijaz
+    or Mecca, cheerful despite lacking supplies.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:11
+  name_or_label: mounted gentleman or rich man
+  description: A man mounted on a camel who warns the pedestrian to return and later
+    dies at the palm plantation of Mahmud.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: accused mendicant and needy thief
+  assigned_to:
+  - fig:1
+  basis: He is a dervish who steals a rug because of pressing need and faces legal
+    punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: forgiving owner and intercessor
+  assigned_to:
+  - fig:2
+  basis: He owns the rug, forgives the theft, and pleads for the dervish.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: legal judge
+  assigned_to:
+  - fig:3
+  basis: He pronounces and then withdraws the hand-cutting sentence.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: royal questioner
+  assigned_to:
+  - fig:4
+  basis: He asks whether the holy man thinks of him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: God-centered holy man
+  assigned_to:
+  - fig:5
+  basis: He ranks remembrance of God above thinking of the king.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: dream witness
+  assigned_to:
+  - fig:6
+  basis: He sees and questions the afterlife reversal in a dream.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: exalted ruler in paradise
+  assigned_to:
+  - fig:7
+  basis: The dream places this king in paradise and explains the cause as affection
+    for the holy.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: degraded holy man in hell
+  assigned_to:
+  - fig:8
+  basis: The dream places this parsa in hell because of connection with kingly power.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: explanatory heavenly voice
+  assigned_to:
+  - fig:9
+  basis: The voice from above answers the dreamer's question about the afterlife placements.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: destitute survivor-pilgrim
+  assigned_to:
+  - fig:10
+  basis: He travels on foot without provisions, ignores the warning, and survives
+    the journey episode.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:11
+  label: wealthy mounted man who dies
+  assigned_to:
+  - fig:11
+  basis: He rides a camel, warns the pedestrian, and dies before the destitute traveler
+    does.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: stolen rug
+  literal_form: rug from the hut of a friend
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hand-cutting sentence
+  literal_form: cutting off the thief's hand
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: divine gate and door
+  literal_form: God's gate and another door
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: paradise and hell
+  literal_form: king in paradise and holy man in hell
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: pilgrimage desert road
+  literal_form: journey from Cufah with the caravan of pilgrims toward Hijaz or Mecca
+    and entry into the desert
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: camel versus bare feet
+  literal_form: mounted camel travel contrasted with walking naked and on foot
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dervish theft and legal reprieve
+  summary: A dervish steals a friend's rug, the judge orders his hand cut off, the
+    owner forgives him, and a legal-religious argument about alms property causes
+    the judge to withdraw the punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Holy man answers the king
+  summary: A king asks a holy man whether he thinks of him, and the holy man answers
+    that he does so only when forgetting God.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dream of reversed afterlife status
+  summary: A righteous dreamer sees a king in paradise and a holy man in hell, and
+    a voice explains the placements by their attachments to holiness or kingship.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Barefoot pilgrim survives while mounted rich man dies
+  summary: A destitute pedestrian joins the pilgrimage caravan, ignores a mounted
+    man's warning, enters the desert, and later survives while the mounted rich man
+    dies.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom through legal paradox and mercy
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish episode turns on a didactic legal distinction about alms property
+    that averts the literal punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an ethical anecdote rather than a mythic narrative; the
+    motif label is functional and didactic.
+- id: motif:2
+  label: exclusive divine orientation over royal attention
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man tells the king that thinking of him occurs only when he forgets
+    God, followed by sayings about God's gate and other doors.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No separate divine appearance occurs in this anecdote; the divine reference
+    is in speech.
+- id: motif:3
+  label: afterlife reversal of social and religious expectation
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: A dream shows a king in paradise and a holy man in hell, with a voice explaining
+    the judgment by their attachments rather than their outward status.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the scene as a dream and moral exemplum, not as a systematic
+    afterlife map.
+- id: motif:4
+  label: destitute traveler survives while the well-equipped traveler dies
+  taxonomy_refs:
+  - wisdom
+  basis: The barefoot pilgrim endures the desert journey while the camel-mounted rich
+    man dies, producing a moral reversal about hardship and fate.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The journey is literal pilgrimage travel; broader journey-motif classification
+    should be reviewed before linking to mythic departure or quest motifs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1567-1570
+  quote_or_summary: A dervish with a pressing need steals a rug from a friend's hut.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1570-1585
+  quote_or_summary: The judge orders the dervish's hand cut off; the rug owner forgives
+    him; an argument that dervish property is devoted to the needy leads the judge
+    to withdraw punishment and reprimand him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: XIV; lines 1586-1594
+  quote_or_summary: A king asks a holy man whether he thinks of him; the holy man
+    answers that he does so only when forgetting God, followed by sayings about being
+    driven from or directed to God's gate.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: XV; lines 1595-1608
+  quote_or_summary: A righteous person dreams of a king in paradise and a holy man
+    in hell; a voice from above explains the king's exaltation by affection for the
+    holy and the parsa's degradation by connection with kingship.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: XVI; lines 1609-1619
+  quote_or_summary: A naked pedestrian leaves Cufah with the pilgrim caravan for Hijaz
+    or Mecca, lacking journey necessities but speaking cheerfully of freedom from
+    worldly burdens.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: XVI; lines 1620-1623
+  quote_or_summary: A camel-mounted gentleman warns the dervish to return or perish;
+    the dervish ignores him and enters the desert on foot.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: XVI; lines 1623-1627
+  quote_or_summary: At the palm plantation of Mahmud the rich man dies, while the
+    dervish notes that he did not perish on foot though the other expired on a camel's
+    back; additional lines generalize that strong travelers may die while weaker ones
+    reach the end.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based entirely on the supplied passage. Motif candidates
+    are conservative didactic classifications; no external comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were directly applicable to the literal objects in this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1567-l1627
+  passage_sha256=ddf7f0b8135ecc5f070db3ae6eae72c65d6928ac336d528552342a8613c68866
+

@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l28971-l29072
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: SUPERSTITIOUS  ABSTINENCE  FROM  CERTAIN  KINDS / OF  FOOD. / ABSTINENCE  FROM  FOOD.
+    / IZINGANEKYVANE.; lines 28971-29072
+  start: '28971'
+  end: '29072'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied range presents a section on abstinence from certain foods.
+    In the translated English portions, young people are said to avoid the lower lip
+    of a bullock, the smooth paunch portion called umtala, and cow flesh before evisceration,
+    because eating these foods is feared to produce bodily effects in children or
+    in war wounds.
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed by headings concerning abstinence from certain kinds
+    of food.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The under or lower lip of a bullock is identified as a food that a young person
+    must not eat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eating the bullock's lower lip is said to produce an evil resemblance in a
+    child, specifically a continually trembling mouth or lip.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A reported saying attributes a child's trembling mouth to the father having
+    eaten the lower lip of a bullock.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The paunch portion called umtala is described as lacking villi or pile and
+    being smooth and hard.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Young people abstain from umtala because it is said that their children would
+    be born without hair and with bare heads.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The flesh of a cow is not eaten by young people until the cow has been eviscerated.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The stated fear connected with eating cow flesh before evisceration is that
+    wounds received in war will close and not bleed externally.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young people
+  description: Persons instructed to abstain from specified cattle foods.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: children of young people
+  description: Children whose mouth or hair is said to be affected if prohibited foods
+    are eaten by young people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: father who ate the lower lip of a bullock
+  description: A father named in the reported saying as the cause of a child's trembling
+    mouth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: food abstainers
+  assigned_to:
+  - fig:1
+  basis: Young people are repeatedly described as not eating specified parts or flesh.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: affected offspring
+  assigned_to:
+  - fig:2
+  basis: The passage says children may show trembling mouths or hairless heads as
+    a result of the food eaten by young people.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: blamed parent in reported explanation
+  assigned_to:
+  - fig:3
+  basis: The reported saying blames the father who ate the bullock's lower lip for
+    the child's trembling mouth.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: potential bearer of war-wound consequence
+  assigned_to:
+  - fig:1
+  basis: Young people avoid cow flesh before evisceration because they fear a consequence
+    for wounds received in war.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bullock lower lip
+  literal_form: under or lower lip of a bullock
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: umtala paunch portion
+  literal_form: smooth and hard portion of the paunch of a bullock called umtala
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cow flesh before evisceration
+  literal_form: flesh of a cow before it is eviscerated
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: closed war wounds
+  literal_form: wounds received in war closing and not bleeding externally
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Abstinence from the bullock's lower lip
+  summary: Young people are told not to eat the lower lip of a bullock because the
+    child's mouth is feared to tremble like the bullock's lower lip; a saying blames
+    the father if this occurs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Abstinence from umtala
+  summary: Young people avoid the smooth, hairless paunch portion called umtala because
+    their children are said to risk being born without hair and with bare heads.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Abstinence from cow flesh before evisceration
+  summary: Young people do not eat cow flesh until evisceration, fearing that wounds
+    received in war will close and fail to bleed externally.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Food abstinence enforced by feared bodily resemblance
+  taxonomy_refs: []
+  basis: The bullock's moving lower lip is linked to a child's trembling mouth, and
+    the smooth hairless umtala is linked to children born without hair.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: Pattern label only; no supplied taxonomy reference directly matches this
+    food-abstinence pattern.
+- id: motif:2
+  label: Parental food taboo causing harm to offspring
+  taxonomy_refs: []
+  basis: The passage says foods eaten by young people, and specifically by a father
+    in one reported saying, can affect the bodies of their children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify pregnancy timing; it frames the restriction
+    broadly around young people and offspring.
+- id: motif:3
+  label: Food preparation taboo linked to war wounds
+  taxonomy_refs: []
+  basis: Cow flesh is avoided before evisceration because of fear that wounds received
+    in war will close and not bleed externally.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied excerpt ends mid-sentence after 'but,' so any further consequence
+    beyond the stated closure and lack of external bleeding is not available here.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, the bullock-lip and umtala abstinences share the same
+    function: a forbidden animal part is avoided because its visible quality is expected
+    to appear as a bodily trait in a child.'
+  claim_level: same_function
+  target: within-passage food abstinence examples affecting offspring
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal functional comparison only; it does not claim historical
+    contact, common inheritance, or an external motif ID.
+- id: claim:2
+  claim: The cow-flesh-before-evisceration rule resembles the other examples at the
+    level of function because eating a food in a particular condition is linked to
+    a feared bodily consequence, though the affected body is a war-wounded person
+    rather than a child.
+  claim_level: same_function
+  target: within-passage pattern of food abstinence linked to bodily consequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based only on the supplied translated portions and
+    remains a broad functional comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 28971-29072, headings
+  quote_or_summary: '"SUPERSTITIOUS ABSTINENCE FROM CERTAIN KINDS / OF FOOD. / ABSTINENCE
+    FROM FOOD."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 28971-29072, English translation on bullock lower lip
+  quote_or_summary: 'The English translation says that the under lip of a bullock
+    is not eaten by a young person because it will produce an evil resemblance in
+    the child: the child''s lip or mouth will tremble as the bullock''s lower lip
+    moves.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 28971-29072, reported saying on trembling mouth
+  quote_or_summary: When a child of a young person is seen with its mouth trembling,
+    the passage reports the saying that it was injured by its father, who ate the
+    lower lip of a bullock.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 28971-29072, English translation on umtala
+  quote_or_summary: The paunch portion called umtala is described as having no villi
+    or pile, being smooth and hard; if eaten by young people, their children are said
+    to be born without hair, with heads bare like a man's knee.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 28971-29072, English translation on cow flesh before evisceration
+  quote_or_summary: The English translation says that young people do not eat cow
+    flesh until it is eviscerated, fearing that wounds received in war will close
+    and not bleed externally; the supplied range ends after an unfinished 'but,'.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is strong for the English-translated portions. The supplied range
+    also contains Zulu text with apparent goat-related abstinence material, but this
+    was not developed into motifs because the corresponding English translation is
+    absent or interrupted in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the supplied taxonomy list does not include a direct food-taboo or sympathetic-resemblance motif family.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l28971-l29072
+  passage_sha256=e3a8e4db55c933d65db90006ee1e59de7d7af2cf4af263b25334c5763ca7defe
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4399-l4414
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XCIX. / APPENDIX. / PAGE 4. / PAGE 7.; lines 4399-4414
+  start: '4399'
+  end: '4414'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: Wilt _thou_ be a teacher of mercy to _God_?
+  summary: A quatrain addresses a burning figure associated with Hell's fires, asks
+    how long the figure will plead to God for mercy, and challenges the presumption
+    of teaching mercy to God. A note identifies the p. 7 quatrain as FitzGerald's
+    rendering of C. I. and gives reference sigla.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The poetic speaker addresses a figure called “Thou” or “burnt one.”
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The addressed figure is described as burning in heart for those who burn in
+    Hell and as destined in turn to burn.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage refers to fires of Hell, including fires that the addressed figure
+    will feed or from which Hell's fires shall blaze.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The addressed figure is represented as repeatedly asking God for mercy, either
+    for “them” or for Omar in the alternate rendering.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: The speaker challenges whether the addressed figure can be a teacher of mercy
+    to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:6
+  text: The prose note states that the quatrain on p. 7 is FitzGerald's rendering
+    of C. I. and lists additional reference sigla.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Addressed “Thou” / burnt one
+  description: A figure addressed by the speaker, described as burning, destined to
+    burn, associated with Hell's fires, and praying for mercy.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: The divine figure to whom mercy is requested and whom the addressee
+    is rhetorically challenged as trying to teach mercy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Those who burn in Hell
+  description: An unnamed group for whom the addressed figure burns in heart and asks
+    mercy in FitzGerald's rendering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Omar
+  description: Named in the alternate rendering as the person for whom the addressed
+    figure says, “Have mercy upon Omar.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Poetic speaker
+  description: The unidentified voice that questions and rebukes the addressed figure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: Questioning or rebuking speaker
+  assigned_to:
+  - fig:5
+  basis: The voice asks how long the addressee will cry for mercy and questions the
+    addressee's authority to teach God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Burning addressee
+  assigned_to:
+  - fig:1
+  basis: The addressee is called one who burns, a burnt one, and one destined to burn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Mercy petitioner
+  assigned_to:
+  - fig:1
+  basis: The addressee is depicted as crying or saying a request for God's mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: God invoked for mercy
+  assigned_to:
+  - fig:2
+  basis: The plea is directed to God, and the rhetorical question contrasts the addressee
+    with God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Object of mercy plea
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: FitzGerald's rendering asks mercy on “them,” while the alternate rendering
+    asks mercy upon Omar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Hellfire
+  literal_form: Fires of Hell; burning; destined to burn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Hell
+  literal_form: Hell as the place or state in which figures burn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Mercy plea
+  literal_form: Spoken request for God to have mercy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mercy plea and rebuke before God
+  summary: A speaker addresses a burning figure associated with Hell's fires, describes
+    that figure as pleading to God for mercy on others or on Omar, and challenges
+    the figure's presumption in teaching mercy to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Textual rendering note
+  summary: The prose note identifies the p. 7 quatrain as FitzGerald's rendering of
+    C. I. and supplies reference sigla.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Appeal for divine mercy for those associated with Hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links Hell, burning, God, and a repeated plea for mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage invokes Hell and mercy but does not narrate a formal judgment
+    scene.
+- id: motif:2
+  label: Intercessor rebuked for presuming to teach divine mercy
+  taxonomy_refs: []
+  basis: The speaker asks whether the addressee can be a teacher of mercy to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The motif is stated as a rhetorical challenge within a short quatrain,
+    without a broader narrative frame.
+- id: motif:3
+  label: Reciprocal or destined burning
+  taxonomy_refs: []
+  basis: The addressee burns for those who burn and is said to be destined in turn
+    to burn or to be the source of Hell's fires.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is primarily an image-pattern in the quatrain rather than a developed
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The p. 7 FitzGerald stanza and the C. I. rendering present the same core
+    pattern of Hell's fires, a plea for God's mercy, and a rebuke about teaching mercy
+    to God.
+  claim_level: same_motif
+  target: C. I. version of the quatrain identified in the passage note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the passage's translation and reference
+    apparatus; it does not establish broader historical transmission or cross-tradition
+    contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4399-4404
+  quote_or_summary: FitzGerald's stanza addresses one who burns in heart for those
+    in Hell, says Hell's fires will feed on the addressee, reports a cry for God's
+    mercy on them, and asks who the addressee is to teach God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4408-4411
+  quote_or_summary: The alternate rendering addresses a burnt one destined to burn,
+    says the fires of Hell shall blaze from that figure, reports the plea “Have mercy
+    upon Omar,” and asks whether that figure will be a teacher of mercy to God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary with short quoted phrase.
+- id: ev:3
+  type: summary
+  locator: lines 4406, 4413-4414
+  quote_or_summary: The note says the quatrain on p. 7 is FitzGerald's rendering of
+    C. I. and lists references including C. 1, L. 769, B. 755, S.P. 453, and others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short quatrain plus editorial note rather than a narrative myth
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4399-l4414
+  passage_sha256=97cafb48b38a450c7503dc855bd8cbe9cc24409abd7f5c26d0c6fdc6c0df2a78
+

@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l9868-l9909
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: NERGAL  AND  ERESHKIGAL  133 / THE  LEGEND  OF  SARGON  135 / IX.  THE  LEGEND  OF  SARGON,  KING
+    / THE  LEGEND  OF  SARGON  137; lines 9868-9909
+  start: '9868'
+  end: '9909'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragment from the Legend of Sargon reports a first-person royal speaker
+    going up to great Dur-ilu and then addresses whatever king will be exalted after
+    him. The future king is told to rule the black-headed peoples, destroy mighty
+    mountains with bronze axes, climb upper mountains, break through lower mountains,
+    besiege the Sea country three times, and go up to Dur-ilu. Notes identify Dur-ilu
+    as an eastern Babylonian city whose name means “Wall of God,” and Dilmun as an
+    island in the Persian Gulf.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker says he went up to great Dur-ilu; the following action
+    is fragmentary but includes an alteration.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage addresses a king who will be exalted after the speaker.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The future king is instructed to rule and govern the black-headed peoples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The future king is instructed to destroy mighty mountains with bronze axes,
+    climb the upper mountains, and burst through the lower mountains.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The future king is instructed to besiege the country of the Sea three times;
+    Dilmun appears in the following fragmentary line.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The future king is instructed to go up to great Dur-ilu; a fragmentary line
+    also mentions the speaker’s city of Akkad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A source note identifies Dur-ilu as a city in eastern Babylonia and explains
+    the name as meaning “Wall of God.”
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A source note identifies Dilmun as an island in the Persian Gulf.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person royal speaker
+  description: The speaker says he went up to Dur-ilu and refers to “my city of Akkad”
+    in a fragmentary line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: future exalted king
+  description: The king who will be exalted after the speaker and is instructed to
+    rule, govern, destroy mountains, besiege the Sea country, and go up to Dur-ilu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: black-headed peoples
+  description: The peoples whom the future king is told to rule and govern.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal predecessor and speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to a later king “after me” and to “my city of Akkad.”
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: successor ruler and conqueror
+  assigned_to:
+  - fig:2
+  basis: The future king is told to rule peoples and undertake mountain and Sea-country
+    campaigns.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ruled peoples
+  assigned_to:
+  - fig:3
+  basis: The future king is told to rule and govern the black-headed peoples.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: mighty mountains, upper mountains, lower mountains
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: bronze axes
+  literal_form: axes of bronze used against mighty mountains
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sea country
+  literal_form: the country of the Sea to be besieged three times
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Dur-ilu
+  literal_form: great Dur-ilu, identified in a note as a city in eastern Babylonia
+    whose name means “Wall of God”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Dilmun
+  literal_form: Dilmun, identified in a note as an island in the Persian Gulf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Akkad
+  literal_form: the speaker’s city of Akkad, mentioned in a fragmentary line
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Speaker’s ascent to Dur-ilu
+  summary: The first-person speaker says he went up to great Dur-ilu; the line after
+    this is fragmentary and includes an altered or changed action.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhortation to the future king
+  summary: A future king after the speaker is directed to rule the black-headed peoples
+    and carry out campaigns against mountains, the Sea country, Dilmun, and Dur-ilu.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fragmentary reference to Akkad
+  summary: A broken line mentions something from the speaker’s city of Akkad.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal succession and legitimating exhortation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage addresses a king exalted after the speaker and commands him to
+    rule the peoples and repeat or continue expansive royal actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The fragment does not provide a full coronation or genealogy; the motif
+    is inferred from the succession address and royal commands only.
+- id: motif:2
+  label: royal ascent and mountain traversal
+  taxonomy_refs:
+  - ascent
+  basis: 'The passage repeatedly uses upward movement: the speaker went up to Dur-ilu,
+    the future king is to climb upper mountains, and he is to go up to Dur-ilu.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The ascent appears as royal itinerary or conquest language, not necessarily
+    a visionary or otherworldly ascent.
+- id: motif:3
+  label: king as conqueror of mountains and border lands
+  taxonomy_refs: []
+  basis: The future king is instructed to destroy mountains, pass through upper and
+    lower mountains, besiege the Sea country three times, and proceed toward Dur-ilu
+    and Dilmun.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this conquest-pattern
+    label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9868-9871, translation lines 20-22
+  quote_or_summary: The speaker says he went up to great Dur-ilu; the next words are
+    fragmentary and include “I altered.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9872-9875, translation lines 23-24
+  quote_or_summary: "“Whatsoever king shall be exalted after me, / Let him rule, let
+    him govern the black headed peoples.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 9876-9882, translation lines 25-27
+  quote_or_summary: The future king is told to destroy mighty mountains with bronze
+    axes, climb upper mountains, and burst through lower mountains.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9883-9889, translation lines 28-31
+  quote_or_summary: The future king is told to besiege the Sea country three times;
+    Dilmun is mentioned fragmentarily; he is told to go up to great Dur-ilu, and a
+    broken line mentions the speaker’s city of Akkad.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: source notes following translation lines 30-31
+  quote_or_summary: The notes identify Dur-ilu as an eastern Babylonian city whose
+    name means “Wall of God,” and Dilmun as an island in the Persian Gulf.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and partly duplicated in transliteration. Extraction
+    relies on the English translation and source notes; interpretation of motif candidates
+    is limited by the broken context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim. The line range includes translation, notes, and Akkadian transliteration; evidence summaries cite the translation and notes.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l9868-l9909
+  passage_sha256=e8f3ee0459e61254d353fc2cd89cd5525366d2e2c36297133bbf3ef6a8cddc02
+

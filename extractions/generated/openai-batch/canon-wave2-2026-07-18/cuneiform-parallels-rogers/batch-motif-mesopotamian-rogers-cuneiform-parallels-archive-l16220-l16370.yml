@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l16220-l16370
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: EPONYM  LIST  WITH  NOTES  229 / EPONYM  LIST  WITH  NOTES  231 / EPONYM  LIST  WITH  NOTES  233
+    / EPONYM  LIST  WITH  NOTES  235; lines 16220-16370
+  start: '16220'
+  end: '16370'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The King took the hands of Bel.
+  summary: The passage gives year-by-year entries from an Assyrian eponym list and
+    chronicle. It records named officials or kings, military movements against cities
+    and lands, captures and fortification, a repeated royal act of taking the hands
+    of Bel, and the accession of Shulmanu-asharidu on the throne. Some later entries
+    are fragmentary.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is organized as year-numbered entries associating named eponyms,
+    offices, places, and brief event notes.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:2
+  text: In the entry for 743, Tukidti-apal-esharra/Tiglathpileser is called King of
+    Assyria, is placed in Arpadda, and a massacre is reported in Urartu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The entries for 742-740 record actions against Arpadda, including a note that
+    after three years it was conquered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The entries for 739-733 list actions against Ulluba, Media, the Nal mountains,
+    Urartu, Pilista, and Damascus, and also report a fortress established and Gullani
+    captured.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The entries for 732-731 report actions against Damascus and Sapiya.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The entries for 729 and 728 state that the King took the hands of Bel.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The entry for 727 states that Shulmanu-asharidu, identified as Shalmaneser,
+    took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The entries for 726-723 and 720-718 are fragmentary and include country or
+    campaign notices, including an action against Tabal.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tukidti-apal-esharra / Tukulti-apal-esharra / Tiglathpileser
+  description: Named in the 743 entry as King of Assyria, associated with Arpadda
+    and with a massacre in Urartu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nabu-daninani
+  description: Named in the 742 entry as commander-in-chief and associated with action
+    against Arpadda.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bel-kharran-bel-ugur / Bel-kharran-bel-ucur
+  description: Named in the 741 entry as major-domo in connection with Arpadda, and
+    in the 727 entry as of Guzanu.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Unnamed King
+  description: The king in the 729 and 728 entries who took the hands of Bel.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Bel
+  description: Named as the divine figure whose hands the King took in the 729 and
+    728 entries.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Shulmanu-asharidu / Shalmaneser
+  description: Named in the 727 entry; he took his seat on the throne.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Named eponym officials and governors in entries 740-723
+  description: The passage lists several officials or place-associated eponyms, including
+    Nabu-etiranni, Sin-tak-lak, Adad-bel-ukin, Bel-limuranni, Ninib-malik, Asshur-shallimani,
+    Bel-dan, Asshur-daninani, Nabu-bel-ugur, Nergal-uballit, Bel-ludari, Napkhar-ilu,
+    Dur-Asshur, Marduk-bel-ucur, Makhdie, and Asshur-khal.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: king or royal figure
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:6
+  basis: Tiglathpileser is called King of Assyria; an unnamed King takes Bel's hands;
+    Shalmaneser takes his seat on the throne.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: eponym or year-entry figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: The list associates named persons with specific years and event notices.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: military or administrative official
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: The entries identify offices such as commander-in-chief, major-domo, minister,
+    governor, and other administrative place associations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:4
+  label: royal hand-taking actor
+  assigned_to:
+  - fig:4
+  basis: The 729 and 728 entries state that the King took the hands of Bel.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: deity named in royal hand-taking
+  assigned_to:
+  - fig:5
+  basis: Bel is the figure whose hands the King takes; the transliteration marks Bel
+    with the divine determinative.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: enthroned ruler
+  assigned_to:
+  - fig:6
+  basis: The passage states that Shulmanu-asharidu took his seat on the throne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hands of Bel
+  literal_form: The hands of Bel taken by the King
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: throne
+  literal_form: The throne on which Shulmanu-asharidu took his seat
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Nal mountains
+  literal_form: The foot of the Nal mountains
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fortress
+  literal_form: A fortress established in the Ulluba entry
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Campaigns and conquests in the eponym entries
+  summary: The list records repeated movements against cities and lands, including
+    Arpadda, Ulluba, Gullani, Media, Urartu, Pilista, Damascus, Sapiya, and Tabal,
+    with notices of conquest, capture, massacre, and fortification.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: King takes the hands of Bel
+  summary: In two consecutive entries, the King is said to take the hands of Bel.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Shalmaneser takes the throne
+  summary: The 727 entry records that Shulmanu-asharidu, identified as Shalmaneser,
+    took his seat on the throne.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: annual campaign and conquest record
+  taxonomy_refs: []
+  basis: Many entries use the recurring pattern of a year, a named eponym or ruler,
+    and a military note against a city or land; several entries add conquest, capture,
+    massacre, or fortification.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a chronicle pattern rather than a mythic motif in the supplied
+    taxonomy.
+- id: motif:2
+  label: royal hand-taking with deity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The entries for 729 and 728 state that the King took the hands of Bel, a
+    royal action involving contact with a deity.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt reports the act but does not explain its ritual purpose or
+    theological meaning.
+- id: motif:3
+  label: enthronement of a ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The 727 entry states that Shulmanu-asharidu took his seat on the throne.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the enthronement act but gives no extended narrative
+    of legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16220-16370; entry 743
+  quote_or_summary: The 743 entry names Tukidti-apal-esharra/Tiglathpileser as King
+    of Assyria, places him in Arpadda, and reports a massacre in Urartu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 16220-16370; entries 742-740
+  quote_or_summary: The 742-740 entries name officials including Nabu-daninani, Bel-kharran-bel-ugur,
+    and Nabu-etiranni in actions against Arpadda; the 741 entry says that after three
+    years Arpadda was conquered.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 16220-16370; entries 739-733
+  quote_or_summary: Entries list actions against Ulluba, Media, the foot of the Nal
+    mountains, Urartu, Pilista, and Damascus; they also mention a fortress established
+    and Gullani captured.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 16220-16370; entries 729-728
+  quote_or_summary: "“The King took the hands of Bel.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 16220-16370; entry 727
+  quote_or_summary: "“Shulmanu-asharidu (Shalmaneser) took his seat on the throne.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 16220-16370; entries 732-731
+  quote_or_summary: The 732 entry names Nabu-bel-ugur of Sime against Damascus, and
+    the 731 entry names Nergal-uballit against Sapiya.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 16220-16370; entries 726-723 and 720-718
+  quote_or_summary: Later entries are partly broken; they include notices such as
+    “in the country,” actions against unspecified places, an entry for Shulmanu-asharidu
+    King of Assyria, and a fragmentary action against Tabal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: lines 16220-16370; full passage
+  quote_or_summary: The passage presents year-numbered eponym entries with names,
+    offices or places, and brief event notices in English translation followed by
+    Akkadian transliteration.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by fragmentary and OCR-corrupted portions of the transliteration.
+    Motif candidates are restricted to patterns directly visible in the passage; no
+    external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage gives chronicle entries rather than explicit comparative statements.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l16220-l16370
+  passage_sha256=85f3e4f97508de90839d91960bc8890b58dbb26c0410cac6a95ccc233ae32843
+

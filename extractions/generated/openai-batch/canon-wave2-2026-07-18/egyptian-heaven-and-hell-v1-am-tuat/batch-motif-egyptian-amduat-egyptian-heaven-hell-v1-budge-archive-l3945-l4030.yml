@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l3945-l4030
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE   BOOK  OF   AM-TUAT / AAAAAA      '  '  ' / I       I        I / A       1;
+    lines 3945-4030
+  start: '3945'
+  end: '4030'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists named beings and Nebt-ankh, then explains that the beings
+    in the picture are hidden travellers on the way of a holy country with hidden
+    secrets. They are guardians of the way for those entering the hidden place of
+    the Tuat, and they keep watch over Anpu as he tows them into the holy land. The
+    upper register includes a goddess wearing the crown of the North, a human-headed
+    serpent with human feet and legs, and three serpents moving side by side on their
+    bellies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names Sem-ankh, An-her, and Ut-met among beings on the left hand.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goddess Nebt-ankh is listed as one of the beings referred to by the text.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The beings in the picture are described as hidden travellers on the way of
+    a holy country whose secret things are hidden.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The beings are described as guardians of the way of the holy land for those
+    who enter the hidden place of the Tuat.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The beings keep ward over Anpu in his forms as he tows them along and enters
+    by them into the holy land.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the upper register there is a goddess wearing the crown of the North, apparently
+    a form of Neith according to the source description.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the upper register there is a serpent with a human head and two pairs of
+    human feet and legs.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the upper register there are three serpents moving side by side along the
+    ground upon their bellies.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sem-ankh
+  description: Named being listed among figures on the left hand.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: An-her
+  description: Named being listed among figures on the left hand.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ut-met
+  description: Named being listed among figures on the left hand.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Nebt-ankh
+  description: Goddess named in the passage.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: beings in the picture
+  description: Collective beings described as hidden travellers and guardians on the
+    way of the holy land.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Anpu
+  description: Figure kept under ward by the beings as he tows them along and enters
+    the holy land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: upper-register goddess with crown of the North
+  description: A goddess wearing the crown of the North, described by the source as
+    apparently a form of Neith.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: human-headed serpent with human legs
+  description: A serpent with a human head and two pairs of human feet and legs.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: three serpents
+  description: Three serpents moving side by side along the ground on their bellies.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hidden travellers
+  assigned_to:
+  - fig:5
+  basis: The text calls the beings hidden travellers on the way of the holy country.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: guardians of the way
+  assigned_to:
+  - fig:5
+  basis: The text says the beings are guardians of the way of the holy land.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: warders over Anpu
+  assigned_to:
+  - fig:5
+  basis: The text says the beings keep ward over Anpu in his forms.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: one who tows them along
+  assigned_to:
+  - fig:6
+  basis: The text says Anpu tows them along as he enters the holy land.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: way of the holy country
+  literal_form: way or route through the holy country or holy land
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hidden place of the Tuat
+  literal_form: hidden place in the Tuat
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: serpent form
+  literal_form: serpent, including a human-headed serpent and three crawling serpents
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: crown of the North
+  literal_form: crown of the North worn by a goddess
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hidden travellers and guardians on the way of the Tuat
+  summary: The pictured beings are described as hidden travellers on a holy way, guardians
+    for those entering the hidden place of the Tuat, and warders over Anpu as he tows
+    them into the holy land.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Upper-register goddess and serpents
+  summary: The upper register is described as containing a goddess with the crown
+    of the North, a human-headed serpent with human legs, and three serpents moving
+    side by side on their bellies.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: afterlife route with hidden travellers and guardians
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes beings travelling on the way of the holy country, guarding
+    the way for those entering the hidden place of the Tuat, with Anpu towing them
+    into the holy land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a description of an Am-Tuat register and does not narrate
+    a complete journey episode within this excerpt.
+- id: motif:2
+  label: underworld serpent figures
+  taxonomy_refs:
+  - serpent
+  basis: The upper register includes a human-headed serpent with human feet and legs
+    and three serpents moving along the ground.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The excerpt describes serpent figures but does not explain their function
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3945-4030, opening list
+  quote_or_summary: The passage lists beings on the left hand whose names include
+    Sem-ankh, An-her, and Ut-met.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 3945-4030, item 12
+  quote_or_summary: The passage identifies the goddess Nebt-ankh.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 3945-4030, translated text referring to the beings
+  quote_or_summary: The beings are called “hidden [travellers] upon the way of the
+    holy country” whose secret things are hidden.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 3945-4030, translated text referring to the beings
+  quote_or_summary: They are described as “guardians of the way” for those entering
+    the hidden place of the Tuat, keeping ward over Anpu as he tows them into the
+    holy land.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 3945-4030, upper register item 1
+  quote_or_summary: The upper register contains a goddess wearing the crown of the
+    North, apparently a form of Neith according to the source description.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 3945-4030, upper register item 2
+  quote_or_summary: The upper register contains a serpent with a human head and two
+    pairs of human feet and legs.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:7
+  type: quote
+  locator: lines 3945-4030, upper register items 3-5
+  quote_or_summary: The upper register contains “Three serpents” moving side by side
+    along the ground “upon their bellies.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the excerpted and partially garbled OCR/hieroglyphic
+    layout. Motif candidates are based only on the translated descriptive sentences
+    in the passage. No separate comparison claims were made because the excerpt itself
+    does not explicitly compare this material to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are restricted to the supplied passage and metadata.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l3945-l4030
+  passage_sha256=22f00c013b57e3cf9e820384419089094bacc1901a8798d29a93ae7c7feae7e8
+

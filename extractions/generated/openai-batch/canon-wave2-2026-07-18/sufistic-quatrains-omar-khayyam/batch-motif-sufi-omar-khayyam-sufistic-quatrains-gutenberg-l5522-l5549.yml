@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5522-l5549
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: TRANSLATED BY / E.H. WHINFIELD, M.A. / INTRODUCTION / E.H. WHINFIELD; lines
+    5522-5549
+  start: '5522'
+  end: '5549'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: The text has been framed from a comparison of the following authorities:--
+  summary: 'An editorial note by E.H. Whinfield states that the text was framed by
+    comparing seven authorities: named manuscripts, printed editions, and a fragmentary
+    edition, each with quatrain counts or manuscript details.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an editorial note rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the text was framed from a comparison of several authorities.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Seven authorities are listed: the Bodleian manuscript, a Calcutta Asiatic
+    Society manuscript, an India Office manuscript, a Calcutta edition, the Paris
+    edition of M. Nicolas, a Lucknow lithographed edition, and a fragment of an edition
+    begun by Mr. Blochmann.'
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: Several listed authorities include quatrain counts, ranging from 62 quatrains
+    in the fragmentary Blochmann edition to 763 quatrains in the Lucknow lithographed
+    edition.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: E.H. Whinfield
+  description: Named in the passage heading immediately before the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: M. Nicolas
+  description: Associated with the Paris edition containing 464 quatrains.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mr. Blochmann
+  description: Described as the late person who began an edition fragment containing
+    62 quatrains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named note-associated editor or translator
+  assigned_to:
+  - fig:1
+  basis: The heading names E.H. Whinfield directly before the note, and the metadata
+    identifies the translation as Whinfield's.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: edition-associated person
+  assigned_to:
+  - fig:2
+  basis: The passage names the Paris edition of M. Nicolas.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: edition initiator
+  assigned_to:
+  - fig:3
+  basis: The passage says a fragment belonged to an edition begun by the late Mr.
+    Blochmann.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial listing of textual authorities
+  summary: The note explains that the text was constructed by comparing seven manuscript
+    or edition authorities and lists them with identifying details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5522-5528
+  quote_or_summary: "“E.H. WHINFIELD”; “NOTE”; “The text has been framed from a comparison
+    of the following authorities:--”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 5530-5536
+  quote_or_summary: 'The first three authorities are manuscripts: Bodleian manuscript
+    No. 140 of the Ouseley Collection with 158 quatrains; Calcutta Asiatic Society
+    manuscript No. 1548 with 516 quatrains; and India Office manuscript No. 2420,
+    folios 212 to 267, with 512 quatrains.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: 5538-5541
+  quote_or_summary: The fourth authority is the Calcutta edition of 1252 A.H., with
+    438 quatrains and an appendix of 54 more said to have been found in a Bayaz, or
+    common-place book.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 5543-5545
+  quote_or_summary: The fifth authority is the Paris edition of M. Nicolas with 464
+    quatrains; the sixth is the Lucknow lithographed edition with 763 quatrains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: 5547-5549
+  quote_or_summary: The seventh authority is a fragment of an edition begun by the
+    late Mr. Blochmann, containing only 62 quatrains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an editorial source note with no mythic narrative, symbolic
+    episode, or comparative motif claim. Empty motif and comparison arrays reflect
+    absence of passage-level motif evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by this editorial passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l5522-l5549
+  passage_sha256=dc9c5af9f5b0535f77bd147f2d654a4b029e9799ba268b3c3c002962273ba8fe
+

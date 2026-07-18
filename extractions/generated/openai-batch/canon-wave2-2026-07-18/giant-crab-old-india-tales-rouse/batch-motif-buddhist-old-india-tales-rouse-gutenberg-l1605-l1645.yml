@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1605-l1645
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE FOOLISH FARMER AND THE KING / THE PIOUS WOLF / BIRDS OF A FEATHER / SPEND
+    A POUND TO WIN A PENNY; lines 1605-1645
+  start: '1605'
+  end: '1645'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"After all," said he to himself, "it was only one pea."'
+  summary: A monkey steals steamed peas from people preparing a meal for their horses.
+    When one pea falls, he neglects the peas in his mouth and hands while searching
+    for the lost pea, loses the rest, is driven off by the men, and ends with no dinner
+    except the smell of boiled peas. The narrator presents the loss as a lesson against
+    greed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: People steam peas under a tree to make a meal for their horses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A monkey sits in the branches of the tree and watches the people preparing
+    the peas.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The monkey thinks he has found his dinner.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the people turn away to look after the horses, the monkey descends, takes
+    peas into his mouth and hands, and climbs back to a perch.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One pea falls, and the monkey cries out in distress over that one pea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: While the monkey focuses on the one fallen pea, other peas fall from his mouth
+    and hands without his noticing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The monkey climbs down and searches on the ground for the lost pea, but cannot
+    find it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The men return, see the monkey by their cooking-pots, shout at him, and pelt
+    him with stones.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The monkey flees to the top of the tree.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The monkey later recognizes that the lost item was only one pea and that the
+    rest of the peas are gone too.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator says the monkey had only the smell of boiled peas for dinner
+    and hopes the loss teaches him not to be greedy.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: A monkey in the tree branches who watches, steals peas, loses them
+    while searching for one pea, and is chased back into the tree.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: People / men
+  description: People who steam peas for their horses, return to the cooking-pots,
+    shout at the monkey, and throw stones at him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Horses
+  description: Horses for whom the steamed peas are being prepared as a meal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: Pea-stealing monkey
+  assigned_to:
+  - fig:1
+  basis: The monkey descends when the people turn away and fills his mouth and hands
+    with their peas.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Greedy loser of food
+  assigned_to:
+  - fig:1
+  basis: The monkey concentrates on recovering one pea while the other peas fall away,
+    and the narrator frames the outcome as a lesson against greed.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Preparers of horse feed
+  assigned_to:
+  - fig:2
+  basis: The people steam peas under a tree to make a meal for their horses.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Chasers of the monkey
+  assigned_to:
+  - fig:2
+  basis: The men shout, pick up stones, and pelt the monkey when they find him meddling
+    with their cooking-pots.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Intended recipients of the meal
+  assigned_to:
+  - fig:3
+  basis: The peas are prepared as a meal for the horses, and the people turn away
+    to look after them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Tree
+  literal_form: tree with branches and trunk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Steamed peas
+  literal_form: boiled or steamed peas used as horse feed and stolen as food by the
+    monkey
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: One lost pea
+  literal_form: a single fallen pea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: Cooking-pots
+  literal_form: cooking-pots by which the men find the monkey meddling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Peas prepared under a tree
+  summary: People steam peas under a tree as a meal for horses while a monkey watches
+    from the branches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Monkey steals peas
+  summary: After the people turn away to look after the horses, the monkey climbs
+    down, fills his mouth and hands with peas, and returns to his perch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Loss of many peas while seeking one
+  summary: One pea falls; the monkey cries over it and searches for it, while the
+    other peas fall from his mouth and hands without his noticing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Men drive the monkey away
+  summary: The men return, find the monkey near their cooking-pots, shout, throw stones,
+    and frighten him back up the tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Recognition of loss and moral ending
+  summary: The monkey realizes that the lost item was only one pea but that all the
+    other peas are gone, and the narrator presents the event as a lesson against greed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Losing the greater gain while pursuing a small loss
+  taxonomy_refs:
+  - wisdom
+  basis: The title and narrative show the monkey losing all his peas because he focuses
+    on recovering one fallen pea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy has only a broad wisdom category; the specific
+    proverb-like pattern is not represented by a supplied taxonomy ID.
+- id: motif:2
+  label: Greed punished by loss
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey steals more peas than he can keep, loses them, is driven away,
+    and the narrator explicitly hopes the loss teaches him not to be greedy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a didactic animal-tale pattern rather than a specifically cosmological
+    or ritual motif.
+- id: motif:3
+  label: Animal trickster or thief exposed
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The monkey stealthily takes food when humans turn away, but the men return
+    and drive him off.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The monkey behaves cunningly and steals food, but the passage does not
+    develop a full trickster cycle or boundary-crossing myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the episode as the proverb-like pattern named in
+    the title, in which a larger possession is lost through fixation on a smaller
+    gain or recovery.
+  claim_level: same_function
+  target: proverbial pattern of losing much to gain or recover little
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a pattern named by the passage title,
+    not evidence of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1605-1610
+  quote_or_summary: The passage begins with people steaming peas under a tree for
+    their horses while a monkey watches from the branches.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 1611-1612
+  quote_or_summary: '"Aha!" thought the Monkey. "I spy my dinner!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; short quote from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1613-1620
+  quote_or_summary: When the people turn away to look after the horses, the monkey
+    climbs down, grabs peas, fills his mouth and hands, and climbs back to the perch.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1621-1628
+  quote_or_summary: One pea falls; the monkey cries over it, while other peas fall
+    from his mouth and hands without his noticing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1629-1631
+  quote_or_summary: The monkey climbs down and searches the ground for the lost pea
+    but cannot find it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 1632-1638
+  quote_or_summary: The men return, see the monkey meddling with their cooking-pots,
+    shout, throw stones, and frighten him back up the tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: quote
+  locator: lines 1639-1642
+  quote_or_summary: '"After all," said he to himself, "it was only one pea."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; short quote from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 1643-1645
+  quote_or_summary: The monkey has only the smell of boiled peas for dinner, and the
+    narrator hopes the loss teaches him not to be greedy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:9
+  type: quote
+  locator: line 1605
+  quote_or_summary: SPEND A POUND TO WIN A PENNY
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain; short title quote from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are based on the passage’s
+    explicit moral and title; taxonomy mapping is broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No historical-contact or inheritance claim is made.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1605-l1645
+  passage_sha256=b763c3e239476c5f37db16a473c03bf4a43a5c07666d424a7909b4b1f3922e6a
+

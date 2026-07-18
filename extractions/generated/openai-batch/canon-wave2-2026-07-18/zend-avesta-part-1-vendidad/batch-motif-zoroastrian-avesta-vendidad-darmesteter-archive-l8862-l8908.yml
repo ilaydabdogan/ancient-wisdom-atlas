@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l8862-l8908
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: VIII. / FARGARD    V.  63 / FARGARD    V.  65 / F    2; lines 8862-8908
+  start: '8862'
+  end: '8908'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of legal-purity questions asks what penalty applies when a man
+    throws bones of a dead dog or dead man on the ground and grease or marrow flows
+    from them. Ahura Mazda gives escalating stripe penalties according to the size
+    of the bone, ending with the offender called a Pesho-tanu in the largest case.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage repeatedly asks about a man throwing a bone of a dead dog or a
+    dead man onto the ground, with grease or marrow flowing from it onto the ground.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: obs:2
+  text: 'The bone sizes named in the questions increase across four cases: top joint
+    of the fore-finger, top joint of the middle finger, a finger or rib, and two fingers
+    or two ribs.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: obs:3
+  text: Ahura Mazda answers each question with a specified number of stripes using
+    the Aspahe-astra and the Sraosho-karana.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: obs:4
+  text: The penalties increase from fifty stripes with each instrument, to seventy,
+    to ninety, and finally to two hundred with each instrument.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: obs:5
+  text: In the final and largest bone-size case, the offender is called a Pesho-tanu.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The named divine speaker who answers the penalty questions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: hypothetical man
+  description: A man described as throwing bones of a dead dog or dead man onto the
+    ground.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: divine responder and penalty-giver
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers the repeated questions by stating the penalties.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: hypothetical offender
+  assigned_to:
+  - fig:2
+  basis: The questions describe a man committing the act for which a penalty is requested.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: corpse bone
+  literal_form: bone of a dead dog or dead man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: flowing grease or marrow
+  literal_form: grease or marrow flowing from the bone onto the ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: ground receiving corpse matter
+  literal_form: the ground on which the bone is thrown and onto which grease or marrow
+    flows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: punishment instruments
+  literal_form: Aspahe-astra and Sraosho-karana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: graded stripes
+  literal_form: fifty, seventy, ninety, and two hundred stripes with each named instrument
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: fore-finger-joint bone and fifty-stripe penalty
+  summary: A question describes a man throwing a small corpse bone onto the ground;
+    Ahura Mazda answers that the penalty is fifty stripes with each named instrument.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: middle-finger-joint bone and seventy-stripe penalty
+  summary: A question describes the same act with a larger bone; Ahura Mazda answers
+    that the penalty is seventy stripes with each named instrument.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: finger-or-rib bone and ninety-stripe penalty
+  summary: A question describes the act with a bone as large as a finger or rib; Ahura
+    Mazda answers that the penalty is ninety stripes with each named instrument.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: two-fingers-or-two-ribs bone and Pesho-tanu penalty
+  summary: A question describes the act with a bone as large as two fingers or two
+    ribs; Ahura Mazda answers that the offender is a Pesho-tanu and receives two hundred
+    stripes with each named instrument.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divinely stated graded penalty for mishandling corpse remains
+  taxonomy_refs:
+  - divine_judgment
+  basis: The named divine speaker, Ahura Mazda, declares penalties that increase according
+    to the size of the corpse bone thrown onto the ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is a legal-purity ruling rather than a narrative judgment
+    scene; the taxonomy reference is applied only to the divine pronouncement of penalties.
+- id: motif:2
+  label: pollution concern around corpse matter touching the ground
+  taxonomy_refs: []
+  basis: Each question turns on a corpse bone being thrown onto the ground and grease
+    or marrow flowing from it onto the ground, followed by a penalty question.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage states the action and penalty but does not explicitly explain
+    the theory of pollution within this excerpt.
+- id: motif:3
+  label: escalating punishment by measured body-part scale
+  taxonomy_refs: []
+  basis: The bone is measured by finger and rib sizes, and the corresponding stripe
+    penalties rise in sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a legal pattern within the passage, not necessarily a broader
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§12 (20), lines 8862-8871"
+  quote_or_summary: A question asks the penalty if a man throws onto the ground a
+    bone of a dead dog or dead man as large as the top joint of the fore-finger, and
+    grease or marrow flows from it onto the ground.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§13 (24), lines 8872-8875"
+  quote_or_summary: Ahura Mazda answers that the penalty is fifty stripes with the
+    Aspahe-astra and fifty with the Sraosho-karana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§14 (25), lines 8876-8885"
+  quote_or_summary: A question asks the penalty for the same act when the bone is
+    as large as the top joint of the middle finger.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§15 (29), lines 8886-8889"
+  quote_or_summary: Ahura Mazda answers that the penalty is seventy stripes with the
+    Aspahe-astra and seventy with the Sraosho-karana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "§16 (30), lines 8890-8899"
+  quote_or_summary: A question asks the penalty for the same act when the bone is
+    as large as a finger or as a rib.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "§17 (34), lines 8900-8903"
+  quote_or_summary: Ahura Mazda answers that the penalty is ninety stripes with the
+    Aspahe-astra and ninety with the Sraosho-karana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§18 (35), lines 8904-8907"
+  quote_or_summary: A question asks the penalty for the same act when the bone is
+    as large as two fingers or as two ribs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "§19 (39), line 8908 and following within supplied excerpt"
+  quote_or_summary: Ahura Mazda answers that the offender is a Pesho-tanu and receives
+    two hundred stripes with the Aspahe-astra and two hundred with the Sraosho-karana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the repeated question-answer structure.
+    Motif classification is more tentative because the passage is a legal-purity ruling
+    rather than a myth narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external comparison was added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l8862-l8908
+  passage_sha256=d64100340f599d98f615861e0ccb6240f2f4ec54808f547830fbe2b1569d2b8a
+

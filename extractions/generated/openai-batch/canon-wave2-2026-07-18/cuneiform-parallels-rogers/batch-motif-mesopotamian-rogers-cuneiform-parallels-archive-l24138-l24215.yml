@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l24138-l24215
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: CYLINDER  OF  CYRUS  383 / LEGAL  TEXTS / I.  A   KUDURRU,  OR  BOUNDARY  STONE
+    / II   USH,  X  GAR; lines 24138-24215
+  start: '24138'
+  end: '24215'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"Ninib and Nusku establish the boundary"'
+  summary: A legal passage identifies a kudurru or boundary stone, gives its name,
+    lists field measurements and adjoining boundaries including the Tigris, and begins
+    a divine invocation to Ellil as exalted lord and ruler of heaven and earth.
+  language: English with transliterated cuneiform terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the object as a kudurru, or boundary stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boundary stone is named with the phrase that Ninib and Nusku establish
+    the boundary.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage records a seedfield with numerical measures and conversions involving
+    gur, ka, gan, and a large cubit.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The River Tigris is listed in relation to the property boundary.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listed boundaries include west, south, north, and east sides with adjoining
+    features or properties.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Column I begins with Ellil described as exalted lord, ruler of heaven and
+    earth, prince, lord of all, and king of the great gods.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ninib
+  description: A divine name included in the boundary stone's name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Nusku
+  description: A divine name included in the boundary stone's name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ellil
+  description: Named at the start of Column I and described with exalted divine titles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: lord of countries
+  description: A titled figure or property holder whose property adjoins the northern
+    boundary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine boundary establisher
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The stone's name states that Ninib and Nusku establish the boundary.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: exalted divine ruler
+  assigned_to:
+  - fig:3
+  basis: Ellil is called exalted lord, ruler of heaven and earth, prince, lord of
+    all, and king of the great gods.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: adjoining property holder
+  assigned_to:
+  - fig:4
+  basis: The northern boundary is described as adjoining the property of the lord
+    of countries.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: boundary stone
+  literal_form: kudurru, or boundary stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: established boundary
+  literal_form: boundary named as established by Ninib and Nusku
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Tigris river boundary
+  literal_form: River Tigris / bank of the Tigris
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: measured seedfield
+  literal_form: seedfield measured with gur, ka, gan, ush, gar, and cubit units
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Naming of the boundary stone
+  summary: The passage identifies a kudurru and gives its name as a statement that
+    Ninib and Nusku establish the boundary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Survey of field boundaries
+  summary: The passage lists the field's measurements and adjoining boundaries, including
+    the Tigris, the bank of the Tigris, the property of the lord of countries, and
+    Bit-Sufcur-Gal-du.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Opening divine invocation
+  summary: Column I opens by naming Ellil and assigning him exalted titles over heaven,
+    earth, and the great gods.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divinely established boundary
+  taxonomy_refs: []
+  basis: The boundary stone's name explicitly attributes the establishment of the
+    boundary to Ninib and Nusku.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is legal and formulaic; it names the stone rather than narrating
+    a mythic episode.
+- id: motif:2
+  label: sacralized land measurement and boundary record
+  taxonomy_refs: []
+  basis: The passage combines a legal land survey with divine names and titles on
+    a boundary stone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a documentary/legal pattern rather than a developed mythological
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 24138-24143
+  quote_or_summary: 'The section is headed as a legal text: "A KUDURRU, OR BOUNDARY
+    STONE."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:2
+  type: quote
+  locator: 24143-24145
+  quote_or_summary: 'The stone is named: "Ninib and Nusku establish the boundary."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:3
+  type: summary
+  locator: 24147-24149
+  quote_or_summary: The text gives a seedfield quantity and reckoning with units including
+    gur, ka, gan, and a large cubit.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 24151-24163
+  quote_or_summary: The River Tigris is named; the west, south, and lower-width boundary
+    descriptions include the Tigris and its bank.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 24165-24175
+  quote_or_summary: The northern upper width adjoins the property of the lord of countries,
+    and the eastern lower length adjoins Bit-Sufcur-Gal-du.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 24177-24183
+  quote_or_summary: Column I begins with Ellil and describes him as exalted lord,
+    ruler of heaven and earth, prince, lord of all, and king of the great gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a legal boundary-stone text with limited narrative content.
+    Extraction is strongest for literal objects, figures, titles, and boundary relationships;
+    motif identification remains cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim beyond the local legal-boundary pattern.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l24138-l24215
+  passage_sha256=f490316df654f8afdba7eb355f2e013ccd7b64cf72237deb256896ca19b06d46
+

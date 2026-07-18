@@ -1,0 +1,143 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l2507-l2690
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I    I    I / Q.  I / THE    BOOK   OF   AM-TUAT / I  I  I; lines 2507-2690
+  start: '2507'
+  end: '2690'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: THE    SECOND    DIVISION — URNES
+  summary: The excerpt is largely OCR-rendered sign or plate material with page headers
+    for The Book of Am-Tuat and the Second Division, Urnes. A brief note refers to
+    the sarcophagus of Nectauebus. No continuous translated narrative action is present
+    in the supplied passage.
+  language: English with OCR-rendered signs and fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage includes a page or section heading identifying the text as The
+    Book of Am-Tuat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes a heading for the Second Division, named Urnes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contains a brief statement referring to a sarcophagus of Nectauebus.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Most of the supplied lines consist of OCR-rendered signs, fragments, or plate-like
+    material rather than continuous translated prose.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nectauebus
+  description: A named individual mentioned only in connection with a sarcophagus;
+    no speech or action is given in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named figure associated with a sarcophagus
+  assigned_to:
+  - fig:1
+  basis: The passage states that there is a sarcophagus of Nectauebus, but provides
+    no further narrative role in the supplied excerpt.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sarcophagus
+  literal_form: the sarcophagus of Nectauebus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Header and plate fragment for the Second Division, Urnes
+  summary: The excerpt presents headings for The Book of Am-Tuat and the Second Division,
+    Urnes, together with OCR-rendered sign material and a reference to Nectauebus's
+    sarcophagus; no continuous narrative scene is preserved in the supplied text.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: afterlife text divided into named regions
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The headings identify The Book of Am-Tuat and a named Second Division, Urnes,
+    suggesting a structured afterlife itinerary or mapped division in the surrounding
+    work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The supplied passage lacks continuous translated narrative; the motif
+    assignment rests only on headings and the known source title supplied in metadata.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2507-2690
+  quote_or_summary: '"THE    BOOK   OF   AM-TUAT"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 2507-2690
+  quote_or_summary: '"THE    SECOND    DIVISION — URNES"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 2507-2690
+  quote_or_summary: '"The    sarcophagus    of    Nectauebus    gives"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 2507-2690
+  quote_or_summary: The majority of the passage consists of OCR-rendered signs, fragments,
+    page numbers, and plate-like material rather than a continuous translated narrative.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by OCR noise and absence of continuous translated
+    prose. The only motif candidate is based on section headings and should be checked
+    against the surrounding canonical text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide enough narrative or cross-traditional evidence.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l2507-l2690
+  passage_sha256=7d25acf34fa65cfe89b8f7cdc4479dcd41d6203e1f6b5152e57c1756553549a8
+

@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: canon-wave2-2026-07-18
 created_at: '2026-07-18T08:50:25Z'
-updated_at: '2026-07-18T17:00:41Z'
+updated_at: '2026-07-18T18:23:13Z'
 endpoint: "/v1/responses"
 model: gpt-5.5
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -63,7 +63,14 @@ shards:
   sha256: edcb2dfff44f9c173d5eec1ab6ce4fde924f503ac05ee983f672d06231720f43
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/canon-wave2-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: fa89a8336b40bdb15a510ba218639a09d0de00f71c42d5caa326a69a3ab6bf22
+  errors_path: data/batches/canon-wave2-2026-07-18/results/shard-0004.errors.jsonl
+  errors_sha256: 6f854dd009d064f975077d5d8d7bffea62d254b5399dfa873e1e596625623787
+  runtime: realtime
+  error_count: 12
+  last_checked_at: '2026-07-18T18:01:44Z'
 - shard_id: shard-0005
   path: data/batches/canon-wave2-2026-07-18/requests/shard-0005.jsonl
   request_count: 651
@@ -71,5 +78,12 @@ shards:
   sha256: e3c19be91e6b3a10347b5046e8b0a696190dc09aefe07336983ee41f80b5a914
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/canon-wave2-2026-07-18/results/shard-0005.output.jsonl
+  output_sha256: f2d7b2626fce3ba909843cf0b8aace91c93969d380e406b9b07022a38798124c
+  errors_path: data/batches/canon-wave2-2026-07-18/results/shard-0005.errors.jsonl
+  errors_sha256: 71acc67d1ef9346e3f564e844cc032cf2c051d7f38f7335b269e0b834a4f3ebb
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-18T18:23:13Z'
 

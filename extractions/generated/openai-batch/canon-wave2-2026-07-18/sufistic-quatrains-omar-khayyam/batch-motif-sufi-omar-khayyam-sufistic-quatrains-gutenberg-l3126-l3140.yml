@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3126-l3140
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXVI. / XXXVII. / XLII. / XLIII.; lines 3126-3140
+  start: '3126'
+  end: '3140'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A quatrain says that when an Angel associated with a darker drink finds
+    the addressee by a river-brink and offers a cup, inviting the soul to come forth
+    to the lips and drink, the addressee should not shrink. A note says the quatrain
+    derives from C. 256, where a cup in the invisible depths of the firmament is made
+    available for all to drink in due time; when one's turn arrives, one should not
+    lament but drink wine gaily.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Angel associated with a darker drink is said to find the addressee by a
+    river-brink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Angel offers a Cup and invites the addressee's Soul forth to the addressee's
+    Lips to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressee is instructed not to shrink from the offered drink.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The source note states that the quatrain owes its origin to C. 256.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the cited source quatrain, a cup exists in the circle of the firmament,
+    whose depths are invisible.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the cited source quatrain, all are caused to drink the cup in due time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the cited source quatrain, when one's turn comes, one is instructed not
+    to lament but to drink wine gaily.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Angel of the darker Drink
+  description: An Angel who finds the addressee by the river-brink, offers a Cup,
+    and invites the Soul to drink.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Addressee
+  description: The second-person recipient who is found by the Angel and told not
+    to shrink from drinking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Soul
+  description: The addressee's Soul is invited forth to the Lips to drink.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Unspecified agents in C. 256
+  description: Unspecified agents who, in due time, cause all to drink from the cup.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cup-offering angelic visitor
+  assigned_to:
+  - fig:1
+  basis: The Angel finds the addressee, offers his Cup, and invites the Soul to drink.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient instructed to drink without shrinking
+  assigned_to:
+  - fig:2
+  basis: The addressee is told that when the Angel offers the Cup, the addressee shall
+    not shrink.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: summoned soul
+  assigned_to:
+  - fig:3
+  basis: The Soul is invited forth to the Lips to drink.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: agents who cause all to drink
+  assigned_to:
+  - fig:4
+  basis: The cited source quatrain says they will cause all to drink the cup in due
+    time.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cup
+  literal_form: Cup offered by the Angel; cup in the firmament in C. 256
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Darker Drink
+  literal_form: The drink associated with the Angel and the offered Cup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river-brink
+  literal_form: Place where the Angel finds the addressee
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: firmament cup
+  literal_form: A cup in the circle of the firmament, whose depths are invisible
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: turn to drink
+  literal_form: The appointed turn at which one must drink
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Angel offers the darker drink by the river-brink
+  summary: An Angel finds the addressee by the river-brink, offers a Cup, invites
+    the Soul to drink through the Lips, and the addressee is told not to shrink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: C. 256 cup in the firmament
+  summary: A related quatrain describes a cup in the invisible depths of the firmament
+    that all will be caused to drink in due time; when one's turn arrives, one should
+    not lament but drink wine gaily.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: appointed cup that all must drink
+  taxonomy_refs: []
+  basis: Both the main quatrain and the cited C. 256 passage present an offered or
+    appointed cup that must be drunk when the time or turn arrives.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly name death, though the Angel, darker drink,
+    and final summons are suggestive within the wording.
+- id: motif:2
+  label: soul summoned to drink at a boundary
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Angel finds the addressee at a river-brink and invites the Soul forth
+    to the Lips to drink.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The afterlife-journey classification is cautious because the passage names
+    a soul and a boundary-like river-brink but does not describe a journey beyond
+    it.
+- id: motif:3
+  label: acceptance of the appointed turn without lamentation
+  taxonomy_refs:
+  - wisdom
+  basis: The main quatrain says not to shrink; the cited source quatrain says not
+    to utter lamentations when one's turn comes, but to drink gaily.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage gives an imperative
+    attitude rather than an explicit wisdom teaching label.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links XLIII to C. 256, and both use the pattern of an
+    appointed cup or drink that must be accepted when one's turn arrives.
+  claim_level: same_motif
+  target: C. 256 quatrain cited in the passage note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the internal source note and the quoted C.
+    256 passage; it does not establish broader historical transmission beyond the
+    note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3126-3131
+  quote_or_summary: The quatrain says that an Angel of the darker Drink finds the
+    addressee by the river-brink, offers his Cup, invites the Soul to the Lips to
+    drink, and says the addressee shall not shrink.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: line 3133
+  quote_or_summary: This quatrain owes its origin to C. 256.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3135-3139
+  quote_or_summary: C. 256 describes a cup in the invisible depths of the firmament,
+    says all will be caused to drink it in due time, and instructs the person whose
+    turn has come not to lament but to drink wine gaily.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: citation
+  locator: line 3140
+  quote_or_summary: Reference list for the quatrain includes C. 256, L. 408, B. 404,
+    B. ii. 273, W. 254, and V. 431.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the passage uses metaphorical language and does not explicitly identify
+    death or an afterlife journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. The passage label includes multiple quatrain numbers, but the supplied passage text contains XLIII and its explanatory source note.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3126-l3140
+  passage_sha256=0bf1ccb9e011a3d3b4ebe0519df388a2555d4a32f18da9589601675242bfb6ea
+

@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l707-l823
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE HYPOCRITICAL CAT / THE CROCODILE AND THE MONKEY / THE AXE, THE DRUM,
+    THE BOWL, AND THE DIAMOND / THE WISE PARROT AND THE FOOLISH PARROT; lines 707-823
+  start: '707'
+  end: '823'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man entrusts two talking parrots, Beaky and Tweaky, to watch a thievish
+    maid while he is away. Beaky openly warns the maid and is tempted by stolen sugar,
+    then seized and plucked bald. Tweaky remains silent, later reveals the event indirectly
+    through a repeated taunt and a verse about wisdom in shutting one’s eyes. The
+    master understands and expels the maid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man owns two talking pet parrots named Beaky and Tweaky and speaks with
+    them when alone.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maid-servant is described as thievish, and the master locks things up
+    because she steals.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Before leaving on a journey, the master tells both parrots to watch the maid
+    and report any theft when he returns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Beaky answers with a warning rhyme, while Tweaky says nothing and only blinks
+    solemnly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the master leaves, the maid opens cupboards and consumes sugar, biscuits,
+    and wine; Beaky loudly warns that the master will know.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The maid offers Beaky a lump of stolen sugar; Beaky approaches and pecks at
+    it despite knowing it is stolen.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The maid seizes Beaky by the neck and plucks feathers from his head until
+    he is bald.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Tweaky sees Beaky’s punishment but remains silent, and the maid leaves him
+    alone because she thinks he is too stupid to tell.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When the master returns, the maid falsely claims that Beaky stole sugar and
+    was plucked as punishment.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Tweaky later uses the master’s bald head as a cue to repeat the maid’s taunt
+    and then recites a verse contrasting foolish and wise parrots.
+  category: speech
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: obs:11
+  text: The master understands what happened, makes the maid leave the house, and
+    Beaky never has the heart to talk again.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: the master
+  description: The man who owns Beaky and Tweaky, leaves on a journey, later understands
+    Tweaky’s indirect report, and expels the maid.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:12
+- id: fig:2
+  name_or_label: Beaky
+  description: One of the two talking parrots; he warns the maid openly, accepts stolen
+    sugar, is plucked bald, and later stops talking.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:12
+- id: fig:3
+  name_or_label: Tweaky
+  description: One of the two talking parrots; he remains silent during the theft
+    and punishment, then reveals the event indirectly through taunts and a verse.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: the maid-servant
+  description: The servant described as thievish; she steals from the cupboards, injures
+    Beaky, lies to the master, and is turned out of the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:12
+roles:
+- id: role:1
+  label: owner and householder
+  assigned_to:
+  - fig:1
+  basis: He owns the two parrots and gives instructions concerning his household before
+    leaving.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: entrusted watcher
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The master commands both parrots to watch the maid and report theft.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: thief and deceiver
+  assigned_to:
+  - fig:4
+  basis: The maid is described as thievish, steals food and wine, injures Beaky, and
+    falsely reports that Beaky was the thief.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:4
+  label: open telltale punished by culprit
+  assigned_to:
+  - fig:2
+  basis: Beaky threatens to tell the master and is then lured and plucked by the maid.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: silent witness and indirect revealer
+  assigned_to:
+  - fig:3
+  basis: Tweaky watches silently, is spared, and later communicates what happened
+    through repeated words and a verse.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:6
+  label: interpreter and enforcer
+  assigned_to:
+  - fig:1
+  basis: After Tweaky’s verse, the master understands and immediately turns the maid
+    out.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: lump of stolen sugar
+  literal_form: A lump of sugar offered by the maid to Beaky after the maid has stolen
+    from the cupboards.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: plucked feathers and bald head
+  literal_form: Beaky’s head is plucked bald; the master’s bald head later prompts
+    Tweaky’s taunt about missing feathers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:3
+  label: shut eyes
+  literal_form: Tweaky’s verse states that wise parrots can shut their eyes tight
+    when it is best to have no sight.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: The master entrusts the parrots with surveillance
+  summary: The master leaves on a journey and instructs Beaky and Tweaky to watch
+    the thievish maid and report any theft.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: The maid steals and Beaky warns her
+  summary: The maid steals sugar, biscuits, and wine after the master leaves. Beaky
+    publicly warns that the master will know.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Beaky is tempted and punished
+  summary: The maid offers Beaky stolen sugar, catches him when he approaches, calls
+    him a telltale, and plucks his head feathers until he is bald.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Tweaky remains silent and is spared
+  summary: Tweaky sees what happens but says nothing. The maid assumes he is too stupid
+    to tell and leaves him alone.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Indirect revelation and dismissal of the maid
+  summary: After the master notices Tweaky’s repeated taunt and hears his verse about
+    wisdom, he understands the maid’s guilt and turns her out of the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as strategic silence
+  taxonomy_refs:
+  - wisdom
+  basis: The title contrasts a wise and a foolish parrot, and Tweaky’s verse explicitly
+    says that the wise can shut their eyes when it is best not to see.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:11
+  confidence: high
+  cautions: The motif is extracted from a children’s retelling and should not be overextended
+    beyond the passage’s practical moral about speech and silence.
+- id: motif:2
+  label: Telltale punished by the guilty party
+  taxonomy_refs: []
+  basis: Beaky openly threatens to report the maid’s theft, and the maid responds
+    by luring, seizing, and plucking him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No external tale-type or motif-index number is supplied in the passage.
+- id: motif:3
+  label: Temptation defeats duty
+  taxonomy_refs: []
+  basis: Beaky is entrusted to report theft but accepts the stolen sugar offered by
+    the thief, which leads to his capture and punishment.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a local narrative pattern in the passage rather than a confirmed
+    taxonomy match.
+- id: motif:4
+  label: Indirect disclosure through riddle-like speech
+  taxonomy_refs:
+  - wisdom
+  basis: Tweaky first repeats an ambiguous taunt about missing feathers and then recites
+    a verse that enables the master to infer what happened.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The disclosure is not formally called a riddle in the passage; it functions
+    as indirect explanation through repeated phrase and verse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 707-823, opening description
+  quote_or_summary: The tale introduces a man with two talking pet parrots, Beaky
+    and Tweaky, who have unusual sense and entertain their master.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 707-823, maid description
+  quote_or_summary: The maid-servant is called thievish; the master has to lock everything
+    up because she filches and pilfers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 707-823, master’s departure command
+  quote_or_summary: Before going away, the master tells both parrots to watch the
+    maid and tell him if she steals anything.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 707-823, parrots’ responses to the command
+  quote_or_summary: Beaky answers with a rhyme promising consequences if the maid
+    steals; Tweaky says nothing and only blinks solemnly.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 707-823, maid’s theft and Beaky’s warning
+  quote_or_summary: When the master is gone, the maid steals sugar, biscuits, and
+    wine; Beaky warns her that the master will know and she will go.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 707-823, sugar temptation
+  quote_or_summary: The maid offers Beaky a lump of sugar and coaxes him; Beaky wants
+    to do his duty but wants the sugar more and approaches it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 707-823, Beaky’s plucking
+  quote_or_summary: When Beaky pecks at the sugar, the maid catches him, calls him
+    a telltale, and plucks feathers from his head until he is bald.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 707-823, Tweaky’s silent witnessing
+  quote_or_summary: Tweaky sees Beaky’s treatment but says nothing; the maid decides
+    he is too stupid to tell and not worth plucking.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 707-823, maid’s false report
+  quote_or_summary: When the master returns, the maid claims that she found Beaky
+    stealing sugar and plucked him as punishment.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 707-823, baldness cue and repeated taunt
+  quote_or_summary: After the master removes his skull-cap and shows his bald head,
+    Tweaky laughs and repeats a question about where the telltale’s feathers are.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 707-823, Tweaky’s explanatory verse
+  quote_or_summary: "“the wise can shut them tight / When 'tis best to have no sight.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; short excerpt.
+- id: ev:12
+  type: summary
+  locator: lines 707-823, master’s understanding and aftermath
+  quote_or_summary: The master understands, wakes the maid, has her dress, and turns
+    her out. Beaky no longer talks, while Tweaky keeps repeating the taunt at bald
+    people.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public-domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are clear in the supplied passage. Motif
+    labels are candidate abstractions grounded in the passage; no external tale-type
+    or comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage itself does not explicitly connect the tale to another named tradition, corpus, or motif index beyond its internal wise/foolish contrast.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l707-l823
+  passage_sha256=0b62d014b7d17f7e9096701d9957d15c22c5999f3d2a21518d22488d0e15c21e
+

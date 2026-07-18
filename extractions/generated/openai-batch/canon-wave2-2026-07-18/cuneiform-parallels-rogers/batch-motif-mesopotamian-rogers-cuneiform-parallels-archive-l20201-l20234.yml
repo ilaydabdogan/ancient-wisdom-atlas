@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l20201-l20234
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: SHALMANESER  III  303 / ADAD-NIRARI  IV  305 / NEBO  STATUE  307 / VI.  TIGLATHPILESER  IV  (745-727  B.  C.);
+    lines 20201-20234
+  start: '20201'
+  end: '20234'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: a usurper raised to the throne by his own ability
+  summary: 'Historical introduction to Tiglathpileser IV: after a civil war in Assyria,
+    a new non-dynastic king takes power under the names Tiglathpileser in Assyria
+    and Pulu in Babylonia. Notes discuss name forms and a questioned conjecture about
+    his possible lineage.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A great civil war occurred in Assyria in 746, after which a new order appeared
+    in the kingdom.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the civil war, Assyria was ruled by a weak descendant of the ancient
+    royal line.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The earlier royal line is described as having made Assyria feared from the
+    eastern mountains to the western sea.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the prior ruler was gone, the sceptre is described as being grasped
+    by a firm hand and directed by a creative mind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The new king was proclaimed as Tiglathpileser in Assyria and later as Pulu
+    in Babylonia.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Tiglathpileser does not name his father in his inscriptions
+    and concludes that he was not of the royal line but a usurper raised by his own
+    ability.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note gives the Assyrian name as Tukulti-abal-esarra and glosses it as meaning,
+    "My help is in the son of Esharra."
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note reports Winckler's queried conjecture that Tiglathpileser may have
+    been a son of Adad-nirari IV, while stating that no grounds for the suggestion
+    are known to the author.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tiglathpileser IV / Pulu
+  description: New king proclaimed as Tiglathpileser in Assyria and later as Pulu
+    in Babylonia; described as a non-royal usurper raised to the throne by his own
+    ability.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed weak predecessor
+  description: A weak descendant of the ancient Assyrian royal line who ruled before
+    the new order following the civil war.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: new king
+  assigned_to:
+  - fig:1
+  basis: The passage says the new king was proclaimed under the name Tiglathpileser
+    in Assyria and Pulu in Babylonia.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: usurper or non-dynastic ruler
+  assigned_to:
+  - fig:1
+  basis: The passage states that he does not name his father and was not a descendant
+    of the royal line, but a usurper raised by his own ability; a later note records
+    an unsupported contrary conjecture.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: dynastic predecessor
+  assigned_to:
+  - fig:2
+  basis: The earlier ruler is described as a descendant of the ancient line of kings.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: weak ruler
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls the prior descendant weak and says power was
+    useless in his hands.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sceptre of kingship
+  literal_form: sceptre grasped by a firm hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Civil war and weakened dynastic rule
+  summary: Assyria experiences a great civil war in 746 after a period in which a
+    weak descendant of the ancient royal line held power.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accession of Tiglathpileser/Pulu
+  summary: After the earlier ruler is gone, royal power is represented by the sceptre
+    grasped by a firm hand; the new king is proclaimed as Tiglathpileser in Assyria
+    and Pulu in Babylonia, and is characterized as a non-dynastic usurper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: contested royal legitimacy after civil war
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links civil war, the end of weak dynastic rule, omission of the
+    father's name, and the accession of a ruler identified as a non-royal usurper.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is modern historical commentary, not a mythic narrative; no explicit
+    divine authorization of the accession is described.
+- id: motif:2
+  label: transfer of sovereignty to a stronger ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage contrasts a weak ruler whose power was useless with the subsequent
+    grasping of the sceptre by a firm hand and creative mind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The motif is inferred from political rhetoric and metaphor in the prose;
+    it is not presented as a formal mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The note treats Tiglathpileser as the regular Old Testament rendering of
+    the king's name and identifies Chronicle spellings as erroneous variants.
+  claim_level: linguistic_similarity
+  target: Old Testament name forms of Tiglathpileser
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a name-form comparison, not a mythic motif comparison.
+- id: claim:2
+  claim: The note states that the Panammu inscription from Sinjirli writes the name
+    exactly the same as the former Hebrew writing.
+  claim_level: linguistic_similarity
+  target: Panammu inscription found at Sinjirli
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the correspondence but does not provide the inscriptional
+    text itself.
+- id: claim:3
+  claim: The note reports that the Ptolemaic Canon writes the king's name as Poros.
+  claim_level: linguistic_similarity
+  target: Ptolemaic Canon form Poros
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief reference and does not elaborate the
+    linguistic relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20203-20209
+  quote_or_summary: Assyria had a great civil war in 746; before it, a weak descendant
+    of the ancient line ruled, although that line had once made Assyria feared from
+    the eastern mountains to the western sea.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 20210-20213
+  quote_or_summary: '"the sceptre was grasped by a hand as firm as ever had been known
+    in the kingdom"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 20215-20217
+  quote_or_summary: The new king was proclaimed under the name Tiglathpileser in Assyria
+    and later under the name Pulu in Babylonia.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 20218-20221
+  quote_or_summary: '"he was not a descendant of the royal line, but a usurper raised
+    to the throne by his own ability"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 20223-20230
+  quote_or_summary: A note gives the Assyrian name Tukulti-abal-esarra, glosses it
+    as "My help is in the son of Esharra," compares Old Testament spellings, cites
+    the Panammu inscription at Sinjirli, and notes the Ptolemaic Canon form Poros.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized with short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 20232-20234
+  quote_or_summary: A note says Winckler conjectured, with a query, that Tiglathpileser
+    may have been a son of Adad-nirari IV; the author says no ground for the suggestion
+    is known.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a modern historical introduction with footnotes. Literal extraction
+    is strong; motif identification is limited to political legitimacy and accession
+    patterns; comparison claims are mainly linguistic name correspondences reported
+    by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No additional taxonomy symbols were assigned. The available motif family royal_legitimacy is used only where supported by the passage's discussion of lineage, usurpation, and accession.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l20201-l20234
+  passage_sha256=9ef49fd26ba397c5d4890e753899a5be21de9e3aba4fec508050b97bddc5d50f
+

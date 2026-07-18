@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l7740-l7749
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: MONSTERS. / UNTOMBINDE. / Book  ii.  c.  12. / IZINGANEKWANE.; lines 7740-7749
+  start: '7740'
+  end: '7749'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“prominent parts of some stupendous kraken”"
+  summary: 'The passage describes or quotes marvels of the ocean: a creature raises
+    its head like a pillar and snatches men from ship decks; the narrator then warns
+    that knowledge of ocean life is incomplete and asks whether vanishing northern
+    islands might be parts of a giant kraken.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is under the heading “IZINGANEKWANE.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A being is described as raising its head like a pillar.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same being is described as catching men away from the decks of ships.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says human knowledge of the ocean’s living forms is still imperfect.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage mentions islands in solitary northern seas that appear and disappear.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage asks whether those vanishing islands may be prominent parts of
+    a stupendous kraken.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed pillar-headed sea being
+  description: A being that raises its head like a pillar and catches men from ship
+    decks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: men on ship decks
+  description: Men are caught away from the decks of ships.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: stupendous kraken
+  description: A possible giant sea creature whose prominent parts may account for
+    islands that appear and disappear in northern seas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: scientific enquirers
+  description: A group invoked in the question about whether vanishing islands might
+    be parts of a kraken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sea monster or marvel
+  assigned_to:
+  - fig:1
+  basis: The figure has a pillar-like head and snatches men from ship decks.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: victims taken from ships
+  assigned_to:
+  - fig:2
+  basis: The men are described as caught away from the decks of ships.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: possible giant sea creature
+  assigned_to:
+  - fig:3
+  basis: The kraken is proposed as the possible source of vanishing islands.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: questioned observers or investigators
+  assigned_to:
+  - fig:4
+  basis: The passage asks whether scientific enquirers are sure about the nature of
+    the vanishing islands.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ocean and northern seas
+  literal_form: the ocean; solitary northern seas
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ship decks
+  literal_form: decks of ships
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pillar-like head
+  literal_form: head like a pillar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: vanishing islands
+  literal_form: islands that appear and disappear in solitary northern seas
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: sea being snatches men from ships
+  summary: An unnamed being raises its head like a pillar and catches men away from
+    ship decks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: speculation about vanishing islands and a kraken
+  summary: The narrator notes incomplete knowledge of ocean life and asks whether
+    vanishing islands in northern seas may be visible parts of a giant kraken.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sea monster seizes people from ships
+  taxonomy_refs: []
+  basis: A creature is described as raising its pillar-like head and catching men
+    from the decks of ships.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is fragmentary and appears to cite or discuss marvels rather
+    than narrate a complete tale episode.
+- id: motif:2
+  label: giant sea creature mistaken for islands
+  taxonomy_refs: []
+  basis: The passage asks whether islands that appear and disappear might be the prominent
+    parts of a stupendous kraken.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The wording is framed as a question rather than an asserted event.
+- id: motif:3
+  label: marvel at the boundary of fact and wonder
+  taxonomy_refs: []
+  basis: The narrator warns that knowledge of ocean life is incomplete and that one
+    may be near the twilight boundaries of fact.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a reflective framing motif, not a narrated mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly associates vanishing islands with kraken imagery by
+    asking whether such islands may be visible parts of a stupendous kraken.
+  claim_level: visual_similarity
+  target: kraken imagery of an enormous sea creature whose body resembles islands
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is internal to the passage and is phrased rhetorically; it
+    does not establish historical contact, common inheritance, or a Zulu-specific
+    source for the kraken motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '7740'
+  quote_or_summary: "“IZINGANEKWANE.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: 7742-7744
+  quote_or_summary: "“puts up his head like a pillar, and catcheth away men” from
+    the decks of ships"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 7744-7746
+  quote_or_summary: The narrator says knowledge of the multiform vitality of the ocean
+    is imperfect and cautions about the boundaries of fact.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 7746-7749
+  quote_or_summary: "“strangely vanishing islands” may be “the prominent parts of
+    some stupendous kraken”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is an editorial
+    or quoted marvel-framing fragment rather than a full narrative episode; motif
+    identification should be reviewed in context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference was limited to the literal water setting for ocean/seas.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l7740-l7749
+  passage_sha256=c88f9af242afd46b00ddfac07cb77ebb6c6cfd7f5240a761ad9c9f12a894eb86
+

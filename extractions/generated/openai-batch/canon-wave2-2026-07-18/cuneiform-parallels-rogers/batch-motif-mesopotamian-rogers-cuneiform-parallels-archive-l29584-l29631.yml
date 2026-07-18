@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l29584-l29631
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: PLATE  NO.  11 / PLATE  NO.  12 / PLATE  NO.  13 / PLATE  NO.  14; lines
+    29584-29631
+  start: '29584'
+  end: '29631'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Plate and figure captions identify Plate 12 as the reverse of the Story
+    of the Deluge; Plate 13 as an Assyrian representation of Gilgamesh strangling
+    a lion; and Plate 14 as seal cylinders showing Gilgamesh and Engidu in conflict
+    with a lion and bull, Gilgamesh journeying by boat to the underworld to meet Ut-napishtim,
+    and Ut-napishtim in a house-like ship or ark surrounded by water lines.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plate 12 is identified as the reverse of the Story of the Deluge.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plate 13 is described as an Assyrian representation of Gilgamesh strangling
+    a lion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Plate 14 is labeled as containing seal cylinders.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Figure 1 is a seal cylinder depicting scenes from the Gilgamesh Epic with
+    Gilgamesh and Engidu in conflict with a lion and a bull.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Figure 2 is a seal cylinder scene in which Gilgamesh journeys by boat to the
+    underworld and meets Ut-napishtim.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Figure 3 depicts Ut-napishtim in his ship, identified parenthetically as the
+    ark.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The ship or ark is described as house-like and surrounded by wavy lines representing
+    water.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Named figure depicted strangling a lion, appearing with Engidu in conflict
+    with a lion and bull, and journeying by boat to the underworld.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Engidu
+  description: Named figure represented with Gilgamesh in conflict with the lion and
+    the bull.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: lion
+  description: Animal strangled by Gilgamesh in Plate 13 and named as one of the animals
+    in conflict with Gilgamesh and Engidu in Figure 1.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: bull
+  description: Animal named as one of the figures in conflict with Gilgamesh and Engidu
+    in Figure 1.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ut-napishtim / Ut napishtim
+  description: Named figure whom Gilgamesh meets in the underworld and who is depicted
+    in his ship, identified as the ark.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: animal-combat figure
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh is depicted strangling a lion and also in conflict with a lion
+    and bull.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: co-combatant
+  assigned_to:
+  - fig:2
+  basis: Engidu is represented with Gilgamesh in conflict with the lion and the bull.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: animal opponent
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The lion and bull are named as animals in conflict with Gilgamesh and Engidu;
+    the lion is also being strangled by Gilgamesh.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: underworld boat traveler
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh is described as journeying by boat to the underworld.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: underworld encounter figure and ark occupant
+  assigned_to:
+  - fig:5
+  basis: Ut-napishtim is the figure Gilgamesh meets in the underworld and is separately
+    depicted in his ship, the ark.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lion
+  literal_form: lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: bull
+  literal_form: bull
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: boat / ship / ark
+  literal_form: boat; ship identified as the ark; house-like structure
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: water
+  literal_form: wavy lines representing water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: underworld
+  literal_form: underworld
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: deluge
+  literal_form: the Story of the Deluge
+  associated_figures: []
+  taxonomy_refs:
+  - flood_and_renewal
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Story of the Deluge plate
+  summary: A plate caption identifies the image as the reverse of the Story of the
+    Deluge.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gilgamesh strangling a lion
+  summary: An Assyrian representation shows Gilgamesh strangling a lion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Conflict with lion and bull
+  summary: A seal cylinder scene from the Gilgamesh Epic represents Gilgamesh and
+    Engidu in conflict with a lion and a bull.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Boat journey to the underworld
+  summary: Gilgamesh journeys by boat to the underworld and meets Ut-napishtim.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Ut-napishtim in the ark
+  summary: Ut-napishtim is portrayed in a house-like ship identified as the ark, surrounded
+    by wavy lines representing water.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Deluge or flood scene
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The plate caption explicitly names the Story of the Deluge, and a nearby
+    figure caption describes an ark surrounded by water.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage supports deluge/flood and ark imagery, but does not narrate
+    renewal after the flood.
+- id: motif:2
+  label: Ark vessel on water
+  taxonomy_refs:
+  - ark_vessel
+  basis: Ut-napishtim is depicted in a ship explicitly identified as the ark, with
+    water represented by wavy lines.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage is an image caption rather than a narrative episode.
+- id: motif:3
+  label: Underworld journey by boat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The caption states that Gilgamesh journeys by boat to the underworld and
+    meets Ut-napishtim there.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not provide a detailed map or sequence of the underworld
+    journey.
+- id: motif:4
+  label: Heroic conflict with powerful animals
+  taxonomy_refs: []
+  basis: Gilgamesh is depicted strangling a lion, and Gilgamesh with Engidu is represented
+    in conflict with the lion and the bull.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this animal-combat motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29584-29590
+  quote_or_summary: '"The Story of the Deluge. * Reverse."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 29591-29600
+  quote_or_summary: '"Assyrian representation of Gilgamesh, depicted as strangling
+    a lion"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 29606-29610
+  quote_or_summary: '"Seal Cylinders."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 29611-29615
+  quote_or_summary: '"representing Gilgamesh and Engidu in conflict with the lion
+    and the bull."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 29616-29619
+  quote_or_summary: '"Gilgamesh is journeying by boat to the underworld, where he
+    meets Ut-napishtim."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 29620-29624
+  quote_or_summary: '"Ut napishtim in his ship (the ark), portrayed as a house-like
+    structure surrounded by wavy lines to represent water."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Captions are clear enough for visual-scene extraction, but the passage is
+    not a narrative text and contains OCR artifacts. Motif assignments are based only
+    on the supplied captions and available taxonomy references. No comparison claims
+    were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This record extracts motifs and symbols from plate and seal-cylinder captions only; it does not infer details from the broader Gilgamesh tradition beyond what is stated in the supplied passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l29584-l29631
+  passage_sha256=52a41b7b1a6510c34e6ba70594b31c49e7217c1d14e2a7e3480ed1e5a009ba11
+

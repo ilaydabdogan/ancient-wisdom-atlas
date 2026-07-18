@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l7953-l8072
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: TWELFTH    TABLET / ANOTHER  FLOOD  STORY  103 / ANCIENT  DELUGE  FRAGMENT  105
+    / ANCIENT  DELUGE  FRAGMENT  107; lines 7953-8072
+  start: '7953'
+  end: '8072'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains fragmentary deluge material. One fragment mentions
+    people going into a ship, the ship's bolts, and Atrakhasis speaking to his lord,
+    followed by colophon information. A following editorial section introduces another
+    ancient Babylonian deluge fragment from Nippur and quotes fragmentary lines in
+    which a deluge will sweep away all mankind and an addressee is told to seek life
+    before the deluge comes forth.
+  language: English translation with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragmentary line says that unnamed people may go into a ship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ship's bolts are mentioned in the same fragmentary ship passage.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Atrakhasis opens his mouth and speaks to his lord.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A colophon-like section identifies the tablet within a series, names Azag-Aa
+    as a scribe's assistant, gives the month Shabatu and day twenty-eight, and dates
+    the copy to the year when King Ammizadugga built Dur-Ammizadugga at the mouth
+    of the Euphrates.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editorial introduction describes a small unbaked clay fragment discovered
+    at Nippur, with the obverse broken off and the reverse fragmentary; its date is
+    discussed as uncertain.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A restored line says that a deluge will be made and will sweep away all mankind
+    at once.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An addressee is told to seek life before the deluge comes forth.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Atrakhasis
+  description: Named speaker who opens his mouth and speaks to his lord.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Atrakhasis's lord
+  description: The lord addressed by Atrakhasis; the passage does not give a name
+    here.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed group entering the ship
+  description: Referred to only by the pronoun in the fragmentary line saying they
+    may go into the ship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Unnamed first-person speaker in the later deluge fragment
+  description: A fragmentary first-person speaker associated with the restored statement
+    that a deluge will be made.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Unnamed addressee in the later deluge fragment
+  description: A second-person addressee told to seek life before the deluge comes
+    forth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: All mankind
+  description: The collective population said to be swept away by the deluge.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker to lord
+  assigned_to:
+  - fig:1
+  basis: Atrakhasis opens his mouth and speaks to his lord.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: addressed lord
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the recipient of Atrakhasis's speech as his lord.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ship entrants
+  assigned_to:
+  - fig:3
+  basis: A fragmentary line says they may go into the ship.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deluge announcer
+  assigned_to:
+  - fig:4
+  basis: The restored first-person line says that a deluge will be made.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: life-seeking addressee
+  assigned_to:
+  - fig:5
+  basis: The addressee is told to seek life before the deluge comes forth.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: population swept away
+  assigned_to:
+  - fig:6
+  basis: The deluge is said to sweep away all mankind at once.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ship
+  literal_form: ship
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ship's bolts
+  literal_form: bolts of the ship
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: deluge
+  literal_form: deluge
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  - flood_and_renewal
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: life before the deluge
+  literal_form: life sought before the deluge comes forth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fragmentary ship entry and speech of Atrakhasis
+  summary: In the fragmentary deluge text, unnamed people may go into a ship, the
+    ship's bolts are mentioned, and Atrakhasis speaks to his lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Announcement of a deluge and instruction to seek life
+  summary: In another fragmentary Babylonian deluge passage, a first-person speaker
+    is associated with making a deluge that will sweep away all mankind, while an
+    addressee is told to seek life before the deluge comes forth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ship in a deluge context
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage is identified as deluge material and includes fragmentary lines
+    in which people may go into a ship and the ship's bolts are mentioned.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The lines are fragmentary, and the exact function of the ship is not fully
+    preserved in this excerpt.
+- id: motif:2
+  label: deluge sweeping away mankind
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The later fragment states, in restored translation, that a deluge will sweep
+    away all mankind at once.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The destructive flood is explicit, but renewal after the flood is not
+    preserved in this passage.
+- id: motif:3
+  label: pre-deluge instruction to seek life
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: An addressee is instructed to seek life before the deluge comes forth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The identity of the speaker and addressee is not preserved in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The later fragment is explicitly presented as part of Babylonian deluge literature
+    and shares the broad flood-destruction motif with that corpus.
+  claim_level: same_motif
+  target: Babylonian or Mesopotamian deluge literature
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The fragment is small, restored in places, and does not by itself establish
+    source dependence or a complete narrative sequence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7957-7961; Ancient Deluge Fragment 107
+  quote_or_summary: '"They may go in [the ship ...]" and "The ship''s bolts [...]"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 7967-7970; Column VIII
+  quote_or_summary: '"Atrakhasis opened his mouth / And said to his lord"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 7971-7980; colophon section
+  quote_or_summary: The colophon identifies the tablet of the series, names Azag-Aa
+    as a scribe's assistant, gives Shabatu day twenty-eight, and refers to King Ammizadugga
+    building Dur-Ammizadugga at the mouth of the Euphrates.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8020-8058; introduction to Another Ancient Babylonian Deluge Fragment
+  quote_or_summary: The editor describes a small unbaked clay fragment found at Nippur,
+    broken and fragmentary, with scholarly discussion of its possible date, and calls
+    it an addition to Deluge literature.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8065-8067; Another Ancient Babylonian Deluge Fragment
+  quote_or_summary: '"[a deluge I shall make, and] it shall sweep away all mankind
+    at once"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 8068; Another Ancient Babylonian Deluge Fragment
+  quote_or_summary: '"[but seek thou li]fe before the deluge come forth"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is highly fragmentary and includes restored readings, so figure
+    identities and motif functions require review. The flood and ship elements are
+    clear enough for provisional motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No specific Old Testament comparison is asserted because the passage excerpt itself only supports a broad comparison to Babylonian or Mesopotamian deluge literature.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l7953-l8072
+  passage_sha256=43561c5e525a96bbcc26c31dc0c96d1ef6e4d84a6a5da35506db9d17fea8d3bf
+

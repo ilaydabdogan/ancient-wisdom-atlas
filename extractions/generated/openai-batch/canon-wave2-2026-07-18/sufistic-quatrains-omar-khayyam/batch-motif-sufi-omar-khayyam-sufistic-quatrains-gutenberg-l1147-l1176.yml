@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1147-l1176
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XVIII. / XXII. / XXIII. / XXIV.; lines 1147-1176
+  start: '1147'
+  end: '1176'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Four quatrains describe the present speaker group making merry in a room
+    left by others, the inevitability of descending into earth and dust, a muezzin
+    from a dark tower rebuking both present- and future-oriented people about reward,
+    and saints and sages whose discourse about the two worlds is scattered and silenced
+    by dust.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker group says it now makes merry in a Room that others have left,
+    while Summer dresses the scene in new Bloom.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker group says it must descend beneath the Couch of Earth and make
+    a couch there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker urges making the most of what can still be spent before the group
+    descends into Dust.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes lying as Dust into Dust and under Dust, without Wine,
+    Song, Singer, or end.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Muezzin from the Tower of Darkness cries to those preparing for today and
+    those looking toward tomorrow that their Reward is neither Here nor There.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Saints and Sages who discussed the Two Worlds are said to be thrust forth
+    like foolish Prophets; their words are scattered to scorn and their mouths are
+    stopped with Dust.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: we / speaker group
+  description: The group that now makes merry, is urged to make the most of what remains,
+    and must descend into earth and dust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: they / prior occupants of the Room
+  description: The unnamed group that left the Room now occupied by the speaker group.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Muezzin from the Tower of Darkness
+  description: A caller from the Tower of Darkness who cries a rebuke about reward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: those who for TO-DAY prepare
+  description: A group described as preparing for today.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: those that after a TO-MORROW stare
+  description: A group described as looking after tomorrow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Saints and Sages
+  description: Learned figures who discussed the Two Worlds and whose words and mouths
+    are silenced by dust.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Summer
+  description: The season is personified as dressing the Room in new Bloom.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: current revelers destined for descent
+  assigned_to:
+  - fig:1
+  basis: The group makes merry, is told to use what remains, and is said to descend
+    beneath earth and into dust.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prior occupants
+  assigned_to:
+  - fig:2
+  basis: They are described only as having left the Room now occupied by the speaker
+    group.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: herald or admonishing caller
+  assigned_to:
+  - fig:3
+  basis: The Muezzin cries a rebuke from the Tower of Darkness.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: present-oriented group
+  assigned_to:
+  - fig:4
+  basis: They are identified as those who prepare for TO-DAY.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: future-oriented group
+  assigned_to:
+  - fig:5
+  basis: They are identified as those who stare after TO-MORROW.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: learned discussants whose speech is rejected
+  assigned_to:
+  - fig:6
+  basis: The Saints and Sages discussed the Two Worlds, but their words are scattered
+    to scorn and their mouths stopped with Dust.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: seasonal dresser of the scene
+  assigned_to:
+  - fig:7
+  basis: Summer is said to dress the Room in new Bloom.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Room
+  literal_form: Room
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Summer and new Bloom
+  literal_form: Summer dresses in new Bloom
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Couch of Earth
+  literal_form: Couch of Earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Dust
+  literal_form: Dust into Dust; under Dust; Mouths are stopt with Dust
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Wine, Song, and Singer
+  literal_form: Wine; Song; Singer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Tower of Darkness
+  literal_form: Tower of Darkness
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: TO-DAY / TO-MORROW / Here / There
+  literal_form: TO-DAY; TO-MORROW; Here; There
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Two Worlds
+  literal_form: Two Worlds
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Merry-making in the Room and foreseen earth descent
+  summary: The speaker group makes merry in a Room left by others while Summer brings
+    new Bloom, then says it must descend beneath the Couch of Earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhortation before descent into Dust
+  summary: The speaker urges use of what remains before descending into Dust and lying
+    under Dust without Wine, Song, Singer, or end.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dark-tower admonition about reward
+  summary: A Muezzin from the Tower of Darkness addresses both those oriented to today
+    and those oriented to tomorrow, declaring that their Reward is neither Here nor
+    There.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sages of the Two Worlds silenced by Dust
+  summary: Saints and Sages who discussed the Two Worlds are thrust forth like foolish
+    Prophets; their words are scattered and their mouths stopped with Dust.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Descent into earth and dust after present revelry
+  taxonomy_refs: []
+  basis: The passage pairs present merry-making with the declared necessity that the
+    speaker group descend beneath the Couch of Earth and into Dust.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe rebirth, resurrection, or a mapped afterlife
+    journey.
+- id: motif:2
+  label: Urgency to spend the present before death
+  taxonomy_refs: []
+  basis: The speaker urges making the most of what remains before descent into Dust
+    and loss of Wine, Song, and Singer.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an exhortive motif rather than a developed narrative episode.
+- id: motif:3
+  label: Seasonal bloom contrasted with human mortality
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Summer dresses the Room in new Bloom while the speaker group anticipates
+    descent beneath the Couch of Earth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only summer and bloom are named; no full seasonal cycle is narrated.
+- id: motif:4
+  label: Dark herald denying reward here or there
+  taxonomy_refs:
+  - divine_judgment
+  basis: A Muezzin from the Tower of Darkness cries that the Reward of both present-
+    and future-oriented people is neither Here nor There.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions Reward but names no divine judge and frames the statement
+    as a rebuke rather than a judgment scene.
+- id: motif:5
+  label: Limits of learned discourse about the Two Worlds
+  taxonomy_refs:
+  - wisdom
+  basis: Saints and Sages discuss the Two Worlds learnedly, yet their words are scorned
+    and their mouths stopped with Dust.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage undercuts learned speech rather than presenting triumphant
+    wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXII; lines 1147-1152
+  quote_or_summary: '"we...make merry in the Room / They left, and Summer dresses
+    in new Bloom... beneath the Couch of Earth / Descend"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: XXIII; lines 1154-1159
+  quote_or_summary: '"Before we too into the Dust descend; / Dust into Dust, and under
+    Dust, to lie, / Sans Wine, sans Song, sans Singer"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: XXIV; lines 1161-1166
+  quote_or_summary: '"A Muezzin from the Tower of Darkness cries / «Fools! your Reward
+    is neither Here nor There!»"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: XXV; lines 1168-1173
+  quote_or_summary: '"all the Saints and Sages... Of the Two Worlds... their Words
+    to Scorn / Are scatter''d and their Mouths are stopt with Dust"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif taxonomy assignments are cautious, especially for divine_judgment and seasonal_cycle.
+    No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, source path, locator metadata, and available taxonomy references. No symbol taxonomy reference was assigned because none of the listed symbol refs appear literally in the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1147-l1176
+  passage_sha256=3c4910596c4ea5dfed31de108077e0f27046c1d35360e892ae2753dd7d78a934
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1931-l1952
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LAMP / THE OWL AND THE BIRDS / THE ASS IN THE LION'S SKIN / THE SHE-GOATS
+    AND THEIR BEARDS; lines 1931-1952
+  start: '1931'
+  end: '1952'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an ass dresses in a lion's skin, frightens others, and is
+    exposed when his bray lets a fox recognize him. In another, Jupiter grants beards
+    to she-goats; he-goats protest, but Jupiter dismisses the objection, saying the
+    beards do not make the she-goats equal in strength.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ass finds a lion's skin and puts it on as dress.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men and beasts mistake the disguised ass for a lion and flee from him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ass brays loudly in triumph after his trick succeeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A fox hears the ass's voice and recognizes him as an ass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jupiter grants beards to the she-goats at their request.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The he-goats object to the she-goats receiving beards and send a deputation
+    to Jupiter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jupiter advises the he-goats not to object and says the she-goats cannot match
+    them in strength.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An ass who dresses in a lion's skin, frightens others, brays, and is
+    recognized by the fox.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fox
+  description: A fox who hears the ass's voice and recognizes him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Men and beasts
+  description: Those who encounter the disguised ass, take him for a lion, and flee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Jupiter
+  description: The divine figure who grants beards to the she-goats and answers the
+    he-goats' protest.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: She-Goats
+  description: Female goats who request and receive beards from Jupiter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: he-Goats
+  description: Male goats who are disgusted by the she-goats receiving beards and
+    send a deputation to protest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: disguised trickster
+  assigned_to:
+  - fig:1
+  basis: The ass dresses in a lion's skin and frightens others through the resulting
+    mistaken identity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recognizer by voice
+  assigned_to:
+  - fig:2
+  basis: The fox hears the ass and identifies him despite the lion skin.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceived observers
+  assigned_to:
+  - fig:3
+  basis: Men and beasts take the ass to be a lion and run away.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine grantor
+  assigned_to:
+  - fig:4
+  basis: Jupiter grants beards to the she-goats.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: arbiter of protest
+  assigned_to:
+  - fig:4
+  basis: Jupiter answers the he-goats' deputation and advises against objection.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: petitioning recipients
+  assigned_to:
+  - fig:5
+  basis: The she-goats request and receive beards from Jupiter.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: protesting group
+  assigned_to:
+  - fig:6
+  basis: The he-goats object to the grant of beards and send a deputation.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lion's skin
+  literal_form: Animal skin worn as a disguise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: braying voice
+  literal_form: The ass's loud bray
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beards
+  literal_form: Tufts of hair granted to the she-goats
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: strength
+  literal_form: Bodily strength invoked by Jupiter as the distinction between he-goats
+    and she-goats
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ass adopts lion disguise
+  summary: The ass dresses in a lion's skin, and those he meets mistake him for a
+    lion and flee.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Voice exposes the disguise
+  summary: The ass brays in triumph, and the fox recognizes him by the sound of his
+    voice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jupiter grants and defends she-goats' beards
+  summary: Jupiter gives beards to the she-goats at their request; the he-goats protest,
+    but Jupiter says the beards do not make the she-goats equal in strength.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: disguise as a powerful animal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The ass uses a lion's skin to make others believe he is a lion, and the passage
+    explicitly calls the effect a trick.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a disguise, not an actual transformation; the taxonomy
+    reference is approximate.
+- id: motif:2
+  label: impostor exposed by voice
+  taxonomy_refs: []
+  basis: The ass's loud bray reveals his identity to the fox despite the lion skin.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is supplied for this specific fable pattern.
+- id: motif:3
+  label: contested status marker granted by divine authority
+  taxonomy_refs: []
+  basis: Jupiter grants beards to the she-goats, the he-goats protest the perceived
+    invasion of their rights and dignities, and Jupiter dismisses the protest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the beard as a visible marker and a disputed privilege;
+    broader social interpretation requires review.
+- id: motif:4
+  label: external sign does not alter underlying identity or capacity
+  taxonomy_refs: []
+  basis: The ass remains identifiable by his voice despite the lion skin, and Jupiter
+    says beards do not make the she-goats equal to he-goats in strength.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a cross-fable pattern inferred from two adjacent fables rather
+    than an explicit statement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1931-1938
+  quote_or_summary: An ass finds a lion's skin, dresses in it, and frightens men and
+    beasts who mistake him for a lion and flee.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1938-1942
+  quote_or_summary: The ass brays in triumph; a fox hears the voice and recognizes
+    him as the ass he is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1945-1947
+  quote_or_summary: Jupiter grants beards to the she-goats at their own request.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1947-1950
+  quote_or_summary: The he-goats are disgusted, regard the grant as an invasion of
+    their rights and dignities, and send a deputation to protest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 1950-1952
+  quote_or_summary: Jupiter says, "What's in a tuft of hair?" and adds that the she-goats
+    can never match the he-goats in strength.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    and should be reviewed, especially the approximate use of trickster_boundary for
+    disguise rather than transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-text or historical comparison.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1931-l1952
+  passage_sha256=0da8a1fe78206a61282896a5df42c067f3bb9f6ae74ecac7cff7ce3a830cd270
+

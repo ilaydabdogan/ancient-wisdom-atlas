@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l81-l120
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: PERSIAN LITERATURE / CONTENTS / THE GULISTAN / CHAPTER; lines 81-120
+  start: '81'
+  end: '120'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter for a revised 1900 volume of Persian literature lists included
+    works, names the author of a special introduction, and gives the contents for
+    The Gulistan, including an introduction and eight chapter headings on kings, dervishes,
+    contentment, silence, love and youth, old age, education, and society.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The volume is identified as Persian Literature comprising The Sháh Námeh,
+    The Rubáiyát, The Divan, and The Gulistan.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the book as a revised edition, Volume 2, from 1900.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A special introduction is attributed to Richard J. H. Gottheil, who is described
+    as a professor at Columbia University.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents section for The Gulistan includes an Introduction followed by
+    eight numbered chapters.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The listed chapter topics include customs of kings, morals of dervishes, contentment,
+    silence, love and youth, old age, education, and duties of society.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Richard J. H. Gottheil
+  description: Named as the author of the special introduction and as Professor of
+    Rabbinical Literature and the Semitic Languages at Columbia University.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Kings
+  description: Collective social category named in the chapter heading "Of the Customs
+    of Kings."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Dervishes
+  description: Collective social category named in the chapter heading "Of the Morals
+    of Dervishes."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: introductory scholar
+  assigned_to:
+  - fig:1
+  basis: The passage says the volume has a special introduction by Richard J. H. Gottheil
+    and gives his academic title.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: 'chapter subject: rulers'
+  assigned_to:
+  - fig:2
+  basis: Kings are named as the subject of Chapter I.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: 'chapter subject: dervishes'
+  assigned_to:
+  - fig:3
+  basis: Dervishes are named as the subject of Chapter II.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: didactic wisdom and moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The contents list chapters concerned with morals, contentment, silence, education,
+    and duties of society, supporting a broad wisdom or ethical-instruction pattern.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is inferred only from chapter headings in a table of contents, not
+    from a narrative episode or explicit mythic symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 81-88
+  quote_or_summary: The passage identifies Persian Literature as comprising The Sháh
+    Námeh, The Rubáiyát, The Divan, and The Gulistan.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 89-91
+  quote_or_summary: The edition is described as Revised Edition, Volume 2, 1900.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 92-96
+  quote_or_summary: A special introduction is attributed to Richard J. H. Gottheil,
+    Professor of Rabbinical Literature and the Semitic Languages at Columbia University.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 97-102
+  quote_or_summary: The contents section names The Gulistan and lists an Introduction
+    before the chapter list.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: 103-120
+  quote_or_summary: Chapter headings include "Of the Customs of Kings," "Of the Morals
+    of Dervishes," "On the Preciousness of Contentment," "On the Benefit of Being
+    Silent," "On Love and Youth," "Of Imbecility and Old Age," "Of the Impressions
+    of Education," and "Of the Duties of Society."
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The bibliographic and contents data are explicit. Motif identification is
+    limited because the passage is a contents listing rather than a narrative or symbolic
+    episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in this passage. No narrative scenes or passage-supported comparison claims were extracted.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l81-l120
+  passage_sha256=cc35c464c2a85f05307a6240f36a02c10759f6bc7ddfa199c43a3d6a99664713
+

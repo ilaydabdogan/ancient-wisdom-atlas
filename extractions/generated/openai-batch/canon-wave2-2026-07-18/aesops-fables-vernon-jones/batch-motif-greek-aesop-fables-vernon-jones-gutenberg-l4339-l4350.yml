@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4339-l4350
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE RIVERS AND THE SEA / THE LION IN LOVE / THE BEE-KEEPER / THE WOLF AND
+    THE HORSE; lines 4339-4350
+  start: '4339'
+  end: '4350'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: There is no virtue in giving to others what is useless to oneself.
+  summary: A wolf who cannot eat oats claims to have left a field of oats untouched
+    for a horse. The horse replies that if wolves could eat oats, the wolf would not
+    have chosen the pleasure of hearing over feeding himself. The closing moral states
+    that giving what is useless to oneself is not virtuous.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Wolf came upon a field of oats while rambling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wolf was not able to eat the oats.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Horse came along while the Wolf was passing on.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Wolf told the Horse that he had left the oats untouched for the Horse's
+    sake and would enjoy hearing the Horse eat them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Horse replied that if wolves could eat oats, the Wolf would not have satisfied
+    his ears at the cost of his belly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stated moral says there is no virtue in giving to others what is useless
+    to oneself.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf who finds a field of oats, cannot eat them, and claims to have
+    left them for the Horse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Horse
+  description: A horse who comes along and answers the Wolf's claim with a skeptical
+    reply.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: claimant to generosity
+  assigned_to:
+  - fig:1
+  basis: The Wolf says he left the field of oats untouched for the Horse's sake.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: unable consumer of oats
+  assigned_to:
+  - fig:1
+  basis: The narration states that the Wolf was not able to eat the oats.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: possible recipient of oats
+  assigned_to:
+  - fig:2
+  basis: The Wolf addresses the Horse as the one who could munch the ripe grain.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: skeptical responder
+  assigned_to:
+  - fig:2
+  basis: The Horse challenges the Wolf's claim by saying the Wolf would have eaten
+    the oats if he could.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: field of oats
+  literal_form: A field of ripe oats that the Wolf cannot eat but the Horse can eat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wolf offers unusable oats and Horse answers
+  summary: The Wolf finds oats he cannot eat, presents his leaving them untouched
+    as a favor to the Horse, and is answered by the Horse's observation that the Wolf
+    would have eaten them if he could. The fable closes with a moral against treating
+    useless gifts as virtuous generosity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gift of what is useless to the giver
+  taxonomy_refs:
+  - wisdom
+  basis: The Wolf cannot eat oats but represents the untouched field as a gift to
+    the Horse; the moral explicitly says there is no virtue in giving what is useless
+    to oneself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The motif label is descriptive; no external parallel is asserted.
+- id: motif:2
+  label: pretended altruism exposed by practical reasoning
+  taxonomy_refs:
+  - wisdom
+  basis: The Horse exposes the Wolf's claim by reasoning that the Wolf would have
+    eaten the oats if wolves could eat them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level interpretive motif derived from the dialogue and
+    moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4339-4342
+  quote_or_summary: The fable is titled THE WOLF AND THE HORSE; a Wolf comes to a
+    field of oats, cannot eat them, and is passing on when a Horse arrives.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 4342-4345
+  quote_or_summary: The Wolf says he has left the field of oats untouched for the
+    Horse and will enjoy hearing the Horse munch the ripe grain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 4345-4347
+  quote_or_summary: The Horse replies that if wolves could eat oats, the Wolf would
+    not have indulged his ears at the cost of his belly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 4349-4350
+  quote_or_summary: There is no virtue in giving to others what is useless to oneself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied passage. No external comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied fable text was used; other titles listed in the passage label were not extracted because they were not included in the supplied passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4339-l4350
+  passage_sha256=ee5dc0d113625a57d8c53f33783806c667b26f91af0cbd2236e247db5b6b910f
+

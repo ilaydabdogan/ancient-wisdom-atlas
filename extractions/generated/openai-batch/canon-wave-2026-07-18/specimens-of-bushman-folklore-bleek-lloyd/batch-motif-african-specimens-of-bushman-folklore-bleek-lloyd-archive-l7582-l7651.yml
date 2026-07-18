@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l7582-l7651
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE    HYENA'S    EEVENGE. / THE    HYENA'S    REVENGE. / THE   HYENA'S    REVENGE.  125
+    / THE    HYENA'S    KEVENGE.; lines 7582-7651
+  start: '7582'
+  end: '7651'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the second version of the Hyena's Revenge, Hyena visits Lion's house.
+    Lion behaves grudgingly toward Hyena, and Hyena becomes angry. Hyena then invites
+    Lion to visit Hyena's house, intending to deceive him. Lion visits, and Hyena
+    plans a deception involving soup; the English portion then gives Hyena's statement
+    that he is accustomed to pour soup, followed by source-language transcription.
+  language: English with source-language transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a second version of a tale labeled as the Hyena's
+    Revenge.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hyena goes to Lion's house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lion acts grudgingly toward Hyena; an editorial note explains the expression
+    as denoting ungenerosity regarding food.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: Hyena becomes angry after Lion's grudging behavior.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hyena deceives Lion by saying that Lion must also visit Hyena's house.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lion visits Hyena's house because of Hyena's invitation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hyena intends to deceive Lion with soup.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hyena says that he is accustomed to pour soup, but the visible English statement
+    is incomplete before the source-language transcription continues.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hyena
+  description: Animal figure who visits Lion, becomes angry, invites Lion to his own
+    house, and intends to deceive Lion with soup.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Lion
+  description: Animal figure who receives Hyena grudgingly, is invited to Hyena's
+    house, and visits as the target of Hyena's deception.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: initial visitor
+  assigned_to:
+  - fig:1
+  basis: Hyena is described as going to Lion's house.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: grudging host
+  assigned_to:
+  - fig:2
+  basis: Lion acts grudgingly toward Hyena, with an editorial note relating the expression
+    to ungenerosity about food.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: deceptive inviter
+  assigned_to:
+  - fig:1
+  basis: Hyena invites Lion to his house while intending deception, including a deception
+    with soup.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: invited visitor and target of deception
+  assigned_to:
+  - fig:2
+  basis: Lion visits Hyena's house after the invitation and is the figure Hyena intends
+    to deceive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Lion's house
+  literal_form: Lion's house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Hyena's house
+  literal_form: Hyena's house / my house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: soup
+  literal_form: soup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Grudging reception at Lion's house
+  summary: Hyena visits Lion's house; Lion behaves grudgingly toward him, and Hyena
+    becomes angry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Deceptive reciprocal invitation
+  summary: Hyena tells Lion that Lion must also visit Hyena's house, while the narration
+    states that Hyena is deceiving Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Soup deception at Hyena's house
+  summary: Lion visits Hyena's house, and Hyena intends to deceive Lion with soup;
+    Hyena begins a statement about pouring soup.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Retaliatory deception after grudging hospitality
+  taxonomy_refs: []
+  basis: Lion's grudging conduct toward Hyena leads to Hyena's anger and subsequent
+    deception of Lion through an invitation to Hyena's house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The title and opening action support a revenge or retaliation pattern,
+    but the visible English portion does not include the full outcome.
+- id: motif:2
+  label: Deceptive hospitality or reciprocal visit
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hyena uses the social setting of a return visit to his house as the means
+    of deceiving Lion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Hyena a trickster; the taxonomy link
+    is based only on the deception across household/guest-host boundaries.
+- id: motif:3
+  label: Food used as an instrument of deception
+  taxonomy_refs: []
+  basis: The narrative states that Hyena goes to deceive Lion with soup, and Hyena
+    begins a statement about pouring soup.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The exact action involving the soup is not fully preserved in the visible
+    English portion.
+comparison_claims:
+- id: claim:1
+  claim: The passage has a functional resemblance to a trickster-boundary pattern
+    because Hyena manipulates a reciprocal house visit and food-related hospitality
+    in order to deceive Lion.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a functional comparison only; the passage gives no historical-contact
+    claim, no explicit comparative statement, and no complete English outcome for
+    the soup episode.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 7582-7585
+  quote_or_summary: Passage heading identifies the tale as the Hyena's Revenge, Second
+    Version.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; citation/summary only.
+- id: ev:2
+  type: summary
+  locator: lines 7586-7590
+  quote_or_summary: Hyena goes to Lion's house; Lion acts grudgingly toward Hyena;
+    Hyena becomes angry.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7590-7596
+  quote_or_summary: Hyena deceives Lion by telling him that he must also visit Hyena's
+    house.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7596-7600
+  quote_or_summary: Lion visits Hyena's house because of the invitation; Hyena goes
+    to deceive Lion with soup.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: note
+  locator: lines 7602-7604
+  quote_or_summary: 'Editorial note: the expression is used for a person who acts
+    ungenerously regarding food.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short note summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7600-7601
+  quote_or_summary: Hyena says that he is accustomed to pour soup; the English sentence
+    is not completed before the transcription continues.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The opening English narrative is clear, but the latter portion contains source-language
+    transcription and OCR artifacts; motif extraction is therefore limited to explicitly
+    readable English content and editorial notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unstated outcomes were added. Available taxonomy references were used only where directly supported by the visible passage.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l7582-l7651
+  passage_sha256=7bdb846e4059a0b09dd0afa51d6bcb4895d8f674656cf49abfb37ab8ea319e7d
+

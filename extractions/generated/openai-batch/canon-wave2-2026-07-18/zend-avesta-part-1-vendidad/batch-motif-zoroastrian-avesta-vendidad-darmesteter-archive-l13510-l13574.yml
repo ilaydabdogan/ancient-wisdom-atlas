@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l13510-l13574
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD    XIII.  155 / FARGARD    XIII.  157 / FARGARD    XIII.  159 / VIII.;
+    lines 13510-13574
+  start: '13510'
+  end: '13574'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "'A dog has the characters of eight different sorts of people'"
+  summary: 'The passage states that a dog has the character of eight sorts of people
+    and explains several comparisons: priest, warrior, husbandman, strolling singer,
+    and thief. The dog is described as eating broken food, being grateful, marching
+    in front, fighting for the beneficent cow, keeping watch, singing, being intrusive,
+    and liking or prowling in darkness.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says a dog has the characters of eight different sorts of people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eight listed sorts are priest, warrior, husbandman, strolling singer,
+    thief, wild beast, courtezan, and child.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dog is compared to a priest because it eats broken food, is grateful,
+    is easily satisfied, and wants only a small piece of bread.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog is compared to a warrior because it marches in front, fights for the
+    beneficent cow, and goes first out of the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note explains that fighting for the beneficent cow means keeping away the
+    wolf and the thief.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dog is compared to a husbandman because it is watchful, sleeps lightly,
+    goes first out of the house, and returns last into the house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Notes connect going first out and returning last with taking cattle out of
+    and back to the stables.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The dog is compared to a strolling singer because it sings, is intrusive,
+    is meagre, and is poor.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The dog is compared to a thief because it likes darkness and prowls about
+    in darkness.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: dog
+  description: A dog described as having the characters of eight different sorts of
+    people and then compared to several of them through traits and actions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: priest-like figure
+  assigned_to:
+  - fig:1
+  basis: The dog eats broken food, is grateful, is easily satisfied, and wants a small
+    piece of bread, all compared to a priest.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: warrior-like protector
+  assigned_to:
+  - fig:1
+  basis: The dog marches in front, fights for the beneficent cow, and is glossed as
+    keeping away the wolf and the thief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: husbandman-like watcher
+  assigned_to:
+  - fig:1
+  basis: The dog is watchful, sleeps lightly, goes first out of the house, and returns
+    last into the house.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: strolling-singer-like figure
+  assigned_to:
+  - fig:1
+  basis: The dog is said to sing and is described as intrusive, meagre, and poor,
+    like a strolling singer.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: thief-like nocturnal prowler
+  assigned_to:
+  - fig:1
+  basis: The dog is said to like darkness and prowl about in darkness, like a thief.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: dog as composite social type
+  literal_form: dog
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: beneficent cow
+  literal_form: cow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: darkness
+  literal_form: darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Enumeration of the dog’s eight characters
+  summary: 'The passage introduces the dog as possessing the characters of eight sorts
+    of people: priest, warrior, husbandman, strolling singer, thief, wild beast, courtezan,
+    and child.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of priest, warrior, husbandman, and singer comparisons
+  summary: The passage explains the dog’s likeness to a priest through food and satisfaction,
+    to a warrior through leading and guarding the cow, to a husbandman through watchfulness
+    and movement around the house and cattle, and to a strolling singer through singing
+    and poverty.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Thief-like darkness behavior
+  summary: The passage describes the dog as liking darkness and prowling in darkness,
+    comparing it to a thief.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: animal embodying multiple human social roles
+  taxonomy_refs: []
+  basis: The dog is explicitly said to have the characters of eight different sorts
+    of people, and several analogies are then explained through traits and actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No provided taxonomy family exactly matches this classificatory animal-role
+    motif.
+- id: motif:2
+  label: guardian animal protecting cattle
+  taxonomy_refs: []
+  basis: The dog is compared to a warrior because it fights for the beneficent cow;
+    the note explains this as keeping away the wolf and the thief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as one analogy within a larger list, not as a
+    separate narrative episode.
+- id: motif:3
+  label: nocturnal prowling animal compared to thief
+  taxonomy_refs: []
+  basis: The dog is said to like darkness and to prowl about in darkness, like a thief.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The excerpt ends after the opening of this comparison; the full thief
+    comparison may continue beyond the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13510-13528
+  quote_or_summary: The passage says, “A dog has the characters of eight different
+    sorts of people,” then lists priest, warrior, husbandman, strolling singer, thief,
+    wild beast, courtezan, and child.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 13530-13537
+  quote_or_summary: The dog is like a priest because it eats broken food, is grateful,
+    is easily satisfied, and wants only a small piece of bread.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13538-13542
+  quote_or_summary: The dog is like a warrior because it marches in front, fights
+    for the beneficent cow, and goes first out of the house.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: footnote 3 within supplied passage
+  quote_or_summary: The note glosses the dog’s defense of the cow as keeping away
+    the wolf and the thief.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13543-13549
+  quote_or_summary: The dog is like a husbandman because it is watchful, sleeps lightly,
+    goes first out of the house, and returns last into the house.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: footnotes 5-6 within supplied passage
+  quote_or_summary: The notes connect going out first and returning last with taking
+    cattle out of the stables and bringing them back.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13550-13556
+  quote_or_summary: The dog is like a strolling singer because it sings, is intrusive,
+    is meagre, and is poor.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13557-13559
+  quote_or_summary: The dog is like a thief because it likes darkness and prowls about
+    in darkness.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are descriptive rather
+    than taxonomy-linked because the supplied taxonomy does not include a precise
+    match. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Footnotes marked doubtful in the source were not treated as firm beyond identifying that the translator notes uncertainty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l13510-l13574
+  passage_sha256=9b58a3392ca6078df319c99ce7fbcde9334cd3f68488269b9bc2d0fdd4160eb2
+

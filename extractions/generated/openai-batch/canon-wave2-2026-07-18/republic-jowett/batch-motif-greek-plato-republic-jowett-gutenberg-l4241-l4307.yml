@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l4241-l4307
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 4241-4307
+  start: '4241'
+  end: '4307'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage interprets Plato''s cave allegory as both political and philosophical.
+    The cave or den is treated as the narrow lower sphere of politics and law, while
+    light and the upper world are associated with eternal ideas and the good. Those
+    who return from the upper world are at first ineffective and persecuted among
+    the den''s inhabitants, but later perceive lower things more accurately. The passage
+    distinguishes two disorders of vision: one from moving out of darkness into day,
+    and another from descending from higher light into the den for others'' benefit.
+    It then applies these patterns to modern politicians, theorists, professionals,
+    and people altered by inward illumination.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The den or cave is said to represent the narrow sphere of politics or law.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The light of the eternal ideas is said to disturb the minds of those who return
+    to the lower world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Those who return are initially unable to compete with the inhabitants of the
+    den in measuring shadows and are derided and persecuted by them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After a time, the returnees see things below in truer proportions than those
+    who have never ascended to the upper world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Two kinds of disordered eyesight are used to symbolize the difference between
+    a politician turned philosopher and a philosopher turned politician.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One eyesight disorder belongs to a captive transferred from darkness to day;
+    the other belongs to a heavenly messenger who voluntarily descends into the den
+    for the good of fellow humans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says Plato leaves unexplained how brighter light is to dawn on
+    the lower world or how the idea of good is to guide politics.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Modern politicians or statesmen are divided into two illustrative sorts whose
+    eyesight is disordered in different ways.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: One modern type is described as absorbed by general maxims, historical parallels,
+    future institutions, or great ideas until practical proportions are distorted.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Another modern type is described as seeing only what is near, being limited
+    by profession, class, sect, or immediate opinion, and being unsettled by a sudden
+    larger calling or inward light.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: inhabitants of the den
+  description: People in the den who measure shadows, deride and persecute returnees,
+    and have never ascended to the upper world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: those who return
+  description: Figures who return to the lower world after contact with the upper
+    world or eternal ideas; at first they are ineffective among den inhabitants, but
+    later see lower things more truly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: captive transferred from darkness to day
+  description: A captive whose eyesight disorder comes from being moved from darkness
+    into day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: heavenly messenger
+  description: A figure who voluntarily descends into the den for the good of fellow
+    humans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: politicians or statesmen
+  description: Modern illustrative figures whose eyesight is said to become disordered
+    in two different ways.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: returnee from upper world
+  assigned_to:
+  - fig:2
+  basis: The passage describes people who return to the lower world after relation
+    to the upper world or eternal ideas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ascending captive
+  assigned_to:
+  - fig:3
+  basis: The captive is transferred from darkness to day.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: voluntary descender for others' good
+  assigned_to:
+  - fig:4
+  basis: The heavenly messenger voluntarily descends into the den for the good of
+    fellow humans.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: unascended den inhabitant
+  assigned_to:
+  - fig:1
+  basis: The inhabitants of the den have never ascended into the upper world and measure
+    shadows.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: illustrative political observer with disordered vision
+  assigned_to:
+  - fig:5
+  basis: The passage applies the two kinds of disordered eyesight to modern politicians
+    or statesmen.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: cave or den
+  literal_form: den or cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: light of ideas
+  literal_form: light, brighter light, eternal ideas, idea of good, inward light
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: shadows
+  literal_form: shadows measured in the den; projecting shadow of an institution
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: upper and lower worlds
+  literal_form: upper world and lower world
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: disordered eyesight
+  literal_form: disordered eyesight, luminous mist, blindness, false distances, erroneous
+    proportions
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cave interpreted as lower political sphere
+  summary: The cave or den is explained as the narrow sphere of politics or law, contrasted
+    with the light of eternal ideas and the lower world to which some return.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Returnees among den inhabitants
+  summary: Those who return cannot at first compete with den inhabitants in measuring
+    shadows and are mocked and persecuted, but later perceive lower things more accurately
+    than those who never ascended.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two disorders of eyesight
+  summary: The passage contrasts the eyesight disorder of a captive moved from darkness
+    to day with that of a heavenly messenger descending into the den for others' good.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Modern political illustrations
+  summary: 'Modern politicians or statesmen are used to illustrate two vision disorders:
+    absorption in broad ideas that obscure practical proportion, and narrow attention
+    to immediate profession or class that is disrupted by larger calling or inward
+    light.'
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cave as confined field of perception
+  taxonomy_refs: []
+  basis: The den or cave is explicitly treated as the lower, narrow sphere in which
+    inhabitants measure shadows and fail to share the perspective of those who ascended.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is interpretive commentary on Plato's allegory rather than
+    a narrated mythic episode.
+- id: motif:2
+  label: ascent from darkness to day
+  taxonomy_refs:
+  - ascent
+  basis: The passage refers to ascent into the upper world and to a captive transferred
+    from darkness to day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The ascent is presented through allegorical interpretation and visual
+    symbolism.
+- id: motif:3
+  label: return or descent of the enlightened figure
+  taxonomy_refs:
+  - return
+  basis: Those who return to the lower world are disturbed and persecuted at first
+    but later see more truly; a heavenly messenger voluntarily descends into the den
+    for fellow humans' good.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not narrate a full heroic return cycle; it analyzes a
+    philosophical allegory.
+- id: motif:4
+  label: wisdom or good represented as light
+  taxonomy_refs:
+  - wisdom
+  basis: The passage associates light with eternal ideas, the idea of good, brighter
+    illumination, and inward light revealing higher realities.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link is conceptual; the passage uses philosophical imagery
+    rather than a named wisdom deity or mythic teacher.
+- id: motif:5
+  label: persecution of the returned knower
+  taxonomy_refs: []
+  basis: Returnees to the den are derided and persecuted by inhabitants before later
+    seeing things below more truly.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage summarizes the allegorical pattern and does not give a detailed
+    persecution narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the cave or den as a narrow political or
+    legal sphere with a description of the philosopher and lawyer in the Theaetetus.
+  claim_level: same_function
+  target: 'Plato, Theaetetus: description of the philosopher and lawyer'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a parenthetical comparison and no details from
+    the Theaetetus passage.
+- id: claim:2
+  claim: The passage connects the unexplained nature of dialectic and the idea of
+    good with a parenthetical reference to the Symposium, suggesting a related pattern
+    of restricted explanation to prepared disciples.
+  claim_level: same_function
+  target: Plato, Symposium
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a parenthetical reference and does not quote
+    or summarize the Symposium.
+- id: claim:3
+  claim: The passage treats modern politics and daily life as illustrations of the
+    same twofold pattern of disordered eyesight found in the cave allegory.
+  claim_level: same_function
+  target: modern politics and daily life
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an authorial illustrative analogy, not evidence for historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4241-4248
+  quote_or_summary: The cave or den represents the narrow sphere of politics or law,
+    while the light of eternal ideas disturbs the minds of those who return to the
+    lower world.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4249-4254
+  quote_or_summary: Returnees are initially unable to compete with den inhabitants
+    in measuring shadows and are derided and persecuted, but later see lower things
+    in truer proportions than those who never ascended.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4255-4260
+  quote_or_summary: 'Two disorders of eyesight symbolize the politician turned philosopher
+    and the philosopher turned politician: a captive moved from darkness to day, and
+    a heavenly messenger descending into the den for others'' good.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4261-4267
+  quote_or_summary: The passage says Plato leaves unexplained how brighter light dawns
+    on the lower world or how the idea of good guides politics, linking this to dialectic
+    and a parenthetical Symposium reference.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4268-4291
+  quote_or_summary: Modern politics and daily life are said to illustrate the allegory;
+    one type of politician is absorbed by general maxims, historical parallels, future
+    institutions, or great ideas, producing a luminous mist or blindness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4292-4307
+  quote_or_summary: A second type sees only what is near and is limited by trade,
+    profession, sect, class, or immediate opinion; a larger calling or sudden inward
+    light may upset daily life while old narrownesses remain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a public-domain English interpretive analysis of Plato's cave
+    allegory, not a direct dramatic narration. Motif candidates are therefore extracted
+    from the allegorical imagery and the author's stated interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to supplied available refs and only where directly supported by the passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l4241-l4307
+  passage_sha256=c8ecc72f3d1f97dff7f9a3645ced240fbe185436a6de5340d2c761e799b823cf
+

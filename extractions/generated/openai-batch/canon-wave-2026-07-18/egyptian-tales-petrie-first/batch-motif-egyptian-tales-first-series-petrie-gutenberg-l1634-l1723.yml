@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.egyptian-tales-first-series-petrie-gutenberg-l1634-l1723
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+passage_locator:
+  label: THE FAREWELL / XIITH DYNASTY / THE ADVENTURES OF SANEHAT / THE FLIGHT; lines
+    1634-1723
+  start: '1634'
+  end: '1723'
+  translation: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to
+    XIIth Dynasty'
+  notes: Generated from OpenAI Batch run canon-wave-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces The Adventures of Sanehat through manuscript witnesses,
+    translations, and Petrie's view of the tale as historically plausible. It explains
+    Sanehat's name as linked to a sacred sycamore, describes his high rank and connection
+    to the royal household, proposes an explanation for his panic after Amenemhat
+    I's death, summarizes royal succession and the image of the dead king ascending
+    as a hawk to the sun, and reconstructs the geography and timing of Sanehat's flight
+    from the western Delta across the Nile and frontier into the eastern desert, where
+    he is rescued by Sati or Asiatics.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor states that portions of three copies of The Adventures of Sanehat
+    remain, including material on a limestone flake and an Amherst papyrus.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor presents the tale as plausible and says he will treat it seriously,
+    like early tomb biographical inscriptions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sanehat's name is explained as meaning "son of the sycamore," and the editor
+    connects this with a celebrated sacred sycamore and with Sanehat turning his back
+    on the sycamore during flight.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sanehat is described as having high titles, a position in the queen's household,
+    and familiarity with the royal family.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The editor notes Sanehat's sudden panic after hearing of Amenemhat's death
+    and conjectures that he may have been Amenemhat's son by a concubine and therefore
+    afraid of Usertesen.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Amenemhat's death is described through the emblem of a hawk, the bird of Ra,
+    flying up and joining the sun.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Amenemhat is described as having associated Usertesen on the throne, retired
+    from active life, and died during an expedition of Usertesen.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The editor places the time of year around the middle of the inundation and
+    connects military expeditions with the period after harvest when the country was
+    under water.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The reconstructed flight route has Sanehat hiding between bushes, fleeing
+    south, sleeping in an open field, reaching and crossing the Nile, passing quarries
+    and a red hill, and arriving at a frontier wall before dark.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Sanehat passes desert guards by night, reaches Peten by dawn, turns east toward
+    Kemur or Wady Tumilat, and is found and rescued by the Sati or Asiatics.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The editor says the eastern desert was left to wandering tribes and lacked
+    regular government, while the eastern Delta was in Egyptian hands.
+  category: setting
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sanehat / Sa-nehat
+  description: A high-ranking figure connected with the queen's household; his name
+    is explained as "son of the sycamore." He panics after Amenemhat's death, flees
+    across Egyptian frontier terrain, and is rescued by the Sati or Asiatics.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Amenemhat I / Sehote-pabra
+  description: Founder of the XIIth Dynasty whose death prompts the discussion of
+    royal decease and Sanehat's panic; described as having associated Usertesen on
+    the throne before dying during Usertesen's expedition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Usertesen I
+  description: Amenemhat's son and co-regent, on expedition when Amenemhat dies; in
+    the editor's conjecture, he may have been feared by Sanehat as an elder brother
+    and possible threat.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Sati or Asiatics
+  description: A group in the eastern desert who find Sanehat in extremity and rescue
+    him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Ra
+  description: Named in the passage through the hawk, described as the bird of Ra,
+    in the imagery used for the king's decease.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fugitive protagonist
+  assigned_to:
+  - fig:1
+  basis: Sanehat is traced through a rapid flight route involving hiding, crossing
+    the Nile, passing guards, and entering the eastern desert.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:2
+  label: high-ranking royal-household figure
+  assigned_to:
+  - fig:1
+  basis: The passage states that Sanehat's titles imply high rank and that his position
+    was in the queen's household.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: deceased founder king
+  assigned_to:
+  - fig:2
+  basis: Amenemhat is identified as founder of the XIIth Dynasty, and his death is
+    discussed as the occasion for Sanehat's panic and for royal-death imagery.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: royal successor and co-regent
+  assigned_to:
+  - fig:3
+  basis: Usertesen is described as Amenemhat's son, associated with him on the throne,
+    and active in court and expeditionary contexts.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: rescuers in the eastern desert
+  assigned_to:
+  - fig:4
+  basis: The Sati or Asiatics find Sanehat in extremity and rescue him.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: editorially conjectured royal son and potential rival
+  assigned_to:
+  - fig:1
+  basis: The editor conjectures that Sanehat may have been a son of Amenemhat by a
+    concubine, explaining his fear and high status.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: editorially conjectured feared elder brother
+  assigned_to:
+  - fig:3
+  basis: The editor suggests Usertesen might have been feared by Sanehat as an elder
+    brother who could see him as a rival.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: solar divine reference in royal-death imagery
+  assigned_to:
+  - fig:5
+  basis: The hawk is identified as the bird of Ra in the description of the king flying
+    up and joining the sun.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred sycamore
+  literal_form: A celebrated sacred sycamore connected with Sanehat's name and with
+    the direction of his flight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hawk emblem
+  literal_form: A hawk, described as the bird of Ra, used as an emblem for the king's
+    decease and upward flight.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sun joined by the dead king
+  literal_form: The sun, which the deceased king is said to join after flying upward
+    under the hawk emblem.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Nile and inundation waters
+  literal_form: The inundated country and the Nile crossing that structure the seasonal
+    and geographic setting of the flight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: frontier wall and desert guards
+  literal_form: A frontier wall and guards that Sanehat passes as he moves from Egyptian-controlled
+    space toward the desert.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Editorial introduction and historical framing
+  summary: The passage presents manuscript witnesses, prior translations, and the
+    editor's judgment that the tale is historically plausible and useful for understanding
+    Egypt and Syria.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sanehat's name, status, and possible motive for fear
+  summary: Sanehat is linked with the sycamore by name, described as high-ranking
+    and connected to the royal household, and explained by the editor as possibly
+    a royal son afraid of Usertesen after Amenemhat's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Royal death and succession
+  summary: Amenemhat's death is interpreted through hawk and solar imagery, while
+    his earlier association of Usertesen on the throne and death during Usertesen's
+    expedition are summarized.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Season and geography of Sanehat's flight
+  summary: The editor situates the events during inundation and reconstructs Sanehat's
+    route from the western Delta, through hiding and travel, to the Nile crossing
+    and frontier wall.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Night passage into the eastern desert and rescue
+  summary: Sanehat passes guards by night, reaches Peten by dawn, turns toward the
+    Wady Tumilat region, and is rescued by Sati or Asiatics in the desert margin.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: flight after royal death
+  taxonomy_refs:
+  - departure
+  basis: Sanehat's panic after Amenemhat's death is followed by hiding, rapid travel,
+    Nile crossing, passing guards, and movement into the eastern desert.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage is largely Petrie's editorial reconstruction and explanation,
+    not only direct narrative quotation.
+- id: motif:2
+  label: royal death as upward solar ascent
+  taxonomy_refs:
+  - ascent
+  basis: The king's decease is described through a hawk, the bird of Ra, flying up
+    and joining the sun.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage explicitly frames this as an emblem for how a king's death
+    was regarded; no further afterlife itinerary is given here.
+- id: motif:3
+  label: succession anxiety and potential royal rival
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The editor links Sanehat's high rank and panic to a conjecture that he may
+    have been Amenemhat's son by a concubine and feared Usertesen as an elder brother
+    who might see him as a rival.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The royal-son explanation is explicitly presented as an editorial conjecture,
+    not as a stated fact of the tale in this passage.
+- id: motif:4
+  label: sacred tree as name and place marker
+  taxonomy_refs: []
+  basis: Sanehat's name is explained through the sycamore, and the editor connects
+    this with a celebrated sacred sycamore and Sanehat turning his back on it during
+    flight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions a sacred sycamore but does not describe a cosmic-tree
+    or axis function.
+- id: motif:5
+  label: rescue by outsiders at the desert margin
+  taxonomy_refs: []
+  basis: At the edge of Egyptian-controlled space, Sanehat is found in extremity and
+    rescued by the Sati or Asiatics, whom the passage associates with wandering tribes
+    in the eastern desert.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage presents this mainly as historical-geographic reconstruction;
+    broader symbolic meaning is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1634-1645
+  quote_or_summary: The passage states that portions of three copies of The Adventures
+    of Sanehat remain, including the beginning on a limestone flake and an Amherst
+    papyrus, and notes previous translations and Griffith's readings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 1646-1657
+  quote_or_summary: The editor says the tale bears signs of being written in the period
+    it treats, illuminates life in Egypt and Syria, and is plausible enough to be
+    treated seriously like early tomb biographical inscriptions.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 1658-1666
+  quote_or_summary: Sanehat's name is explained as "son of the sycamore," probably
+    from birth or residence near a celebrated sacred sycamore; the editor links this
+    with Sanehat turning his back on the sycamore during flight.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary includes short public-domain phrase.
+- id: ev:4
+  type: summary
+  locator: lines 1667-1672
+  quote_or_summary: Sanehat's opening titles are said to imply very high rank, possibly
+    as a king's or noble's son; his position in the queen's household and later reception
+    by the royal family show importance and familiarity.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 1673-1685
+  quote_or_summary: The editor identifies Sanehat's sudden panic after Amenemhat's
+    death as difficult to explain, then proposes that Sanehat may have been Amenemhat's
+    son by a concubine and feared Usertesen as a potential threat.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:6
+  type: quote
+  locator: lines 1686-1691
+  quote_or_summary: '"under the emblem of a hawk--the bird of Ra--he flew up and joined
+    the sun."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 1692-1702
+  quote_or_summary: Amenemhat is described as having associated his son Usertesen
+    on the throne after twenty years of reign, apparently retired from active life,
+    and died during an expedition of Usertesen.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:8
+  type: summary
+  locator: lines 1703-1707
+  quote_or_summary: The time of year is placed around the middle of inundation; the
+    editor infers that military expeditions occurred after harvest when the country
+    was under water and the population free from other labor.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:9
+  type: summary
+  locator: lines 1708-1719
+  quote_or_summary: 'The editor reconstructs Sanehat''s flight from an army west of
+    the Delta: he hides between two bushes, flees south, turns his back on the sycamore,
+    sleeps in the open, reaches the Nile, ferries across, passes quarries and a red
+    hill, and comes to a frontier wall.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:10
+  type: summary
+  locator: lines 1719-1722
+  quote_or_summary: Sanehat passes the desert guards by night, reaches Peten by dawn,
+    turns east toward Kemur or Wady Tumilat, and is found in extremity and rescued
+    by the Sati or Asiatics.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:11
+  type: summary
+  locator: lines 1722-1723
+  quote_or_summary: The editor says the eastern desert was left to wandering tribes
+    and lacked regular government, while the eastern Delta was already in Egyptian
+    hands according to monuments.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  rights_note: Public domain source; summary by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided passage. Several motifs are drawn
+    from Petrie's editorial reconstruction and conjecture, so those candidates are
+    marked with cautions. No explicit cross-tradition comparison is made in the passage,
+    so comparison_claims is empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All evidence references point to the provided line range and source path. Taxonomy references are limited to supplied available refs and are omitted where the supplied taxonomy does not directly fit the passage evidence.
+  batch_run_id=canon-wave-2026-07-18
+  custom_id=motif_extract:egyptian-tales-first-series-petrie-gutenberg__l1634-l1723
+  passage_sha256=4c56f8651f9b7c8d211d95e6ecea5fa3e65186fb84623c9b85354e10ab2f92d7
+

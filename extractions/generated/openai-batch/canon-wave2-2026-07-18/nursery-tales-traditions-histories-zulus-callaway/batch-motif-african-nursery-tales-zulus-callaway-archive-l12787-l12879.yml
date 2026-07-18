@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l12787-l12879
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UKCOMBEKCANSINI. / UKCOMBEKCANSINI. / IZINGANEKWANE. / UKCOMBEKCANSINI.;
+    lines 12787-12879
+  start: '12787'
+  end: '12879'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A legless old woman, Uthlese, remains at the village while the others go
+    to dig. The damsels again become human, ask Uthlese whether she will report seeing
+    girls there, and she says she will not. The damsels then take vessels, fetch water,
+    prepare materials for beer, smear the floors of the houses, and gather firewood
+    for the whole village or kraal.
+  language: English translation with parallel Zulu
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old woman named Uthlese lives at the village; she has no legs, only arms,
+    and moves by rolling or shuffling with her body.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The village people have gone away to dig, leaving Uthlese at home.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The damsels again turn into human beings and come to the place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The damsels ask Uthlese whether she will say she has seen girls at home; Uthlese
+    replies that she will say she has not seen people there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The damsels take vessels from the village and fetch water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The damsels crush mealies for beer and boil water for the beer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The damsels smear the floors of the houses throughout the village.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The damsels fetch firewood and place it throughout the kraal.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Uthlese
+  description: An old woman at the village who has no legs, only arms, and remains
+    at home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the damsels / the bride and her maids
+  description: Female visitors identified by the heading as the bride and her maids;
+    in the narrative they again turn into human beings and perform household work
+    in the village.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: the village people
+  description: The people of the village who have gone to dig during the damsels’
+    visit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: homebound witness
+  assigned_to:
+  - fig:1
+  basis: Uthlese remains at home while others are absent and is asked whether she
+    will report seeing the girls.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: temporary human-form visitors
+  assigned_to:
+  - fig:2
+  basis: The damsels are said to again turn into human beings and come to the place.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: secrecy seekers
+  assigned_to:
+  - fig:2
+  basis: They ask Uthlese whether she will say she has seen girls there.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: domestic helpers
+  assigned_to:
+  - fig:2
+  basis: They fetch water, prepare for beer-making, smear floors, and fetch firewood
+    for the village.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: absent workers
+  assigned_to:
+  - fig:3
+  basis: The village people have gone away to dig before the damsels arrive.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water fetched repeatedly by the damsels and boiled for beer.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: vessels
+  literal_form: All the vessels from one side of the village, taken by the damsels
+    to fetch water.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: firewood
+  literal_form: Firewood fetched and placed throughout the kraal.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Uthlese remains while the village people dig
+  summary: The village people go to dig, and Uthlese, an old legless woman, remains
+    at home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Damsels resume human form and ask for concealment
+  summary: The damsels again become human and ask Uthlese whether she will report
+    seeing girls at the village; Uthlese says she will not.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Damsels perform village household labor
+  summary: The damsels take vessels, fetch water, prepare for beer-making, smear house
+    floors, and gather firewood for the village or kraal.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: temporary resumption of human form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrative states that the damsels again turned into human beings, and
+    the heading says the bride and her maids assume their own forms.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: This passage confirms a change into human form, but the immediately supplied
+    excerpt does not show the earlier non-human form.
+- id: motif:2
+  label: hidden female helpers perform domestic labor
+  taxonomy_refs: []
+  basis: After securing Uthlese’s assurance that she will not report seeing them,
+    the damsels fetch water, prepare beer-making materials, smear floors, and fetch
+    firewood for the village.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt shows concealed helpful labor, but broader narrative significance
+    depends on surrounding context not included here.
+- id: motif:3
+  label: witness agrees not to reveal visitors
+  taxonomy_refs: []
+  basis: Uthlese is directly asked whether she will say she has seen girls, and she
+    replies that she will say she has not seen people there.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the exchange but not the later consequences of Uthlese’s
+    concealment.
+comparison_claims:
+- id: claim:1
+  claim: The editor’s note explicitly compares the damsels’ return to human form with
+    a broader fairy-tale pattern in which transformed humans or animal-shaped beings
+    periodically resume human form.
+  claim_level: same_motif
+  target: Transformation/resumption-of-human-form examples cited in footnote 58, including
+    Grimm, Campbell, Andersen, Thorpe, and Dasent parallels
+  evidence_refs:
+  - ev:3
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison comes from the collector/editorial note rather than
+    from the Zulu narrative action alone; it does not establish historical contact
+    or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: Uthlese is described as an old woman at the village with no legs,
+    only arms, who remains at home and moves by rolling or shuffling with her body.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The people of the village have gone to dig before the damsels
+    arrive.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 12787-12879; page 123
+  quote_or_summary: "“the damsels again turned into human beings”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The damsels ask Uthlese whether she will say she has seen girls
+    at home; Uthlese answers that she will say she could not have seen people there
+    since she is only Uthlese.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The damsels take all the vessels from one side of the village
+    and go to fetch water.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The damsels crush mealies for beer, fetch water again and again,
+    and boil it for the beer.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The damsels smear the floors of the houses throughout the village.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 12787-12879; page 123
+  quote_or_summary: The damsels fetch firewood and place it throughout the kraal.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: citation
+  locator: heading within lines 12787-12879
+  quote_or_summary: 'Heading: the bride and her maids assume their own forms and visit
+    the bridegroom’s kraal.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; heading summarized.
+- id: ev:10
+  type: note
+  locator: footnote 58 within lines 12787-12879
+  quote_or_summary: Editorial footnote compares this transformation pattern with tales
+    of changed brothers, swans, doves, a bear, a dragon, and crows resuming human
+    or other forms in Grimm, Campbell, Andersen, Thorpe, and Dasent.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; editorial note summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal actions and figures are explicit in the supplied passage. Motif interpretation
+    is strongest for temporary human-form transformation; other motif candidates depend
+    on broader narrative context. The comparison claim relies on the included editorial
+    footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond the supplied motif family and symbol lists were added. Literal domestic objects are recorded without symbolic interpretation.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l12787-l12879
+  passage_sha256=0c462ce778dd311cd317a7fc017175f7a7e0efeef1906e49e163df789017e5d9
+

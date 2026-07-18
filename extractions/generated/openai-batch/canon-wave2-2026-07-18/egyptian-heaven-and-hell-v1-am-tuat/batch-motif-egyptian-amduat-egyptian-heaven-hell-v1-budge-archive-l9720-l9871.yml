@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l9720-l9871
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I        I        I / I    I   I / D    D / THE    BOOK   OF   AM-TUAT; lines
+    9720-9871
+  start: '9720'
+  end: '9871'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: '"Ra decreeth for them loaves of bread and vessels of beer"'
+  summary: The passage describes figures in a city who offer food to gods in the Tuat.
+    Ra grants them bread and beer, and gods proceed in the following of the great
+    god toward the eastern horizon of the sky. Hetep-neteru-Tuat also follows him.
+    The upper register contains twelve gods seated on the symbol of linen swathings,
+    with their names listed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies figures in a picture within a city as those who give
+    food offerings to gods in the Tuat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Ra decrees loaves of bread and vessels of beer for the offering-givers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The gods journey in the following of the great god toward the eastern horizon
+    of the sky.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Hetep-neteru-Tuat is said to follow the great god as well.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The upper register contains twelve gods.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Each of the twelve upper-register gods is seated on the symbol of linen swathings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The listed names of the twelve gods include Neha-ta, Teba, Maati or Ariti,
+    Menkhet, Hebs, Nebti, Asti-xeter, Asti-paut, Hetemet-khu, Neb-Pat, Temtu, and
+    Men-5 as represented in the OCR passage.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Those in the picture in this City
+  description: Figures identified as giving offerings of food to the gods in the Tuat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gods who are in the Tuat
+  description: Gods who receive offerings of food and are described as journeying
+    in the following of the great god.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Ra / this great god
+  description: Ra decrees loaves of bread and vessels of beer; the gods journey in
+    the following of the great god toward the eastern horizon.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hetep-neteru-Tuat
+  description: A named figure said also to follow the great god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Twelve upper-register gods
+  description: Twelve gods seated upon the symbol of linen swathings, with names listed
+    in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: food-offering givers
+  assigned_to:
+  - fig:1
+  basis: They are identified as those who give offerings of food to gods in the Tuat.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Tuat gods receiving offerings
+  assigned_to:
+  - fig:2
+  basis: They are named as the gods in the Tuat to whom food offerings are given.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: decreeing provider of bread and beer
+  assigned_to:
+  - fig:3
+  basis: Ra decrees loaves of bread and vessels of beer for the offering-givers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: great god followed on the journey
+  assigned_to:
+  - fig:3
+  basis: The gods journey in the following of this great god to the eastern horizon.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: follower in the divine journey
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The gods journey in the following of the great god, and Hetep-neteru-Tuat
+    is also said to follow him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: seated upper-register deities
+  assigned_to:
+  - fig:5
+  basis: The upper register is described as containing twelve gods, each seated on
+    the symbol of linen swathings.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Tuat
+  literal_form: The Tuat, the place where the gods receiving offerings are located.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: food offerings
+  literal_form: Offerings of food given to the gods in the Tuat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bread and beer provisions
+  literal_form: Loaves of bread and vessels of beer decreed by Ra.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eastern horizon of the sky
+  literal_form: The destination toward which the gods journey in the following of
+    the great god.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: symbol of linen swathings
+  literal_form: The object or sign on which each of the twelve upper-register gods
+    is seated.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: twelve
+  literal_form: The number of gods in the upper register.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: city in the picture
+  literal_form: The city in which the offering-givers are said to be located.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Food offerings in the city
+  summary: Figures in a city are identified as those who give food offerings to gods
+    in the Tuat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ra decrees provisions
+  summary: Ra grants the offering-givers loaves of bread and vessels of beer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine journey to the eastern horizon
+  summary: The gods proceed in the following of the great god toward the eastern horizon
+    of the sky, with Hetep-neteru-Tuat also following.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Twelve gods in the upper register
+  summary: The upper register contains twelve named gods, each seated upon the symbol
+    of linen swathings.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey through the Tuat toward the horizon
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage is situated in a division of the Book of Am-Tuat and describes
+    gods in the Tuat journeying after the great god toward the eastern horizon of
+    the sky.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The extracted passage is fragmentary and OCR-corrupted; the broader structure
+    of the division is inferred only from the supplied heading and prose.
+- id: motif:2
+  label: ritual offering and divine provisioning
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The figures give food offerings to gods in the Tuat, and Ra decrees bread
+    and beer for them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states offerings and a divine decree of provisions, but does
+    not explicitly frame the actions as a reciprocal exchange.
+- id: motif:3
+  label: ordered group of twelve seated deities
+  taxonomy_refs: []
+  basis: The upper register is organized as twelve named gods, each seated on the
+    symbol of linen swathings.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this register arrangement
+    or the linen-swathing symbol.
+comparison_claims:
+- id: claim:1
+  claim: This passage fits the broad afterlife-journey-map pattern because it presents
+    a named underworld setting, a register of deities, and movement in the Tuat toward
+    the eastern horizon.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad taxonomy-level comparison, not a claim of historical
+    contact or a comparison to a specific external text.
+- id: claim:2
+  claim: The offering of food to Tuat gods together with Ra's decree of bread and
+    beer has the same general function as a sacred-exchange pattern.
+  claim_level: same_function
+  target: sacred_exchange
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not explicitly state reciprocity or bargain language;
+    the comparison is functional and tentative.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9720-9871
+  quote_or_summary: The visible heading places the passage in the Ninth Division,
+    with the name Best-Aru-Ankhet-Kheperu appearing in the supplied text.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9720-9871
+  quote_or_summary: '"Those who are in this picture in this City are they who give
+    offerings of food to the gods who are in the Tuat"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 9720-9871
+  quote_or_summary: '"Ra decreeth for them loaves of bread and vessels of beer"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 9720-9871
+  quote_or_summary: '"the gods journey on in the following of this great god to the
+    Eastern horizon of the sky"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 9720-9871
+  quote_or_summary: '"with Hetep-neteru-Tuat [also] following him"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 9720-9871
+  quote_or_summary: '"In the upper register are:— 1. Twelve gods, each of whom is
+    seated upon the symbol of linen swathings"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 9720-9871
+  quote_or_summary: The OCR passage lists the twelve gods' names as Neha-ta, Teba,
+    Maati or Ariti, Menkhet, Hebs, Nebti, Asti-xeter, Asti-paut, Hetemet-khu, Neb-Pat,
+    Temtu, and Men-5.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; names summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The prose portion is clear enough for basic extraction, but the supplied
+    passage includes OCR artifacts and partially corrupted name forms; all records
+    should be checked against the source images or a cleaner edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons or unsupplied taxonomy identifiers were added.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l9720-l9871
+  passage_sha256=15a4f0c3812ae87e2e47a731616565ce4280beb97d31f816b2685602c84b2e5a
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1852-l1865
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE COOK / THE MONKEY AS KING / THE THIEVES AND THE COCK / THE
+    FARMER AND FORTUNE; lines 1852-1865
+  start: '1852'
+  end: '1865'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A farmer ploughing his field discovers a pot of golden coins. He responds
+    by making daily offerings at the shrine of the Goddess of the Earth. Fortune objects
+    that she, not Earth, gave him the good luck, and says he would blame Fortune if
+    he later lost the gain. The stated moral urges gratitude where it is due.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A farmer is ploughing on his farm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer's plough turns up a pot of golden coins.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer is overjoyed by the discovery.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the discovery, the farmer makes a daily offering at the shrine of the
+    Goddess of the Earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fortune is displeased by the farmer's offerings to Earth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Fortune tells the farmer that she bestowed the gift upon him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Fortune says the farmer failed to thank her for his good luck.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Fortune says she would receive the blame if the farmer lost what he had gained.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage ends with a moral about showing gratitude where gratitude is due.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer who discovers golden coins while ploughing and then makes
+    daily offerings to the Goddess of the Earth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fortune
+  description: A personified figure who claims to have bestowed the farmer's good
+    luck and objects to Earth receiving the credit.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Goddess of the Earth / Earth
+  description: The deity at whose shrine the farmer makes daily offerings after finding
+    the coins; Fortune says Earth is being given the credit for the gift.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: discoverer of buried wealth
+  assigned_to:
+  - fig:1
+  basis: The farmer turns up a pot of golden coins with his plough.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: offerer of daily shrine gifts
+  assigned_to:
+  - fig:1
+  basis: The farmer makes an offering daily at the shrine of the Goddess of the Earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: personified giver of luck
+  assigned_to:
+  - fig:2
+  basis: Fortune states that she bestowed the gift and calls it the farmer's good
+    luck.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: reproving speaker
+  assigned_to:
+  - fig:2
+  basis: Fortune comes to the farmer and challenges his decision to credit Earth rather
+    than Fortune.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: credited deity receiving offerings
+  assigned_to:
+  - fig:3
+  basis: The farmer offers at the Earth goddess's shrine, and Fortune says the farmer
+    gives Earth credit for the gift.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: pot of golden coins
+  literal_form: A pot of golden coins turned up by the farmer's plough.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: plough
+  literal_form: The farmer's plough, which turns up the pot of coins.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shrine of the Goddess of the Earth
+  literal_form: A shrine where the farmer makes daily offerings after the discovery.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: daily offering
+  literal_form: The repeated offering made by the farmer at the shrine.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Discovery while ploughing
+  summary: A farmer ploughs his farm and turns up a pot of golden coins, becoming
+    overjoyed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings to Earth
+  summary: After the discovery, the farmer makes a daily offering at the shrine of
+    the Goddess of the Earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fortune's complaint
+  summary: Fortune comes to the farmer and says he credits Earth for a gift Fortune
+    bestowed, though he would blame Fortune if he lost it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stated moral
+  summary: The fable concludes that gratitude should be shown where it is due.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unexpected treasure found while ploughing
+  taxonomy_refs: []
+  basis: The farmer discovers a pot of golden coins when his plough turns it up on
+    his farm.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no further background for the treasure or its owner.
+- id: motif:2
+  label: gratitude misdirected to the wrong power
+  taxonomy_refs:
+  - wisdom
+  basis: The farmer thanks Earth through daily offerings, but Fortune says she bestowed
+    the gift and should have been thanked.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The interpretation is directly supported by the stated moral, but the
+    available taxonomy has only a broad wisdom category for this fable pattern.
+- id: motif:3
+  label: personified Fortune claiming credit for good luck
+  taxonomy_refs: []
+  basis: Fortune appears as a speaking figure, claims responsibility for the farmer's
+    good luck, and objects to being ignored.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents Fortune as a personified abstraction; it does not
+    elaborate a broader cultic or mythic context.
+- id: motif:4
+  label: credit for gain and blame for loss
+  taxonomy_refs:
+  - wisdom
+  basis: Fortune says the farmer did not thank her for good luck but would blame her
+    if he lost what he had gained.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethical fable motif rather than a narrative myth cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1852-1856
+  quote_or_summary: A farmer ploughing on his farm turns up a pot of golden coins
+    with his plough and is overjoyed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 1856-1858
+  quote_or_summary: From that time onward, the farmer makes a daily offering at the
+    shrine of the Goddess of the Earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 1858-1864
+  quote_or_summary: Fortune is displeased, comes to the farmer, and says he gives
+    Earth credit for a gift Fortune bestowed; she adds that he would blame Fortune
+    if he lost what he gained.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: '1865'
+  quote_or_summary: '"Show gratitude where gratitude is due."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and explicit. Motif candidates are grounded in the fable's
+    events and stated moral. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The passage locator label mentions multiple fables, but the supplied passage text contains only 'THE FARMER AND FORTUNE.'
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1852-l1865
+  passage_sha256=f4ed40365b5c3fa40fc6b471c1615154dfedc149bd45cae6925cffa342c9a5e2
+

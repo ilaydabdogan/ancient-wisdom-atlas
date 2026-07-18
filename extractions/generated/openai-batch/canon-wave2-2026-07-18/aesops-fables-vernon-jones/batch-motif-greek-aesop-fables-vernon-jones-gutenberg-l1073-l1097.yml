@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1073-l1097
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE SOW / THE FOX AND THE CROW / THE HORSE AND THE GROOM / THE
+    WOLF AND THE LAMB; lines 1073-1097
+  start: '1073'
+  end: '1097'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two Aesopic fables are presented. In the first, a groom gives a horse much
+    grooming while stealing part of its feed, and the horse tells him that feeding
+    matters more than combing. In the second, a wolf invents accusations against a
+    lamb as pretexts for killing it; the lamb refutes each accusation, but the wolf
+    devours it anyway.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The groom spends long hours clipping and combing the horse in his charge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The groom daily steals part of the horse's allowance of oats and sells it
+    for his own profit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The horse's condition gradually worsens.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The horse tells the groom to comb less and feed more if he wants it to look
+    sleek and well.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wolf finds a lamb straying from the flock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wolf wants a plausible excuse before taking the lamb's life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolf accuses the lamb of insulting him the previous year, and the lamb
+    replies that this is impossible because it was not yet born.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The wolf accuses the lamb of feeding in his pastures, and the lamb replies
+    that it has never tasted grass.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wolf accuses the lamb of drinking from his spring, and the lamb replies
+    that it has only drunk its mother's milk.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The wolf declares that he will not go without dinner, springs on the lamb,
+    and devours it.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Groom
+  description: A person in charge of the horse who clips and combs it but steals part
+    of its oats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Horse
+  description: An animal under the groom's care whose condition worsens and who speaks
+    to the groom about needing food more than combing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Wolf
+  description: A predator who finds the lamb, invents grievances against it, and finally
+    devours it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lamb
+  description: A young animal straying from the flock who answers the wolf's accusations
+    and is devoured.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: caretaker with exploitative conduct
+  assigned_to:
+  - fig:1
+  basis: The groom is responsible for the horse's care but steals part of its feed
+    for profit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dependent animal and corrective speaker
+  assigned_to:
+  - fig:2
+  basis: The horse depends on the groom for care and verbally corrects the imbalance
+    between grooming and feeding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: predatory accuser
+  assigned_to:
+  - fig:3
+  basis: The wolf seeks pretexts, accuses the lamb repeatedly, and then kills and
+    eats it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: vulnerable defendant and prey
+  assigned_to:
+  - fig:4
+  basis: The lamb is described as helpless, answers the wolf's accusations, and is
+    ultimately devoured.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: withheld oats
+  literal_form: allowance of oats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: outward grooming
+  literal_form: clipping and combing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: flock left behind
+  literal_form: flock
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mother's milk
+  literal_form: mother's milk
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: contested spring
+  literal_form: my spring
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The groom gives outward care while stealing feed
+  summary: The groom clips and combs the horse but steals and sells part of its oats,
+    causing the horse's condition to worsen until it tells him to feed more and comb
+    less.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The wolf invents grievances against the lamb
+  summary: The wolf finds the lamb away from the flock and raises accusations about
+    an insult, pasture, and spring; the lamb answers each charge with facts about
+    its youth and diet.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The wolf devours the lamb despite failed excuses
+  summary: After the lamb refutes the charges, the wolf abandons further justification,
+    says he will have dinner, and devours it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: outward care without real sustenance
+  taxonomy_refs:
+  - wisdom
+  basis: The horse's speech contrasts grooming with the more necessary act of feeding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The broad taxonomy reference to wisdom is based on the fable's practical
+    lesson; the passage does not provide an explicit appended moral.
+- id: motif:2
+  label: exploiter withholds a dependent's food
+  taxonomy_refs: []
+  basis: The groom is in charge of the horse yet steals part of its oats and profits
+    from them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: Identified at passage level without assigning a broader external tale-type.
+- id: motif:3
+  label: powerful predator fabricates accusations against weak prey
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf seeks a plausible excuse, makes several accusations, ignores the
+    lamb's refutations, and devours it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wisdom classification is broad and reflects the fable's moralizing
+    pattern rather than an explicit taxonomy in the passage.
+- id: motif:4
+  label: speaking animal as moral respondent
+  taxonomy_refs: []
+  basis: Both the horse and the lamb speak in response to mistreatment or accusation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a formal fable device observed in the passage, not a claim about
+    historical transmission.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1073-1078
+  quote_or_summary: In 'The Horse and the Groom,' the groom spends long hours clipping
+    and combing the horse while daily stealing part of its oats and selling them for
+    profit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1078-1082
+  quote_or_summary: The horse's condition worsens, and it tells the groom that if
+    he wants it sleek and well he should comb less and feed more.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1084-1090
+  quote_or_summary: In 'The Wolf and the Lamb,' a wolf finds a lamb straying from
+    the flock, wants a plausible excuse to kill it, accuses it of insulting him the
+    previous year, and the lamb replies that it was not yet born.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1090-1095
+  quote_or_summary: The wolf then accuses the lamb of feeding in his pastures and
+    drinking from his spring; the lamb answers that it has never tasted grass and
+    has only drunk its mother's milk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1095-1097
+  quote_or_summary: The wolf says he will not go without dinner, springs on the lamb,
+    and devours it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are passage-level candidates and need human validation, especially
+    where the broad 'wisdom' taxonomy is applied. No external comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions additional fables, but the provided passage text contains only 'THE HORSE AND THE GROOM' and 'THE WOLF AND THE LAMB'; extraction is limited to those two fables.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1073-l1097
+  passage_sha256=f0c160969e30430ba12b497d707099d273c0e308f260c9911bfc9a0cf13bbba7
+

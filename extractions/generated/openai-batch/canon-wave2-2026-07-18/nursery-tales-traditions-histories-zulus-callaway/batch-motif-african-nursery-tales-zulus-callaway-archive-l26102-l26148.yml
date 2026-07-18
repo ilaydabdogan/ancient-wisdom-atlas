@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l26102-l26148
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGAXEKWAXE. / UMDHLUBU  XESELESELE. / UMDHLUBU  NESELESELE. / APPENDIX  (A).;
+    lines 26102-26148
+  start: '26102'
+  end: '26148'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“Yes, So-and-so shall reign.”"
+  summary: The passage describes many young women assembling at the river where they
+    live, consulting together, and appointing one young woman as chief so that none
+    acts independently. Sweethearts who come are reported to this chief, and the young
+    women obey her decision about whether to go to them.
+  language: Zulu with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Many young women assemble at the river where they live.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young women appoint a chief over themselves so that no individual young
+    woman acts on her own authority.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The assembled young women deliberate by asking which damsel is fit to be chief
+    and to reign well.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several candidates are considered and rejected until the group agrees on one
+    young woman as ruler.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When sweethearts arrive, their arrival is reported to the young woman who
+    is chief.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the chief does not wish the damsels to go to the sweethearts, they do not
+    go.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The damsels are bound by the word of the damsel who is their chief.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: young women / damsels
+  description: A group of many young women living by the river who assemble, deliberate,
+    and submit to the appointed chief's word.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: girl-chief / damsel chief
+  description: One young woman appointed by the group to reign over the damsels and
+    control whether they may go to visiting sweethearts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: sweethearts
+  description: Male sweethearts who come to the damsels and whose arrival is reported
+    to the girl-chief.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: assembling electors
+  assigned_to:
+  - fig:1
+  basis: The young women assemble and decide who among them is fit to be chief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: appointed ruler
+  assigned_to:
+  - fig:2
+  basis: One damsel is appointed chief and her word binds the others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: subjects bound by command
+  assigned_to:
+  - fig:1
+  basis: The damsels do not go to the sweethearts if the chief forbids it and are
+    bound by her word.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: visiting sweethearts
+  assigned_to:
+  - fig:3
+  basis: The passage says sweethearts come and are reported to the chief.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: river dwelling-place
+  literal_form: river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Assembly and appointment of a girl-chief
+  summary: Many young women gather at their river, ask who is fit to be chief, reject
+    candidates, and finally agree to appoint one young woman to reign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chief's authority over visits from sweethearts
+  summary: When sweethearts arrive, the matter is reported to the girl-chief, and
+    the other young women obey her decision about whether they may go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: appointed girl-ruler whose word binds the group
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers on a group selecting one young woman as chief, saying
+    she shall reign, and treating her command as binding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reads as an account of social organization rather than an
+    explicitly mythic episode; the supplied excerpt is incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26102-26127
+  quote_or_summary: Many young women assemble at the river where they live and appoint
+    a chief over themselves so that no young woman acts for herself.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 26128-26139
+  quote_or_summary: 'They ask which damsel is fit to be chief, nominate and reject
+    candidates, and finally agree: “Yes, So-and-so shall reign.”'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 26140-26148
+  quote_or_summary: When sweethearts come, they are reported to the girl-chief; if
+    she does not wish the damsels to go to them, they do not go, being bound by her
+    word.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied bilingual passage.
+    Motif classification is tentative because the passage is brief, partly truncated,
+    and not overtly mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family beyond the tentative supplied taxonomy assignment.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l26102-l26148
+  passage_sha256=cfb0407ea3b206abd26511ad08af8259f06c50a3a82de48efb7be133e7c3df47
+

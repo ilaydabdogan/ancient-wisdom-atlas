@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4517-l4534
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: DEMADES AND HIS FABLE / THE MONKEY AND THE DOLPHIN / THE CROW AND THE SNAKE
+    / THE DOGS AND THE FOX; lines 4517-4534
+  start: '4517'
+  end: '4534'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hungry crow seizes a sleeping snake as food, but the poisonous snake
+    bites him and the crow dies lamenting that his apparent good fortune cost his
+    life. In a second fable, dogs chew a lion's skin, and a fox remarks that they
+    would not seem so brave if the lion were alive.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hungry crow sees a snake asleep in a sunny place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crow picks up the snake in his claws and carries it away to eat without
+    disturbance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The snake raises its head and bites the crow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The snake is poisonous, and the bite is fatal to the crow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dying crow says that what he thought was a lucky find has cost him his
+    life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Some dogs find a lion's skin and worry it with their teeth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A fox comes by and comments on the dogs' apparent bravery.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The fox says a live lion's claws would be sharper than the dogs' teeth.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Crow
+  description: A hungry crow who seizes a sleeping snake and dies after being bitten.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Snake
+  description: A poisonous snake lying asleep in a sunny spot; it bites the crow fatally.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dogs
+  description: Dogs who find and chew a lion's skin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fox
+  description: A fox who comments that the dogs would face sharper claws if the lion
+    were alive.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Lion
+  description: A lion represented only by its skin and by the fox's reference to a
+    live lion's claws.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: would-be predator
+  assigned_to:
+  - fig:1
+  basis: The crow picks up the snake to carry it to a place where he can eat it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fatal victim
+  assigned_to:
+  - fig:1
+  basis: The poisonous snake's bite is fatal to the crow.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dangerous prey
+  assigned_to:
+  - fig:2
+  basis: The snake appears available as food while asleep, but bites the crow and
+    is poisonous.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: boasters against powerless remains
+  assigned_to:
+  - fig:3
+  basis: The dogs worry a lion's skin with their teeth, and the fox frames this as
+    questionable bravery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: critical commentator
+  assigned_to:
+  - fig:4
+  basis: The fox directly comments on the dogs' bravery and contrasts the skin with
+    a live lion.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: absent dangerous animal
+  assigned_to:
+  - fig:5
+  basis: Only the lion's skin is present, while the fox refers to the danger of a
+    live lion's claws.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: poisonous snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lion's skin
+  literal_form: lion's skin found by dogs
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: claws and teeth
+  literal_form: dogs' teeth contrasted with a live lion's claws
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Crow seizes sleeping snake
+  summary: A hungry crow finds a sleeping snake in a sunny spot and carries it off
+    as intended food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poisonous bite and crow's lament
+  summary: The snake bites the crow; the poisonous bite is fatal, and the crow says
+    his lucky find has cost his life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dogs worry lion's skin
+  summary: Dogs chew a lion's skin, and a fox remarks that they would face sharper
+    claws if the lion were alive.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dangerous serpent as fatal prey
+  taxonomy_refs:
+  - serpent
+  basis: The crow treats the snake as food, but the poisonous snake bites him fatally.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a snake rather than an explicitly mythic serpent;
+    the taxonomy match is limited to the literal serpent figure.
+- id: motif:2
+  label: apparent good fortune becomes fatal loss
+  taxonomy_refs: []
+  basis: The crow explicitly says that what seemed a lucky find cost him his life.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a narrative pattern stated within the fable, not tied to a supplied
+    taxonomy family.
+- id: motif:3
+  label: false courage toward an absent danger
+  taxonomy_refs: []
+  basis: The dogs attack only a lion's skin, and the fox notes that a live lion would
+    be much more dangerous.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports the pattern internally, but no supplied taxonomy
+    reference directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4517-4521
+  quote_or_summary: A hungry crow sees a snake asleep in a sunny spot, picks it up
+    in his claws, and carries it away to eat undisturbed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4521-4524
+  quote_or_summary: The snake raises its head and bites the crow; the snake is poisonous,
+    the bite is fatal, and the crow laments that a lucky find cost his life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4528-4531
+  quote_or_summary: Some dogs find a lion's skin and worry it with their teeth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4531-4534
+  quote_or_summary: A fox says the dogs may think themselves brave, but a live lion's
+    claws would be sharper than their teeth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-based;
+    only the serpent taxonomy reference is directly supported by the provided taxonomy
+    list. No comparison claims were added because the passage itself does not make
+    cross-textual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4517-l4534
+  passage_sha256=c37e30df9343caae4304a4be9bf6def2541dfad3a9d6bea31566efa2d60b2002
+

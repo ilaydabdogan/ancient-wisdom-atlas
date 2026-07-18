@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5010-l5026
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CROW AND THE RAVEN / THE WITCH / THE OLD MAN AND DEATH / THE MISER; lines
+    5010-5026
+  start: '5010'
+  end: '5026'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A miser converts all his possessions into a single lump of gold, buries
+    it secretly in a field, and visits it daily. One of his men observes him, discovers
+    the hidden gold, and steals it at night. When the miser laments the loss, a neighbour
+    tells him to put a brick in the hole and look at it daily, since the unused gold
+    had been of no practical use to him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Miser sold everything he had, melted his gold into a single lump, and
+    buried it secretly in a field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Miser went every day to look at the buried treasure and sometimes spent
+    long periods gloating over it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One of the Miser's men noticed the repeated visits, watched him, and discovered
+    the secret location.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man dug up the gold at night and stole it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After finding the treasure gone, the Miser tore his hair and groaned over
+    the loss.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A neighbour advised the Miser to put a brick in the hole and look at it every
+    day, because the gold had been of no earthly use to him even when he possessed
+    it.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Miser
+  description: A man who sold everything he had, converted his wealth into a lump
+    of gold, hid it, visited it daily, and lamented when it was stolen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: One of the Miser's men
+  description: A man belonging to or working for the Miser who noticed the visits,
+    discovered the hidden gold, and stole it at night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Neighbour
+  description: A neighbour who saw the Miser grieving, asked what troubled him, and
+    gave practical advice about replacing the gold with a brick.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: hoarder of hidden wealth
+  assigned_to:
+  - fig:1
+  basis: The figure converts all possessions into a gold lump, buries it secretly,
+    and only looks at it rather than using it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: observer and thief of the hidden hoard
+  assigned_to:
+  - fig:2
+  basis: The figure notices the visits, discovers the secret, then digs up and steals
+    the gold.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: practical moral commentator
+  assigned_to:
+  - fig:3
+  basis: The figure responds to the Miser's grief by explaining that unused gold is
+    no better than a brick in the hole.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: buried gold lump
+  literal_form: A single lump of gold buried secretly in a field
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: field hiding place
+  literal_form: A field containing the buried lump of gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: brick substitute
+  literal_form: A brick placed into the hole as a proposed replacement for the lost
+    gold
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Secret burial of wealth
+  summary: The Miser sells all his possessions, melts his gold into one lump, and
+    secretly buries it in a field.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery and theft of the hoard
+  summary: The Miser repeatedly visits the place, one of his men discovers the secret,
+    and the man steals the gold at night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lament and corrective counsel
+  summary: The Miser grieves over the missing treasure, and a neighbour tells him
+    that a brick in the hole would serve him just as well as the unused gold had done.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hidden hoard that is possessed but not used
+  taxonomy_refs: []
+  basis: The Miser turns all his property into a hidden lump of gold and only visits
+    it to look at it, rather than putting it to use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level motif label, not a supplied formal taxonomy ID.
+- id: motif:2
+  label: secret treasure stolen after observation
+  taxonomy_refs: []
+  basis: A man notices the Miser's repeated visits, discovers the hiding place, then
+    steals the buried gold at night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents ordinary theft, not a sacred or supernatural theft
+    motif.
+- id: motif:3
+  label: worthless substitute reveals the uselessness of unused wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The neighbour says that a brick in the hole would leave the Miser no worse
+    off, since the gold had been of no earthly use to him.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and reflects the fable's practical
+    moral instruction rather than a specialized mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5010-5013
+  quote_or_summary: The Miser sold everything, melted his hoard into a single lump
+    of gold, and secretly buried it in a field.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5013-5015
+  quote_or_summary: He went every day to look at the buried treasure and sometimes
+    spent long hours gloating over it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5015-5017
+  quote_or_summary: One of his men noticed the repeated visits, watched him, and discovered
+    his secret.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5017-5018
+  quote_or_summary: The man waited for an opportunity, went at night, dug up the gold,
+    and stole it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5018-5022
+  quote_or_summary: The Miser returned, found the treasure gone, tore his hair, and
+    groaned; a neighbour saw him and asked what was wrong.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 5022-5026
+  quote_or_summary: "“put a brick into the hole, and take a look at it every day:
+    you won't be any worse off than before”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are passage-level
+    and should be reviewed for alignment with any formal motif index. No comparison
+    claims were added because the passage itself does not support cross-textual or
+    cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5010-l5026
+  passage_sha256=8e8ab758d79974016104f2d6a5462023942ca7e7230ba7db33c4536e048ec732
+

@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1469-l1481
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOLPHINS, THE WHALES, AND THE SPRAT / THE FOX AND THE MONKEY / THE ASS
+    AND THE LAP-DOG / THE FIR-TREE AND THE BRAMBLE; lines 1469-1481
+  start: '1469'
+  end: '1481'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Fir-tree boasts to a Bramble that the Bramble is useless while the Fir-tree
+    is useful for building houses. The Bramble replies that when men come with axes
+    and saws to cut the Fir-tree down, the Fir-tree will wish it were a Bramble. The
+    stated moral contrasts care-free poverty with wealth and obligations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a Fir-tree speaking contemptuously to a Bramble.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Fir-tree says the Bramble is of no use.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fir-tree says it is useful for many things, especially when men build
+    houses.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Bramble replies that men may come with axes and saws to cut the Fir-tree
+    down.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Bramble says that in such a case the Fir-tree would wish to be a Bramble
+    instead of a Fir-tree.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The appended moral states that poverty without care is better than wealth
+    with many obligations.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fir-tree
+  description: A speaking Fir-tree that boasts of its usefulness, especially for house-building,
+    and is warned that men may cut it down.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bramble
+  description: A speaking Bramble addressed contemptuously by the Fir-tree; it replies
+    by warning about axes and saws.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Humans mentioned as builders who use the Fir-tree and as potential
+    cutters with axes and saws.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: boasting useful tree
+  assigned_to:
+  - fig:1
+  basis: The Fir-tree boasts that it is useful for many things, particularly house-building.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warning respondent
+  assigned_to:
+  - fig:2
+  basis: The Bramble answers the Fir-tree by warning that its usefulness may lead
+    men to cut it down.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human builders and cutters
+  assigned_to:
+  - fig:3
+  basis: Men are described as building houses with the Fir-tree and coming with axes
+    and saws to cut it down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Fir-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bramble
+  literal_form: Bramble
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: cutting tools
+  literal_form: axes and saws
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: house-building
+  literal_form: houses
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Fir-tree boasts to Bramble
+  summary: The Fir-tree tells the Bramble that the Bramble is useless and contrasts
+    this with its own usefulness for many things, especially building houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bramble warns of being cut down
+  summary: The Bramble replies that men may come with axes and saws to cut down the
+    Fir-tree, making the Fir-tree wish it were a Bramble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: lowly safety over useful eminence
+  taxonomy_refs:
+  - wisdom
+  basis: The Bramble's reply and the moral both contrast the risks and obligations
+    attached to the Fir-tree's valued usefulness with the safer condition of the Bramble
+    or of poverty without care.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a practical moral rather
+    than an explicitly sacred or mythic wisdom motif.
+- id: motif:2
+  label: boast answered by reversal of advantage
+  taxonomy_refs: []
+  basis: The Fir-tree boasts over the Bramble, but the Bramble reframes the Fir-tree's
+    usefulness as a reason it may be cut down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable pattern stated within the passage, not tied here to a
+    specific external taxonomy ID.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1469-1475
+  quote_or_summary: The Fir-tree boasts to the Bramble that the Bramble is of no use,
+    while the Fir-tree is useful, especially when men build houses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1475-1479
+  quote_or_summary: The Bramble replies that when men come with axes and saws to cut
+    the Fir-tree down, the Fir-tree will wish it were a Bramble.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1480-1481
+  quote_or_summary: "“Better poverty without a care than wealth with its many obligations.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited to the
+    passage's explicit fable moral and broad wisdom pattern; no external comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Fir-tree and Bramble passage was used; the broader locator label mentions adjacent fables not included in the passage text.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1469-l1481
+  passage_sha256=ca304f32d3d0d2a60046ec508515441044c1a28be9e01e5b6b0a91908e824417
+

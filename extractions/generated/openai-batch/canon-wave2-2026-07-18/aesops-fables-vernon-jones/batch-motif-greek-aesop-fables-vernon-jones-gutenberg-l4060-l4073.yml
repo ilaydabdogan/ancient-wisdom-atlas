@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4060-l4073
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PACK-ASS AND THE WILD ASS / THE ASS AND HIS MASTERS / THE PACK-ASS, THE
+    WILD ASS, AND THE LION / THE ANT; lines 4060-4073
+  start: '4060'
+  end: '4073'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ants are said to have once been men who farmed but stole their neighbours’
+    crops and fruits. Jupiter, angered by their covetousness, changed them into ants;
+    their form changed, but their nature did not, and they still gather and store
+    the fruits of others’ labour. The moral states that punishment does not remove
+    a thief’s bent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ants are described as having once been men who made their living by tilling
+    the soil.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The former men were not content with the results of their own work.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They looked longingly at their neighbours’ crops and fruits and stole them
+    whenever they had the chance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They added the stolen crops and fruits to their own store.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jupiter became angry at their covetousness and changed them into ants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Although their forms were changed, their nature remained the same.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The ants still go among cornfields, gather the fruits of others’ labour, and
+    store them for their own use.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stated moral says that a thief may be punished, but the thief’s bent remains.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ants / former men
+  description: Beings described as once human farmers who stole neighbours’ crops
+    and were transformed into ants while retaining the same nature.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jupiter
+  description: The divine figure who becomes angry at the covetousness of the former
+    men and changes them into ants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Neighbours
+  description: Owners or possessors of the crops and fruits coveted and stolen by
+    the former men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: former human tillers of the soil
+  assigned_to:
+  - fig:1
+  basis: The passage says ants were once men who made their living by tilling the
+    soil.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: covetous thieves and gatherers of others’ labour
+  assigned_to:
+  - fig:1
+  basis: The former men steal neighbours’ crops and, after becoming ants, continue
+    gathering fruits of others’ labour.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: angry divine transformer
+  assigned_to:
+  - fig:2
+  basis: Jupiter is angered by covetousness and changes the men into ants.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: neighbours whose produce is stolen
+  assigned_to:
+  - fig:3
+  basis: The passage identifies crops and fruits of neighbours as the objects stolen
+    by the former men.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ants as transformed thieves
+  literal_form: Ants whose current form is explained as the result of Jupiter changing
+    covetous men into ants.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: crops and fruits of others’ labour
+  literal_form: Neighbours’ crops and fruits, later described as the fruits of others’
+    labour gathered among cornfields.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: changed form with unchanged nature
+  literal_form: The former men’s bodies become ants, but their nature remains the
+    same.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Human farmers steal neighbours’ produce
+  summary: The beings now called ants are first described as men who farm, feel discontent
+    with their own yield, and steal their neighbours’ crops and fruits for their own
+    store.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Jupiter transforms the covetous men
+  summary: Jupiter becomes angry at the men’s covetousness and changes them into ants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ants continue gathering what belongs to others
+  summary: After the transformation, the ants retain the same nature and continue
+    going through cornfields to gather and store the fruits of others’ labour.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Moral about punishment and character
+  summary: The closing moral states that punishment can be applied to a thief, but
+    the thief’s bent remains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine punishment through transformation into an animal
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter responds to the men’s covetous theft by changing them into ants.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a divine punitive transformation, but does not elaborate
+    a formal judgment scene.
+- id: motif:2
+  label: origin of an animal’s behavior from former human vice
+  taxonomy_refs: []
+  basis: The fable explains ants’ gathering and storing of others’ labour as the continuation
+    of habits from when they were covetous human thieves.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No external etiological taxonomy reference is supplied in the available
+    list.
+- id: motif:3
+  label: changed outward form but unchanged inner nature
+  taxonomy_refs: []
+  basis: The passage explicitly states that their forms changed but their nature remained
+    the same, and the moral repeats that punishment does not remove the thief’s bent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a moral pattern within the fable rather than a named taxonomy
+    item in the available list.
+- id: motif:4
+  label: theft of neighbours’ produce punished but not reformed
+  taxonomy_refs: []
+  basis: The former men steal crops and fruits from neighbours; Jupiter punishes them,
+    but their behavior continues after transformation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The theft is not described as sacred theft, so no sacred_theft taxonomy
+    reference is applied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 4060-4073
+  quote_or_summary: Passage supplied as the fable titled “THE ANT.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; brief citation only.
+- id: ev:2
+  type: summary
+  locator: 4060-4066
+  quote_or_summary: Ants are said to have once been men who lived by tilling soil,
+    were dissatisfied with their own work, coveted neighbours’ crops and fruits, stole
+    them when possible, and stored them for themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 4066-4068
+  quote_or_summary: Jupiter becomes angry at the men’s covetousness and changes them
+    into ants; the passage says their forms changed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 4068-4071
+  quote_or_summary: Their nature remains the same after transformation, and ants still
+    go among cornfields gathering and storing the fruits of others’ labour for their
+    own use.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: '4073'
+  quote_or_summary: "“You may punish a thief, but his bent remains.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. No comparison claims are made
+    because the passage does not itself identify an external parallel or nearby corpus
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available symbol taxonomy items do not match the central literal forms in this passage, so symbol taxonomy references are left empty.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4060-l4073
+  passage_sha256=d102122b458e3fad2a3a6e11e3ca682df5e1adb05ee138318c6d966f61f60969
+

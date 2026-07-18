@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l113-l142
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: COPYRIGHT, 1903, / M. WALTER DUNNE, / PUBLISHER / ILLUSTRATIONS; lines 113-142
+  start: '113'
+  end: '142'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives front matter for the edition: Robert Arnot is named
+    as author of a related work, M. Walter Dunne is named as publisher in New York
+    and London, copyright is dated 1903, and an illustrations list names three plates:
+    the tomb of Omar, the approach to Naishapur, and Sufi mystics gathered for meditation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Robert Arnot, M.A., is identified as author of "The Vine in Symbolism."
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: M. Walter Dunne is identified as publisher, with New York and London named
+    as publication locations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The copyright notice is dated 1903 and names M. Walter Dunne, Publisher.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The illustrations list includes a frontispiece titled "The Tomb of Omar,"
+    described as from an old painting by an unknown artist.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The illustrations list includes "The Approach to Naishapur," facing page 100,
+    from a painting by I. R. Herbert.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The illustrations list includes "Sufi Mystics Gathered for Meditation," facing
+    page 210, from an old painting by a Pushtu artist.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Robert Arnot, M.A.
+  description: Named in the front matter and associated with authorship of "The Vine
+    in Symbolism."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: M. Walter Dunne
+  description: Named as publisher and copyright holder in the front matter.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Omar
+  description: Named in the illustration title "The Tomb of Omar."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sufi mystics
+  description: Group named in the illustration title "Sufi Mystics Gathered for Meditation."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named author of related work
+  assigned_to:
+  - fig:1
+  basis: The passage says Robert Arnot, M.A., is author of "The Vine in Symbolism."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: publisher
+  assigned_to:
+  - fig:2
+  basis: The passage names M. Walter Dunne as publisher in New York and London.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: copyright holder
+  assigned_to:
+  - fig:2
+  basis: The copyright notice says copyright 1903 by M. Walter Dunne, Publisher.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: meditating group
+  assigned_to:
+  - fig:4
+  basis: The illustration title identifies Sufi mystics gathered for meditation.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Tomb of Omar illustration
+  summary: An illustration is listed with the title "The Tomb of Omar" and identified
+    as the frontispiece from an old painting by an unknown artist.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Approach to Naishapur illustration
+  summary: An illustration is listed with the title "The Approach to Naishapur," facing
+    page 100, from a painting by I. R. Herbert.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Sufi mystics gathered for meditation illustration
+  summary: An illustration is listed with the title "Sufi Mystics Gathered for Meditation,"
+    facing page 210, from an old painting by a Pushtu artist.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 113-118
+  quote_or_summary: '"ROBERT ARNOT, M.A."; "Author of \"The Vine in Symbolism\"";
+    "M. WALTER DUNNE, PUBLISHER, NEW YORK & LONDON"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 120-128
+  quote_or_summary: '"COPYRIGHT, 1903,"; "BY"; "M. WALTER DUNNE,"; "PUBLISHER"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 130-136
+  quote_or_summary: The illustrations list gives "The Tomb of Omar" as the frontispiece
+    and says it is from an old painting by an unknown artist.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 138-139
+  quote_or_summary: The illustrations list gives "The Approach to Naishapur" facing
+    page 100 and attributes it to a painting by I. R. Herbert.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 141-142
+  quote_or_summary: The illustrations list gives "Sufi Mystics Gathered for Meditation"
+    facing page 210 and describes it as from an old painting by a Pushtu artist.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is bibliographic front matter and an illustrations list. It supports
+    extraction of named persons, publication details, and illustration titles, but
+    does not provide enough narrative content for motif or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol or motif references were assigned because the passage does not substantively describe mythic narrative content.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l113-l142
+  passage_sha256=742959ecb7d9aaca28c15b2f21edd082cae0d39c1ac359ac82c86c5820e43adf
+

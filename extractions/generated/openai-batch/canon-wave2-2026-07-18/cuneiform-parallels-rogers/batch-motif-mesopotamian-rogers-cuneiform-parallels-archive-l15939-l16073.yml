@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l15939-l16073
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: ASSYRIAN  EPONYM  LIST  225 / EPONYM  LIST  WITH  NOTES  227 / EPONYM  LIST  WITH  NOTES  229
+    / EPONYM  LIST  WITH  NOTES  231; lines 15939-16073
+  start: '15939'
+  end: '16073'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A section of the Assyrian Eponym List records annual eponyms for years
+    789-767, associated cities or offices, campaign destinations, and brief cultic
+    notes including the laying of the foundation of Nabu's temple in Nineveh, Nabu
+    entering a new temple, and a great god returning to Der.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entry for 789 names Adad-mushammir of Kakzi, records action against Media,
+    and states that the foundation of the temple of Nabu in Nineveh was laid.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry for 788 names Qil-Ishtar, records action against Kiski, and states
+    that Nabu entered the new Temple.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entry for 786 names Adad-uballit of Rimusi and states that the great god
+    returned to the city of Der.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several entries list named Assyrian officials or kings together with campaign
+    destinations, especially repeated actions against Urartu.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The entry for 775 names Nergal-eresh of Racappa and records action against
+    the land of cedars, identified parenthetically as Amanus.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Entries for 773-767 continue the annual eponym pattern with destinations including
+    Damascus, Khatarika, Gananati, Marad, Itu, and the country.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: A note reports a variant eponym for 787 and another note says the year 785
+    with Marduk-shar-usur is omitted.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nabu
+  description: Named deity whose temple foundation in Nineveh is recorded and who
+    is said to enter the new Temple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the great god
+  description: Unnamed divine figure said to return to the city of Der.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Shulmanu-asharidu / Shalmaneser
+  description: King of Assyria listed as eponym for 781, with action against Urartu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Asshur-dan
+  description: King of Assyria listed as eponym for 771, with action against Gananati.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Shamshi-ilu
+  description: Commander-in-chief listed in entries for 780 and 770, with actions
+    against Urartu and Marad.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: deity associated with temple foundation and temple entry
+  assigned_to:
+  - fig:1
+  basis: The passage records the foundation of Nabu's temple in Nineveh and Nabu entering
+    the new Temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: returning deity
+  assigned_to:
+  - fig:2
+  basis: The passage says the great god returned to Der.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Assyrian king listed as eponym
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both figures are explicitly called King of Assyria in their annual entries.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: commander-in-chief listed as eponym
+  assigned_to:
+  - fig:5
+  basis: Shamshi-ilu is identified as commander-in-chief in the relevant entries.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: Temple of Nabu in Nineveh
+  literal_form: temple foundation in Nineveh
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: new Temple entered by Nabu
+  literal_form: new Temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: city of Der
+  literal_form: city destination of the great god's return
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: land of cedars
+  literal_form: cedar land, identified as Amanus
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nabu temple foundation and entry
+  summary: The entries for 789 and 788 record the laying of the foundation of Nabu's
+    temple in Nineveh and Nabu entering a new Temple.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Return of the great god to Der
+  summary: The entry for 786 states that the great god returned to the city of Der.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Annual eponym campaigns
+  summary: The list repeatedly pairs named eponyms, kings, or officials with campaign
+    destinations such as Media, Kiski, Urartu, Damascus, and Gananati.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: temple foundation and divine entry
+  taxonomy_refs: []
+  basis: The passage records the foundation of Nabu's temple in Nineveh followed by
+    Nabu entering the new Temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an annalistic eponym notice, not a developed mythic narrative;
+    the passage does not explicitly explain ritual or symbolic meaning.
+- id: motif:2
+  label: divine return to a city
+  taxonomy_refs:
+  - return
+  basis: The passage states that the great god returned to the city of Der.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The god is unnamed in the English note, and the passage gives no narrative
+    context beyond the return notice.
+- id: motif:3
+  label: annual campaign-year formula
+  taxonomy_refs: []
+  basis: Many entries use a repeated annual structure naming an eponym and a destination
+    introduced as action against a land or city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a historical-administrative pattern rather than a mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15939-16073, entry 789
+  quote_or_summary: Entry 789 names Adad-mushammir of Kakzi, gives action against
+    Media, and notes that the foundation of the temple of Nabu in Nineveh was laid.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 15939-16073, entry 788
+  quote_or_summary: Entry 788 names Qil-Ishtar, gives action against Kiski, and says
+    Nabu entered the new Temple.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 15939-16073, entry 786
+  quote_or_summary: Entry 786 names Adad-uballit of Rimusi and states that the great
+    god returned to the city of Der.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 15939-16073, entries 781-779
+  quote_or_summary: Entries 781-779 list Shulmanu-asharidu/Shalmaneser king of Assyria,
+    Shamshi-ilu the commander-in-chief, and Marduk-rimani, each with action against
+    Urartu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 15939-16073, entries 778-774
+  quote_or_summary: Entries 778-774 include further actions against Urartu, Itu, the
+    land of cedars/Amanus, and Urartu with Namri.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 15939-16073, entries 773-769
+  quote_or_summary: Entries 773-769 list actions against Damascus, Khatarika, Gananati,
+    Marad, and Itu; Asshur-dan is identified as king of Assyria in entry 771 and Shamshi-ilu
+    as commander-in-chief in entry 770.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 15939-16073, entries 768-767
+  quote_or_summary: Entry 768 lists Apliya of Mazamua with the phrase 'in the country';
+    entry 767 lists Qurdi-Asshur with action against Gananati.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 15939-16073, notes to entries 787 and 785
+  quote_or_summary: The passage notes that the eponym canon gives Balatu for 787 and
+    that the year 785 with Marduk-shar-usur is omitted.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly an eponym chronicle. Literal extraction is straightforward,
+    but motif labels are limited to brief cultic notices and administrative patterns.
+    No passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or cross-tradition comparison was inferred from this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l15939-l16073
+  passage_sha256=c3ceace7af3128eaa4ae0fd350403a48553652e08c7db0efa1a15fa3d6b81ba6
+

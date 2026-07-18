@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1000-l1096
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE OTTERS AND THE WOLF / HOW THE MONKEY SAVED HIS TROOP / THE HAWKS AND
+    THEIR FRIENDS / THE BRAVE LITTLE BOWMAN; lines 1000-1096
+  start: '1000'
+  end: '1096'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run canon-wave2-2026-07-18; human review required.
+canonical_text:
+  quote: "“And now to win!” said the little bowman, as he drove the war-elephant into
+    the fight."
+  summary: A small crooked-backed archer uses a large man as a public front to enter
+    royal service. The small archer secretly performs dangerous tasks, while the large
+    man receives praise. In battle, the large man flees in fear, and the small archer
+    wins victory and is publicly recognized as brave and made chief of the army.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A little crooked-backed man is called the wise little bowman because he uses
+    his bow and arrow very well.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The little bowman expects the king to reject him because of his small size,
+    so he seeks a large man to present them to the king.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A big strong ditch-digger agrees to go with the little bowman and follow his
+    instructions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king accepts the big man into the army with the little bowman described
+    as his page.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The little bowman kills a tiger in the forest, while the big man receives
+    rich gifts and praise from the king.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The little bowman kills a buffalo on a road, and the big man receives money
+    and public praise.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After being praised, the big man speaks harshly to the little bowman and claims
+    he can get on without him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A king from a far country threatens the city with surrender or battle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The big man is armed and mounted on a war-elephant, while the little bowman
+    sits behind him with his bow.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At the first beat of the drums, the big man becomes afraid, slips from the
+    war-elephant, and runs home.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The little bowman drives the war-elephant into battle, the enemy is driven
+    back, and the little bowman is made chief of the army.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the wise little bowman
+  description: A small crooked-backed man skilled with bow and arrow; he first serves
+    under the appearance of being a page and later wins the battle himself.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the big strong man
+  description: A large ditch-digger who joins the king’s army as the visible recruit,
+    receives credit for the little bowman’s deeds, speaks harshly to him, and later
+    flees from battle.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the king of the city
+  description: The ruler who accepts the big man and his page into the army, assigns
+    dangerous tasks, rewards apparent success, and later makes the little bowman chief
+    of the army.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: the tiger
+  description: A tiger in the forest that has carried off many people and is killed
+    by the little bowman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the buffalo
+  description: A buffalo running up and down a road and killed by the little bowman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the king from a far country
+  description: An opposing ruler who marches on the city, demands surrender or battle,
+    and is driven back to his own country.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: skilled but underestimated archer
+  assigned_to:
+  - fig:1
+  basis: The figure is described as little and crooked-backed but exceptionally skilled
+    with bow and arrow, and he expects rejection because of his size.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: public front for hidden skill
+  assigned_to:
+  - fig:2
+  basis: The big man is accepted as the army recruit while the little bowman is presented
+    as his page and performs the actual archery tasks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: royal patron and military authority
+  assigned_to:
+  - fig:3
+  basis: The king hires the pair, orders dangerous missions, gives rewards, and appoints
+    the little bowman as chief of the army.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:4
+  label: dangerous animal target
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The tiger and buffalo are threats or disturbances that the king sends the
+    supposed bowman to kill.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: cowardly exposed claimant
+  assigned_to:
+  - fig:2
+  basis: After accepting praise and dismissing the little bowman, the big man becomes
+    afraid at the drums and runs home before fighting.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: victorious commander
+  assigned_to:
+  - fig:1
+  basis: The little bowman drives the war-elephant into battle, defeats the invading
+    force, returns leading the army, and is made chief.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: invading challenger
+  assigned_to:
+  - fig:6
+  basis: The far-country king marches on the city and demands surrender or battle.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bow and arrow
+  literal_form: The little bowman’s bow and arrow, by which his skill is defined and
+    dangerous animals are killed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: war-elephant
+  literal_form: The battle mount on which the big man is placed and which the little
+    bowman drives into the fight.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: drums
+  literal_form: The battle drums whose first beat coincides with the big man’s fear.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: royal gifts and money
+  literal_form: Rich gifts and a bag of money given by the king after victories, first
+    to the big man and later to the little bowman.
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: The little bowman recruits a large public partner
+  summary: The little bowman, expecting rejection because of his size, finds a big
+    strong ditch-digger and proposes that the larger man ask to join the king’s army
+    while the little bowman does the actual work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The pair enter royal service
+  summary: The big man and little bowman appear before the king; the big man says
+    the little man is his page, asks pay for both, and the king accepts them into
+    the army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Animal dangers are secretly overcome
+  summary: The king orders the supposed bowman to kill a tiger and later a buffalo;
+    the little bowman kills both, while the big man receives rewards and praise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The battlefield exposes fear
+  summary: When an invading king threatens the city, the big man is mounted on a war-elephant
+    with the little bowman seated behind him, but the sound of drums frightens the
+    big man and he flees home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The little bowman wins recognition
+  summary: The little bowman drives the war-elephant into battle, the invading army
+    is driven back, and the city’s king and people recognize him as brave and make
+    him chief of the army.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Underestimated small hero proves true ability
+  taxonomy_refs:
+  - wisdom
+  basis: The physically small bowman is initially hidden behind a larger man, but
+    his skill and judgment ultimately defeat the enemy and win public recognition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference to wisdom is based on the tale’s explicit description
+    of the bowman as wise and on his successful planning; the passage does not state
+    a doctrinal interpretation.
+- id: motif:2
+  label: Hidden achiever behind a praised proxy
+  taxonomy_refs: []
+  basis: The little bowman performs the dangerous tasks, while the big man receives
+    gifts, money, and praise until a battle reveals the truth of their abilities.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No external motif index number is supplied; label is a descriptive pattern
+    from this passage only.
+- id: motif:3
+  label: Cowardly strong figure contrasted with brave small figure
+  taxonomy_refs: []
+  basis: The big strong man is publicly valued for size and apparent prowess, but
+    he flees in fear, while the little bowman enters the battle and wins.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level contrast rather than a claimed historical or cross-cultural
+    motif link.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1000-1096; opening description
+  quote_or_summary: A little crooked-backed man is called the wise little bowman because
+    he uses his bow and arrow very well, and he reasons that the king may reject him
+    because of his small size.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1000-1096; recruitment of the big man
+  quote_or_summary: The little bowman finds a big strong man digging a ditch and proposes
+    that the larger man ask the king for army service while the little bowman performs
+    the assigned work and shares the pay; the big man agrees.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1000-1096; palace audience
+  quote_or_summary: At the palace, the big man presents himself to the king, identifies
+    the little man as his page, requests pay for both, and is accepted into the army
+    with the page.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1000-1096; tiger episode
+  quote_or_summary: The king orders the big man to kill a tiger that has carried off
+    many people; the little bowman shoots the tiger, and the king gives the big man
+    rich gifts and praise.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1000-1096; buffalo episode and quarrel
+  quote_or_summary: The king orders the big man to kill a buffalo; the little man
+    shoots it, the big man receives money and praise, and later tells the little man
+    he can get on without him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1000-1096; invasion setup
+  quote_or_summary: A king from a far country marches on the city and demands surrender
+    or battle; the city king sends his army, with the big man armed on a war-elephant
+    and the little bowman seated behind him with his bow.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1000-1096; flight from battle
+  quote_or_summary: At the first beat of the drums, the big man shakes with fear;
+    the little bowman tells him not to be afraid, but the big man slips down from
+    the war-elephant and runs home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1000-1096; victory and recognition
+  quote_or_summary: The little bowman drives the war-elephant into the fight, the
+    army drives the far-country king back, and the little bowman returns leading the
+    army; he is called brave and made chief of the army with rich gifts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is internally clear for figures, actions, scenes, and descriptive
+    motif candidates. Taxonomy mapping is limited; only the broad wisdom family is
+    used. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied public-domain passage and metadata. Available symbol taxonomy items such as fire, water, tree, cave, mountain, milk, and serpent are not present in this passage.
+  batch_run_id=canon-wave2-2026-07-18
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1000-l1096
+  passage_sha256=92f75067c5a0d04c2a220ee4b7f4abc432b33477750c0b9378189295f750f3d1
+
