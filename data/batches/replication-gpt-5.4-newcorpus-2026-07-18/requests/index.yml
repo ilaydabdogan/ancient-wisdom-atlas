@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: replication-gpt-5.4-newcorpus-2026-07-18
 created_at: '2026-07-18T09:51:13Z'
-updated_at: '2026-07-18T09:52:15Z'
+updated_at: '2026-07-18T19:58:22Z'
 endpoint: "/v1/responses"
 model: gpt-5.4-batch
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,7 @@ shards:
   sha256: f6af6c9f5611ed645e2d424aab1877168cb90a8a3c54e8a0b3e569a2874221fb
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-76364f3aa960475e8b3ac77e96245568
   input_file:
     status: processed
@@ -32,19 +32,26 @@ shards:
   batch_id: batch_e4409f28-a488-4afa-80cd-397ebd3d79a4
   batch:
     usage:
+      input_tokens: 3555963
+      output_tokens: 10179874
+      total_tokens: 13735837
+      input_tokens_details:
+        cached_tokens: 1518336
+      output_tokens_details:
+        reasoning_tokens: 6596647
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784371553
     completion_window: 24h
     created_at: 1784368321
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784371524
     id: batch_e4409f28-a488-4afa-80cd-397ebd3d79a4
-    in_progress_at:
+    in_progress_at: 1784368448
     input_file_id: file-76364f3aa960475e8b3ac77e96245568
     errors:
     metadata:
@@ -53,14 +60,19 @@ shards:
       shard_id: shard-0001
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-7754304e-9e81-445e-b59f-55a2db7bc03e
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T09:52:01Z'
+  output_file_id: file-7754304e-9e81-445e-b59f-55a2db7bc03e
+  error_file_id:
+  last_checked_at: '2026-07-18T19:57:21Z'
+  output_path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: f9499f3a283b92af4dc48a22c2f172186d882efa8019d426b5165601fe1da4e9
 - shard_id: shard-0002
   path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0002.jsonl
   request_count: 1000
@@ -68,7 +80,7 @@ shards:
   sha256: ed3b9596975ad67ea03dd59d922b9096d22804d37818728c64d16348c34ce316
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-5116ffbf867d42bc91d43d1622253dc0
   input_file:
     status: processed
@@ -82,19 +94,26 @@ shards:
   batch_id: batch_1495477c-7773-4f97-b1e0-04c25ed9229d
   batch:
     usage:
+      input_tokens: 3431471
+      output_tokens: 9901369
+      total_tokens: 13332840
+      input_tokens_details:
+        cached_tokens: 1511680
+      output_tokens_details:
+        reasoning_tokens: 6429005
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784371727
     completion_window: 24h
     created_at: 1784368325
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784371698
     id: batch_1495477c-7773-4f97-b1e0-04c25ed9229d
-    in_progress_at:
+    in_progress_at: 1784368448
     input_file_id: file-5116ffbf867d42bc91d43d1622253dc0
     errors:
     metadata:
@@ -103,14 +122,19 @@ shards:
       shard_id: shard-0002
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-27265703-6bfb-4da6-84f1-49732495803b
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T09:52:06Z'
+  output_file_id: file-27265703-6bfb-4da6-84f1-49732495803b
+  error_file_id:
+  last_checked_at: '2026-07-18T19:57:42Z'
+  output_path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: 56181e094b4848024821324651fce31c5920c32d929ff591bc9654b3a547fa18
 - shard_id: shard-0003
   path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0003.jsonl
   request_count: 1000
@@ -118,7 +142,7 @@ shards:
   sha256: 8d6077474867c201c4b3b45424ea2f08e8b5153d68c37d4b356e9d6f7b8a2c45
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-97526c9d6643447e9a3a0f018076825c
   input_file:
     status: processed
@@ -132,19 +156,26 @@ shards:
   batch_id: batch_5c348de9-6682-4b32-8220-9a7141d13c4c
   batch:
     usage:
+      input_tokens: 3471616
+      output_tokens: 9973237
+      total_tokens: 13444853
+      input_tokens_details:
+        cached_tokens: 1520512
+      output_tokens_details:
+        reasoning_tokens: 6516519
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784371454
     completion_window: 24h
     created_at: 1784368330
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784371425
     id: batch_5c348de9-6682-4b32-8220-9a7141d13c4c
-    in_progress_at:
+    in_progress_at: 1784368448
     input_file_id: file-97526c9d6643447e9a3a0f018076825c
     errors:
     metadata:
@@ -153,14 +184,19 @@ shards:
       shard_id: shard-0003
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-bdaa95f8-cd4e-4dc4-983d-b458e449aa91
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T09:52:10Z'
+  output_file_id: file-bdaa95f8-cd4e-4dc4-983d-b458e449aa91
+  error_file_id:
+  last_checked_at: '2026-07-18T19:57:58Z'
+  output_path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: f1f7094263c60b4f3588caddaa157cf7d95202f3120351cd994701eddd03458b
 - shard_id: shard-0004
   path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0004.jsonl
   request_count: 647
@@ -168,7 +204,7 @@ shards:
   sha256: 3c3f129da7f31b0d952d4194770a81d9bb7b88084ddd18caf2f3fc6be4777442
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-b702d6e25dd44970a3af6af2a4fc5263
   input_file:
     status: processed
@@ -182,19 +218,26 @@ shards:
   batch_id: batch_74cdc6be-77f5-411a-972a-1f3982c92215
   batch:
     usage:
+      input_tokens: 2336040
+      output_tokens: 6926351
+      total_tokens: 9262391
+      input_tokens_details:
+        cached_tokens: 985856
+      output_tokens_details:
+        reasoning_tokens: 4537938
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784371179
     completion_window: 24h
     created_at: 1784368334
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784371151
     id: batch_74cdc6be-77f5-411a-972a-1f3982c92215
-    in_progress_at:
+    in_progress_at: 1784368449
     input_file_id: file-b702d6e25dd44970a3af6af2a4fc5263
     errors:
     metadata:
@@ -203,12 +246,17 @@ shards:
       shard_id: shard-0004
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-ebdeab9b-9939-40b4-a691-33fe0ccd12d9
     request_counts:
-      total: 0
-      completed: 0
+      total: 647
+      completed: 647
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T09:52:15Z'
+  output_file_id: file-ebdeab9b-9939-40b4-a691-33fe0ccd12d9
+  error_file_id:
+  last_checked_at: '2026-07-18T19:58:12Z'
+  output_path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: 106f5035dec6a0fc90a54eb3a0894f30c3df5666d913fd10ae3a23b3d6c9fb0f
 

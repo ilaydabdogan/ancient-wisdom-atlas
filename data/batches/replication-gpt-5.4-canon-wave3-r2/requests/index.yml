@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: replication-gpt-5.4-canon-wave3-r2
 created_at: '2026-07-18T15:18:08Z'
-updated_at: '2026-07-18T15:19:00Z'
+updated_at: '2026-07-18T20:02:37Z'
 endpoint: "/v1/responses"
 model: gpt-5.4-batch
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,7 @@ shards:
   sha256: 4f8c6b399879cf2423641998fe72ca5370100f6057a7226a439751a9d6a42724
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-f06cf9ef88d6425e84991bd19d654015
   input_file:
     status: processed
@@ -32,19 +32,26 @@ shards:
   batch_id: batch_88b73c87-0346-4066-91c8-c8836fbc1a5d
   batch:
     usage:
+      input_tokens: 3577233
+      output_tokens: 9429246
+      total_tokens: 13006479
+      input_tokens_details:
+        cached_tokens: 1526784
+      output_tokens_details:
+        reasoning_tokens: 6227166
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784390627
     completion_window: 24h
     created_at: 1784387923
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784390593
     id: batch_88b73c87-0346-4066-91c8-c8836fbc1a5d
-    in_progress_at:
+    in_progress_at: 1784388057
     input_file_id: file-f06cf9ef88d6425e84991bd19d654015
     errors:
     metadata:
@@ -53,14 +60,19 @@ shards:
       shard_id: shard-0001
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-a53ac875-33f9-45ab-a3b1-36f22ebcd81f
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:18:43Z'
+  output_file_id: file-a53ac875-33f9-45ab-a3b1-36f22ebcd81f
+  error_file_id:
+  last_checked_at: '2026-07-18T20:01:39Z'
+  output_path: data/batches/replication-gpt-5.4-canon-wave3-r2/results/shard-0001.output.jsonl
+  output_sha256: 545eb6d592dd6d8bafe5b7759005744bb5f5ce14bef3ebd44c7044af174f52ff
 - shard_id: shard-0002
   path: data/batches/replication-gpt-5.4-canon-wave3-r2/requests/shard-0002.jsonl
   request_count: 1000
@@ -68,7 +80,7 @@ shards:
   sha256: e56e31c30573f8a8ac9189877e3fd4f019a28f75db46f3e4722fed67c5ddb013
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-2b6b1f97733548a391bd78bb2d33ae14
   input_file:
     status: processed
@@ -82,19 +94,26 @@ shards:
   batch_id: batch_9cf27ad2-d02a-47c6-9b2d-6a0c1eb08edb
   batch:
     usage:
+      input_tokens: 3656974
+      output_tokens: 10369157
+      total_tokens: 14026131
+      input_tokens_details:
+        cached_tokens: 1525248
+      output_tokens_details:
+        reasoning_tokens: 6860929
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784390790
     completion_window: 24h
     created_at: 1784387927
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784390759
     id: batch_9cf27ad2-d02a-47c6-9b2d-6a0c1eb08edb
-    in_progress_at:
+    in_progress_at: 1784388058
     input_file_id: file-2b6b1f97733548a391bd78bb2d33ae14
     errors:
     metadata:
@@ -103,14 +122,19 @@ shards:
       shard_id: shard-0002
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-4f8bbb37-ff1f-4590-bbbb-3368858c263b
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:18:47Z'
+  output_file_id: file-4f8bbb37-ff1f-4590-bbbb-3368858c263b
+  error_file_id:
+  last_checked_at: '2026-07-18T20:01:54Z'
+  output_path: data/batches/replication-gpt-5.4-canon-wave3-r2/results/shard-0002.output.jsonl
+  output_sha256: cfbcc8c7602c960e4bf9b76b113cf3de83cb92e0da3e40fcff413dfd5a7c354d
 - shard_id: shard-0003
   path: data/batches/replication-gpt-5.4-canon-wave3-r2/requests/shard-0003.jsonl
   request_count: 1000
@@ -118,7 +142,7 @@ shards:
   sha256: 85cece622ad01e9593370b85377776a96595554f15f84d6555a4353f05d16bb1
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-dfbd2e264a3a4707ac3852e05b7201f4
   input_file:
     status: processed
@@ -132,19 +156,26 @@ shards:
   batch_id: batch_3829735a-f63a-49e2-b12a-3385a3786a1c
   batch:
     usage:
+      input_tokens: 3469279
+      output_tokens: 9923037
+      total_tokens: 13392316
+      input_tokens_details:
+        cached_tokens: 1531392
+      output_tokens_details:
+        reasoning_tokens: 6601559
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784390703
     completion_window: 24h
     created_at: 1784387931
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784390674
     id: batch_3829735a-f63a-49e2-b12a-3385a3786a1c
-    in_progress_at:
+    in_progress_at: 1784388057
     input_file_id: file-dfbd2e264a3a4707ac3852e05b7201f4
     errors:
     metadata:
@@ -153,14 +184,19 @@ shards:
       shard_id: shard-0003
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-47d83a90-6317-4f96-b174-531dee58a473
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:18:51Z'
+  output_file_id: file-47d83a90-6317-4f96-b174-531dee58a473
+  error_file_id:
+  last_checked_at: '2026-07-18T20:02:07Z'
+  output_path: data/batches/replication-gpt-5.4-canon-wave3-r2/results/shard-0003.output.jsonl
+  output_sha256: 8394b2a5735788b9effb683471b0b424958b1199c97ce187578c455e8074df2b
 - shard_id: shard-0004
   path: data/batches/replication-gpt-5.4-canon-wave3-r2/requests/shard-0004.jsonl
   request_count: 1000
@@ -168,7 +204,7 @@ shards:
   sha256: fa39a14f5189d1a4d55f25104732e341f83b44f44b7789e4b3d7ec68d44ef639
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-db9bf13e224d4f59a11efe19eb6aa7b9
   input_file:
     status: processed
@@ -182,19 +218,26 @@ shards:
   batch_id: batch_ef6834d1-15b0-4efe-a709-fe288074ca50
   batch:
     usage:
+      input_tokens: 3489397
+      output_tokens: 8169052
+      total_tokens: 11658449
+      input_tokens_details:
+        cached_tokens: 1532928
+      output_tokens_details:
+        reasoning_tokens: 5451792
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784390329
     completion_window: 24h
     created_at: 1784387936
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784390300
     id: batch_ef6834d1-15b0-4efe-a709-fe288074ca50
-    in_progress_at:
+    in_progress_at: 1784388058
     input_file_id: file-db9bf13e224d4f59a11efe19eb6aa7b9
     errors:
     metadata:
@@ -203,14 +246,19 @@ shards:
       shard_id: shard-0004
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-c29ea413-b48a-44ce-8637-b9e39c497e7c
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:18:56Z'
+  output_file_id: file-c29ea413-b48a-44ce-8637-b9e39c497e7c
+  error_file_id:
+  last_checked_at: '2026-07-18T20:02:21Z'
+  output_path: data/batches/replication-gpt-5.4-canon-wave3-r2/results/shard-0004.output.jsonl
+  output_sha256: 89ad6be81c602a9640bbd3ef28a6e8dc898a01a6144a78ff5e2a15bbbb9173c1
 - shard_id: shard-0005
   path: data/batches/replication-gpt-5.4-canon-wave3-r2/requests/shard-0005.jsonl
   request_count: 291
@@ -218,7 +266,7 @@ shards:
   sha256: f77e7d8d1c427d1fd78dff17fc539593458102e9780df532d501647aedccc241
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-828a3a65f2fa4e64a4bfc3a95b58c748
   input_file:
     status: processed
@@ -232,19 +280,26 @@ shards:
   batch_id: batch_474a9c18-f133-42fb-987a-9c39e7103499
   batch:
     usage:
+      input_tokens: 1047131
+      output_tokens: 2326957
+      total_tokens: 3374088
+      input_tokens_details:
+        cached_tokens: 403968
+      output_tokens_details:
+        reasoning_tokens: 1533948
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784388937
     completion_window: 24h
     created_at: 1784387939
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784388909
     id: batch_474a9c18-f133-42fb-987a-9c39e7103499
-    in_progress_at:
+    in_progress_at: 1784388057
     input_file_id: file-828a3a65f2fa4e64a4bfc3a95b58c748
     errors:
     metadata:
@@ -253,12 +308,17 @@ shards:
       shard_id: shard-0005
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-5502eab7-e74b-48d6-b2a1-86b593f30a1d
     request_counts:
-      total: 0
-      completed: 0
+      total: 291
+      completed: 291
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:19:00Z'
+  output_file_id: file-5502eab7-e74b-48d6-b2a1-86b593f30a1d
+  error_file_id:
+  last_checked_at: '2026-07-18T20:02:33Z'
+  output_path: data/batches/replication-gpt-5.4-canon-wave3-r2/results/shard-0005.output.jsonl
+  output_sha256: 1de0a20a0746fd923c441705dfe4c53caea5ec471cc0afa56211cfa521222f05
 

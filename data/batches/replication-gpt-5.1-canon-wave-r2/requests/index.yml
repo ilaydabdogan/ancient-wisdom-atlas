@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: replication-gpt-5.1-canon-wave-r2
 created_at: '2026-07-18T15:20:12Z'
-updated_at: '2026-07-18T15:20:27Z'
+updated_at: '2026-07-18T20:04:23Z'
 endpoint: "/v1/responses"
 model: gpt-5.1-batch
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,7 @@ shards:
   sha256: 9c7da4f8498e58025f4511f05bc1ff401852b15e0be68f8a70fc7e319efbd64a
   endpoint: "/v1/responses"
   model: gpt-5.1-batch
-  status: validating
+  status: completed
   input_file_id: file-e2fef35b436c469a9b4a344de89e0116
   input_file:
     status: processed
@@ -32,19 +32,26 @@ shards:
   batch_id: batch_e09bb569-a7b7-414b-8983-a4222a8e3a41
   batch:
     usage:
+      input_tokens: 3464161
+      output_tokens: 13135026
+      total_tokens: 16599187
+      input_tokens_details:
+        cached_tokens: 1531008
+      output_tokens_details:
+        reasoning_tokens: 8940856
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784399592
     completion_window: 24h
     created_at: 1784388023
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784399563
     id: batch_e09bb569-a7b7-414b-8983-a4222a8e3a41
-    in_progress_at:
+    in_progress_at: 1784388175
     input_file_id: file-e2fef35b436c469a9b4a344de89e0116
     errors:
     metadata:
@@ -53,14 +60,19 @@ shards:
       shard_id: shard-0001
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-d0dd1a9e-6c2f-409c-8748-322993e257e7
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:20:23Z'
+  output_file_id: file-d0dd1a9e-6c2f-409c-8748-322993e257e7
+  error_file_id:
+  last_checked_at: '2026-07-18T20:04:05Z'
+  output_path: data/batches/replication-gpt-5.1-canon-wave-r2/results/shard-0001.output.jsonl
+  output_sha256: ca192268523577be2f6a65228a8531ac91ba62147810900b3e176e008b0aa06d
 - shard_id: shard-0002
   path: data/batches/replication-gpt-5.1-canon-wave-r2/requests/shard-0002.jsonl
   request_count: 62
@@ -68,7 +80,7 @@ shards:
   sha256: b3a4c4febc3969af0df2178a598c34684ce4e60a501170a85499c2cbf2c9e5fc
   endpoint: "/v1/responses"
   model: gpt-5.1-batch
-  status: validating
+  status: completed
   input_file_id: file-d37ab624afbd4e5498fdc137d0991d28
   input_file:
     status: processed
@@ -82,19 +94,26 @@ shards:
   batch_id: batch_ed8d0d9a-ead8-4b00-b016-838e4e9a11e5
   batch:
     usage:
+      input_tokens: 271374
+      output_tokens: 745621
+      total_tokens: 1016995
+      input_tokens_details:
+        cached_tokens: 146688
+      output_tokens_details:
+        reasoning_tokens: 516979
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784390938
     completion_window: 24h
     created_at: 1784388026
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784390908
     id: batch_ed8d0d9a-ead8-4b00-b016-838e4e9a11e5
-    in_progress_at:
+    in_progress_at: 1784388338
     input_file_id: file-d37ab624afbd4e5498fdc137d0991d28
     errors:
     metadata:
@@ -103,12 +122,17 @@ shards:
       shard_id: shard-0002
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-2bbbeb1a-4a3e-4240-a50d-88d57fb3077a
     request_counts:
-      total: 0
-      completed: 0
+      total: 62
+      completed: 62
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T15:20:27Z'
+  output_file_id: file-2bbbeb1a-4a3e-4240-a50d-88d57fb3077a
+  error_file_id:
+  last_checked_at: '2026-07-18T20:04:21Z'
+  output_path: data/batches/replication-gpt-5.1-canon-wave-r2/results/shard-0002.output.jsonl
+  output_sha256: 1c7f2c2843143a7dec67229ebb90082d9c753c27ca4b0b2d2743a189a713a5b3
 
