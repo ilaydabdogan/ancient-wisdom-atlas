@@ -1,7 +1,10 @@
 ---
 replication_agreement_version: '1'
-generated_at: '2026-07-18T03:20:01Z'
+generated_at: '2026-07-18T03:30:46Z'
 runs:
+  motif-extraction-2026-07-17-azure-wave1:
+    parsed: 946
+    parse_failed: 50
   replication-gpt54-2026-07-17:
     parsed: 3093
     parse_failed: 293
@@ -9,6 +12,36 @@ runs:
     parsed: 988
     parse_failed: 12
 pairwise:
+- run_a: motif-extraction-2026-07-17-azure-wave1
+  run_b: replication-gpt54-2026-07-17
+  shared_passages: 913
+  mean_raw_jaccard: 0.6429
+  mean_canonical_jaccard: 0.654
+  exact_canonical_match_rate: 0.4107
+  per_tradition_canonical_jaccard:
+    confucian: 0.8439
+    biblical: 0.7095
+    egyptian: 0.6485
+    daoist: 0.6435
+    celtic-irish: 0.6241
+    celtic-welsh: 0.5923
+    buddhist: 0.5889
+    finnish-karelian: 0.5789
+- run_a: motif-extraction-2026-07-17-azure-wave1
+  run_b: replication-gpt56terra-2026-07-17
+  shared_passages: 945
+  mean_raw_jaccard: 0.5526
+  mean_canonical_jaccard: 0.5653
+  exact_canonical_match_rate: 0.3545
+  per_tradition_canonical_jaccard:
+    confucian: 0.7562
+    buddhist: 0.6979
+    daoist: 0.6026
+    biblical: 0.5995
+    egyptian: 0.5774
+    celtic-irish: 0.5451
+    finnish-karelian: 0.4655
+    celtic-welsh: 0.4583
 - run_a: replication-gpt54-2026-07-17
   run_b: replication-gpt56terra-2026-07-17
   shared_passages: 943

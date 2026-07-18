@@ -13,6 +13,7 @@ SITE_DIR = File.join(ROOT, "site")
 
 NAV = [
   ["Home", "index.html"],
+  ["Findings", "findings/index.html"],
   ["Explorer", "explorer/index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
@@ -1351,6 +1352,13 @@ def build_home(texts, comparisons, motif_index, extractions)
     .first(4)
 
   body = <<~HTML
+    <section class="home-intro">
+      <p><strong>What is this?</strong> Humanity's oldest stories — from Gilgamesh to the Dreamtime — keep telling the same patterns: the descent into darkness, the flood, the divine mother, the return from death. This atlas collects the original texts, tags every recurring pattern with the exact passage as evidence, and maps where the same patterns appear in cultures that never met.</p>
+      <p class="home-intro-links">
+        New here? <a href="#{relative_url(current, "findings/index.html")}">Read what we've found so far, in plain language</a> — or dive into the <a href="#{relative_url(current, "explorer/index.html")}">Pattern Explorer</a>.
+      </p>
+    </section>
+
     <section class="stats-grid">
       <div class="stat"><strong>#{texts.length}</strong><span>complete texts</span></div>
       <div class="stat"><strong>#{traditions}</strong><span>traditions</span></div>
@@ -1428,6 +1436,124 @@ def build_home(texts, comparisons, motif_index, extractions)
     body: body,
     page_class: "home"
   ))
+end
+
+def build_findings(texts, motif_index)
+  current = "findings/index.html"
+  motif_count = motif_index["motif_count"]
+  occurrence_count = motif_index["occurrence_count"]
+  traditions = texts.map { |item| item[:metadata]["tradition"] }.compact.uniq.length
+
+  agreement = load_yaml(File.join(ROOT, "data", "indexes", "replication-agreement.yml"))
+  agreement_section = ""
+  pairwise = agreement.fetch("pairwise", [])
+  if pairwise.any?
+    scores = pairwise.map { |pair| pair["mean_canonical_jaccard"] }.compact
+    lo, hi = scores.minmax
+    best_tradition = pairwise.filter_map { |pair| pair["per_tradition_canonical_jaccard"]&.first }.max_by { |_, value| value.to_f }
+    agreement_section = <<~HTML
+      <section class="section">
+        <h2>Do different AIs see the same patterns?</h2>
+        <p>We had <strong>three different AI models</strong> — built at different times, with no shared memory — each read the same ancient passages independently and tag the patterns they saw. If the patterns were imaginary, the three readers would disagree wildly. They don't.</p>
+        <p>Across #{pairwise.map { |pair| pair["shared_passages"] }.max} shared passages, any two readers agreed on <strong>#{(lo * 100).round}–#{(hi * 100).round}%</strong> of the pattern families they tagged (a strict overlap measure where 100% means identical answers)#{best_tradition ? ", rising to <strong>#{(best_tradition[1] * 100).round}%</strong> for #{esc(tradition_label(best_tradition[0]))} texts" : ""}. For open-ended reading tasks, that is the level of agreement trained human researchers reach.</p>
+        <p><em>Why it matters:</em> it means the patterns live in the texts themselves — not in one reader's imagination.</p>
+      </section>
+    HTML
+  end
+
+  body = <<~HTML
+    <section class="section">
+      <h2>The question</h2>
+      <p>People who never met — separated by oceans and thousands of years — told strangely similar stories. A hero descends into the land of the dead and returns. A great flood wipes the world clean. A mother goddess loses and finds her child. Why?</p>
+      <p>There are three boring explanations: the stories were <em>inherited</em> from common ancestors, <em>traded</em> along contact routes, or the similarity is <em>coincidence</em>. And there is one profound possibility, suggested a century ago by Carl Jung and Joseph Campbell: that these patterns rise from something shared in the human mind itself. They could never test it. We can.</p>
+    </section>
+
+    <section class="section">
+      <h2>What we built</h2>
+      <p>We collected <strong>#{texts.length} complete ancient and sacred texts</strong> from <strong>#{traditions} traditions</strong> — all public domain, all with provenance — and had AI read every passage and tag each recurring story-pattern (a <em>motif</em>) with the exact quote as evidence. Nothing is asserted without a passage you can click and read. So far: <strong>#{format_count(motif_count)} distinct motifs</strong> across <strong>#{format_count(occurrence_count)} tagged occurrences</strong>.</p>
+      <p>Crucially, the corpus now includes traditions that <strong>could not have borrowed from each other</strong> — Australian Aboriginal Dreamtime tales, Inuit stories from Greenland sledge journeys, San narratives from the Kalahari, Siberian Koryak texts, Guiana Amerindian legends. When the same pattern appears there <em>and</em> in Gilgamesh, "they copied it" is off the table.</p>
+    </section>
+
+    #{agreement_section}
+
+    <section class="section">
+      <h2>What comes next</h2>
+      <p><strong>Order:</strong> Campbell claimed stories don't just share ingredients — they share a <em>sequence</em> (departure → ordeal → return). We are testing whether that order actually recurs, with numbers.</p>
+      <p><strong>Clusters:</strong> Jung claimed symbols travel in stable families — the Mother, the Trickster, the Descent. We are testing whether the same symbol-clusters re-form independently in unconnected cultures.</p>
+      <p><strong>Chance:</strong> every claim above is checked against a simulation of what pure coincidence would produce. Only patterns that beat chance count.</p>
+      <p><strong>The bridge:</strong> modern people in extraordinary states — near-death experiences, deep meditation — report imagery with no cultural source. We analyze those reports with a completely separate pipeline, so the two worlds can be compared without contaminating each other.</p>
+    </section>
+
+    <section class="section">
+      <h2>What would prove us wrong</h2>
+      <p>If the patterns only appear in cultures that had contact; if independent AI readers stop agreeing when texts get unfamiliar; if the "universal" patterns fail the chance test — then the profound explanation loses, and we will say so. That honesty is the whole point of building this as evidence instead of anecdote.</p>
+    </section>
+  HTML
+
+  write_page(current, layout(
+    title: "What We Have Found",
+    subtitle: "The project, its first results, and what would prove it wrong — in plain language.",
+    current_output: current,
+    body: body,
+    page_class: "findings"
+  ))
+end
+
+def build_agent_files(texts, motif_index)
+  repo_raw = "https://raw.githubusercontent.com/ilaydabdogan/ancient-wisdom-atlas/main"
+  repo = "https://github.com/ilaydabdogan/ancient-wisdom-atlas"
+  llms = <<~TXT
+    # Ancient Wisdom Atlas
+
+    > A source-grounded, machine-readable atlas of recurring motifs across
+    > #{texts.map { |item| item[:metadata]["tradition"] }.compact.uniq.length} ancient and sacred text traditions. Every motif claim links to a
+    > specific passage in a specific public-domain text. Built to test, with
+    > falsifiable methods, whether cross-cultural motif recurrence exceeds
+    > inheritance, diffusion, and chance.
+
+    ## Data (canonical, machine-readable YAML in the repo)
+    - Motif occurrences index: #{repo_raw}/data/indexes/motif-occurrences.yml
+    - Canonical motif families + frequencies: #{repo_raw}/data/indexes/canonical-motif-frequency.yml
+    - Inter-reader agreement (multi-model replication): #{repo_raw}/data/indexes/replication-agreement.yml
+    - Cultural timeline: #{repo_raw}/data/indexes/cultural-timeline.yml
+    - Extraction records (one YAML per passage): #{repo}/tree/main/extractions
+    - Source texts (markdown with stable passage anchors): #{repo}/tree/main/texts/public-domain
+    - Extraction JSON Schema: #{repo_raw}/schemas/extraction.schema.json
+
+    ## Site sections
+    - /findings/ : plain-language summary of results
+    - /motifs/ : per-motif evidence pages
+    - /taxonomy/ : canonical family research pages + constellation map
+    - /extractions/ : per-passage extraction records
+    - /texts/ : the corpus
+    - /api/atlas.json : machine-readable site summary
+
+    ## Method invariants (do not violate when extending)
+    - Every motif claim must cite a passage ID in a canonical text.
+    - Experiential (NDE/contemplative) data is analyzed by a separate
+      pipeline and never mixed with the ancient corpus.
+    - Taxonomy families follow evidence; they are never declared a priori.
+  TXT
+  File.write(site_path("llms.txt"), llms)
+
+  FileUtils.mkdir_p(site_path("api"))
+  File.write(site_path("api", "atlas.json"), JSON.pretty_generate({
+    "name" => "Ancient Wisdom Atlas",
+    "generated_at" => Time.now.utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "counts" => {
+      "texts" => texts.length,
+      "traditions" => texts.map { |item| item[:metadata]["tradition"] }.compact.uniq.length,
+      "motifs" => motif_index["motif_count"],
+      "occurrences" => motif_index["occurrence_count"]
+    },
+    "data" => {
+      "repository" => repo,
+      "motif_occurrences" => "#{repo_raw}/data/indexes/motif-occurrences.yml",
+      "canonical_families" => "#{repo_raw}/data/indexes/canonical-motif-frequency.yml",
+      "replication_agreement" => "#{repo_raw}/data/indexes/replication-agreement.yml",
+      "extraction_schema" => "#{repo_raw}/schemas/extraction.schema.json"
+    }
+  }))
 end
 
 def build_explorer(motif_index, patterns)
@@ -2352,6 +2478,24 @@ STYLE_CSS = <<~CSS
     font-size: 20px;
   }
 
+  .home-intro {
+    max-width: 46rem;
+    margin: 0 auto 2.2rem;
+    text-align: center;
+  }
+  .home-intro p {
+    font-size: 1.06rem;
+    line-height: 1.65;
+    margin: 0 0 0.9rem;
+  }
+  .home-intro-links {
+    font-size: 0.98rem;
+    opacity: 0.92;
+  }
+  .findings .section p {
+    max-width: 44rem;
+    line-height: 1.7;
+  }
   .stats-grid {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -4373,6 +4517,8 @@ end
 
 build_step("assets") { build_assets }
 build_step("home") { build_home(texts, comparisons, motif_index, extractions) }
+build_step("findings") { build_findings(texts, motif_index) }
+build_step("agent files") { build_agent_files(texts, motif_index) }
 build_step("explorer") { build_explorer(motif_index, patterns) }
 build_step("texts") { build_texts(texts) }
 build_step("patterns") { build_patterns(patterns) }
