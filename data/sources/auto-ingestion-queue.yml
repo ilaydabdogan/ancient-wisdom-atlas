@@ -2,7 +2,7 @@
 queue_id: auto_ingestion_queue
 title: Auto Ingestion Queue
 created_on: '2026-04-27'
-updated_on: '2026-07-17'
+updated_on: '2026-07-18'
 notes: 'Queue for low-risk, rights-cleared corpus ingestion. The automation is intentionally
   conservative: only items whose rights fields explicitly allow public-domain full-text
   and training use should be auto-promoted into texts/. Use small limits for direct
@@ -6415,3 +6415,1555 @@ items:
   canonical_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
   manifest_path: manifests/project-gutenberg/cu31924020443218-legends-myths-british-guiana-brett.yml
   extraction_dir: extractions/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett
+- id: persian.shahnama.warner_v1_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: shahnama01firduoft
+  slug: shahnama-warner-vol1
+  title: The Shahnama of Firdausi, Vol. I
+  alternate_titles:
+  - Shahnameh
+  - Shah Nameh
+  - The Book of Kings
+  text_status: complete
+  tradition: persian
+  tradition_cluster: persian
+  culture: persian_national_epic_later_translation
+  region: iran
+  source_language: Classical Persian
+  text_language: English
+  date_range: epic completed c. 1010 CE; Warner verse translation vol. I published
+    1905
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Kegan Paul, Trench, Trubner
+    1905 first volume of the nine-volume Warner verse translation (University of Toronto
+    scan)
+  translator: Arthur George Warner and Edmond Warner
+  editor: ''
+  publication_year: 1905
+  publisher: Internet Archive
+  source_url: https://archive.org/details/shahnama01firduoft
+  download_url: https://archive.org/download/shahnama01firduoft/shahnama01firduoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1905, US public domain. Volume I of nine; contains the prelude
+      and the mythical Pishdadian dynasty. Long scholarly introduction precedes the
+      poem; extraction should separate translator apparatus from epic text.
+  tags:
+  - shahnameh
+  - firdausi
+  - persian_epic
+  - pishdadian
+  - simurgh
+  motifs:
+  - primeval_kingship
+  - serpent_tyrant
+  - golden_age_and_fall
+  - exposed_child_rescued
+  - magical_bird_guardian
+  figures:
+  - Firdausi
+  - Gaiumart
+  - Jamshid
+  - Zahhak
+  - Faridun
+  - Zal
+  why_it_matters: Opens the Persian national epic for the Atlas; Jamshid's golden
+    age and fall, Zahhak's serpent tyranny, and Zal's rescue by the Simurgh are core
+    Iranian forms of kingship-loss, demon-binding, and bird-guardian motifs.
+  raw_path: imports/raw/internet-archive/shahnama01firduoft-shahnama-warner-vol1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/shahnama01firduoft-shahnama-warner-vol1.md
+- id: persian.shahnama.warner_v2_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: shahnama02firduoft
+  slug: shahnama-warner-vol2
+  title: The Shahnama of Firdausi, Vol. II
+  alternate_titles:
+  - Shahnameh
+  - Rustam and Suhrab
+  text_status: complete
+  tradition: persian
+  tradition_cluster: persian
+  culture: persian_national_epic_later_translation
+  region: iran
+  source_language: Classical Persian
+  text_language: English
+  date_range: epic completed c. 1010 CE; Warner verse translation vol. II published
+    1906
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Kegan Paul, Trench, Trubner
+    1906 second volume of the nine-volume Warner verse translation (University of
+    Toronto scan)
+  translator: Arthur George Warner and Edmond Warner
+  editor: ''
+  publication_year: 1906
+  publisher: Internet Archive
+  source_url: https://archive.org/details/shahnama02firduoft
+  download_url: https://archive.org/download/shahnama02firduoft/shahnama02firduoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1906, US public domain. Volume II of nine; covers the Kaianian
+      material including Rustam's Seven Stages, Suhrab, and Siyawush.
+  tags:
+  - shahnameh
+  - rustam
+  - suhrab
+  - siyawush
+  - heroic_trials
+  motifs:
+  - seven_trials_of_the_hero
+  - father_slays_son
+  - innocent_prince_martyred
+  - fire_ordeal
+  - otherworld_journey
+  figures:
+  - Rustam
+  - Suhrab
+  - Siyawush
+  - Kai_Kaus
+  - Afrasiyab
+  why_it_matters: Contains the tragic core of the Persian epic; Rustam's unknowing
+    killing of Suhrab and Siyawush's fire ordeal are canonical father-son combat and
+    trial-by-fire motifs for cross-cultural comparison.
+  raw_path: imports/raw/internet-archive/shahnama02firduoft-shahnama-warner-vol2.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/shahnama02firduoft-shahnama-warner-vol2.md
+- id: ethiopian.kebra_nagast.budge_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: queenofshebahero00budgrich
+  slug: kebra-nagast-budge
+  title: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  alternate_titles:
+  - Kebra Nagast
+  - The Glory of the Kings
+  text_status: complete
+  tradition: ethiopian_christian
+  tradition_cluster: jewish_christian
+  culture: ethiopian_geez_national_epic_later_translation
+  region: horn_of_africa_ethiopia
+  source_language: Ge'ez (Ethiopic)
+  text_language: English
+  date_range: compiled c. 1300 CE from older traditions; Budge translation published
+    1922
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Medici Society 1922 edition
+    (University of California scan)
+  translator: E. A. Wallis Budge
+  editor: ''
+  publication_year: 1922
+  publisher: Internet Archive
+  source_url: https://archive.org/details/queenofshebahero00budgrich
+  download_url: https://archive.org/download/queenofshebahero00budgrich/queenofshebahero00budgrich_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1922, US public domain (pre-1930). Budge's introduction precedes
+      the translation; extraction should separate apparatus from text.
+  tags:
+  - kebra_nagast
+  - queen_of_sheba
+  - solomon
+  - ark_of_the_covenant
+  - ethiopia
+  motifs:
+  - sacred_object_translation
+  - royal_descent_from_divine_union
+  - wisdom_quest_journey
+  - dream_vision_of_kings
+  - chosen_nation_covenant
+  figures:
+  - Makeda
+  - Solomon
+  - Menyelek
+  - Zadok
+  why_it_matters: The Ethiopian national epic of the Ark's journey from Jerusalem
+    to Aksum; bridges Solomonic wisdom traditions, sacred-treasure translation, and
+    divine kingship in an African Christian frame absent from the corpus.
+  raw_path: imports/raw/internet-archive/queenofshebahero00budgrich-kebra-nagast-budge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/queenofshebahero00budgrich-kebra-nagast-budge.md
+- id: caucasian.folk_tales.dirr_menzies_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: dirr-1925-caucasian-folk-tales
+  slug: caucasian-folk-tales-dirr
+  title: Caucasian Folk-Tales
+  alternate_titles:
+  - Kaukasische Marchen
+  - Nart tales
+  text_status: complete
+  tradition: caucasian
+  tradition_cluster: caucasian
+  culture: caucasus_oral_tradition_early_20th_century_collection
+  region: caucasus
+  source_language: Caucasian languages (Ossetian, Kabardian, Georgian, Avar, and others)
+  text_language: English
+  date_range: oral tales collected late 19th-early 20th century; Dirr German edition
+    1920, Menzies English translation published 1925
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the J. M. Dent 1925 English
+    edition, selected and translated by Adolf Dirr, English version by Lucy Menzies
+    (community-uploaded scan; OCR quality should be checked at conversion)
+  translator: Adolf Dirr (German); Lucy Menzies (English)
+  editor: ''
+  publication_year: 1925
+  publisher: Internet Archive
+  source_url: https://archive.org/details/dirr-1925-caucasian-folk-tales
+  download_url: https://archive.org/download/dirr-1925-caucasian-folk-tales/Dirr_1925_Caucasian_Folk_Tales_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1925 (London and New York), US public domain (pre-1930). Community-uploaded
+      scan rather than a library scan; verify completeness against the printed edition
+      at conversion.
+  tags:
+  - caucasus
+  - nart_sagas
+  - ossetian
+  - georgian_folklore
+  - mountain_spirits
+  motifs:
+  - culture_hero_band
+  - giant_slaying
+  - forbidden_marriage
+  - grateful_animal_helper
+  - underworld_descent
+  figures:
+  - Narts
+  - Soslan
+  why_it_matters: First Caucasus material in the corpus; Dirr's anthology includes
+    Nart-cycle hero tales from Ossetian and Circassian tradition, a key comparative
+    bridge between Iranian, steppe, and European heroic mythologies.
+  raw_path: imports/raw/internet-archive/dirr-1925-caucasian-folk-tales-caucasian-folk-tales-dirr.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/dirr-1925-caucasian-folk-tales-caucasian-folk-tales-dirr.md
+- id: buddhist.mahavamsa.geiger_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: mahavamsaorgreat00mahciala
+  slug: mahavamsa-geiger
+  title: The Mahavamsa, or The Great Chronicle of Ceylon
+  alternate_titles:
+  - Mahavamsa
+  - Great Chronicle of Ceylon
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: sinhala_theravada_chronicle_later_translation
+  region: south_asia_sri_lanka
+  source_language: Pali
+  text_language: English
+  date_range: chronicle composed c. 5th-6th century CE; Geiger translation published
+    1912
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Pali Text Society 1912
+    edition, translated by Wilhelm Geiger assisted by Mabel Haynes Bode (University
+    of California scan)
+  translator: Wilhelm Geiger, assisted by Mabel Haynes Bode
+  editor: ''
+  publication_year: 1912
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mahavamsaorgreat00mahciala
+  download_url: https://archive.org/download/mahavamsaorgreat00mahciala/mahavamsaorgreat00mahciala_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1912, US public domain. Geiger's introduction precedes the chronicle;
+      extraction should separate apparatus from text.
+  tags:
+  - mahavamsa
+  - sri_lanka
+  - theravada
+  - buddhist_chronicle
+  - relic_veneration
+  motifs:
+  - prophecy_of_the_teacher
+  - conversion_of_a_land
+  - naga_subduing
+  - relic_enshrinement
+  - righteous_king
+  figures:
+  - Buddha
+  - Mahinda
+  - Vijaya
+  - Devanampiya_Tissa
+  - Dutthagamani
+  why_it_matters: The great Theravada historical chronicle; adds Buddhist sacred-history
+    motifs of prophecy, island conversion, naga taming, and relic translation that
+    complement the corpus's canonical sutta material.
+  raw_path: imports/raw/internet-archive/mahavamsaorgreat00mahciala-mahavamsa-geiger.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/mahavamsaorgreat00mahciala-mahavamsa-geiger.md
+- id: sikh.sikh_religion.macauliffe_v1_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: sikhreligionitsg01unse
+  slug: sikh-religion-macauliffe-vol1
+  title: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  alternate_titles:
+  - The Sikh Religion
+  - Japji
+  - Life of Guru Nanak
+  text_status: complete
+  tradition: sikh
+  tradition_cluster: sikh
+  culture: sikh_scripture_and_hagiography_later_translation
+  region: south_asia
+  source_language: Punjabi and Sant Bhasha (Gurmukhi script)
+  text_language: English
+  date_range: Guru Nanak 1469-1539, hymns compiled in Adi Granth 1604; Macauliffe
+    translation published 1909
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1909 edition, vol. 1 of 6
+  translator: Max Arthur Macauliffe
+  editor: ''
+  publication_year: 1909
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sikhreligionitsg01unse
+  download_url: https://archive.org/download/sikhreligionitsg01unse/sikhreligionitsg01unse_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1909, US public domain. Volume 1 of 6 covers the life of Guru
+      Nanak and translates the Japji and many Adi Granth hymns; hagiographic narrative
+      interleaves with scripture translation and extraction should distinguish them.
+  tags:
+  - sikh
+  - guru_nanak
+  - japji
+  - adi_granth
+  - nam_simran
+  motifs:
+  - divine_name_recitation
+  - founder_call_vision
+  - river_disappearance_initiation
+  - one_god_beyond_form
+  - saint_travels_teaching
+  figures:
+  - Guru_Nanak
+  - Mardana
+  why_it_matters: First Sikh scripture in the corpus; Nanak's three-day disappearance
+    in the river and commissioning vision is a classic consciousness-bridge initiation
+    account, and the Japji gives the tradition's core map of ascending spiritual realms.
+  raw_path: imports/raw/internet-archive/sikhreligionitsg01unse-sikh-religion-macauliffe-vol1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sikhreligionitsg01unse-sikh-religion-macauliffe-vol1.md
+- id: chinese.shu_king_shih_king.sbe3.legge_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: sacredbooksofch03conf
+  slug: shu-king-shih-king-legge
+  title: 'The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King,
+    the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East,
+    Vol. 3)'
+  alternate_titles:
+  - Shu King
+  - Book of Documents
+  - Shih King
+  - Book of Odes
+  - Hsiao King
+  text_status: complete
+  tradition: confucian
+  tradition_cluster: daoist_confucian_chinese
+  culture: ancient_chinese_classics_later_translation
+  region: china
+  source_language: Classical Chinese
+  text_language: English
+  date_range: core documents and odes c. 1000-600 BCE with later layers; Legge translation
+    published 1879
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1879 edition, Sacred Books of the East vol. 3
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1879
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbooksofch03conf
+  download_url: https://archive.org/download/sacredbooksofch03conf/sacredbooksofch03conf_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1879, US public domain. Legge's introductions and notes interleave
+      with the classics; extraction should separate apparatus from text.
+  tags:
+  - shu_king
+  - shih_king
+  - mandate_of_heaven
+  - ancestor_sacrifice
+  - confucian_classics
+  motifs:
+  - mandate_of_heaven
+  - ancestral_spirits_presence
+  - great_flood_ordering
+  - virtuous_ruler_cosmic_order
+  - filial_piety_as_cosmic_law
+  figures:
+  - Yao
+  - Shun
+  - Yu
+  - King_Wen
+  - Confucius
+  why_it_matters: Foundational Chinese classics missing from the corpus; the Shu King's
+    Mandate of Heaven, Yu's flood ordering, and the sacrificial odes of the Shih King
+    document early Chinese divine-order and ancestor-communication motifs.
+  raw_path: imports/raw/internet-archive/sacredbooksofch03conf-shu-king-shih-king-legge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sacredbooksofch03conf-shu-king-shih-king-legge.md
+- id: chinese.li_ki_1.sbe27.legge_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: sacredbooksofchi0027unse
+  slug: li-ki-part1-legge
+  title: 'The Li Ki, Books I-X (The Sacred Books of China: The Texts of Confucianism,
+    Part III; Sacred Books of the East, Vol. 27)'
+  alternate_titles:
+  - Li Ki
+  - Book of Rites
+  - Liji
+  text_status: complete
+  tradition: confucian
+  tradition_cluster: daoist_confucian_chinese
+  culture: ancient_chinese_ritual_classic_later_translation
+  region: china
+  source_language: Classical Chinese
+  text_language: English
+  date_range: ritual texts compiled c. 200 BCE-100 CE from older material; Legge translation
+    published 1885
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1885 edition, Sacred Books of the East vol. 27
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbooksofchi0027unse
+  download_url: https://archive.org/download/sacredbooksofchi0027unse/sacredbooksofchi0027unse_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1885, US public domain. Ritual prescriptions dominate; extraction
+      should target the cosmological, mourning, and sacrificial-communication passages.
+  tags:
+  - li_ki
+  - book_of_rites
+  - mourning_rites
+  - sacrifice
+  - ritual_order
+  motifs:
+  - rites_align_heaven_and_earth
+  - mourning_as_transformation
+  - sacrificial_communion_with_dead
+  - seasonal_cosmic_correspondence
+  figures:
+  - Confucius
+  - Duke_of_Kau
+  why_it_matters: The Confucian ritual canon's first half; its mourning rites and
+    sacrificial theory give the Chinese counterpart to the corpus's death-and-ancestor
+    material and formalize heaven-earth-human correspondence.
+  raw_path: imports/raw/internet-archive/sacredbooksofchi0027unse-li-ki-part1-legge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sacredbooksofchi0027unse-li-ki-part1-legge.md
+- id: chinese.li_ki_2.sbe28.legge_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: mlbd.sacredbooksofeas0000fmax.vol.28
+  slug: li-ki-part2-legge
+  title: 'The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism,
+    Part IV; Sacred Books of the East, Vol. 28)'
+  alternate_titles:
+  - Li Ki
+  - Book of Rites
+  - Doctrine of the Mean
+  - Great Learning
+  text_status: complete
+  tradition: confucian
+  tradition_cluster: daoist_confucian_chinese
+  culture: ancient_chinese_ritual_classic_later_translation
+  region: china
+  source_language: Classical Chinese
+  text_language: English
+  date_range: ritual texts compiled c. 200 BCE-100 CE from older material; Legge translation
+    published 1885
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 28 (scan of a modern Motilal Banarsidass reprint of the 1885 Clarendon edition)
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mlbd.sacredbooksofeas0000fmax.vol.28
+  download_url: https://archive.org/download/mlbd.sacredbooksofeas0000fmax.vol.28/mlbd.sacredbooksofeas0000fmax.vol.28_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Legge's translation published 1885, US public domain. Scan is a modern
+      reprint of the public-domain edition; reprint front matter should be dropped
+      at conversion.
+  tags:
+  - li_ki
+  - doctrine_of_the_mean
+  - great_learning
+  - music_and_rites
+  - self_cultivation
+  motifs:
+  - sincerity_joins_heaven
+  - music_orders_the_soul
+  - inner_cultivation_outer_order
+  - sacrificial_presence_of_ancestors
+  figures:
+  - Confucius
+  - Tsang_Tzu
+  why_it_matters: Completes the Book of Rites and contains the Chung Yung and Ta Hsueh,
+    the Confucian tradition's most explicit statements that perfected inner sincerity
+    participates in the transforming work of Heaven.
+  raw_path: imports/raw/internet-archive/mlbd.sacredbooksofeas0000fmax.vol.28-li-ki-part2-legge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/mlbd.sacredbooksofeas0000fmax.vol.28-li-ki-part2-legge.md
+- id: buddhist.milinda_1.sbe35.rhys_davids_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: questionsofkingm01davi
+  slug: questions-of-king-milinda-part1
+  title: The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
+  alternate_titles:
+  - Milinda Panha
+  - Milindapanha
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: indo_greek_buddhist_dialogue_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: dialogue composed c. 100 BCE-200 CE; Rhys Davids translation published
+    1890
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1890 edition, Sacred Books of the East vol. 35
+  translator: T. W. Rhys Davids
+  editor: F. Max Muller
+  publication_year: 1890
+  publisher: Internet Archive
+  source_url: https://archive.org/details/questionsofkingm01davi
+  download_url: https://archive.org/download/questionsofkingm01davi/questionsofkingm01davi_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1890, US public domain. Translator introduction precedes the
+      dialogue; extraction should separate apparatus from text.
+  tags:
+  - milinda
+  - nagasena
+  - no_self
+  - chariot_simile
+  - buddhist_philosophy
+  motifs:
+  - king_questions_sage
+  - no_self_analysis
+  - chariot_of_composite_selfhood
+  - rebirth_without_transmigration
+  figures:
+  - Milinda
+  - Nagasena
+  why_it_matters: The classic Greek-Buddhist encounter on personal identity; Nagasena's
+    chariot dialogue is the tradition's sharpest statement that the self is a composite
+    convention, central to the Atlas's consciousness question.
+  raw_path: imports/raw/internet-archive/questionsofkingm01davi-questions-of-king-milinda-part1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/questionsofkingm01davi-questions-of-king-milinda-part1.md
+- id: buddhist.milinda_2.sbe36.rhys_davids_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: questionsofkingm02davi
+  slug: questions-of-king-milinda-part2
+  title: The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36)
+  alternate_titles:
+  - Milinda Panha
+  - Milindapanha
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: indo_greek_buddhist_dialogue_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: dialogue composed c. 100 BCE-200 CE; Rhys Davids translation published
+    1894
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1894 edition, Sacred Books of the East vol. 36
+  translator: T. W. Rhys Davids
+  editor: F. Max Muller
+  publication_year: 1894
+  publisher: Internet Archive
+  source_url: https://archive.org/details/questionsofkingm02davi
+  download_url: https://archive.org/download/questionsofkingm02davi/questionsofkingm02davi_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1894, US public domain. Completes the dialogue including the
+      dilemmas and the similes of arahatship.
+  tags:
+  - milinda
+  - nagasena
+  - dilemmas
+  - arahatship
+  - buddhist_philosophy
+  motifs:
+  - paradox_resolution_dialogue
+  - qualities_of_the_liberated
+  - merit_and_karma_debate
+  figures:
+  - Milinda
+  - Nagasena
+  why_it_matters: Completes the Milinda Panha with the dilemma chapters, where apparent
+    contradictions in the Buddha's teaching are resolved; a model of dialectical treatment
+    of liberation and karma.
+  raw_path: imports/raw/internet-archive/questionsofkingm02davi-questions-of-king-milinda-part2.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/questionsofkingm02davi-questions-of-king-milinda-part2.md
+- id: buddhist.vinaya_1.sbe13.rhys_davids_oldenberg_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: sacredbookseast13mulluoft
+  slug: vinaya-texts-part1
+  title: 'Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of
+    the East, Vol. 13)'
+  alternate_titles:
+  - Vinaya
+  - Patimokkha
+  - Mahavagga
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: early_buddhist_monastic_canon_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: canonical Vinaya c. 400-100 BCE; Rhys Davids and Oldenberg translation
+    published 1881
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1881 edition, Sacred Books of the East vol. 13 (University of Toronto scan)
+  translator: T. W. Rhys Davids and Hermann Oldenberg
+  editor: F. Max Muller
+  publication_year: 1881
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbookseast13mulluoft
+  download_url: https://archive.org/download/sacredbookseast13mulluoft/sacredbookseast13mulluoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1881, US public domain. The Mahavagga opens with the enlightenment
+      narrative and first sermons; extraction should prioritize narrative over disciplinary
+      rule lists.
+  tags:
+  - vinaya
+  - mahavagga
+  - enlightenment_narrative
+  - first_sermon
+  - sangha
+  motifs:
+  - awakening_under_the_tree
+  - hesitation_to_teach
+  - serpent_king_shelter
+  - first_disciples_conversion
+  figures:
+  - Buddha
+  - Mucalinda
+  - Yasa
+  - Bimbisara
+  why_it_matters: The Mahavagga's opening books preserve the oldest connected narrative
+    of the Buddha's awakening, Mucalinda's serpent canopy, and the founding of the
+    sangha, primary sources for the corpus's awakening motif family.
+  raw_path: imports/raw/internet-archive/sacredbookseast13mulluoft-vinaya-texts-part1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sacredbookseast13mulluoft-vinaya-texts-part1.md
+- id: buddhist.vinaya_2.sbe17.rhys_davids_oldenberg_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: vinayatexts02davi
+  slug: vinaya-texts-part2
+  title: 'Vinaya Texts, Part II: The Mahavagga V-X, The Kullavagga I-III (Sacred Books
+    of the East, Vol. 17)'
+  alternate_titles:
+  - Vinaya
+  - Mahavagga
+  - Kullavagga
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: early_buddhist_monastic_canon_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: canonical Vinaya c. 400-100 BCE; Rhys Davids and Oldenberg translation
+    published 1882
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1882 edition, Sacred Books of the East vol. 17
+  translator: T. W. Rhys Davids and Hermann Oldenberg
+  editor: F. Max Muller
+  publication_year: 1882
+  publisher: Internet Archive
+  source_url: https://archive.org/details/vinayatexts02davi
+  download_url: https://archive.org/download/vinayatexts02davi/vinayatexts02davi_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1882, US public domain. Largely disciplinary material with embedded
+      narratives such as the schism stories.
+  tags:
+  - vinaya
+  - kullavagga
+  - monastic_rule
+  - sangha
+  motifs:
+  - community_ordering
+  - healing_of_the_sick_monk
+  - confession_and_restoration
+  figures:
+  - Buddha
+  - Jivaka
+  why_it_matters: Continues the Vinaya's mixture of rule and story, including the
+    medicine chapters and Jivaka narratives that document early Buddhist healing practice
+    and communal confession.
+  raw_path: imports/raw/internet-archive/vinayatexts02davi-vinaya-texts-part2.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/vinayatexts02davi-vinaya-texts-part2.md
+- id: buddhist.vinaya_3.sbe20.rhys_davids_oldenberg_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: in.ernet.dli.2015.189082
+  slug: vinaya-texts-part3
+  title: 'Vinaya Texts, Part III: The Kullavagga IV-XII (Sacred Books of the East,
+    Vol. 20)'
+  alternate_titles:
+  - Vinaya
+  - Kullavagga
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: early_buddhist_monastic_canon_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: canonical Vinaya c. 400-100 BCE; Rhys Davids and Oldenberg translation
+    published 1885
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 20 (Digital Library of India scan; OCR quality should be checked at conversion)
+  translator: T. W. Rhys Davids and Hermann Oldenberg
+  editor: F. Max Muller
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/in.ernet.dli.2015.189082
+  download_url: https://archive.org/download/in.ernet.dli.2015.189082/2015.189082.Vinaya-Texts-part-Iii-_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1885, US public domain. Contains the Devadatta schism narrative,
+      the founding of the nuns' order, and the accounts of the first two councils.
+  tags:
+  - vinaya
+  - kullavagga
+  - devadatta
+  - first_council
+  - nuns_order
+  motifs:
+  - betrayer_within_the_order
+  - founding_of_womens_order
+  - council_preserves_teaching
+  figures:
+  - Buddha
+  - Devadatta
+  - Ananda
+  - Mahapajapati
+  why_it_matters: Completes the Vinaya with the Devadatta schism, Mahapajapati's founding
+    of the nuns' order, and the first councils, the canonical account of how the teaching
+    was preserved after the founder's death.
+  raw_path: imports/raw/internet-archive/in.ernet.dli.2015.189082-vinaya-texts-part3.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/in.ernet.dli.2015.189082-vinaya-texts-part3.md
+- id: hindu.vishnu_purana.dutt_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '66208'
+  slug: vishnupuranam-dutt
+  title: A Prose English Translation of Vishnupuranam
+  alternate_titles:
+  - Vishnu Purana
+  - Visnu Purana
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: puranic_hinduism_later_translation
+  region: south_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: purana compiled c. 300-500 CE from older material; Dutt prose translation
+    (based on Wilson) published 1894
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #66208 (Calcutta 1894 edition, based
+    on H. H. Wilson''s 1840 translation)'
+  translator: Manmatha Nath Dutt
+  editor: ''
+  publication_year: 1894
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/66208
+  download_url: https://www.gutenberg.org/ebooks/66208.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - vishnu_purana
+  - purana
+  - cosmogony
+  - avatara
+  - yugas
+  motifs:
+  - cyclical_creation_dissolution
+  - divine_descent_avatara
+  - devotee_persecuted_and_saved
+  - world_ages_decline
+  - cosmic_dream_of_god
+  figures:
+  - Vishnu
+  - Prahlada
+  - Krishna
+  - Parasara
+  - Maitreya
+  why_it_matters: The first full Purana in the corpus; its complete cosmology of cyclical
+    creation, the yuga doctrine, Prahlada's persecution, and the Krishna cycle supply
+    the puranic layer missing between the Vedic and epic material.
+  raw_path: imports/raw/project-gutenberg/66208-vishnupuranam-dutt.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/66208-vishnupuranam-dutt.md
+  canonical_path: texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md
+  manifest_path: manifests/project-gutenberg/66208-vishnupuranam-dutt.yml
+  extraction_dir: extractions/hindu/project-gutenberg/vishnupuranam-dutt
+- id: egyptian.tales_first_series.petrie_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '7386'
+  slug: egyptian-tales-petrie-first
+  title: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to XIIth
+    Dynasty'
+  alternate_titles:
+  - Westcar Papyrus tales
+  - Tales of the Magicians
+  - Sanehat
+  text_status: complete
+  tradition: egyptian
+  tradition_cluster: egyptian
+  culture: middle_kingdom_egyptian_narrative_later_translation
+  region: nile_valley
+  source_language: Middle Egyptian
+  text_language: English
+  date_range: tales c. 2000-1700 BCE (papyri incl. Westcar); Petrie edition published
+    1895
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #7386 (Methuen 1895 edition, edited
+    by W. M. Flinders Petrie, translations by F. Ll. Griffith)'
+  translator: F. Ll. Griffith
+  editor: W. M. Flinders Petrie
+  publication_year: 1895
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/7386
+  download_url: https://www.gutenberg.org/ebooks/7386.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - westcar_papyrus
+  - tales_of_the_magicians
+  - sinuhe
+  - shipwrecked_sailor
+  - egyptian_magic
+  motifs:
+  - magician_restores_severed_head
+  - prophecy_of_royal_birth
+  - shipwreck_island_serpent_god
+  - exile_and_return
+  figures:
+  - Khufu
+  - Dedi
+  - Sanehat
+  why_it_matters: Adds the Westcar Papyrus magician tales, the Shipwrecked Sailor's
+    serpent-god island, and Sinuhe's exile-return, the oldest narrative prose motifs
+    in the corpus.
+  raw_path: imports/raw/project-gutenberg/7386-egyptian-tales-petrie-first.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/7386-egyptian-tales-petrie-first.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  manifest_path: manifests/project-gutenberg/7386-egyptian-tales-petrie-first.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/egyptian-tales-petrie-first
+- id: egyptian.tales_second_series.petrie_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '7413'
+  slug: egyptian-tales-petrie-second
+  title: 'Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth to XIXth
+    Dynasty'
+  alternate_titles:
+  - Tale of the Two Brothers
+  - Anpu and Bata
+  - Setna tales
+  text_status: complete
+  tradition: egyptian
+  tradition_cluster: egyptian
+  culture: new_kingdom_egyptian_narrative_later_translation
+  region: nile_valley
+  source_language: Late Egyptian
+  text_language: English
+  date_range: tales c. 1550-1200 BCE with later Setna material; Petrie edition published
+    1895
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #7413 (Methuen 1895 edition, edited
+    by W. M. Flinders Petrie, translations by F. Ll. Griffith)'
+  translator: F. Ll. Griffith
+  editor: W. M. Flinders Petrie
+  publication_year: 1895
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/7413
+  download_url: https://www.gutenberg.org/ebooks/7413.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - two_brothers
+  - anpu_and_bata
+  - setna
+  - doomed_prince
+  - forbidden_book
+  motifs:
+  - external_soul_in_object
+  - death_and_serial_rebirth
+  - forbidden_book_of_thoth
+  - fated_death_prophecy
+  figures:
+  - Bata
+  - Anpu
+  - Setna
+  - Ahura
+  why_it_matters: The Tale of the Two Brothers is the classic external-soul and serial-transformation
+    narrative, and the Setna cycle's Book of Thoth is a foundational forbidden-knowledge
+    motif; both are key comparanda for the Atlas.
+  raw_path: imports/raw/project-gutenberg/7413-egyptian-tales-petrie-second.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/7413-egyptian-tales-petrie-second.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  manifest_path: manifests/project-gutenberg/7413-egyptian-tales-petrie-second.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/egyptian-tales-petrie-second
+- id: jewish_pseudepigrapha.twelve_patriarchs.charles_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: testamentsoftwel08char
+  slug: testaments-twelve-patriarchs-charles
+  title: The Testaments of the Twelve Patriarchs
+  alternate_titles:
+  - Testaments of the Twelve Patriarchs
+  text_status: complete
+  tradition: jewish_pseudepigrapha
+  tradition_cluster: jewish_christian
+  culture: second_temple_judaism_later_translation
+  region: ancient_near_east_levant
+  source_language: Greek (from Hebrew or Aramaic originals)
+  text_language: English
+  date_range: composed c. 150-100 BCE with Christian interpolations; Charles translation
+    published 1908
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Adam and Charles Black
+    1908 edition, translated from the editor's Greek text
+  translator: R. H. Charles
+  editor: ''
+  publication_year: 1908
+  publisher: Internet Archive
+  source_url: https://archive.org/details/testamentsoftwel08char
+  download_url: https://archive.org/download/testamentsoftwel08char/testamentsoftwel08char_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1908, US public domain. Charles's introduction and notes accompany
+      the translation; extraction should separate apparatus from text.
+  tags:
+  - twelve_patriarchs
+  - deathbed_testament
+  - two_spirits
+  - levi_ascent
+  - pseudepigrapha
+  motifs:
+  - deathbed_moral_testament
+  - ascent_through_heavens
+  - two_spirits_in_man
+  - eschatological_priest_king
+  figures:
+  - Levi
+  - Judah
+  - Joseph
+  - Reuben
+  why_it_matters: Completes the corpus's Second Temple pseudepigrapha shelf; the Testament
+    of Levi's ascent through the heavens and the two-spirits psychology are direct
+    precursors to later merkabah and dualist consciousness material.
+  raw_path: imports/raw/internet-archive/testamentsoftwel08char-testaments-twelve-patriarchs-charles.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/testamentsoftwel08char-testaments-twelve-patriarchs-charles.md
+- id: biblical.apocrypha_charles_v1.archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: apocryphapseudep01char
+  slug: apocrypha-charles-vol1
+  title: 'The Apocrypha and Pseudepigrapha of the Old Testament in English, Vol. I:
+    Apocrypha'
+  alternate_titles:
+  - 2 Esdras
+  - 4 Ezra
+  - 1 Esdras
+  - Prayer of Manasses
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: second_temple_judaism_later_translation
+  region: ancient_near_east_levant
+  source_language: Hebrew, Aramaic, and Greek originals
+  text_language: English
+  date_range: apocryphal books c. 300 BCE-100 CE; Charles critical edition published
+    1913
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1913 edition, vol. I (Apocrypha), edited by R. H. Charles
+  translator: various hands under R. H. Charles
+  editor: R. H. Charles
+  publication_year: 1913
+  publisher: Internet Archive
+  source_url: https://archive.org/details/apocryphapseudep01char
+  download_url: https://archive.org/download/apocryphapseudep01char/apocryphapseudep01char_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1913, US public domain. Wisdom of Solomon and Sirach are already
+      in the corpus in Douay translation; extraction should prioritize 2 Esdras (4
+      Ezra), 1 Esdras, Baruch, Prayer of Manasses, and the additions not yet covered.
+  tags:
+  - apocrypha
+  - 2_esdras
+  - 4_ezra
+  - apocalyptic_visions
+  - scribal_revelation
+  motifs:
+  - seven_visions_of_the_seer
+  - mourning_woman_becomes_city
+  - eagle_vision_of_empires
+  - inspired_rewriting_of_scripture
+  figures:
+  - Ezra
+  - Uriel
+  why_it_matters: Brings 2 Esdras (4 Ezra) into the corpus, the great post-destruction
+    apocalypse whose seven visions, angelic dialogues on theodicy, and fiery-cup inspiration
+    scene are central Jewish visionary-consciousness documents.
+  raw_path: imports/raw/internet-archive/apocryphapseudep01char-apocrypha-charles-vol1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/apocryphapseudep01char-apocrypha-charles-vol1.md
+- id: norse.njals_saga.dasent_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '17919'
+  slug: burnt-njal-dasent
+  title: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  alternate_titles:
+  - Njal's Saga
+  - Njala
+  - Burnt Njal
+  text_status: complete
+  tradition: norse
+  tradition_cluster: norse_celtic
+  culture: icelandic_family_saga_later_translation
+  region: iceland_scandinavia
+  source_language: Old Norse (Old Icelandic)
+  text_language: English
+  date_range: saga written c. 1280 CE of 10th-11th century events; Dasent translation
+    first published 1861
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #17919 (Dasent''s 1861 translation)'
+  translator: George Webbe Dasent
+  editor: ''
+  publication_year: 1861
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/17919
+  download_url: https://www.gutenberg.org/ebooks/17919.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - njals_saga
+  - blood_feud
+  - icelandic_law
+  - prophecy
+  - burning
+  motifs:
+  - fate_foreseen_and_accepted
+  - feud_escalation_beyond_control
+  - prophetic_dreams_and_portents
+  - valkyries_weaving_battle
+  - death_by_fire_with_dignity
+  figures:
+  - Njal
+  - Gunnar
+  - Hallgerd
+  - Bergthora
+  - Skarphedinn
+  why_it_matters: The greatest Icelandic family saga; Njal's foreknowledge of his
+    own burning, the Darradarljod weaving-valkyries vision, and the conversion of
+    Iceland document Norse fate-consciousness and second sight in a historical frame.
+  raw_path: imports/raw/project-gutenberg/17919-burnt-njal-dasent.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/17919-burnt-njal-dasent.md
+  canonical_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  manifest_path: manifests/project-gutenberg/17919-burnt-njal-dasent.yml
+  extraction_dir: extractions/norse/project-gutenberg/burnt-njal-dasent
+- id: norse.grettis_saga.hight_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '347'
+  slug: grettir-the-strong-hight
+  title: 'The Saga of Grettir the Strong: Grettir''s Saga'
+  alternate_titles:
+  - Grettis Saga
+  - Grettir's Saga
+  text_status: complete
+  tradition: norse
+  tradition_cluster: norse_celtic
+  culture: icelandic_family_saga_later_translation
+  region: iceland_scandinavia
+  source_language: Old Norse (Old Icelandic)
+  text_language: English
+  date_range: saga written c. 1310-1320 CE of 11th century events; Hight translation
+    published 1914
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #347 (G. A. Hight''s 1914 Everyman
+    translation)'
+  translator: G. A. Hight
+  editor: ''
+  publication_year: 1914
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/347
+  download_url: https://www.gutenberg.org/ebooks/347.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - grettis_saga
+  - glam
+  - outlawry
+  - revenant
+  - barrow_mound
+  motifs:
+  - wrestling_the_undead
+  - curse_of_the_defeated_ghost
+  - barrow_treasure_raid
+  - outlaw_hero_isolation
+  - fear_of_the_dark_after_ordeal
+  figures:
+  - Grettir
+  - Glam
+  - Illugi
+  why_it_matters: Grettir's night wrestling with the revenant Glam and the curse that
+    leaves him afraid of the dark is the North's most psychologically acute haunting
+    narrative, closely paralleling the Beowulf Grendel material already in the corpus.
+  raw_path: imports/raw/project-gutenberg/347-grettir-the-strong-hight.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/347-grettir-the-strong-hight.md
+  canonical_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  manifest_path: manifests/project-gutenberg/347-grettir-the-strong-hight.yml
+  extraction_dir: extractions/norse/project-gutenberg/grettir-the-strong-hight
+- id: arthurian.holy_graal.evans_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '750'
+  slug: high-history-holy-graal-evans
+  title: The High History of the Holy Graal
+  alternate_titles:
+  - Perlesvaus
+  - The High History of the Holy Grail
+  text_status: complete
+  tradition: arthurian
+  tradition_cluster: norse_celtic
+  culture: medieval_french_grail_romance_later_translation
+  region: britain_france
+  source_language: Old French
+  text_language: English
+  date_range: romance composed c. 1200-1225 CE; Evans translation first published
+    1898
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #750 (Sebastian Evans''s 1898 translation
+    of the Perlesvaus)'
+  translator: Sebastian Evans
+  editor: ''
+  publication_year: 1898
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/750
+  download_url: https://www.gutenberg.org/ebooks/750.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - holy_grail
+  - perlesvaus
+  - grail_quest
+  - fisher_king
+  - arthurian
+  motifs:
+  - grail_vision_withheld
+  - wasteland_and_wounded_king
+  - question_unasked_failure
+  - castle_that_shifts_and_vanishes
+  - knight_purified_by_quest
+  figures:
+  - Perceval
+  - Arthur
+  - Lancelot
+  - Gawain
+  - Fisher_King
+  why_it_matters: Adds the Grail quest to the corpus in a complete medieval romance;
+    the withheld vision, the unasked question, and the wasteland restoration are the
+    West's central sacred-quest and healing-of-the-land motifs.
+  raw_path: imports/raw/project-gutenberg/750-high-history-holy-graal-evans.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/750-high-history-holy-graal-evans.md
+  canonical_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  manifest_path: manifests/project-gutenberg/750-high-history-holy-graal-evans.yml
+  extraction_dir: extractions/arthurian/project-gutenberg/high-history-holy-graal-evans
+- id: romanian.fairy_tales.kremnitz_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '20552'
+  slug: roumanian-fairy-tales-kremnitz
+  title: Roumanian Fairy Tales
+  alternate_titles:
+  - Romanian Fairy Tales
+  - Rumanische Marchen
+  text_status: complete
+  tradition: romanian
+  tradition_cluster: european_folk
+  culture: romanian_oral_tradition_19th_century_collection
+  region: eastern_central_europe
+  source_language: Romanian (via German)
+  text_language: English
+  date_range: oral tales collected mid-19th century; Kremnitz German collection 1882,
+    English translation published 1885
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #20552 (Henry Holt 1885 edition, collected
+    by Mite Kremnitz, adapted and arranged by J. M. Percival)'
+  translator: J. M. Percival
+  editor: Mite Kremnitz
+  publication_year: 1885
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/20552
+  download_url: https://www.gutenberg.org/ebooks/20552.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - romanian_folklore
+  - youth_without_age
+  - fairy_tales
+  - balkan
+  motifs:
+  - quest_for_deathless_land
+  - time_flows_differently_in_otherworld
+  - fatal_return_home
+  - animal_bride_bridegroom
+  figures:
+  - Fat_Frumos
+  - Ileana_Simziana
+  why_it_matters: First Romanian material in the corpus; the tale Youth Without Age
+    and Life Without Death is southeastern Europe's classic statement of the otherworld
+    time-slip and the impossibility of escaping mortality.
+  raw_path: imports/raw/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.md
+  canonical_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  manifest_path: manifests/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.yml
+  extraction_dir: extractions/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz
+- id: shan.shans_at_home.milne_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: shansathomewitht00milnrich
+  slug: shans-at-home-milne
+  title: Shans at Home, With Two Chapters on Shan History and Literature
+  alternate_titles:
+  - Shans at Home
+  text_status: complete
+  tradition: shan
+  tradition_cluster: southeast_asian
+  culture: shan_tai_buddhist_folk_tradition_colonial_era_collection
+  region: southeast_asia_burma
+  source_language: Shan (Tai)
+  text_language: English
+  date_range: oral tradition and folklore recorded c. 1906-1909; published 1910
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the John Murray 1910 edition
+    by Leslie Milne (University of California scan)
+  translator: Leslie Milne
+  editor: ''
+  publication_year: 1910
+  publisher: Internet Archive
+  source_url: https://archive.org/details/shansathomewitht00milnrich
+  download_url: https://archive.org/download/shansathomewitht00milnrich/shansathomewitht00milnrich_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1910, US public domain. Ethnographic study with embedded folk
+      tales, spirit beliefs, and ceremonies; extraction should target the folklore,
+      cosmology, and rite-of-passage chapters and treat ethnographic framing as apparatus.
+  tags:
+  - shan
+  - burma
+  - nat_spirits
+  - tai_folklore
+  - buddhist_folk_practice
+  motifs:
+  - spirit_propitiation
+  - soul_calling_ritual
+  - omen_reading
+  - merit_making
+  figures:
+  - nats
+  why_it_matters: First Shan and mainland Southeast Asian folk material in the corpus;
+    documents nat spirit propitiation, soul-calling, and the layering of Buddhism
+    over animist practice among the Tai peoples of Burma.
+  raw_path: imports/raw/internet-archive/shansathomewitht00milnrich-shans-at-home-milne.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/shansathomewitht00milnrich-shans-at-home-milne.md
+- id: filipino.folk_tales.cole_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '12814'
+  slug: philippine-folk-tales-cole
+  title: Philippine Folk Tales
+  alternate_titles:
+  - Philippine Folk Tales (Cole)
+  text_status: complete
+  tradition: filipino
+  tradition_cluster: southeast_asian
+  culture: philippine_oral_traditions_early_20th_century_collection
+  region: southeast_asia_philippines
+  source_language: Philippine languages (Tinguian, Igorot, Bukidnon, Bagobo, Bilaan,
+    Mandaya, Moro, Tagalog, Visayan)
+  text_language: English
+  date_range: oral tales collected c. 1907-1915; published 1916
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #12814 (A. C. McClurg 1916 edition,
+    compiled and annotated by Mabel Cook Cole)'
+  translator: Mabel Cook Cole
+  editor: ''
+  publication_year: 1916
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/12814
+  download_url: https://www.gutenberg.org/ebooks/12814.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - philippine_folklore
+  - tinguian
+  - bagobo
+  - creation_myths
+  - austronesian
+  motifs:
+  - sky_world_marriage
+  - creation_from_body_of_god
+  - flood_and_mountain_refuge
+  - trickster_animal_cycle
+  figures:
+  - Aponitolau
+  - Lumawig
+  why_it_matters: First Philippine material in the corpus; Cole's regionally organized
+    collection preserves Tinguian sky-world epics, Igorot and Bukidnon creation and
+    flood myths, and Moro tales, extending the Austronesian comparative set.
+  raw_path: imports/raw/project-gutenberg/12814-philippine-folk-tales-cole.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/12814-philippine-folk-tales-cole.md
+  canonical_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  manifest_path: manifests/project-gutenberg/12814-philippine-folk-tales-cole.yml
+  extraction_dir: extractions/filipino/project-gutenberg/philippine-folk-tales-cole

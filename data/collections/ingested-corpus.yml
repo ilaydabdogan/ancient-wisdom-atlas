@@ -1,7 +1,7 @@
 ---
 collection_id: ingested_corpus
 title: Ingested Corpus Registry
-updated_on: '2026-07-17'
+updated_on: '2026-07-18'
 items:
 - id: african.nursery_tales_zulus.callaway_archive
   title: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words
@@ -88,6 +88,19 @@ items:
   canonical_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
   manifest_path: manifests/project-gutenberg/28932-eskimo-folk-tales-rasmussen-worster.yml
   extraction_dir: extractions/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: arthurian.holy_graal.evans_gutenberg
+  title: The High History of the Holy Graal
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.750
+  canonical_text_path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  manifest_path: manifests/project-gutenberg/750-high-history-holy-graal-evans.yml
+  extraction_dir: extractions/arthurian/project-gutenberg/high-history-holy-graal-evans
   rights:
     status: public_domain
     full_text: allowed
@@ -617,6 +630,47 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: egyptian.tales_first_series.petrie_gutenberg
+  title: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to XIIth
+    Dynasty'
+  tradition_cluster: egyptian
+  source_id: source.project_gutenberg.7386
+  canonical_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  manifest_path: manifests/project-gutenberg/7386-egyptian-tales-petrie-first.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/egyptian-tales-petrie-first
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: egyptian.tales_second_series.petrie_gutenberg
+  title: 'Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth to XIXth
+    Dynasty'
+  tradition_cluster: egyptian
+  source_id: source.project_gutenberg.7413
+  canonical_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  manifest_path: manifests/project-gutenberg/7413-egyptian-tales-petrie-second.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/egyptian-tales-petrie-second
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: filipino.folk_tales.cole_gutenberg
+  title: Philippine Folk Tales
+  tradition_cluster: southeast_asian
+  source_id: source.project_gutenberg.12814
+  canonical_text_path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  manifest_path: manifests/project-gutenberg/12814-philippine-folk-tales-cole.yml
+  extraction_dir: extractions/filipino/project-gutenberg/philippine-folk-tales-cole
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: finnish_karelian.kalevala.crawford_gutenberg
   title: 'Kalevala: The Epic Poem of Finland'
   tradition_cluster: finnish_karelian
@@ -851,6 +905,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: hindu.vishnu_purana.dutt_gutenberg
+  title: A Prose English Translation of Vishnupuranam
+  tradition_cluster: hindu_jain_indian_philosophical
+  source_id: source.project_gutenberg.66208
+  canonical_text_path: texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md
+  manifest_path: manifests/project-gutenberg/66208-vishnupuranam-dutt.yml
+  extraction_dir: extractions/hindu/project-gutenberg/vishnupuranam-dutt
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: hindu.yoga_sutras.johnston_gutenberg
   title: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
   tradition_cluster: hindu_jain_indian_philosophical
@@ -1086,6 +1153,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: norse.grettis_saga.hight_gutenberg
+  title: 'The Saga of Grettir the Strong: Grettir''s Saga'
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.347
+  canonical_text_path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  manifest_path: manifests/project-gutenberg/347-grettir-the-strong-hight.yml
+  extraction_dir: extractions/norse/project-gutenberg/grettir-the-strong-hight
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: norse.myths_of_norsemen.guerber_gutenberg
   title: 'Myths of the Norsemen: From the Eddas and Sagas'
   tradition_cluster: norse
@@ -1093,6 +1173,19 @@ items:
   canonical_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
   manifest_path: manifests/project-gutenberg/28497-myths-of-the-norsemen-guerber.yml
   extraction_dir: extractions/norse/project-gutenberg/myths-of-the-norsemen-guerber
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: norse.njals_saga.dasent_gutenberg
+  title: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.17919
+  canonical_text_path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  manifest_path: manifests/project-gutenberg/17919-burnt-njal-dasent.yml
+  extraction_dir: extractions/norse/project-gutenberg/burnt-njal-dasent
   rights:
     status: public_domain
     full_text: allowed
@@ -1211,6 +1304,19 @@ items:
   canonical_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
   manifest_path: manifests/project-gutenberg/26073-metamorphoses-books-8-15-riley.yml
   extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-8-15-riley
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: romanian.fairy_tales.kremnitz_gutenberg
+  title: Roumanian Fairy Tales
+  tradition_cluster: european_folk
+  source_id: source.project_gutenberg.20552
+  canonical_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  manifest_path: manifests/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.yml
+  extraction_dir: extractions/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz
   rights:
     status: public_domain
     full_text: allowed

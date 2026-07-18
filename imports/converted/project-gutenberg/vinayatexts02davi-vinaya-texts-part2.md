@@ -1,0 +1,23096 @@
+# Vinaya Texts, Part II: The Mahavagga V-X, The Kullavagga I-III (Sacred Books of the East, Vol. 17)
+
+m-
+
+
+.:;:W
+
+
+livijl-
+
+
+■r.-
+
+
+m;-!ft
+
+
+W';
+
+
+■■C^'^-
+
+
+'^:i><'
+
+
+^"*^
+
+
+'^'..
+
+
+ffl,;;-:
+
+
+^
+
+
+^:-
+
+
+KyJr.
+
+
+^   766  Broadway
+
+
+^«««  .t  *.  »'»%«..  s^„
+
+
+Shelf.
+
+
+PRINCETON,    N.    J.
+
+
+'S
+
+
+■
+
+
+BL  1010  .S3   v,17
+Tipi  taka.
+Vinaya  texts
+
+
+THE
+
+
+SACRED  BOOKS  OF  THE  EAST
+
+
+[17]
+
+
+ILontron
+
+
+HENRY     FROWDE
+
+
+OXFOED     TJNIVEESITY     PRESS     WAEEHOUSE
+
+
+7    PATERNOSTER  ROW
+
+
+THE
+
+
+SACRED  BOOKS  OF  THE  EAST
+
+
+TRANSLATED
+
+
+BY  VARIOUS  ORIENTAL  SCHOLARS
+
+
+AND    EDITED    BY
+//
+
+F.   MAX    MULLER
+
+
+VOL.   XVII
+
+
+AT     THE     CLARENDON     PRESS
+1882
+
+\Ail  rights  reserved]
+
+
+^VINAYA    TEXTS
+
+
+TRANSLATED      FROM     THE     PALI
+
+"/
+
+T.   W.    RHYS    DAVIDS
+
+AND^
+
+HERMANN     OLDENBERG
+
+
+PART    II
+
+
+THE  MAHAVAGGA,  V— X
+THE    A'ULLAVAGGA,    I— HI
+
+
+AT   THE   CLARENDON   PRESS
+1882
+
+\^All  rights  reserved'^
+
+
+CONTENTS.
+
+
+The  Mahavagga       .
+
+Fifth    Khandhaka    (Rules    for    Foot-clothing,    Seats,
+
+Vehicles,  etc.)
+
+Sixth  Khandhaka  (On  Medicaments)  .
+Seventh  Khandhaka  (The  Ka//^ina  Ceremonies)
+Eighth  Khandhaka  (The  Dress  of  the  Bhikkhus)
+Ninth  Khandhaka  (VaUdity  and  Invalidity  of  Formal
+
+Acts  of  the  Sawgha)  .....
+Tenth  Khandhaka  (Schisms  among  the  Sa;;^gha)
+
+The  A!'ullavagga
+
+First  Khandhaka  (The  INIinor  Disciplinary  Proceedings
+Second  Khandhaka  (Probation  and  Penance)
+Third  Khandhaka  (Probation  and  Penance)
+
+Note  on  Abhiha/Z/^um
+
+
+PACE
+
+
+I
+
+41
+146
+
+256
+
+285
+
+384
+
+397
+440
+
+
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Trans-
+lations of  the  Sacred  Books  of  the  East  .        .         .     44»
+
+
+.-*
+
+
+ih
+
+
+MAHAVAGGA.
+
+
+FIFTH    KHANDHAHA.      '    „i,0
+
+
+(rules  for  foot-clothing,  seats,  VEBJCEES,  ^^J'/.
+
+
+1.
+
+1.  At  that  time  the  blessed  Buddha  dwelt  at
+Ra^aoraha  at  the  Vulture's  Peak.
+
+Now  at  that  time  Seniya  Bimbisara,  the  king  of
+Magadha,  held  rule  and  sovranty  over  eighty  thou-
+sand townships  ^  And  at  that  time  there  was  at
+Aampa  a  Se///^i's  son  named  So;^a  Ko/ivisa^  deli-
+cately nurtured,  on  the  soles  of  whose  feet  hair  had
+ofrown.
+
+Now  when  Seniya  Bimbisara,  the  king  of  Magadha,
+was  holding  an  assembly  of  the  eighty  thousand  over-
+seers over  those  townships,  he  sent  a  message  to
+So;^a  Ko/ivisa  on  some  matter  of  business,  saying,
+'  Let  So;^a  come  hither.    I  desire  So;^a's  presence!'
+
+2.  Then  spake  the  parents  of  So;/a  Ko/ivisa  to  him
+thus :  *  The  king,  dear  Sous.,  wishes  to  see  thy  feet.
+But  stretch  not  out  thy  feet,  dear  So;^a,  towards  the
+
+^  Gam  a,  which  should  be  understood  in  the  sense  of  parishes,
+not  of  villages.
+
+^  This  So«a  is  the  reputed  author  of  one  of  the  Theragathas.
+It  is  interesting  to  notice  that  A^ampa,  the  capital  of  Ahga,  is  here
+included  under  Magadha.  Compare  Ahga-magadhesu  in  Maha-
+vagga  I,  19,  and  the  beginning  sentences  of  the  So«ada;/fl?a  Sutta
+(Digha  Nikaya),  in  which  it  is  said  that  the  revenues  of  the  town  of
+A'ampa  had  been  bestowed  by  king  Bimbisara  on  the  Brahma7/a
+Sowadawfifa.
+
+
+[17]  i  B
+
+
+MAHAVAGGA.  V,  i,  3.
+
+
+king.  Take  thy  seat  cross-legged  before  the  king,
+that  the  king  may  see  thy  feet  as  thou  sittest  there.'
+And  they  carried  Sona.  Ko/^visa  in  a  palankeen  (to
+Ra^agaha).
+
+And  So;za  Ko/ivisa  went  to  the  place  where
+Seniya  Bimbisara,  the  king  of  Magadha,  was.  And
+when  he  had  come  there,  and  had  bowed  down
+before  Seniya  Bimbisara,  the  king  of  Magadha,  he
+took  his  seat  cross-legged  before  the  king.  And
+Seniya  Bimbisara,  the  king  of  Magadha,  saw  that
+hair  had  grown  on  the  soles  of  the  feet  of  So;^a
+Ko/ivisa.
+
+3.  Now  after  Seniya  Bimbisara,  the  king  of
+Magadha,  had  instructed  the  eighty  thousand  over-
+seers over  those  townships  in  the  things  of  this  world
+he  exhorted  them,  saying,  *  Ye  have  now  received
+from  me  instruction  in  the  things  of  this  world.
+Go  now,  and  wait  upon  the  Blessed  One.  The
+Blessed  One  himself  shall  instruct  you  in  the  things
+of  eternity.'
+
+Then  the  eighty  thousand  overseers  over  those
+townships  went  on  to  the  Vulture's  Peak.
+
+4.  Now  at  that  time  the  venerable  Sagata  was
+the  attendant  on  the  Blessed  One.  And  the  eighty
+thousand  overseers  over  those  townships  went  to
+the  place  where  the  venerable  Sagata  was.  And
+when  they  were  come  there  they  spake  thus  to  the
+venerable  Sagata :
+
+*  The  eighty  thousand  overseers  over  the  town-
+ships are  come  here.  Sir,  to  visit  the  Blessed  One.
+It  were  well.  Sir,  that  we  should  be  granted  an
+audience  of  the  Blessed  One.'
+
+*  Then  do  you,  Sirs,  stay  here  yet  a  moment,  while
+I  let  the  Blessed  One  know.'
+
+
+V,  I,  7.        RULES   FOR    FOOT-CLOTIIING,    SEATS,    ETC.  T,
+
+5.  Then  the  venerable  Sagata  disappeared  down
+the  steps  ^  from  before  the  very  eyes  of  the  eighty
+thousand  overseers  over  those  townships,  and  ap-
+peared before  the  Blessed  One,  and  spake  to  the
+Blessed  One,  and  said  :
+
+'  Lord,  the  eighty  thousand  overseers  over  the
+townships  are  come  here  to  visit  the  Blessed  One,
+Let  the  Blessed  One  do  as  seemeth  to  him  fit.'
+
+'  Do  thou  then,  Sigata,  make  a  seat  ready  in  the
+shade  of  the  house  ^.'
+
+6.  '  Even  so.  Lord  ! '  said  the  venerable  Sagata,  in
+assent,  to  the  Blessed  One.  And  taking  a  chair,
+he  disappeared  from  before  the  Blessed  One,  and
+reappeared  up  the  steps  before  the  very  eyes  of
+those  eighty  thousand  overseers  over  those  town-
+ships, and  made  ready  a  seat  in  the  shade  of  the
+house.
+
+And  the  Blessed  One  came  out  of  the  house  and
+sat  down  on  the  seat  made  ready  in  the  shade  thereof
+
+7.  Then  those  eighty  thousand  overseers  over  the
+townships  went  up  to  the  place  where  the  Blessed
+One  was.  And  when  they  had  come  there  they
+bowed  down  before  the  Blessed  One  and  took  their
+seats  on  one  side.  But  those  eighty  thousand  over-
+seers over  the  townships  paid  more  respect  in  their
+hearts  to  the  venerable  Sagata  than  to  the  Blessed
+One  3.
+
+And  the  Blessed  One  perceived  by  his  mind  the
+thoughts    of  the    minds    of  those    eighty  thousand
+
+'  Pa/ikaya  nimu^og^itva  'ti  sopawassa  he//M  addha-^andapasawena
+nimu^^itva  (Comm.).
+
+^  Viharapa^'/C'/myayan  ti  viharapaX'X'ante  k/iCiyayam.
+
+'  Saniannaharantiti  pasadavasena  punappuna?//  manasikaronti
+(Buddhaghosa).
+
+B    2
+
+
+MAHAVAGGA.  V,  i,  8.
+
+
+overseers  over  the  townships ;  and  he  addressed  the
+venerable  Sagata,  and  said :  '  Show  them  now,  Sagata,
+a  still  greater  wonder,  beyond  the  power  of  men.'
+
+'Even  so.  Lord!'  said  the  venerable  Sagata,  in
+assent,  to  the  Blessed  One.  And  rising  up  into  the
+air  he  walked,  and  stood,  and  sat,  and  lay  down,
+and  gave  forth  smoke  and  fire,  and  disappeared  in
+the  sky.
+
+8.  Then  the  venerable  Sagata,  when  he  had
+shown  in  the  open  sky  wonders  of  various  kinds
+beyond  the  power  of  men,  fell  down  with  his  head
+at  the  feet  of  the  Blessed  One,  and  said  to  the
+Blessed  One :
+
+*  My  teacher,  Lord,  is  the  Blessed  One  ;  and  I  am
+the  disciple.  My  teacher.  Lord,  is  the  Blessed  One ;
+and  I  am  the  disciple.'
+
+Then  those  eighty  thousand  overseers  over  the
+townships  thinking,  '  Wonderful  is  it,  most  marvel-
+lous !  If  even  the  pupil  be  so  mighty  and  so  powerful,
+how  much  more  then  the  master !'  paid  more  respect
+in  their  hearts  to  the  Blessed  One  than  to  the
+venerable  Sagata.
+
+9.  Then  the  Blessed  One  perceived  by  his  mind
+the  thoughts  of  the  minds  of  those  eighty  thousand
+overseers  over  the  townships,  and  held  to  them  a
+discourse  in  due  order ;  that  is  to  say,  he  spake  to
+them  of  giving,  of  righteousness,  of  heaven,  of  the
+danger,  the  worthlessness,  the  depravity  of  lusts,  and
+of  the  advantages  of  renunciation.  And  when  the
+Blessed  One  perceived  that  they  had  become  pliant,
+softened,  unprejudiced,  upraised  and  believing  in
+heart,  then  he  proclaimed  that  which  is  the  special
+doctrine  of  the  Buddhas  ;  (that  is  to  say).  Suffering,
+its  Origin,  its  Cessation,  and  the  Path.
+
+
+V,  I,  n.       RULES    FOR   FOOT-CLOTHING,    SEATS,    ETC.  5
+
+Just  as  a  clean  cloth,  from  which  all  stain  has
+been  washed  away,  would  readily  take  the  dye,  just
+even  so  did  those  eighty  thousand  overseers  over
+the  townships  obtain,  even  while  sitting  there,  the
+pure  and  spotless  Eye  of  the  Truth  ;  (that  is  to  say,
+the  knowledge  that)  whatsoever  has  a  beginning,  in
+that  is  inherent  also  the  necessity,  of  dissolution.
+
+10.  And  having  seen  the  Truth,  having  mastered
+the  Truth,  having  understood  the  Truth,  having
+penetrated  the  Truth,  having  overcome  uncertainty,
+having  dispelled  all  doubts,  having  gained  full  know-
+ledge, dependent  on  nobody  else  for  the  knowledge
+of  the  doctrine  of  the  Teacher,  they  said  to  the
+Blessed  One:  'Glorious,  Lord!  glorious.  Lord!  Just
+as  if  one  should  set  up.  Lord,  what  had  been  over-
+turned, or  should  reveal  what  had  been  hidden,  or
+should  point  out  the  way  to  one  who  had  lost  his
+way,  or  should  bring  a  lamp  into  the  darkness,  in
+order  that  those  who  had  eyes  might  see  visible
+things,  thus  has  the  Blessed  One  preached  the
+doctrine  in  many  ways.  We  take  our  refuge.  Lord,
+in  the  Blessed  One,  and  in  the  Dhamma,  and  in  the
+fraternity  of  Bhikkhus  ;  may  the  Blessed  One  receive
+us  from  this  day  forth  while  our  life  lasts  as  his
+disciples  who  have  taken  their  refuge  in  Him.'
+
+1 1.  And  So;/a  Ko/ivisa  thought :  'As  I  understand
+the  Dhamma  proclaimed  by  the  Blessed  One,  it  is
+not  easy  to  a  person  living  as  a  layman  to  lead  a
+wholly  perfect  and  pure  and  altogether  consummate  ^
+life  of  holiness.  What  if  I  were  to  cut  off  my  hair
+and  beard,  and  to  put  on  yellow  robes,  and  give  up
+the  world,  and  go  forth  into  the  houseless  state.'
+
+
+Sankhalikhita.     See  Boehtlingk-Roth  s.  v.  Likhita.
+
+
+6  MAHAVAGGA.  V,  I,  I2.
+
+And  those  eighty  thousand  overseers  over  the
+townships,  having  expressed  their  joy  and  dehght  at
+the  words  of  the  Blessed  One,  rose  from  their  seats,
+respectfully  saluted  the  Blessed  One,  and  passing
+round  him  with  their  right  sides  towards  him,  went
+away.
+
+12.  And  Sons.  Ko/ivisa,  soon  after  those  eighty
+thousand  overseers  over  the  townships  had  departed,
+went  to  the  place  where  the  Blessed  One  was.  And
+when  he  had  come  there  he  bowed  down  before  the
+Blessed  One  and  took  his  seat  on  one  side.  Sitting
+on  one  side  Soua  Ko^ivisa  said  to  the  Blessed  One  :
+'  As  I  understand  the  Dhamma  proclaimed  by  the
+Blessed  One  (&c.,  as  in  §  1 1,  down  to  :)  and  go  forth
+into  the  houseless  state.  I  desire.  Lord,  to  cut  off
+my  hair  and  beard,  and  to  put  on  yellow  robes,  and
+to  give  up  the  world,  and  to  go  forth  into  the  house-
+less state.     May  the  Blessed  One,  Lord,  ordain  me.'
+
+Thus  Sons.  Ko/ivisa  received  from  the  Blessed
+One  the  pabba^^a  and  upasampada  ordinations.
+And  the  venerable  So;^a,  soon  after  his  upasam-
+pada, dwelt  in  the  Sttavana  grove.
+
+13.  As  he,  with  eager  determination,  was  walking
+up  and  down  there,  his  feet  were  injured,  and  the  place
+in  which  he  walked  became  covered  with  blood,  like
+a  slaughter-house  for  oxen.  Then  in  the  mind  of
+the  venerable  So^^a,  who  had  gone  apart  and  was
+plunged  in  meditation,  there  sprung  up  this  thought :
+
+*  Though  I  have  become  one  of  those  disciples  of
+the  Blessed  One  who  live  in  the  exercise  of  strenuous
+determination,  yet  my  heart  has  not  been  set  free
+from  the  Asavas  through  absence  of  craving.  And
+there  is  much  wealth  laid  up  for  me  at  home.  It  is
+possible  both  to  enjoy  that  wealth,  and  to  do  good
+
+
+V,  I,  15.       RULES   FOR   FOOT-CLOTHING,   SEATS,    ETC.  7
+
+deeds.     Let  me  now,  then,  returning  to  the  lower
+state  ^  enjoy  my  wealth  and  do  good  deeds.'
+
+14.  Now  the  Blessed  One  perceived  in  his  mind
+the  thought  of  the  heart  of  the  venerable  So;^a ;
+and  as  quickly  as  a  strong  man  can  stretch  forth  his
+arm,  or  can  draw  it  back  again  when  it  has  been
+stretched  forth,  he  disappeared  from  the  hill  of  the
+Vulture's  Peak,  and  appeared  in  the  Sitavana  grove.
+And  the  Blessed  One,  as  he  was  passing  through
+the  sleeping-places  (of  the  Bhikkhus),  came  up,  with
+a  multitude  of  Bhikkhus,  to  the  place  where  the
+venerable  So;^a  had  walked  up  and  down.
+
+When  the  Blessed  One  saw  that  the  place  where
+the  venerable  So/^a  had  walked  up  and  down  was
+covered  with  blood,  he  addressed  the  Bhikkhus,  and
+said  :  '  Whose  walking-place  -  is  this,  O  Bhikkhus,
+which  is  covered  with  blood,  like  a  slaughter-house
+for  oxen  ?'
+
+'  As  the  venerable  So;^a,  Lord,  was  walking  up
+and  down  here  with  eager  determination,  his  feet
+were  injured ;  and  so  this  place  has  become  covered
+with  blood,  like  a  slaughter-house  for  oxen.'
+
+15.  Then  the  Blessed  One  went  on  to  the  house
+in  which  the  venerable  So;^a  was  living,  and  sat
+down  there  on  a  seat  made  ready  for  him.  And
+the  venerable  So;^a  bowed  down  before  the  Blessed
+
+
+1  That  is  to  say,  the  state  of  a  layman  (Hinay'  avattitva).
+
+^  jS'ahkama,  for  which  there  is  no  real  equivalent  in  English.
+In  speaking  of  later  periods  the  word  '  cloister'  is  sometimes  a  cor-
+rect rendering,  for  the  places  in  which  the  recluses  walked  up  and
+down,  thinking,  were  then  in  some  cases  paved  and  even  roofed.
+The  Chinese  pilgrim  I-lsing  has  a  description  of  such  a  stone
+/tahkama,  which  he  saw  at  the  great  monastery  at  Nalanda  (Indian
+Antiquary,  X,  192).  In  this  passage  it  only  means  a  narrow,  open,
+space  of  ground,  levelled  and  cleared  for  the  purpose.
+
+
+8  MAHAVAGGA.  V,  i,  i6.
+
+One,  and  took  his  seat  on  one  side.  And  when  he
+was  thus  seated,  the  Blessed  One  addressed  the
+venerable  Sousl,  and  said  :  '  Is  it  not  true,  Sons.,  that
+in  your  mind,  when  you  had  gone  apart  and  were
+plunged  in  meditation,  there  sprung  up  this  thought :
+"Though  I  have  become  (&c.,  as  in  J  13,  down  to
+the  end)?
+
+*  Even  so,  Lord!'
+
+*  Now  what  think  you,  So;^a, —  you  were  skilled,
+were  you  not,  when  you  formerly  lived  in  the  world,
+in  the  music  of  the  lute  ?'
+
+*  That  was  so.  Lord ! '
+
+*  Now  what  think  you,  So/ea, — when  the  strings
+of  your  lute  ^  were  too  much  stretched,  had  your  lute
+then  any  sound,  was  it  in  a  fit  state  to  be  played
+upon  ? '
+
+*  Not  so,  Lord!'
+
+1 6.  '  Now  what  think  you,  So^^a, — when  the  strings
+of  your  lute  were  too  loose,  had  your  lute  then  any
+sound  ^,  was  it  in  a  fit  state  to  be  played  upon  ?'
+
+'  Not  so.  Lord!'
+
+'  Now  what  think  you,  So^ia, — when  the  strings
+of  your  lute  were  neither  too  much  stretched  nor  too
+loose,  but  fixed  in  even  proportion,  had  your  lute
+sound  then,  was  it  then  in  a  fit  state  to  be  played
+upon  ?'
+
+*  Yes,  Lord !'
+
+*  And  just  so,  Sona.,  does  too  eager  a  determination
+conduce  to  self-righteousness,  and  too  weak  a  deter-
+
+'  Vi«a.  On  the  construction  of  the  ancient  Indian  lute,  see
+Milinda  Pa«ha  (p.  53,  ed.  Trenckner),  where  all  the  various  parts
+are  mentioned.  Compare  also  the  Guttila  Gataka  (No.  243,  ed.
+FausbcU).
+
+2  There  is  a  misprint  here  in  the  text,  savarattforsaravati.
+
+
+V,  I,  i8.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC
+
+
+mination  to  sloth,  [i  7.]  Do  thou,  therefore,  O  Sona,
+be  steadfast  in  evenness  of  determination,  press
+through  to  harmony  of  your  mental  powers.  Let
+that  be  the  object  of  your  thought  ^ !'
+
+'  Even  so.  Lord  !'  said  the  venerable  So;/a,  and
+hearkened  to  the  word  of  the  Blessed  One.
+
+And  when  the  Blessed  One  had  exhorted  the
+venerable  So;^a  with  this  exhortation,  then,  as  quickly
+as  a  strong  man  can  stretch  forth  his  arm,  or  can
+draw  it  back  again  when  it  has  been  stretched  forth,
+he  vanished  from  the  presence  of  the  venerable
+So«a  in  the  Sitavana  grove,  and  reappeared  on  the
+hill  of  the  Vulture's  Peak.
+
+18.  Thenceforward  the  venerable  So;/a  was  stead-
+fast in  evenness  of  determination,  he  pressed  through
+to  harmony  of  his  mental  powers,  that  did  he  take
+as  the  object  of  his  thought.  And  the  venerable
+Sowa  remaining  alone  and  separate,  earnest,  zealous,
+and  resolved,  attained  ere  long  to  that  supreme  goal
+of  the  hiijher  life  for  the  sake  of  which  noble  youths
+go  out  from  all  and  every  household  gain  and  comfort
+to  become  houseless  wanderers — yea,  that  supreme
+goal  did  he,  by  himself,  and  while  yet  in  this  visible
+world,  bring  himself  to  the  knowledge  of,  and  con-
+tinue to  realise,  and  to  see  face  to  face !  And  he
+became  conscious  that  rebirth  was  at  an  end,  that
+the  higher  life  had  been  fulfilled,  that  all  that  should
+be  done  had  been  accomplished,  and  that  after  this
+present  life  there  would  be  no  beyond !
+
+*  Buddhaghosa  says  :  Tattha  ^'a  nimittaw  gawhahiti :  tasmi»z
+samathe  sati  yena  adase  mukhabimben'  eva  nimittena  uppa^^i-
+tabba»i,  tawz  samatha-nimittaw  vipassana-nimittaw  magga-nimittaw
+phala-nimittaft  kz  gawhahi  nipattetiti  (?  nipphadehiti,  nibbatlchiti)
+attho.
+
+
+lO  MAHAVAGGA.  Y,  i,  19.
+
+So  the  venerable  So;^a  became  yet  another  among
+the  Arahats.
+
+19.  Now  when  the  venerable  So;^a  had  attauied
+to  Arahatship  there  occurred  to  him  the  thought :
+'  Let  me  now  make  known  my  Insight  in  the  pre-
+sence of  the  Blessed  One  ^ !'
+
+Then  the  venerable  So;^a  went  to  the  place  where
+the  Blessed  One  was,  and  bowed  down  before  the
+Blessed  One,  and  took  his  seat  on  one  side.  And
+when  he  was  thus  seated,  the  venerable  So;^a  said
+to  the  Blessed  One  :
+
+20.  '  Whatsoever    Bhikkhu,  Lord,  is  an   Arahat
+
+A
+
+whose  Asavas  are  rooted  out,  who  has  lived  the
+life^  who  has  accomplished  the  task,  who  has  laid
+aside  every  burden,  who  has  gained  the  end  he  had
+in  view,  who  has  quite  broken  the  fetter  of  a  craving
+for  (future)  existence,  who  is  completely  set  free  by
+insight,  six  things  doth  he  reach  up  unto  ^ — unto
+renunciation,  unto  the  love  of  solitude,  unto  kind-
+ness of  heart,  unto  the  destruction  of  craving,  unto
+the  destruction  of  thirst,  unto  the  getting  free  from
+delusions.
+
+21.  '  Now  it  may  be,  Lord,  that  it  might  occur,
+regarding  this  matter,  to  some  brother,  thus :  "  For
+the  sake  of  faith  merely  ^  hath  this  brother  attained
+
+^  It  is  often  represented  in  the  Pali  Pi/akas  to  have  been  a  cus-
+tomary thing  for  any  one  who  thought  he  had  attained  to  Arahatship
+to  deliver  a  discourse  in  the  presence  of  Gotama,  as  a  kind  of  proof,
+or  test,  of  his  emancipation ;  and  to  receive  the  decision  of  Gotama
+thereupon.  Buddhaghosa  says :  Anndim  vyakareyyan  ti :  araha
+ahan  ti  ^anapeyyaw.     Compare  G^ataka  I,  140;  II,  333.
+
+"^  Adhimutto  hotiti:  pa/ivi^^^y^itva  paX7;akkha;«  katva  Mito  hoti  (B.).
+
+^  Kevala»2  saddhamattakan  ti :  pa/ivedha-rahita»2  kevalaw  pa/i-
+vedha-pa?maya  asammissaw  saddhamattaka;;/  (B.).  On  the  lower
+position  here  assigned  to  faith,  compare  Maha-parinibbana  Sutta
+VI,  9.
+
+
+V,  I,  25.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.       I  I
+
+unto  renunciation."  But  not  thus,  Lord,  should
+this  matter  be  regarded.  For  the  Bhikkhu  in  whom
+the  Asavas  are  rooted  out,  who  has  hved  the  hfe,
+who  has  accompHshed  the  task,  he  looks  not  upon
+himself  as  one  who  has  anything  yet  to  do,  or  to
+gather  up,  of  (the  fruit  of  his  past)  labour ;  but  he
+attaineth  to  renunciation  by  the  destruction  of  lust,
+by  the  very  condition  of  the  absence  of  lust ;  he
+attaineth  to  renunciation  by  the  destruction  of  ill-
+will,  by  the  very  condition  of  the  absence  of  ill-will ;
+he  attaineth  to  renunciation  by  the  destruction  of
+delusions,  by  the  very  condition  of  the  absence  of
+delusions.
+
+22.  'Now  it  may  be.  Lord,  that  it  might  occur,
+regarding  this  matter,  to  some  brother,  thus :
+"  Seeking  after  gain,  hospitality,  and  fame  hath  this
+brother  attained  to  the  love  of  solitude."  But  not
+thus  (&c.,  as  in  {  21,  down  to  the  end,  substituting
+"  love  of  solitude"  for  "  renunciation  ").
+
+23.  '  Now  it  may  be.  Lord,  that  it  might  occur,
+regarding  this  matter,  to  some  brother,  thus  :  "  Re-
+turning, verily,  to  the  dependence  upon  works,  as
+if  that  were  the  true  essence  (of  spiritual  welfare),
+hath  this  brother  attained  to  kindness  of  heart."
+But  not  thus  (&c.,  as  in  }  21,  down  to  the  end,  sub-
+stituting "  kindness  of  heart "  for  "  renunciation  ").
+
+24.  'He  attaineth  to  the  destruction  of  craving
+by  the  destruction  of  lust  (&c.,  as  in  ^  21,  down  to
+the  end,  substituting  "absence  of  craving"  for  "re-
+nunciation"). He  attaineth  to  the  absence  of  thirst
+(&c.,  as  in  §  21).  He  attaineth  to  the  absence  of
+delusions  (&c.,  as  in  §  21,  down  to  the  end).
+
+25.  '  When  a  Bhikkhu,  Lord,  has  thus  become  fully
+emancipated   in   heart,  even   though    many    objects
+
+
+12  MAHAVAGGA.  V,  i,  26.
+
+visible  to  the  sight  should  enter  the  path  of  his  eye  \
+yet  they  take  not  possession  of  his  mind ;  undefiled
+is  his  mind,  firm,  immovable ;  and  he  sees  into  the
+(manner  which  that  impression)  passes  away^ — even
+though  many  objects  audible  to  the  ear,  smellable  to
+the  nostrils,  tastable  to  the  tongue,  feelable  by  the
+body,  sensible  to  the  intellect  should  enter  the  path  of
+the  ear,  the  nose,  the  tongue,  the  skin,  the  intellect,
+yet  they  take  not  possession  of  his  mind  :  undefiled
+is  his  mind,  firm,  immovable,  and  he  sees  into  the
+(manner  in  which  that  impression)  passes  away.
+
+26.  'Just,  Lord,  as  if  there  be  a  mountain  of  rock,
+undivided,  solid,  one  mass,  and  much  wind  and  rain
+should  fall  upon  it  from  the  direction  of  the  East,
+or  of  the  West,  or  of  the  North,  or  of  the  South,
+yet  they  would  not  make  it  shake,  or  tremble,  or
+quake ;  just  so,  Lord,  when  a  Bhikkhu  has  thus
+become  fully  emancipated  in  heart  (&c.,  as  in  ^  25,
+down  to  the  end).
+
+27.  'He  who  has  attained  to  renunciation,  to
+solitude  of  heart,  who  has  attained  to  kindness,  and
+to  the  rooting  out  of  craving, —
+
+'  He  who  has  attained  to  the  rooting  out  of  thirst,
+to  the  absence  of  delusions  from  the  mind,  he  sees
+the  source  of  sensations,  his  mind  is  quite  set  free.
+
+'  To  such  a  Bhikkhu,  so  emancipated,  and  with
+calmness  in  his  heart,  there  is  no  gathering  up  of
+what  is  done,  nothing  to  be  done  still  remains.
+
+*  As  a  rock,  all   of  one   mass,  is   not  shaken  by
+
+
+*  ^akkhussa  apathaw  aga/^Manti ;  that  is,  should  come  within
+reach  of  his  vision.
+
+^  VayaTi  k'  assanupassatili :  tassa  /^ittassa  uppadaz?;  pi  ^^.yz.m  pi
+passati  (B.).
+
+
+V,  I,  29.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.       1 3
+
+
+the  breezes  \  just  so  never  can  shapes  and  tastes,
+and  sounds,  and  smells,  and  touch — the  whole  of
+them
+
+'  Things  wished  for,  things  unwished  —  make  trem-
+ble such  a  one.  Firm  is  his  mind,  set  free.  He  sees
+into  the  end  thereof
+
+28.  And  the  Blessed  One  addressed  the  Bhikkhus,
+and  said  :  '  Thus,  brethren,  do  young  men  of  worth
+make  their  insight  known.  The  truth  is  spoken,  and
+the  self  is  not  obtruded.  But  herein  some  foolish
+ones,  methinks,  make  known  their  insight  to  be  a
+thing  ridiculous,  and  they,  thereafter,  fall  into
+defeat ! '
+
+29.  Then  the  Blessed  One  said  to  the  venerable
+So;^a,  '  You,  So;2a,  have    been  delicately   nurtured.
+
+I  enjoin  upon  you,  So;^a,  the  use  of  shoes  with  one
+
+1.      0 1
+mmg  .
+
+'  I  have  gone  out  from  the  world,  Lord,  into  the
+houseless  state,  abandoning  eighty  cart-loads  of
+gold  3,  and  a  retinue  of  seven  elephants  ^  It  will
+be  said  against  me  for  this  matter  :  "So/za  Ko/ivisa
+went  out  from  the  world  into  the  houseless  state,
+abandoning  eighty  cart-loads  of  gold,  and  a  retinue
+of  seven  elephants;  but  the  very  same  man  now
+accustoms  himself  to  the  use  of  shoes  with  a  lining
+
+
+^  This  half  jloka  recurs  in  Dhammapada,  verse  81.
+
+^  Ekapalasikan  ti  eka-pa/alawz  (B.).
+
+^  Asiti-saka/a-vahe  hirsLnnam  (so  correct  the  misprint  in  the
+text).  Buddhaghosa  says  :  eltha  dve  saka/abhara  eko  vaho  'ti  vedi-
+tabbo ;  but  compare  Rh.  D.,  '  Ancient  Coins  and  Measures,'  &c.,
+p-  18,  §  32,  and  p.  14,  §  23.  Vaha  occurs  also  in  the  Mahava/wsa,
+p.  22.
+
+*  Sattahatthikan  ka.  amkan  ti  :  ettha  kkz  hatthiniyo  eko  ka.
+hatthiti,  idum  ekaw  awika;//,  idisani  satta  awikani  sattahatthikaffj
+nama  (B.).
+
+
+14  MAHAVAGGA.  V,  i,  30.
+
+to  them."  [30.]  If  the  Blessed  One  will  enjoin  their
+use  upon  the  Order  of  Bhikkhus,  I  will  also  use
+them.  If  the  Blessed  One  will  not  enjoin  their
+use  upon  the  Order  of  Bhikkhus,  neither  will  I
+use  them.'
+
+Then  the  Blessed  One,  on  that  occasion,  having
+delivered  a  religious  discourse,  thus  addressed  the
+Bhikkhus :
+
+'  I  enjoin  upon  you,  O  Bhikkhus,  the  use  of  shoes
+with  one  lining  to  them.  Doubly  lined  shoes,  Bhik-
+khus, are  not  to  be  worn,  nor  trebly  lined  ones,  nor
+shoes  with  many  linings  \  Whosoever  shall  wear
+such,  is  guilty  of  a  dukka/a  offence.'
+
+
+2.
+
+1.  Now  at  that  time  the  A7^abbaggiya  Bhikkhus
+were  in  the  habit  of  wearing  slippers  all  of  a  blue,
+yellow,  red,  brown,  black,  orange,  or  yellowish
+colour  ^  People  were  annoyed,  murmured,  and
+became  angry,  saying,  '  (These  act)  like  those  who
+still  enjoy  the  pleasures  of  the  worlds'  The  brethren
+told  this  thing  to  the  Blessed  One.
+
+'  Do  not  wear,  O  Bhikkhus,  shoes  that  are  all  of
+
+^  Dvi-gu«a  'ti  dvi-pa/ala.  Ti-gu«a  'ti  ti-pa/ala.  Ga?2awga«u-
+pahana  'ti  ^atu-pa/alato  pa//^aya  vu^^ati  (B.).
+
+^  Nilika  ummara-puppha-vawwa  hoti;  pitika  kanikara-puppha-
+va««a;  lohitika^ayasumana-puppha-va««a  ;  maw^eZ/Z/ika  ma«.-
+gelih\-vz.nn^  eva;  ka«ha  a/ari///^aka-va««a ;  maharangaratta
+satapada-pi//^i-va««a  (Mahara^ana  is  saffron  ;  the  colour  of  the
+back  of  a  centipede  is  brownish  yellow),  mahanamaratta  sam-
+bhinna-va«7ia  hoti  pa«</u-palasa-va««a,  Kurundiya///  pana  paduma-
+puppha-va««a  'ti  vuttaz^i  (B.).
+
+^  Read  gihikamabhogino  (as  corrected  at  vol.  ii.  p.  363).
+
+
+V,  2,  3-       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.         I  5
+
+a  blue,  yellow,  red,  brown,  black,  orange,  or  yellowish
+colour.  Whosoever  does  so,  is  guilty  of  a  dukka/a
+offence.'
+
+2.  Now  at  that  time  the  AV/abbaggiya  Bhikkhus
+were  in  the  habit  of  wearing  shoes  with  edges  of
+a  blue,  yellow,  red,  brown,  black,  orange,  or  yellowish
+colour.
+
+People  were  annoyed,  murmured,  and  became
+angry,  saying,  '  These  act  like  those  who  still  enjoy
+the  pleasures  of  the  world.'  The  brethren  told  this
+thine  to  the  Blessed  One.
+
+*  Do  not  wear,  O  Bhikkhus,  shoes  that  have  edges
+of  a  blue,  yellow,  red,  brown,  black,  orange,  or
+yellowish  colour.  Whosoever  does  so,  is  guilty  of
+a  dukka/a  offence.'
+
+3.  Now  at  that  time  the  A'/zabbaggiya  Bhikkhus
+were  in  the  habit  of  wearing  shoes  with  heel-cover-
+ings (?^);  mocassins  2;  laced  boots  ^;  boots  lined  with
+cotton*;  boots  of  various  hues,  like  the  wings  of
+partridges^;  boots  pointed  with  rams'  horns,  and
+with    goats'    horns  ^ ;    ornamented    with    scorpions'
+
+^  All  the  names  of  boots  or  shoes  are  of  doubtful  meaning ;  and
+as  the  use  of  every  sort  of  foot-covering  has  long  been  given  up
+among  those  Buddhists  who  have  preserved  the  use  of  the  PaU
+language,  Buddhaghosa's  explanations  are  not  very  reliable.  He
+says  here  :  Khallaka-baddha  'ti  pawhi-pidhanattha^?/  tale  khallakaw
+bandhitva  kata.
+
+"^  Pu/abaddha  'ti  Yonaka-upahana  vuX'/C-ati,  yava  ^ahghato  sabba-
+pada;«  pa/iX'/(',^adeti.
+
+^  Paligu;///iima  'ti  paliguw/^^itva  kata  upari-pada-mattam  eva
+pa/i/'/7/adeti  na  ^ahghaw.
+
+*  Tfilapu««ika  'ti  tulapunna  pfiretva  kata.
+
+^  Tittirapattika  'ti  tittira-patta-sadisa-viX-itra-baddha.
+
+'  Mew/a-visawa-baddhika  'ti  ka««ika-////ane  mc;/rAika-sihga-
+sa;;///ane  vaddhe  yo^etva  kata.  A^'a-visa//a-vaddhikadisu  pi  es'
+eva  nayo.
+
+
+1 6  MAHAVAGGA.  V,  2,  4.
+
+tails  ^;  sewn  round  with  peacocks'  feathers  ^ ;  or  shoes
+of  all  kinds  of  colours  ^.
+
+People  were  annoyed  (&c.,  as  in  §  2,,  down  to  :)  told
+this  thing  to  the  Blessed  One.
+
+'  Do  not  wear,  O  Bhikkhus,  shoes  with  heel-
+coverings  (&c.,  as  in  §  3,  down  to  :)  shoes  of  all  kinds
+of  colours.  Whosoever  does  so,  is  guilty  of  a  duk-
+ka/a  offence.'
+
+4.  Now  at  that  time  the  A'/^abbaggiya  Bhikkhus
+were  in  the  habit  of  wearing  shoes  adorned  with
+lion-skins  *,  tiger-skins,  panther-skins,  antelope-skins,
+otter-skins  ^,  cat-skins,  squirrel-skins,  and  owl-skins  ^.
+
+People  were  annoyed  (&c.,  as  in  ^  3,  down  to  the
+end,  substituting  '  shoes  adorned  with  lion-skins,  &c.,'
+for  '  shoes  with  heel-coverings,  &c.')
+
+
+3.
+
+I.  Now  the  Blessed  One,  having  dressed  early
+in  the  morning,  went  into  Ra^agaha,  duly  bowled
+and  robed,  for  alms,  with  a  certain  Bhikkhu  as  his
+companion.  And  that  Bhikkhu  followed  limping  step
+by  step  behind  the  Blessed  One.
+
+
+^  YiM/i[k3\ika.  'ti  tatth'  eva  vi/^-^/nka-nahgu///^a-sa«//^ane  vaddhe
+yogetvi  kata.
+
+'^  Morapifi>^/^aparisibbita  (sic)  'ti  talesu  va  baddhesu  va  mora-
+vmk/ichi  (sic)  suttakasadisehi  parisibbita.
+
+^  ^itra  'ti  vi/^itra.
+
+*  Siha-y^amma-parikkhata  nama  pariyantesu,  /^ivaresu  anuva/aw
+viya  siha^amma/;^  yo^etva  kata.
+
+°  Udda,  an  animal,  feeding  on  fish ;  but  Childers  thinks  it  is  not
+an  amphibious  creature,  and  therefore  not  '  otter.'
+
+*  Luka->^amma-parikkhata  (sic)  'ti  pakkha-bi/ala--^amma-parik-
+khata.     The  latter  is  the  flying  fox,  a  large  kind  of  bat.
+
+
+V,  4,  I.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.        l^
+
+
+Now  a  certain  lay-disciple  who  had  put  on  a  pair
+of  shoes  with  many  linings,  saw  the  Blessed  One
+approaching  from  afar.  And  when  he  saw  him,  he
+took  off  that  pair  of  shoes  and  went  up  to  the  Blessed
+One,  and  saluted  him  ;  and  went  on  to  that  Bhikkhu,
+and  saluted  him,  and  said  :
+
+»
+
+2.    'Why  does  your  reverence  limp?'
+
+'  My  feet,  friend,  are  blistered.'
+
+*  But  here,  Sir,  are  shoes.'
+
+'  Enough,  good  friend !  shoes  with  linings  have
+been  forbidden  by  the  Blessed  One.'
+
+'  Take  the  shoes,  O  Bhikkhu  M'
+
+Then  the  Blessed  One,  on  that  occasion,  having
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus,  and  said :
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  shoes  with
+linings,  when  they  have  been  cast  off  by  others  ^.
+But  new  shoes  with  linings  are  not  to  be  worn.
+Whosoever  does  so,  is  guilty  of  a  dukka/a  offence.'
+
+
+4.
+
+I.  Now  at  that  time  the  Blessed  One  walked  up
+and  down  in  the  open  air  ^  unshod.  Noticing  that,
+'  The  Master  walks  unshod,'  the  Elders  (the  Thera
+Bhikkhus)  also  went  unshod  when  they  were  walking
+up  and  down  3.  But  though  the  Master  and  the
+Thera  Bhikkhus  went  unshod,  the  TT/zabbaggiya
+Bhikkhus  walked  up  and  down  with  coverings  on
+their  feet.
+
+^  This  must  be  understood  as  spoken  by  the  Buddha.
+"^  Omukkan  ti  pa/imuTj/^itva  apanitaw  (B.).
+'  This  walking  up  and  down  thinking  is  represented  as  a  con-
+stant habit  of  the  early  Buddhist  Samawas.
+
+
+1 8  MAHAVAGGA.  V,  4,  2.
+
+The  temperate  Bhikkhus  were  annoyed,  murmured,
+and  became  angry,  saying,  '  How  can  these  KhdJo-
+baggiya  Bhikkhus  walk  shod,  when  the  Master  and
+the  Thera  Bhikkhus  walk  unshod  ?'
+
+2.  Then  those  Bhikkhus  told  this  thing  to  the
+Blessed  One.
+
+'  Is  it  true,  what  they  say,  O  Bhikkhus,  that  the
+AVzabbaggiya  Bhikkhus  walk  shod,  though  the  Master
+and  the  Elders  walk  unshod  ?'
+
+'  It  is  true,  Lord.'
+
+The  Blessed  Buddha  rebuked  them,  saying,
+
+'  How,  O  Bhikkhus,  can  these  foolish  persons  walk
+shod,  though  (&c.,  as  in  §^  i,  2).  For  even  the  lay-
+men, O  Bhikkhus,  who  are  clad  in  white,  for  the
+sake  of  some  handicraft  that  may  procure  them  a
+living,  will  be  respectful,  affectionate,  hospitable  to
+their  teachers.  [3.]  Do  you,  therefore,  O  Bhikkhus,
+so  let  (your  light)  shine  forth,  that  you  having  left
+the  world  (to  enter  into)  so  well  taught  a  doctrine
+and  discipline  may  be  respectful,  affectionate,  hospi-
+table to  your  teachers  (a/^ariyas),  or  those  who  rank
+as  teachers  S  and  to  your  superiors  (upa^^/zayas),  or
+those  who  rank  as  superiors  ^.  This  will  not  conduce,
+O  Bhikkhus,  to  the  conversion  of  the  unconverted,
+and  to  the  augmentation  of  the  number  of  the  con-
+
+
+^  Avassikassa  ^/^abbasso  a/^ariyamatto.  So  hi  ^aluvassakale
+izm  nissaya  V2ikkh?ii\  (Mahavagga  I,  35).  Eva;«  ekavassassa  satta-
+vasso,  duvassassa  a///zavasso,  tivassassa  dasavasso  (B.).
+
+^  Upa^^^ayassa  sawzdi/Ma-sawbhatta  pana  sahaya  bhikkhii,  ye
+va  pana  ke^i  dasahi  vassehi  mahantatara,  te  sabbe  pi  upa^^/zaya-
+matta  nama.  This  confirms  the  view  expressed  in  a  note  to  the
+first  Book  (chap.  32.  i),  that  the  Upa^^-^aya  is  a  more  important
+person  than  the  A/^ariya.  The  former  must  have  ten  years,  the
+lalter  need  only  have  six  years,  seniority.
+
+
+V,  5,  2.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.        1 9
+
+
+verted :  but  it  will  result,  O  Bhikkhus,  in  the  uncon-
+verted being  repulsed  (from  the  faith),  and  in  many
+of  the  converted  becoming  estranged.'  Having  thus
+rebuked  them,  and  having  delivered  a  religious  dis-
+course, he  thus  addressed  the  Bhikkhus  :
+
+'  None  of  you,  O  Bhikkhus,  is  to  walk  shod,  when
+your  teachers  or  those  who  rank  as  teachers,  or
+your  superiors,  or  those  who  rank  as  superiors,  are
+walking  unshod.  Whosoever  does  so,  is  guilty  of  a
+dukka^a  offence.
+
+'  And  no  one  of  you,  O  Bhikkhus,  is  to  wear  shoes
+in  the  open  Arama.  Whosoever  does  so,  is  guilty
+of  a  dukka/a  offence.'
+
+
+5.
+
+1.  Now  at  that  time  a  certain  Bhikkhu  had  an
+eruption  ^  on  his  feet.  They  used  to  carry  that
+Bhikkhu  out  when  he  wanted  to  ease  himself.  The
+Blessed  One  as  he  was  passing  through  the  sleeping
+places  (of  the  Bhikkhus)  saw  them  (doing  so),  and
+going  up  to  them,  he  said  :
+
+2.  '  What  is  the  disease,  O  Bhikkhus,  from  which
+this  Bhikkhu  suffers  ?'
+
+'  This  venerable  brother  has  an  eruption  on  his
+feet,  Lord,  and  we  are  carrying  him  out  to  ease
+himself.'
+
+Then,  on  that  occasion,  the  Blessed  One,  having
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus, and  said  :
+
+'  I  enjoin,  O  Bhikkhus,  the  use  of  foot  coverings
+
+^  Padakhilabadho  nama  padato  khila-sadisaw?  mawsa;;/  nikkhan-
+ta/«  huti  (B.).
+
+C    2
+
+
+20  MAHAVAGGA.  V,  6,  i.
+
+by  one  whose  feet  hurt  him,  or  are  bhstered,  or  who
+has  an  eruption  on  his  feet'
+
+
+6.
+
+1.  Now  at  that  time  the  Bhikkhus  used  to  get  up
+on  to  couches  or  chairs  with  unwashen  feet ;  and  the
+robes  and  seats  became  soiled.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  enjoin,  O  Bhikkhus,  the  use  of  foot  coverings
+when  one  of  you  wishes  to  get  up  on  to  couches
+or  chairs.'
+
+2.  Now  at  that  time  when  the  Bhikkhus  were
+going  to  the  Uposatha  Hall  or  to  the  assembly  in
+the  dark,  they  trod  upon  stakes  or  thorns,  and  their
+feet  were  hurt.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  enjoin,  O  Bhikkhus,  the  use  of  foot  coverings
+in  the  open  Arama,  and  of  a  torch,  or  lamp,  and  a
+walking  stick  \'
+
+3.  Now  at  that  time  the  A'/^abbaggiya  Bhikkhus
+used  to  rise  up  in  the  night  towards  dawn ;  and,
+putting  on  wooden  shoes,  walked  up  and  down  in
+the  open  air  talking,  in  tones  high,  loud,  and  harsh,  of
+all  kinds  of  worldly  things — such  as  tales  of  kings,
+of  robbers,  of  ministers  of  state  ;  tales  of  armies,
+of  terror,  of  war ;  conversation  respecting  meats,
+drinks,  clothes,  couches,  garlands,  perfumes,  relation-
+ships, equipages,  villages,  towns,  cities,  provinces,
+women,  warriors,  and  streets ;  tales  about  buried
+treasures,  ghost  stories ;   various  tales ;   discussions
+
+^  Kattara-da«</a.     Compare  ^ullavaggaVIII,  6,  3,  and  Childers
+under  Kattara-ya/Z/^i.     Our  word  occurs  at  6^ataka  I,  9.
+
+
+V,  7,  I.       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.
+
+
+on  the  world  ;  disasters  by  sea  ;  things  which  are,
+and  things  which  are  not  ^  And  so  doing  they
+both  trod  upon  and  slew  all  kinds  of  insects,  and
+disturbed  the  Bhikkhus  in  their  meditations.
+
+4.  The  moderate  Bhikkhus  were  annoyed,  mur-
+mured, and  became  angry,  saying,  *  How  can  the
+A'/^abbaggiya  Bhikkhus  [do  so]?'
+
+And  those  Bhikkhus  told  this  thing  to  the  Blessed
+One.
+
+'  Is  it  true '  (&c.,  comp.  chap.  4.  2)  ?
+
+*  It  is  true.  Lord.'
+
+He  rebuked  them,  and  having  delivered  a  religious
+discourse,  he  addressed  the  Bhikkhus,  and  said :
+'  Wooden  shoes,  O  Bhikkhus,  are  not  to  be  worn.
+Whosoever  wears  them,  is  guilty  of  a  dukka/a
+offence.'
+
+
+7.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Ra^ragaha  as  long  as  he  thought  fit,  he  set  out  on
+his  journey  towards  Benares.  And  wandering  from
+place  to  place,  he  came  to  Benares,  and  there  at
+Benares  the  Blessed  One  stayed  in  the  deer-park
+Isipatana.
+
+Now  at  that  time  the  A'/tabbaggiya  Bhikkhus,
+since  the  Blessed  One  had  forbidden  wooden  shoes,
+used  to  break  off  young  palmyra  palms,  and  wear
+shoes  made  of  the  talipat  leaves-.  The  young
+palmyra  plants  withered.  People  were  annoyed,
+murmured,   and   became    angry,   saying,  '  How    can
+
+
+1  This  list  recurs  in  the  Ma^^-^ima  Sila,  §  7  (Rh.  D.'s  '  Buddhist
+Suttas  from  the  Pali,'  p.  194).
+
+2  These  are  the  leaves  on  which  the  MSS.  are  written.
+
+
+2  2  MAIIAVAGGA.  V,  7,  2.
+
+the  Sakyaputtiya  Sama?/as  break  off  young  palmyra
+palms,  and  wear  shoes  made  of  the  talipat  leaves  ?
+The  young  palmyra  plants  wither.  (By  so  doing),
+the  Sakyaputtiya  Sama;^as  destroy  vegetable  life.'
+
+2.  The  Bhikkhus  heard  those  people  murmuring
+in  annoyance  and  Indignation ;  and  they  told  this
+matter  to  the  Blessed  One.
+
+'  Is  it  true '  (&c.,  as  in  chap.  4.  2)  ?
+
+'  It  is  true.  Lord.'
+
+The  Blessed  Buddha  rebuked  them,  saying, '  How
+can  those  foolish  persons,  O  Bhikkhus,  [act  thus]  ?
+For  people  believe,  O  Bhikkhus,  that  life  dwells  in  a
+tree.  Such  conduct  will  not  conduce  (&c.,  as  in  chap.
+4.  2,  down  to  :)  becoming  estranged.
+
+'  Foot  coverings  made  of  talipat  leaves,  O  Bhik-
+khus, are  not  to  be  worn.  Whosoever  wears  them,
+is  guilty  of  a  dukka/a  offence.'
+
+3.  Now  at  that  time  the  A'/^abbaggiya  Bhikkhus,
+since  the  Blessed  One  had  forbidden  talipat  shoes,
+used  to  break  off  young  bambus,  and  wear  shoes
+made  of  the  bambu  leaves  (&c.,  as  in  last  section
+down  to  the  end,  substituting  bambu  for  palmyra).
+
+
+8.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Benares  as  long  as  he  thought  fit,  he  set  out  on  his
+journey  towards  Bhaddiya.  And  wandering  from
+place  to  place  he  came  to  Bhaddiya :  and  there,  at
+Bhaddiya,  he  stayed  in  the  (S^atiya  Grove.
+
+Now  at  that  time  the  Bhikkhus  at  Bhaddiya  were
+accustomed  to  the  use  of  various  kinds  of  foot
+coverings  for  the   sake  of  ornament.     They  made.
+
+
+V,  8,  3-       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.        23
+
+$
+
+or  had  made  for  themselves  foot  coverinos  of  ti;/a-
+grass,  of  mii/^^a-grass,  of  babba^a-grass,  of  the  leaves
+of  the  date-palm  \  of  kamala-grass  ^  and  of  wool '*.
+And  they  neglected*  instruction,  enquiry,  morality,
+self-concentration,  and  wisdom  \
+
+2,  The  moderate  Bhikkhus  were  annoyed,  mur-
+mured, and  became  angry,  thinking, '  How  can  they
+[do  so]?'  And  those  Bhikkhus  told  this  thing  to
+the  Blessed  One.
+
+'  Is  it  true '  (&c.,  as  in  chap,  4.  2)  ?
+
+'  It  is  true,  Lord,'
+
+The  Blessed  Buddha  rebuked  them,  saying, '  How
+can  they  [do  so]  ? '  This  will  not  conduce  (&c.,  as
+in  chap,  4.  2,  down  to  :)  becoming  estranged,
+
+3.  Having  thus  rebuked  them,  and  having  deli-
+vered a  religious  discourse,  he  thus  addressed  the
+Bhikkhus :  'Shoes,  O  Bhikkhus, made  of  ti;^a-grass  are
+not  to  be  worn,  or  made  of  mui^^a-grass,  or  of  bab-
+ba^a-grass,  or  of  leaves  of  the  date-palm,  or  of
+kamala-grass,  or  of  wool,  nor  [ornamented  with]  gold,
+or  silver,  or  pearls,  or  beryls,  or  crystal,  or  copper,
+or  glass,  or  tin,  or  lead,  or  bronze.  Whosoever  does
+so,  is  guilty  of  a  dukka/a  offence,
+
+'  Hintala-paduka  'ti  kha^^^ura-  (MS.  kha^^ari)  pattehi  kata-
+paduka :  hintala-pattehi  pi  na  va//ati  yeva  (B.).
+
+^  Kamala-paduka  'ti  kamala-ti«a;«  nama  atthi,  tena  kata-padukS.
+Ussira-paduka  'ti  pi  vadanti.  Childers  only  gives  lotus  as  the
+meaning  of  kamala.  At  Gataka  I,  119,  149,  178  ;  IV,  42,  it  must
+be  kamala,  and  not  kambala  as  printed  by  Fausboll,  that  is  meant,
+
+*  Kambala-paduka  'ti  u««ahi  kata-paduka,
+
+*  On  rifjy^anti  (Sanskrit  ri^,  riz/akti),  compare  the  verses  in
+IMilinda  Panha,  p.  419  (ed.  Trenckner).
+
+^  The  adhisiladi-sikkha-ttayaw  mentioned  atDhp.  p.  358  is
+explained  in  the  Sawgiti  Sutta  as  training  in  adhisila,  adhi/iitta,
+and  adhipaTtTta.  On  the  first,  compare  the  note  on  Mahavagga
+I,  36,  8.
+
+
+24  MAHAVAGGA.  V,  9,  i-
+
+
+'And  clogs,  O  Bhikkhus,  that  are  taken  away\  are
+not  to  be  worn.  Whosoever  does  so,  is  guilty  of  a
+dukka/a  offence.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  three  kinds
+of  clogs,  that  are  fixed  to  the  ground,  and  are  not
+taken  away^,  privy-clogs,  urinal-clogs,  and  rinsing-
+clo^s  ^,'
+
+
+9.
+
+1.  Now  when  the  Blessed  One  had  remained  at
+Bhaddiya  as  long  as  he  thought  fit,  he  set  out  on
+a  journey  towards  Savatthi.  And  walking  from
+place  to  place  he  arrived  at  Savatthi.  There  the
+Blessed  One  dwelt  at  Savatthi  at  the  6^etavana,
+Anatha-pi/^^sj'ika's  Grove.
+
+2 .  N  ow  at  that  time  the  A^/^abbaggiya  Bhikkhus  used
+to  catch  hold  of  the  heifers  crossing  on  the  A/^iravati
+River  by  their  horns,  or  ears,  or  dewlaps,  or  tails  *,
+or  spring  up  upon  their  backs,  or  touch  with  lustful
+
+^  See  next  clause.
+
+^  Asawkamaniyayo  'ti  bhumiyaw?  supati/Ma  ni-^>^ala  asawhariya
+(sic),  (B.  here).  Compare  Patimokkha,  pp.  io6,  113  (ed.  Minayeflf),
+and  Childers's  interpretation  of  those  passages  under  sa»2kamati.
+
+^  On  va/<&/(:a-paduka,  see  ifullavagga V,  35,  2,  at  the  end;  and
+VIII,  10,  3,  at  the  beginning.  On  the  other  two,  ^ullavagga  V,
+35;  I,  4,  and  VIII,  10,  3;  and  see  also  VIII,  9.  The  use  of  them
+was  part  of  the  sanitary  arrangements  enjoined  upoa  the  Order.
+A  very  ancient  pair  of  stone  va/^/^a-paduka,  forming  part  of  a  slab  of
+stone,  was  discovered  at  Anuradhapura  by  Rhys  Davids,  and  is  now
+in  the  Colombo  Museum.  As  they  were  dug  up  in  one  of  the
+palaces  there,  they  were  probably  for  the  use  of  the  king,  or  some
+high  official.  These  ruins  are  among  the  most  ancient  in  Ceylon,
+and  are  certainly  pre-Christian  in  date.
+
+*  On  -^^eppa,  compare  Sutta-vibhahga  I,  6;  and  Bohdingk-
+Roth  under  sepa.  and  paru>^-^>^epa.
+
+
+V,  9,  3'       RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.        25
+
+thoughts  their  privy  parts  :  and  they  used  to  duck
+the  young  calves  and  so  kill  them.  People  were
+annoyed,  murmured,  and  became  angry,  saying, '  How
+can  the  Sakyaputtiya  Sama;/as  [act  thus]  ?  it  is  like
+men  still  enjoying  the  pleasures  of  the  world.'
+
+And  Bhikkhus  heard  them  murmuring  in  annoy-
+ance and  indignation  :  and  those  Bhikkhus  told  this
+thing  to  the  Blessed  One.
+
+'  Is  it  true'  (&c.,  see  chap.  4.  2)  ?
+
+'  It  is  true.  Lord.'
+
+He  rebuked  them,  and  havinfif  delivered  a  relipious
+discourse,  he  addressed  the  Bhikkhus,  and  said  :
+
+'  Heifers  are  not  to  be  caught  hold  of,  O  Bhikkhus,
+by  their  horns,  or  their  ears,  or  their  dewlaps,  or
+their  tails.  You  are  not  to  get  up  on  their  backs.
+Whosoever  gets  up  on  their  backs,  is  guilty  of  a
+dukka/a  offence.  And  their  privy  parts,  O  Bhik-
+khus, are  not  to  be  touched  with  lustful  thouehts.
+Whosoever  does  so,  is  guilty  of  a  thulla/i^/'aya
+offence.  And  calves  ought  not  to  be  killed.  Who-
+soever kills  them,  let  him  be  dealt  with  according
+to  law  \'
+
+3.  Now  at  that  time  the  A'/^abbaggiya  Bhikkhus
+used  to  have  themselves  carried  in  vehicles  to  which
+cows  were  yoked  with  a  bull  between  them,  or  bulls
+were  yoked  with  a  cow  between  them  2.  People  were
+annoyed,  murmured,  and  became  angry,  saying,'  That
+is  as  is  done  at  the  Feast  of  the  Gariga  and  the  Mahi  ^.'
+
+^  See  the  6ist  Pa^ittiya  Rule.
+
+2  Buddhaghosa  explains  this  passage  in  a  different  way:  Itthi-
+yuttena'ti  dhenu-yuttena.  Purisantarena 'ti  purisa-sarathina.
+Purisa-yuttena 'ti  go«a-yuttena.  Itthantarena 'ti  itthi-sara-
+thina.
+
+^  Gahga-mahiyaya 'ti  Gahga-mahi-ki/ikaya  (B.).  It  is  pos-
+sible that  JNIahi  may  here  mean  the  Earth ;  but  it  is  probably  the
+
+
+26  MAHAVAGGA.  V,  lo,  I.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Do  not  have  yourselves  carried  in  vehicles,  O
+Bhikkhus.  Whosoever  does  so,  is  guilty  of  a  duk-
+ka/a  offence.'
+
+
+101.
+
+1.  Now  at  that  time  a  certain  Bhikkhu,  as  he
+was  passing  through  the  Kosala  country  to  Savatthi,
+to  visit  the  Blessed  One,  was  taken  ill  on  the  way.
+And  that  Bhikkhu  went  aside  out  of  the  road,  and
+sat  down  at  the  foot  of  a  certain  tree.
+
+When  people  saw  him  sitting  there,  they  said :
+'Whither  is  your  reverence  going  ?'
+
+'  I  am  going,  friends,  to  Savatthi  to  visit  the
+Blessed  One.'
+
+2.  *  Come  along.  Sir  ;   let  us  go  together.'
+'  I  cannot,  friends.     I  am  sick.'
+
+'  Well  then,  Sir,  get  up  into  the  cart.'
+
+'  Enough,  friends !  The  Blessed  One  has  for-
+bidden the  use  of  vehicles.'  And  fearing  to  offend,
+he  refused  to  get  up  into  the  cart.
+
+And  when  that  Bhikkhu  had  come  to  Savatthi,
+he  told  this  thing  to  the  Bhikkhus,  and  they  told
+it  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  if  you  are  sick,  to  use
+a  cart,'
+
+Now  the  Bhikkhus  thought :  '  Should  the  carts
+be  yoked  with  cows  or  bulls  ?'
+
+well-known  affluent  of  the  Ganges,  which  is  one  of  the  Maha-
+nadis.  Compare  ^ullavagga  IX,  i,  3,  Spence  Hardy's  '  Manual,'
+p.  17,  and  the  Dhaniya  Sutta  in  the  Sutta  Nipata.
+
+^  ^ullavagga  X,  2 1  gives  the  rules    for   sisters  of  the   Order,
+corresponding  to  the  first  two  sections  of  this  chapter.
+
+
+V,ro,  3-       RULES   FOR   FOOT-CLOTHING,    SEATS,    ETC.       2/
+
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  use  a  cart  drawn  by
+bullocks,  or  by  hand^'
+
+Now  at  that  time  a  certain  Bhlkkhu  was  exceed-
+ingly distressed  by  the  jolting  of  a  cart.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  a  litter  or
+a  sedan-chair.'
+
+3.  Now  at  that  time  the  /\"//abbaggiya  Bhikkhus
+were  in  the  habit  of  using  lofty  and  large  things  to
+recline  upon,  that  is  to  say  :  large  cushions  - ;  divans ;
+coverlets  with  long  fleece ;  counterpanes  of  many
+colours,  woollen  coverlets-',  white  or  marked  with
+thick  flowers;  mattresses;  cotton  coverlets,  dyed
+with  figures  of  animals  ;  rugs  with  long  hair  on  one  or
+both  sides  ;  carpets  inwrought  with  gold,  or  with  silk  ;
+large  woollen  carpets  such  as  the  nautch  girls  dance
+upon-*;  rich  elephant  housings,  horse-rugs,  or  carriage
+rugs ;  panther  or  antelope  skins ;  couches  covered
+with  canopies,  or  with  crimson  cushions  at  both
+ends  ^.
+
+
+^  On  hatlhava//aka»/  here  Buddhaghosa  merely  says, '  itthiyo
+va  va//antu  purisa  va  va//antu  (MS.  va//ati)  yeva.'  The  word  recurs
+in  A'ullavagga  X,  21.
+
+2  That  Asandi  is  a  cushion,  and  not  a  chair  as  Childers  gives,
+is  clear  from  G^ataka  1, 108.
+
+^  Pa/ika  'ti  uwwamayo  setattharako  (Sum.  Vil.  on  Brahma^ala
+Sutta  9).
+
+*  Kuttakan  ti  so/asannaw  na/akitthina7«  ///atva  na/(--^-ana-yoggaw
+uwwamayatiliaranaw  (Sum.  Vil.  on  Brahma^ala  Sutta  9).
+
+'  This  list  recurs  in  the  INIa^'^^/zima  Sila,  §  5  (Rh  D.,  '  Buddhist
+Suttas  from  the  Pali,'  p.  193).  Childers  has  given  the  commentary
+on  most  of  these  terms  from  the  Sumahgala  Vilasini.  Several  of
+the  items  are  also  mentioned  among  the  possessions  of  the  Great
+King  of  Glory  (Rh.  D.,  loc.  cit.,  p.  274,  &c.).  In  several  cases  the
+exact  meaning  is  at  present  quite  uncertain.  The  comment  on  the
+last  two  words  runs  as  follows:  SautlaraX'/t/iadan  ti  saha  uttara-
+
+
+28  MAHAVAGGA.  V,  10,  4.
+
+When  people,  who  went  to  visit  the  Viharas,
+saw  these  things,  they  were  annoyed,  murmured,
+and  became  angry,  thinking,  '  This  is  as  if  they
+were  still  enjoying  the  pleasures  of  the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+4.  '  Lofty  and  large  things  to  recline  upon,  such
+as  large  cushions  {&c.,  as  in  §  3,  down  to  :)  cushions
+crimson  at  both  ends,  are  not,  O  Bhikkhus,  to  be
+used.  Whosoever  uses  them,  is  guilty  of  a  duk-
+ka/a  offence.'
+
+5.  Now  at  that  time  the  Av^abbaggiya  Bhikkhus,
+since  the  use  of  lofty  and  large  things  to  recline  upon
+had  been  forbidden  by  the  Blessed  One,  used  to  use
+fine  skins,  such  as  lion,  tiger,  and  panther  skins.
+These  skins  were  cut  to  fit  the  couches,  and  to  fit
+the  chairs ;  and  were  spread  inside  or  outside  the
+couches  or  the  chairs.
+
+When  people,  who  went  to  visit  the  Viharas,  saw
+these  things,  they  were  annoyed,  murmured,  and  be-
+came angry,  thinking,  '  This  is  as  if  they  were  still
+enjoying  the  pleasures  of  the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+6.  '  Fine  skins,  such  as  lion,  tiger,  and  panther  skins,
+are  not,  O  Bhikkhus,  to  be  used.  Whosoever  does
+so,  is  guilty  of  a  dukka/a  offence.'
+
+7.  Now  at  that  time  the  AV^abbaggiya  Bhikkhus,
+since  fine  skins  had  been  forbidden  by  the  Blessed
+
+
+kMa,dena,  upari-bandhena  ratta-vitanena  saddhin  ti  attho.  Seta-
+vitanam  pi  he/Z/za  akappiya-pai^X'attharawe  sati  na  va//ati,  asati  pana
+va//ati.  Ubhalolohitakupadhanawi  sisupadhanaw  ^a  padupadhanaw
+^a  ma«>^assa  ubhatolohitakupadhana/w  eva.m  (read  eva  ?)  na  kappati.
+Ya.m  pana  ekam  eva  upadhanam  ubhosu  passesu  ratta;«  va  hoti
+paduma-va««aw  va  khram  va  sa^e  pama«a-yutta;«  va//ali,  maha-
+upadhanaw  pana  pa/ikkhittaw.
+
+
+V,  10, 9-      RULES    FOR   FOOT-CLOTHING,    SEATS,    ETC.       29
+
+One,  began  to  use  the  skins  of  oxen.  These  skins
+were  cut  to  fit  the  couches,  or  the  chairs ;  and  were
+spread  inside  or  outside  the  couches,  or  the  chairs.
+
+Now  a  certain  Bhikkhu  of  bad  character  was  a
+friend  of  the  family  of  a  certain  lay-disciple  of  a
+bad  character.  And  that  bad  Bhikkhu,  early  one
+morning,  dressed  himself,  and  with  his  robe  on  and
+his  bowl  in  his  hand,  went  to  the  dwelling-place  of
+that  bad  disciple,  and  sat  down  on  a  seat  made  ready
+for  him.  And  the  bad  disciple  went  up  to  the  place
+where  the  bad  Bhikkhu  was,  and  saluted  him,  and
+took  his  seat  beside  him.
+
+8.  Now  at  that  time  that  bad  disciple  had  a
+young  bull  beautiful  to  behold,  quiet,  and  varied
+in  colour  like  a  panther's  cub.  And  the  bad  Bhikkhu
+gazed  with  longing  at  the  bull.  And  that  bad
+disciple  said  to  that  bad  Bhikkhu  :  '  Why  does  your
+reverence  gaze  so  with  longing  at  that  bull  ?'
+
+'  My  friend,'  said  he,  '  I  want  that  bull's  skin.'
+Then  that  bad  disciple  slew  that  bull,  and  skinned
+it,  and  gave  it  to  that  bad  Bhikkhu.     And  that  bad
+Bhikkhu,  hiding  that  skin  under  his  robe,  went  away.
+
+9.  Now  the  cow,  greedy  for  her  calf,  followed  that
+bad  Bhikkhu,  keeping  behind  him.  The  Bhikkhus
+said  :
+
+*  How  is  it,  friend,  that  this  cow  keeps  following
+so  behind  you  ?'
+
+'  I  don't  know,  friends,  why  it  should  keep  follow-
+inof  me.'
+
+But  that  bad  Bhikkhu's  robe  was  soiled  with
+blood  ;  and  the  Bhikkhus  asked  him,
+
+'  How  has  this  robe  of  yours  got  marked  with
+blood?'
+
+Then  he  told  them  the  whole  matter.
+
+
+30  MAHAVAGGA.  V,  lo,  9.
+
+*  How  is  that,  Sir  ?  You  have  been  causing
+another  to  deprive  a  living   thing  of  Hfe!'
+
+*  That  is  so,  friends.'
+
+The  modest  among  the  Bhikkhus  were  annoyed,
+murmured,  and  became  angry,  saying,  '  How  can
+this  Bhikkhu  induce  a  man  to  deprive  a  Hving  thing
+of  Hfe  ?  Has  not  the  taking  of  Hfe  been  censured,
+and  the  abstinence  therefrom  been  praised  in  many
+a  discourse  by  the  Blessed  One  ?'
+
+And  the  Bhikkhus  told  this  thing  to  the  Blessed
+One.
+
+Then  the  Blessed  One  held  because  of  th's,  and
+on  that  occasion,  an  assembly  of  the  community  of
+Bhikkhus,  and  asked  that  wicked  Bhikkhu,
+
+*  Is  it  true,  as  they  say,  that  you,  O  Bhikkhu,
+have  been  inducing  another  to  deprive  a  living
+thing  of  life  ?'
+
+'  It  is  true,  Lord.'
+
+'  But  how  can  you  be  so  foolish  as  to  do  so  ?
+Have  I  not  censured  in  many  a  discourse  the  taking
+of  life,  O  foolish  one,  and  praised  the  abstinence
+therefrom  ?  Such  conduct,  thou  foolish  one,  will  not
+conduce  to  the  conversion  of  the  unconverted!'
+
+And  having  thus  rebuked  him,  and  delivered  a  reli-
+gious discourse,  he  addressed  the  Bhikkhus,  and  said :
+
+*  Bhikkhus !  No  one  shall  cause  a  living  thing  to
+be  deprived  of  life.  Whosoever  does  so  shall  be
+dealt  with  according  to  the  Laws^  Ox-skins  are
+not  to  be  worn,  O  Bhikkhus.  Whosoever  does  so,
+is  guilty  of  a  dukka/a  offence.  And  neither,  O
+Bhikkhus,  is  any  skin  to  be  made  use  of  at  all.
+Whosoever  does  so,  is  guilty  of  a  dukka/a  offence,'
+
+^  The  Laws  (Dhammas)  referred  to  are  the  first  Par%ika,  the
+nth  PaX'itliya,  and  the  6ist  and  62nd  Pd/^itLiyas,
+
+
+V,  12.  RULES    FOR   FOOT-CLOTHING,    SEATS,    ETC,       3 1
+
+
+11.
+
+Now  at  that  time  men  had  couches  and  chairs
+covered  or  bound  with  skins.  The  Bhikkhus,  fearing
+to  offend,  would  not  sit  down  upon  them.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  sit  down  on  seats
+arranged  by  laymen,  but  not  to  lie  down  upon  them.'
+
+Now  at  that  time  the  Viharas  were  bound  together
+by  thongs  made  of  skin  ^  The  Bhikkhus  fearing  to
+offend,  would  not  sit  down  upon  them.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  sit  down  upon  (skins
+when  they  are)  only  used  for  binding  things  together.'
+
+
+12.
+
+Now  at  that  time  the  A'/^abbaggiya  Bhikkhus
+used  to  cro  into  the  villaijes  with  their  shoes  on.
+The  people  were  annoyed,  murmured,  and  became
+angry,  saying,  '  That  is  how  those  behave  who  are
+still  enjoying  the  pleasures  of  the  world !'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  You  are  not  to  go  into  the  villages,  O  Bhikkhus,
+with  your  shoes  on.  Whosoever  does  so,  is  guilty
+of  a  dukka/a  offence.'
+
+Now  at  that  time  a  certain  Bhikkhu  was  sick,  and
+unable  to  gro  into  the  villaore  without  shoes  on.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  a  sick  Bhikkhu,  O  Bhikkhus,  to  go  into
+the  villaQ;e  with  his  shoes  on.'
+
+^  Ogumphiyanliti  bhitti-dawd'akadisu  veMetva  bandhanti  (B.),
+
+
+'^,2  MAHAVAGGA.  V,  13,  i.
+
+
+o-
+
+
+131.
+
+1.  Now  at  that  time  the  venerable  Maha  Ka-^-
+/^ayana  was  staying  in  Avanti  on  the  hill  called  the
+Precipice,  near  Kuraraghara  ^.  And  at  that  time
+the  lay-disciple  named  So;^a  Ku^?ika;/;^a  ^  was  the
+personal  attendant  upon  the  venerable  Maha  Ka^-
+/^ayana.
+
+And  the  disciple  So;^a  Ku^'ika;/;2a  went  to  the
+place  where  the  venerable  Maha  Ka/§/C'ayana  was,
+and  saluted  him,  and  took  his  seat  beside  him.  And
+when  he  was  thus  seated,  he  said  to  the  venerable
+Maha  Ka/'/C'ayana :
+
+'  As  I  understand  the  doctrine  laid  down  by  the
+venerable  Maha  Ka/^Myana,  it  is  difficult  for  the
+man  who  dwells  at  home  to  live  the  higher  life  in
+all  its  fulness,  in  all  its  purity,  in  all  its  bright  per-
+fection. I  wish  therefore  to  cut  off  my  hair  and
+beard,  to  clothe  myself  in  the  orange-coloured  robes,
+and  to  go  forth  from  the  household  life  into  the
+houseless  state  *.  May  the  venerable  Maha  Kak-
+/{■ayana  receive  me  into  the  Order  of  those  who
+have  renounced  the  world!'
+
+2.  '  Hard   is  it,  So;/a,  your  life  long  to  live  the
+
+^  Sections  1-6  of  this  chapter  were  published  and  translated  by
+Alwis  in  his  '  Ka/^/^ayana's  Pali  Grammar,'  pp.  92  and  following.
+
+"^  Buddhaghosa  spells  this  name  Kuduraghara,  and  says  it
+was  there  that  Ka-^/^ayana  had  been  accustomed  to  go  for  alms,
+and  that  he  dwelt  on  the  precipice  itself.
+
+'  Buddhaghosa  has  a  curious  explanation  of  this  name,  Ko/i-
+agghanakaffz  pana  ka««a-pilandhanaka»i  dhareti,  tasma  Ku/ika«;/o
+'ti  vu/('/^ati.  This  is  evidently  merely  drawn  from  the  word  itself,
+which  may  just  as  well  have  meant  '  with  pointed  ears.'
+
+*  This  is  a  common  phrase.  Compare  Tevi^^a  Sutta  (Rh.  D.,
+'Buddhist  Suttas  from  the  Pali,'  pp.  187, 188).
+
+
+V,  13,  3-       RULES    FOR    FOOT-CLOTHING,    SEATS,  ETC.       33
+
+
+higher  Hfe  using  only  one  bed,  and  with  but  one
+meal  a  day.  Do  you,  therefore,  So;/a,  remain  in
+the  state  of  a  householder,  and  practise  only  for  a
+time  the  higher  life,  the  precepts  of  the  Buddhas,
+using  only  one  bed,  and  with  but  one  meal  a  day.'
+
+Then  the  desire  for  renunciation^  which  had  arisen
+in  the  disciple  So;^a  Ku/ika?^;/a  abated  in  him.
+
+A  second  time  the  disciple  So;^a  Ku/ika;^;^a  [made
+the  same  request,  and  received  the  same  reply  with
+the  same  result].
+
+And  a  third  time  So;^a  Ku/ika;^;^a  made  the  same
+request.  Then  the  venerable  Maha  KaZ'X^ayana  con-
+ferred the  pabba^^a  (ordination)  on  the  disciple
+So;^a  Ku/ika;^;^a.
+
+Now  at  that  time  in  the  Southern  country  and
+in  Avanti  there  were  but  few  Bhikkhus.  And  it
+was  only  after  the  lapse  of  three  years  that  the
+venerable  Maha  Ka/'-('ayana  was  able,  with  difficulty,
+and  with  trouble,  to  get  together  a  meeting  of  the
+Order  in  which  ten  Bhikkhus  were  present  ^.  And
+then  he  admitted  the  venerable  So/^a  into  the  higher
+rank  of  the  Order.
+
+3.  Now  when  the  venerable  So7ia.  had  passed  the
+rainy  season  there  sprang  up  in  his  mind,  when  he
+was  meditating  alone,  this  thought :
+
+'  I  have  heard  indeed  that  the  Blessed  One  is
+such  and  such  a  one.  But  I  have  not  as  yet  seen
+him  face  to  face.  I  should  like  to  go  and  visit  the
+Blessed  One,  the  Arahat  Buddha,  if  my  superior
+would  allow  me.'
+
+And  in  the  evening  the  venerable  So;^a,  leaving
+his  solitude,  went  to  the  place  where  the  venerable
+
+^  Compare  gamikabhisawkhara,  Mahavagga  VI,  31,  2.
+^  On  the  necessity  of  this,  see  Mahavagga  IX,  4,  i.
+
+[17]  D
+
+
+34  MAHAVAGGA.  V,  13,  4.
+
+Maha  Ka/'/t-ayana  was,  and  saluted  him,  and  took
+his  seat  beside  him.  And  when  he  was  thus  seated,
+he  said  to  the  venerable  Maha  Ka/{'/^'ayana  :
+
+4.  '  When  I  was  meditating  alone,  venerable  Sir,
+the  following  thought  occurred  to  my  mind, "  I  have
+heard  (&c,,  as  above)."  Now  I  would  go  and  visit
+the  Blessed  One,  the  Arahat  Buddha,  if  you,  as  my
+superior,  allow  it.'
+
+*  That  is  good,  that  is  good,  So?i3. !  Go  then,
+Sojia,  to  visit  the  Blessed  One,  the  Arahat  Buddha.
+[5.]  You  shall  see,  So;^a,  how  the  Blessed  One  arouses
+faith,  is  worthy  of  faith,  calm  in  his  senses,  calm
+in  his  mind,  gifted  with  the  highest  self-control  and
+quietude,  an  elephant  among  men,  subdued,  guarded,
+with  his  senses  in  subjection  to  himself.  Do  you
+therefore,  So;/a,  bow  down  in  my  name  at  the  feet
+of  the  Blessed  One,  and  say,  "  Lord !  my  superior,
+the  venerable  Maha  Ka-^Myana,  bows  down  in  saluta-
+tion at  the  feet  of  the  Blessed  One!"  and  add,  "  In
+the  Southern  country  and  in  Avanti  there  are,  Lord,
+but  few  Bhikkhus.  And  it  was  only  after  the  lapse
+of  three  years  that  with  difficulty  and  with  trouble
+an  assembly  of  the  Order  was  got  together,  in  which
+ten  members  were  present,  and  I  could  be  received
+into  the  higher  rank  of  the  Order.  May  the  Blessed
+One  be  pleased,  therefore,  to  allow  the  higher  ordina-
+tion in  the  Southern  country  and  in  Avanti  before  a
+meeting  of  a  lesser  number.  [6.]  In  the  Southern
+country  and  in  Avanti,  Lord,  the  soil  is  black  on  the
+surface  \  rough,  and  trampled  by  the  feet  of  cattle  ^.
+
+^  Kawhuttara  'ti  kawha-mattik-uttara  upari-vaddhita  ka«ha-mat-
+tika  (B.).     Alwis  translates,  'overrun  with  thorns.'
+
+^  Goka«/aka-hata  'ti  gunnaw  khurehi  akkanta-bhumito  samu///^ehi
+go-ka;//akehi  upahata.     Te   kira  gokaw/ake  ekapa/alika   upahana
+
+
+V,  13,  7-      RULES    FOR    FOOT-CLOTIIING,    SEATS,  ETC.       35
+
+
+May  the  Blessed  One  be  pleased,  therefore,  to  allow
+the  use,  in  the  Southern  country  and  in  Avanti,  of
+shoes  with  thick  linings.  In  the  Southern  country
+and  in  Avanti,  Lord,  men  attach  great  importance
+to  bathing,  and  are  pure  by  use  of  water.  May  the
+Blessed  One  be  pleased  to  allow,  in  the  Southern
+country  and  in  Avanti,  the  constant  use  of  the  bath  '.
+In  the  Southern  country  and  in  Avanti,  Lord,  skins,
+such  as  sheep-skins,  goat-skins,  and  deer-skins,  are
+used  as  coverlets.  Just  as  in  the  Middle  country  ^
+the  eragu,  moragu,  maf^//aru,  and  ^antu  grasses''
+are  used  for  coverlets,  so  are  sheep-skins,  goat-skins,
+and  deer-skins  in  the  Southern  country  and  in  Avanti.
+May  the  Blessed  One  be  pleased  to  allow  the  use
+of  such  coverlets  there.  [7.]  At  present,  Lord,  people
+are  in  the  habit  of  giving  a  set  of  robes  to  Bhikkhus,
+who  have  left  the  district,  saying,  '  We  give  this
+set  of  robes  to  (a  Bhikkhu)  of  such  and  such  a  name.'
+When  they  return,  the  Bhikkhus  tell  them,  '  A  set
+of  robes  has  been  given  to  you  by  a  person  of  such
+and  such  a  name.'  But  they,  fearing  to  offend,  do
+not  accept  it,  saying,  '  Let  us  not  be  guilty  of  a
+N  issaggiya.'  May  the  Blessed  One  be  pleased  to
+make  a  detailed  statement  in  the  matter  of  robes.'"
+
+
+rakkhituw?  na  sakkonti,  eva7«  khara  honti  (B.).     Alwis  takes  gokaw-
+/aka  as  a  plant  (Ruellia  Longifolia).
+
+^  Compare  the  57th  Pd/^ittiya.
+
+^  See  below,  §12;  and  compare  Rh.  D., '  Buddhist  Birth  Stories,'
+p.  61.
+
+^  Ima  y('atasso  pi  tiwa-^tiyo.  Etehi  kata-sa/ake  X-a  ta//ikayo  -^■a
+karonti.  Ettha  eragii  'ti  ekaraka-ii;/aw,  taw  o/arikaw.  Moragu-
+Xxnzm  tamba-sisa/7/  sukhumaw  muduka;;/  sukha-samphassa/w  ;  tena
+kata  ta//ika  nipa^^tva  vu///^itamalte  pana  uddhumata  hulva  ti/Mati.
+Ma^^aruna  (sic,  and  so  Alwis)  kata-sa/ake  pi  karonti.  Gantussa
+mawi-sadiso  \zimo  hoti.  Ta/Zika  is  a  mat;  see  Cataka  I,  141.
+Compare  Sanskrit  Eraka,  and  Mayuraka.
+
+D    2
+
+
+MAHAVAGGA.  V,  13,  8.
+
+
+'  Even  so,  Lord/  said  the  venerable  So;^a  in  assent
+to  the  venerable  Maha  Ka/('/('ayana,  and,  rising  from
+his  seat,  he  departed  thence,  keeping  his  right  side
+towards  him.  And  taking  up  his  bed,  he  went  on
+with  his  robe  on,  and  his  bowl  in  his  hand  to
+Savatthi.
+
+8.  And  wandering  from  place  to  place  he  arrived
+at  the  place  where  the  Blessed  One  was,  at  Savatthi
+in  the  6^etavana,  Anatha-pi/z^ika's  park.  And  when
+he  had  come  there  he  saluted  the  Blessed  One,  and
+took  his  seat  beside  him.
+
+Then   the    Blessed    One    said  to    the   venerable
+
+A  A
+
+Ananda :  '  Make  ready  a  sleeping-place,  Ananda,  for
+this  Bhikkhu  who  has  just  arrived.'  And  the  vener-
+able Ananda  thought :
+
+*  Inasmuch  as  the  Blessed  One  commands  me  to
+make  ready  a  sleeping-place  for  the  Bhikkhu  who
+has  just  arrived,  the  Blessed  One  evidently  desires
+to  dwell  in  the  same  Vihara  with  that  Bhikkhu,  he
+desires  to  dwell  in  the  same  Vihara  with  the  venerable
+So7i3..'  And  he  made  ready  a  sleeping-place  for  the
+venerable  So?2a  at  the  place  where  the  Blessed  One
+was  staying.
+
+9.  Then  the  Blessed  One,  after  spending  the
+greater  part  of  the  night  in  the  open  air,  entered
+the  Vihara.  And  also  the  venerable  Sona.,  having
+spent  the  greater  part  of  the  night  in  the  open  air,
+entered  the  Vihara.  And  the  Blessed  One  rose  up,
+early  in  the  morning,  towards  dawn,  and  requested
+the  venerable  So;^a,  saying,
+
+'  May  the  Dhamma  so  become  clear  to  you  that
+you  may  speak  \'
+
+^  Pa/ibhatu  t^m  bhikkhu  dhammo  bhasituw.  Compare  Bud-
+dhaghosa's  commentary  on  the  similar  idiom  used  in  the  Maha-
+
+
+V,  13,  10.      RULES    FOR   FOOT-CLOTIIING,    SEATS,    ETC.      '37
+
+'  Even  so,  Lord !'  said  the  venerable  So;/a  in  assent
+to  the  Blessed  One ;  and  he  intoned  all  the  verses
+in  the  Book  of  the  Eights  (A////aka-vaggikani  ^).
+
+And  the  Blessed  One,  at  the  conclusion  of  the
+venerable  So;/a's  recitation,  expressed  his  pleasure,
+saying,
+
+'  Excellent,  most  excellent,  O  Bhikkhu  !  Well  have
+the  Eights  been  grasped  by  thee,  well  thought  over,
+well  learnt  by  heart :  and  with  a  fine  voice  art  thou
+gifted,  distinct,  pleasant  ^  able  to  make  things  under-
+stood. How  many  years  is  it  since  thou  hast  been
+ordained  ?'
+
+'  One  year,  my  Lord !'
+
+lo.    '  But  why  have  you  postponed  it  so  long  ?'
+
+'  'Tis  long,  Lord,  since  I  saw  into  the  danger  of
+the  passions,  but  life  in  a  household  is  crowded  with
+business  and  with  cares.'
+
+And  the  Blessed  One,  when  he  heard  that  matter,
+gave  utterance  at  that  time  to  the  expression  of
+emotion  :
+
+'  When  he  has  seen  the  danger  of  the  world,  when
+he  has  understood  the  Truth,  when  he  has  become
+free  from  Upadhi^,
+
+
+parinibbana  Sutta  II,  31  as  given  by  Rh.  D.  ('  Buddhist  Sultas  from
+the  Pali,'  p.  36).
+
+^  A///^aka-vagga  is  the  name  of  the  fourth  book  in  the  Sutta
+Nipata.  See  Professor  FausboU's  translation,  p.  viii.  It  may  also
+be  the  name  of  divisions  of  other  books,  but  probably  that  portion
+of  the  Sutta  Nipata  is  here  referred  to.
+
+2  On  Ane/agalaya  compare  ne/a  va^'a  in  §  6  of  the
+A'ula-sila.
+
+^  Ariyo  is  the  man  who  has  entered  the  Path,  Su>ti  is  locative.
+Nirupadhi,  he  in  whom  there  remains  no  longer  the  cause  of  the
+renewal  of  existence  as  a  separate  individual  (the  cause  referred  to
+being  thirst  or  excitement  and  craving,  Tawha,  Upadana).
+
+
+38  MAHAVAGGA.  V,  13,  II.
+
+'  The  pilgrim  finds  in  sin  no  pleasure,  his  delight
+is  in  the  word,  the  pure.'
+
+11.  Then  thought  the  venerable  So7ia,:  'The
+Blessed  One  is  pleased  with  me.  This  then  is
+the  time  which  my  superior  spoke  of.'  And  rising
+from  his  seat,  and  arranging  his  robe  on  one  shoulder,
+he  bowed  down  with  his  head  at  the  feet  of  the
+Blessed  One,  and  said  :
+
+*  Lord  !  my  superior  Maha  Ka/C'Myana  bows  down
+in  salutation  at  the  feet  of  the  Blessed  One.  In  the
+Southern  country  and  in  Avanti  there  are  (&c.,  as
+in  §§  4-7,  down  to  the  end  of  the  message).'
+
+Then  the  Blessed  One  on  that  occasion  and  in
+that  connection,  having  delivered  a  religious  dis-
+course, addressed  the  Bhikkhus  and  said :
+
+'  The  Southern  country  and  Avanti  has  but  few
+Bhikkhus.  I  allow  the  upasampada  (ordination)
+in  border  countries  to  be  held  in  a  meeting  of  only
+four  Bhikkhus,  beside  the  chairman,  who  must  be  a
+Vinaya-dhara,'
+
+12.  'In  this  passage  the  following  are  the  border
+countries  referred  to\  To  the  East  is  the  town
+Ka^angala,  and  beyond  it  Mahasala.  Be)^ond  that
+is  border  country ;  this  side  of  it  is  the  Middle
+country.  To  the  South-east  is  the  river  Salalavati.
+Beyond  that  is  border  country ;  this  side  of  it  is
+the  Middle  country.  To  the  South  is  the  town
+Setaka?2/^ika.  Beyond  that  is  border  country ;  this
+side  of  it  is  the  Middle  country.  To  the  West  is
+the   Brahman    district   of  Thuna.      Beyond   that    is
+
+'  Compare  Cunningham,  'Ancient  Geography  of  India,'  I,  440;
+Childers,  Khuddaka  Pa///a,  p.  20  ;  Ahvis,  '  Introduction  to  Pali
+Grammar,'  XXIX;  Lassen,  Indische  Alterthumskunde,  I,  119
+(2nd  ed.);  Rhys  Davids,  '  Buddhist  Birth  Stories,'  p.  61.
+
+
+V,  13,  13-      RULES    FOR    FOOT-CLOTHING,    SEATS,    ETC.      39
+
+border  country ;  this  side  of  it  is  the  Middle  country.
+To  the  North  is  the  mountain  range  called  Usira-
+dha^'-a.  Beyond  that  is  border  country ;  this  side  of
+it  is  the  Middle  country.  In  such  border  countries,
+I  allow,  O  Bhikkhus,  the  upasampada  (ordina-
+tion) to  be  held  in  a  meeting  of  only  four  Bhikkhus,
+beside  the  chairman,  who  must  be  a  Vinaya-
+dhara.
+
+13.  "In  the  Southern  country  and  in  Avanti,  O
+Bhikkhus,  the  soil  is  black  on  the  surface  and  rough,
+and  trampled  by  the  feet  of  cattle.  I  allow  the  use,
+in  all  the  border  countries,  O  Bhikkhus,  of  shoes
+with  thick  linings.
+
+'  In  the  Southern  country  and  in  Avanti,  O  Bhik-
+khus, men  attach  great  importance  to  bathing,  and
+are  pure  by  use  of  water.  I  allow  the  constant
+use  of  the  bath,  O  Bhikkhus,  in  all  the  border
+countries.
+
+'  In  the  Southern  country  and  in  Avanti,  O  Bhik-
+khus, skins,  such  as  sheep-skins,  goat-skins,  and
+deer-skins,  are  used  as  coverlets.  Just  as  in  the
+Middle  country,  Bhikkhus,  the  eragu,  moragu,  ma^-
+^;^^aru,  and  ^^ntu  grasses  are  used  for  coverlets,  so
+in  the  Southern  country  and  in  Avanti  are  used
+skins,  such  as  sheep-skins,  goat-skins,  and  deer-skins.
+I  allow,  O  Bhikkhus,  the  use  of  skins,  such  as  sheep-
+skins, goat-skins,  and  deer-skins,  as  coverlets,  in  all
+the  border  countries.
+
+*  There  also,  O  Bhikkhus,  people  are  in  the  habit
+of  giving  a  set  of  robes  to  Bhikkhus  who  have  left
+the  district,  saying,  "  We  give  this  set  of  robes  to
+(a  Bhikkhu)  with  such  and  such  a  name."  I  allow
+you,  O  Bhikkhus,  to  accept  such  robes.  The  set
+of  robes  does  not  become  subject  to  the  ten-days'
+
+
+40  MAHAVAGGA.  V,  13,  13.
+
+rule,  before  it  reaches  the  hand  (of  the  person  for
+whom  it  was  intended)  ^'
+
+^  On  this  last  clause  compare  the  first  Nissaggiya,  and  our  note
+there.  The  clause  here  means  that  the  ten  days  of  the  rule  in  the
+Patimokkha  are  not  to  begin  to  run,  under  the  circumstances
+specified,  till  the  set  of  robes  has  actually  reached  the  hand  of  the
+Bhikkhu  for  whom  they  were  intended.
+
+Buddhaghosa  says  here  :  Yava  aharitva  va  na  dinna;;/  tumhaka/zz
+bhante  /tivarara  uppannan  ti  pahinitva  va  naroX'itawz,  tava  ga«ana»i
+na  upeti,  anadhi/Z/ntaw/  na  va/Zati.  Yada  pana  anetva  va  dinnaw
+hoti,  uppannan  ti  va  suta;«,  tato  pa/Maya  dasaham  eva  pariharaw
+labhati.
+
+
+VI,  I,  2.  ON    MEDICAMENTS.  4 1
+
+
+SIXTH    KHANDHAKA.
+
+(on  medicaments.)
+
+1.
+
+1.  At  that  time  the  Blessed  One  dwelt  at  Savatthi,
+in  the  6^etavana,  the  park  of  An^tha-pi;^^z^ika.  And
+at  that  time  Bhikkhus,  attacked  by  the  sickness  of  the
+hot  season  \  threw  up  the  rice-milk  they  had  drunk,
+and  the  food  they  had  eaten.  And  thereby  they
+became  lean,  rough,  ill-favoured,  yellow  and  ever
+yellower,  and  the  veins  stood  out  on  their  limbs  2.
+
+And  the  Blessed  One  saw  those  Bhikkhus  thus
+lean,  rough,  ill-favoured,  yellow  and  ever  yellower,
+and  with  the  veins  standing  out  on  their  limbs.
+And  on  seeing  it,  he  asked  the  venerable  Ananda :
+'  How  is  it,  Ananda,  that  the  Bhikkhus  are  become
+now  so  lean,  rough,  &c.  ?'
+
+*  At  this  time.  Lord,  the  Bhikkhus  are  attacked
+with  the  disease  of  the  hot  season  ;  and  they  throw
+up  the  rice-milk  they  have  drunk,  and  the  food
+they  have  eaten.  Thence  is  it  that  they  are  become
+lean,  rough,  ill-favoured,  yellow  and  ever  yellower,
+and  that  the  veins  stand  out  on  their  limbs.'
+
+2.  Then    there    occurred    to    the    mind   of    the
+
+
+1  Saradikena  abadhena  'ti  sarada-kale  uppannena  pittabadhena.
+Tasmiw  hi  kale  vassodakena  pi  tementi,  kaddaniaw  pi  maddanti,
+antarantara  atapo  pi  kharo  hoti.  Tena  tesa;«  pittas  ko///^abbhan-
+tara-gata;;/  hoti  (B.).
+
+2  Read  in  the  text  Dhamani-santata-gatta ;  and  compare  Lahta
+Vistara,  p.  226,  and  Professor  Weber's  '  Bhagavati,'  II,  289.
+
+
+42  MAHAVAGGA.  VI,  i,  3.
+
+Blessed  One,  when  meditating  alone,  this  considera-
+tion :  'At  this  time  the  Bhikkhus  (&c.,  down  to:)
+on  their  limbs.  What  medicaments  shall  I  now
+prescribe  for  the  Bhikkhus,  as  may  be  authorised
+as  common  medicine,  and  may  be  diffused  through
+the  body,  though  it  be  not  regarded  as  ordinary
+(material)  food?'  And  the  Blessed  One  thought:
+*  These  five  medicaments — that  is  to  say,  ghee,
+butter,  oil,  honey,  molasses — are  such  medicaments.
+Let  me  then  prescribe  them  as  medicines  which  the
+Bhikkhus  may  accept  at  the  right  time,  and  use
+at  the  right  time.'
+
+3.  And  in  the  evening,  when  the  Blessed  One
+had  arisen  from  his  meditation,  having  delivered
+a   religious   discourse,  he   addressed   the    Bhikkhus
+
+«
+
+in  that  connection,  saying,
+
+'  When  I  was  meditating  alone,  O  Bhikkhus,  then
+occurred  to  my  mind  this  consideration  :  "  At  this
+time  (&c.,  as  in  §  2,  down  to  :)  material  food."  Then
+I  thought :  "  These  five  {&c.,  as  in  §  2,  down  to :)  at
+the  right  time,"  I  prescribe,  O  Bhikkhus,  these  five
+things  as  medicine  to  be  accepted  at  the  right  time,
+and  to  be  used  at  the  right  time.'
+
+4.  Now  at  that  time  the  Bhikkhus  accepted  those
+five  things  at  the  right  time,  and  used  them  at
+the  rioht  time.  And  foods  which  though  rou^h,
+were  ordinary  foods,  they  could  not  digest  ^,  much
+less  greasy  foods  -.  Then  they — attacked  both  by
+the  hot-season  disease,  and  by  this  want  of  appe-
+tite^— became  by  both  at  once  still  more  lean,  rough,
+
+^  Na  >^/^>^adenti  na  ^iranti,  na  vataroga/;i  pa/ipassambhetu;;z
+sakkonti  (B.).
+
+^  Senesikani  siniddhani  (B.).     Compare  Sanskrit  snaihika.
+'  Bhatta/^/('/iandakena  'ti  bhattam  aro/i'akena  (B.).
+
+
+VI,  2,  2.  ON    MEDICAMENTS.  43
+
+ill-favoured,  yellow  and  ever  yellower,  and  with  the
+veins  standing  out  on  their  limbs.
+
+And  the  Blessed  One  saw  the  Bhikklius  thus
+still  more  lean,  &c.  And  when  he  saw  it,  he  asked
+the  venerable  Ananda  :  'How  is  it,  Ananda,  that  the
+Bhikkhus  are  become  now  still  more  lean,  &c.  ?'
+
+5.  '  At  present,  Lord,  these  Bhikkhus,  who  use
+the  five  medicaments  only  at  the  right  time,  cannot
+digest  foods  which,  though  ordinary,  are  rough,  much
+less  greasy  foods.  Then  they,  attacked  (&c.,  as  in
+§  4,  down  to :)  standing  out  on  their  limbs.'
+
+Then  the  Blessed  One  on  that  occasion,  having
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus, and  said  :  '  I  permit  you,  O  Bhikkhus,  not  only
+to  receive  those  five  medicaments,  but  to  use  them
+both  at  the  right  time,  and  at  other  times.'
+
+
+1.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  fatty  substances  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  the  fat  of
+bears,  of  fish,  of  alligators,  of  swine,  and  of  asses,
+if  received  at  the  right  time,  cooked  at  the  right
+time,  mixed  at  the  right  time,  to  be  partaken  of
+with  oil.'
+
+2.  'If  the  fat  be  received,  O  Bhikkhus,  at  the
+wrong  time,  cooked  at  the  wrong  time,  and  mixed
+at  the  wrong  time,  and  then  taken,  the  Bhikkhu
+is  guilty  of  three  dukka/a  offences.'
+
+'  If  it  be  received,  O  Bhikkhus,  at  the  right  time,
+cooked  at  the  wrong  time,  and  mixed  at  the  wrong
+
+
+44  MAHAVAGGA.  VI,  3, 1.
+
+time,  and  then  taken,  the  Bhikkhu  is  guilty  of  two
+dukka/a  offences.'
+
+*  If  it  be  received,  O  Bhikkhus,  at  the  right  time,
+cooked  at  the  right  time,  and  mixed  at  the  wrong
+time,  and  then  taken,  the  Bhikkhu  is  guilty  of  a
+dukka/a  offence.'
+
+*  If  it  be  received,  O  Bhikkhus,  at  the  right  time,
+cooked  at  the  right  time,  and  mixed  at  the  right
+time,  and  then  taken,  the  Bhikkhu  is  not  guilty.'
+
+
+3.
+
+1.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  roots  for  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  roots  as
+medicine — turmeric,  ginger,  orris  root,  white  orris
+root,  ativisa,  black  hellebore,  usira  root,  bhadda-
+muttaka,  and  whatsoever  other  roots  are  used  for
+medicine,  and  impart  an  appetising  flavour  to  foods,
+either  hard  or  soft,  which  the  sick  Bhikkhus  could
+not  otherwise  eat^  They  may  be  received,  and
+stored  up  your  life  long ;  and,  if  there  be  necessity,
+they  may  be  eaten.  If  eaten  without  necessity,  (the
+Bhikkhu  who  uses  them)  is  guilty  of  a  dukka/a
+offence.'
+
+2.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  for  medicine  of  different  sorts  of  flour
+made  from  roots.
+
+They  told  this  thing  to  the  Blessed  One.
+
+^  Literally,  'which  impart  the   quality   of  eatableness    to    not
+eatable  food,  either  hard  or  soft.'
+
+
+VI,  5,  I.  ON    MEDICAMENTS.  45
+
+'  I   allow  you,  O    Bhikkhus,  the  use  of  a  grind-
+stone, and  of  another  stone  to  grind  upon  ^'
+
+
+4.
+
+I.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  astringent  decoctions  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  astringent
+decoctions  as  medicine — the  nimba  ^  the  ku/a^a^
+the  pakkava  *,  the  nattamala  ^,  and  whatsoever  other
+astringent  roots  are  used  for  medicine,  which  impart
+an  appetising  flavour  to  foods,  either  hard  or  soft,
+which  the  sick  Bhikkhus  could  not  otherwise  eat.
+They  may  be  received,  and  stored  up  your  life
+long ;  and,  if  there  be  necessity,  they  may  be  eaten.
+If  eaten  without  necessity,  (the  Bhikkhu  who  uses
+them)  is  guilty  of  a  dukka/a  offence.'
+
+
+5.
+
+I.    Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  leaves  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  allow  you,  O  Bhikkhus,  the  use  of  leaves  as
+
+
+*  Compare  the  Sanskrit  root  puth.  Buddhaghosa  says  :  Pisana-
+sila  ka.  pisana-poto  ka..  Pestle  and  mortar  is  in  Pali  udukkhalam
+musala?l  ^a  :  see  below,  VI,  9,  2 .
+
+2  Azadirachta  Indica.     Compare  Mahavagga  III,  12,  5.
+'  Wrightia  anti-dysenterica.     Wise,  p.  142,  gives  the  botanical
+name  as  Echites  anti-dysenterica,  and  says  it  is  an  emetic.
+
+*  A  kind  of  creeper,  says  Buddhaghosa.
+
+6  Pongania  Glabra  (the  same  as  Kara?Va,  says  Buddhaghosa).
+
+
+46  mahAvagga.  VI,  6,  i.
+
+
+medicine — the  leaves  of  the  nimba\  of  the  ku/a^a\
+of  the  pa^fola  ^  of  the  tulasi  ^  of  the  kappasika  ^  and
+whatsoever  other  leaves  are  used  for  medicine,
+and  impart  an  appetising  flavour  to  foods,  either
+hard  or  soft,  which  the  sick  Bhikkhus  could  not
+otherwise  eat.  They  may  be  received,  and  stored
+up  (&c.,  as  in  last  chapter,  down  to  :)  guilty  of  a
+dukka/a  offence.'
+
+
+6.
+
+I.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  fruits  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  fruits  as
+medicine — the  vi/ariga^  the  pippala^  and  marina
+peppers;  the  haritaka"^,  and  vibhitaka^  and  imalaka^
+myrobalans ;  the  go//^a  fruit  ^°;  and  whatsoever  other
+fruits  are  used  for  medicine,  and  impart  an  appetis-
+ing flavour  to  foods,  either  hard  or  soft,  which  the
+
+
+'  See  the  last  chapter  for  these  plants.
+
+"^  A  species  of  cucumber,  Trichosanthes  Dioeca.
+
+^  That  is,  basil ;  but  the  reading  is  conjectural  only.  The  text
+has  sulasi.
+
+*  This  is  ordinary  cotton.  ^  Erycibe  Paniculata.
+
+«  This  is  not  the  Ficus  Religiosa,  but  simply  pepper.  Childers,
+following  Subhuti's  edition  of  the  Abhidhanappadipika,  spells  both
+this  word  and  the  allied  form  Pippali  with  pph  instead  of  pp.  So
+also  FausboU  at  G^fitaka,  vol.  i,  p.  29,  verse  218.  We  prefer  the
+spelling  with  pp  in  accordance  with  the  Sanskrit.
+
+■^  Yellow  myrobalan.  ^  Beleric  myrobalan.
+
+"  Emblic  myrobalan.
+
+^"  We  cannot  suggest  any  explanation  of  this  word.  Buddha-
+ghosa  has  no  comment  on  any  of  these  medicinal  fruits  or  seeds.
+
+
+VI,  8,  I.  ON    MEDICAMENTS.  47
+
+sick  Bhikkhiis  coukl  not  otherwise  eat.  They  may
+be  received  and  stored  up  (&c.,  as  in  chap.  4,  down
+to  :)  guilty  of  a  dukka/a  offence.'
+
+
+7.
+
+I.  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  various  kinds  of  gum  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  gums  as
+medicine — hihgu  ^  hiiigu  lac,  sipa/ika  ^,  taka  ^  taka-
+patti^,  taka-pa;/;;i  ^  sa;f^ulasa'*,  and  whatsoever  other
+gums  are  used  for  medicine,  and  impart  (&c.,  as  in
+chap.  4,  down  to  :)  is  guilty  of  a  dukka/a  offence.'
+
+
+8.
+
+I.    Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  various  kinds  of  salt  ^  as  medicine.
+They  told  this  thing  to  the  Blessed  One.
+*  I    allow  you,    O   Bhikkhus,   the  use   of  salts   as
+
+^  Ferula  assa  foetida.  Bohtlingk-Roth  (sub  voce)  say  it  comes
+from  Pt'rsia.  It  is  much  used  in  Hindu  medicine.  See  Wise,
+'  Hindu  System  of  Medicine,'  pp.  152-154.
+
+^  The  correct  spelling  is  probably  siva/ika.  Bohtlingk-Roth
+under  .Siva/ika  and  Hingu-jiva/ika  say  it  is  the  same  as  Vawja-
+pattri.
+
+'  Buddhaghosa  merely  says  these  are  kinds  of  lac.  According
+to  Wise,  p.  152,  laksha  is  used  as  errhine.
+
+*  Resin.
+
+^  On  these  salts  compare  Abhidhanappadipika,  verse  461;
+Sujruta.  vol.  i,  pp.  226,  227,  of  the  edition  by  Madhusudana  Gupta;
+Wise,  'Hindu  Medicine/  p.  117.
+
+
+48  MAHAVAGGA.  VI,  9,  i.
+
+medicine — sea-salt  \  black  salt  ^  rock  salt  ^,  kitchen
+salt  *,  red  salt  ^,  and  whatsoever  other  salts  are  used
+in  medicine  (&c,,  as  in  chap.  4,  down  to  :)  is  guilty  of
+a  dukka/a  offence.'
+
+
+9«.
+
+I.  Now  at  that  time  the  venerable  Bela/Masisa,
+the  superior  of  the  venerable  Ananda,  had  a  disease
+of  thick  scabs ;  and  by  reason  of  the  discharge
+thereof  his  robes  stuck  to  his  body.  The  Bhikkhus
+moistened  those  robes  with  water,  and  loosened
+them  (from  his  body).
+
+The  Blessed  One  as  he  was  wandering  in  search
+of  a  lodging-place  for  the  night  saw  them  [doing  so],
+and  going  up  to  the  place  where  they  were,  he
+asked  them  :
+
+'What  is  the  matter,  O  Bhikkhus,  with  this
+Bhikkhu?'
+
+*  The  venerable  one  has  the  disease  of  thick
+scabs ;  and  by  reason  of  the  discharge  thereof  his
+robes  stick  to  his  body.  So  we  moisten  those  robes
+with  water,  and  loosen  them  (from  his  body).'
+
+
+^  Samuddika  'ti  samudda-tire  valuka  viya  ti//>^ati  (B.).
+
+^  Ka/a-lo«an  ti  pakati-lowaw  (B.).
+
+^  Sindhavan  ti  seta-vaz/waw :  pabbate  u///zahati  (B.).  It  was  pro-
+bably called  Sindh  salt  because  it  was  found  there,  though,  like
+Sindhava  horses,  it  is  always  supposed  to  be  white.
+
+*  Ubbhida  'ti  bhummito  ankuya/w  (sic)  u//^ahati  (B.),
+
+*  Bilan  ti  dabba-sambharehi  saddhi^?z  pa^itaw :  taw  ratta-va««a»t
+(B.).  It  is  Sanskrit  vi^/a,  Hindustani  bi/  laban,  and  the  same  as
+bilala  in  the  Abhidhanappadipika.
+
+*  This  introductory  story  recurs  as  the  introduction  to  the  rule
+laid  down  in  VIII,  17.
+
+
+VI,  10,  2.  ON    MEDICAMENTS.  49
+
+2.  Then  the  Blessed  One  on  that  occasion,  having
+dehvered  a  reHgious  discourse,  addressed  the  Bhik-
+khiis,  and  said  :
+
+'  I  allow,  O  Bhikkhus  the  use  of  chunam  as  a
+medicine  by  whomsoever  has  the  itch,  or  boils,  or
+a  discharge,  or  scabs,  or  whose  body  is  ill-smelling,
+and  to  those  in  health  the  use  of  dry  dung\  and
+of  clay,  and  of  colouring  matter  -.  I  allow  the  use,
+O  Bhikkhus,  of  a  pestle  and  mortar  •\'
+
+
+10.
+
+1,  Now  at  that  time  the  Bhikkhus  who  were  sick
+had  need  of  sifted  ^  chunam  as  medicine.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  chunam  sieve.'
+
+They  had  need  of  the  chunam  very  fine.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  cloth  sieve.'
+
+2.  Now  at  that  time  a  certain  Bhikkhu  had  a
+disease  not  human.  Though  his  teacher  and  his
+superior  nursed  him,  they  were  not  able  to  make
+him  well.  He  went  to  a  place  where  swine  were
+slaughtered,  and  ate  the  raw  flesh,  and  drank  the
+blood.     Thereby  his  sickness  abated.
+
+They  told  this  thing  to  the  Blessed  One.
+'  I  allow,  O  Bhikkhus,  in  the  case  of  a  disease  not
+human,  the  use  of  raw  flesh  and  of  blood.'
+
+^  A'^akanan  ti  goniaya;«  (B.).
+
+"^  Ra^ana-pakkan  (sic)  li  ra^anakasa/aw.  Paka/ika-/('u;/«am  pi
+ko/etva  udakena  temetva  nhayitu///  va//ati,  etam  pi  ra^orana-nipakka-
+sawkhepam  (sic,  read  saz^^kham)  eva  ga^^^ati  (B.).  Sa/aw  in  this
+passage  must  be  equal  to  jr/taw.  On  sawkhaw  compare  below,
+IMahavagga  VI,  i6,  i.
+
+^  Compare  above,  VI,  3,  2.
+
+*  A'aleti  has  often  a  more  definite  meaning  than  '  shake.'  Com-
+pare Gataka  I,  71.
+
+[17]  E
+
+
+50  MAHAVAGGA.  VI,  ii,  I.
+
+
+11.
+
+1.  Now  at  that  time  a  certain  Bhikkhu  had  dis-
+ease of  the  eyes.  They  used  to  carry  that  Bhikkhu
+out  to  ease  himself.  The  Blessed  One  as  he  was
+passing  through  the  Bhikkhus'  sleeping  quarters
+saw  them  [doing  so].  When  he  saw  them,  he  went
+up  to  the  place  where  they  were,  and  asked  those
+Bhikkhus  :
+
+'  What  is  the  disease,  O  Bhikkhus,  from  which  this
+Bhikkhu  suffers  ?'
+
+2.  '  This  venerable  one,  Lord,  has  disease  of  the
+eyes.  Therefore  do  we  carry  him  out  to  ease
+himself.'
+
+Then  the  Blessed  One,  on  that  account,  having
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus, and  said  :
+
+'  I  allow,  O  Bhikkhus,  the  use  of  eye  ointments  ^ ;
+to  wit,  black  collyrium  ^,  rasa  ointment^,  sota  oint-
+ment *,  geruka  ^,  and  kapalla  ^.'
+
+They  had  need  of  perfumes  to  grind  up  into
+ointments.
+
+
+^  Aw^ana,  which  is  here  a  generic  term,  inclusive  of  all  the  fol-
+lowing ;  sabba-sawgahika-va-^anaw,  says  Buddhaghosa.
+
+'^  Kala.iiga.na.n  ti  eka  a?lo'ana-_§-ati  (B.).
+
+'  Rasaw^anan  ti  nana-sambharehi  kataw  (B.).  Bohtlingk-Roth
+say  it  is  made  with  vitriol.
+
+*  SotaTi^anan  ti  nadisotadisu  uppa^^anakaw  ang2ina.m  (B.).  It
+is  called  in  Sanskrit  srotow^ana,  and  was  made  with  antimony.
+
+^  Geruka  is  the  Sanskrit  gairika,  ochre;  and  the  kind  meant
+is  yellow  ochre.  Geruko  nama  suva««a-geruko,  says  Buddha-
+ghosa. Compare  the  Sanskrit  KaTi^ana-gairika  and  svar«a-
+gairika.
+
+®  Kapallan  ti  dipa-sikhato  gahita-masi,  'soot  taken  from  the
+flame  of  a  lamp'  (B.).
+
+
+VI,  12,  1.  ON    MEDICAMENTS.  51
+
+
+'  I  allow,  O  Bhikkhus,  the  use  of  sandal  wood,
+tagaraS  black  anusari -,  kaliya  ^  and  bhadda-
+muttaka  *.'
+
+
+12.
+
+I.  Now  at  that  time  the  Bhikkhus  used  to  put
+pulverised  ointments  into  pots  and  saucers.  They
+became  sprinkled  over  with  herb-powders  and  dust.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  box  for  oint-
+ment'
+
+Now  at  that  time  the  A'/zabbaggiya  Bhikkhus  used
+to  carry  about  various  kinds  of  boxes  for  ointments
+— gold  ones,  and  silver  ones.  People  were  annoyed,
+murmured,  and  became  angry,  saying,  '  Like  those
+who  still  live  in  the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'Various  kinds  of  boxes  for  ointments,  gold  ones,
+and  silver  ones,  are  not,  O  Bhikkhus,  to  be  used.
+Whosoever  does  so,  is  guilty  of  a  dukka/a  offence.
+I  allow,  O  Bhikkhus,  the  use  of  such  boxes  made
+of  bone,  or  ivory,  or  horn,  or  of  the  na/a  reed,
+or  of  bambu,  or  of  wood,  or  of  lac,  or  of  the  shells  of
+fruit,  or  of  bronze,  or  of  the  centre  of  the  chank-
+shell ':
+
+
+^  Tagara  as  a  fragrant  flower  is  mentioned  in  verse  54  of  the
+Dhammapada  quoted  in  Milinda  Pa?lha,  p.  333-
+
+^  A  kind  of  dark  fragrant  sandal  wood.
+
+»  Read  so  in  the  text  as  corrected  on  p.  381.     It  is  a  kind  of
+sandal  wood.
+
+*  A  perfume  made  from  the  grass  of  the  same  name  (mentioned
+above,  VI,  3).
+
+^  Sahkha-nabhi,  the  meaning  of  the  latter  part  of  which  com-
+pound is  not  quite  clear.
+
+E    2
+
+
+52  MAHAVAGGA.  VI,  I2,  2.
+
+2.  Now  at  that  time  the  boxes  of  ointment  had
+no  lid.  (The  ointment)  was  sprinkled  over  with
+herb-powders  and  dust.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  lid.'
+
+The  lids  used  to  fall  off.
+
+'  I  allow  you,  O  Bhikkhus,  to  fasten  the  lid  with
+thread,  and  to  tie  it  on  to  the  box.-^'
+
+The  boxes  used  to  fall.
+
+'  I  allow  you,  O  Bhikkhus,  to  sew  the  boxes  on
+with  thread^.'
+
+3.  Now  at  that  time  the  Bhikkhus  used  to  rub
+the  ointment  on  with  their  fingers :  and  the  eyes
+were  hurt.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  stick  or  holder
+to  put  the  ointment  on  with.'
+
+Now  at  that  time  the  A'/^abbaggiya  Bhikkhus
+used  to  keep  various  kinds  of  ointment-sticks — gold
+ones,  and  silver  ones.  People  were  annoyed,  mur-
+mured, and  became  angry,  saying,  *  Like  those  who
+still  live  in  the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Various  kinds  of  ointment-holders,  O  Bhikkhus,
+are  not  to  be  used.  Whosoever  does  so,  is  guilty
+of  a  dukka^a  offence.  I  allow,  O  Bhikkhus,  the
+use  of  ointment-holders  of  bone,  or  of  ivory,  or  of
+horn,  or  of  the  na/a  reed,  or  of  bambu,  or  of  wood,
+or  of  lac,  or  of  fruit,  or  of  bronze,  or  of  the  chank-
+shell.'
+
+^  Buddhaghosa  has  no  comment  on  this.  It  may  mean  that  the
+ointment  boxes  might  be  sewn  either  on  to  some  place  in  the
+Vihara,  or  on  to  some  part  of  the  Bhikkhu's  dress.  The  latter  is
+more  in  accordance  with  §  4  below.
+
+
+VI,  13, 1.  ON    MEDICAMENTS.  53
+
+4.  Now  at  that  time  the  ointment-sticks  used  to
+fall  on  the  ground  and  become  rough.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  case  for  the
+ointment-sticks  \'
+
+Now  at  that  time  the  Bhikkhus  used  to  carry  the
+ointment-boxxes  and  ointment-sticks  about  in  their
+hands.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  bag  to  put  the
+ointment-box  in.'
+
+They  had  no  shoulder  strap.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  shoulder  strap
+(by  which  to  carry  the  ointment-box),  or  of  a  thread
+(by  which  to  sew  or  tie  it  on).'
+
+
+13.
+
+I.  Now  at  that  time  the  venerable  Pilindava/'/'/^a
+had  head-ache^.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  little  oil  on  the
+head.'
+
+(The  disease)  became  no  better  ^
+
+'  I  allow,  O  Bhikkhus,  the  practice  of  taking  up
+(medicine)  through  the  nose  •*.'
+
+^  Salakodhaniyanti  yattha  salakawz  odahanti  susiradantakaw
+va  thalika;«  va  anu^anami  'ti  attho  (B.).
+^  Sisabhitapo,  literally  'heat  in  the  head.'
+'  Compare  Maha-parinibbana  Sutta  II,  31,  and  below,  13.  2;
+
+14.  3-
+
+*  Natthu-kamma.     In  the  commentary  on  the  Dhammapada,
+
+pp.  83  and  foil.,  there  is  an  example  of  the  way  in  which  a  physician
+administers  medicinal  oil  in  this  manner  to  a  sick  Bhikkhu.
+
+
+54  MAHAVAGGA.  VI,  13,  2.
+
+The  nose  ran.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  nose-spoon  \'
+
+Now  at  that  time  the  A'/zabbaggiya  Bhikkhus
+had  various  kinds  of  nose-spoons — made  of  gold,
+and  of  silver.  People  were  annoyed,  murmured,  and
+became  angry,  saying,  '  Like  those  who  still  live  in
+the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Various  kinds  of  nose-spoons,  O  Bhikkhus,  are
+not  to  be  used.  Whosoever  does  so,  is  guilty  of
+a  dukka/a  offence.  I  allow,  O  Bhikkhus,  the  use
+of  such  nose-spoons  made  of  bone  {&c.,  as  in  chap.
+12.  I,  down  to  :)  or  of  the  chank-shell.'
+
+2.  The  nose  took  up  the  medicament  in  unequal
+proportions.
+
+*  I  allow,  O  Bhikkhus,  the  use  of  a  double  nose-
+spoon  2.'
+
+(The  disease)  became  no  better.
+
+*  I  allow  you,  O  Bhikkhus,  to  sniff  up  the  aroma.'
+They  used  to  spread  the  drugs  on  a  wick  before
+
+they  sniffed  up  the  aroma  ^ :  and  their  throats  got
+burnt.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  pipe  to  conduct
+the  aroma.'
+
+Now  at  that  time  the  iT/zabbaggiya  Bhikkhus  had
+various  kinds  of  pipes  (&c.,  as  in  the  last  clauses  of
+J  I,  down  to  the  end).
+
+
+^  Natthu-karawi,  that  is,  an  instrument  to  hold  up  the  nose,
+so  that  the  medicinal  oil  does  not  run  out.
+
+2  Yamaka-natthu-kara«i,  that  is,  one  that  would  go  up  both
+nostrils.  The  last  sentence  of  §  i  would  come  in  better  after  this
+clause.
+
+^  They  used  to  burn  the  drugs  by  smearing  them  on  wicks,  and
+then  inhale  the  smoke  through  their  nostrils.
+
+
+VI,  14,  I.  ON    MEDICAMENTS.  55
+
+
+Now  at  that   time  the   aroma-pipes   came  open  :
+and  worms  got  in.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  lid  to  the  pipes.'
+
+Now  at  that  time  the  Bhikkhus  carried  the  pipes
+about  in  their  hands.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  bag  to  carry
+the  aroma-pipes  in.'
+
+The  aroma-pipes  rubbed  against  one  another.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  double  bag.'
+
+They  had  no  shoulder  strap.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  a  shoulder  strap
+(by  which  to  carry  the  double  bag),  or  of  a  thread
+(by  which  to  sew  it  on).'
+
+
+14.
+
+I.  Now  at  that  time  the  venerable  Pilindava/'/{7/a
+was  troubled  with  wind  in  the  stomach  \  The
+physicians  said  he  must  drink  oil.
+
+'  I  allow  you,  O  Bhikkhus,  a  decoction  of  oil.'
+
+It  was  necessary  to  put  strong  drink  into  the
+decoction.
+
+*  I  allow  you,  O  Bhikkhus,  to  put  strong  drink  in
+decoctions  of  oil.'
+
+Now  at  that  time  the  TiT^abbaggiya  Bhikkhus
+used  to  put  too  much  strong  drink  into  their  decoc-
+tions of  medicinal  oils  :  and  they  got  drunk.
+
+'  Oil  should  not  be  drunk,  O  Bhikkhus,  when  too
+much  strong  drink  has  been  put  into  it.  Whosoever
+does  so,  shall  be  dealt  with  according  to  law "''.'
+
+'  I  allow  you,  O  Bhikkhus,  to  drink  such  decoctions
+
+
+1  Compare  chapter  17.  ''See  the  51st  PaX-ittiya.
+
+
+56  MAHAVAGGA.  VI,  14,  2.
+
+of  oil  with  Strong  drink  in  them,  as  wherein  neither
+the  colour,  nor  the  smell,  nor  the  taste  of  the  strong
+drink  shall  be  sensible.'
+
+2.  Now  at  that  time  the  Bhikkhus  had  a  quantity
+of  decoction  in  which  too  much  strong  drink  had
+been  put.  Then  those  Bhikkhus  thought :  '  What
+shall  we  do  with  this  oil,  which  has  too  much  strong
+drink  in  it  ? '
+
+'  I  allow,  O  Bhikkhus,  to  use  it  as  an  ointment.'
+Now  at  that   time    the  venerable    Pilindava/^/^>^a
+
+had  a  quantity  of  oil-decoction  ;  but  he  had  no  vessel
+
+for  it.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  three  kinds
+
+of  pots,  bronze  pots,  wooden  pots,  pots  made  of  the
+
+shells  of  fruits  \'
+
+3.  Now  at  that  time  the  venerable  Pilindava/('Z7^a
+had  rheumatism.
+
+'  I  allow  you,  O  Bhikkhus,  to  bring  on  sweating  -.'
+
+(The  disease)  became  no  better.
+
+'  I  allow  you,  O  Bhikkhus,  to  bring  on  sweating
+by  the  use  of  herbs  which  have  that  effect  ^!
+
+(The  disease)  became  no  better.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  a  great
+steam  bath"^.'
+
+(The  disease)  became  no  better.
+
+^  Compare  VI,  12,  i.  ^  Perhaps  fumigations.
+
+'  Sambhara-sedan  ti  nanavidha-pa««a-bhafiga-seda?«  (B.).
+Apparently  a  poultice  or  fomentation  in  which  various  kinds  of
+leaves  or  twigs  are  used.
+
+*  Mahasedan  ti  mahantaw/  sedawi :  porisa-ppamawaw  ava/am
+afigarana?«  puretva,  pawsu-valikadihi  pidahitva,  tattha  nanavidhani
+vata-hara«a-pa««ani  santharitva  tela-makkhitena  gattena  tattha  ni-
+pa^^tva  samparivattantena  sariraz^  sedetuw  anu^anamiti  attho  (B.).
+A  pit,  six  feet  deep,  is  filled  with  charcoal,  and  covered  with  a  coat-
+ing of  earth  or  sand.     The  leaves  good  for  rheumatism  are  spread
+
+
+VI,  14,  4-  ON    MEDICAMENTS.  57
+
+'  I  allow  you,  O  Bhikkluis,  the  use  of  hemp-water
+(bang)  \'  ^
+
+(The  disease)  became  no  better.
+
+'  I  allow  you,  O  Bhikkhus,  the  use  of  hot  baths
+in  water  in  which  medicinal  herbs  have  been
+steeped  ^.'
+
+4.  Now  at  that  time  the  venerable  Pilindava/'/C7/a
+had  intermittent  ague.  ,
+
+'  I  allow,  O  Bhikkhus,  the  letting  of  blood.'
+
+(The  disease)  became  no  better.
+
+'  I  allow  you,  O  Bhikkhus,  to  make  use  of  a  horn
+to  let  blood  ^'
+
+Now  at  that  time  the  feet  of  the  venerable  Pilin-
+dava/'/7/a  were  blistered.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  ointment  for  the
+feet.'
+
+(The  disease)  became  no  better.
+
+
+over  the  sand.  The  patient  reposes  on  the  leaves  on  the  aflfected
+hmb,  which  has  been  rubbed  over  with  oil ;  and  turns  over  and
+over  until  his  whole  body  has  been  well  steamed.
+
+^  Bhahgodakan  ti  nana-pa««a-bhahga-kudhita-udakaw.  Tehi
+pa;/;/ehi  Aa.  udakena  ^a  sift/^itva  sedetabbo  (B.).  Bhahga  may  here
+mean  'broken  bits,'  namely,  of  the  leaves,  just  as  sakha-bhahga
+at  G^ataka  1, 158  means  'twig.'  Compare  uttari-bhahga,  Gataka
+I,  197,  349;  Dhammapada  171;  A'ullavagga  VIII,  4,  4;  sarira-
+bhahga,  Maha-parinibbana  Sutta  VI,  59;  and  bhahga  alone  at
+Gataka  I,  392;  Mahavagga  I,  25,  10;  Rh.  D.,  'Buddhist  Sultas
+from  the  Pali,'  p.  241.     For  kudhita  we  should  read  kuthita.
+
+^  Dakako///;akan  ti  udaka-ko/Mawi  kMm  va  do//i/;/  va  u«ho-
+dakassa  puretva  tattha  tattha  pavisitva  seda-kamma-kara«a;«  anu-
+^anamiti  attho  (B.).     Compare  Dhammapada,  p.  103.
+
+^  Wise,  p.  176,  says, '  The  local  accumulation  of  bad  blood  may
+be  removed  by  means  of  cupping,  whicli  is  performed  by  a  horn,
+cut  smooth  and  even  at  the  large  extremity,  and  with  a  small  open-
+ing at  the  narrow  end.'  Compare  Sujruta,  Sutrasthana,  chap.  27,
+and  6'arirasthana,  chap.  8  (at  the  end).
+
+
+58  MAHAVAGGA,  VI,  14,  5.
+
+
+'  I  allow  you,  O  Bhikkhus,  to  keep  water  ready
+for  washing  the  feet  (of  travellers) \'
+
+Now  at  that  time  a  certain  Bhikkhu  had  boils.
+'  I  allow,  O  Bhikkhus,  the  use  of  the  lancet.'
+Decoctions  of  astringent  herbs  were  required.
+
+*  I  allow,0  Bhikkhus,  decoctions ofastringent  herbs  2.'
+Sesamum  salve  was  required.
+
+*  I  allow,  O  Bhikkhus,  the  use  of  sesamum  salve  ^'
+5.    Compresses  were  required.
+
+*  I  allow,  O  Bhikkhus,  the  use  of  compresses  *.'
+It  was  necessary  to  tie  up  the  sore  with  cloth.
+
+'I  allow,  O  Bhikkhus,  the  use  of  bandages  for
+tieing  up  wounds.'
+
+The  sore  itched.
+
+'  I  allow,  O  Bhikkhus,  the  sprinkling  of  a  sore
+with  mustard-powder^.'
+
+The  sore  became  moist  ^.
+
+*  I  allow  you,  O  Bhikkhus,  to  fumigate  (the  sore).'
+Proud  flesh  formed  on  the  wound  '^.
+
+'  I  allow  you,  O  Bhikkhus,  to  cut  off  (proud  flesh)
+with  a  lancet.'
+
+^  This  would  seem  to  be  a  preventive  remedy.  Water  may  be
+kept  ready,  so  that  the  incoming  Bhikkhus  may  use  it,  and  their
+feet  therefore  may  not  become  blistered.  But  perhaps  pa^^a  here
+means  some  curative  application  of  water  to  the  feet,  such  as  cold
+water  bandages,  for  example.  Compresses  (.?  poultices)  are  men-
+tioned below  (§  5)  for  boils.
+
+^  Compare  chapter  4.
+
+2  Buddhaghosa  explains  tila-kakka  as  ground  sesamum  seeds
+(pi/Mehi  tilehi  attho);  but  kalka  is  paste  or  salve.    See  Wise,  p.  1 29.
+
+*  Kaba/ikan  ti  (MS.  pakalikan)  vawa-mukhe  sattu-pi«(faw
+pakkhipitu7«  (B.).     Compare  Bohtlingk-Roth,  sub  voce  kavalika.
+
+^  Sasapa-pi/Z/zena,  says  Buddhaghosa.
+
+^  Compare  the  quotations  from  Sujruta  in  Bohtlingk-Roth
+under  klidyati.
+
+''  Yana.-  (MS.  viddhaw)  mawsan  ti  adhika-ma/?isaw :  am  viya
+u///^ahati  (B.).
+
+
+VI,  14,  6.  ON    MEDICAMENTS.  59
+
+The  wound  would  not  close  up.
+
+'  I  allow,  O  Bhikkhus,  the  use  of  oil  for  wounds,'
+
+The  oil  ran  over.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  allow,  O  Bhikkhus,  the  use  of  fine  rags  \  and
+of  all  kinds  of  ways  of  treating  wounds.'
+
+6.  Now  at  that  time  a  certain  Bhikkhu  was  bitten
+by  a  snake.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  allow,  O  Bhikkhus,  the  four  kinds  of  filth  to
+be  given — dung,  urine,  ashes,  and  clay.'
+
+Now  the  Bhikkhus  thouoht :  '  Are  these  thingrs
+among  those  which  may  be  taken  even  without
+being  offered  to  us  by  others,  or  among  things
+which  cannot  be  taken  unless  they  are  offered  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  allow  these  things,  O  Bhikkhus,  to  be  accepted
+if  any  one  be  there  to  offer  them  ^  and  if  not,  then
+that  you  may  take  them  yourselves  and  use  them.'
+
+Now  at  that  time  a  certain  Bhikkhu  had  drunk
+poison.
+
+'  I  allow  you,  O  Bhikkhus,  to  give  (as  an  emetic)
+a  decoction  of  dung.'
+
+Then  the  Bhikkhus  thought :  '  Is  this  among  those
+things  which  may  be  taken  even  without  being
+offered  to  us  by  others,  or  is  it  among  things  which
+cannot  be  taken  unless  they  are  offered  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  rule,  O  Bhikkhus,  that  there  is  a  proper  taking
+when  a  man  takes  what  he  himself  has  made ;   and
+
+
+^  Vikasikan  ti  tela-ruddhana-pilotikaw  (B.).    See  VIII,  2.
+^  A  kappiya-karaka  is  one  who    by  oflfering  a  thing  to  a
+Bhikkhu,  makes  that  thing  kappiya,  allowable,  to  the  Bhikkhu.
+
+
+6o  MAHAVAGGA.  VI,  14,  7.
+
+that  such  a  thing  need  not  be  received  again  from
+others.'
+
+7.    Now  at  that  time  a  certain  Bhikkhu  suffered
+from  the  ghara-dinnaka^  disease.
+
+'  I  allow  you,  O   Bhikkhus,  to  give  him  to  drink
+a  decoction  of  soil  turned  up  by  the  plough  2.'
+
+Now  at  that  time  a  certain  Bhikkhu  had  consti-
+pation ^
+
+'  I  allow  you,  O  Bhikkhus,  to  give  him  a  decoction
+of  the  ashes  of  burnt  rice  *.'
+
+Now  at   that   time    a    certain   Bhikkhu    had   the
+jaundice.
+
+'  I   allow   you,  O    Bhikkhus,  to    give   to    drink   a
+decoction  made  with  (cows')  urine  ^'
+
+Now  at  that  time  a  certain   Bhikkhu  had   skin
+disease.
+
+'  I    allow,  O    Bhikkhus,  the    anointing  with   per-
+fumes.'
+
+Now  at  that  time  a  certain  Bhikkhu  had  a  super-
+fluity of  humors  in  his  body  ^'
+
+'  I  allow  you,  O  Bhikkhus,  to  give  a  purgative.'
+
+Clarified  gruel  was  required.
+
+
+*  Ghara-dinnakan  ti  vasikara«a-pana-samu////ita-rogo,  'a
+disease  arising  from  a  philter,  which  when  given  brings  another
+into  one's  power'  (B.).  He  was  bewitched,  was  suffering  from
+the  results  of  sorcery.
+
+2  Sitalo/in  ti  nangalena  kasantassa  phale  lagga-mattikaw
+udakena  alo/etva  payetuwi  anu^anamiti  attho  (B.).
+
+^  Du///;agaha«iko  'ti  vipanna-gaha^^iko.  KikkhenB.  u/^Mro
+nikkhamatiti.  Compare  Rh.  D.,  '  Buddhist  Suttas  from  the  Pali,'
+p.  260  note.
+
+*  Amisakharan  ti  sukkhodana;;z  ^/^apetva  taya  Marikaya
+paggharita;?^  kharodakaw  (B.).
+
+^  INIutta-haritakan  ti  gomutta-paribhavitaw  haritakara  (B.).
+"  Abhisannakayo'tiussanna-dosa-kayo(B.).  Dosa  is  a  disturb-
+ance of  the  so-called  humors  in  the  body.     Compare  VIII,  i,  30.
+
+
+VI,  15,  I.  ON    MEDICAMENTS.  6 1
+
+
+'  I  allow,  O  Bhikkhus,  the  use  of  clarified  gruel.'
+Natural  juice  was  required  ^
+'  I  allow,  O  Bhikkhus,  the  use  of  natural  juice.'
+Artificial  and  natural  juice  was  required'^.
+
+*  I   allow,  O   Bhikkhus,  the   use    of  artificial   and
+natural  juice.'
+
+Meat  broth  was  required  ^.
+
+*  I  allow,  O  Bhikkhus,  the  use  of  meat  broth.'
+
+
+15.
+
+I.  Now  at  that  time  the  venerable  Pilindava/'/7^a
+had  a  mountain  cave  at  Ra^agaha  cleared  out,  with
+the  object  of  making  it  into  a  cave  dwelling-place.
+And  the  Magadha  king  Seniya  Bimblsara  went  to
+the  place  where  the  venerable  Pilindava/['/7^a  was ;
+and  when  he  had  come  there,  he  saluted  the  vene-
+rable Pilindava-('/C7/a,  and  took  his  seat  on  one  side.
+
+And  when  he  was  so  seated  the  Magadha  king
+Seniya  Bimbisara  said  to  the  venerable  Pilinda-
+\2ikkh2.,  '  What  is  it  that  my  Lord,  the  Thera,  is
+having  done  ?'
+
+'  I  am  having  a  cave  cleared  out,  with  the  object
+of  making  it  into  a  cave  dwelling-place.'
+
+'  Do  you  then.  Sir,  require  an  aramika  (a  park-
+keeper)  ?'
+
+'  Not  so,  great  king !  A  park-keeper  has  not  been
+prescribed  by  the  Blessed  One.'
+
+'  Then,  Sir,  enquire  of  the  Blessed  One  (concern-
+ing this  matter),  and  let  me  then  know.'
+
+^  Aka/a-yiisan  ti  asiniddho  mugga-pa>^ita-pariyo  (B.).
+"^  Ka/aka/an  ti  so  -^a  baddhoka-siniddho  (B.).
+*  Compare  chap.  23.  1-8.
+
+
+62  MAHAVAGGA.  VI,  15, 2.
+
+
+'Very  well,  O  King!'  said  the  venerable  Pilinda-
+\2ikkJi2L  in  assent  to  the  Magadha  king  Seniya  Bim-
+bisara.
+
+2.  Then  the  venerable  Pilindava/^/C7^a  taught  and
+incited  and  roused  and  gladdened  the  Magadha  king
+Seniya  Bimbisara  with  religious  discourse.  And
+the  Magadha  king  Seniya  Bimbisara,  when  he  had
+been  taught  &c.  by  the  religious  discourse,  rose
+from  his  seat,  and  bowed  down  before  the  venerable
+Pilindava/^/^^a,  and  passing  round  him  with  his  right
+side  towards  him,  departed  thence.
+
+Then  the  venerable  Pilindava/{'/17^a  sent  a  mes-
+sage to  the  Blessed  One,  saying,  '  Lord !  the
+Magadha  king  Seniya  Bimbisara  desires  to  present
+me  with  a  park-keeper.  What  am  I,  therefore.
+Lord,  to  do  ?'
+
+Then  the  Blessed  One,  in  that  connection,  after  deli-
+vering a  religious  discourse,  said  to  the  Bhikkhus  :
+
+*  I  allow  you,  O  Bhikkhus,  the  accepting  of  a  park-
+keeper.'
+
+3.  And  a  second  time  the  Magadha  king  Seniya
+Bimbisara  went  to  the  place  where  the  venerable
+Pilindava/^Ma  was;  and  when  he  had  come  there
+he  saluted  the  venerable  Pilindava/C'/^/za,  and  took
+his  seat  on  one  side.
+
+And  when  he  was  so  seated  the  Magadha  king
+Seniya  Bimbisara  said  to  the  venerable  Pilinda-
+vaX'/C7^a,  '  Has  the  Blessed  One  allowed  a  park-
+keeper  ?'
+
+'Yes,  O  King!'
+
+'  Then,  Sir,  I  will  present  a  park-keeper  to  you.'
+Now  the  Magadha  king  Seniya  Bimbisira,  after
+he  had  (thus)  promised  a  park-keeper  to  the  vene-
+rable Pilindava/i'/(72a,  forgot  it.     And  after  a  time  he
+
+
+VI,  15.  5-  ON    MEDICAMENTS.  63
+
+
+recovered  recollection  of  it,  and  addressed  a  certain
+minister  who  had  charge  of  general  affairs,  and  said  :
+'  The  park-keeper  whom  I  promised  to  the  venerable
+one,  has  he  been  given  to  him  ?'
+'  No,  your  Majesty!'
+
+'  How  long  is  it  then,  good  Sir,  since  that  was
+determined?'
+
+4.  Then  that  minister,  counting  up  the  nights,
+said  to  the  Magadha  king  Seniya  Bimbisdra,  '  Five
+hundred  nights,  your  Majesty.'
+
+'  Give  then,  my  good  Sir,  five  hundred  park-
+keepers  to  the  venerable  one ! '
+
+'  As  your  Majesty  commands,'  said  that  minister
+in  assent  to  the  Magadha  king  Seniya  Bimbisara ;
+and  he  eave  over  to  the  venerable  Pilindava/'/7^a
+five  hundred  park-keepers,  and  (for  their  use)  a
+distinct  village  grew  up.  And  they  called  it  Ara-
+mika-gama,  and  they  called  it  also  Pilinda-gama.
+Thenceforward  the  venerable  Pilindava/'Ma  de-
+pended upon  the  families  living  in  that  village
+(for  alms,  &c.).  And  the  venerable  Pilindava/C'/7/a
+robed  himself  early  in  the  morning,  and  entered  into
+Pilinda-gama,  duly  bowled  and  robed  for  alms.
+
+5.  Now  at  that  time  there  was  a  feast  in  that
+village,  and  the  children  were  celebrating  it,  with
+their  ornaments  on,  and  decked  with  garlands.  And
+the  venerable  Pilindava/^-Ma,  when  he  was  going  his
+rounds  for  alms,  straight  on  from  house  to  house,
+came  to  the  dwelling-place  of  a  certain  park-keeper  ;
+and  when  he  had  come  there  he  sat  down  on  a  seat
+prepared  for  him.
+
+And  at  that  time  the  daughter  of  that  park-
+keeper's  wife,  seeing  the  other  children  with  their
+ornaments  on,  and  decked  with  garlands,  began  to
+
+
+64  MAHAVAGGA.  VI,  15,  6.
+
+cry  (saying),  *  Give  me  too  a  garland,  give  me  an
+ornament !'
+
+And  the  venerable  Pilindava>^-^//a  said  to  that
+park-keeper's  wife:  'Why  does  that  girl  cry?'
+
+'  This  girl,  venerable  Sir,  seeing  the  other  children
+with  their  ornaments  on,  and  decked  with  garlands,
+is  crying  (and  saying),  "  Give  me  too  a  garland,  give
+me  too  an  ornament!"  But  whence  should  we,  who
+have  become  so  poor,  get  garlands  or  ornaments?'
+
+6.  Then  the  venerable  Pilindava/C'/^/^a  took  a  grass
+chumbat\and  said  to  the  park-keeper's  wife :  'Bind,
+I  pray  you,  this  grass  chumbat  round  the  child's  head.'
+
+And  the  park-keeper's  wife  took  the  grass  chum-
+bat, and  bound  it  round  the  girl's  head.  And  that
+became  a  chaplet  of  gold,  beautiful,  lovely,  and  pleas-
+ing, such  that  there  was  no  chaplet  of  gold  in  the
+king's  seraglio  like  it.
+
+And  people  told  the  Magadha  king  Seniya  Bimbi-
+sara, '  There  is  a  chaplet  of  gold,  your  Majesty,  in  the
+house  of  such  and  such  a  park-keeper,  such  that  there
+is  no  chaplet  of  gold  in  the  king's  seraglio  like  it.  How
+could  he,  poor  as  he  is,  have  got  (such  a  thing)  ?  For
+a  certainty  he  must  have  procured  it  by  theft.'
+
+Then  the  Magadha  king  Seniya  Bimbisara  had
+(the  whole  of)  that  park-keeper's  family  thrown  into
+bonds.
+
+7,  Now  the  venerable  Pilindava>^>^/^a  robed  him-
+self again  early  in  the  morning,  and  went,  duly  bowled
+and  robed,  into  Pilinda-gama  for  alms.  And  going
+his  round  for  alms  straight  on  from  house  to  house  he
+came  to  the  dwelling-place  of  that  park-keeper ;  and
+
+^  A  circular  roll  of  grass,  or  cloth,  to  be  placed  on  the  head
+when  a  pot  of  oil  or  water  was  being  carried  on  the  head.  Com-
+pare /C'umba/aka,  and  Rh.  D.'s  'Buddhist  Birth  Stories,'  p.  295.
+
+
+VI,  15,  9.  ON    MEDICAMENTS.  65
+
+
+when  he  had  come  there  he  asked  die  neighbours,
+'  Where  is  the  family  of  this  park-keeper  gone  to  ?'
+
+*  The  king,  Sir,  has  had  them  thrown  into  bonds
+on  account  of  that  chaplet  of  gokl'
+
+Then  the  venerable  Pilindava/'Ma  went  on  to  the
+residence  of  the  Magadha  king  Seniya  Bimbisara  :
+and  when  he  had  come  there  he  sat  down  on  the
+seat  prepared  for  him.  And  the  Magadha  king
+Seniya  Bimbisara  went  to  the  place  where  the
+venerable  Pilindava/C'/'/za  was ;  and  when  he  had
+come  there,  he  bowed  down  before  the  venerable
+PilIndava/'/7/a,  and  took  his  seat  on  one  side.  And
+when  he  was  so  seated  the  venerable  Pilindava/'/C7^a
+said  to  the  Magadha  king  Seniya  Bimbisara  :
+
+8.  'Why,  O  King,  has  the  park-keeper's  family
+been  thrown  into  bonds?*
+
+'  That  park-keeper,  Sir,  has  in  his  house  a  chaplet
+of  gold,  such  that  there  is  no  chaplet  of  gold  in  the
+king's  seraglio  like  it.  Whence  should  he,  poor  as  he
+is,  have  got  (such  a  thing)  ?  For  a  certainty  he  has
+procured  it  by  theft.'
+
+Then  the  venerable  PilindavaM/^a  determined
+that  the  palace  of  the  Magadha  king  Seniya  Bim-
+bisara should  be  gold.     And  it  became  all  of  gold.
+
+*  Now,  your  Majesty,  whence  have  you  this  so
+great  quantity  of  gold  ?'
+
+'  I  understand,  Lord.  This  is  your  miraculous
+power'  (said  the  king.  And  so  saying)  he  set  that
+park-keeper's  family  free.
+
+9.  When  the  people,  glad  at  heart  and  full  of
+satisfaction,  saw  that  so  great  a  miracle  had  been
+shown  by  the  venerable  Pilindava/'/C7^a  to  the  king
+and  his  royal  retinue,  they  brought  to  the  venerable
+Pilindava/'/(7a  the  five  kinds  of  medicine, — that  is  to
+
+
+66  MAHAVAGGA.  VI,  15,  10.
+
+say,  ghee,  butter,  oil,  honey,  and  molasses.  Now
+(besides  this)  the  venerable  Pilindava/'i/^a  was  ac-
+customed to  receive  the  five  kinds  of  medicine ;
+and  whatever  he  received  he  distributed  among
+his  attendant  (Bhikkhus).  So  the  retinue  became
+abounding  therein,  aad  as  they  received  it  they
+laid  it  aside,  filling  vessels  and  pots ;  and
+filling  water-strainers  and  bags  with  it  they  laid
+them  in  the  windows,  and  they  remained  there
+clinging  and  adhering  together,  and  the  Viharas
+became  sprinkled  and  scattered  all  over  with  them
+through  the  (gnawing  of)  rats.  People  who  saw
+this,  when  they  went  round  the  Viharas,  were
+annoyed,  murmured,  and  became  indignant  (say-
+ing), '  These  Sakyaputtiya  Sama;2as  are  becoming
+storers  up  of  goods  like  the  Magadha  king  Seniya
+Bimbisara.'
+
+10.  The  Bhikkhus  heard  the  people  thus  mur-
+muring, &c.  And  those  Bhikkhus  who  were  mode-
+rate were  indignant,  &c.,  saying,
+
+'  How  can  Bhikkhus  think  (of  possessing)  such
+abundance  ?*
+
+And  those  Bhikkhus  told  the  matter  to  the
+Blessed  One.
+
+'  Is  it  true,  Bhikkhus,  as  they  say,  that  Bhikkhus
+think  (of  possessing)  such  abundance  ?'
+
+'  It  is  true.  Lord.'
+
+The  Blessed  One  rebuked  them,  and  after  deliver-
+ing; a  religious  discourse,  he  addressed  the  Bhikkhus :
+
+'  Whatsoever  kinds  of  medicine  are  meet  for  the
+use  of  sick  Bhikkhus, — that  is  to  say,  ghee,  butter,
+oil,  honey,  and  molasses, — when  such  are  received
+they  must  be  used  within  a  period  of  seven  days
+during  which  they  may  be  stored  up.     Whosoever
+
+
+VI,  i6,  2.  ON    MEDICAMENTS.  67
+
+goes  beyond  that  limit  shall  be  dealt  with  according
+to  law^.'
+
+End  of  the  first  Bha;^avdra  on  the  law  of  medicines.
+
+
+16.
+
+1.  Now  after  the  Blessed  One  had  remained  at
+Sdvatthi  as  long  as  he  thought  fit,  he  went  forth  on
+his  journey  towards  Rd^gaha.  And  on  the  way  the
+venerable  Kaiikha-revata  saw  a  sugar  factory,  and
+on  stepping  aside  to  it  (he  saw  the  men)  putting
+flour  and  cane-dust  into  the  molasses.  When  he
+saw  that  he  thouoht :  *  Molasses  mixed  with  food
+is  not  permitted  :  it  is  not  permitted  to  take  such
+molasses  (at  a  time)  beyond  the  time  (for  the  daily
+meal).'  And  fearing  to  offend  he  ate  not  of  it,  and
+his  attendant  Bhikkhus  ate  not,  and  such  as  held
+him  worthy  to  be  heard,  they  ate  not.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  Why,  O  Bhikkhus,  do  they  put  flour  and  cane-
+dust  into  molasses  ?'
+
+*  In  order,  Lord,  to  make  it  firm.'
+
+'  If,  O  Bhikkhus,  they  put  flour  and  cane-dust  into
+molasses  to  make  it  firm,  but  it  is  still  (nevertheless)
+considered  to  be  molasses,  I  allow  you,  O  Bhikkhus,
+such  molasses  as  much  as  you  like.'
+
+2.  Now  the  venerable  Kaiikha-revata  saw  on  the
+way  a  kidney  bean  growing  out  of  a  dung  heap.  And
+when  he  had  seen  it,  he  thought :  *  Beans  are  not
+permitted  (to  us,  for)  beans  grow  ready  ripe^.'     And
+
+^  Compare  the  23rd  Nissaggiya.
+
+"^  Pakka  pi  mugga  ^dyanti,  the  meaning  of  which  is  not  quite
+clear.     BuJdhaghosa  says,  yathasukhaw  paribhu/l^itabba,  pakkatla
+
+F   2
+
+
+68  MAHAVAGGA.  VI,  i6,  3.
+
+
+he  did  not  eat,  fearing  to  offend,  and  his  attendant
+Bhikkhiis  did  not  eat,  and  such  as  held  him  worthy
+to  be  heard,  they  also  did  not  eat  the  beans.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'Though,  Bhikkhus,  beans  grow  ready  ripe,  yet
+I  allow  you,  O  Bhikkhus,  to  eat  beans  as  much  as
+you  like.'
+
+3.  Now  at  that  time  a  certain  Bhikkhu  suffered
+from  wind  in  the  stomach.  He  drank  salt  sour
+o-ruel ;  and  thereby  his  sickness  abated.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  to  one  who  is  sick  the  use
+of  salt  sour  gruel,  to  one  who  is  not  sick  the  use
+thereof  mixed  with  water ^  as  a  beverage.'
+
+
+17.
+
+I.  Now  the  Blessed  One  journeying  on  in  due
+course  came  to  Ra^agaha.  And  there  at  Ra^agaha
+the  Blessed  One  stayed  at  the  Veluvana  in  the
+Kalandaka-nivapa.
+
+Now  at  that  time  the  Blessed  One  was  troubled
+with  wind  in  his  stomach.  And  the  venerable
+Ananda  thinking,  '  Now  formerly  the  Blessed  One
+when  suffering  from  wind  in  the  stomach  had  ease
+from  Teka^ula^  gruel,'  made  ready  of  his  own
+accord  til  a  seeds,  and   rice,  and  beans;   and  kept
+
+hi  te  kappiya.  Perhaps  the  doubt  was  supposed  to  have  arisen
+because  the  beans  required  no  cooking,  but  grew,  ready  to  eat,  of
+themselves.
+
+^  Compare  asambhinna-payasa  at  G^ataka,  vol.  i,  p.  55,  1.  32.
+
+2  That  is,  gruel  containing  the  three  pungent  (ka/u)  substances,
+which  are  explained  to  be  ginger  and  two  kinds  of  pepper.
+
+
+VI,  17,  4-  ON    MEDICAMENTS.  69
+
+them  indoors ;  and  cooked  them  indoors  of  his  OAvn
+accord,  and  offered  them  to  the  Blessed  One,  saying,
+*  Let  the  Blessed  One  drink  this  Teka/ula  gruel.'
+
+2.  Now   the    Tathairatas    sometimes    ask    about
+
+O
+
+what  they  know  (&c.,  as  usual,  as,  for  instance,  in
+I,  31,  5,  down  to  the  end).
+
+And  the  Blessed  One  said  to  the  venerable
+Ananda,  '  Whence,  Ananda,  is  this  gruel  ?'
+
+Then  the  venerable  Ananda  told  this  thing  to  the
+Blessed  One.
+
+3.  The  Blessed  Buddha  rebuked  him,  saying,
+'  This  is  improper,  Ananda,  unbecoming,  unsuitable,
+unworthy  of  Sama/^as,  not  allowable,  and  ought  to
+be  avoided.  How  can  you,  Ananda,  think  (of
+permitting  yourself)  such  abundance  ?  Whatever,
+Ananda,  is  kept  indoors,  is  not  allowed ;  whatever
+is  cooked  indoors,  is  not  allowed  ;  and  whatever  is
+cooked  of  your  own  accord,  is  not  allowed.  This
+will  not  redound,  Ananda,  to  the  conversion  of  the
+unconverted.'
+
+And  when  he  had  rebuked  him,  and  delivered
+a  religious  discourse,  he  said  to  the  Bhikkhus :
+'  Whatsoever  is  kept  indoors,  O  Bhikkhus,  or  cooked
+indoors,  or  cooked  of  your  own  accord,  is  not  to
+be  eaten.  Whosoever  shall  eat  thereof,  is  guilty  of
+a  dukka/a  offence.
+
+4.  '  And  if,  O  Bhikkhus,  there  be  food  kept
+indoors,  or  cooked  indoors,  or  cooked  of  your  own
+accord,  and  one  shall  eat  thereof,  he  is  guilty  of
+three  dukka/a  offences.  If,  O  Bhikkhus,  food  kept
+indoors,  and  cooked  indoors,  shall  have  been  so
+cooked  by  others,  and  one  eat  thereof,  he  is  guilty
+of  two  dukka/a  offences.  If,  O  Bhikkhus,  food  kept
+indoors,  shall  have  been  cooked  out  of  doors,  and
+
+
+70  MAHAVAGGA.  ¥1,17.5.
+
+
+SO  cooked  of  your  own  accord,  and  one  eat  thereof,
+he  is  guilty  of  two  dukka/a  offences.
+
+5.  '  If,  O  Bhikkhus,  food  kept  out  of  doors  shall
+have  been  cooked  indoors,  and  of  your  own  accord,
+and  one  eat  thereof,  he  is  guilty  of  two  dukka^a
+offences.  If,  O  Bhikkhus,  food  kept  indoors,  shall
+have  been  cooked  out  of  doors,  and  by  others,  and
+one  eat  thereof,  he  is  guilty  of  a  dukka/a  offence.
+If,  O  Bhikkhus,  food  kept  out  of  doors  shall  have
+been  cooked  indoors,  and  by  others,  and  one  eat
+thereof,  he  is  guilty  of  a  dukka/a  offence.  If,  O
+Bhikkhus,  food  kept  out  of  doors,  shall  have  been
+cooked  out  of  doors,  and  of  your  own  accord,  and
+one  shall  eat  thereof,  he  is  guilty  of  a  dukka/a
+offence.  If,  O  Bhikkhus,  food  kept  out  of  doors,
+shall  have  been  cooked  out  of  doors,  and  by  others,
+and  one  shall  eat  thereof,  he  is  not  guilty.'
+
+6.  Now  at  that  time,  the  Bhikkhus,  thinking,
+'  Food  cooked  of  one's  own  accord  has  been  disal-
+lowed by  the  Blessed  One,'  feared  to  offend  by
+cooking  a  second  time  food  (already  cooked  once).
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  cook  food  a  second
+
+time.'
+
+7.  Now  at  that  time  there  was  a  scarcity  of  food
+in  Ra^agaha.  People  brought  salt,  and  oil,  and
+rice,  and  hard  food  to  the  A  ram  a.  These  the
+Bhikkhus  kept  out  of  doors  ;  and  vermin  ^  ate  them,
+and  thieves  carried  them  off.
+
+They  told  this  thing  to  the  Blessed  One.
+
+
+^  Buddhaghosa  says,  ukkapiwc^aka  pi  khadantiti  bilala-mu-
+sika-godha-mungusa    khadanti.      The    expression    recurs   in  VI,
+
+33>  5-
+
+
+VI,  17,8.  ON    MEDICAMENTS.  7I
+
+'  I  allow  you,  O  Bhikkhus,  to  keep  food  indoors.'
+
+When  they  kept  it  indoors,  and  cooked  it  out  of
+doors,  those  men  who  practised  self-mortification  by
+living-  on  the  remains  of  offered  food  '  crowded  round
+them ;  and  the  Bhikkhus  ate  in  fear.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  cook  indoors.'
+
+In  the  time  of  scarcity,  those  who  (by  offering
+food,  inviting  Bhikkhus  to  their  houses,  &c.)  made
+(the  accepting  or  eating  of  food)  allowable  (to  the
+Bhikkhus),  used  to  take  more  (for  themselves),  and
+give  less  to  the  Bhikkhus,
+
+'  I  allow  you,  O  Bhikkhus,  to  cook  of  your  own
+accord.  I  allow  you,  O  Bhikkhus,  to  cook  indoors,
+and  of  your  own  accord,  food  kept  indoors.'
+
+8.  Now  at  that  time  a  number  of  Bhikkhus  who
+had  spent  the  rainy  season  in  the  land  of  Kasi,
+and  were  journeying  to  Ra^agaha  to  visit  the
+Blessed  One,  did  not  receive  on  the  way  as  full
+a  supply  as  they  required  of  food,  either  bitter  or
+sweet.  And  there  was  plenty  of  eatable  fruit,  but
+there  was  no  one  to  make  it  allowable  for  them  ^.
+And  those  Bhikkhus  went  on  in  weariness  to  Rara-
+gaha,  to  the  Veluvana,  in  the  Kalandaka-nivapa,
+where  the  Blessed  One  was.  And  when  they  had
+come  there,  they  bowed  down  before  the  Blessed
+One,  and  took  their  seats  on  one  side.
+
+Now  it  is  the  custom  of  the  Blessed  Buddhas  to
+exchange    courteous  greetings  with   Bhikkhus   who
+
+*  Buddhaghosa  says,  da  ma  k  a  ti  vighasada.  The  same  expla-
+nation is  given  in  Abhidhanappadipika,  verse  467,  where  the  Sin-
+halese expression  is  indul  kanna,  and  the  EngHsh  'one  who
+eats  orts.'
+
+^  See  the  last  section.
+
+
+7  2  MAHAVAGGA.  VI,  17,9.
+
+
+arrive.       And    the     Blessed    One     said     to    those
+Bhikkhus :
+
+*  Do  things  go  well  with  you,  O  Bhikkhus  ?  Do
+you  get  enough  to  support  yourselves  with  ?  Have
+you  accomplished  your  journey  without  too  much
+fatigue  ?     And    whence,    O     Bhikkhus,    have    you
+
+come  ?'
+
+9.  '  Things  go  well  with  us,  Lord.  We  have
+spent  the  rainy  season  in  the  land  of  Kasi ;  and
+as  we  were  journeying  to  Rafagaha  to  visit  the
+Blessed  One,  we  did  not  receive  on  the  way  as
+full  a  supply  as  we  required  of  food,  either  bitter
+or  sweet.  And  there  was  plenty  of  eatable  fruit,
+but  there  was  no  one  to  make  it  allowable  for  us.
+And  we  came  on  our  way  in  weariness.'
+
+Then  the  Blessed  One,  in  that  connection,  after
+having  delivered  a  religious  discourse,  said  to  the
+Bhikkhus:  'I  allow  you,  O  Bhikkhus,  wherever
+edible  fruit  is  seen  and  there  is  no  one  to  make
+it  allowable,  to  pick  it  of  your  own  accord,  and  take
+it  away.  And  when  you  see  one  w^ho  can  make
+it  allowable,  you  are  to  place  it  on  the  ground,
+and  (only)  eat  it  after  you  have  received  it  again.
+I  allow  you,  O  Bhikkhus,  to  take  whatever  (fruit)
+you  have  picked  up\'
+
+
+18.
+
+I.    Now   at    that   time    a    certain    Brahman   had
+
+received    some    fresh    til  a    seeds,   and    some    fresh
+
+honey.      Now  it  occurred  to  that  Brahman  :  '  What
+
+if  I   were  to  give   these  fresh  tila  seeds,  and  this
+
+^  Compare  below,  21.  i.
+
+
+VI,  i8,  3.  ON    MEDICAMENTS.  J'^
+
+
+fresh  honey  to  the  Bhikkhu-sa7;/gha  with  the  Buddha
+at  their  head/  And  that  Brdhman  went  to  the  place
+where  the  Blessed  One  was,  and  when  he  had  come
+there,  he  exchanged  courteous  greetings  with  the
+Blessed  One.  And  after  he  had  exchanged  with
+the  Blessed  One  the  greetings  and  compliments  of
+friendship  and  civility,  he  stood  on  one  side.  And,
+so  standine,  that  Brahman  said  to  the  Blessed  One :
+'May  the  venerable  Gotama  grant  me  that  the
+venerable  Gotama  shall  take  his  morrow's  meal  at
+my  home  to-morrow  with  the  Bhikkhu-sa7;^gha.'
+
+The  Blessed  One  consented  by  remaining  silent.
+And  when  that  Brahman  perceived  that  the  Blessed
+One  had  consented  he  went  away.
+
+2.  And  that  Brahman,  at  the  end  of  that  night,
+when  he  had  made  ready  sweet  food,  both  hard  and
+soft,  had  the  time  announced  to  the  Blessed  One
+(in  the  words), '  It  is  time,  O  Gotama,  and  the  meal
+is  prepared.'
+
+And  the  Blessed  One,  early  in  the  morning,
+having  put  on  his  under  robe,  went  duly  bowled
+and  robed  to  that  Brahman's  residence.  And  when
+he  had  come  there,  he  sat  down  on  a  seat  prepared
+for  him,  and  with  him  the  Bhikkhu-sawgha.
+
+And  that  Brahman  satisfied  with  the  sweet  food,
+hard  and  soft,  the  Bhikkhu-sawgha  with  the  Buddha
+at  their  head,  and  waited  on  them  with  his  own
+hand.  And  when  the  Blessed  One  had  finished  his
+meal,  and  had  washed  his  hands  and  his  bowl,  the
+Brahman  took  his  seat  on  one  side.  And  as  he
+so  sat  the  Blessed  One  instructed,  and  roused,  and
+incited,  and  gladdened  that  Brahman  with  religious
+discourse,  and  rose  from  his  seat,  and  went  away.
+3.    Now  not  long  after  the  Blessed  One  had  gone
+
+
+74  MAHAVAGGA.  VI,  l8, 4'.
+
+it  occurred  to  that  Brahman  :  *  The  things  for  the
+sake  of  which  I  invited  the  Bhikkhu-sa;;2gha  with
+the  Buddha  at  their  head,  thinking,  "  I  will  give
+them  the  fresh  tila  seeds  and  the  fresh  honey," —
+those  I  have  neglected  to  give.  What  if  I  were
+now   to   have  the   fresh   tila   seeds    and  the   fresh
+
+A
+
+honey  taken,  in  pots  and  vessels,  to  the  Arama!'
+
+And  that  Brahman  had  the  fresh  tila  seeds  and
+the  fresh  honey  taken  in  pots  and  vessels,  and  went
+to  the  place  where  the  Blessed  One  was.  And
+when  he  had  come  there,  he  stood  on  one  side ;
+and  so  standing  that  Brahman  said  to  the  Blessed
+One :
+
+4.  '  The  things  for  the  sake  of  which  I  invited
+the  Bhikkhu-sa;;?gha  with  the  Buddha  at  their  head,
+thinking,  "  I  will  give  them  the  fresh  tila  seeds  and
+the  fresh  honey," — those  I  have  neglected  to  give.
+May  the  venerable  Gotama  receive  of  me  the  fresh
+tila  seeds  and  the  fresh  honey.'
+
+'Very  well  then.  Brahman;  give  them  to  the
+Bhikkhus.'
+
+Now  at  that  time,  during  the  scarcity,  people
+invited  Bhikkhus  to  a  slender  meal,  and  they,
+counting  the  number  (of  those  invited),  refused  (the
+invitation).  And  the  whole  Sa?;/gha  was  (once)
+invited ;  but  the  Bhikkhus,  fearing  to  offend,  did
+not  accept  the  invitation  ^
+
+'  Accept  it,  O  Bhikkhus,  and  eat.  I  allow,  O
+Bhikkhus,  that  a  Bhikkhu  who  has  eaten  and  who
+has  refused  food  still  offered  may  nevertheless  eat
+food,  if  it  be  brought  from  within,  even  if  it  has
+not  been  left  over  2.
+
+
+^  Compare  Patimokkha,  Pa/^ittiya  32,
+
+2  This  is  an  exception  to  Pa/iittiya  35.     A  Bhikkhu  who  has
+
+
+VI,  ip,  2.  ON    MEDICAMENTS.  75
+
+
+19.
+
+1.  Now  at  that  time  a  family  who  were  devoted
+to  the  venerable  Upananda,  of  the  Sakya  clan,  sent
+hard  food  for  the  Sa7;/gha,  saying,  '  This  is  to  be
+given  to  the  Sawgha  with  especial  reference  to  the
+venerable  Upananda.'
+
+Now  at  that  time  the  venerable  Upananda  of  the
+Sakya  clan  had  gone  forth  to  the  village  for  alms.
+And  those  men  went  to  the  Arama,  and  asked  the
+Bhikkhus  :
+
+'Where,  Sirs,  is  the  venerable  Upananda?'
+
+'  The  venerable  Upananda  of  the  Sakya  clan  has
+gone  forth  to  the  village  for  alms.'
+
+'  This  hard  fpod,  Sirs,  is  to  be  given  to  the
+Sawgha,  with  especial  reference  to  the  venerable
+Upananda.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  In  that  case,  O  Bhikkhus,  receive  it,  and  put  it
+aside  till  Upananda  returns.'
+
+2.  And  the  venerable  Upananda,  after  having
+attended  on  the  families  in  the  forenoon,  returned
+during  the  (after-part  of  the)  day.
+
+Now  at  that  time,  during  the  scarcity,  people
+invited  the  Bhikkhus  to  a  slender  meal ;  and  they,
+
+finished,  and  has  declared  himself  to  have  done  so  by  declining
+further  food,  can  still  take  '  leavings'  without  offending.  By  this
+rule  he  is  also  allowed  to  take  food  tato  nihataw,  literally,
+'  brought  out  thence,'  which  seems  to  mean  '  out  of  the  store  of
+the  giver.'  The  expression  recurs  in  VI,  32,  i,  and  again  in  VI,
+32,  2  (at  the  end),  where  the  exceptions  to  PaX-ittiya  35  laid  down
+in  this  and  the  following  rules  are  again,  the  scarcity  having  passed
+away,  put  aside  by  '  the  Blessed  One.'
+
+
+76  MAHAVAGGA.  VI,  20,  I.
+
+counting  the  numbers  (of  those  invited,  refused)  the
+invitation.  And  the  whole  Sa?;/gha  was  (once)
+invited;  but  the  Bhikkhus,  fearing  to  offend,  did
+not  accept  the  invitation.
+
+'  Accept  it,  O  Bhikkhus,  that  a  Bhikkhu  who  has
+eaten,  and  who  has  refused  food  still  offered,  may
+nevertheless  eat  food,  if  it  have  been  received  before
+meal-time  (in  the  forenoon),  even  if  it  has  not  been
+left  over  \'
+
+
+20.
+
+1,  Now  the  Blessed  One  having  remained  at
+Ra^agaha  as  long  as  he  thought  fit,  proceeded  on
+his  way  to  Savatthi.  And  wandering  straight  on
+from  place  to  place  he  arrived  at  Sivatthi.  And
+there,  at  Sivatthi,  the  Blessed  One  stayed  at  the
+6^etavana,  Anatha-pi^^^ika's  Grove.
+
+Now  at  that  time  the  venerable  Sariputta  suffered
+from  fever.  And  the  venerable  Maha  Moggallana
+went  to  the  place  where  the  venerable  Sariputta
+was ;  and  when  he  had  come  there  he  said  to  the
+venerable  Sariputta :
+
+'  You  have  lately  had  fever,  friend  Sariputta.
+By  what  means  has  it  got  well  ?'
+
+'  By  lotus  stalks,  my  friend,  of  various  kinds.'
+
+Then  the  venerable  Maha  Moggallana,  as  quickly
+as  a  strong  man  would  stretch  forth  his  arm,  or
+draw  it  in  again  when  it  had  been  stretched  forth,
+vanished  from  the  6^etavana  and  appeared  on  the
+bank  of  the  Mandakini  lake,
+
+2.  And  a  certain  Naga  saw  the  venerable  Maha
+
+^  See  the  last  note.
+
+
+VI,  30,  4-  ON    MEDICAMENTS.  *]*]
+
+
+Mof^-o-allana  cominor  from  afar  :    and  on  seeing  him
+he  said  to  the  venerable  Maha  Moggallana :
+
+'  May  my  lord,  the  venerable  Maha  Moggallana,
+approach.  Welcome  to  my  lord,  the  vcneratle
+Maha  Moggallana.  What  may  my  lord  have  need
+of?     What  shall  I  give  to  him  ?'
+
+*  I  want  the  edible  stalks  of  the  various  lotuses.'
+Then  that  Naga  gave  command  to  another  Naga,
+saying,  'Very   well     then,    good    friend,    give    the
+venerable  one  edible  stalks  of  the  lotuses.'
+
+And  that  Naga  plunged  into  the  Mandakini  lake,
+and  plucked  with  his  trunk  edible  stalks  of  the
+lotuses,  and  washed  them  thoroughly,  and  bound
+them  in  a  bundle,  and  went  to  the  place  where  the
+venerable  Maha  Moggallana  was.
+
+3.  Then  the  venerable  Maha  Moggallana  as
+quickly  (&c.,  as  in  J  i)  vanished  from  the  bank  of
+the  Mandakini  lake,  and  appeared  in  G'etavana.
+Then  that  Naga  also  vanished  from  the  bank  of
+the  Mandakini  lake,  and  appeared  in  the  6^etavana.
+And  when  that  Naga  had  caused  the  venerable
+INIaha  Moggallana  to  receive  those  edible  stalks
+of  the  lotuses  he  vanished  from  the  C'etavana,  and
+appeared  on  the  shore  of  the  Mandakini  lake.
+
+Then  the  venerable  Maha  Moggallana  presented
+those  edible  stalks  of  the  lotuses  to  the  venerable
+Sariputta.  And  the  fever  abated  on  the  venerable
+Sariputta  when  he  had  eaten  the  edible  stalks  of
+the  lotuses.     And  many  of  them  remained  over.
+
+4.  Now  at  that  time,  during  the  scarcity  (&c.,
+as  above,  in  chap.  18.  4,  down  to:)  did  not  accept
+the  invitation.
+
+'Accept  it,  O  Bhikkhus,  and  eat.  I  allow  a
+Bhikkhu  who  has  eaten,  and  has  refused  food  still
+
+
+78  MAHAVAGGA.  VI,  21,  i.
+
+
+offered,  to  eat  things  growing  in  woods  and  ponds,
+even  if  they  are  not  the  leavings  of  the  meal  of
+one  who  has  eaten  ^'
+
+
+21.
+
+I.  Now  at  that  time  edible  fruit  was  very  plen-
+tiful in  Savatthi,  but  there  was  no  one  to  make
+it  allowable  ^.  And  the  Bhikkhus,  fearing  to  offend,
+would  not  eat  of  it.
+
+They  told  that  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  eat  fruit  which  has
+not  yet  had  any  seed  in  it,  or  which  has  no  more
+seed  in  it,  even  without  any  one  being  there  to
+make  it  allowable  ^.'
+
+
+22.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Savatthi  as  long  as  he  thought  fit,  he  went  forth
+on  his  journey  to  Ra^agaha.  And  wandering
+straight  on  he  arrived  at  Ra^agaha :  and  there  at
+Ra^agaha  he  stayed  at  the  Veluvana  in  the  Kalan-
+daka-nivapa.
+
+Now  at  that  time  a  certain  Bhikkhu  was  suffering
+
+A
+
+from  fistula^.     And   the  physician  (named)  Akasa-
+gotta  lanced  it.     And  the   Blessed   One   when  he
+
+^  See  the  note  above,  on  VI,  18,  4.
+
+2  See  above,  VI,  17,  7.
+
+^  Buddhaghosa  says,  abi^an  ti  taru«a-phalaw ;  yassa  higa.m
+nhkmam  na  ^aneti.  Nibbatta-bi^an  (nivatta-bi^an  ?)  ti  h\ga.m
+nibbattetva  (nivattetva  ?)  apanetva.
+
+*  Compare  VIII,  i,  14.
+
+
+VI,  22,  3.  ON    MEDICAMENTS.  79
+
+
+was  going  round  through  the  sleeping-places  came
+to  the  place  where  that  Bhikkhu  dwelt.
+
+2.  Akasa-gotta,  the  physician,  saw  the  Blessed
+One  coming  from  afar;  and  when  he  saw  him  he
+said  to  the  Blessed  One :  '  Let  the  venerable  Gotama
+come  and  look  at  this  Bhikkhu's  orifice  ;  it  is  like
+the  mouth  of  an  iguana!'  And  the  Blessed  One
+thinking, '  This  foolish  fellow  is  making  fun  of  me,'
+kept  silence  and  turned  away.  And  in  that  con-
+nection, and  on  account  of  that,  he  called  a  meeting
+of  the  Bhikkhu-sawgha,  and  asked  the  Bhikkhus  :
+•  Is  there,  O  Bhikkhus,  in  that  Vihara  a  Bhikkhu
+who  is  sick  ?'
+
+'  There  is,  Lord.'
+
+'What  is  the  matter,  O  Bhikkhus,  with  that
+Bhikkhu  ?'
+
+'  That  venerable  one,  Lord,  has  a  fistula,  and
+Akasa-gotta,  the  physician,  has  been  lancing  it.'
+
+3.  The  Blessed  Buddha  rebuked  (that  Bhikkhu),
+saying,  '  This  is  improper,  O  Bhikkhus,  for  that
+foolish  one,  unbecoming,  indecent,  unworthy  of
+Sama;2as,  not  allowable,  and  ought  not  to  be  done.
+How  can  this  foolish  fellow,  O  Bhikkhus,  allow  a
+surgical  operation  to  be  performed  in  that  part  of
+his  bodyi?  The  skin  there,  O  Bhikkhus,  is  tender,
+the  wound  is  difficult  to  treat,  the  knife  is  difficult
+to  guide.  This  will  not  redound,  O  Bhikkhus,  to
+the  conversion  of  the  unconverted.'
+
+And  having-  rebuked  him,  the  Blessed  One,  after
+deliverine  a  religious  discourse,  said  to  the  Bhik-
+khus  :  'You  are  not,  O  Bhikkhus,  to  allow  a  surgical
+operation   to  be  performed  upon  you  in  that  part
+
+
+'  S  a  m  b  a  d  h  e.
+
+
+8o  MAHAVAGGA.  VI,  22, 4.
+
+of  your  bodies.     Whosoever  allows  that,  is  guilty
+of  a  thulla/{'-^aya  offence.'
+
+4.  Now  at  that  time  the  A'/^abbaggiya  Bhikkhus,
+since  a  surgical  operation  had  been  forbidden  by
+the  Blessed  One,  used  a  clyster  ^.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'Is  it  true,  as  they  say,  O  Bhikkhus,  that  the
+AViiabbaggiya  Bhikkhus  use  a  clyster  ? '
+
+'  It  is  true,  Lord.'
+
+He  rebuked  them,  and  having  delivered  a  re-
+ligious discourse,  said  to  the  Bhikkhus :  '  No
+surgical  operation  is  to  be  performed  within  a
+distance  of  two  inches  round  the  anus,  and  a  clyster
+is  not  to  be  used.  Whosoever  does  so,  is  guilty
+of  a  thulla>^/('aya  offence^.'
+
+
+23.
+
+I.  And  the  Blessed  One,  after  having  dwelt  at
+Ra^agaha  as  long  as  he  thought  fit,  went  forth  to
+Benares.  Wandering  from  place  to  place  he  came
+to  Benares.  There  the  Blessed  One  dwelt  near
+Benares,  In  the  deer-park  Isipatana.
+
+At  that  time  there  were  at  Benares  a  devout
+layman  Suppiya  and  a  devout  laywoman  Suppiya
+who  showed  their  faith  in  both  ways  :  they  were
+givers  and  doers,  and  devoted  themselves  to  the
+service  of  the  fraternity.  And  Suppiya,  the  lay-
+devotee,  went  to  the  Arama,  and  going  around  from
+Vihara  to  Vihara,  and  from  cell  to  cell,  ghe  asked
+
+^  Vatthikamma.  See  Wise,  'Hindu  Medicine,'  pp.  143  and
+following.
+
+"^  Surgical  operations  are  allowed  in  14.  5  and  below.
+
+
+VI,  23,  3-  ON    MEDICAMENTS.  8 1
+
+
+the  Bhikkhus  :  '  Who  is  sick,  venerable  Sirs  ?     For
+whom,  and  what  shall  I  procure  ? '
+
+2.  At  that  time  a  certain  Bhikkhii  had  taken
+a  purgative.  And  that  Bhikkhu  said  to  Suppiyd,
+the  lay-devotee :  '  I  have  taken  a  purgative,  sister,
+and  I  want  some  broth  \'
+
+(She  rephed) :  '  Well,  reverend  Sir,  it  shall  be
+procured  for  you,' — and  went  to  her  house  and  gave
+order  to  a  pupil  ^ :  '  Go,  my  good  Sir,  and  see  if
+there  is  any  meat  to  be  had^'
+
+That  man  accepted  this  order  of  Suppiya,  the
+lay-devotee  (by  saying),  'Yes,  Madam,'  and  searched
+throuiih  the  whole  of  Benares,  but  did  not  find
+any  meat  on  hand^.  Then  that  man  went  to  Sup-
+piyi,  the  lay-devotee ;  having  approached  her  he
+said  to  Suppiya,  the  lay-devotee :  '  There  is  no
+meat  to  be  had,  Madam;  the  killing  of  cattle  is
+interdicted  to-day.'
+
+3.  Then  Suppiya,  the  lay-devotee,  thought:  'If
+that  sick  Bhikkhu  does  not  get  the  broth  his  sick-
+ness will  increase,  or  he  will  die.  It  would  be
+unbecoming  indeed  for  me  to  promise  something,
+and  not  to  procure  it;' — (thinking  thus)  she  took
+a  knife,  cut  a  piece  of  flesh  from  her  thigh,  and
+gave  it  to  her  maid-servant  (saying),  'Go,  my  girl.
+
+
+^  Pa/i/^/^/^adaniya.  See  Abhidhanappadipika,  verse  468,  and
+above,  chap.  14.  7,  at  the  end.
+
+2  Of  her  husband's  ?
+
+'  Pavattamawsa,  which  Buddhaghosa  explains,  '  matassa  maw-
+sa»i.'  Pavatta  means '  already  existing,'  opposed  to  what  is  brought
+into  existence  for  a  special  purpose,  and  pavattamawsa  is  said
+here,  therefore,  in  order  to  exclude  uddissa-kata-ma/«sa  (meat  of
+animals  killed  especially  for  them),  which  Bhikkhus  were  not
+allowed  to  partake  of  (see  chap.  31.  14).  Compare  also  pavatta-
+phala-bho^ana  at  Gataka  I,  p.  6.
+
+[17]  G
+
+
+82  MAHAVAGGA.  ¥1,23,4.
+
+and  get  the  strength  out  of  this  meat.  In  such
+and  such  a  Vihara  is  a  sick  Bhikkhu ;  give  it  to
+that  (Bhikkhu).  And  should  anybody  call  for  me,
+tell  him  that  I  am  sick ;' — (speaking  thus),  she  veiled
+her  thigh  with  her  upper  garment,  went  into  her
+inner  room,  and  lay  down  on  her  bed.
+
+4.  And  Suppiya,  the  lay-devotee,  came  to  his
+house  and  asked  the  maid-servant :  '  Where  is
+Suppiya  ?'
+
+*  She  lies  in  the  inner  room,  Sir.'  Then  Suppiya,
+the  lay-devotee,  went  to  the  place  where  Suppiya,
+the  lay-devotee,  was ;  having  approached  her  he
+said  to  Suppiya,  the  lay-devotee  :  '  Why  are  you
+lying  down  ?'
+
+'  I  am  sick.'
+
+*  What  is  the  matter  with  you  ?'
+
+Then  Suppiya,  the  lay-devotee,  told  the  whole
+matter  to  Suppiya,  the  lay-devotee.  And  Suppiya,
+the  lay-devotee,  said :  '  Oh  wonderful !  oh  astonish-
+ing !  How  believing  and  how  pious  is  this  Suppiya
+who  gives  even  her  own  flesh  (to  the  indigent).
+What  else  can  there  be  which  she  would  not  give  ?'
+(Speaking  thus),  joyful  and  elated  he  went  to  the
+place  where  the  Blessed  One  was ;  having  ap-
+proached him,  and  respectfully  saluted  the  Blessed
+One,  he  sat  down  near  him.
+
+5.  Sitting  near  him,  Suppiya,  the  lay-devotee,
+said  to  the  Blessed  One :  '  Might  the  Blessed  One,
+Lord,  consent  to  take  his  meal  with  me  to-morrow,
+together  with  the  fraternity  of  Bhikkhus.'
+
+The  Blessed  One  expressed  his  consent  by  remain-
+ing silent.  Then  Suppiya,  the  lay-devotee,  when
+he  understood  that  the  Blessed  One  had  accepted
+his  invitation,  rose  from  his  seat,  respectfully  saluted
+
+
+VI,  23,  7«  ON    MEDICAMENTS.  83
+
+the   Blessed  One,  and  passing  round  him  \vith  his
+right  side  towards  him,  went  away.
+
+And  when  the  night  had  elapsed,  Suppiya,  tlie
+lay-devotee,  ordered  excellent  food,  both  hard  and
+soft,  to  be  prepared,  and  had  the  meal-time  an-
+nounced to  the  Blessed  One  in  the  words  :  'It  is
+time,  Lord,  the  meal  is  ready.'  And  in  the  fore-
+noon the  Blessed  One,  having  put  on  his  under-robes,
+took  his  alms-bowl,  and,  with  his  /fivara  on,  went
+to  the  house  of  Suppi)a,  the  lay-devotee.  When  he
+had  arrived  there,  he  sat  down  with  the  Bhikkhus
+who  followed  him,  on  seats  laid  out  for  them.
+
+6.  And  Suppiya,  the  lay-devotee,  went  to  the
+place  where  the  Blessed  One  was ;  having  ap-
+proached him  and  respectfully  saluted  the  Blessed
+One,  he  stationed  himself  near  him.  When  he  was
+standing  near  him,  the  Blessed  One  said  to  Suppiya,
+the  lay-devotee  :  '  Where  is  Suppiya  ? '
+
+'  She  is  sick,  Lord.'
+
+'  Well,  let^her  come  here.*
+
+'  She  is  not  able  to  do  so,  Lord.'
+
+'  Well  then  you  must  take  her  and  carry  her  (to
+me).'
+
+Then  Suppiya,  the  lay-devotee,  took  Suppiya,
+the  lay-devotee,  and  carried  her  (to  the  Buddha),
+And  in  the  moment  the  Blessed  One  saw  her,  that
+great  wound  was  healed ;  and  there  was  good  skin
+there,  with  the  tiny  hairs  thereon.
+
+7.  And  Suppiya,  the  lay-devotee,  and  Suppi)a,
+the  lay-devotee  (thought) :  '  Oh  wonderful !  oh
+astonishing !  What  high  power  and  great  faculties
+the  Tathagata  possesses,  in  that  in  the  moment  the
+Blessed  One  has  seen  (Suppiya),  that  great  wound
+has  been   healed ;    and   there   is    good  skin  there,
+
+G  2
+
+
+84  MAHAVAGGA.  VI,  23, 8.
+
+with  the  tiny  hairs  thereon ;' — (thinking  thus),  joyful
+and  elated  they  served  and  offered  with  their  own
+hands  excellent  food,  both  hard  and  soft,  to  the
+fraternity  of  Bhikkhus  with  the  Buddha  at  its
+head.  And  when  the  Blessed  One  had  finished  his
+meal,  and  cleansed  his  bowl  and  his  hands,  they
+sat  down  near  him.  And  the  Blessed  One,  after
+having  taught,  incited,  animated,  and  gladdened
+Suppiya,  the  lay-devotee,  and  Suppiya,  the  lay-
+devotee,  by  religious  discourse,  rose  from  his  seat
+and  went  away.
+
+8.  In  consequence  of  that,  and  on  this  occasion,
+the  Blessed  One,  having  ordered  the  fraternity  of
+Bhikkhus  to  assemble,  questioned  the  Bhikkhus :
+'  Who  was  it,  O  Bhikkhus,  who  asked  Suppiya,  the
+lay-devotee,  for  meat  ?*
+
+When  he  had  spoken  thus,  that  Bhikkhu  said  to
+the  Blessed  One  :  '  It  is  I,  Lord,  who  asked  Suppiya,
+the  lay-devotee,  for  meat.'
+
+'  Has  it  been  brought  to  you,  O  Bhikkhu?'
+
+'  It  has  been  brought.  Lord.'
+
+'  Have  you  eaten  it,  O  Bhikkhu?'
+
+*  I  have  eaten  it.  Lord.'
+
+'  And  did  you  enquire,  O  Bhikkhus,  (what)  meat
+it  was  ?'
+
+*  Lord!  I  did  not  enquire  about  that.'
+
+9.  Then  the  blessed  Buddha  rebuked  him:  'How
+can  you,  O  foolish  one,  eat  meat  without  having
+enquired  (what  it  is)  ?  It  is  man's  flesh,  O  foolish
+one,  which  you  have  eaten.  This  will  not  do,  O
+foolish  one,  for  converting  the  unconverted,'  (&c.)
+
+Having  rebuked  him  and  delivered  a  religious
+discourse,  he  thus  addressed  the  Bhikkhus  :  '  There
+are,  O  Bhikkhus,  believing,  pious  people  who  give
+
+
+YI,  23,  13.  ON    MEDICAMENTS.  85
+
+Up  even  their  own  flesh.  Let  no  one,  O  Bhikkhiis,
+eat  man's  flesh.  He  who  does,  commits  a  thulla/6-
+/C-aya  (or,  grave)  offence.  And  let  no  one,  O  Bhik-
+khiis, eat  meat  without  having  enquired  (what  it  is).
+He  who  does,  commits  a  dukka/'a  offence.'
+
+10.  At  that  time  the  king's  elephants  died.  During
+a  famine  the  people  ate  that  elephants'  flesh,  and
+when  the  Bhikkhus  came  and  asked  for  alms,  they
+gave  them  elephants'  flesh.  The  Bhikkhus  ate  that
+elephants'  flesh.  People  were  annoyed,  murmured,
+and  became  angry:  'How  can  the  Sakyaputtiya
+Sama//as  eat  elephants'  flesh  ?  Elephants  are  an
+attribute  of  royalty.  If  the  king  knew  that,  they
+would  not  be  in  his  favour.'
+
+They  told  this  thing  to  the  Blessed  One.
+'  Let  no  one,  O  Bhikkhus,  eat  elephants'  flesh.    He
+who  does,  commits  a  dukka/a  offence.'
+
+11.  At  that  time  the  king's  horses  died.  During
+a  famine  (&c.,  as  in  {10,  down  to  :)
+
+'Let  no  one,  O  Bhikkhus,  eat  horse-flesh.  He
+who  does,  commits  a  dukka/a  offence.'
+
+12.  At  that  time  the  people,  during  a  famine,  ate
+dogs'  flesh,  and  when  the  Bhikkhus  came  and  asked
+for  alms,  they  gave  them  dogs'  flesh.  The  Bhikkhus
+ate  that  dogs'  flesh.  People  were  annoyed,  murmured,
+and  became  angry:  'How  can  the  Sakyaputtiya  Sa-
+ma;^as  eat  dogs'  flesh?  Dogs  are  disgusting  and
+loathsome  animals.'
+
+They  told  this  thing  to  the  Blessed  One.
+'  Let  no   one,  O   Bhikkhus,  eat  dogs'  flesh.      He
+who  does,  commits  a  dukka/a  offence.'
+
+13.  At  that  time  the  people,  during  a  famine,  ate
+serpents'  flesh  (&c.,  as  in  J  12,  down  to  :)  '  How  can
+
+
+86  MAHAVAGGA.  VI,  23,  14.
+
+
+the  Sakyaputtiya  Sama;^as  eat  serpents'  flesh  ?    Ser-
+pents are  disgusting  and  loathsome  animals.'
+
+And  the  serpent  king  Supassa  went  to  the  place
+where  the  Blessed  One  was;  having  approached  him
+and  respectfully  saluted  the  Blessed  One,  he  stationed
+himself  near  him.  Standing  near  him  the  serpent
+king  Supassa  said  to  the  Blessed  One  :  '  There  are.
+Lord,  unbelieving  serpents  who  are  disinclined  (to
+the  faith) ;  these  might  do  harm  to  the  Bhikkhus
+even  on  trifling  occasions.  Pray,  Lord,  let  their
+reverences  not  eat  serpents'  flesh.  Then  the  Blessed
+One  taught,  incited,  animated,  and  gladdened  the
+serpent  king  Supassa  by  religious  discourse  (&c.,
+down  to :),  and  passing  round  him  with  his  right
+side  towards  him,  went  away.'
+
+In  consequence  of  that  the  Blessed  One,  after
+having  delivered  a  religious  discourse,  thus  addressed
+the  Bhikkhus:  'Let  no  one,  O  Bhikkhus,  eat  serpents'
+flesh.     He  who  does,  commits  a  dukka/a  offence.'
+
+14.  At  that  time  hunters  had  killed  a  lion  and
+eaten  his  flesh,  and  when  the  Bhikkhus  came  and
+asked  for  alms,  they  gave  them  lions'  flesh.  The
+Bhikkhus,  having  eaten  that  lions'  flesh,  sojourned
+in  the  forest.  Then  the  lions,  (attracted)  by  the
+smell  of  lions'  flesh,  fell  upon  the  Bhikkhus.
+
+They  told  this  thing  to  the  Blessed  One.
+'  Let  no  one,  O  Bhikkhus,  eat  lions'  flesh.     He
+who  does,  commits  a  dukka/a  offence.'
+
+15.  At  that  time  hunters  had  killed  a  tiger,  &c.,
+a  panther,  &c.,  a  bear,  &c.,  a  hyena  (&c.,  as  in  §  14,
+down  to :)
+
+'  Let  no  one,  O  Bhikkhus,  eat  a  hyena's  flesh.  He
+who  does,  commits  a  dukka/a  offence.'
+
+
+VI,  24,3-  ON    MEDICAMENTS.  87
+
+
+24.
+
+1.  And  the  Blessed  One,  after  having  dwelt  at
+Benares  as  long  as  he  thought  fit,  went  forth  to
+Andhakavinda,  accompanied  by  a  great  number  of
+Bhikkhus,  by  twelve  hundred  and  fifty  Bhikkhus.
+At  that  time  the  people  in  the  country,  after  having
+loaded  their  carts  with  much  salt  and  oil  and  rice
+and  hard  food,  followed  from  behind  the  fraternity
+of  Bhikkhus  with  the  Buddha  at  its  head  (thinking),
+
+'  When  our  turn  comes,  we  will  make  a  meal  for
+them ;'  and  five  hundred  people  who  ate  the  remains
+of  (the  Bhikkhus')  food  (followed  on  their  way).  And
+the  Blessed  One,  wandering  from  place  to  place,  came
+to  Andhakavinda.
+
+2.  Now  a  certain  Brahma;^a,  whose  turn  did  not
+come,  thought :  '  Two  months  have  elapsed  while
+I  have  been  following  the  fraternity  of  Bhikkhus
+with  the  Buddha  at  its  head,  in  order  to  make  a
+meal  for  them  when  my  turn  comes,  but  my  turn
+does  not  come.  I  am  alone  here,  and  many  house-
+hold affairs  of  mine  are  pfoinof  to  ruin.  What  if  I
+were  to  look  into  the  provision-room,  and  what
+I  should  not  see  in  the  provision-room,  to  prepare
+that  (for  the  Bhikkhus)!'  Then  that  Brahma?^a
+looked  into  the  provision-room  and  did  not  see  there
+two  (sorts  of  food),  rice-milk  and  honey-lumps.
+
+3.  And  that  Brahmawa  went  to  the  place  where
+the  venerable  Ananda  was;  having  approached  him,
+
+A
+
+he  said  to  the  venerable  Ananda  :  '  As  my  turn  did
+
+A
+
+not  come,  my  dear  Ananda,  I  thought:  "  Two  months
+have  elapsed  (&c.,  down  to  :).  What  if  I  were  to
+look  into  the  provision-room,  and  what  I  should  not
+
+
+88  MAHAVAGGA.  VI,  24,  4,
+
+
+see  in  the  provision-room,  to  prepare  that ! "  Thus,  my
+dear  Ananda,  I  looked  into  the  provision-room  and  did
+not  see  there  two  (sorts  of  food),  rice-milk  and  honey-
+lumps.  If  I  were  to  prepare,  my  dear  Ananda,  rice-
+milk  and  honey-lumps  (for  the  Bhikkhus),  would  the
+reverend  Gotama  accept  it  from  me?'
+
+'Well,  my  good  Brahma;^a,  I  will  ask  the  Blessed
+One.'
+
+4.  And  the  venerable  Ananda  told  this  thing  to
+the  Blessed  One.
+
+'Well,  Ananda,  let  him  prepare  (those  dishes).'
+'  Well,  my  good  Brahma^za,  you  may  prepare  (those
+dishes).'
+
+And  when  the  night  had  elapsed,  that  Brahma;2a
+had  abundant  rice-milk  and  honey-lumps  prepared,
+and  offered  them  to  the  Blessed  One  (in  the  words) :
+'  May  the  reverend  Gotama  accept  from  me  this  rice-
+milk  and  honey-lumps.'
+
+'  Well,  my  good  Brahma/^a,  give  it  to  the  Bhikkhus.'
+The  Bhikkhus,  fearing  to  offend,  did  not  accept  it.
+'  Accept  it,  O  Bhikkhus,  and  eat  it.'
+Then  that  Brahma/za  with  his  own  hands  served
+and  offered  abundant  rice-milk  and  honey-lumps  to
+the  fraternity  of  Bhikkhus  with  the  Buddha  at  its
+head ;   and  when  the  Blessed  One  had  washen  his
+hands,  when  he  had  cleansed  his  bowl  and  his  hands,
+he  sat  down  near  him.
+
+5.  When  he  was  seated  near  him,  the  Blessed
+One  said  to  that  Brahma/^a :  '  Tenfold,  O  Brah-
+ma/za,  is  the  merit  attached  to  rice-milk.  In  what
+way  is  it  tenfold  ?  He  who  gives  rice-milk,  gives
+life ;  he  gives  colour ;  he  gives  joy ;  he  gives
+strength ;  he  gives  readiness  of  mind ;  rice-milk
+when   it   is   drunk   removes  hunger ;  dispels  thirst ;
+
+
+VI,  25,  I.  ON    MEDICAMENTS.  89
+
+sets  right  the  humors  of  the  body ;  purifies  the
+bladder ;  and  promotes  the  digestion.  This  ten-
+fold merit,  O  Brahmawa,  is  attached  to  rice-milk.
+
+6.  'He  who  attentively  at  the  right  time  gives
+rice-milk  to  the  self-possessed,  who  live  on  what
+others  give  to  them,  will  benefit  them  in  ten  ways :
+life  and  colour,  joy  and  strength  (he  gives  to  them); —
+
+'  Readiness  of  mind  arises  from  it;  it  dispels  hunger
+and  thirst,  and  sets  the  humors  right ;  it  purifies  the
+bladder,  and  brings  the  food  to  digestion.  As  medi-
+cine the  Perfect  One  has  praised  it.
+
+'  Therefore  should  rice-milk  be  continually  given
+by  a  man  who  is  longing  for  joy,  who  is  desirous  of
+heavenly  joy,  or  who  aspires  to  human  prosperity.'
+
+7.  And  the  Blessed  One,  having  gladdened  that
+Brahma;^a  by  these  stanzas,  rose  from  his  seat  and
+went  away.
+
+And  in  consequence  of  this  event  the  Blessed
+One,  after  having  delivered  a  religious  discourse,
+thus  addressed  the  Bhikkhus :  '  I  allow  you,  O
+Bhikkhus,  (to  partake  of)  rice-milk  and  honey-
+lumps.'
+
+
+25.
+
+I.  Now  the  people  heard:  'The  Blessed  One
+has  allowed  (to  the  Bhikkhus  to  partake  of)  rice-
+milk  and  honey-lumps.'  They  prepared  early  in
+the  morning  solid  rice-milk »  and  honey-lumps.
+The   Bhikkhus,  having  satiated  themselves  in  the
+
+
+^  Bho^^a-yagu,  literally,  eatable  rice-milk, which  seems  opposed
+to  the  ordinary  rice-milk  which  w^as  drunk.  Yagu  is  the  Pali  word
+for  what  is  called  in  Anglo-Indian  terminology '  congey.'  Bho^^a-
+yagu  is  'rice  pudding  made  with  milk.'
+
+
+QO  MAHAVAGGA.  VI,  25,  2.
+
+niornine  with  solid  rice-milk  and  with  honey-lumps,
+(afterwards)  did  not  dine  in  the  dining-hall  with
+good  appetite.  At  that  time  a  certain  minister,  who
+was  but  newly  converted,  had  invited  the  fraternity
+of  Bhikkhus  with  the  Buddha  at  its  head  for  the
+next  day.  Now  this  newly  converted  minister
+thought:  'What  if  I  were  to  prepare  for  these
+twelve  hundred  and  fifty  Bhikkhus  twelve  hundred
+and  fifty  dishes  of  meat,  and  offer  to  each  Bhikkhu
+one  dish  of  meat!'
+
+2.  And  when  that  night  had  elapsed,  that  newly
+converted  minister  ordered  excellent  food,  both  hard
+and  soft,  and  twelve  hundred  and  fifty  dishes  of
+meat  to  be  prepared,  and  had  meal-time  announced
+to  the  Blessed  One  in  the  words  :  'It  is  time.  Lord,
+the  meal  is  ready.'  And  in  the  forenoon  the  Blessed
+One,  having  put  on  his  under-robes,  took  his  alms-
+bowl,  and,  with  his  /C-ivara  on,  went  to  the  house
+of  that  newly  converted  minister.  When  he  had
+arrived  there,  he  sat  down  with  the  Bhikkhus  who
+followed  him,  on  seats  laid  out  for  them.
+
+3.  Then  that  newly  converted  minister  in  his  dining-
+hall  waited  on  the  Bhikkhus.  The  Bhikkhus  said
+to  him  :  '  Give  us  little,  friend ;  give  us  little,  friend.'
+
+'  Do  not  take  little,  reverend  Sirs,  because  you
+think:  "This  minister  is  but  newly  converted."
+Much  food,  both  hard  and  soft,  has  been  prepared
+by  me,  and  twelve  hundred  and  fifty  dishes  of  meat ;
+I  will  offer  to  each  Bhikkhu  one  dish  of  meat.  Take,
+reverend  Sirs,  as  much  as  you  want.'
+
+'  This  is  not  the  reason,  friend,  for  which  we  take
+little.  But  we  have  satiated  ourselves  in  the
+morning  with  solid  rice-milk  and  with  honey-lumps ;
+therefore  we  take  little.'
+
+
+VI,  25,  5  ON    MEDICAMENTS.  9 1
+
+
+4.  And  that  newly  converted  minister  was  an-
+noyed, murmured,  and  became  angry  :  '  How  can
+their  reverences,  when  I  have  invited  them,  partake
+of  solid  rice-milk  with  other  people,  as  if  I  were
+unable  to  give  them  as  much  as  they  want.'
+(Thinking  thus),  he  went  around  angry,  displeased,
+and  in  an  offensive  temper,  filling  the  bowls  of  the
+Bhikkhus  (and  saying),  '  Eat  or  take  it  away!'  And
+that  newly  converted  minister  served  and  offered
+with  his  own  hands  excellent  food,  both  hard  and
+soft,  to  the  fraternity  of  Bhikkhus  with  the  Buddha
+at  its  head ;  and  when  the  Blessed  One  had  finished
+his  meal  and  cleansed  his  bowl  and  his  hands,  he
+sat  down  near  him.  And  the  Blessed  One,  after
+having  taught,  incited,  animated,  and  gladdened
+that  newly  converted  minister,  who  was  sitting  near
+him,  by  religious  discourse,  rose  from  his  seat  and
+went  away.
+
+5.  And  soon  after  the  Blessed  One  was  gone,
+scruples  and  remorse  befell  that  newly  converted
+minister :  '  Alas,  it  is  evil  to  me,  it  is  not  good
+to  me !  Alas,  it  is  loss  to  me,  it  is  not  gain  to  me
+that  I  went  around  (among  the  Bhikkhus)  angry,
+displeased,  and  in  an  offensive  temper,  filling  their
+bowls  (and  saying),  "Eat  or  take  it  away!"  What
+have  I  produced  thereby,  more  merit  or  more
+demerit  ?'
+
+And  that  newly  converted  minister  went  to  the
+place  where  the  Blessed  One  was  ;  having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he
+sat  down  near  him.  Sitting  near  him,  that  newly
+converted  minister  said  to  the  Blessed  One  :  '  Lord,
+soon  after  the  Blessed  One  was  gone,  scruples  and
+remorse  have  befallen  me  :   "  Alas,  it  is  evil  to  me
+
+
+92  MAHAVAGGA.  VI,  25,  6.
+
+(&c.,  down  to:)  more  merit  or  more  demerit?"
+Lord,  what  have  I  produced  thereby,  more  merit  or
+more  demerit  ?'
+
+6.  '  The  moment,  friend,  in  which  you  invited  the
+fraternity  of  Bhikkhus  with  the  Buddha  at  its  head
+for  the  next  day,  that  moment  you  acquired
+much  merit.  And  the  moment  in  which  each
+Bhikkhu  received  one  lump  of  rice  from  you,
+that  moment  you  acquired  much  merit.  You  gained
+the  inheritance  of  heaven.'
+
+Then  that  newly  converted  minister  thought :
+'  Oh,  it  is  good  to  me !  Oh,  it  is  gain  to  me !
+I  have  acquired  much  merit!  I  have  gained  the
+inheritance  of  heaven !' — and  glad  and  joyful  he
+rose  from  his  seat,  respectfully  saluted  the  Blessed
+One,  and  passing  round  him  with  his  right  side
+towards  him,  went  away.
+
+7.  In  consequence  of  that,  and  on  this  occasion,
+the  Blessed  One,  having  ordered  the  fraternity  of
+Bhikkhus  to  assemble,  questioned  the  Bhikkhus :
+*  Is  it  true,  O  Bhikkhus,  that  the  Bhikkhus,  having
+been  invited  to  one  place,  partake  of  solid  rice-
+milk  with  other  persons  ? '
+
+'  It  is  true.  Lord.'
+
+Then  the  blessed  Buddha  rebuked  those  Bhik-
+khus :  'How  can  these  foolish  persons,  O  Bhikkhus,
+having  been  invited  to  one  place,  partake  of  solid
+rice-milk  with  other  persons  ?  This  will  not  do,
+O  Bhikkhus,  for  converting  the  unconverted,'  &c.
+Having  rebuked  them  and  delivered  a  religious  dis-
+course, he  thus  addressed  the  Bhikkhus  :  *  Let  no
+one,  O  Bhikkhus,  when  he  is  invited  to  one  place,
+partake  of  solid  rice-milk  with  other  persons.  He
+who  does,  is  to  be  treated  according  to  the  law.'
+
+
+VI,  26,  3-  ON    MEDICAMENTS.  93
+
+
+26  \
+
+1.  And  the  Blessed  One,  after  having  dwelt  at
+Andhakavinda  as  long  as  he  thought  fit,  went  forth
+to  Ra^agaha,  accompanied  by  a  great  number  of
+Bhikkhus,  by  twelve  hundred  and  fifty  Bhikkhus.
+At  that  time  Bela///^a  Ka/^/'ana  was  travelling  on
+the  road  from  Ra;fagaha  to  Andhakavinda  with  five
+hundred  carts  all  full  of  pots  of  sugar.  And  the
+Blessed  One  saw  Bela///^a  Ka/i'/'ana  comincj  from
+afar ;  when  he  saw  him,  he  left  the  road,  and  sat
+down  at  the  foot  of  a  tree.
+
+2.  And  Bela/Z/^a  Ka/'/C'ana  went  to  the  place
+where  the  Blessed  One  was ;  having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he
+stationed  himself  near  him.  Standing  near  him,
+Bela////a  Ka/J'>('ana  said  to  the  Blessed  One :  *  I
+wish,  Lord,  to  give  to  each  Bhikkhu  one  pot  of
+sugar.'
+
+'  Well,  Kai/^ana,  bring  here  one  pot  of  sugar.'
+Bela///!a  Ka/^/'ana  accepted  this  order  of  the
+Blessed  One  (by  saying),  *  Yes,  Lord,'  took  one
+pot  of  sugar  and  went  to  the  place  where  the  Blessed
+One  was ;  having  approached  him,  he  said  to  the
+Blessed  One  :  '  I  have  brought  here.  Lord,  the  pot
+of  sugar;  what  shall  I  do  with  it,  Lord  .'*'
+
+'  Well,  KaMana.,  give  the  sugar  to  the  Bhik-
+khus.'
+
+3.  Bela///^a  Ka>i'/^ana  accepted  this  order  of  the
+Blessed    One    (by   saying),  '  Yes,  Lord,'   gave    the
+
+^  See  the  33rd  PaX-ittiya  Rule  about  parampara-bho^ana  (taking
+food  in  turn).
+
+
+94
+
+
+MAHAVAGGA.  VI,  26,  4.
+
+
+suc^ar  to  the  Bhikkhus,  and  said  to  the  Blessed
+One :  '  I  have  given  the  sugar  to  the  Bhikkhus,
+Lord,  but  there  is  much  sugar  left  over ;  what  shall
+I  do  with  it.  Lord  ?'
+
+*  Well,  Ka/l'/^ana,  give  the  Bhikkhus  as  much  sugar
+as  they  want.*
+
+Bela////a  KaMana.  accepted  this  order  of  the
+Blessed  One  (by  saying),  'Yes,  Lord,'  gave  the
+Bhikkhus  as  much  sugar  as  they  wanted,  and  said
+to  the  Blessed  One:  'I  have  given.  Lord,  the
+Bhikkhus  as  much  sugar  as  they  want,  but  there
+is  much  sugar  left  over;  what  shall  I  do  with  it.
+Lord  ?'
+
+'Well,  KaiMna,  let  the  Bhikkhus  eat  their   fill
+
+with  sugar/
+
+Bela///^a  Ka/^/^ana  accepted  this  order  of  the
+Blessed  One  (by  saying),  '  Yes,  Lord,'  and  let  the
+Bhikkhus  eat  their  fill  with  sugar;  some  Bhikkhus
+filled  their  bowls  and  filled  their  water  strainers
+and  bags  with  it.
+
+4.  And  Bela///^a  Ka/^Mna,  having  let  the  Bhik-
+khus eat  their  fill  with  sugar,  said  to  the  Blessed
+One:  'The  Bhikkhus,  Lord,  have  eaten  their  fill
+with  sugar,  but  there  is  much  sugar  left  over ;  what
+shall  I  do  with  it,  Lord  ? '
+
+'Well,  KaMana,  give  the  sugar  to  the  people
+who  eat  the  remains  of  (the  Bhikkhus')  food,'  &c.
+
+'Well,  Ka/^Mna,  give  the  people  who  eat  the
+remains  of  (the  Bhikkhus')  food  as  much  sugar
+as  they  want,'  &c.
+
+5.  'Well,  Ka/^/^ana,  let  the  people  who  eat  the
+remains  of  (the  Bhikkhus)  food,  eat  their  fill  with
+sugar'  (&c.,  down  to:);  some  of  the  people  who
+ate  the  remains  of  (the  Bhikkhus')  food,  filled  their
+
+
+VI,  26,8.  ON    MEDICAMENTS.  95
+
+pots  and  jars,  and  filled  dieir  baskets  and  the  folds
+of  their  dress  with  it.
+
+6.  And  Bela///^a  Ka/'/'ana,  having  let  the  people
+who  ate  the  remains  of  (the  Bhikkhus')  food,  eat
+their  fill  with  sugar,  said  to  the  Blessed  One :  '  The
+people.  Lord,  who  eat  the  remains  of  (the  Bhik-
+khus') food,  have  eaten  their  fill  with  sugar,  but
+there  is  much  sugar  left  over ;  what  shall  I  do  with
+it,  Lord?'
+
+*  I  see  no  one,  Kay('/C'ana,  in  the  world  of  men
+and  gods,  in  Maras  and  Brahma's  world,  among  all
+beings,  Sama;/as  and  Brahma;^as,  gods  and  men,
+by  whom  that  sugar,  when  he  has  eaten  it,  can
+be  fully  assimilated,  save  by  the  Tathagata  or  by
+a  disciple  of  the  Tathagata.  Therefore,  Ka/^/'ana,
+throw  that  sugar  away  at  a  place  free  from  grass,
+or  sink  it  into  water  in  which  there  are  no  livintr
+things.'
+
+Bela////a  Ka>('/'ana  accepted  this  order  of  the
+Blessed  One  (by  saying),  '  Yes,  Lord,'  and  sunk
+that  sugar  into  water  in  which  there  were  no  living
+thinors,
+
+o
+
+7.  And  that  sugar,  when  thrown  into  the  water,
+hissed  and  bubbled,  and  steamed,  and  sent  forth
+smoke.  As  a  ploughshare,  which  has  been  heated
+through  the  whole  day  and  is  thrown  into  water,
+hisses  and  bubbles,  and  steams,  and  sends  forth
+smoke,  so  that  sugar,  when  thrown  into  the  water,
+hissed  and  bubbled,  steamed,  and  sent  forth  smoke.
+And  Bela///;a  Ka/i'Mna,  terrified  and  having  his  hair
+erect  with  fear,  went  to  the  place  where  the  Blessed
+One  was ;  having  approached  him  and  respectfully
+saluted  the  Blessed  One,  he  sat  down  near  him.
+
+8.  When  Bela////a  Ka/'/{-ana  was  sittinir  near  him,
+
+
+g6  MAHAVAGGA.  VI,  26, 9.
+
+the  Blessed  One  preached  to  him  in  due  course ;
+that  is  to  say,  he  talked  about  the  merits  obtained
+by  alms-giving,  about  the  duties  of  morality,  about
+heaven,  about  the  evils,  the  vanity,  and  the  defile-
+ment of  lusts,  and  about  the  blessings  of  the
+abandonment  of  lusts.  When  the  Blessed  One  saw
+that  the  mind  of  Bela///^a  Ka/C'Mna  was  prepared,
+impressible,  free  from  obstacles  (to  understanding
+the  Truth),  elated,  and  believing,  then  he  preached
+what  is  the  principal  doctrine  of  the  Buddhas,
+namely,  Suffering,  the  Cause  of  suffering,  the  Cessa-
+tion of  suffering,  the  Path.  Just  as  a  clean  cloth  free
+from  black  specks  properly  takes  the  dye,  thus
+Bela^'Z/^a  Ka/^Mna,  even  while  sitting  there,  obtained
+the  pure  and  spotless  Eye  of  the  Truth  (that  is,
+the  knowledge) :  '  Whatsoever  is  subject  to  the
+condition  of  origination  is  subject  also  to  the  con-
+dition of  cessation.'
+
+9.  And  Bela///^a  Ka/'/^ana,  having  seen  the  Truth,
+having  mastered  the  Truth,  having  understood  the
+Truth,  having  penetrated  the  Truth,  having  over-
+come uncertainty,  having  dispelled  all  doubts,  having
+gained  full  knowledge,  dependent  on  nobody  else
+for  the  knowledge  of  the  doctrine  of  the  Teacher,
+said  to  the  Blessed  One  :  '  Glorious,  Lord !  glorious,
+Lord !  Just  as  if  one  should  set  up,  Lord,  what
+had  been  overturned,  or  should  reveal  what  had
+been  hidden,  or  should  point  out  the  way  to  one
+who  had  lost  his  way,  or  should  bring  a  lamp  into
+the  darkness,  in  order  that  those  who  had  eyes
+might  see  visible  things,  thus  has  the  Blessed  One
+preached  the  doctrine  in  many  ways.  I  take  my
+refuge.  Lord,  in  the  Blessed  One,  and  in  the
+Dhamma,  and  in  the  fraternity  of  Bhikkhus;   may
+
+
+VI,  28,  I.  ON    MEDICAMENTS.  97
+
+the  Blessed  One  receive  me  from  this  day  forth
+while  my  life  lasts  as  a  disciple  who  has  taken  his
+refuQfe  in  him.'
+
+
+27.
+
+And  the  Blessed  One,  wandering  from  place  to
+place,  came  to  Ra^agaha.  There  the  Blessed  One
+dwelt  near  Ra^gaha,  in  the  Ve/uvana,  at  Kalanda-
+kanivapa.  At  that  time  the  Bhikkhus  at  Ra^agaha
+had  plenty  of  sugar.  The  Bhikkhus  feared  to
+offend  (and  thought) :  *  The  Blessed  One  has
+allowed  the  eating  of  sugar  only  to  the  sick  and
+not  to  the  healthy,'  and  therefore  they  did  not  eat
+sugar.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  to  the  sick  the  eating  of
+sugar,  and  to  the  healthy  the  drinking  of  sugar-
+water.'
+
+
+28  ^
+
+I.  And  the  Blessed  One,  after  having  dwelt  at
+Ra^aofaha  as  lone  as  he  thouQ^ht  fit,  went  forth
+to  Pa/aligama,  accompanied  by  a  great  number  of
+Bhikkhus,  by  twelve  hundred  and  fifty  Bhikkhus,
+Wandering  from  place  to  place  the  Blessed  One
+came  to  Pa/aligama.
+
+'  Chaps.  28-30  are,  with  a  few  unimportant  variations,  word  for
+word  the  same  as  Mahaparinibbana  Sutta  I,  19-II,  3;  II,  16-24.
+See  Rh.  D.'s  Introduction  to  his  translation  of  the  Mahaparinibbana
+Sutta,  pp.  xxxiv  seq.,  and  his  note  there  at  II,  16.
+
+[17]  H
+
+
+98  MAHAVAGGA.  VI,  28,  2.
+
+Now  the  lay-devotees  at  Pa/aligama  heard  :  *  The
+Blessed  One  has  arrived  at  Pa/aligama.'  And  the
+Pa/aligama  lay-devotees  went  to  the  place  where
+the  Blessed  One  was ;  having  approached  him  and
+respectfully  saluted  the  Blessed  One,  they  sat  down
+near  him.  When  they  were  seated  near  him,  the
+Blessed  One  taught,  incited,  animated,  and  glad-
+dened the  Pa/aligama  lay-devotees  by  religious
+discourse.
+
+2.  And  the  Pa/aligama  lay-devotees,  having  been
+taught,  incited,  animated,  and  gladdened  by  the
+Blessed  One  by  religious  discourse,  said  to  the
+Blessed  One:  'Might  the  Blessed  One,  Lord,
+consent  to  come  to  our  rest  house  together  with
+the  fraternity  of  Bhikkhus.'  The  Blessed  One
+expressed  his  consent  by  remaining  silent.  Then
+the  Pa/aligama  lay-devotees,  when  they  understood
+that  the  Blessed  One  had  accepted  their  invitation,
+rose  from  their  seats,  respectfully  saluted  the  Blessed
+One,  and  passing  round  him  with  their  right  side
+towards  him,  went  away  to  the  rest  house.  When
+they  had  arrived  there,  they  strewed  the  whole  floor
+of  the  rest  house  ^  placed  seats  in  it,  set  up  a
+water-pot,  and  fixed  an  oil  lamp.  Then  they  went
+to  the  place  where  the  Blessed  One  was;  having
+approached  him  and  respectfully  saluted  the  Blessed
+One,  they  stationed  themselves  near  him.
+
+3.  Standing  near  him  the  Pa/aliputta  lay-devotees
+said  to  the  Blessed  One:  'We  have  strewn  the
+whole  floor  of  the  rest  house.  Lord,  (with  sand),
+we  have  placed  seats  in  it,  set  up  a  water-pot,  and
+
+
+^  Perhaps  we  are  to  supply  '  with  sand.'     Comp.  Dipava/«sa  VI,
+64;  XII,  71,  &c.
+
+
+VI,  28, 4.  ON    MEDICAMENTS.  99
+
+
+fixed  an  oil  lamp.     May  the  Blessed  One,  Lord,  do
+now  what  he  thinks  fit.'
+
+And  in  the  forenoon  the  Blessed  One,  having
+put  on  his  under-robes,  took  his  alms-bowl,  and,
+with  his  X'ivara  on,  went  to  the  rest  house  together
+with  the  Bhikkhus  who  followed  him.  When  he
+had  arrived  there,  he  washed  his  feet,  entered  the
+rest  house,  and  took  his  seat  against  the  centre
+pillar,  with  his  face  towards  the  east.  And  the
+Bhikkhus  also  washed  their  feet,  entered  the  rest
+house,  and  took  their  seats  against  the  western
+wall,  with  their  faces  towards  the  east,  having  the
+Blessed  One  before  their  eyes.  And  the  Pa/aligama
+lay-devotees  also  washed  their  feet,  entered  the
+rest  house,  and  took  their  seats  against  the  eastern
+wall,  with  their  faces  towards  the  west,  having  the
+Blessed  One  before  their  eyes.
+
+4.  Then  the  Blessed  One  thus  addressed  the
+Pd/aligama  lay-devotees  :  *  Fivefold,  O  householders,
+is  the  loss  of  the  wrong-doer  through  his  want  of
+rectitude.  And  which  is  this  fivefold  loss?  In  the
+first  place,  O  householders,  the  wrong-doer,  devoid
+of  rectitude,  falls  into  great  poverty  through  sloth ;
+this  is  the  first  loss  of  the  wrong-doer  through  his
+want  of  rectitude.  And  again,  O  householders,  of
+the  wrong-doer,  devoid  of  rectitude,  evil  repute  gets
+noised  abroad ;  this  is  the  second  &c.  And  again,
+O  householders,  whatever  society  the  wrong-doer,
+devoid  of  rectitude,  enters — whether  of  noblemen,
+Brahma;^as,  heads  of  houses,  or  Sama;^as — he  enters
+shyly  and  confused ;  this  is  the  third  &c.  And
+aeain,  O  householders,  the  wrong-doer,  devoid  of
+rectitude,  is  full  of  anxiety  when  he  dies;  this  is
+the   fourth    &c.     And   again,  O    householders,  the
+
+II  2
+
+
+no  MAHAVAGGA.  VI,  31,  4.
+
+in  praise  of  the  Buddha,  of  the  Dhamma,  and  of  the
+Sawgha.  What  are  the  Nigan^/ms  to  me,  whether
+they  give  their  consent  or  not  ?  What  if  I  were  to
+go  without  asking  the  Niga;^//^as  for  their  consent,
+to  visit  him,  the  Blessed  One,  the  Arahat  Buddha.'
+
+4.  And  Siha,  the  general,  went  out  of  Vesali
+with  five  hundred  vehicles  at  broad  daylight  in
+order  to  visit  the  Blessed  One,  He  went  in  the
+carriage  as  far  as  the  ground  was  passable  for
+carriages ;  there  he  alighted ;  and  he  proceeded
+on  foot  to  the  place  where  the  Blessed  One  was.
+Having  approached  him,  and  respectfully  saluted
+the  Blessed  One,  he  sat  down  near  him.  When
+he  was  sitting  near  him,  Siha,  the  general,  said  to
+the  Blessed  One :  '  I  have  heard,  Lord,  that  the
+Sama;^a  Gotama  denies  the  result  of  actions ;  he
+teaches  the  doctrine  of  non-action,  and  in  this
+doctrine  he  trains  his  disciples.  Now,  Lord,  those
+who  speak  thus :  "  The  Sama;2a  Gotama  denies
+the  result  of  actions,"  &c. — do  they  say  the  truth
+of  the  Blessed  One,  and  do  they  not  bear  false
+witness  against  the  Blessed  One  and  pass  off  a
+spurious  Dhamma  as  your  Dhamma  ?  And  there
+is  nothing  blameworthy  in  a  discourse  and  dispute
+like  this  regarding  matters  of  the  Dhamma ;  for  it
+is  our  intention,  Lord,  to  avoid  bringing  false  accu-
+sations against  the  Blessed  One.'
+
+5  \  '  There  is  a  way,  Siha,  in  which  one  speak-
+ing truly  could  say  of  me :  "  The  Sama?^a  Gotama
+denies  action ^j  he  teaches  the  doctrine  of  non-
+action ;  and  in  this  doctrine  he  trains  his  disciples."
+
+^  A  part  of  the  following  discourse  is  the  same  as  Suttavibhahga,
+Para^.  I,  i,  3.
+
+2  '  The  doctrine  of  non-action,'  and  '  the  doctrine  of  action,'
+
+
+VI,  31,  5"  ON   MEDICAMENTS.  Ill
+
+'  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama;^a  Go-
+tama  maintains  action  ^  ;  he  teaches  the  doctrine  of
+action ;  and  in  this  doctrine  he  trains  his  disciples."
+
+*  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama;^a  Go-
+tama  maintains  annihilation  ^ ;  he  teaches  the  doctrine
+of  annihilation ;  and  in  this  doctrine  he  trains  his
+disciples."
+
+*  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama;^a  Go-
+tama  proclaims  contemptibleness  "^ ;  he  teaches  the
+doctrine  of  contemptibleness ;  and  in  this  doctrine
+he  trains  his  disciples."
+
+'  And  again,  &c. :  "  The  Sama;/a  Gotama  pro-
+claims Vinaya*;  he  teaches  the  doctrine  of  Vinaya;
+and  in  this  doctrine  he  trains  his  disciples."
+
+'  And  again,  &c. :  "  The  Sama;/a  Gotama  pro-
+claims Tapas^,  &c."
+
+'And  again,  &c. :  "The  Sama;2a  Gotama  is  apagab-
+bha'';  he  teaches  the  doctrine  of  apagabbhata,  &c."
+
+taken  in  the  ordinary  sense  of  the  words,  are  the  doctrines  that
+the  actions  of  sentient  beings  receive  not,  or  receive,  their  reward
+according  to  the  law  of  moral  retribution.     In  this  discourse,  how-
+ever, a  peculiar  meaning  is  attached  to  these  two  terms;  see  §  6.
+^  See  note  2,  p.  no.
+
+2  U/('Medavada  ('the  doctrine  of  annihilation')  is  the  doctrine
+that  death  is  the  annihilation  of  existence  (' uH'/^edavada  sato
+sattassa  M^^kedam  vinasawz  vibhavawz  paTiftapenti.'  Brahma^ala-
+sutta).  But  in  this  discourse  the  word  is  taken  in  a  peculiar  sense ;
+comp.  §  7.
+
+3  GeguWiilL     See  §  7.
+
+*  '  Right  conduct.'  But  in  this  discourse  it  is  also  taken  in  the
+sense  of  '  putting  away'  (scil.  evil) ;  see  §  8.
+
+^  '  Self-mortification,'  literally, '  burning,'  in  which  sense  the  word
+is  taken  in  §  8.
+
+®  Apagabbha  (apragalbha)  and  apagabbhata  ordinarily  mean
+
+
+I02  MAHAVAGGA.  VI,  28,  9.
+
+
+and  clear  vision  (&c.,  as  in  J  7,  down  to :)  they  bend
+the  hearts  of  inferior  kings  and  ministers  to  build
+dwelling-places  there.  As  far,  Ananda,  as  Aryan
+people  dwell,  as  far  as  merchants  travel,  this  will
+become  the  chief  town,  the  city  of  Pa/aliputta.  But
+danger  of  destruction,  Ananda,  will  hang  over  Pa/a-
+liputta  in  three  ways,  by  fire,  or  by  water,  or  by
+internal  discords'
+
+9.  And  the  Magadha  ministers  Sunidha  and  Vassa-
+kara  went  to  the  place  where  the  Blessed  One  was ;
+having  approached  him,  they  exchanged  greeting
+with  the  Blessed  One ;  having  exchanged  with  him
+greeting  and  complaisant  words,  they  stationed
+themselves  near  him;  then  standing  near  him  the
+Magadha  ministers  Sunidha  and  Vassakara  said  to
+the  Blessed  One :  '  Might  the  reverend  Gotama
+consent  to  take  his  meal  with  us  to-day  together
+with  the  fraternity  of  Bhikkhus.'
+
+The  Blessed  One  expressed  his  consent  by  remain-
+ing silent.  Then  the  Magadha  ministers  Sunidha  and
+Vassakara,  when  they  understood  that  the  Blessed
+One  had  accepted  their  invitation,  went  away.
+
+
+^  The  event  prophesied  here,  Pa/aliputta's  becoming  the  capital
+of  the  Magadha  empire,  is  placed  by  the  various  authorities  under
+different  kings.  Hwen  Thsang  and  the  Burmese  writer  quoted  by
+Bishop  Bigandet  ('  Legend  of  the  Burmese  Buddha,'  third  edition,
+vol.  ii,  p.  183)  say  that  it  was  Kalasoka  who  removed  the  seat  of  the
+empire  to  Pa/aliputta.  The  Grains,  on  the  other  hand,  state  that
+it  was  Udayi,  the  son  of  A^atasattu.  Most  probably  the  latter
+tradition  is  the  correct  one,  as  even  king  Munds,  is  mentioned  in
+the  Ahguttara  Nikaya  as  having  resided  at  Pa/aliputta.  Comp.
+Rh.  D.'s  '  Buddhist  Suttas,'  Introd.  pp.  xv  seq. ;  H.  O.'s  Introduc-
+tion to  the  Mahavagga,  p.  xxxvii ;  and  the  remarks  of  Professor
+Jacobi  and  of  H.  O.  in  Zeitschrift  der  Deutschen  Morg.  Gesellschaft,
+vol.  xxxiv,  pp.  185,  751,  752,  note  2.
+
+
+VI,  28,  12.  ON    MEDICAMENTS.  IO3
+
+10.  And  the  Magadha  ministers  Sunidha  and
+Vassakara  ordered  excellent  food,  both  hard  and
+soft,  to  be  prepared,  and  had  meal-time  announced
+(&c.\  down  to:)  on  seats  laid  out  for  them.  And
+the  Magadha  ministers  Sunidha  and  Vassakara  with
+their  own  hands  served  and  offered  excellent  food,
+both  hard  and  soft,  to  the  fraternity  of  Bhikkhus
+with  the  Buddha  at  its  head ;  and  when  the  Blessed
+One  had  finished  his  meal  and  cleansed  his  bowl
+and  his  hands,  they  sat  down  near  him.  When  they
+were  sitting  near  him,  the  Blessed  One  gladdened
+the  Magadha  ministers  Sunidha  and  Vassakara  by
+these  stanzas  :
+
+11.  '  Wheresoe'er  the  prudent  man  shall  take  up
+his  abode,  let  him  support  there  good  and  upright
+men  of  self-control.
+
+*  Let  him  make  offerings  to  all  such  deities  as
+may  be  there.  Revered,  they  will  revere  him ;
+honoured,  they  honour  him  again ;
+
+*  Are  gracious  to  him  as  a  mother  to  the  son  of
+her  womb.  And  a  man  who  has  the  grace  of  the
+gods,  good  fortune  he  beholds.'
+
+And  the  Blessed  One,  having  gladdened  the
+Magadha  ministers  Sunidha  and  Vassakara  by  these
+stanzas,  rose  from  his  seat  and  went  away.
+
+12.  And  the  Maeadha  ministers  Sunidha  andVassa-
+kara  followed  the  Blessed  One  from  behind,  saying,
+*  The  gate  the  Sama?2a  Gotama  goes  out  by  to-day
+shall  be  called  Gotama's  gate,  and  the  ferry  at  which
+he  crosses  the  river  Ganges  shall  be  called  Gotama's
+ferry.'    And  the  gate  the  Blessed  One  went  out  by
+
+
+^  See  chap.  23.  5,  &c.    Instead  of  '  Lord,'  read  here,  '  Reverend
+Gotama.'
+
+
+I04  MAHAVAGGA,  VI,  28,  13.
+
+
+was  called  Gotama's  gate.  And  the  Blessed  One
+went  on  to  the  river.  At  that  time  the  river  Ganges
+was  brimful  and  overflowing^ ;  and  wishing  to  cross
+to  the  opposite  bank,  some  began  to  seek  for  boats,
+some  for  rafts  of  wood,  while  some  made  rafts  of
+basket-work.
+
+13.  And  the  Blessed  One  saw  those  people  who
+wished  to  cross  to  the  opposite  bank,  some  seeking
+for  boats,  some  for  rafts  of  wood,  and  some  making
+rafts  of  basket-work.  When  he  saw  them,  he  van-
+ished as  quickly  as  a  strong  man  might  stretch  his
+bent  arm  out,  or  draw  back  his  outstretched  arm,
+from  this  side  of  the  river  Ganges,  and  stood  on  the
+further  bank  with  the  company  of  the  Bhikkhus.
+
+And  the  Blessed  One,  perceiving  all  this,  on  this
+occasion,  pronounced  this  solemn  utterance  :
+
+'  They  who  cross  the  ocean's  floods  making  a
+solid  path  across  the  pools —
+
+'  Whilst  the  vain  world  ties  its  basket  rafts  :  these
+are  the  wise,  these  are  the  saved  indeed.'
+
+
+29.
+
+I.  And  the  Blessed  One  went  to  Ko/igama.
+There  at  Ko/igama  the  Blessed  One  resided.  And
+the  Blessed  One  thus  addressed  the  Bhikkhus  :
+
+'  It  is  through  not  understanding  and  grasping
+four  Noble  Truths,  O  Bhikkhus,  that  we  have  had
+to  run  so  long,  to  wander  so  long  in  this  weary  path
+of  transmigration,  both  you  and  I.     And  what  are
+
+^  Samatitthika.  This  word  is  replaced  by  samatirthika  at
+Lai.  Vist.  pp.  50 1 , 5  2  8.  Compare,  however,  Rh.  D.'s  note  on  Tevi^^a
+Sutta  I,  24  ('Buddhist  Suttas,'  p.  178).
+
+
+VI,  30,  r.  ON   MEDICAMENTS.  I05
+
+these  four  ?  By  not  understanding  and  grasping
+the  Noble  Truth  of  Suffering,  O  Bhikkhus ;  by  not
+understanding  and  grasping  the  Noble  Truth  of
+the  Cause  of  suffering ;  by  not  understanding  and
+grasping  the  Noble  Truth  of  the  Cessation  of
+suffering ;  by  not  understanding  and  grasping  the
+Noble  Truth  of  the  Path  which  leads  to  the  cessa-
+tion of  suffering  :  thereby  we  have  had  to  run  so
+long,  to  wander  so  long  in  this  weary  path  of  trans-
+migration, both  you  and  I.
+
+2.  'But  now,  O  Bhikkhus,  the  Noble  Truth  of
+Suffering  is  understood  and  grasped ;  the  Noble
+Truth  of  the  Cause  of  suffering,  &c.,  of  the  Cessa-
+tion of  suffering,  &c.,  of  the  Path  which  leads  to
+the  cessation  of  suffering  is  understood  and  grasped.
+The  craving  for  existence  is  rooted  out ;  that  which
+leads  to  renewed  existence  is  destroyed ;  and  there
+is  no  more  birth  !
+
+*  By  not  seeing  the  four  Noble  Truths  as  they
+really  are,  long  is  the  path  that  is  traversed  through
+many  a  birth.
+
+'  Now  these  are  grasped ;  the  cause  of  birth  is
+removed,  the  root  of  sorrow  rooted  out,  and  there
+is  no  more  birth.'
+
+
+30.
+
+I.  Now  the  courtezan  Ambapali  heard  that  the
+Blessed  One  had  arrived  at  Ko/igama.  And  the
+courtezan  Ambapali  ordered  a  number  of  magni-
+ficent vehicles  to  be  made  ready,  mounted  one  of
+these  vehicles,  and  left  Vesali  with  her  magnificent
+vehicles  in   order  to  visit  the   Blessed   One.     She
+
+
+A
+
+
+1 06  MAHAVAGGA.  VI,  30,
+
+
+went  in  the  carriage  as  far  as  the  ground  was  pass-
+able for  carriages ;  there  she  aHghted ;  and  she
+proceeded  on  foot  to  the  place  where  the  Blessed
+One  was.  Having  approached  him  and  respectfully
+saluted  the  Blessed  One,  she  sat  down  near  him.
+
+2.  When  she  was  sitting  near  him,  the  Blessed
+One  taught,  incited,  animated,  and  gladdened  the
+courtezan  Ambapalt  by  religious  discourse.  And
+the  courtezan  Ambapali,  having  been  taught,  &c,,
+by  the  Blessed  One  by  religious  discourse,  said  to
+the  Blessed  One :  '  Might  the  Blessed  One,  Lord,
+consent  to  take  his  meal  with  me  to-morrow  toge-
+ther with  the  fraternity  of  Bhikkhus.'
+
+The  Blessed  One  expressed  his  consent  by  remain-
+
+
+ing silent.
+
+
+Then  the  courtezan  Ambapali,  when  she  under-
+stood that  the  Blessed  One  had  accepted  her  invi-
+tation, rose  from  her  seat,  respectfully  saluted  the
+Blessed  One,  and,  passing  round  him  with  her  right
+side  towards  him,  went  away.
+
+3.  Now  the  Li/^/^/^avis  of  Vesali  heard  that  the
+Blessed  One  had  arrived  at  Ko/igama.  And  the
+Li/'i/zavis  of  Vesali  ordered  a  number  of  magni-
+ficent vehicles  to  be  made  ready,  mounted  these
+vehicles,  and  left  Vesali  with  their  magnificent
+vehicles  in  order  to  visit  the  Blessed  One.  Some
+of  the  lAkkkdiwis  were  dark,  dark  in  colour,  and
+wearing  dark  clothes  and  ornaments ;  some  of
+them  were  fair,  fair  in  colour,  and  wearing  light
+clothes  and  ornaments ;  some  of  them  were  red,
+ruddy  in  colour,  and  wearing  red  clothes  and  orna-
+ments;  some  of  them  were  white,  pale  in  colour,
+and  wearing  white  colours  and  ornaments.  And
+the  courtezan  Ambapali  drove  up  against  the  young
+
+
+VI,  30»  4'  ^'^    MEDICAMENTS.  I07
+
+
+Li'HV^avis,  pole  to  pole,  yoke  to  yoke,  wheel  to
+wheel,  axle  to  axle.  [4.]  And  those  Li/'>(7/avis  said
+to  the  courtezan  Ambapali :  *  How  is  it,  Ambapali,
+that  you  drive  up  against  the  young  Li/'/t/zavis,
+pole  to  pole,  &c.  ?'
+
+'  My  Lords,  I  have  just  invited  the  Blessed  One
+with  the  fraternity  of  Bhikkhus  for  their  morrow's
+meal.'
+
+*  Ambapali !  give  up  this  meal  to  us  for  a  hundred
+thousand.'
+
+'  My  Lords,  were  you  to  offer  all  Vesali  with  its
+subject  territory,  I  would  not  give  up  this  meal.'
+
+Then  the  Li/'/C7/avis  snapped  their  fingers  (ex-
+claiming), 'We  are  outdone  by  this  womanM  we
+are  out-reached  by  this  woman  ^ ! '
+
+4.  Then  the  LiM/iavis  went  to  the  place  where
+the  Blessed  One  was.  And  the  Blessed  One  saw
+the  L'l/cMavis  cominor  from  afar ;  when  he  saw
+them,  he  addressed  the  Bhikkhus  and  said :  '  O
+Bhikkhus,  let  those  of  the  Bhikkhus  who  have
+never  seen  the  Tavati?;^sa  gods,  gaze  upon  this
+company  of  the  Li/C77avis,  behold  this  company  of
+the  Li/77/avis,  compare  this  company  of  the  Li/C'-
+/^//avis,  even  as  a  company  of  Tavatiwsa  gods!'
+
+And  the  Li/cMa.vis  went  in  the  carriages  as  far
+as  the  ground  was  passable  for  carriages  {&c.,  as
+in  JJ  I,  2,  down  to :)  '  Might  the  Blessed  One,  Lord,
+consent  to  take  his  meal  with  us  to-morrow  together
+with  the  fraternity  of  Bhikkhus.'
+
+'  Ambakaya, which  Buddhaghosa  explains  by  itthikaya,  comp.
+the  well-known  Mantra,V%asaneyi  Sawhita  23. 18  :  Ambe  ambike
+'mbalike,  &c.  Probably  the  word  ambaka  is  a  contemptuous  form
+intended  here  at  the  same  time  to  convey  an  allusion  to  the  mango-
+(amba-)  gardens  which  Ambapali  possessed,  and  from  which  she
+was  named.    Comp.  Rh.  D.'s  note  at  Mahaparinibbana  Sutta  II,  19.
+
+
+I08  MAHAVAGGA.  ¥1,30,5.
+
+
+'  I  have  promised,  O  \Akkhz.v\s,  to  dine  to-morrow
+with  Ambapah  the  courtezan.'
+
+S.  And  the  Blessed  One,  after  having  dwelt  at
+Ko/igama  as  long  as  he  thought  fit,  went  to  A'^tika.
+There  the  Blessed  One  dwelt  at  iVatika,  in  the  Brick
+Hall  (Gi;Ifakavasatha).  And  when  the  night  had
+elapsed,  the  courtezan  Ambapali  ordered  in  her  park
+excellent  food  (&c.,  as  in  chap.  28.  10  ^  down  to  :)  she
+sat  down  near  him.  Sitting  near  him  the  courtezan
+Ambapali  said  to  the  Blessed  One :  '  I  give  up  this
+Ambapali  grove,  Lord,  to  the  fraternity  of  Bhikkhus
+with  the  Buddha  at  its  head.'  The  Blessed  One
+accepted  the  Arama.  Then  the  Blessed  One,  after
+having  taught,  incited,  animated,  and  gladdened  the
+courtezan  Ambapali  by  religious  discourse,  rose  from
+his  seat  and  went  to  the  Mahavana.  There  the
+Blessed  One  dwelt  at  Vesali,  in  the  Mahavana,  in
+the  Kta/agara-sala.
+
+End  of  the  \Akkh-^v\  Bhi;2avara.
+
+
+31.
+
+I.  At  that  time  many  distinguished  Li/^i/^avis
+were  sitting  together  assembled  in  the  town-hall
+and  spoke  in  many  ways  in  praise  of  the  Buddha,
+of  the  Dhamma,  and  of  the  Sa^/^gha.  At  that  time
+Siha,  the  general-in-chief  (of  the  LiHV^avis),  a  dis-
+ciple of  the  Niga;2//za  sect,  was  sitting  in  that
+assembly.     And  Siha,  the  general,  thought :  '  Truly
+
+1  Replace  'the  Magadha  ministers  Sunidha  and  Vassakara'  by
+'the  courtezan  Ambapali,'  and  instead  of  'Reverend  Gotama,'  read
+'Lord.'
+
+
+VI,  31. 3*  ON    MEDICAMENTS.  IO9
+
+he,  the  Blessed  One,  must  be  the  Arahat  Buddha,
+since  these  many  distinguished  Li/'/'Z-avis,  who  are
+sitting  here  together  assembled  in  the  town-hall,
+speak  in  so  many  ways  in  praise  of  the  Buddha,
+of  the  Dhamma,  and  of  the  Sawgha.  What  if  I
+were  to  go  and  visit  him,  the  Arahat  Buddha.'
+
+2.  And  Siha,  the  general,  went  to  the  place  where
+the  Niga;z///a  Nataputta^  was ;  having  approached
+him,  he  said  to  the  Niga;^///a  Nataputta :  '  I  wish.
+Lord,  to  go  and  visit  the  Sama?^a  Gotama.'
+
+'  Why  should  you,  Siha,  who  believe  in  the  result
+of  actions 2  (according  to  their  moral  merit),  go  to
+visit  the  Sama;/a  Gotama,  who  denies  the  result  of
+actions  ?  For  the  Sama;^a  Gotama,  Siha,  denies
+the  result  of  actions ;  he  teaches  the  doctrine  of
+non-action ;  and  in  this  doctrine  he  trains  his
+disciples.'
+
+Then  the  desire  to  go  and  to  visit  the  Blessed
+One,  which  had  arisen  in  Siha,  the  general,  abated
+in  him.
+
+3.  And  a  second  time  many  distinguished  h'lk-
+/§/^avis  were  sitting  together  (&c.,  as  in  §§  i,  2,  down
+to  the  end).
+
+And  a  third  time  many  distinguished  Li/'/7/avis
+were  sitting  together,  &c.  And  a  third  time  Siha,
+the  general,  thought :  '  Truly  he,  the  Blessed  One,
+must  be  the  Arahat  Buddha,  since  these  many  dis-
+tinguished L'd'MsiVis,  who  are  sitting  here  together
+assembled  in  the  town-hall,  speak  in  so  many  ways
+
+
+*  The  founder  of  the  Niga«///a  sect,  who  is,  according  to  the
+important  discovery  of  Professors  Buhler  and  Jacobi,  identical  with
+the  ]\Iahavira  of  the  Gain  legends.  See  Jacobi's  Preface  to  the
+Kalpasutra,  pp.  i  seq.
+
+"^  Kiriyavada.
+
+
+no  MAHAVAGGA.  ¥1,31,4.
+
+in  praise  of  the  Buddha,  of  the  Dhamma,  and  of  the
+Sa7;2gha.  What  are  the  Niga«//^as  to  me,  whether
+they  give  their  consent  or  not  ?  What  if  I  were  to
+go  without  asking  the  Nigan^/ts-s  for  their  consent,
+to  visit  him,  the  Blessed  One,  the  Arahat  Buddha.'
+
+4.  And  Stha,  the  general,  went  out  of  Vesali
+with  five  hundred  vehicles  at  broad  daylight  in
+order  to  visit  the  Blessed  One.  He  went  in  the
+carriage  as  far  as  the  ground  was  passable  for
+carriages ;  there  he  alighted ;  and  he  proceeded
+on  foot  to  the  place  where  the  Blessed  One  was.
+Having  approached  him,  and  respectfully  saluted
+the  Blessed  One,  he  sat  down  near  him.  When
+he  was  sitting  near  him,  Siha,  the  general,  said  to
+the  Blessed  One :  '  I  have  heard,  Lord,  that  the
+Sama;^a  Gotama  denies  the  result  of  actions ;  he
+teaches  the  doctrine  of  non-a:ction,  and  in  this
+doctrine  he  trains  his  disciples.  Now,  Lord,  those
+who  speak  thus :  "  The  Sama;^a  Gotama  denies
+the  result  of  actions,"  &c. — do  they  say  the  truth
+of  the  Blessed  One,  and  do  they  not  bear  false
+witness  against  the  Blessed  One  and  pass  off  a
+spurious  Dhamma  as  your  Dhamma  ?  And  there
+is  nothing  blameworthy  in  a  discourse  and  dispute
+like  this  regarding  matters  of  the  Dhamma ;  for  it
+is  our  intention,  Lord,  to  avoid  bringing  false  accu-
+sations against  the  Blessed  One.'
+
+5  ^  '  There  is  a  way,  Siha,  in  which  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;^a  Gotama
+denies  action 2;  he  teaches  the  doctrine  of  non-
+action ;  and  in  this  doctrine  he  trains  his  disciples."
+
+'  A  part  of  the  following  discourse  is  the  same  as  Suttavibhahga,
+Para^.  I,  i,  3.
+
+2  '  The  doctrine  of  non-action/  and  '  the  doctrine  of  action,'
+
+
+VI,  31,  5'  ON   MEDICAMENTS.  1 1 1
+
+
+'  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama;2a  Go-
+tama  maintains  action  ^ ;  he  teaches  the  doctrine  of
+action ;  and  in  this  doctrine  he  trains  his  disciples."
+
+*  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama^^a  Go-
+tama  maintains  annihilation  ^ ;  he  teaches  the  doctrine
+of  annihilation ;  and  in  this  doctrine  he  trains  his
+disciples."
+
+*  And  again,  Siha,  there  is  a  way  in  which  one
+speaking  truly  could  say  of  me  :  "  The  Sama;m  Go-
+tama  proclaims  contemptibleness^;  he  teaches  the
+doctrine  of  contemptibleness ;  and  in  this  doctrine
+he  trains  his  disciples."
+
+*  And  again,  &c. :  "  The  Sama;^a  Gotama  pro-
+claims Vinaya*;  he  teaches  the  doctrine  of  Vinaya  ;
+and  in  this  doctrine  he  trains  his  disciples."
+
+'  And  again,  &c. :  "  The  Sama;/a  Gotama  pro-
+claims Tapas^,  &c."
+
+'And  again,&c. :  "The  Sama;^a  Gotama  is  apagab-
+bha*^;  he  teaches  the  doctrine  of  apagabbhata,  &c."
+
+taken  in  the  ordinary  sense  of  the  words,  are  the  doctrines  that
+the  actions  of  sentient  beings  receive  not,  or  receive,  their  reward
+accordino:  to  the  law  of  moral  retribution.  In  this  discourse,  how-
+ever,  a  peculiar  meaning  is  attached  to  these  two  terms;  see  §  6.
+
+^  See  note  2,  p.  no.
+
+2  UH7/edavada  ('the  doctrine  of  annihilation')  is  the  doctrine
+that  death  is  the  annihilation  of  existence  (' u/tMedavada  sato
+satlassa  ul'^/iedd.m  vinasaw  vibhava;«  paT^Ttapenti.'  Brahma^ala-
+sutta).  But  in  this  discourse  the  word  is  taken  in  a  peculiar  sense ;
+comp.  §  7.
+
+'  Geg\iM/iita.     See  §  7.
+
+*  '  Right  conduct.'  But  in  this  discourse  it  is  also  taken  in  the
+sense  of  '  putting  away'  (scil.  evil) ;  see  §  8.
+
+^  '  Self-mortification,'  literally, '  burning,*  in  which  sense  the  word
+is  taken  in  §  8.
+
+^Apagabbha  (apragalbha)  and  apagabbhata  ordinarily  mean
+
+
+112  MAHAVAGGA.  VI,  31,  6.
+
+'  And  again,  &c. :  "  The  Sama/za  Gotama  is  con-
+fident \-  he  teaches  the  doctrine  of  confidence,  &c."
+
+6.  '  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me :  "  The  Sama;^a  Gotama
+denies  action  ;  he  teaches  the  doctrine  of  non-action ;
+and  in  this  doctrine  he  trains  his  disciples  ?"  I  teach,
+Siha,  the  not-doing  of  such  actions  as  are  unright-
+eous, either  by  deed,  or  by  word,  or  by  thought ;  I
+teach  the  not  bringing  about  of  the  manifold  condi-
+tions (of  heart)  which  are  evil  and  not  good.  In  this
+way,  Siha,  one  speaking  truly  could  say  of  me  :  "  The
+Sama;^a  Gotama,  &c."
+
+*  And  in  which  way  is  it,  Siha,  that  one  speaking
+truly  could  say  of  me  :  "  The  Sama^za  Gotama  main-
+tains action  ;  he  teaches  the  doctrine  of  action  ;  and
+in  this  doctrine  he  trains  his  disciples?"  I  teach,
+Siha,  the  doing  of  such  actions  as  are  righteous,  by
+deed,  by  word,  and  by  thought ;  I  teach  the  bring-
+ing about  of  the  manifold  conditions  (of  heart)  which
+are  good  and  not  evil.     In  this  way,  &c."
+
+7.  '  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;/a  Gotama
+maintains  annihilation ;  he  teaches  the  doctrine  of
+annihilation ;  and  in  this  doctrine  he  trains  his  dis-
+ciples?" I  proclaim,  Siha,  the  annihilation  of  lust,
+of  ill-will,  of  delusion ;  I  proclaim  the  annihilation
+of  the  manifold  conditions  (of  heart)  which  are  evil
+and  not  good.     In  this  way,  &c."
+
+*  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me :  "  The  Sama;^a  Gotama
+
+*  irresolute '  and  '  irresolution.'     But  here  the  words  are  taken  in
+quite  another  sense,  with  a  pun  that  cannot  be  rendered  in  English  ;
+see  §  9.
+^  See  §  9.
+
+
+VI,  31.  8.  ON    MEDICAMENTS.  I  I  3
+
+proclaims  contemptibleness,  &c.  ?"  I  deem,  Siha,
+unrighteous  actions  contemptible,  whether  they  be
+performed  by  deed,  or  by  word,  or  by  thought ;  I
+proclaim  the  doctrine  of  the  contemptibleness  of
+falling  into  the  manifold  conditions  (of  heart)  which
+are  evil  and  not  good.     In  this  way,  &c.
+
+8.  '  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;^a  Gotama
+proclaims  Vinaya,  &c.  ?"  I  teach,  Siha,  the  doing
+away^  with  lust,  with  ill-will,  with  delusion  ;  I  teach
+the  doing  away  with  the  manifold  conditions  (of  heart)
+which  are  evil  and  not  good.     In  this  way,  &c.
+
+*  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;^a  Gotama
+proclaims  Tapas,  &c.  ?"  I  teach,  Siha,  that  all  the
+conditions  (of  heart)  which  are  evil  and  not  good,
+unrighteous  actions  by  deed,  by  word,  and  by  thought
+must  be  burnt  away 2,  He  who  has  freed  himself,
+Siha,  from  all  conditions  (of  heart)  which  are  evil
+and  not  good,  which  ought  to  be  burnt  away,  who
+has  rooted  them  out,  and  has  done  away  with  them
+as  a  palm  tree  is  rooted  out^  so  that  they  are
+destroyed*   and    cannot    grow   up    again  —  such    a
+
+
+^  Vinayaya.
+
+'  Tapaniya,  connected  with  tapas.
+
+^  Tala  vatthukata.  See  Buddhaghosa's  explanation  of  this
+phrase  in  Vinaya  Pi/aka,  vol.  iii,  p.  267.
+
+*  Anabhavaw  gata  (see  the  correction,  Vinaya  Pi/aka,  vol.  ii,
+p.  363),  literally, '  They  are  gone  to  non-existence.'  Buddhaghosa
+takes  great  pains  in  explaining  anabhava  ;  and  he  quotes  also  a
+various  reading  anubhava  ;  see  Vinaya  Pi/aka,  vol.  iii,  p.  267.  But
+anabhava  is  correct,  and  must  be  understood  as  a  synonym  of
+abhava.  As  to  ana-,  equal  to  a-,  compare  S.  Goldschmidt,  Zeitschr.
+der  Deutschen  IMorg.  Ges.  vol.  xxxii,  pp.  100  seq. ;  Weber,  Hala,
+p.  16;  Pischel's  note  on  Hema/tandra  II,  190;  Curtius,  Griechische
+
+[17]  I
+
+
+114  MAHAVAGGA.  VI,  31,  9.
+
+person  do  I  call  accomplished  in  Tapas.  Now  the
+Tathagata,  Siha,  has  freed  himself  from  all  condi-
+tions, &c.      In  this  way,  &c.
+
+9,  '  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;2a  Gotama
+is  apagabbha  (irresolute^),  &c. ?"  He  who  has
+freed  himself,  Siha,  from  the  necessity  of  returning
+in  future  into- a  mother's  womb^,  and  of  being  reborn
+into  new  existences,  who  has  rooted  out  (his  being
+subject  to)  rebirth,  and  has  done  away  with  it  as  a
+palm  tree  is  rooted  out,  so  that  it  is  destroyed  and
+cannot  grow  up  again — such  a  person  do  I  call
+apagabbha.  Now  the  Tathagata,  Siha,  has  freed
+himself,  &c.     In  this  way,  &c.
+
+'  And  in  which  way  is  it,  Siha,  that  one  speak-
+ing truly  could  say  of  me  :  "  The  Sama;2a  Gotama
+is  confident,  &c.  ?"  I  am  confident,  Siha,  by  the
+highest  confidence ;  and  thus  I  teach  the  doctrine
+of  confidence  and  train  my  disciples  in  it.  In  this
+way,  &c.*
+
+10.  When  he  had  spoken  thus,  Siha,  the  general,
+said  to  the  Blessed  One  :  '  Glorious,  Lord  !  glorious,
+Lord !  (&c.,  as  in  cha^.  26.  9,  down  to :)  may
+the  Blessed  One  receive  me  from  this  day  forth
+while  my  life  lasts  as  a  (disciple  who  has  taken  his
+refugf-e  in  him.'
+
+'  Consider  first,  Siha,  what  you  are  doing.  It  is
+becoming  that  well-known  persons  like  you  should
+do   nothing  without  due  consideration.'
+
+Etymologie,  5th  edition,  p.  306  {dvaeSvos,  &c.).  Another  Pali  word
+containing  this  prefix  ana-  is  anamata,anamatagga;  see, for  instance,
+Gataka.  II,  p.  56.
+
+'   See  §  5  with  our  note.
+
+^  Into  a  'gabbha.'  'Apagabbha'  is  taken  here  as  'not  subject
+to  returning  to  a  gabbha.'
+
+
+VI,  31,  II.  ON    MEDICAMENTS.  II5
+
+'  By  this,  Lord,  my  joy  and  my  faidi  in  the  Blessed
+One  has  still  increased,  in  that  the  Blessed  One  says
+to  me  :  "  Consider  first,  &c."  Had  the  other  Tit-
+thiya  teachers,  Lord,  got  me  as  their  disciple,  they
+would  carry  around  their  banners  through  the  whole
+of  Vesali  (and  cry) :  "  Siha,  the  general,  has  become
+our  disciple!"  But  the  Blessed  One  says  to  me:
+"  Consider  first,  &c."  For  the  second  time.  Lord,
+I  take  my  refuge  in  the  Blessed  One,  and  in  the
+Dhamma,  and  in  the  Bhikkhu-sa;;/gha :  may  the
+Blessed  One  receive  me  from  this  day  forth  while
+my  life  lasts  as  a  disciple  who  has  taken  his  refuge
+in  him.'
+
+II.'  For  a  long  time,  Siha,  drink  has  been  offered  to
+the  Niga;^///as  in  your  housed  You  should  therefore
+deem  it  right  (also  in  the  future)  to  give  them  food
+when  they  come  (to  you  on  their  alms-pilgrimage).'
+
+'  By  this.  Lord,  my  joy  and  my  faith  in  the  Blessed
+One  has  still  increased,  in  that  the  Blessed  One  says
+to  me  :  "  For  a  long  time,  &c."  I  have  been  told,
+Lord:  "The  Sama;/a  Gotama  says:  'To  me  alone
+gifts  should  be  given ;  to  nobody  else  gifts  should
+be  given.  To  my  pupils  alone  gifts  should  be  given ;
+to  no  one  else's  pupils  gifts  should  be  given.  Only
+what  is  given  to  me  has  great  reward ;  what  is  given
+to  others  has  not  great  reward.  Only  what  is  given
+to  my  pupils  has  great  reward ;  what  is  given  to  the
+pupils  of  others  has  not  great  reward.'  "  But  the
+Blessed  One  exhorts  me  to  give  also  to  the  Niga;^-
+tkdiS.     Well,  Lord,  we  will  see  what  will  be  season-
+
+
+^  Literally, ' your  house  has  been  an  opana  to  the  NigawMas.'
+Opana  may  be  either  avapana  or,  as  BuJdhaghosa  seems  to
+understand  it,  udapana  (compare  oka  =  udaka).
+
+I    2
+
+
+Il6  MAHAVAGGA.  VI,  31,  12.
+
+able.     For  the  third  time,  Lord,  I   take  my  refuge
+in  the  Blessed  One,  &c.'
+
+12.  And  the  Blessed  One  preached  to  Stha,  the
+general,  in  due  course ;  that  is  to  say,  he  talked
+about  the  merits  obtained  by  almsgiving,  about  the
+duties  of  morality  {&c,,  in  the  usual  way ;  see,  for
+instance,  I,  8,  2,  3,  down  to :)  dependent  on  nobody
+else  for  knowledge  of  the  doctrine  of  the  Teacher,
+he  said  to  the  Blessed  One  :  *  Lord,  may  the  Blessed
+One  consent  to  take  his  meal  with  me  to-morrow,
+together  with  the  fraternity  of  Bhikkhus.'
+
+The  Blessed  One  expressed  his  consent  by  re-
+maining silent.  Then  Siha,  the  general,  when  he
+understood  that  the  Blessed  One  had  accepted  his
+invitation,  rose  from  his  seat,  respectfully  saluted
+the  Blessed  One,  and,  passing  round  him  with  his
+right  side  towards  him,  went  away.
+
+And  Siha,  the  general,  gave  order  to  a  certain
+man  (among  his  subalterns,  saying),  *  Go,  my  friend,
+and  see  if  there  is  any  meat  to  be  had^'  And  when
+that  night  had  elapsed,  Siha,  the  general,  ordered  ex-
+cellent food  (&c.,  as  in  chap.  23.  5,  down  to  the  end).
+
+13.  At  that  time  a  great  number  of  Niga;^//zas
+(running)  through  Vesili,  from  road  to  road  and
+from  cross-way  to  cross-way^,  with  outstretched  arms,
+cried :  '  To-day  Stha,  the  general,  has  killed  a  great
+ox  and  has  made  a  meal  for  the  Sama;^a  Gotama ;
+the  Sama7/a  Gotama  knowingly  eats  this  meat  of  an
+animal  killed  for  this  very  purpose,  and  has  thus
+become  virtually  the  author  of  that  deed  (of  killing
+the  animal) ! '
+
+Then  a  certain  man  went  to  the  place  where  Siha,
+
+^  About  pavattamawsa,  see  the  note  at  chap.  23.  2.
+^  See  X,  I,  9.
+
+
+VI,  32,  I.  ON    MEDICAMENTS.  I  I  7
+
+
+the  general,  was.  Having  approached  him  he  said
+to  Siha,  the  general,  into  his  ear:  'Please,  Lord,
+have  you  noticed  that  a  great  number  of  Niga;^///as
+(running)  through  Vesali,  &c.  ?'
+
+'  Do  not  mind  it,  my  good  Sir.  Long  since  those
+venerable  brethren  are  trying  to  discredit  the  Buddha,
+the  Dhamma,  and  the  Sawgha  ;  and  those  venerable
+brethren  do  not  become  tired  of  telling  false,  idle,
+vain  lies  of  the  Blessed  One.  Not  for  our  life  would
+we  ever  intentionally  kill  a  living  being.'
+
+14.  And  Siha,  the  general,  served  and  offered
+with  his  own  hands  excellent  food,  both  hard  and
+soft,  to  the  fraternity  of  Bhikkhus  with  the  Buddha
+at  its  head ;  and  when  the  Blessed  One  (&c.,  as  in
+chap.  23.  7,  down  to  the  end).
+
+In  consequence  of  that  the  Blessed  One,  having
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus and  said :
+
+'  Let  no  one,  O  Bhikkhus,  knowingly  eat  meat  (of
+an  animal)  killed  for  that  purpose.  Whosoever  does
+so,  is  guilty  of  a  dukka/a  offence.
+
+'  I  prescribe,  O  Bhikkhus,  that  fish  is  pure  to  you
+in  three  cases :  if  you  do  not  see,  if  )'ou  have  not
+heard,  if  you  do  not  suspect  (that  it  has  been  caught
+specially  to  be  given  to  you).'
+
+
+32.
+
+I.  Now  at  that  time  Vesili  was  well  provided
+with  food,  the  harvest  was  good,  alms  were  easy  to
+obtain,  one  could  very  well  get  a  living^  by  gleaning.
+
+
+or  through  favour.
+
+
+^  Literally,  'keep  oneself  going.'    Compare  the  use  of  yapetuw
+at  Maha-parinibbana  Sutta  II,  32.
+
+
+Il8  MAHAVAGGA.  VI,  32,  2.
+
+And  when  the  Blessed  One  had  retired  into  soli-
+tude this  consideration  presented  itself  to  his  mind  :
+'  The  things  which  I  have  prescribed  for  the  Bhik-
+khus  in  a  time  of  scarcity,  when  the  harvest  is  bad,
+and  alms  are  difficult  to  obtain — keeping  food
+indoors,  cooking  it  indoors,  cooking  it  of  one's  own
+accord,  taking  what  they  can  pick  up,  eating  food
+brought  from  within,  or  received  before  meal-time,
+eating  things  found  in  woods  or  in  pools \  those
+things  the   Bhikkhus  enjoy  also  now.'
+
+And  the  Blessed  One,  in  the  evening,  when  he  had
+left  his  solitude,  said  to  the  venerable  Ananda :  '  The
+things  which  (&c.,  as  above,  down  to  :)  or  in  pools —
+do  the  Bhikkhus  enjoy  those  things  now  also  ?'
+
+'  They  enjoy  them.  Lord.'
+
+2.  Then  the  Blessed  One,  in  that  connection,
+and  on  that  account,  after  having  delivered  a  reli-
+gious discourse,  said  to  the  Bhikkhus  :
+
+'  The  things  which  I  have  prescribed  (&c.,  as  in
+§  I ,  down  to  :)  or  in  pools — those  I  do  not  allow
+from  this  day  forth.  You  are  not,  O  Bhikkhus,  to
+eat  food  kept  indoors,  or  cooked  indoors,  or  cooked  of
+your  own  accord ;  nor  to  take  things  (to  eat)  which
+you  have  picked  up.  Whosoever  shall  do  so,  is  guilty
+of  a  dukka/a  offence.  And  you  are  not,  O  Bhik-
+khus— after  you  have  once  finished  eating,  and  have
+refused  food  still  offered — to  eat  food  brought  from
+within,  or  received  before  meal-time,  or  found  in  the
+woods  or  pools,  even  if  it  be  food  which  is  not  the
+leavings  of  the  meal  of  one  who  has  eaten  on  invita-
+tion. Whosoever  shall  so  eat,  shall  be  dealt  with
+according  to  law-.'
+
+^  For  these  rules,  see  above,  VI,  17-19.
+
+2  See  the  35lh  PaX-ittiya  Rule,  and  our  note  upon  it.
+
+
+Vr,  33-2.  ON    MEDICAMENTS.  ITQ
+
+
+3».
+
+1.  Now  at  that  time  the  <x)untry  people  loaded
+much  salt,  and  oil,  and  rice,  and  hard  food  on  iheir
+carts,  and  making  a  laager  in  the  outer  enclosure  of
+the  Arama,  they  waited  there,  saying,  '  When  it
+comes  to  our  turn,  we  will  provide  a  meal.'  And  a
+orreat  storm-cloud  arose.
+
+Then  those  people  went  to  the  place  where  the
+venerable  Ananda  was  ;   and  when  they  had  come
+
+A
+
+there  they  said  to  the  venerable  Ananda:  'We
+loaded  a  quantity  of  salt,  and  oil,  and  rice,  and  hard
+food  on  to  our  carts  ;  and  they  stand  there.  Now  a
+crreat  storm-cloud  has  arisen.  What  are  we  now,
+Ananda,  Sir,  to  do  with  them  ?'
+
+Then  the  venerable  Ananda  told  this  thing  to  the
+Blessed  One.
+
+2.  'In  that  case,  Ananda,  let  the  Sa;;2gha  de-
+cide upon  some  outside  building  afi  a  kappiya-
+bhumi  (that  is  to  say,  a  site,  outside  the  actual
+dwelling,  in  which  provisions  can  be  kept  or  cooked
+without  breaking  the  rule  laid  down  in  the  last
+chapter)  and  keep  the  stores  there  (in  a  building)
+of  any  shape  the  Sawgha  chooses,  such  as  vihara,
+a^^/^ayoga,  pasada,  hammiya,  guha^
+
+'And  thus,  O  Bhikkhus,  should  it  be  resolved
+upon.  A  discreet  and  able  Bhikkhu  should  pro-
+claim the  following  /7atti  before  the  Sa;;2gha  :  "Let
+the  Sawgha,  reverend  Sirs,  hear  me.  If  the  Sawgha
+is  ready,  let  the  Sawgha  appoint  the  Vihara  called
+N.  N.  to  be  our  kappiya-bhumi.  This  is  the
+?latti.     Let   the  Sawgha,  reverend   Sirs,  hear   me.
+
+
+^  On  these  five  kinds  of  buildings,  see  above,  I,  30,  4  ;  II,  8,  i.
+
+
+I20  MAHAVAGGA.  VI,  33,  3.
+
+
+The  Sawgha  appoints  the  Vihara  called  N.  N.  to
+be  our  kappiya-bhClmi.  Let  any  one  of  the
+venerable  brethren  who  is  in  favour  of  appointing
+the  Vihara  (&c.,  down  to  :)  thus  I  understand."  '
+
+3,  Now  at  that  time  men  in  that  place  —  the
+kappiya-bh{imi  duly  chosen  by  resolution  (of  the
+Sa;;?gha)— boiled  congey,  and  boiled  rice,  and  mixed
+curries,  and  cut  up  meat,  and  split  fire-wood.  And
+when  the  Blessed  One,  as  the  night  was  passing
+away,  rose  up,  he  heard  a  great  and  loud  noise,  as
+of  the  cawing  of  crows.  On  hearing  this  he  asked
+the  venerable  Ananda:  '  What  now,  Ananda,  maybe
+this  great  and  loud  noise,  as  of  the  cawing  of  crows?'
+
+4.  'In  that  place.  Lord, — the  kappiya-bhtimi
+duly  chosen  by  resolution  (of  the  Sa;;2gha),— men
+are  now  boiling  congey,  and  boiling  rice,  and  mixing
+curries,  and  cutting  up  meat,  and  splitting  fire-wood.
+Thence,  Lord,  comes  that  great  and  loud  noise,  as
+of  the  cawing  of  crows.'
+
+Then  the  Blessed  One,  in  that  connection,  and  on
+that  account,  after  he  had  delivered  a  religious  dis-
+course, said  to  the  Bhikkhus  :
+
+'A  kappiya-bhumi,  O  Bhikkhus,  duly  chosen,
+is  not  to  be  made  use  of.  Whosoever  shall  so  use
+it,  is  guilty  of  a  dukka/a  offence.  I  allow  you,  O
+Bhikkhus,  a  kappiya-bhumi  of  three  kinds,  one
+that  has  become  so  by  means   of  a  proclamation  \
+
+
+^  Buddhaghosa  says  on  this  word  :  '  When  a  Vihara  is  to  be
+erected  on  piles,  or  the  foundations  of  its  walls  are  to  be  dug  out,
+and  the  stones  on  which  it  is  to  rest  are  already  laid,  then  when  the
+first  pile  or  the  first  stone  of  the  walls  is  put  upon  them,  the  men
+standing  round  in  a  body  proclaim,  "Let  us  make  a  kappiya-
+ku/i.'"  The  proclamation  cannot  be  made  after  the  building  has
+got  further  than  the  actual  stage  here  described.     Ussavana  is
+
+
+VI,  34,  r.  ON    MEDICAMENTS.  I  2  I
+
+an  ox-Stall  \  and  a  building  belonging  to  lay-
+men^.*
+
+5.  Now  at  that  time  the  venerable  Yaso^a  was
+sick,  and  drugs  were  brought  for  his  use,  and  these
+the  Bhikkhus  put  out  of  doors.  Vermin  ate  them,
+and  thieves  carried  them  away^
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  use  a  duly  chosen
+kappiya-bh{lmi  (to  keep  drugs  in).  I  allow  you,
+O  Bhikkhus,  a  kappiya-bhumi  of  four  kinds,  one
+that  has  become  so  by  means  of  a  proclamation,  an
+ox-stall,  a  building  belonging  to  laymen,  and  a  duly
+chosen  one.'
+
+End  of  the  twenty-fourth  Bha;/avara.
+
+
+34.
+
+I.  Now  at  that  time  in  Bhaddiya-nagara  there
+dwelt  a  householder  named  'Mendsika.  (the  Goat),
+who  was  possessed  of  this  miraculous  power  :  When
+he  had  bathed  his  head,  and  had  had  his  granary
+swept  out,  he  could  sit  outside  and  fill  the  granary
+
+therefore  from  ussaveti,  'to  proclaim;'  and  antika  is  used  here,
+as  below  in  VII,  i,  7.
+
+'  Gonisadika.  Compare  Buddhaghosa's  explanation  of  go-
+nisadi-nivi/Mo  gamo  at  Sutta-vibhahga,  Par.  II,  3,  as  given  by
+INIinayeff, '  Pratimoksha,'  p.  66,  lines  7,  8.  Here  Buddhaghosa  says
+simply, '  There  are  two  kinds  of  ox-stalls;  arama  ox-stalls  and  vi-
+hara  ox-stalls.  Of  these,  when  neither  the  arama  nor  the  dwellings
+are  fenced  in  (parikkhiltani  honti),  that  is  an  arama  ox-stall ;  when
+all  or  some  of  the  dwellings  are  fenced  in,  and  not  the  arama,  that
+is  a  vihara  ox-stall.  So  both  kinds  depend  upon  the  fencing  in  of
+the  arama.'
+
+-  This  seems  to  mean  that  stores  could  be  kept  for  the  Sa;;/gha
+on  laymen's  premises.
+
+^  Compare  above,  VI,  17,  7.
+
+
+122  MAHAVAGGA.  VI,  34,  2.
+
+by  making  showers  of  grain  fall  down  from  the  sky.
+His  wife  was  possessed  of  this  miraculous  power:
+When  she  sat  down  beside  a  pint^  pot  and  vessel
+for  curry  and  sauce  she  could  serve  the  serving  men
+with  food ;  and  so  long  as  she  did  not  get  up,  it  was
+not  exhausted.  Their  son  was  possessed  of  this
+miraculous  power  :  He  could  take  a  bag  containing
+a  thousand  ^  and  give  to  each  serving  man  six
+months'  waees  ;  and  so  lon^  as  he  held  it  in  his
+hand,  it  was  not  exhausted.
+
+2.  Their  daughter-in-law  was  possessed  of  this
+miraculous  power :  When  she  sat  down  beside  a
+four-bushel  ^  basket  she  could  give  six  months'  rice
+to  the  serving  men ;  and  so  long  as  she  did  not  get
+up,  it  was  not  exhausted.  Their  slave  was  possessed
+of  this  miraculous  power  :  When  he  ploughed  with
+one  plough-share  seven  furrows  were  formed.
+
+3,  4.  Now  the  Magadha  king  Seniya  Bimbisara
+heard:  'In  Bhaddiya-nagara  in  our  kingdom  there
+dwells,  they  say,  a  householder  named  Mendska,  who
+is  possessed  (&c.,  as  in  §§  i,  2,  down  to  the  end).'
+
+5.  Then  the  Magadha  king  Seniya  Bimbisara
+said  to  a  certain  minister  who  had  charge  of  general
+affairs :  *  They  say,  good  Sir,  that  in  Bhaddiya-
+nagara  (&c.,  as  above).  Go,  good  Sir,  and  find  out
+about  this.  When  you  have  seen  it,  it  shall  be  the
+same  as  if  I  myself  had  seen  it.'
+
+'  Even  so,  Lord,'  said  that  minister,  in  assent,  to
+the  Magadha  king  Seniya  Bimbisara,  and  he  set
+out  for  Bhaddiya-nagara  with  his  fourfold  host.
+
+6.  And  proceeding  straight  on  he  came  to  Bhad-
+diya-nagara, and  to  the  place  where  the  householder
+
+^  AMaka.     See  Rh.  D.,  'Ancient  Coins  and  Measures,'  p.  18.
+2  Ibid.  p.  9  and  note  4.  ^  Do«a.     Ibid.  p.  18.
+
+
+VI,  34. 9-  ON    MEDICAMENTS.  1 23
+
+Me;^^aka  was ;  and  when  he  had  come  there,  he
+said  to  the  householder  Me/^^/aka  :  '  I  have  received
+command  from  the  king,  "  They  say,  good  Sir  (&c.,
+as  above,  §  5)."  Let  us  behold,  O  householder,  your
+miraculous  power.'
+
+Then  Me;/^/aka  the  householder  bathed  his  head,
+and  had  his  granary  swept  out,  and  sat  down  out-
+side it.     And  showers  of  ^rrain  fell  down  from  the
+
+O
+
+sky  and  filled  the  granary.
+
+'  I  have  seen,  O  householder,  your  miraculous
+power.     Let  us  see  that  of  your  wife.'
+
+7.  Then  Me;/(^ika  the  householder  gave  com-
+mand to  his  wife, '  Serve  then  the  fourfold  host  with
+food.'
+
+And  the  wife  of  Me//r/aka  the  householder  took
+her  seat  beside  a  pint  pot  and  a  vessel  of  sauces
+and  curry,  and  served  the  fourfold  host  with  food ;
+and  until  she  rose  up  it  was  not  exhausted.
+
+'  I  have  seen,  O  householder,  the  miraculous
+power  of  your  wife.      Let  us  see  that  of  your  son.'
+
+8.  Then  Mend^ka.  the  householder  gave  command
+to  his  son,  '  Pay  then,  my  dear  boy,  six  months'
+wacjes  to  the  fourfold  host.'
+
+And  the  son  of  Mendsika.  the  householder  took
+one  bag  containing  a  thousand,  and  paid  the  four-
+fold army  six  months'  wages.  And  so  long  as  he
+held  it  in  his  hand,  it  was  not  exhausted.
+
+'  I  have  seen,  O  householder,  the  miraculous
+power  of  your  son.  Let  us  see  that  of  your
+daughter-in-law.'
+
+9.  Then  Mez/rt'aka  the  householder  gave  command
+to  his  daughter-in-law,  '  Give,  then,  six  months'  rice
+to  the  fourfold  host.'
+
+And  the  daughter-in-law  of  jMe/zrt'aka  the  house-
+
+
+124  MAHAVAGGA.  VI,  34,  lo.
+
+
+holder  sat  down  beside  one  four-bushel  basket,  and
+provided  the  fourfold  host  with  six  months'  rice.  And
+so  long  as  she  did  not  get  up,  it  was  not  exhausted.
+
+'  I  have  seen,  O  householder,  the  miraculous
+power  of  your  daughter-in-law.  Let  us  see  that  of
+your  slave.'
+
+'  The  miraculous  power  of  my  slave.  Sir,  must  be
+seen  in  the  field.'
+
+'  It  is  enough,  O  householder.  I  have  seen  the
+miraculous  power  of  your  slave.'
+
+Then  that  minister  returned  again  to  R^^agaha
+with  his  fourfold  host,  and  went  to  the  place  where
+the  Magadha  king  Seniya  Bimbisara  was,  and  when
+he  had  come  there  he  told  the  matter  to  the
+Magadha  king  Seniya  Bimbisara.
+
+10.  Now  the  Blessed  One,  when  he  had  remained
+at  Vesali  as  long  as  he  thought  fit,  went  on  his  way
+to  Bhaddiya  with  a  great  company  of  Bhikkhus,
+with  one  thousand  two  hundred  and  fifty  Bhikkhus.
+And  the  Blessed  One  wandering  straight  on  arrived
+at  Bhaddiya.  And  there  the  Blessed  One  stayed
+in  the  6^atiyavana.
+
+11.  And  Me;/(^aka  the  householder  heard:  'Be-
+hold, that  Sama;^a  Gotama,  of  the  Sakya  clan,  who
+left  the  Sakya  tribe  to  adopt  the  religious  life,  is
+now  arrived  at  Bhaddiya  and  is  staying  in  the
+C'atiyavana.  Now  regarding  that  venerable  Gotama,
+such  is  the  high  reputation  that  has  been  noised
+abroad  that  he  is  said  to  be  a  fully-enlightened  one,
+blessed,  and  worthy,  abounding  in  wisdom  and  good-
+ness, happy,  with  knowledge  of  the  worlds,  unsur-
+passed, who  guides  men  as  a  driver  curbs  a  bullock,
+a  teacher  of  gods  and  men,  a  blessed  Buddha.  He
+by  himself  thoroughly  understands,  and  sees,  as  it
+
+
+VI,  34.  13-  ON    MEDICAMENTS.  1 25
+
+were  face  to  face,  this  universe,  the  world  with  its
+Devas,  and  with  its  Brahmas,  and  with  its  Maras,  and
+all  creatures,  Sama;zas  and  Brahma;/as,  gods  and
+men  :  and  he  then  makes  that  knowledge  known  to
+others.  Th6  truth  doth  he  make  known,  both  in
+the  spirit  and  in  the  letter :  lovely  in  its  origin,
+lovely  in  its  progress,  lovely  in  its  consummation.
+The  higher  life  doth  he  proclaim,  in  all  its  purity
+and  all  its  perfectness.  Blessed  is  the  sight  of  Ara-
+hats  like  that.'
+
+1 2.  Then  ]\Ie;/^/aka  the  householder  had  a  number
+of  splendid  carriages  made  ready,  and  mounting  one
+of  them  he  set  out  from  Bhaddiya  with  the  train  of
+splendid  carriages  to  visit  the  Blessed  One.
+
+And  many  Titthiyas  saw  Me;/^aka  the  house-
+holder as  he  was  coming  from  afar ;  and  when  they
+had  seen  him,  they  said  to  Me;;^aka  the  house-
+holder :
+
+'  Whither,  O  householder,  are  you  going  ?'
+
+*  I  am  going,  Sirs,  to  visit  the  Blessed  One,  the
+Samawa  Gotama.'
+
+'  But  why,  O  householder,  do  you,  being  a
+Kiriya-vada,  go  out  to  visit  the  Blessed  One  who
+is  an  Akiriya-vada  ?  For,  O  householder,  the
+Sama;za  Gotama,  who  is  an  Akiriya-vada,  teaches
+Dhamma  without  the  doctrine  of  action  \  and  in
+this  Dhamma  he  instructs  his  hearers.'
+
+1 3.  Then  thought  Mendaks.  the  householder :
+'  For  a  certainty  that  Blessed  One  must  be  an
+Arahat  Buddha  :  since  these  Titthiyas  are  so  jealous
+of  him.'  And  he  went  on  to  the  place  where  the
+Blessed  One  was,  proceeding  in  the  carriage  as  far
+
+^  See  above,  VI,  31,  5.
+
+
+126  MAHAVAGGA.  VI,  34,  14.
+
+as  the  ground  was  passable  for  carriages,  and  then
+dismountino-  from  the  carrlaore,  and  QroinQ^  on  foot.
+And  when  he  had  come  there,  he  bowed  down  before
+the  Blessed  One,  and  took  his  seat  on  one'  side.
+
+And  when  he  was  so  seated  the  Blessed  One
+preached  (&c.,  as  usual,  for  instance,  I,  8,  2,  3,  down
+to :)  '  taken  his  refuge  in  him.'
+
+*  May  the  Blessed  One  consent  to  take  his  meal,
+together  with  the  Bhikkhu-sa;;2gha,  at  my  house
+to-morrow.'
+
+The  Blessed  One  consented  by  remaining  silent.
+
+14.  Then  Me;^<7^aka  the  householder  when  he  saw
+that  the  Blessed  One  had  consented  (&c.,  as  usual,
+see  VI,  18,  I,  2,  down  to:)  sat  down  on  the  seat
+prepared  for  him.
+
+15.  Then  the  wife,  and  the  son,  and  the  daughter-
+in-law,  and  the  slave  of  Me?^^aka  the  householder
+went  to  the  place  where  the  Blessed  One  was :  and
+when  they  had  come  there  they  bowed  down  before
+the  Blessed  One  and  took  their  seats  on  one  side.
+
+And  the  Blessed  One  preached  to  them  (&c.,  as
+in  J  13,  down  to  :)  '  taken  their  refuge  in  him.'
+
+16.  Then  Me/^^aka  the  householder  served  the
+Bhikkhu-sawgha  with  the  Buddha  at  their  head
+{&c.,  as  usual,  down  to  :)  sat  down  on  one  side.
+
+And  when  he  was  so  seated  Me;2^aka  the  house-
+holder said  to  the  Blessed  One  :  '  So  lone  as  the
+Blessed  One  shall  stay  at  Bhaddiya,  so  long  will
+I  provide  the  Bhikkhu-sa;;2gha  with  the  Buddha  at
+their  head  with  food  every  day.'
+
+Then  the  Blessed  One  gladdened  (&c.,  as  usual,
+down  to :)  the  Blessed  One  rose  from  his  seat,  and
+went  away.
+
+17.  Now  when  the   Blessed  One  had  remained
+
+
+VI,  3-1.  19-  ^^   MEDICAMENTS.  1 27
+
+
+at  Bhaddiya  as  long  as  he  thought  fit,  he  went
+on,  without  informing  Me;^^/aka  the  householder,  to
+Ariguttardpa  with  a  great  company  of  Bhikkhus,
+with  one  thousand  two  hundred  and  fifty  Bhikkhus.
+And  Me;/^aka  the  householder  heard :  '  The  Blessed
+One,  they  say,  has  gone  on  to  Ariguttarapa  with
+(&c.,  down  to  :)  Bhikkhus.'  And  Me;/^/aka  the  house-
+holder eave  command  to  his  slaves  and  servants  :
+'  Load  then,  my  men,  a  quantity  of  salt  and  oil,  and
+rice,  and  hard  food,  and  come :  and  let  one  thousand
+two  hundred  and  fifty  cow-keepers  come  with  one
+thousand  two  hundred  and  fifty  cows.  Wherever
+we  find  the  Blessed  One  there  will  we  supply  him
+with  fresh  milk.'
+
+18.  And  Me;/^aka  the  householder  came  up  with
+the  Blessed  One  in  a  desert  place  on  the  way.
+And  Me;/^/aka  the  householder  went  up  to  the
+place  where  the  Blessed  One  was  :  and  when  he  had
+come  he  stood  on  one  side.  And  so  standing,
+Me^/rt'aka  the  householder  said  to  the  Blessed  One :
+'  May  the  Blessed  One  consent  to  take  his  meal
+(&c.,  as  usual,  down  to  :)  '  The  time  has  come,  and
+the  meal  is  ready.'
+
+1 9.  And  the  Blessed  One  early  in  the  morning  (&c.,
+down  to :)  sat  down  on  the  seat  prepared  for  him.
+
+Then  Me;^^aka  the  householder  gave  command
+to  those  thousand  two  hundred  and  fifty  cow-
+keepers  :  '  Take  then,  my  men,  each  of  you  a  cow,
+and  wait  each  of  you  upon  a  Bhikkhu,  and  provide
+him  with  fresh  milk.'
+
+And  Mc7idu.kvL  the  householder  waited  upon  the
+Bhikkhu-sawgha  with  the  Buddha  at  their  head
+with  his  own  hand,  and  satisfied  them  with  sweet
+food,  hard  and  soft,  and  with  fresh  milk.
+
+
+128  MAHAVAGGA.  VI,  34,  20.
+
+The  Bhikkhus,  fearing  to  offend,  would  not  take
+the  milk :
+
+'  Take  it,  Bhikkhus,  and  drink  it.'
+
+20.  And  Me;^^aka  the  householder,  when  he  had
+waited  with  his  own  hand  upon  the  Bhikkhu-sa;;2gha
+with  the  Buddha  at  their  head,  and  had  satisfied
+them  with  sweet  food,  hard  and  soft,  and  with  fresh
+milk ;  and  when  the  Blessed  One  had  finished  his
+meal,  and  had  washed  his  hands  and  his  bowl,  took
+his  seat  on  one  side.
+
+And,  so  sitting,  Me;^^aka  the  householder  said  to
+the  Blessed  One :  *  There  are  desert  ways.  Lord,
+waterless  and  foodless,  where  it  is  not  easy  to
+travel  without  supplies  for  the  journey.  It  would
+be  well  if  the  Blessed  One  were  to  allow  the  Bhik-
+khus to  take  supplies  with  them.'
+
+Then  the  Blessed  One  gladdened  (&c.,  as  usual,
+down  to  :)  rose  from  his  seat,  and  went  away.
+
+21.  And  the  Blessed  One,  in  that  connection,
+and  on  that  account,  after  having  delivered  a  reli-
+gious discourse,  said  to  the  Bhikkhus  :
+
+T  allow  you,  O  Bhikkhus,  the  five  products  of
+the  cow ; — milk,  curds,  ghee,  buttermilk,  and  butter.
+There  are,  O  Bhikkhus,  desert  ways,  waterless  and
+foodless,  where  it  is  not  easy  to  travel  without
+supplies  for  the  journey.  I  allow  you,  O  Bhikkhus,
+to  provide  yourselves  with  supplies  for  a  journey ; —
+rice  for  him  who  wants  rice,  beans  for  him  who
+wants  beans  ^  salt  for  him  who  wants  salt,  molasses
+for  him  who  wants  molasses,  oil  for  him  who  wants
+oil,  ghee  for  him  who  wants  ghee.  There  are,  O
+Bhikkhus,  faithful  and  converted  men  who  deposit
+
+^  Two  kinds  of  beans  are  mentioned,  mugga  and  masa.
+
+
+VI,  35i  I-  ON    MEDICAMENTS.  1 29
+
+gold  with  a  kappiya-karaka\  saying,  "Provide
+whatever  is  allowable  for  this  Bhikkhii."  I  allow
+you,  O  Bhikkhus,  to  accept  whatever  is  allowable.
+But  I  do  not  say  by  that,  O  Bhikkhus,  that  you
+may,  on  any  pretext  whatsoever,  accept  or  seek  for
+gold.'
+
+
+35.
+
+I.  Now  the  Blessed  One  proceeded  straight  on,
+on  his  alms-pilgrimage,  to  Apa;/a.  And  Keniya
+the  ascetic-  heard  the  saying, '  Behold!  the  Sama;^a
+Gotama,  who  was  born  in  the  Sakya  clan,  and  who
+went  forth  from  the  Sakya  clan  (to  adopt  the  reli-
+gious life),  has  arrived  at  Apa;2a,  and  is  staying  at
+Apawa.  Now  regarding  that  venerable  Gotama,
+such  is  the  high  reputation  that  has  been  noised
+abroad  that  he  is  said  to  be  a  fully-enlightened
+one,  blessed  and  worthy,  abounding  in  wisdom  and
+goodness,  happy,  with  knowledge  of  the  worlds,
+unsurpassed,  who  guides  men  as  a  driver  curbs  a
+bullock,  a  teacher  of  gods  and  men,  a  blessed
+Buddha.  He  by  himself  thoroughly  understands,
+and  sees,  as  it  were  face  to  face,  this  universe,  the
+world  with  its  Devas,  and  with  its  Brahmas,  and
+with  its  Maras,  and  all  creatures,  Sama;^as  and
+Brahma;ms,  gods  and  men :  and  he  then  makes
+his  knowledge  known  to  others.  The  truth  doth
+he  make  known,  both  in  the  spirit  and  in  the  letter:
+
+
+^  See  above,  chap.  17.  8.
+
+^  In  Pali  Ga/ila ;  that  is, '  one  with  long  matted  hair.*  See  our
+note  on  Mahavagga  I,  15,  i;  and  compare  also  Dipavawsa  I,  38;
+Gataka  I,  15,  84;  Dhammapada,  v.  141,  and  the  passages  quoted
+by  Professor  Oldenberg  in  his  edition  of  the  ^ullavagga,  p.  350,
+and  by  Dr.  Rhys  Davids  in  his  '  Buddhist  Birth  Stories,'  p.  185.
+
+[17]  K
+
+
+1 30  MAHAVAGGA.  VI,  35, 2.
+
+lovely  in  its  origin,  lovely  in  its  progress,  lovely  in
+its  consummation.  The  higher  life  doth  he  pro-
+claim, in  all  its  purity  and  all  its  perfectness.
+Blessed  is  the  sight  of  Arahats  like  thatM'  And
+Keniya  the  ascetic  thought :  '  What  now  should
+I  have  taken  ^  to  the  Sama;^a  Gotama.'
+
+2.  And  Keniya  the  ascetic  thought :  '  They  who
+are  the  ancient  T^/shis  of  the  Brahmans,  the  authors
+of  the  sacred  verses,  the  utterers  of  the  sacred
+verses,  whose  ancient  form  of  words,  so  uttered
+chaunted  or  composed,  the  Brahmans  of  to-day
+chaunt  over  again  and  repeat,  intoning  or  reciting
+exactly  as  had  been  intoned  or  recited — to  wit,
+Ati/i2k.di,  Vamaka,  Vamadeva,  Vessamitta,  Yama-
+taggi,  Aiigirasa,  Bharadva^a,  Vase////a,  and
+Bhagu'^ — they  were  abstainers  from  food  at  night,
+and  abstainers  from  food  at  the  wrong  time,  yet
+they  used  to  receive  such  things  as  drinks.  (3.)  Now
+the  Sama;^a  Gotama  is  also  an  abstainer  from  food
+
+^  This  is  a  stock  phrase.  Compare  above  VI,  34,  11,  and  the
+Tevi^^a  Sutta  I,  7,  46,  and  the  passages  quoted  on  the  last  by
+Rh.  D.,  'Buddhist  Suttas,'  p.  287.
+
+^  That  is,  as  a  present,  the  usual  tribute  of  respect.
+
+^  The  names  of  these  7??shis,  and  the  above  phrases  from  '  They
+who'  &c.  downwards,  recur  several  times  in  the  Tevi^^a  Sutta.
+See  Rh.  D., '  Buddhist  Suttas,'  p.  172,  &c.  Most  of  these  names
+are  easily  to  be  identified,  being  in  Sanskrit  Vamadeva,  Vi^va-
+mitra,  Gamadagni  (who  is  only  mentioned  in  this  list  in  refer-
+ence to  Rig-veda  III,  62,  quoted  from  below.  See  also  Oldenberg's
+note  to  -Sahkhayana's  Gr/hya-sutra  IV,  10  in  Indische  Studien  XV,
+153),  Ahgirasa,  Bharadva«-a,  Vasish///a,  Kaj-yapa,  and
+Bhr/gu.  The  only  doubtful  names  are  Vamaka  and  A///;aka.
+The  latter  must  be  Ash/aka,  mentioned  as  the  author  of  Rig-veda
+X,  104,  unless  it  be  supposed  to  be  a  corrupt  reading  under  which
+some  representation  of  Atri  may  lurk.  Vamaka  is  the  only  unin-
+telligible form,  for  it  would  be  difficult  to  see  how  that  word  could
+come  to  stand  for  the  Vamra  to  whom  Rig-veda  X,  99  is  ascribed.
+
+
+VI,  35,  4«  ON    MEDICAMENTS.  1  3  I
+
+at  night,  an  abstainer  from  food  at  the  wrong  time'.
+It  will  be  worthy  of  him  too  to  receive  such  things
+as  drinks.  And  when  he  had  had  a  quantity  of
+drinkables  made  ready  he  had  them  carried  on  pin-
+goes  and  went  up  to  the  place  where  the  Blessed
+One  was.  And  when  he  had  come  there,  he
+greeted  him ;  and  after  exchanging  with  him  the
+greetings  of  friendship  and  civility,  he  stood  by
+on  one  side.  And  so  standing  Keniya  the  ascetic
+spake  thus  to  the  Blessed  One :
+
+'  May  the  Blessed  One  accept  at  my  hands  these
+drinkables.'
+
+'  Very  good  then,  Keniya ;  give  them  to  the
+Bhikkhus.'
+
+The  Bhikkhus,  fearing  to  offend,  would  not
+receive  them.
+
+'  Receive  them,0  Bhikkhus,  and  make  use  of  them.'
+
+4.  Then  Keniya  the  ascetic  having,  with  his  own
+hand,  satisfied  the  Bhikkhu-sawgha  with  the  Buddha
+at  their  head  with  many  drinkables  until  they  re-
+fused any  more,  took  his  seat,  when  the  Blessed
+One  had  washed  his  hands,  and  had  laid  aside  the
+bowl,  on  one  side.  And  when  he  was  so  seated  the
+Blessed  One  taught  and  incited  and  aroused  and
+gladdened  Keniya  the  ascetic  with  religious  dis-
+course :  and  Keniya  the  ascetic,  when  he  had  been
+taught  and  incited  and  aroused  and  gladdened  by
+the  Blessed  One  with  religious  discourse,  spake
+thus  to  the  Blessed  One :
+
+'  May  the  venerable  Gotama  grant  to  me  the
+privilege  of  providing  the  to-morrow's  meal  for
+him,  together  with  the  company  of  the  Bhikkhus.'
+
+'  See  the  eighth  section  of  the  A'ula-sila.
+K   2
+
+
+132  MAHAVAGGA.  VI,  35,  i^.
+
+5.  '  Great,  O  Keniya,  is  the  company  of  the
+Bhikkhus.  Two  hundred  and  fifty  are  the  Bhlk-
+khus  in  number.  And  thou  art  greatly  devoted  to
+the  Brahmans.'
+
+Yet  a  second  time  spake  Keniya  the  ascetic  to
+the  Blessed  One  thus  :
+
+'What  though  the  company  of  the  Bhikkhus,  O
+Gotama,  be  great ;  and  though  two  hundred  and
+fifty  be  the  number  of  the  Bhikkhus.  May  the
+venerable  Gotama  grant  to  me  the  privilege  of
+providing  the  to-morrow's  meal  for  him,  together
+with  the  company  of  the   Bhikkhus.'
+
+'  Great,  O  Keniya  (&c,,  as  before).'
+
+Yet  a  third  time  spake  Keniya  the  ascetic  to  the
+venerable  Gotama  thus  :
+
+'What  though  the  company  of  the  Bhikkhus  (&c.,
+as  before).'
+
+Then  the  Blessed  One  granted,  by  remaining
+silent,  his  consent.  And  when  Keniya  the  ascetic
+perceived  that  the  Blessed  One  had  granted  his  con-
+sent, he  arose  from  his  seat,  and  departed  thence.
+
+6.  Then  the  Blessed  One  on  that  occasion,  and
+in  that  connection,  after  he  had  delivered  a  religious
+discourse,  addressed  the  Bhikkhus,  and  said  :
+
+*  I  allow  you,  O  Bhikkhus,  eight  kinds  of  drink-
+able things :  mango-syrup,  and  jambu-syrup,  and
+plantain-syrup  \    and    mo/('a-syrup,   and    honey,   and
+
+^  So  Buddhaghosa ;  but  it  may  also  be  cocoa-nut  or  cinnamon,
+according  to  Buhtlingk-Roth  sub  voce.  Buddhaghosa's  words  are
+A'o-('a-panan  ti  a/Z/iika-kadali-phalehi  kata-pana»2 ;  and  he  ex-
+plains mo^a  by  ana///^ikehi  kadali-phalehi  kata-pana»i.  As  kadali
+is  the  ordinary  plantain  or  banana,  which  has  no  seeds,  the  mean-
+ing of  the  difference  he  makes  between  the  two  kinds  is  not  clear.
+The  expression  eka////ithalapakka,  at  Gataka  I,  70,  evidently
+rests  on  the  same  meaning  of  the  word  a///n,  which  there  also
+
+
+"VI,  35,  7-  ON    MEDICAMENTS.  I33
+
+grape-juice,  and  syrup  made  from  the  edible  root
+of  die  water-lily \  and  pharusaka'^-syrup.  I  allow
+you,  O  Bhikkhus,  the  juice  of  all  fruits,  except  the
+juice  prepared  from  corn^.  I  allow  you,  O  Bhik-
+khus, drinks  prepared  from  all  leaves,  except  drinks
+prepared  from  potherbs'*.  I  allow  you,  O  Bhikkhus,
+drinks  prepared  from  all  flowers,  except  liquorice-
+juiced  I  allow  )ou,  O  Bhikkhus,  the  use  of  the
+juice  of  the  sugar  cane.'
+
+7.  And  Keniya  the  ascetic,  at  the  end  of  the
+night,  had  sweet  food,  both  hard  and  soft,  made
+ready  at  his  hermitage :  and  he  had  the  time
+announced  to  the  Blessed  One,  saying,  *  It  is  time,
+O  Gotama,  and  the  meal  is  ready.'
+
+And  the  Blessed  One,  having  put  on  his  under
+robes  early  in  the  morning,  went,  duly  bowled  and
+robed,  to  the  place  where  the  hermitage  of  Keniya
+the  ascetic  was.  And  when  he  had  arrived  there,
+he  sat  down  on  the  seat  spread  out  for  him,  and
+w^ith    him    the    company  of  the    Bhikkhus,     Then
+
+cannot  be,  as  usual,  seed ;  for  there  is  no  such  thing  as  a  palmyra
+fruit  with  one  seed.  See  Rh.  D.'s  note  on  p.  94  of  the  '  Buddhist
+Birth  Stories.'
+
+^  In  the  text  read  saluka.
+
+^  This  is  the  Grewia  Asiatica  of  Linnaeus.  See  Bohtlingk-
+Roth  under  parusaka.
+
+^  Toddy  and  arrack  are  so  prepared.  The  use  of  toddy  was
+one  of  the  famous  Ten  Points  of  the  heretics  at  the  Council  of
+Vesali.  See  below,  A'ullavagga  XII,  i,  11.  Buddhaghosa  explains
+this  as  'drink  made  from  any  one  of  the  seven  kinds  of  corn;'
+where  the  seven  kinds  referred  to  must  be  those  mentioned  in  the
+Abhidliana-ppadipika,  verses  450,  451.
+
+*  i5aka  =  saka.  Compare  our  note  below  on  VI,  36,  8,  and
+6rataka,  ed.  Fausbpll,  I,  308.
+
+^  Madhuka-puppha-rasa;;/;  Madhuka  is  the  Bassia  Latifolia
+of  Linnaeus.
+
+
+134  MAHAVAGGA.  VI,  35,  8.
+
+
+Keniya  the  ascetic,  with  his  own  hand,  offered  to
+the  company  of  the  Bhikkhus  with  the  Buddha  at
+their  head,  and  satisfied  them  with  the  sweet  food,
+both  hard  and  soft.  And  when  the  Blessed  One
+had  finished  his  meal  and  had  washed  his  hands  and
+his  bowl,  he  (Keniya)  took  his  seat  on  one  side.
+
+8.  And  when  he  was  so  seated  the  Blessed  One
+pronounced  the  benediction  on  Keniya  the  ascetic
+in  these  verses :
+
+'  Of  the  offerings^  the  fire  sacrifice  is  the  chief,  of
+sacred  verses  the  chief  is  the  Savitthi^ ;
+
+'  Among  men  the  king  is  chief,  and  of  waters
+the  ocean,
+
+'  Of  constellations  the  moon  is  chief,  and  of  heat-
+givers  the  sun,
+
+'  But  of  them,  the  conquering  ones,  who  long  after
+good,  the  Sa;;2gha,  verily,  is  chief.'
+
+And  when  the  Blessed  One  had,  in  these  verses,
+pronounced  the  benediction^  on  Keniya  the  ascetic,
+he  rose  from  his  seat,  and  departed  thence  "*.
+
+
+36.
+
+I.  Now  when  the  Blessed  One  had  staved  at
+Apa7^a  as  long  as  he  thought  fit,  he  went  on,  on
+his  pilgrimage,  to  Kusinara,  with  a  great  company
+
+*  Yariila,   Compare  above,  I,  22,  4,  and  our  note  there  (p.  138),
+'  This  is  of  course  the  well-known  verse  Rig-veda  III,  62,  10.
+
+The  argumentum  ad  hominem  here  is  a  fresh  confirmation  of  the
+view  already  expressed  above  in  our  note  on  I,  15,  i,  that  by  the
+Gatilas  are  to  be  understood  the  orthodox  Brahman  ascetics.
+
+'  Compare  the  Book  of  the  Great  Decease  I,  31,  and  Gataka
+I,  119.
+
+*  §§  7,  8  recur  in  the  Sela  Sutta  (Sutta  Nipata,  III,  7,  21,  22),
+where  they  stand  in  a  much  more  appropriate  context.
+
+
+VI,  36,  2.  ON    MEDICAMENTS.  135
+
+
+of  Bhikkhus,  with  two  hundred  and  fifty  Bhikkhus.
+And  the  Mallas  of  Kusinara  heard,  saying,  '  The
+Blessed  One,  they  say,  is  coming  to  Kiisinard  with
+a  great  company  of  Bhikkhus,  with  two  hundred
+and  fifty  Bhikkhus.'  And  they  established  a  com-
+pact to  the  effect  that  whosoever  went  not  forth  to
+welcome  the  Blessed  One,  should  pay  a  fine  of  five
+hundred  (pieces  ^).
+
+Now  at  that  time  there  was  a  certain  Malla,  by
+name  Ro^a,  who  was  a  friend  of  the  venerable
+Ananda's.  And  the  Blessed  One,  continuing  in  due
+course  his  pilgrimage,  arrived  at  Kusinara.
+
+2.  Then  the  Mallas  of  Kusinara  went  forth  to
+welcome  the  Blessed  One.  And  Rq^^a  the  Malla,
+having  gone  forth  to  welcome  the  Blessed  One,
+went  on  to  the  place  where  the  venerable  Ananda
+was  :  and  when  he  had  come  there,  he  saluted  the
+venerable  Ananda,  and  stood  by  on  one  side.  And
+to  him,  so  standing,  the  venerable  Ananda  spake
+thus :
+
+*  This  is  most  excellent  of  thee,  friend  Ro^a,  that
+thou  hast  come  forth  to  welcome  the  Blessed  One !'
+
+*  It  is  not  I,  O  Ananda,  who  am  much  moved  ^  by
+the  Buddha,  or  the  Dhamma,  or  the  Sawgha.  But
+by  the  clansmen  a  compact  was  made  to  the  effect
+that  whosoever  went  not  forth  to  welcome  the
+Blessed  One  should  pay  a  fine  of  five  hundred
+(pieces).     So  that  it  was  through  fear  of  being  fined
+
+^  That  is,  the  square  kahapa«as  of  copper  or  bronze,  figured  in
+the  Barhut  bas-reliefs,  and  mentioned  in  the  Dhammapada.  See
+Rh.  D.'s  'Ancient  Coins  and  Measures,'  p.  4,  §  5.
+
+2  Bahukato;  only  found  in  this  passage.  Buddhaghosa  says,
+Naha///  bhante  Ananda  bahukato  ti  naham  Buddhadi-gata-
+pasada-bahumanena  idhagato  ti  dasseti  ti.  Here  Buddha di
+means  the  Buddha,  the  Dhamma,  and  the  Sa;/zgha.
+
+
+136  MAHAVAGGA.  VI,  36,  3.
+
+by  my  clansmen  that  even  I  went  forth  to  welcome
+the  Blessed  One.'
+
+Then  the  venerable  Ananda  was  filled  with  sorrow,
+thinking, '  How  can  Ro^a  the  Malla  speak  thus  ?'
+
+3.  And  the  venerable  Ananda  went  up  to  the
+place  where  the  Blessed  One  was  :  and  when  he
+had  come  there,  he  saluted  the  Blessed  One,  and
+took  his  seat  on  one  side,  and  so  sitting  the
+venerable  Ananda  spake  to  the  Blessed  One  thus  :
+
+'  This  Ro^a  the  Malla,  Lord,  is  a  very  dis-
+tinguished and  well-known  person.  Great  would
+be  the  efficacy^  of  the  adherence  given  by  well-
+known  persons  like  him  to  this  doctrine  and  disci-
+pline. May  the  Blessed  One  be  pleased  so  to  act,
+that  Ro/a  the  Malla  shall  become  devoted  to  this
+doctrine  and  discipline.'
+
+A
+
+'  Now  that,  Ananda,  is  not  a  hard  thing  for  the
+Tathagata — so  to  act  that  Ro^a  the  Malla  should
+become  devoted  to  this  doctrine  and  discipline.'
+
+4.  Then  the  Blessed  One  suffused  Ro^a  the
+Malla  with  the  feeling  of  his  love  ^,  and  rising  from
+his  seat  he  entered  into  his  dwelling-place.  And
+Ro^a  the  Malla,  overcome  by  the  Blessed  One  by
+the  sense  of  his  love,  just  as  a  young  calf  follows
+the  kine,  so  did  he  go  on  from  dwelling-place  to
+dwelling-place,  and  from  apartment  to  apartment,
+asking  the  Bhikkhus  :
+
+'Where  then,  Sirs,  is  that  Blessed  One  dwelling
+now,  the  Arahat  Buddha  ?  For  we  desire  to  visit  that
+Blessed  One,  the  Arahat  Buddha.'
+
+^  Mahiddhiyo,  where,  as  so  often  elsewhere,  Iddhi  has  no
+supernatural  connotation.  Compare  the  passages  quoted  above  in
+our  note  on  1, 15,  2.
+
+**  Compare  Rh.  D.,  'Buddhist  Birth  Stories,'  p.  112.
+
+
+VI,  36, 5-  ON    MEDICAMENTS.  1 37
+
+'  This,  friend,  is  his  dwelHng-place,  the  door  of
+which  is  shut.  Go  up  therefore  quietly,  and  with-
+out crossing  the  threshold,  enter  into  the  verandah,
+and  knock  at  the  cross-bar.  The  Blessed  One  will
+open  the  door  to  thee.'
+
+5.  So  Ro^a  the  Malla  did  so,  and  the  Blessed
+One  opened  the  door.  And  Ro^a  the  Malla
+entered  into  the  dwelling-place,  and  saluted  the
+Blessed  One  and  took  his  seat  on  one  side.  And
+to  Roi^a  the  Malla  sittinor  there  the  Blessed  One
+preached  in  due  course  :  that  is  to  say,  he  talked
+to  him  of  giving ;  of  moral  conduct ;  of  heaven  ;
+of  the  danger  of  vanity,  of  the  corruption  of  lusts  ;
+and  of  the  advantajjes  of  renunciation.  When  the
+Blessed  One  saw  that  the  mind  of  Ro^^a  the  Malla
+was  prepared,  impressible,  free  from  obstacles  to
+understanding  the  truth,  elated,  and  believing,  then
+he  preached  that  which  is  the  principal  doctrine  of
+the  Buddhas,  namely.  Suffering,  the  Cause  of  suf-
+fering, the  Cessation  of  suffering,  and  the  Path.  And
+just  as  a  clean  cloth,  free  from  black  specks,  properly
+takes  the  dye,  thus  did  Ro^a  the  Malla,  even  while
+sitting  there,  obtain  the  pure  and  spotless  eye  of
+the  truth  (that  is,  the  knowledge  that),  '  Whatsoever
+is  subject  to  the  condition  of  beginning,  that  is
+subject  also  to  the  condition  of  cessation.'  And
+Ro^a  the  Malla,  having  seen  the  truth,  having
+mastered  the  truth,  having  understood  the  truth,
+having  penetrated  the  truth,  having  overcome  un-
+certainty, having  dispelled  all  doubts,  having  gained
+full  knowledge,  dependent  on  no  one  else  for
+knowledge  of  the  doctrine  of  the  Teacher,  thus
+spake  to  the  Blessed  One  :
+
+'  May  the   venerable    one    be    pleased.  Lord,  to
+
+
+1^8  MAHAVAGGA.  VI,  36, 6.
+
+
+receive  from  me  alone,  and  not  from  others,  the
+requisites  of  the  Order :  that  is  to  say,  robes,  and
+food,  and  dweUing-places,  and  medicine  for  the  use
+of  the  sick.'
+
+'Whosoever,  Ro^a,  with  the  knowledge  of  a
+disciple,  and  with  the  insight  of  a  disciple  \  has
+perceived  the  Truth,  even  as  thou  hast,  they  also
+will  think,  "  Oh !  that  the  venerable  ones  would  be
+pleased  to  receive  from  me  alone,  and  not  from
+others,  the  requisites  of  the  order."  Therefore,  Rq^a,
+they  shall  receive  them  from  you,  indeed,  but  also
+from  others.'
+
+6.  Now  at  that  time  a  certain  succession  had
+been  fixed,  in  which  the  inhabitants  of  Kusinara
+should  each  in  succession  provide  food  for  the
+Saw^gha.  And  it  occurred  to  Ro^a  the  Malla,  who
+had  not  received  a  place  in  the  succession,  thus :
+'  What  if  I  were  to  inspect  the  Sa7/?gha's  storehouse,
+and  provide  whatever  I  found  wanting  in  the  store-
+house ?'  And  on  inspecting  the  storehouse,  he
+found  there  no  potherbs,  and  no  meal  2.
+
+Then  Ro/a  the  Malla  went  up  to  the  place  where
+the  venerable  Ananda  was,  and  when  he  had  come
+there,  he  spake  to  the  venerable  Ananda  thus :
+
+'  It  occurred  to  me  (&c.,  as  before,  down  to  :)  and
+no  meal.  If,  Ananda,  I  were  to  provide  potherbs
+and  meal,  would  the  Blessed  One  accept  them  at
+my  hands  ?'
+
+7.  The  venerable  Ananda  told  this  thing  to  the
+Blessed  One.
+
+^  Sekhena,  as  opposed  to  asekhena.  That  is,  with  the  know-
+ledge of  one  who  is  not  himself  an  Arahat.  See  our  note  on  Maha-
+vagga  I,  7,  13.
+
+^  See  the  note  at  the  end  of  §  8.
+
+
+VI,  36,8.  ON    MEDICAMENTS.  139
+
+
+'Very  good,  then,  Ananda.  Let  him  provide  them/
+'Very  good, then,  Rq<^a.  Provide  them  accordingly.'
+Then  Rq^a  the  Malla  at  the  end  of  tlie  night,
+after  he  had  had  a  quantity  of  potherbs  and  meal
+made  ready,  offered  them  to  the  Blessed  One,
+saying,  '  May  the  Blessed  One  accept  at  my  hands
+the  potherbs  and  the  meal.'
+
+'  Very  good,  then,  Ro^a.  Present  them  to  the
+Bhikkhiis.'
+
+The  Bhikkhus,  fearing  to  offend,  did  not  accept
+them.
+
+'Accept  them,  O  Bhikkhus,  and  make  use  of  them.'
+8.  Then  Ro^a  the  Malla,  with  his  own  hand,
+offered  to  the  company  of  the  Bhikkhus  with  the
+Buddha  at  their  head,  and  satisfied  them  with  the
+potherbs  and  the  meal.  And  when  the  Blessed
+One  had  finished  his  meal,  and  had  cleansed  his
+hands  and  the  bowl,  he  (Ro^)  took  his  seat  on  one
+side.  And  when  he  was  so  seated  the  Blessed  One
+taught,  and  incited,  and  conversed,  and  gladdened
+Ro^a  the  Malla  with  religious  discourse.  And
+Ro^  the  Malla,  when  he  had  been  taught,  &c.,  rose
+from  his  seat  and  departed  thence.
+
+And  the  Blessed  One,  on  that  occasion,  and  in
+that  connection,  when  he  had  delivered  a  religious
+discourse,  addressed  the  Bhikkhus,  and  said  :
+
+'  I  allow  you,  O  Bhikkhus,  all  kinds  of  potherbs  \
+and  all  kinds  of  meal  ^.'
+
+
+1  Sabba?1  k^.  /akan  (sic)  ti  sappi-adihi  pakka^TZ  va  apakkawi
+va  yaw  kmk'i  /akaw  (B.)
+
+2  Pi/Ma-khadaniyan  ti  pi////amaya;«  khadaniyaw/  (B.)
+
+
+140  MAHAVAGGA.  VI,  37,  I.
+
+37.
+
+1.  Now  the  Blessed  One,  when  he  had  stayed  at
+Kusinara  as  long  as  he  thought  fit,  went  on,  on  his
+pilgrimage  to  Atuma,  with  a  great  company  of  the
+Bhikkhiis,   with    two    hundred    and    fifty   Bhikkhus.
+
+A
+
+And  at  that  time  there  was  dwelling  at  Atuma  a
+certain  man,  who  had  entered  the  Order  in  his
+old  age,  and  who  had  previously  been  a  barber  \
+He  had  two  sons,  handsome^,  skilled  in  discourse  ^
+able,  fully  educated  in  all  the  arts  which  belonged
+to  the  barbers'  craft  handed  down  to  them  by  their
+teachers  *.
+
+2.  Now   this    dotard^   heard    the    news:     'The
+
+A
+
+Blessed  One,  they  say,  is   coming  to  Atuma  with
+
+^  This  man  is  identified  by  the  tradition  with  the  Subhadda  men-
+tioned in  the  accounts  of  the  Great  Decease,  and  of  the  First
+Council.     See  Rh.  D.'s  note  on  Maha-parinibbana  Sutta  VI,  40.
+
+^  Buddhaghosa  understands  this  word,  which  he  reads  differently,
+as  meaning  'sweet-voiced.'  Ma.nkuka,  (sic)  ti  madhura-va/^ana.
+We  follow  the  ordinary  meaning  of  mafi^u.
+
+^  Here  again  Buddhaghosa  gives  a  technical  meaning  to  the
+word,  unsupported  by  the  derivation.  He  says,  Pa/ibhaneyyaka
+ti  sake  sippe  pa/ibhana-sampanna.  This  agrees  with  Childers's  ren-
+dering (sub  voce)  of  Gataka  I,  60;  but  compare  Sigalovada  Sutta,
+ed.  Grimblot,  p.  309.
+
+*  On  the  idiomatic  phrase  saka^^i  a>^ariyaka7«,  compare  Maha-
+parinibbana  Sutta  in,  7,  8  (text  ed.  Childers,  pp.  24  and  following).
+
+°  Literally, '  this  man  who  had  gone  forth  (from  the  household
+state  into  the  homeless  life  of  the  Order)  in  his  old  age.'  But  it  is
+impossible  to  repeat  this  long  phrase  throughout  the  narrative  as
+is  done  in  the  Pali,  where  the  meaning  of  the  phrase  is  expressed
+by  one  compound.  As  the  Pali  word  vuddha-pabba^ito  con-
+notes contempt,  and  even  censure  (men  entering  the  Order  in  their
+old  age  being  often  represented  as  incapable  of  appreciating  even
+the  simplest  principles  of  the  'doctrine  and  discipline'),  the  use  of  the
+word  'dotard'  in  our  translation  seems  to  retain  the  spirit  of  the  Pali
+epithet,  while  avoiding  the  inconvenient  length  of  a  literal  version.
+
+
+VI,  37.  4-  ON    MEDICAMENTS.  I4I
+
+
+a  great  company  of  the  Bhikkhus,  with  two  hundred
+and  fifty  Bhikkhus.'  Then  that  dotard  spake  thus
+to  his  sons :  '  They  say  the  Blessed  One  is  coming-,
+my  children  \  to  Atuma  with  a  great  company  of
+Bhikkhus,  with  two  hundred  and  fifty  Bhikkhus.
+Go,  therefore,  my  children,  and  taking  your
+barbers'  lad^  with  you,  collect  in  quart  pots  from
+house  to  house,  salt,  and  oil,  and  rice,  and  meal.
+And  we  will  prepare  congey  for  the  Blessed  One
+when  he  has  arrived.'
+
+3.  Very  good,  Father,  said  they,  and  (did  so).
+And  when  people  saw  those  young  men,  of  pleasing
+appearance,  and  skilful  in  discourse,  so  acting,  then
+even  those  who  were  not  willing  to  be  led  into  join-
+ing in  the  act  were  led  to  join  in  it ;  and  being  so  led,
+they  gave  abundantly.  So  the  young  men  collected
+a  great  quantity  of  salt,  and  oil,  and  rice,  and  meal.
+
+4.  And  the  Blessed  One  in  due  course  arrived
+in  his  journey  at  Atuma ;  and  there  at  Atuma  the
+Blessed  One  stayed  at  the  Threshing-floor.  And
+that  dotard,  when  the  night  was  far  spent,  had  much
+congey  made  ready,  and  offered  it  to  the  Blessed
+One,  saying,  '  May  the  Blessed  One  accept  the
+congey  at  my  hands.'
+
+Now  the  Tathasfatas  sometimes  ask  about  what
+they  know ;  sometimes  they  do  not  ask  about  what
+they  know.  They  understand  the  right  time  when
+to  ask,  and  they  understand  the  right  time  when
+not  to  ask.     The  Tathagatas  put  questions  full  of
+
+
+^  Tata,  not  tata.  It  will  be  seen  that  Childers  is  wrong  in  sup-
+posing that  the  plural  form  is  always  used  when  more  than  one
+person  is  addressed.
+
+2  Khura-bha7;</a;«;  not '  shaving  materials;'  compare  hatthi-
+hh^ndo  and  assa-bha«(/o  at  Mahavagga  I,  61,  and  below,  §  5.
+
+
+142  MAHAVAGGA.  VI,  37,  5.
+
+sense,  not  void  of  sense :  to  what  is  void  of  sense,
+the  bridge  is  pulled  down  for  the  Tathagatas.  For
+two  purposes  the  blessed  Buddhas  put  questions  to
+the  Bhikkhus — when  they  intend  to  preach  the  Truth,
+and  when  they  intend  to  institute  a  rule  of  conduct  to
+their  disciples  ^  And  the  Blessed  One  spake  thus  to
+that  dotard,  'Whence,  O  Bhikkhu,  is  this  congey  ?'
+
+Then  that  dotard  informed  the  Blessed  One  of
+the  whole  matter.
+
+5.  The  Blessed  Buddha  rebuked  him,  saying,
+'  This  is  improper,  O  foolish  one,  not  according
+to  rule,  unsuitable,  unworthy  of  a  Sama;/a,  un-
+becoming, and  ought  not  to  be  done.  How  can
+you,  O  foolish  one,  having  gone  forth  (from  the
+world  into  the  Order),  instigate  others  to  do  what
+is  unlawful.  This  will  not  conduce,  O  foolish  one,
+to  the  conversion  of  the  unconverted.'
+
+And  when  he  had  rebuked  him,  and  had  delivered
+a  religious  discourse,  he  addressed  the  Bhikkhus,
+and  said :  '  One  who  has  gone  forth  ought  not,  O
+Bhikkhus,  to  instigate  others  to  an  unlawful  act  ^.
+Whosoever  does  so,  is  guilty  of  a  dukka/a.  And
+one,  O  Bhikkhus,  who  has  formerly  been  a  barber
+is  not  to  keep  a  barber's  boy.  Whosoever  does  so,
+is  guilty  of  a  dukka/a.'
+
+
+38.
+I.    And  when  the   Blessed   One   had    tarried   at
+
+A
+
+Atuma  as   long  as  he  thought  fit,  he  went  on  his
+
+^  See  Mahavagga  I,  31,  5.
+
+"^  Unlawful,  because  one  Bhikkhu  may  not  beg  for  others,  and  it
+is  unlawful  for  those  others  to  accept  things  thus  procured.
+
+
+VI,  40,  I.  ON    MEDICAMENTS.  1 43
+
+journey  towards  Savatthi.  And  in  due  course,
+journeying-  straight  on,  he  arrived  at  Savatthi,  and
+there,  at  Savatthi,  the  Blessed  One  stayed  in  the
+Arama  of  Anatha-pi;/^ika.
+
+Now  at  that  time  there  was  in  Savatthi  great
+abundance  of  soHd  food  in  the  shape  of  fruits.  And
+the  question  arose  among  the  Bhikkhus,  '  Has,  now,
+the  Blessed  One  permitted  the  use  of  fruits  as  solid
+food,  or  has  he  not  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  all  solid  food  in  the
+shape  of  fruits.'
+
+
+39.
+
+I.  Now  at  that  time,  seedlings  belonging  to  the
+Sa;;^gha  grew  upon  private  ground,  and  seedlings
+belonging  to  private  persons  grew  upon  ground
+which  was  the  property  of  the  Sawgha.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Of  seedlings  belonging  to  the  Sawgha,  grown
+upon  private  ground,  half  the  produce,  O  Bhikkhus,
+)ou  may  have,  when  you  have  given  a  part  to  the
+private  owner.  Of  seedlings  belonging  to  a  private
+person,  grown  upon  ground  the  property  of  the
+Sa7?2gha,  you  may  have  the  use,  when  you  have
+given  a  part  to  the  private  owner  ^'
+
+
+40.
+
+I.    Now  at  that  time  there  used  to  arise  among
+the    Bhikkhus   a   fear   lest   they   should   offend    in
+
+^  Buddhaghosa  explains  the  'part'(bhagaw)  as  the  twelfth  part,
+which,  he  says,  is  in  accordance  with  the  ancient  custom  of  India.
+Used  absolutely,  as  in  this  passage,  bhaga  usually  means  '  half.'
+
+
+1 44  MAHAVAGGA.  VI,  40, 2.
+
+some  particular  or  other,  they  thinking,  '  Has  this
+been  permitted  by  the  Blessed  One,  or  has  it  not  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Whatsoever,  O  Bhikkhus,  has  not  been  disallowed
+by  me  in  the  words,  "  This  beseems  you  not,"  then,
+if  that  thing  is  in  accord  with  what  is  unlawful,  and
+is  contrary  to  what  is  lawful,  that  is  not  lawful.
+Whatsoever  has  not  been  disallowed  by  me  with
+the  words,  "  This  beseems  you  not,"  then,  if  that
+thing  is  in  accord  with  what  is  lawful,  and  is  contrary
+to  what  is  unlawful,  that  is  lawful.
+
+*  And  whatsoever,  O  Bhikkhus,  has  not  been
+allowed  by  me  with  the  words,  "  This  beseems  you,"
+then,  if  that  thing  is  in  accord  with  what  is  lawful,
+and  is  contrary  to  what  is  unlawful,  that  is  not
+lawful.  Whatsoever  has  not  been  allowed  by  me
+with  the  words,  "  This  beseems  you,"  then,  if  that
+thing  is  in  accord  with  what  is  lawful,  and  is  contrary
+to  what  is  unlawful,  that  is  lawful  \'
+
+2.  Then  the  Bhikkhus  thought :  *  Is  food  that
+may  be  eaten  till  the  first  watch  of  the  night  ^  law-
+ful, or  not,  when  mixed  with  food  that  ought  to  be
+eaten  before  noon  on  the  same  day  ?  Is  food  that
+may  be  eaten  at  any  time  within  seven  days  ^  lawful,
+or  not,  when  mixed  with  food  that  ought  to  be
+eaten  before  noon  on  the  same  day  ?  Is  food  that
+may  be  eaten  at  any  time  during  life  ■*  lawful,  or
+not,  when  mixed  with  food  that  ought  to  be  eaten
+
+^  The  formal  expressions  referred  to  in  these  two  paragraphs
+are  precisely  the  expressions  to  which,  in  the  Book  of  the  Great
+Decease  VI,  40,  and  in  the  ^ullavagga  XI,  i,  i,  Subhadda  is  stated
+to  have  taken  such  serious  objection.
+
+^  This  refers  to  certain  medicines;  see  Mahavagga  VI,  i,  5.
+
+'  This  also  refers  to  certain  medicines  ;  see  the  2  3rdNissaggiya.
+
+*  What  this  refers  to  is  unknown  to  us.
+
+
+VI,  40,  3-  ON    MEDICAMENTS.  1 45
+
+before  noon  on  the  same  day  ?  Is  food  that  may
+be  eaten  at  any  time  within  seven  days  lawful,  or
+not,  when  mixed  with  food  that  may  be  eaten  at
+any  time  during-  life  ?  Is  food  that  may  be  eaten
+at  any  time  during  life  lawful,  or  not,  when  mixed
+with  food  that  may  be  eaten  at  any  time  within
+seven  days  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+
+3.  '  Food  that  may  be  eaten  up  to  the  first  watch
+of  the  night,  or  food  that  may  be  eaten  at  any  time
+within  seven  days,  or  food  that  may  be  eaten  at  any
+time  during  life,  is  lawful,  O  Bhikkhus,  when  mixed
+with  food  that  ouofht  to  be  eaten  before  noon  on
+the  same  day,  up  till  noon-time,  and  it  is  not  lawful
+after  noon-time.  Food  that  may  be  eaten  at  any
+time  within  seven  days,  or  food  that  may  be  eaten
+at  any  time  during  life,  is  lawful,  O  Bhikkhus, — when
+it  has  been  mixed  with  food  that  may  be  eaten  up
+to  the  first  watch  of  the  night, — up  till  the  first  watch
+of  the  night,  and  is  not  lawful  after  the  first  watch  of
+the  night.  Food  that  may  be  eaten  at  any  time  during
+life,  is  lawful,  O  Bhikkhus, — when  it  has  been  mixed
+with  food  that  may  be  eaten  at  any  time  within
+seven  days, — at  any  time  within  seven  days,  and  is
+not  lawful  beyond  seven  days  ^.'
+
+
+Here  ends  the  sixth  Khandhaka  on  Medicaments.
+
+^  Buddhaghosa  says  that  this  holds  good  if  the  two  are  so  mixed
+that  the  taste  (rasu)  has  become  one  (sambhinna).  If  the  two
+are  not  so  mixed,  then  they  may  be  divided,  and  the  part  allow-
+able during  the  longer  period  may  be  enjoyed  up  to  the  end  of
+that  period.  See  I,  20,  9 ;  V,  2,  i ;  VI,  16,  3  ;  VIII,  1,24,  and  the
+notes  there.
+
+
+C17]
+
+
+146  MAHAVAGGA.  VII,  i,  i.
+
+
+SEVENTH    KHANDHAKA.
+
+(the    KArJTINA    CEREMONIES.)
+1.
+
+I.  Now  at  that  time  the  Blessed  One  was  staying
+at  Savatthi,  in  the  6^etavana,  Anathapi;^^ika's  Grove.
+And  at  that  time  about  thirty  PaZ/zeyyaka  Bhikkhus\
+
+^  Buddhaghosa  says, '  PaMeyya  (the  Berlin  MS.  reads  Pa veyya)
+is  the  name  of  a  kingdom  situated  to  the  west  of  the  Kosala  country.
+This  passage  refers  to  Bhikkhus  who  dwelt  there.  The  Bhatta-
+vaggiya  Theras  (so  the  Berlin  MS.;  query  Satta-vaggiya),  who
+were  brothers  of  the  Kosala  king,  sons  of  the  same  father,  are  here
+alluded  to.'
+
+But  with  which  of  the  many  kingdoms  '  to  the  west  of  the  Kosala
+country'  are  we  to  identify  Pa///eyya?  The  word  does  not  occur
+in  the  stock  list,  found  in  different  parts  of  the  Pali  Pi/akas,  of  the
+sixteen  Maha-^anapada  ;  that  is  to  say,  Ahga,  Magadha,  Kasi,
+Kosala,  Va^^i,  Malla,  ^etiya,  Va^/zsa,  Kuru,  Pa?l/?;ala,  MaM/^a,
+Surasena,  Assaka,  Avanti,  Gandhara,  Kambo^a.  The  account  of
+the  Council  at  Vesali  gives  us  a  hint  as  to  the  right  answer  to  the
+above  question ;  for  the  Thera  Sambhuta,  who  took  part  in  that
+Council,  is  called  a  PaZ/^eyyaka  in  A'ullavagga  XII,  2,  7,  and  is
+also  said  at  ^ullavagga  XII,  i,  8  to  have  lived  Ahogahge
+Pabbate.  The  position  of  this  hill  is  further  described  in  the
+Mahava;«sa  as  being  on  the  upper  Ganges — uddhagahgaya  ....
+Ahogangamhi  pabbate  (p.  39,  ed.  Turnour).  Then  again  in  A'ulla-
+vagga  XII,  I,  7  the  Thera  Yasa,  when  wishing  to  put  himself  in
+communication  with  the  Bhikkhus  in  PaZ/^eyya  and  in  other  places,
+goes  to  Kosambi  as  the  most  convenient  meeting-place  for  Bhik-
+khus coming  from  the  East.  The  other  places  mentioned  in  that
+passage  in  juxta-position  with  Pa/;^eyya  would  seem  to  show  that
+Pa//ieyya,with  Pa-^ina,  Avanti,  and  Dakkhiwapatha,  is  one  of  the  prin-
+cipal divisions  into  which  India,  as  then  known,  was  divided ;  and
+that  it  includes  most,  if  not  all,  of  the  great  westerly  kingdoms  of
+
+
+Vir,  I,  2.  THE    KAr^INA    CEREMONIES.  I47
+
+who  were  all  dwellers  in  the  forest,  all  livine  on
+alms,  all  dressed  in  rags  from  the  dust  heap,  all
+having  only  three  robes  each,  when  they  were  on
+the  way  to  Savatthi  to  visit  the  Blessed  One,  at
+the  time  when  the  period  for  entering  upon  Vassa
+was  at  hand,  were  unable  to  reach  Savatthi  in  time
+to  spend  the  Vassa  there,  and  stayed  at  Saketa  on
+the  way  for  the  Vassa.  And  they  spent  the  period
+of  Vassa  in  discomfort,  thinking,  '  Our  Blessed  One
+is  staying  near  us,  six  leagues  from  here,  and  we
+are  not  able  to  visit  the  Blessed  One.'
+
+And  when,  after  three  months,  those  Bhikkhus
+had  completed  their  Vassa  residence,  and  had  held
+their  Pavara;2a,  they  went  on  to  the  place  where
+the  Blessed  One  was,  at  Savatthi,  in  the  Cetavana,
+Anathapi;^^ika's  Grove,  while  the  rain  was  falling,
+and  the  waters  were  gathering  \  and  the  swamps
+were  forming,  and  their  robes  were  all  drenched,
+and  they  were  weary.  And  when  they  had  arrived,
+they  saluted  the  Blessed  One,  and  took  their  seats
+on  one  side.
+
+2.  Now  it  is  the  custom  of  the  blessed  Buddhas
+to  greet  kindly  Bhikkhus  who  have  just  arrived.
+And  the  Blessed  One  said  to  those  Bhikkhus  ^ :
+
+'  Do  things  go  well  with  you,  O  Bhikkhus  ?     Do
+
+Kuru,  Pa?lMla,  &c.,  which  are  the  last  eight  of  the  sixteen  king-
+doms in  the  stock  list  above  referred  to.  Probably  the  literal
+meaning  of  Pa///eyya  is  'western'  (Sans,  pratya?}/').  In  the  Sutta-
+vibhahga  (Pa^ittiya  34)  merchants  are  mentioned  who  are  travelling
+from  R%agaha  to  the  Pa/iyaloka,  which  must  mean  '  tlic  western
+country,' just  as  Pa/iyarama  (Dipav.  17,  11)  means  'the  western
+Arama.'
+
+*  Udaka-sawgahe  'ti  udakena  sawgahite  gha^te  saz^isa///5e  thale
+kz  ninne  kz  ekodakibhute  'ti  attho  (B.).
+
+^  Compare  IV,  i,  8,  and  foil.
+
+L   2
+
+
+148  MAHAVAGGA.  VII,  i,  3.
+
+you  get  enough  to  support  yourselves  with  ?  Have
+you  kept  Vassa  well,  in  unity,  and  in  concord,  and
+without  quarrel,  and  have  you  not  suffered  from
+want  of  food  ?'
+
+'  Things  go  well  with  us.  Lord ;  we  get  enough  to
+support  ourselves  with,  Lord ;  we  have  kept  Vassa,
+Lord,  in  unity,  and  in  concord,  and  without  quarrel,
+and  have  not  suffered  from  want  of  food.  When
+we  were  on  our  way.  Lord,  about  thirty  Pa^'/^eyyaka
+Bhikkhus,  to  Savatthi  to  visit  the  Blessed  One,  we
+were  unable  to  reach  Savatthi  in  time  (&c.,  as  in
+§  I,  down  to  :).  And  when,  after  three  months.  Lord,
+we  had  completed  our  Vassa  residence,  and  had  held
+our  Pavara;?a,  we  have  made  our  way,  while  the
+rain  was  falling,  and  the  waters  were  gathering,  and
+the  swamps  were  forming ;  and  our  robes  were  all
+drenched  ;  and  we  have  become  weary.'
+
+3.  Then  the  Blessed  One  in  that  connection,
+having  delivered  a  relig-ious  discourse,  addressed  the
+Bhikkhus,  and  said  ^ :
+
+^  As  has  been  remarked  in  a  previous  note  (to  the  first  Nissaggiya
+Pa^ittiya  Rule)  some  of  the  details  of  these  Ka//?ina  ordinances  are
+at  present  difficult  to  understand.  But  the  general  meaning  of
+them  is  already  clear.  Immediately  after  the  Pavarawa,  the  cere-
+mony by  which  the  Vassa  residence  is  closed,  there  follows  a
+distribution  of  the  robes  belonging  to  the  local  Sawzgha,  (that  is,
+the  portion  of  the  Order  dwelling  within  one  boundary,)  to  the
+particular  Bhikkhus  composing  the  Saw^gha.  This  distribution
+commences  with  the  ka//nn-atthara,  atthara,  'spreading  out,'
+not  being  used  here  literally  for  spreading  out  on  the  ground  or
+otherwise,  but  in  a  secondary,  juristic  sense.  And  the  act  per-
+formed receives  the  technical  name  atthara  by  a  process  of  putting
+a  part  for  the  whole,  the  spreading  out  in  the  sun  (see  our  note,
+p.  18)  for  the  whole  ceremony.  We  translate  the  term  according
+to  the  context,  sometimes  by  '  spreading  out,'  sometimes  by  '  cere-
+mony,' sometimes  by  '  dedication.'
+
+
+VII,  I,  3.  THE    KATHl-SA    CEREMONIES.  T49
+
+'  I     prescribe,    O     Bhikkhus,    that    the     KaMina
+ceremony   shall  be    performed  by   Bhikkhus  when
+
+The  KaMina,  literally  '  hard,'  is  the  stock  of  cotton  cloth  provided
+by  the  faithful  to  be  made  up  into  robes  for  the  use  of  the  Sawgha
+during  the  ensuing  year.  The  whole  of  this  cotton  cloth  must  be
+dyed,  sewn  together,  and  made  into  robes,  and  then  formally
+declared  to  be  (not  only  common  property,  Sawghika,  but)  avail-
+able for  immediate  distribution — all  on  one  and  the  same  day.
+The  object  of  this  was  that  the  Sawgha,  or  at  least  a  quorum  of
+the  Sa;;/gha,  being  able  to  be  present  throughout,  there  would  be
+less  chance  of  any  mistake  by  which  what  was  intended  equally  for
+all  might  come  to  be  unequally  divided  among  a  few.  All  the
+Brethren  who  have  kept  their  Vassa  within  the  limits  of  the  district
+within  which  the  particular  Sa/wgha  lives  (and  therefore  technically
+called  an  avasa,  'residence'),  and  who  have  taken  part  in  the
+Pavarawa,  are  entitled  to  share  in  the  distribution.
+
+(Buddhaghosa  says,  'Ettha  kathinattharaw  ke  labhanti  ke  na
+labhanti.  Gawavasena  tava  pa>^X7nma-ko/iya  pziika.  ^ana  (for  at
+least  five  must  be  present  to  make  a  Pavarawa  legal,  Mahavagga
+IX,  4,  i)  .  .  .  .  vu////avassavasena  purimikaya  vassa7«  upagantva
+paMama-pavarawaya  pavarita  labhanti.')
+
+There  can  of  course  be  no  ka//zin-atthara  if  there  is  no
+kaMina;  and,  under  certain  restrictions  laid  down  in  the  Nissag-
+giya  PaX'ittiya  Rules,  laymen  were  allowed  to  give  robes  for  the
+special  use  of  a  particular  Bhikkhu.  If,  however,  a  layman  was
+desirous  of  giving  the  much  more  meritorious  gift  of  a  Ka//iina  to
+the  whole  community,  then  he  is  to  present  the  cloth  in  the  early
+morning  to  a  properly  constituted  meeting  of  the  Sawgha,  and  the
+Ka/Z/ina  ceremony  has  to  be  gone  through.  All  the  Brethren
+living  within  the  boundary  have  to  be  present,  and  to  take  part  in
+the  work  of  making  the  cotton  cloth  up  into  robes  ;  and  if  there  is
+any  danger  of  the  work  not  being  concluded  before  the  day  is
+over,  even  the  most  senior  Bhikkhus,  or  the  most  revered  for
+their  learning  or  insight,  must  lend  a  hand.  Then  follows  the
+distribution  so  far  only  as  is  set  forth  in  the  next  section  (§  4)  and
+in  the  note  to  it.
+
+Now  it  would  often  happen  that,  at  the  end  of  the  rainy  season
+of  Vassa,  the  last  year's  robes  of  some  of  the  Bhikkhus  would  be
+worn  out.  And  yet  no  laymen  would  come  forward  to  give  a
+Kay/iina  until  some  time  after  the  Vassa  residence  had  closed.     But
+
+
+1 50  MAHAVAGGA.  VII,  i,  3.
+
+
+they  have  completed  their  Vassa.  And  five  things
+are  allowable  to  you,  O  Bhikkhus,  after  the  Ka//^ina
+ceremony  has  been  held — going  for  alms  to  the
+houses  of  people  who  have  not  invited  you  ^,  going
+
+if  any  one  did  oifer  a  Ka//^ina,  and  the  ceremony  was  duly  per-
+formed, tiien  each  Bhikkhu  had  a  right  to  supply  his  actual  needs
+from  the  robes  made  out  of  the  KaMina.  He  need  not  do  so  at
+once.  His  want  might  not  be  pressing,  or  might  not  even  arise
+till  afterwards.  During  such  an  interval  the  five  privileges  (Ani-
+saz«sa)  mentioned  in  this  section  (§  3)  are  accorded  to  the  Bhikkhus,
+though  they  would  be  against  the  rules  in  force  during  the  rest  of
+the  year.
+
+But  if  the  Bhikkhu  kept  on  postponing  his  choice  would  the
+privileges  accorded  by  this  section  hold  good  even  during  the
+whole  year  ?  Could  the  Bhikkhu,  by  his  mere  abstention,  thus
+bring  about  a  practical  abrogation  of  the  general  rules  ?  Not  so,
+for  the  five  privileges  are  in  their  turn  suspended  by  any  one  of  the
+eight  things  mentioned  below  in  §  7.
+
+We  may  add  that  at  the  present  time  in  Burma  and  Ceylon,  the
+robes  for  the  Bhikkhus  are  usually  provided  in  accordance  with
+the  rules  regulating  gifts  to  particular  Bhikkhus.  But  the  gift  of
+a  Ka//^ina  is  still  by  no  means  uncommon.  See  Spence  Hardy's
+'  Eastern  Monachism,'  pp.  121  and  foil.  There  is  probably,  however,
+very  seldom  any  necessity  for  the  Bhikkhus  to  avail  themselves  of
+any  of  the  five  privileges,  except  the  last.
+
+^  This  privilege  is  one  of  the  exceptions  allowed,  in  the  Pati-
+mokkha,  to  the  46th  Pa/^ittiya.  Bhikkhus  were  allowed,  as  a  general
+rule,  to  pass  through  a  village,  with  their  alms-bowls  in  their  hands,
+in  order  to  give  any  disciple  who  wished  to  do  so  the  opportunity
+of  giving  them  food.  (To  describe  this  procedure  by  our  word
+*  begging,'  as  is  so  often  done,  is,  to  say  the  least,  misleading.)
+The  46th  Pa/('ittiya  lays  down,  in  certain  circumstances,  a  restric-
+tion on  this  general  rule.  The  present  section  removes  that
+restriction  during  the  period  of  Ka/y^in-atthara ;  in  order,  according
+to  Buddhaghosa  (see  the  note  on  Pa,^.  46),  to  prevent  the  stock  of
+robes  falling  short.  That  is,  apparently,  with  the  hope  that  a  freer
+intercourse  than  usual  between  Bhikkhus  and  laity  might  lead  to
+a  gift  of  a  Ka///ina  when  it  was  urgently  required.
+
+Here  Buddhaghosa  says  simply,  '  Anamanta-/&aro  'ti  yava  ka/^i-
+na.m  na  uddhariyati  tava  anamantetva.'  Amanteti  must  be  equal  to
+apu^^/^ati.     Compare  Bohtlingk-Roth  under  amantrawa.
+
+
+VII,  I,  4-  TFIE    KAr^INA    CEREMONIES.  I51
+
+
+for  alms  without  wearing  the  usual  set  of  three
+robes  \  going  for  alms  in  a  body  of  four  or  more  ^
+possessing  as  many  robes  as  are  wanted  ^  and  what-
+ever number  of  robes  shall  have  come  to  hand,  that
+shall  belong  to  them  (that  is,  to  the  Bhikkhus
+entitled,  by  residence  and  otherwise,  to  share  in  the
+distribution  *).
+
+'And  thus,  O  Bhikkhus,  is  the  Ka//^ina  to  be
+dedicated.
+
+4.    '  Let  a  learned,  competent  Bhikkhu  proclaim
+
+
+*  This  privilege  is  granted  as  a  relaxation  of  the  2nd  Nissaggiya.
+Buddhaghosa  says, '  Asamadana-y('aro  'ti  ti-yiivarawz  asamadaya  /-ara-
+nz.m  i^ivara-vippavaso  kappissatiti  attho.'  Compare  MahavaggaVIII,
+23,  3.  It  will  be  seen  that  the  wording  of  the  Patimokkha  Rule  is
+not  inconsistent  with  the  rule  laid  down  here.
+
+2  This  is  a  relaxation  of  the  32nd  PaX-ittiya,  and  is  mentioned  in
+that  rule.
+
+'  This  w^ould  seem  to  be  a  relaxation  of  the  ist  Pa^-ittiya.
+Though  it  is  not  referred  to  there  in  terms,  it  is  implied  in  the
+clause  by  which  the  operation  of  the  rule  is  postponed  till  after  the
+KaMina  has  been  '  taken  up,'  i.  e.  till  each  Bhikkhu  has  actually
+received  his  share,  or  otherwise  lost  his  claim  to  it.  Till  that  has
+taken  place,  a  Bhikkhu  may  use  (temporarily,  and  without  actually
+appropriating  them)  as  many  robes  as  he  likes.  B.  says, '  Yavadat-
+tha-/^ivaran  ti  yavata  X-ivarena  attho  tavatakawz  anadhi////ita»z  avi-
+kappitaw  (compare  Sutta-vibhahga  Niss.  I,  3,  i)  kappissatiti  attho.'
+
+*  That  is,  according  to  Buddhaghosa,  either  those  belonging  to
+a  Bhikkhu  who  has  died,  or  those  belonging  to  the  Sa;«gha  in  any
+way.  This  shows  that  at  the  division  not  only  the  robes  made  out
+of  the  gift  of  a  Ka//5ina  were  to  be  included,  but  whatever  robes
+had  not  been  given  as  intended  specially  for  some  one  Bhikkhu.
+As  to  the  actual  practice  now  in  Ceylon,  compare  Spence  Hardy,
+loc.  cit.  Buddhaghosa  says  here :  '  Yo  ^a  tattha  -C-ivar-uppado
+tattha  ka/y^inatthata-simaya  mataka-/t'ivara/;z  va  hotu  sawghaOT
+uddissa  dinnaw  vi  saz^/ghikena  tatr'  uppadena  abhataw  va  yena
+kena/^i  akarena  yaw  sawghikaw  /^ivaraw  uppa^^ati  ta»z  tesaw  bha-
+vissatiti  attho.'  The  use  of  the  pronoun  nesaw  at  the  end  of  the
+rule  is  awkward,  following  after  vo  ;  but  the  meaning  as  trans-
+lated is  not  open  to  doubt.
+
+
+152  MAHAVAGGA.  VII,  i,  5.
+
+
+the  following  ?'eatti  before  the  Sa7;/gha :  *'  This
+Ka^'/^ina-clothhas  become  the  property  of  the  Sa^wgha.
+If  the  Sawgha  is  ready,  let  the  Sa;;zgha  hand  over
+the  Ka/'//ina-cloth  to  such  and  such  a  Bhikkhu  to
+spread  out  the  KaMina.  This  is  the  ?^atti.  Let
+the  Sawgha,  reverend  Sirs,  hear  me.  This  Ka//nna-
+cloth  has  become  the  property  of  the  Sa;;2gha.  The
+Sa;;?orha  hands  it  over  to  such  and  such  a  Bhikkhu
+
+o
+
+to  spread  out  the  Ka//^ina.  If  the  Sa;;2gha  approves
+of  the  handing  over  of  the  Ka///ina  to  such  and
+such  a  Bhikkhu  for  spreading  it  out,  let  it  remain
+silent.  The  Samgha  approves  thereof.  Therefore
+does  it  remain  silent.     Thus  I  understand  ^"
+
+5.  '  Now  thus,  O  Bhikkhus,  has  the  Ka///ina
+ceremony  been  duly  held;  and  thus  has  it  not
+been  duly  held  2.
+
+^  This  formula  is  one  of  those  included  in  the  collection  entitled
+Kzmma.ya.kzm.  It  appears  from  Minayefif  (Pratimoksha,  pp.  75,
+76)  that  the  Bhikkhu  so  appointed  superintends  the  processes
+of  dyeing,  sewing,  &c.  When  the  new  robes  are  ready  for  wear,
+he  lays  aside  one  of  his  old  robes  which  has  been  worn  out
+(pa/t/^uddharitva),  and  chooses  for  himself  one  of  the  new  ones
+{na.vzm  adhi//>^ahitva),  saying  as  he  does  so, '  imaya  sawgha/iya
+(or,  as  the  case  may  be,  uttarasahgena,  antaravasakena)kaMinaz?i
+attharami.'  This  speech  shows  the  technical  application  of  the
+verb  attharati  in  this  connection.  He  then  points  out  the  remaining
+robes  to  the  Bhikkhus  there  present,  specifying  which  he  thinks  fit
+for  the  elder,  and  which  for  the  younger  members  of  the  Order
+(Theras  and  Navakas) ;  but  not  assigning  further  any  particular
+robes  to  particular  Bhikkhus.  Finally  he  calls  upon  the  Sawgha
+for  their  formal  approval  of  his  procedure  (compare  the  closing
+words  of  §§  5,  6).  But  when  they  have  given  it,  the  distribution  is
+not  at  an  end.  The  time  has  only  come  when  each  of  the  Bhik-
+khus can  transmute  his  claim  to  an  undivided  share  into  the  actual
+possession  of  a  divided  share.  Until  he  does  so,  the  KaMina
+privileges  set  out  in  §  3  are  allowed  to  him.
+
+'^  The  formal  permission  to  each  Bhikkhu  to  take  his  share  is
+
+
+VII,  r,  5'  THE    KATHINA    CEREMONIES.  1 53
+
+'  When,  O  Bhikkhus,  has  it  not  been  duly  held  ? '
+'  The  KaMina  ceremony  has  not  been  duly  held
+when  the  stuff  has  only  been  marked  (for  the  pur-
+poses of  measurement)  ^ :  when  it  has  only  been
+washed  :  when  it  has  only  been  calculated  (to  see
+how  many  robes  it  will  make) :  when  it  has  only  been
+cut  out :  when  it  has  only  been  pieced  together  ^ :
+when  it  has  only  been  sewn  in  lengths  •' :  when
+it  has  only  been  marked  *:  .when  it  has  only  been
+made  strong    (in    the   seams)  ' :    when   it   has   only
+
+not  completed  by  any  one  of  the  following  acts  having  been  per-
+formed. The  technical  terms  of  the  tailor's  craft  are,  as  will  be
+seen,  by  no  means  easy  to  follow.
+
+^  Ullikhita-mattena  'ti  dighato  ka.  puthulato  >i'a  pamawa-
+gahawa-mattena.  Ta.ma.fia.m  hi  ga«hanto  tassa  tassa  padesassa
+saj/^^'ananattha/?/  nakhadihi  va  pariX'-^/zedawi  dassento  ullikhati,  nala-
+/adisu  va  ghawsati.  Tasma  ta.m  pama«a-gaha«awz  uUikhita-mattan
+ti  vu/('/(-ati  (B.).
+
+^  Bandhana-mattena 'ti  mogha-suttak-aropana-mattena  (B.).
+IMogha-suttakani,  '  false  threads,'  are  threads  put  in  the  cloth  to
+show  where  it  is  to  be  cut  or  sewn.  See  Buddhaghosa  on  A^ulla-
+vagga  V,  II,  3  (p.  317  of  H.  O.'s  edition).  Our  clause  therefore
+means  temporarily  pieced  together  as  the  commencement  of  the
+tailoring  work.
+
+^  Ova//iya  (sic) -karawa-mattena'ti  mogha-suttakanusarena
+digha-sibbita-mattena  (B.).  Sewn  in  lengths  along  the  lines  of
+the  false  threads  mentioned  in  the  last  note.  The  word  occurs
+also  in  Mahavagga  VIII,  14,  2  ;  and  in  .A'ullavagga  V,  i,  2  we  are
+told  that  the  AV^abbaggiya  Bhikkhus  ova//ika;«  dharenti.  Buddha-
+ghosa says  there  vi^gg'/zita-karawa/w  ova//ika.
+
+*  By  joining  on  a  little  piece  of  cloth.  Ka«</usa-kara;/a-
+mattena  'ti  muddiya-pa//a-bandhana-mattena,  says  Buddhaghosa.
+
+"  Da/Ai-kara7za-mattena  'ti  dve  /^imilikayo  (MS.  /^'ilimikayo)
+ekato  katva  sibbita-mattena :  athava  pa//zama-'i'imilika  gha//etvi
+//Capita  hoti,  ka//^ina-sa/akaw  tassa  kuX'X'/n-/('imilikaw  katva  sappita-
+(read  sibbita-)  mattena  'ti  pi  attho.  Maha-paX'/('ariya;«  pakati-
+X'ivarassa  upassaya-danena  'ti  vuttaw.  Kurundiyaw  pakatipa//a-
+>^ivara;«  dupa//aw  katum  kuX-XV/i-X-imilikaw  alliyapana-matlena  'ti
+vuttaz?^  (B.).    On  X'imilika  compare  Minayeflfs  'Pratimoksha,'  p.  87.
+
+
+154  MAHAVAGGA.  VII,  i,  5.
+
+been  strengthened  by  a  braid  ^  or  by  a  binding '^
+along  the  back,  or  by  being  doubled  in  parts  ^ :
+when  it  has  only  been  put  into  the  dye  * :  when
+the  decision  (by  the  presiding  Bhikkhu,  as  to  which
+robes  he  will  take  for  himself)  has  been  made  (but
+not  been  carried  out  ^) :  when  there  has  been  talk
+(about  the  merit  acquired  by  presenting  the  Sa?;2gha
+with  cloth,  and  the  donor  has  been  induced  thereby  to
+show  his  liberality*^) ;  when  the  gift  is  only  a  temporary
+one ' :    when  the  ceremony  has    been   postponed  ^ :
+
+^  Anuvata-karawa-mattena 'ti  pi///^i-anuvata-aropana-mat-
+tena  (B.),     Compare  VIII,  21,  i.
+
+^  Paribha«(/a-kara7?a-mattena  'ti  ku/^Mi-anuvata-aropana-
+mattena  (B.).    Compare  VIII,  21,  i.
+
+^  Ova/Meyya  (sic)  -kara«a-mattena  'ti  agantuka-pa//'-
+aropana-mattena :  ka//^ina->^ivarato  va  pa//am  gahetva  afmasmiw
+akaMina-y^ivare  pa//'-aropana-mattena  (B.).
+
+*  Kambala-maddana-mattena  'ti  ekavarawz  yeva  ra^ane
+pakkhittena  danta-va««ena  pa«(/u-palasa-va««ena  va  :  sa^e  pana
+sakim  va  dvikkhattuw  va  rattaw  (MS.  iz,lth\xm)  pi  saruppaw  hoti
+va/Zati  (B.).
+
+^  Or  perhaps,  according  to  some  commentators,  when  it  has
+been  decided  to  accept  the  gift  as  a  KaMina,  that  is,  when  it  has
+been  decided  that  the  cloth  is  of  a  suitable  kind  to  make  robes  out
+of.  Buddhaghosa  says:  Nimitta-katena  'ti  imina  dussena
+ka/z^inaw  attharissamiti  eva»i  nimittakatena.  Ettakam  eva  Parivare
+vutta»z.  A///^akathasu  pana  ayawz  sa/ako  sundaro,  sakka  imina
+V-zthmzm  attharitun  tf  eva;ra  nimittakata^z  katva  laddhena  'ti  attho.
+Compare  below,  §  6,  for  this  and  the  two  following  words,  the
+meaning  of  which  is  very  doubtful.
+
+"  Buddhaghosa:  Parikatha-katena 'ti  kaMinaw  nama  datum
+va//ati,  ka/,^ina-dayako  bahu-pu?ifta?;z  pasavatiti  eva;;z  parikathaya
+uppaditena.  K3.//imz/n  nima  ati-ukka///^a»2  va//ati :  mataram  pi
+na  \mn3Lpetum  va//ati :  akasato  oti««a-sadisam  eva  va//ati.
+
+'''  Buddhaghosa  simply  says:  kukku-katena 'ti  tavakalikena.
+The  last  word  means  'only  for  a  time,  temporary,  on  loan;'  see
+Gataka  I,  121,  393,  and  A'ullavagga  X,  16,  i ;  but  the  explanation
+is  not  clear.  According  to  the  Abhidhana-ppadipika  kukku  is
+a  measure  of  length.
+
+*  Sannidhi-katena'ti  ettha  duvidho  sannidhi;  karawa-sannidhi
+
+
+VII,  I,  6.  THE    KATHl^A    CEREMONIES,  1 55
+
+
+when  the  ceremony  has  had  to  be  abandoned  (because
+it  has  lasted  through  the  night)  ^ :  when  the  ceremony
+has  fallen  through  (from  other  causes)  ^i  when  (in
+the  formal  choice  by  the  presiding  Bhikkhu)  the
+upper  robes  have  been  left  out,  or  the  under  robes,
+or  the  waist-cloths :  when  any  one  of  the  five  parts
+of  the  robe  have  been  omitted  in  the  cutting  out^:
+when  the  ceremony  has  been  presided  over  by  more
+than  one  Bhikkhu  ^  And  even  when  the  Ka//^ina
+ceremony  has  (otherwise)  been  normally  performed,
+if  (the  Sawgha)  ratifying  the  distribution,  be  other
+than  the  (whole  Sawgha)  dwelling  within  the  boun-
+dary, then  also  the  Ka//^ina  ceremony  has  not  been
+duly  held  ^.
+
+'  In  these  cases,  O  Bhikkhus,  the  Ka///ina  cere-
+mony has  not  been  duly  held.
+
+6.  'And  when,  O  Bhikkhus,  has  the  KaMina
+ceremony  been  duly  held  ?'
+
+'When  the  robes  have  been  made   out  of  new
+
+
+ka.  ni/Jaya-sannidhi  y^a.  Tattha  tadah'  eva  akatva  //^apetva  karana/»
+karana-sannidhi ;  sawgho  a^^a  ka//^ina-dussa7;i  labhitva  puna-divase
+deti  ayaw  ni/^aya-sannidhi  (B.).
+
+^Nissaggiyena'ti  ratti-nissaggiyena.  Parivare  pi  _  vuttaw
+nissaggiya7«  nama  kayiramane  arunaw  udriyatiti  (B.).
+
+2  Akappa-katena'li  anadinna-kappa-bindhuna  (B.),  which  we
+do  not  understand.     Perhaps  we  should  read  binduna.
+
+'  Awfiatra  pan-^akena  va  atireka-pa?i/^akena  va 'ti  pa?t/&a
+va  atirekani  va  kha««/ani  katva  maha-ma«^ala-aa'<//^a-ma;/fl'alani  das-
+setva  katen'  eva  va//ati.  Evawz  hi  sama«</ali-kata;«  hoti.  Tarn
+///apetva  afjTjena  a/^/('-^innakena  va  dvi-tti->(-atu-kha«fi?ena  va  na  va//ati
+(B.).    On  these  five  parts  of  the  robe  compare  below,  Wahavagga
+
+VIII,  12,  2.
+
+*  AfiTlatra  puggalassa  atthara  'ti  puggalassa  attharaw
+/i^apetva  na  aJlylena  sawghassa  va  gawassa  va  atlharena  atthataw
+hoti  (B.).  The  official  ' distributor'  (attharaka)  must  be  a  single
+person,  not  a  ga;/a,  or  the  Sawgha.
+
+^  See  the  note  on  §  4,  and  below,  VIII,  23.
+
+
+156  MAHAVAGGA.  VII,  r,  7.
+
+
+cotton-cloth,  or  as  good  as  new,  or  out  of  cloth  ^  or
+out  of  (rags)  taken  from  the  dust-heap  ^  or  out  of
+odd  bits  picked  up  in  the  bazaar  ^ :  when  the  decision
+(by  the  presiding  Bhikkhu  as  to  which  robes  he  will
+take  for  himself)  has  not  (merely)  been  made  (but
+carried  out) :  when  there  has  been  no  talk  about  (the
+merit  acquired  by  offering  a  Ka^/nna)  :  when  the
+gift  is  not  merely  a  temporary  one  :  when  the  cere-
+mony has  not  been  postponed :  when  it  has  not
+been  necessary  to  abandon  the  ceremony :  when
+the  ceremony  has  not  fallen  through :  when  (in
+the  choice  made  by  the  presiding  Bhikkhu)  the  upper
+robes  have  not  been  left  out,  nor  the  under  robes,
+nor  the  waist-cloths  :  when  not  one  of  the  five  parts
+of  the  robe  have  been  omitted  in  the  cutting  out :
+when  (the  ceremony  has  been  presided  over)  by  one
+Bhikkhu.  And  also  when,  after  the  Ka//^ina  cere-
+mony has  been  (otherwise)  normally  performed,  the
+ratification  has  been  given  by  the  (whole  Sajngha.)
+dwelling  within  the  boundary.
+
+'  In  these  cases,  O    Bhikkhus,  the   Ka^/nna  cere-
+mony has  been  duly  held.'
+
+
+2\
+
+1.7.  '  Now  when,  O  Bhikkhus,  is  the  KaMina  (that
+is  to  say,  the  privileges  allowed  after  the  Ka/'/^ina
+ceremony)  suspended  ?
+
+^  Pilo/ikaya  'ti  hata-vatthaka-sa/akena  (B.).
+
+2  Pawzsukulena  'ti  te-visatiya  khettesu  uppanna-pawzsukulena.
+
+^  Papawikena  'ti  apana-dvare  patita-pilo/ika/«  gahetva  ka//^in-
+atthaya  deti,  tenapi  va//atiti  attho  (B.).    Compare  VIII,  14,  2.
+
+*  The  new  chapter  should  have  begun  here,  and  not  with  the
+next  section  as  printed  in  the  text.
+
+
+VII,  I,  7-  THE    KATHISA    CEREMONIES.  I57
+
+'  There  are,  O  Bhikkhus,  these  eight  grounds  ^  for
+the  suspension  of  the  Ka///ina  (privileges)  ^ — the
+ground  depending  on  (the  Bhikkhus)  having  gone
+away,  on  (his  robe  being  ready)  finished,  on  his
+resolve  (not  to  have  it  finished),  on  (his  robe)  having
+been  destroyed,  on  his  having  heard  (of  the  general
+suspension  of  the  privileges  of  the  whole  Sawgha),
+on  the  lapse  of  expectation  (that  a  special  gift  of
+a  robe  would  be  made  to  him),  on  his  having  gone
+beyond  the  boundary  (of  the  Sa7;?gha  to  whom  the
+Ka///ina  was  given),  on  the  common  suspension  (of
+the  Ka///ina  privileges  of  the  whole  Sa;;^gha).
+
+^  Matika  'ti  mataro  ^anettiyo  'ti  attho(B.).    So  also  in  VIII,  14.
+
+^  The  discussion  of  these  eight  grounds  of  the  suspension  of
+the  five  Ka///ina  privileges  is  closely  connected  with  the  description
+in  the  13th  chapter  of  the  two  so-called  Palibodhas.  Palibodha
+seems  to  mean  the  continued  existence  of  a  claim  on  the  Bhikkhu's
+side  to  a  share  in  the  distribution  of  the  Ka//nna.  Two  conditions
+are  necessary  to  the  validity  of  this  claim ;  the  first  touching  the
+Bhikkhu's  domicile  (avasa),  the  second  the  state  of  his  wardrobe
+(/^ivara).  He  must  remain  within  the  boundary  (sima)  of  the
+Sawzgha  to  whom  the  Ka///ina  has  been  given ;  or  if  he  has  left  it,
+then  he  must  have  the  intention  of  returning,  the  animus  rever-
+ie ndi.  And  secondly,  he  must  be  in  actual  want  of  robes.  If
+either  of  these  conditions  fail,  then  the  Bhikkhu  is  apalibodha  in
+respect  of  the  avasa  or  the  X-ivara  respectively.  If  he  is  apalibodha
+in  both  respects,  then  there  follows  the  suspension  of  the  Ka///ina
+privileges,  the  ka//nn-uddhara,  or  ka//^in-ubbhara,  so  far  as
+he  is  concerned.
+
+So  the  eight  grounds  of  the  suspension  of  the  privileges  referred
+to  in  our  present  section  (chap.  i.  7)  either  refer  to  the  Bhikkhu's
+domicile  or  to  the  state  of  his  robes,  or  to  ways  in  which  his  case  falls
+within  the  general  suspension  of  privileges  of  the  whole  Sa?/;gha.
+Each  of  the  eight  cases  is  explained  in  detail  in  the  following  sections,
+except  the  sixth  ground,  which  is  specially  treated  of  afterwards  in
+chapters  8  and  9.  See  the  note  on  the  tide  at  the  end  of  this
+chapter,  and  compare  further  our  note  on  the  first  Nissaggiya
+Pa-('ittiya.
+
+
+158  MAHAVAGGA.  VII,  2,  r.
+
+2.  I.  'A  Bhikkhu,  after  the  Ka/Z/ina  ceremony
+has  been  held  \  takes  a  robe  ready  for  wear,  and
+goes  away,  thinking,  "  I  will  come  back."
+
+'  That  Bhikkhu's  Ka///ina  privileges  are  suspended
+on  the  ground  of  his  having  gone  away.
+
+*  A  Bhikkhu,  after  the  Ka//nna  ceremony  has  been
+held,  takes  a  robe  and  goes  away.  And  when  he
+had  got  beyond  the  boundary  he  thinks,  "  I  will
+have  the  robe  made  up  here,  and  will  never  go
+back."    And  he  gets  the  robe  made  up.
+
+'  That  Bhikkhu's  KaMina  privileges  are  suspended
+on  the  ground  of  his  having  a  robe  ready  for  wear.
+
+*  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held,  takes  a  robe  and  goes  away.  And  when  he
+has  got  beyond  the  boundary  he  thinks,  "  I  will
+neither  have  the  robe  made  up,  nor  will  I  go  back."
+
+'  That  Bhikkhu's  KaMina  privileges  are  suspended
+on  the  orround  of  his  having  so  decided.
+
+'  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has  been
+held,  takes  a  robe  and  goes  away.  And  when  he
+has  got  beyond  the  boundary  he  thinks,  "  I  will  have
+the  robe  made  up  here,  and  will  never  go  back."
+And  he  has  the  robe  made  up.  And  as  the  robe
+is  being  made  up  for  him,  it  is  spoilt.
+
+'  That  Bhikkhu's  Ka^/^ina  privileges  are  suspended
+on  the  ground  of  the  robe  being  so  spoilt.
+
+2.  '  A  Bhikkhu,  after  the  Ka/Z/ina  ceremony  has
+been  held,  takes  a  robe  and  goes  away,  thinking,  "  I
+will  come  back."  When  he  has  got  beyond  the
+boundary  he  has  that  robe  made  up.  When  his  robe
+has  thus  been  made  up  he  bears  the  news,  "  The
+Ka/Z/ina,  they  say,  has  been  suspended  in  that
+district  \"
+
+^  Literally, '  whose  Ka/Ziina.  has  been  spread  out.'
+
+
+VH,  3.  THE    KATIIINA    CEREMONIES.  T59
+
+'  That  Bhikkhu's  Ka///ina  privileges  are  suspended
+on  the  oTound  of  his  havinir  heard  that  news.
+
+'  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held,  takes  a  robe  and  goes  away,  thinking,  "  I  will
+come  back."  And  when  he  has  got  beyond  the
+boundary  he  has  that  robe  made  up.  And  then,
+after  it  has  been  made  up,  he  postpones  his  return
+until  the  (general)  suspension  of  privileges  has  taken
+place.
+
+'  That  Bhikkhu's  Ka/z/ina  privileges  are  suspended
+on  the  ground  of  his  being  beyond  the  boundary.
+
+'  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held,  takes  a  robe  and  goes  away,  thinking,  "  I  will
+come  back."  And  when  he  has  got  beyond  the
+boundary  he  has  that  robe  made  up.  And  then,
+when  it  has  been  made  up,  he  postpones  his  return
+until  the  very  moment  when  the  (general)  suspension
+of  privileges  takes  place  \
+
+'  That  Bhikkhu's  Ka/Z/ina  privileges  are  suspended
+on  the  ground  of  the  common  suspension  (of  the
+privileges  of  the  whole  Sa;;?gha).'
+
+
+End  of  the  section  entitled  Adaya-sattaka
+
+
+3.
+
+'  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+
+*     In  the  table  of  contents  (p.  266)  sanibhu«ati  is  replaced  by
+sambhoti.    Abhisambhu/zeyya;;/  occurs  in  Burnouf's  '  Lotus,'  &c.,
+
+P-  3^3-
+
+^  That  is, '  the  seven  cases  in  which  he  takes  a  robe  away.'    The
+eighth  case  is  explained  below  in  chapters  8,  9.
+
+
+l6o  MAHAVAGGA.  VII,  4.
+
+held,  takes  with  him  a  robe  ready  for  wear,  and  goes
+away,  &c.^ '
+
+End  of  the  section  entitled  Samadaya-sattaka^.
+
+
+4.
+
+*  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has  been
+held,  takes  a  robe  not  ready,  and  goes  away.  And
+when  he  has  got  beyond  the  boundary  he  thinks,
+"  I  will  have  the  robe  made  up  here,  and  will  never
+go  back ;"  and  he  gets  the  robe  made  up,  &c.^'
+
+
+A
+
+End  of  the  section  entitled  Adaya-/§/^akka
+
+
+5.
+
+'  A  Bhikkhu,  after  the  Kaz'/^ina  ceremony  has  been
+held,  takes  with  him  a  robe  not  ready,  and  goes
+away,  &c.  ^ '
+
+End  of  the  section  entitled  Samadaya-/^/^akka^.
+
+^  This  chapter  is  word  for  word  identical  with  chap.  2  :  only
+instead  of  '  takes'  (adaya)  read  '  takes  with  him'  (samadaya).  We
+cannot  say  what  different  meaning  these  two  words  are  intended  to
+convey.
+
+^  That  is, '  the  seven  cases  in  which  he  takes  a  robe  with  him.'
+^  Six  of  the  seven  cases  specified  in  chap.  2  (with  the  exception
+of  the  first  of  the  seven)  are  repeated  here  in  the  same  words,  with
+the  only  difference  that  instead  of  '  takes  a  robe '  it  is  said  here
+*  takes  a  robe  not  ready.'  The  first  case  is  necessarily  omitted,
+because  it  is  essential  to  that  case,  that  the  Bhikkhu  going  away
+takes  with  him  a  robe  ready  for  wear.
+
+*  '  The  six  cases  in  which  he  takes  a  robe  away.'
+^  As  in  chap.  4.     For  '  takes '  read  '  takes  with  him.'     See  the
+note  at  chap.  3.
+
+®  '  The  six  cases  in  which  he  takes  a  robe  with  him.'
+
+
+VII,  6,  4-  THE   KATHINA    CEREMONIES.  l6l
+
+
+6.
+
+1.  'A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  takes  a  robe,  and  goes  away.  And  when
+he  has  got  beyond  the  boundary  he  thinks,  "  I  will
+have  the  robe  made  up  here,  and  will  never  go  back."
+And  he  gets  the  robe  made  up.
+
+*  That  Bhikkhu's  Ka/Z/ina  privileges  are  suspended
+on  the  ground  of  his  having  a  robe  ready  for  wear,
+
+&C.1
+
+2.  '  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  takes  a  robe  and  goes  away,  thinking,  "  I
+will  never  come  back."  And  when  he  has  got  beyond
+the  boundary  he  thinks,  "  I  will  have  the  robe  made
+up  here."     And  he  gets  the  robe  made  up,  &c.  ^
+
+3.  *  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  takes  a  robe  and  goes  away,  without  taking
+a  resolution  ;  he  neither  thinks  "  I  will  come  back,"  nor
+does  he  think  "  I  will  not  come  back."  And  when
+he  has  got  beyond  the  boundary,  &c.^
+
+4.  '  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  takes   a  robe  and  goes   away,  thinking,
+
+
+^  This  case  is  word  for  word  identical  with  the  second  case  in
+chap.  2.  I.  After  it  follow  the  third  and  fourth  case  of  chap.  2.  i,
+which  it  is  unnecessary  to  print  here  again  in  full  extent.  The  triad
+of  these  cases  is  repeated  here  in  order  to  serve  as  a  basis  for  the
+variations  which  are  to  follow  in  §§  2,  3.
+
+"^  The  triad  of  §  i  is  repeated  here,  with  the  difference,  as  is  seen
+from  the  opening  clauses  which  we  have  fully  printed,  that  the
+Bhikkhu,  before  he  has  got  beyond  the  boundary,  and  not  after-
+wards as  in  §  I,  resolves  upon  not  returning  to  the  avasa.
+
+^  The  whole  triad  as  in  §  i.  The  only  difference  between  §  3
+and  §  I  consists  in  the  following  words  being  added  in  §  3  in  each
+of  the  three  cases,  *  without  taking  a  resolution  ;  he  neither  thinks
+"  I  will  come  back,"  nor  does  he  think  "  I  will  not  come  back." '
+
+[17]  M
+
+
+1 62  MAHAVAGGA.  VII,  7.
+
+"  I  will  come  back."     And  when  he  has  got  beyond
+the  boundary,  &c.^ '
+
+
+7.
+
+*  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has  been
+held,  takes  a  robe  with  him  and  goes  away,  &c.  ^'
+
+
+A
+
+End  of  the  Adaya-('  Taking  away')  Bha;/avara.
+
+
+8.
+
+I.  *A  Bhikkhu,  after  the  Ka///Ina  ceremony  has
+been  held,  goes  away  with  the  expectation  of  getting
+a  robe  (presented).  And  when  he  has  got  beyond
+the  boundary,  &c.  And  he  adopts  such  a  course
+of  action  as  may  lead  to  his  expectation  being
+realised.  But  he  obtains  a  robe  where  he  had  not
+expected  it,  and  does  not  obtain  it  where  he  had
+expected  it.  And  he  thinks,  "  I  will  have  the  robe
+made  up  here,  and  will  never  go  back."  And  he
+gets  the  robe  made  up.
+
+'  That  Bhikkhu's  Ka^'/^ina  privileges  are  suspended
+on  the  ground  of  his  having  a  robe  ready  for  wear.
+
+*  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+
+^  Supply  here  the  whole  triad  as  in  §  i,  the  words  '  thinking  "  I
+will  come  back  "  '  being  constantly  added.  After  this  triad  follow
+three  other  cases  which  are  exactly  identical  with  the  three  con-
+tained in  chap.  2.  2.
+
+*  The  whole  chapter  6  is  repeated  here  three  times,  the  first  time
+replacing  the  words  'takes  a  robe'  by  'takes  a  robe  with  him'
+(comp.  chap.  3);  the  second  time  replacing  'takes  a  robe'  by
+'takes  a  robe  not  ready'  (comp.  chap.  4) ;  and  the  third  time  with
+these  two  modifications  combined  (comp.  chap.  5),
+
+
+VII,  9,  I-  THE    KATJ/TNA    CEREMONIES.  1 63
+
+
+held  (&c.,  as  in  the  preceding  case).  And  he  thinks,
+"  I  will  neither  have  the  robe  made  up,  nor  will  I
+go  back."
+
+'  That  Bhikkhu's  Ka///ina  privileges  are  suspended
+on  the  ground  of  his  having  so  decided.
+
+*  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held,  &c.  And  he  thinks,  "  I  will  have  the  robe
+made  up  here,  and  will  never  go  back."  And  he
+has  the  robe  made  up.  And  as  the  robe  is  being
+made  up  for  him,  it  is  spoilt.
+
+*  That  Bhikkhu's  Ka//nna  privileges  are  suspended
+on  the  ground  of  the  robe  being  so  spoilt.
+
+*  A  Bhikkhu,  after  the  Ka//nna  ceremony  has  been
+held,  goes  away  with  the  expectation  of  getting  a
+robe  (presented).  And  when  he  has  got  beyond  the
+boundary,  he  thinks,  "  I  will  adopt  here  such  a  course
+of  action  as  may  lead  to  my  expectation  being  realised,
+and  will  never  go  back."  And  he  devotes  himself
+to  obtaining  that  expected  gift,  but  his  expectation
+comes  to  nothing.
+
+*  That  Bhikkhu's  Ka///ina  privileges  are  suspended
+on  the  ground  of  the  lapse  of  that  expectation.'
+
+
+2,  3'.
+
+
+End  of  the  section  entitled  Anasa-do/asaka^.
+
+
+9.
+
+I.    'A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  goes  away  with  the  expectation  of  getting
+
+
+^  §§  2,  3  stand  exactly  in  the  same  relation  to  §  i  in  which
+chap.  6.  2,  3  stand  to  chap.  6.  i.
+
+"^  'The  twelve  cases  (in  which  the  robe  is  received)  against
+expectation.'
+
+M  2
+
+
+164  MAHAVAGGA.  VII,  9,  2.
+
+a  robe  (presented),  thinking,  "  I  will  come  back."
+And  when  he  has  got  beyond  the  boundary,  he
+devotes  himself  to  the  realisation  of  his  expectation,
+and  he  obtains  a  robe  where  he  had  expected  it,  and
+does  not  obtain  one  where  he  had  not  expected  it.
+And  he  thinks,  "  I  will  have  the  robe  made  up  here,
+and  will  never  go  back,"  &c.^
+
+2.  '  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  goes  away  with  the  expectation  of  getting
+a  robe  (presented),  thinking,  "I  will  come  back."
+And  when  he  has  got  beyond  the  boundary,  he
+hears  the  news  :  "  The  Ka//^ina,  they  say,  has  been
+suspended  in  that  district."  And  he  thinks,  "  Since
+the  Ka//nna  has  been  suspended  in  that  district,  I
+will  devote  myself  here  to  obtaining  the  gift  I  am
+expecting."  And  he  adopts  such  action  as  may
+lead  to  the  realisation  of  his  expectation,  and  he
+obtains  a  robe  where  he  had  expected  it,  and  does
+not  obtain  one  where  he  had  not  expected  it.  And
+he  thinks,  "  I  will  have  the  robe  made  up  here,  and
+will  never  go  back,"  &c.^
+
+3.  '  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  goes  away  with  the  expectation  of  getting
+a  robe  (presented),  thinking,  "  I  will  come  back."
+And  when  he  has  got  beyond  the  boundary,  he
+adopts  such  action  as  may  lead  to  the  realisation  of
+his  expectation,  and  he  obtains  a  robe  where  he  had
+expected  it,  and  does  not  obtain  one  where  he  had
+not  expected  it,  and  he  has  that  robe    made  up.
+
+^  Here  follows  the  same  development  into  the  four  cases  of
+ni///^anantika,  sanni///ianantika,  nasanantika,  and  asava^>^/zedika
+ka//^inuddhara,  as  in  chap.  8.  i.
+
+'^  Supply  here  the  same  four  cases  as  in  the  preceding  paragraph
+or  in  chap.  8.  i.
+
+
+VII,  9,  3-  "^^^E    KAT/ZINA    CEREMONIES.  1 6;
+
+
+When  that  robe  has  thus  been  made  up  he  hears
+the  news,  "  The  Ka///ina,  they  say,  has  been  sus-
+pended in  that  district."
+
+'  That  Bhikkhu's  Ka///ina  privileges  are  sus-
+pended on  the  ground  of  his  having  heard  that
+news.
+
+'  A  Bhikkhu,  after  the  KaZ/nna  ceremony  has  been
+held,  goes  away  with  the  expectation  of  getting  a  robe,
+thinking^,  "  I  will  come  back."  And  when  he  has
+got  beyond  the  boundary,  he  thinks,  "  1  will  devote
+myself  to  obtaining  that  expected  gift,  and  will  never
+go  back."  And  he  cares  for  that  expected  gift,  but
+his  expectation  collapses.
+
+'  That  Bhikkhu's  Ka/Z/ina  privileges  are  sus-
+pended on  the  ground  of  the  lapse  of  that  expec-
+tation.
+
+'  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has  been
+held,  goes  away  with  the  expectation  of  getting  a
+robe,  thinking,  "  I  will  come  back."  And  when  he
+has  got  beyond  the  boundary,  he  devotes  himself
+to  the  realisation  of  his  expectation,  and  he  obtains
+a  robe  where  he  had  expected  it,  and  does  not  obtain
+one  where  he  had  not  expected  it,  and  he  has  that
+robe  made  up.  And  then,  after  it  has  been  made
+up,  he  postpones  his  return  until  the  (general)
+suspension  of  privileges  has  taken  place.
+
+'  That  Bhikkhu's  Ka///ina  privileges  are  sus-
+pended on  the  ground  of  his  being  beyond  the
+boundary.
+
+'A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held  {Sec,  as  in  the  preceding  case,  down  to :)  And
+then,  after  it  has  been  made  up,  he  postpones  his
+return  until  the  very  moment  when  the  (general)
+suspension  of  privileges  takes  place.
+
+
+1 66  MAHAVAGGA.  VII,  lO.
+
+
+'  That  Bhikkhu's  Ka//^ina  privileges  are  suspended
+on  the  ground  of  the  common  suspension.'
+
+
+End  of  the  section  entitled  Asa-do/asaka^
+
+
+10.
+
+•  A  Bhikkhu,  after  the  Ka///ina  ceremony  has  been
+held,  goes  away  on  some  business.  And  when  he
+has  got  beyond  the  boundary,  he  conceives  the
+expectation  of  getting  a  robe  (presented).  And  he
+devotes  himself  to  the  realisation  of  his  expectation,
+and  he  obtains,  &c.^'
+
+End  of  the  Kara;^iya-do/asaka  ^.
+
+
+11.
+
+I.  *  A  Bhikkhu,  after  the  Ka//^ina  ceremony  has
+been  held,  goes  away  travelling  to  the  (four)  quarters
+(of  the  world '^),  guarding^  his  claim  to  a  share  in
+the  robes.  When  he  is  so  travelling,  the  Bhikkhus
+ask  him  :  "  Where  have  you  kept  Vassa,  friend,  and
+where  have  you  your  share  in  the  robes  ?"
+
+'  He  replies  :  "  I  have  kept  Vassa  in  such  and  such
+
+
+^  '  The  twelve  cases  (in  which  the  robe  is  received)  as  expected.'
+
+2  See  chap.  8.  i.  The  same  three  times  four  cases  are  specified
+here  as  in  chap.  8 ;  only  the  opening  clauses  of  each  case,  which
+we  have  printed  above,  are  different  from  those  in  chap.  8.
+
+^  '  The  twelve  cases  of  (the  Bhikkhu's  going  away  on)  business.'
+
+*  Comp.  IT,  21, 1.
+
+'  Apa/^'inayamana,  comp.  apa>C'iti,  apa-^ita.
+
+
+VII,  II,  3-  THE    KATHINA    CEREMONIES.  167
+
+
+a  residence,  and  there  I  have  my  share  in  the
+robes."
+
+'  They  say  to  him  :  "  Go,  friend,  and  bring  your
+robe  hither ;  we  will  make  it  up  for  you  here."
+
+'And  he  goes  to  that  residence  and  asks  the
+Bhikkhus :  "  Where  is  the  portion  of  robes  due  to
+me,  friends  ?  "
+
+*  They  reply  :  "  Here  it  is,  friend  ;  where  are  you
+going  ?"
+
+'  He  says  :  "  I  will  go  to  such  and  such  a  residence  ;
+there  the  Bhikkhus  will  make  up  the  robe  for  me."
+
+'  They  answer  ;  "  Nay,  friend,  do  not  go  ;  we  will
+make  up  the  robe  for  you  here."
+
+*  And  he  thinks,  "  I  will  have  the  robe  made  up
+here,  and  will  not  go  back  (to  that  other  place),"  &c.^
+
+2.  '  A  Bhikkhu,  after  the  Ka///ina  ceremony  has
+been  held,  goes  away  travelling  (&c.,  as  in  §  i,  down
+to:)  "  Here  it  is,  friend."  And  he  takes  that  robe
+and  sets  out  for  that  residence.  On  the  way  some
+Bhikkhus  ask  him  :  "  Friend,  where  are  you  going  ?"
+
+'  He  says  :  *'  I  intend  to  go  to  such  and  such  a
+residence ;  there  the  Bhikkhus  will  make  up  the
+robe  for  me."
+
+'  They  answer  :  "Nay,  friend,  do  not  go  ;  we  will
+make  up  the  robe  for  you  here."
+
+'  And  he  thinks,  "  I  will  have  the  robe  made  up
+here,  and  will  not  go  back  (to  that  other  place),"  &c.'-
+
+3.  '  A  Bhikkhu,  after  the  KaMina  ceremony  has
+been  held,  goes  away  travelling  (&c.,  as  in  {  i,  down
+to :)  "  Here  it  is,  friend."  And  he  takes  that  robe,
+and  sets  out  for  that  residence.     And  when  going
+
+>  Here  follow  the  three  cases  as  given  in  chap.  6.  i,  in  the
+usual  way.
+
+^  The  usual  three  cases ;  see  the  preceding  note.
+
+
+1 68  MAHAVAGGA.  VII,  12.
+
+
+to  that  residence,  he  thinks,  "  I  will  have  the  robe
+made  up  here,  and  will  not  go  back  (to  that  place),"
+
+.&C.1'
+
+End  of  the  ApaZ'inana-navaka  2..
+
+
+12.
+
+
+'  A  Bhikkhu  intent  on  finding  a  comfortable  place
+(to  live  in),  after  the  Ka//^ina  ceremony  has  been
+held,  takes  a  robe,  and  goes  away,  thinking,  "  I  will
+go  to  such  and  such  a  residence ;  if  it  is  comfortable
+there,  I  will  remain  there ;  if  it  is  not,  I  will  go  to
+such  and  such  a  residence  ;  if  it  is  comfortable  there,
+I  will  remain  there ;  if  it  is  not,  I  will  go  to  such
+and  such  a  residence ;  if  it  is  comfortable  there,  I
+will  remain  there  ;  if  it  is  not,  I  will  go  back."
+
+'When  he  has  got  beyond  the  boundary,  he  thinks,
+"  I  will  have  the  robe  made  up  here,  and  will  never
+go  back,"  &c.^'
+
+End  of  the  five  cases  of  the  Bhikkhu  intent  on
+
+comfort.
+
+
+13.
+
+I.   'On  two  conditions,  O  Bhikkhus,  the  claim  (of
+a  Bhikkhu  to  a  share    in    the  distribution)  of  the
+
+
+^  The  same  three  cases  as  before.
+2  '  The  nine  cases  in  which  he  guards  (his  claim).'
+^  The  usual  three  cases  as  before,  and  then  the  two  cases  of  the
+simatikkantika    kaZ/zinuddhara   and   the   saha   bhikkhuhi
+ka//nnuddhara,  which  run  as  may  be  seen  from  chap.  2.  2  (the
+two  last  cases  there)  or  from  chap.  9.  3.
+
+
+VII,  T3,  2.  THE    KArZ/INA    CEREMONIES.  1 69
+
+Ka///ina  continues  to  exist,  and   on   the   failing  of
+these  two  conditions  it  is  lost\
+
+'And  which  are  the  two  conditions, O  Bhikkhus,for
+the  continued  existence  of  that  claim?  The  condition
+regarding  the  residence,  and  the  condition  regarding
+the  robe.
+
+'And  which,  O  Rhikkhus,  is  the  condition  regarding
+the  residence  ?  A  Bhikkhu,  O  Bhikkhus,  goes  away
+(for  a  time),  when  it  is  raining  or  storming,  wirii  the
+intention  of  returninor  to  that  residence.  In  this
+case,  O  Bhikkhus,  the  condition  regarding  the
+residence  is  fulfilled.  And  which,  O  Bhikkhus,  is  the
+condition  that  regards  the  robe  ?  A  Bhikkhus
+robe,  O  Bhikkhus,  is  not  made  up,  or  not  ready,  or
+his  expectation  of  getting  a  robe  has  ceased.  In
+this  case,  O  Bhikkhus,  the  condition  regarding  the
+robe  is  fulfilled.  These,  O  Bhikkhus,  are  the  two
+conditions  for  the  continued  existence  of  the  claim.
+
+2.  '  And  which,  O  Bhikkhus,  is  the  failing  of  the
+two  conditions  by  which  the  claim  is  lost  ?  The
+failing  of  the  condition  regarding  the  residence,  and
+the  failing  of  the  condition  regarding  the  robe.
+
+'And  in  which  case,0  Bhikkhus,  does  the  condition
+re<jardinQf  the  residence  fail  ?
+
+'A  Bhikkhu,  O  Bhikkhus,  goes  away  from  the
+residence,  giving  it  up,  turning  away  from  it  with
+contempt,  abandoning  it,  with  the  intention  of  not
+returning.  In  this  case,  O  Bhikkhus,  the  condition
+regarding  the  residence  fails.  And  in  which  case,
+O  Bhikkhus,  does  the  condition  regarding  the  robe
+
+
+^  Literally,  there  are  two  Palibodhas  of  the  Ka//iina  and  two
+Apalibodhas.  On  the  subject  discussed  in  this  chapter — the  Pali-
+bodhas— see  the  note  on  chap.  1.7.
+
+
+I  70  MAHAVAGGA.  VIT,  13, 2.
+
+fail  ?  A  Bhikkhu's  robe,  O  Bhikkhus,  has  been  made
+up,  or  spoilt,  or  lost,  or  burnt,  or  his  expectation  of
+getting  a  robe  has  ceased.  In  these  cases,  O  Bhik-
+khus, the  condition  regarding  the  robe  fails.  This
+is  the  failing  of  the  two  conditions,  O  Bhikkhus,  by
+which  the  claim  is  lost.'
+
+
+End  of  the  seventh  Khandhaka,  the  Ka//^ina-
+
+khandhaka.
+
+
+VIII,  1,2.         THE    DRESS    OF    THE    BHIKKHUS.  I7I
+
+
+EIGHTH   KHx\NDHAKA.
+
+(the    DRESS    OF    THE    BHIKKHUS.)
+1.
+
+1.  At  that  time  the  blessed  Buddha  dwelt  at
+Ra^agaha.in  theVe/uvana,  in  the  Kalandaka-nivapa.
+At  that  time  Vesali  was  an  opulent,  prosperous
+town,  populous,  crowded  with  people,  abundant  with
+food  ^ ;  there  were  seven  thousand  seven  hundred
+and  seven  storeyed  buildings,  and  seven  thousand
+seven  hundred  and  seven  pinnacled  buildings,  and
+seven  thousand  seven  hundred  and  seven  pleasure
+grounds  (Aramas),  and  seven  thousand  seven  hundred
+and  seven  lotus-ponds.  There  was  also  the  courtezan
+Ambapalika  -,  who  was  beautiful,  graceful,  pleasant,
+gifted  with  the  highest  beauty  of  complexion,  well
+versed  in  dancing,  singing,  and  lute-playing,  much
+visited  by  desirous  people.  She  asked  fifty  (kaha-
+pa;/as)  for  one  night.  Through  that  person  Vesali
+became  more  and  more  flourishing.
+
+2.  Now  a  merchant  from  Ra^gaha  w^ent  to
+Vesali  on  a  certain  business.  That  Ra^agaha
+merchant  saw  what  an  opulent,  prosperous  town
+Vesali  was,  how  populous,  crowded  with  people,  and
+abundant  with  food,  and  the  seven  thousand  seven
+
+
+^  Compare  Maha-sudassana  Sutta  I,  3,  and  Maha-parinibbana
+Sutta  V,  42.
+
+2  See  above,  VI,  30,  6;  IMaha-parinibbana  Sutta  II,  16  seq.
+
+
+172  MAHAVAGGA.  VIII,  i,  3.
+
+
+hundred  and  seven  storeyed  buildings  ....  and  the
+courtezan  Ambapali,  who  was  beautiful  ....  and
+through  whom  Vesali  became  more  and  more
+flourishing.  And  the  Ra^agaha  merchant,  after
+having  done  his  business  in  Vesali,  returned  to
+Ra^agaha  and  went  to  the  place  where  the  Magadha
+king  Seniya  Bimbisara  was.  Having  approached  him,
+he  said  to  the  Magadha  king  Seniya  Bimbisara :
+*  Vesali,  Your  Majesty,  is  an  opulent,  prosperous
+town  (&c.,  as  in  J  I,  down  to  :)  Through  that  person
+Vesali  becomes  more  and  more  flourishing.  May
+it  please  Your  Majesty,  let  us  also  install  a  cour-
+tezan.'
+
+(The  king  replied),  '  Well,  my  good  Sir,  look  for
+such  a  girl  whom  you  can  install  as  courtezan.'
+
+3.  Now  at  that  time  there  was  at  Ra^agaha  a  girl
+Salavati  by  name,  who  was  beautiful,  graceful,  plea-
+sant, and  gifted  with  the  highestbeauty  of  complexion.
+That  girl  Salavati  the  Ra^agaha  merchant  installed
+as  courtezan.  And  before  long  the  courtezan  Sala-
+vati was  well  versed  in  dancing,  singing,  and  lute-
+playing,  and  much  visited  by  desirous  people,  and
+she  asked  one  hundred  (kahapa;2as)  for  one  night.
+And  before  lone  the  courtezan  Salavati  became
+pregnant.  Now  the  courtezan  Salavati  thought:
+'  Men  do  not  like  a  pregnant  woman.  If  anybody
+should  find  out  regarding  me  that  "The  courtezan
+Salavati  is  pregnant,"  my  whole  position  will  be
+lost.  What  if  I  were  to  have  the  people  told  that
+I  am  sick.'
+
+And  the  courtezan  Salavati  gave  orders  to  the
+door-keeper  (saying),  '  Let  no  man  enter  here,  my
+good  door-keeper,  and  if  a  man  calls  for  me,  tell
+him    that   I    am   sick.'     The    door-keeper   accepted
+
+
+VIII,  T,  4-         THE    DRESS    OF    THE    BIIIKKIIUS.  1 73
+
+this   order   of  the    courtezan   Salavati  (by  saying),
+'  Yes,  Madam,'
+
+4.  And  the  courtezan  Salavati,  when  the  child  in
+her  womb  had  reached  maturity,  gave  birth  to  a
+bo}^  And  the  courtezan  Salavati  gave  orders  to
+her  maid-servant  (saying),  '  Go,  my  girl,  put  this
+boy  into  an  old  winnowing  basket,  take  him  away,
+and  throw  him  away  on  a  dust-heap.'  The  servant
+accepted  this  order  of  the  courtezan  Salavati  (by
+saying),  '  Yes,  Madam,'  put  that  boy  into  an  old
+winnowing  basket,  took  him  away,  and  threw  him
+away  on  a  dust-heap.
+
+At  that  time  a  royal  prince,  Abhaya  by  name  \
+went  betimes  to  attend  upon  the  king,  and  saw  that
+boy,  around  whom  crows  were  gathering.  When
+he  saw  that,  he  asked  the  people  :  '  What  is  that,  my
+good  Sirs,  around  which  the  crows  are  gathering?'
+
+'  It  is  a  boy,  Your  Highness  2.'
+
+'  Is  he  alive.  Sirs  ?'
+
+'  He  is  alive,  Your  Highness.'
+
+'  Well,  my  good  Sirs,  bring  that  boy  to  our  palace
+and  orive  him  to  the  nurses  to  nourish  him.'
+
+And  those  people  accepted  that  order  of  the  royal
+prince  Abhaya  (by  saying),  'Yes,  Your  Highness,'
+brought  that  boy  to  the  palace  of  the  royal  prince
+Abhaya,  and  gave  him  to  the  nurses  (saying),
+'  Nourish  (this  boy).'
+
+*  This  'royal  prince  Abhaya'  (Abhaya  kumara)  is  mentioned
+by  the  Gainas  under  the  name  of  Abhayakumara  as  the  son  of
+Sewiya,  i.e.  Bimbisara.  See  Jacobi,  Zeitschrift  der  Deutschen
+Morg.  Gesellschaft,  vol.  xxxiv,  p.  187.
+
+^  The  word  which  we  have  translated  'Your  Highness'  (deva,
+lit.  'God')  is  the  same  which  is  used  by  all  persons  except  by
+Samawas  in  addressing  a  king.
+
+
+174  MAHAVAGGA.  VIII,  i,  5.
+
+Because  (the  people  had  said  about  this  boy  to
+Abhaya),  'He  is  ahve'  (^ivati),  they  gave  him
+the  name  of  6^ivaka;  because  he  had  been  caused
+to  be  nourished  by  the  royal  prince  (kumarena
+posapito),  they  gave  him  the  name  of  Komara-
+bha>^/^a^
+
+5.  And  ere  long  Civaka  KomarabhaZ'/^a  came
+to  the  years  of  discretion.  And  C'ivaka  Koma-
+rabha/('/^a  went  to  the  place  where  the  royal  prince
+Abhaya  was ;  having  approached  him  he  said  to
+the  royal  prince  Abhaya  :  '  Who  is  my  mother,  Your
+Highness,  and  who  is  my  father  ?'
+
+'  I  do  not  know  your  mother,  my  good  Givaka.,  but
+I  am  your  father,  for  I  have  had  you  nourished,'
+
+Now  Civaka  Komarabha/^/('a  thouo^ht :  *  In  these
+royal  families  it  is  not  easy  to  find  one's  livelihood
+without  knowing  an  art.  What  if  I  were  to  learn
+an  art.'
+
+6.  At  that  time  there  lived  at  Takkasila  [Td^Lka)  a
+world-renowned  physician.  And  6^ivaka  Komara-
+bhaZ'/'a  without  asking  leave  of  the  royal  prince
+Abhaya  set  out  for  Takkasila.  Wandering  from  place
+to  place  he  came  to  Takkasila  and  to  the  place  where
+
+
+^  Evidently  the  redactors  of  this  passage  referred  the  first  part
+of  the  compound  Komarabha^/^a  to  the  royal  prince  (kumara)
+Abhaya,  and  intended  Komarabha/^/^a  to  be  understood  as  'a
+person  whose  life  is  supported  by  a  royal  prince.'  So  also  the
+name  Kumara-Kassapa  is  explained  in  the  Gataka  commentary
+(Rh.  D.,  '  Buddhist  Birth  Stories,'  p.  204).  The  true  meaning  of
+the  name,  however,  appears  to  have  been  different,  for  in  Sanskrit
+kumarabhrz'tya  and  kaumarabhr/tya  are  technical  terms  for
+the  part  of  the  medical  science  which  comprises  the  treatment  of
+infants  (see  Wise,  'Commentary  on  the  Hindu  System  of  Medicine,'
+p.  3).  We  believe,  therefore,  that  this  surname  Komarabha-^/^a
+really  means, '  Master  of  the  kaumarabhrz'tya  science.'
+
+
+VIII,  1,7.        THE    DRESS   OF    THE   BIIIKKHUS-  1 75
+
+that  physician  was.  Having  approached  him  he  said
+to  that  physician, '  I  wish  to  learn  your  art,  doctor.'
+
+'  Well,  friend  G'ivaka,  learn  it.'
+
+And  6^ivaka  Komdrabha/'/'a  learnt  much,  and
+learnt  easily,  and  understood  well,  and  did  not  forget
+what  he  had  learnt.  And  when  seven  years  had
+elapsed,  C'ivaka  Komdrabha/-/'a  thought :  *  I  learn
+much,  and  learn  easily,  and  I  understand  well,  and
+I  do  not  forget  what  I  have  learnt.  I  have  studied
+now  seven  years,  and  I  do  not  see  the  end  of  this
+art.     When  shall  I  see  the  end  of  this  art  ? '
+
+7.  And  Qvaka  Komarabha/'/('a  went  to  the  place
+where  that  physician  was ;  having  approached  him
+he  said  to  that  physician  :  '  I  learn  much,  doctor,  and
+I  learn  easily;  I  understand  well,  and  do  not  forget
+what  I  have  learnt.  I  have  studied  now  seven
+years,  and  I  do  not  see  the  end  of  this  art.  When
+shall  I  see  the  end  of  this  art  ?'
+
+'  Very  well,  my  dear  (9ivaka,  take  this  spade,  and
+seek  round  about  Takkasila  a  yo^ana  on  every
+side,  and  whatever  (plant)  you  see  which  is  not
+medicinal,  bring  it  to  me.'
+
+6'ivaka  Komarabha/'/a  accepted  this  order  of  that
+physician  (saying),  *  Yes,  doctor,'  took  a  spade,  and
+went  around  about  Takkasila  a  yo^ana  on  every  side,
+but  he  did  not  see  anything  that  was  not  medicinal.
+Then  6'ivaka  Komarabha/'/'a  went  to  the  place  where
+that  physician  was ;  having  approached  him  he  said
+to  that  physician :  *  I  have  been  seeking,  doctor,  all
+around  Takkasila  a  yo^ana  on  every  side,  but  I  have
+not  seen  anything  that  is  not  medicinal.'
+
+(The  physician  replied),  *  You  have  done  your
+learning,  my  good  6ivaka  ;  this  will  do  for  acquiring
+your  livelihood.'     Speaking  thus  he  gave  to  6'ivaka
+
+
+176  MAHAVAGGA.  VIII,  i,  8.
+
+Komarabha/'/'a    a    little    (money)  for    his    journey
+(home).
+
+8.  And  Qvaka  Komarabha/'/'a  took  that  little
+money,  given  to  him  for  his  journey,  and  set  out
+for  Ra^agaha.  And  on  the  way  at  Saketa  that
+little  money  of  6^ivaka  Komarabha/'X'a  was  spent.
+Now  6^ivaka  KomarabhaZ'/^a  thought :  '  These  ways
+are  wild,  and  there  is  but  little  water  and  little  food  ;
+it  is  difficult  to  travel  here  without  money  for  the
+journey.  What  if  I  were  to  try  to  get  some  money
+for  my  journey.'
+
+At  that  time  the  se///n's  ^  wife  at  Saketa  had
+been  suffering  for  seven  years  from  disease  in  the
+head ;  many  very  great  and  world-renowned  physi-
+cians came,  but  they  could  not  restore  her  to  health  ;
+they  received  much  gold,  and  went  away.
+
+And  Qvaka  Komarabha/('/'a,  when  he  had  entered
+Saketa,  asked  the  people  :  *  Who  is  sick  here,  my
+good  Sirs  ?    Whom  shall  I  cure  ?'
+
+'  That  s&tth\s  wife,  doctor,  has  been  suffering
+for  seven  years  from  a  disease  in  the  head ;  go,
+doctor,  and  cure  that  s^ttkis  wife.'
+
+9.  Then  Qvaka  Komarabha/t'/§a  went  to  the  house
+of  that  householder,  the  se////i ;  and  when  he  had
+reached  it,  he  gave  orders  to  the  door-keeper  (saying),
+'  Go,  my  good  door-keeper,  and  tell  the  s^tthis  wife  :
+"  A  physician  has  come  in,  Madam,  who  wants  to
+see  you."  '
+
+That  door-keeper  accepted  this  order  of  Civaka
+Komarabha/'/'a  (saying),  '  Yes,  doctor,'  went  to  the
+place  where  the  s^ttkis  wife  was,  and  having  ap-
+proached her,  he  said  to  the  se/Mi's  wife :  'A  physician
+has  come  in.  Madam,  who  wants  to  see  you.'
+
+^  See  the  note  at  I,  7,  i.
+
+
+VIII,  I,  ir.        THE    DRESS    OF    THE    BHIKKHUS.  1 77
+
+'  What  sort  of  man  is  that  physician,  my  good
+door-keeper  ?'
+
+*  He  is  a  young  man.  Madam.'
+
+'  Nay,  my  good  door-keeper,  what  can  a  young
+physician  help  me  ?  Many  very  great  and  world-
+renowned  physicians  have  come  and  have  not  been
+able  to  restore  me  to  health  ;  they  have  received
+much  gold,  and  have  gone  away.'
+
+10.  Thus  that  door-keeper  went  to  Civaka
+Komarabha/'/'a ;  having  approached  him  he  said
+to  Civaka  Komarabha/'/'a :  '  The  se////i's  wife  has
+said,  doctor :  "  Nay,  my  good  door-keeper  (&c.,  as
+in  §  9)."  '
+
+(Qvaka  replied),  '  Go,  my  good  door-keeper,  and
+tell  the  se^l^iis  wife  :  "  The  physician,  Madam,  says  :
+'  Do  not  give  me  anything  beforehand.  Madam ;
+when  you  shall  have  been  restored  to  health,  then
+you  may  give  me  what  you  like.' "  '
+
+The  door-keeper  accepted  this  order  of  (S'ivaka
+Komarabha/C'ia  (saying),  '  Yes,  doctor,'  went  to  the
+place  where  the  se/^/ii's  wife  was,  and  having  ap-
+proached her  he  said  to  the  se///^i's  wife :  *  The
+physician,  Madam,  says  (&c.,  as  above).'
+
+'  Well,  my  good  door-keeper,  let  the  physician
+enter.'
+
+The  door-keeper  accepted  this  order  of  the  se//Ai's
+wife  (saying),  'Yes,  Madam,'  went  to  the  place  where
+Civaka  Komarabha/'/'a  was,  and  having  approached
+him  he  said  to  Givaka.  Komarabha/t/'a  :  '  The  s^ii/iis
+wife  calls  you,  doctor.'
+
+11.  Then  Civaka  Komirabha/v/('a  went  to  the
+place  where  the  se/Z/zi's  wife  was  ;  having  approached
+her,  and  having  carefully  observed  the  change  in
+the  appearance  of  the  se////i's  wife,  he  said  to  the
+
+[17]  N
+
+
+178  MAHAVAGGA.  VIII,  i,  12.
+
+se/Z/^i's  wife :  'We  want  one  pasata^  of  ghee, Madam.'
+Then  the  settkis  wife  ordered  one  pasata  of  ghee
+to  be  given  to  6^ivaka  Komarabha/'/^a.  And  Civaka
+Komarabha/^/'a  boiled  up  that  pasata  of  ghee  with
+various  drugs,  ordered  the  seU/ns  wife  to  He  down
+on  her  back  in  the  bed,  and  gave  it  her  through  her
+nose.  And  the  butter  given  through  the  nose  came
+out  through  the  mouth.  And  the  seU/iis  wife  spat
+it  out  into  the  spittoon,  and  told  the  maid-servant :
+'  Come,  my  girl,  take  this  ghee  up  with  a  piece  of
+cotton.'
+
+12.  Then  (^ivaka  Komarabha/^/§a  thought :  '  It  is
+astonishing  how  niggardly  this  house-wife  is,  in  that
+she  has  this  ghee,  which  ought  to  be  thrown  away,
+taken  up  with  a  piece  of  cotton.  I  have  given  her
+many  highly  precious  drugs.  What  sort  of  fee  will
+she  give  me?'
+
+And  the  sG.ttkis  wife,  when  she  observed  the
+change  of  demeanour  in  6'ivaka  Komarabha/^/^a,  said
+to  C'ivaka  Komarabha/'>^a :  '  Why  are  you  per-
+plexed, doctor  ?'
+
+*  I  thought :  "  It  is  astonishing,  &c."  '
+
+*  Householders  like  us,  doctor,  know  why  to
+economize  thus ;  this  ghee  will  do  for  the  servants
+or  workmen  to  anoint  their  feet  with,  or  it  can  be
+poured  into  the  lamp.  Be  not  perplexed,  doctor,
+you  will  not  lose  your  fee.'
+
+
+^  One  prasrita  or  prasr/'ti  ('handful')  is  said  by  the  Sanskrit
+lexicographers  to  be  equal  to  two  palas.  About  the  pala,  which
+according  to  the  ghee  measure  (ghritaprama«a)  of  Magadha  was
+the  thirty-second  part  of  a  prastha,  see  the  Atharva-parijish/a
+35>  3>  ^P-  Weber,  Ueber  den  Vedakalender  namens  Jyotisham,
+p.  82.  Compare  also  Rh.  D.,  'Ancient  Coins  and  Measures  of
+Ceylon,'  pp.  18,  19.
+
+
+VIII,  I,  T4.       THE    DRESS    OF    THE    BIIIKKIIUS.  I  79
+
+13.  And  Civaka  Komdrabha/'/'a  drove  away  the
+disease  in  the  head  which  the  se/Z/zi's  wife  had  had
+for  seven  years,  by  once  giving  her  medicine  through
+the  nose.  Then  the  se////i's  wife,  who  had  been
+restored  to  health,  gave  four  thousand  (kahapawas)
+to  Civaka  Komarabha/'/{'a ;  her  son  (thinking),  '  My
+mother  stands  there  restored,'  gave  him  four  thou-
+sand ;  her  daughter-in-law  (thinking),  '  My  mother-
+in-law  stands  there  restored,'  gave  him  four  thousand;
+the  se///^i,  the  householder,  (thinking),  '  My  wife
+stands  there  restored,'  gave  him  four  thousand  and
+a  man-servant  and  a  maid-servant  and  a  coach  with
+horses.
+
+Then  Civaka  Kom4rabha/'/'a  took  those  sixteen
+thousand  (kahapa?^as)  and  the  man-servant,  the  maid-
+servant, and  the  coach  with  the  horses,  and  set  out
+for  Racragaha.  In  due  course  he  came  to  Ra^agaha,
+and  to  the  place  where  the  royal  prince  Abhaya
+was ;  having  approached  him  he  said  to  the  royal
+prince  Abhaya:  '  This,  Your  Highness,  (have  I  re-
+ceived for)  the  first  work  I  have  done,  sixteen  thou-
+sand and  a  man-servant  and  a  maid-servant  and  a
+coach  with  horses;  may  Your  Highness  accept  this
+as  payment  for  my  bringing  up.'
+
+*  Nay,  my  dear  G'ivaka,  keep  it,  but  do  not  get
+a  dwelling  for  yourself  elsewhere  than  in  our
+residence.'
+
+6^ivaka  KomarabhaH'a  accepted  this  order  of  the
+royal  prince  Abhaya  (saying),  'Yes,  Your  Highness,'
+and  got  himself  a  dwelling  in  the  residence  of  the
+royal  prince  Abhaya.
+
+14.  At  that  time  the  Magadha  king  Seniya  Bim-
+bisira  suffered  from  a  fistula ;  his  garments  were
+stained  with  blood.     When   the  queens    saw  that,
+
+N  2
+
+
+l8o  MAHAVAGGA.  VIII,  i,  15.
+
+they  ridiculed  (the  king,  and  said) :  '  His  Majesty  is
+having  his  courses.  His  Majesty  will  bring  forth!'
+The  king  was  annoyed  at  that.  And  the  Magadha
+king  Seniya  Bimbisara  said  to  the  royal  prince
+Abhaya  :  '  I  am  suffering,  my  dear  Abhaya,  from
+such  a  disease  that  my  garments  are  stained  with
+blood ;  and  the  queens,  when  they  see  it,  ridicule
+(me  by  saying),  "  His  Majesty  is,  &c."  Pray,  my  dear
+Abhaya,  find  a  physician  for  me,  able  to  cure  me.'
+
+*  This  excellent  young  physician  of  ours.  Sire,
+Civaka,  he  will  cure  Your  Majesty.'
+
+'  Then  pray,  my  dear  Abhaya,  give  orders  to  the
+physician  C'ivaka,  and  he  shall  cure  me.'
+
+15.  Then  the  royal  prince  Abhaya  gave  orders
+to  6'ivaka  Komarabha>^/'a  (saying),  '  Go,  my  dear
+Givaka,  and  cure  the  king.'
+
+6^ivaka  KomarabhaX'/^a  accepted  this  order  of  the
+royal  prince  Abhaya  (by  saying),  '  Yes,  Your  High-
+ness,' took  some  medicament  in  his  nail,  and  went
+to  the  place  where  the  Magadha  king  Seniya
+Bimbisara  was.  Having  approached  him,  he  said
+to  the  Magadha  king  Seniya  Bimbisara :  '  Let  us
+see  your  disease.  Your  Majesty.'  And  6^ivaka  Ko-
+marabha/§y(^a  healed  the  fistula  of  the  Magadha  king
+Seniya  Bimbisara  by  one  anointing.
+
+Then  the  Magadha  king  Seniya  Bimbisara,  having
+been  restored  to  health,  ordered  his  five  hundred
+wwes  to  put  on  all  their  ornaments  ;  then  he  ordered
+them  to  take  their  ornaments  off  and  to  make  a
+heap  of  them,  and  he  said  to  6"ivaka  Komarabha/'/'a  :
+'  All  these  ornaments,  my  dear  6"ivaka,  of  my  five
+hundred  wives  shall  be  thine.'
+
+'  Nay,  Sire,  may  Your  Majesty  remember  my
+office.'
+
+
+VIII,  I,  17.       THE    DRESS    OF    THE    BIITKKHUS.  181
+
+'  Very  well,  my  dear  Qvaka,  you  can  wait  upon
+me  and  my  seraglio  and  die  fraternity  of  Bhikkhus
+with  the  Buddha  at  its  head,'
+
+6'ivaka  Komarabha/'/'a  accepted  this  order  of  the
+Magadha  king  Seni)a  Bimbisara  (by  saying),  '  Yes,
+Your  Majesty.'
+
+16.  At  that  time  the  s&tfk\  at  Rd^agaha  had  been
+suffering  for  seven  years  from  a  disease  in  the  head.
+Many  very  great  and  world-renowned  physicians
+came,  and  were  not  able  to  restore  him  to  health  ;
+they  received  much  gold  and  went  away.  And  a
+prognostication  had  been  made  by  the  physicians
+to  him,  to  wit :  Some  of  the  physicians  said  :  '  The
+se/Z/^i,  the  householder,  will  die  on  the  fifth  day;'
+other  physicians  said  :  '  The  se/Z/^i,  the  householder,
+will  die  on  the  seventh  day.'
+
+Now  (a  certain)  Ra^^agaha  merchant  thought:
+'  This  se///^i,  this  householder,  does  good  service
+both  to  the  king  and  to  the  merchants'  guild.  Now
+the  physicians  have  made  prognostication  to  him(&:c.,
+as  above).  There  is  Civaka,  the  royal  physician,
+an  excellent  young  doctor.  What  if  we  were  to  ask
+the  king  for  his  physician  6"ivaka  to  cure  the  se/Z/zi,
+the  householder  ?'
+
+1 7.  And  the  Ra^agaha  merchant  went  to  the
+place  where  the  Magadha  king  Seniya  Bimbisara
+was  ;  having  approached  him,  he  said  to  the  Magadha
+king  Seniya  Bimbisara:  'That  se///^i,  Sire,  that
+householder,  does  good  service  both  to  Your  Majesty
+and  to  the  merchants'  guild.  Now  the  physicians
+have  made  prognostication  to  him,  &c.  May  it  please
+Your  Majesty  to  order  the  physician  6^ivaka  to  cure
+the  se////i,  the  householder.'
+
+Then  the  Magadha  king  Seniya  Bimbisara  gave
+
+
+l82  MAHAVAGGA.  VIII,  i,  l8.
+
+
+orders  to  Civaka  Komarabha/f'/^a  (saying),  '  Go,  my
+dear  6^ivaka,  and  cure  the  seit/n,  the  householder.'
+
+6^ivaka  Komarabha/C'/C'a  accepted  this  order  of  the
+Magadha  king  Seniya  Bimbisara  (by  saying),  '  Yes,
+Your  Majesty,'  went  to  the  place  where  the  se////i,
+the  householder,  was,  and  having  approached  him,
+and  having  carefully  observed  the  change  in  his
+appearance,  he  said  to  the  se/Mi,  the  householder  :
+'  If  I  restore  you  to  health,  my  good  householder,
+what  fee  will  you  give  me  ?'
+
+'  All  that  I  possess  shall  be  yours,  doctor,  and
+I  will  be  your  slave.'
+
+1 8,  *  Well,  my  good  householder,  will  you  be  able
+to  lie  down  on  one  side  for  seven  months  ?'
+
+'  I  shall  be  able,  doctor,  to  lie  down  on  one  side
+for  seven  months.'
+
+'  And  will  you  be  able,  my  good  householder,  to
+lie  down  on  the  other  side  for  seven  months  ?'
+
+'  I  shall  be  able,  doctor,  to  lie  down  on  the  other
+side  for  seven  months.'
+
+*  And  will  you  be  able,  my  good  householder,  to
+lie  down  on  your  back  for  seven  months  ?'
+
+'  I  shall  be  able,  doctor,  to  lie  down  on  my  back
+for  seven  months.'
+
+Then  Qvaka  Komarabha/^/^a  ordered  the  s&tih'i,
+the  householder,  to  lie  down  on  his  bed,  tied  him
+fast  to  his  bed,  cut  through  the  skin  of  the  head,
+drew  apart  the  flesh  on  each  side  of  the  incision,
+pulled  two  worms  out  (of  the  wound),  and  showed
+them  to  the  people  (saying),  '  See,  Sirs,  these  two
+worms,  a  small  one  and  a  big  one.  The  doctors
+who  said,  "  On  the  fifth  day  the  se/^/il,  the  house-
+holder, will  die,"  have  seen  this  big  worm,  and  how
+it  would  penetrate  on  the  fifth  day  to  the  brain  of
+
+
+VIII,  I,  19-       THE    DRESS    OF    THE    BHIKKHUS.  183
+
+the  se///^i,  the  householder,  and  that  when  it  had
+penetrated  to  the  brain,  the  se////i,  the  householder,
+would  die.  Those  doctors  have  seen  it  quite  rightly.
+And  the  doctors  who  said,  "  On  the  seventh  day  the
+se/^/i'i,  the  householder,  will  die,"  have  seen  this  small
+worm,  and  how  it  would  penetrate  on  the  seventh
+day  to  the  brain  of  the  s&ft/n,  the  householder,  and
+that  when  it  had  penetrated  to  the  brain,  the  se///^i,
+the  householder,  would  die.  Those  doctors  have
+seen  it  quite  rightly.'  (Speaking  thus)  he  closed  up
+the  sides  of  the  wound,  stitched  up  the  skin  on  the
+head,  and  anointed  it  with  salve.
+
+19.  And  when  seven  days  had  elapsed,  the  s&tt/n,
+the  householder,  said  to  6^ivaka  Komarabha>^ia  :
+*  I  am  not  able,  doctor,  to  lie  down  on  one  side  for
+seven  months.'
+
+'Did  you  not  tell  me,  my  good  householder:
+"  I  shall  be  able,  doctor,  to  lie  down  on  one  side
+for  seven  months  ?"  '
+
+'  It  is  true,  doctor,  I  told  you  so  indeed,  but  I
+shall  die  (if  I  do) ;  I  cannot  lie  down  on  one  side  for
+seven  months.'
+
+'  Well,  my  good  householder,  then  you  must  lie
+down  on  the  other  side  for  seven  months.'
+
+And  when  seven  days  had  elapsed,  the  se////i,  the
+householder,  said  to  Qvaka  Komarabha/^/'a :  '  I  am
+not  able,  doctor,  to  lie  down  on  the  other  side  for
+seven  months.'
+
+'  Did  you  not  tell  me,  &c.'
+
+*  It  is  true,  doctor,  I  told  you  so  indeed,  &c.'
+
+*  Well,  my  good  householder,  then  you  must  lie
+down  on  your  back  for  seven  months.'
+
+And  when  seven  days  had  elapsed,  the  se///^i,  the
+householder,  said  to  Qvaka  Komarabha/C'/ra  :  '  I  am
+
+
+184  MAHAVAGGA.  VIII,  i,  20.
+
+
+not  able,  doctor,  to  lie  down  on  my  back  for  seven
+months.'
+
+'  Did  you  not  tell  me,  &c.?'
+'  It  is  true,  doctor,  I  told  you  so  indeed,  &c.'
+20.  'If  I  had  not  spoken  thus  to  you,  my  good
+householder,  you  would  not  have  lain  down  even  so
+lono-  a  time.  But  I  knew  beforehand,  "  After  three
+times  seven  days  the  s&tt/n,  the  householder,  will
+be  restored  to  health."  Arise,  my  good  house-
+holder, you  are  restored;  look  to  it  what  fee  you
+
+give  me.'
+
+'  All  that  I  possess  shall  be  yours,  doctor,  and  I
+
+will  be  your  slave.'
+
+'  Nay,  my  good  householder,  do  not  give  me  all
+that  you  possess,  and  do  not  be  my  slave ;  give  one
+hundred  thousand  (kahapa;2as)  to  the  king,  and  one
+hundred  thousand  to  me.'
+
+Then  the  se//^i,  the  householder,  having  regained
+his  health,  gave  a  hundred  thousand  (kahapa;^as)  to
+the  king,  and  a  hundred  thousand  to  6"ivaka  Koma-
+rabha/^ia.
+
+21.  At  that  time  the  son  of  the  s&tt/A  at  Benares,
+who  used  to  amuse  himself  by  tumbling  (mokkha-
+kxk^}),  brought  upon  himself  an  entanglement  of  his
+
+
+^  Mokkha/^ika  is  explained  in  a  passage  quoted  by  Childers
+sub  voce  and  taken  from  the  Sumangala  Vilasini  on  the  4th  Ma^-
+ghimz.  Sila.  (Compare  Rh.  D., '  Buddhist  Suttas  from  the  Pali,'
+p.  193.)  The  passage  from  Buddhaghosa  is  however  not  devoid  of
+ambiguity.  He  says:  'Mokkha-^ika  is  the  feat  of  turning  over
+and  over.  One  gets  hold  of  a  staff  in  the  air,  and  places  his  head
+on  the  ground;  turning  himself  upside  down.  This  is  what  is
+meant  (by  the  word  mokkha/^ika).'  It  is  not  clear  whether  the
+performer  suspends  himself  by  his  feet  from  a  horizontal  bar  fixed
+at  a  height  above  the  ground ;  or  whether  he  turns  a  sommersault,
+holding  at  the  same  time  a  stick  in  his  hands.     The  latter  seems
+
+
+VIII,  I,  22.        THE    DRESS    OF    THE    BIIIKKIIUS.  1 85
+
+intestines,  in  consequence  of  which  he  could  digest
+neither  the  rice-milk  which  he  drank,  nor  the  food  of
+which  he  partook,  nor  was  he  able  to  ease  himself  in
+the  regular  way.  In  consequence  of  that  he  grew
+lean,  he  looked  disfigured  and  discoloured,  (his  com-
+plexion became)  more  and  more  yellow,  and  the
+veins  stood  out  upon  his  skin.
+
+Now  the  se/Z/^i  of  Benares  thought  :  '  My  son  is
+sufferinor  from  such  and  such  a  disease  :  he  neither
+can  digest  the  rice-milk  which  he  drinks  (&c.,  as
+above,  down  to  :)  and  the  veins  stand  out  upon  his
+skin.  What  if  I  were  to  go  to  Ra^agaha  and  to  ask
+the  king  for  his  physician  C'ivaka  to  cure  my  son.'
+
+And  the  s&ti/n  of  Benares  went  to  Ra^agaha  and
+repaired  to  the  place  where  the  Magadha  king
+Seniya  Bimbisara  was ;  having  approached  him  he
+said  to  the  Magadha  king  Seniya  Bimbisara  :  '  My
+son,  Your  Majesty,  is  suffering  from  such  and  such  a
+disease:  he  neither  can  digest  the  rice-milk  which  he
+drinks  (&c.,  as  above,  down  to :)  and  the  veins  stand
+out  upon  his  skin.  May  it  please  Your  Majesty  to
+order  the  physician  6^ivaka  to  cure  my  son.'
+
+22.  Then  the  Magadha  king  Seniya  Bimbisara
+gave  orders  to  6"tvaka  Komarabha/'/'a  (saying),  'Go,
+my  dear  6^ivaka;  go  to  Benares,  and  cure  the  se////i's
+son  at  Benares.'
+
+6"ivaka  Komirabha/'/'a  accepted  this  order  of  the
+Magadha  king  Seniya  Bimbisara  (by  saying),  '  Yes,
+Your  Majesty,'  went  to  Benares,  and  repaired  to
+the  place  where  the  son  of  the  Benares  se/Mi
+was  ;  having  approached  him,  and  having  carefully
+
+more  in  accordance  with  the  phrase  '  holding  a  stick  in  the  air '
+(akase  da«</aw/  gahetva)  and  with  the  phrase  'turning  over  and
+over'  (sampariva//ana/?i).
+
+
+1 86  MAHAVAGGA.  VIII,  I,  23.
+
+observed  the  change  in  his  appearance,  he  ordered
+the  people  to  leave  the  room,  drew  the  curtain,  tied
+him  fast  to  a  pillar,  placed  his  wife  in  front  of  him,
+cut  through  the  skin  of  the  belly,  drew  the  twisted
+intestines  out,  and  showed  them  to  his  wife  (saying),
+'  Look  here  what  the  disease  was,  from  which  your
+husband  was  suffering.  This  is  the  reason  why  he
+neither  can  digest  the  rice-milk  which  he  drinks,  nor
+can  digest  the  food  of  which  he  partakes,  nor  is  able
+to  ease  himself  in  the  regular  way,  and  why  he  has
+grown  lean,  and  looks  disfigured  and  discoloured,
+and  (why  his  complexion  has  become)  more  and
+more  yellow,  and  the  veins  have  stood  out  upon  his
+skin.'  (Speaking  thus),  he  disentangled  the  twisted
+intestines,  put  the  intestines  back  (into  their  right
+position),  stitched  the  skin  together,  and  anointed  it
+with  salve.  And  before  long  the  Benares  s&tt/ns
+son  regained  his  health.
+
+Then  the  se/Mi  of  Benares  (saying  to  himself),
+*  My  son  stands  here  restored  to  health,'  gave  six-
+teen thousand  (kahapa;zas)  to  (9ivaka  Komarabha/^/^a.
+And  6"ivaka  Komarabha^/^a  took  those  sixteen
+thousand  (kahapa;^as),  and  went  back  again  to
+Ra^agaha.
+
+23.  At  that  time  king  Pa^ota  (of  U^^eni)  was
+suffering  from  jaundice.  Many  very  great  and
+world-renowned  physicians  came  and  were  not  able
+to  restore  him  to  health ;  they  received  much  gold
+and  went  away.  Then  king  Pa^fota  sent  a  mes-
+senger to  the  Magadha  king  Seniya  Bimbisara
+(with  the  following  message) :  '  I  am  suffering  from
+such  and  such  a  disease  ;  pray.  Your  Majesty^,  give
+
+^  This  passage  in  which  king  Pao-^ota  is  represented  as  address-
+ing king  Bimbisara  by  the  respectful  expression  '  deva'  may  in  our
+
+
+VIII,  I,  24.       THE    DRESS    OF    THE    BHIKKHUS.  187
+
+
+orders  to  the  physician  Qvaka  ;  he  will  cure  me.'
+Then  the  Magadha  king  Seniya  Bimbisara  gave
+orders  to  Qvaka  Komarabha/'/'a  (saying),  'Go,  my
+dear  6^ivaka;  go  to  U^^eni,  and  cure  king  Paf^'-ota.'
+
+Qvaka  Komarabha/'/'a  accepted  this  order  of  the
+Magadha  king  Seniya  Bimbisara  (by  saying),  '  Yes,
+Your  Majesty,'  went  to  U^'i^eni  and  to  the  place
+where  king  Pa^^^ota  was,  and  having  approached
+him,  and  having  carefully  observed  the  change  in  his
+appearance,  he  said  to  king  Pa^^ota :
+
+24.  '  I  will  boil  up  some  ghee,  Sire,  which  Your
+Majesty  must  drink.'
+
+'  Nay,  my  good  Givaka. ;  do  what  you  can  for
+restoring  me  without  giving  me  ghee  ;  I  have  an
+aversion  and  a  distaste  for  ghee.'
+
+Then  Qvaka  Komarabha/'/C-a  thought :  '  The  dis-
+ease of  this  kinor  is  such  a  one  that  it  cannot  be
+cured  without  ghee.  What  if  I  were  to  boil  up  ghee
+so  that  it  takes  the  colour,  the  smell,  and  the  taste  of
+an  astringent  decoction  ^'
+
+Then  Qvaka  KomarabhaZ'/^'a  boiled  some  ghee
+with  various  drugs  so  as  to  give  it  the  colour,  the
+smell,  and  the  taste  of  an  astringent  decoction.  And
+6^ivaka  Komarabha/C-Z-a  thought:  'When  this  king
+shall  have  taken  the  butter  and  digested  it,  it  will
+make  him  vomit.  This  king  is  cruel ;  he  might
+have  me  killed.    What  if  I  were  to  take  leave  before-
+
+
+opinion  be  brought  forward  against  Professor  Jacobi's  conjecture
+(Zeitschrift  der  Deutschen  Morg.  Gesellschaft,  vol.  xxxiv,  p.  188)
+that  Bimbisara  was  merely  a  feudal  chief  under  the  supreme
+rule  of  king  Pa^^ota.  The  Pi/aka  texts  are  always  very  exact  in
+the  selection  of  the  terms  of  respect  in  which  the  different  persons
+address  each  other,
+
+^  See,  about  the  decoctions  used  in  medicine,  VI,  4.
+
+
+1 88  MAHAVAGGA.  VIII,  I,  25.
+
+hand.'  And  Givaka.  Komarabha/J'/^a  went  to  the
+place  where  king  Pa^ota  was ;  having  approached
+him  he  said  to  king  Pa^ota  :
+
+25.  'We  physicians,  Sire,  draw  out  roots  and
+gather  medical  drugs  at  such  an  hour  as  this.  May-
+it  please  Your  Majesty  to  send  the  following  order  to
+the  (royal)  stables,  and  to  the  gates  (of  the  town) :
+"  Let  Givaka  ride  out  on  what  animal  he  likes ;  let
+him  leave  (the  town)  by  what  gate  he  likes ;  let
+him  leave  at  what  hour  he  likes ;  let  him  enter
+again  at  what  hour  he  likes,'"
+
+And  king  Pa^ota  sent  the  following  order  to  the
+(royal)  stables  and  to  the  gates  (of  the  town) :  '  Let
+6^ivaka  ride  out  on  what  animal  he  likes,  &c.'
+
+At  that  time  king  Pa^^ota  had  a  she-elephant,
+called  Bhaddavatika,  which  could  travel  fifty  yoj^anas
+(in  one  day).  And  Qvaka  Komarabha/^/^a  gave  the
+ghee  to  king  Pa^^ota  (saying),  '  May  Your  Majesty
+drink  this  decoction.'  Then,  having  made  king
+Pa^^ota  drink  the  ghee,  6"ivaka  Komarabha/^/^a
+went  to  the  elephant  stable,  and  hasted  away  from
+the  town  on  the  she-elephant  Bhaddavatika.
+
+26.  And  when  king  Pa^ota  had  drunk  that  ghee
+and  was  digesting  it,  it  made  him  vomit.  Then
+king  Paf^ota  said  to  his  attendants :  *  That  wicked
+Qvaka,  my  good  Sirs,  has  given  me  ghee  to  drink.
+Go,  my  good  Sirs,  and  seek  the  physician  Civaka.'
+
+(The  attendants  answered),  '  He  has  run  away
+from  the  town  on  the  she-elephant  Bhaddavatika.'
+
+At  that  time  king  Pa^^ota  had  a  slave,  Kaka  by
+name,  who  could  travel  sixty  yq^anas  (in  one  day),
+who  had  been  begotten  by  a  non-human  being.  To
+this  slave  Kaka,  king  Pa^^ota  gave  the  order:  'Go,
+my  good  Kaka,  and  call  the  physician  6-'ivaka  back
+
+
+VIII,  1,28.       THE    DRESS    OF    THE    BHIKKHUS.  1 89
+
+
+(saying),  "  The  king  orders  you  to  return,  doctor."
+But  those  physicians,  my  good  Kaka,  are  cunning
+people  ;  do  not  accept  anything  from  him.'
+
+27.  And  the  slave  Kaka  overtook  Civaka  Komd-
+rabha/'/6a  on  his  way,  at  Kosambi,  when  he  was
+taking  his  breakfast.  And  the  slave  Kaka  said  to
+6"ivaka  Komarabha/'/'a :  '  The  king  orders  you  to
+return,  doctor.'
+
+(Givaka  replied),  '  Wait,  my  good  Kaka,  until  we
+have  taken  our  meal ;  here,  my  good  Kaka,  eat.'
+
+(Kaka  said),  'Nay,  doctor,  the  king  has  told  me,
+"  Those  physicians,  my  good  Kaka,  are  cunning
+people ;  do  not  accept  anything  from  him." '
+
+At  that  time  6^ivaka  Komarabha/('/^a,  who  had
+cut  off  some  drug  with  his  nail,  was  eating  an  emblic
+myrobalan  fruit  and  drinking  water.  And  (Givaka
+Komarabha/'/'a  said  to  the  slave  Kaka:  'Here,  my
+good  Kaka,  eat  of  this  myrobalan  fruit  and  take
+some  water.'
+
+28.  Then  the  slave  Kaka  thought :  '  This  physi-
+cian eats  the  myrobalan  and  drinks  the  water ;  there
+cannot  be  any  harm  in  it ;'  so  he  ate  half  of  the
+myrobalan  and  drank  some  water.  And  that  half
+myrobalan  w^hich  (Civaka)  had  given  him  to  eat,
+opened  his  bowels  on  the  spot.
+
+Then  the  slave  Kaka  said  to  G^ivaka  Komara-
+bha/'/C'a  :  'Can  my  life  be  saved,  doctor?'
+
+(6"ivaka  replied),  '  Be  not  afraid,  my  good  Kaka,
+you  will  be  quite  well.  But  the  king  is  cruel ;  that
+kine  mio-ht  have  me  killed ;  therefore  do  I  not
+return.'
+
+Speaking  thus  he  handed  over  to  Kaka  the  she-
+elephant  Bhaddavatika  and  set  out  for  Ra^agaha.
+Having  reached  Ra^'agaha  in  due  course,  he  went  to
+
+
+igO  MAHAVAGGA.  VIII,  1,29.
+
+the  place  where  the  Magadha  king  Seniya  Bimbisara
+was ;  having  approached  him  he  told  the  whole
+thing  to  the  Magadha  king  Bimbisara.
+
+(Bimbisara  said),  'You  have  done  right,  my  good
+6^ivaka,  that  you  have  not  returned ;  that  king  is
+cruel ;  he  might  have  had  you  killed.'
+
+29.  And  king  Pa^ota,  being  restored  to  health,
+sent  a  messenger  to  Qvaka  Komarabha/^Z'a  (with  this
+message),  'May  6'ivaka  come  to  me;  I  will  grant
+him  a  boon.'
+
+(6'ivaka  replied),  'Nay,  Sir,  may  His  Majesty  re-
+member my  office.'
+
+At  that  time  king  Pa^/ota  had  a  suit  of  Siveyyaka
+cloth  ^  which  was  the  best,  and  the  most  excellent,
+and  the  first,  and  the  most  precious,  and  the  noblest
+of  many  cloths,  and  of  many  suits  of  cloth,  and  of
+many  hundred  suits  of  cloth,  and  of  many  thousand
+suits  of  cloth,  and  of  many  hundred  thousand  suits
+of  cloth.  And  king  Pa^^ota  sent  this  suit  of  Sivey-
+yaka cloth  to  6^tvaka  Komarabha/^>^a.  Then  6^ivaka
+Komarabha/^/^a  thought :  '  This  suit  of  Siveyyaka
+cloth  which  king  Pa^ota  has  sent  me,  is  the  best
+and  the  most  excellent  (&c.,  down  to  :)  and  of  many
+hundred  thousand  suits  of  cloth.  Nobody  else  is
+worthy  to    receive    it  but   He  the  blessed,  perfect
+
+
+'  Buddhaghosa  gives  two  explanations  of  Siveyyakawz  dussa-
+yugam.  'Either  Siveyyaka  cloth  means  the  cloth  used  in  the
+Uttarakuru  country  for  veiling  the  dead  bodies  when  they  are
+brought  to  the  burying-ground  (sivathika).  (A  certain  kind  of
+birds  take  the  bodies  to  the  Himavat  mountains  in  order  to  eat  them,
+and  throw  the  cloths  away.  When  eremites  find  them  there,  they
+bring  them  to  the  king.)  Or  Siveyyaka  cloth  means  a  cloth  woven
+from  yarn  which  skilful  women  in  the  Sivi  country  spin.'  No
+doubt  the  latter  explication  is  the  right  one.
+
+
+VIII,  I,  3T.       THE    DRESS    OF    THE    BHH^CKHUS.  I9I
+
+Arahat-Buddha,  or  the  Magadha  king  Seniya  Bim-
+bisara.'
+
+30.  At  that  time  a  disturbance  had  befallen  the
+humors  of  the  Blessed  One's  body.  And  the
+Blessed  One  said  to  the  venerable  Ananda  :  '  A
+disturbance,  Ananda,  has  befallen  the  humors  of
+the  Tathagata's  body ;  the  Tathdgata  wishes  to  take
+
+A
+
+a  purgative.  Then  the  venerable  Ananda  went  to
+the  place  where  Civaka  Komarabha/'/C'a  was ;  having
+approached  him  he  said  to  Givaka  Komarabha/'/('a  :
+
+'  My  good  6^ivaka,  a  disturbance  has  befallen  the
+humors  of  the  Tathagata's  body ;  the  Tathagata
+wishes  to  take  a  purgative.'
+
+(6^ivaka  replied),  'Well,  venerable  Ananda,  you
+ought  to  rub  the  Blessed  One's  body  with  fat  for  a
+few  days.'
+
+And  the  venerable  Ananda,  having  rubbed  the
+Blessed  One's  body  with  fat  for  some  days,  went  to
+the  place  where  Civaka  Komarabha/f'/C'a  was;  having
+approached  him  he  said  to  Civaka  KomarabhaX'/^a  :
+'  I  have  rubbed,  my  good  Qvaka,  the  Tathagata's
+body  with  fat ;  do  you  now  what  you  think  fit'
+
+31.  Then  Qvaka  Komarabha/'/i-a  thought :  '  It  is
+not  becoming  that  I  should  give  a  strong  purgative
+to  the  Blessed  One.'  (Thinking  thus),  he  imbued
+three  handfuls  of  blue  lotuses  with  various  drugs
+and  went  therewith  to  the  place  where  the  Blessed
+One  was ;  having  approached  him  he  offered  one
+handful  of  lotuses  to  the  Blessed  One  (saying).
+'  Lord,  may  the  Blessed  One  smell  this  first  handful
+of  lotuses ;  that  will  purge  the  Blessed  One  ten
+times.'  Thus  he  offered  also  the  second  handful  of
+lotuses  to  the  Blessed  One  (saying),  '  Lord,  may  the
+Blessed  One  smell  this  second  handful  of  lotuses ;
+
+
+192  MAHAVAGGA.  VIII,  i,  32.
+
+that  will  purge  the  Blessed  One  ten  times.'  Thus
+he  offered  also  the  third  handful  of  lotuses  to  the
+Blessed  One  (saying),  '  Lord,  may  the  Blessed  One
+smell  this  third  handful  of  lotuses ;  that  will  purge
+the  Blessed  One  ten  times.  Thus  the  Blessed  One
+will  have  purged  full  thirty  times.'  And  Qvaka
+Komarabha/'/^a,  having  given  to  the  Blessed  One
+a  purgative  for  full  thirty  times,  bowed  down  before
+the  Blessed  One,  and  passed  round  him  with  his
+right  side  towards  him,  and  went  away.
+
+32.  And  Givaka.  Komarabha/C'/^a,  when  he  was
+out  of  doors,  thought :  '  I  have  given  indeed  to  the
+Blessed  One  a  purgative  for  full  thirty  times,  but  as
+the  humors  of  the  Tathagatha's  body  are  disturbed,
+it  will  not  purge  the  Blessed  One  full  thirty  times ;  it
+will  purge  the  Blessed  One  only  twenty-nine  times.
+But  the  Blessed  One,  having  purged,  will  take  a  bath  ;
+the  bath  will  purge  the  Blessed  One  once ;  thus
+the  Blessed  One  will  be  purged  full  thirty  times.'
+
+And  the  Blessed  One,  who  understood  by  the
+power  of  his  mind  this  reflection  of  Qvaka  Komara-
+bha/C'/C'a,  said  to  the  venerable  Ananda :  '  6"ivaka
+Komarabha/^'X-a,  Ananda,  when  he  was  out  of  doors,
+has  thought :  'T  have  given  indeed  (&c.,  as  above,
+down  to  :)  thus  the  Blessed  One  will  be  purged  full
+thirty  times."    Well,  Ananda,  get  warm  water  ready.*
+
+The  venerable  Ananda  accepted  this  order  of  the
+Blessed  One  (saying),  '  Yes,  Lord,'  and  got  warm
+water  ready.
+
+33.  And  Givaka.  Komarabha/f'/C'a  went  to  the  place
+where  the  Blessed  One  was ;  having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he
+sat  down  near  him  ;  sitting  near  him  Givaka.  Koma-
+rabha/('/^a  said  to  the  Blessed  One  :  '  Lord,  has  the
+
+
+VIII,  r,  34-       THE    DRESS    OF    THE    BHIKKIIUS.  I93
+
+Blessed  One  purged  ?'  (Buddha  replied),  '  I  have
+purged,  Qvaka.'  (6'ivaka  said),  'When  I  was  out
+of  doors,  Lord,  I  thought :  "  I  have  given  indeed,
+&c."  Lord,  may  the  Blessed  One  take  a  bath,  may
+the  Happy  One  take  a  bath.'  Then  the  Blessed
+One  bathed  in  that  warm  water ;  the  bath  purged
+the  Blessed  One  once ;  thus  the  Blessed  One  was
+purged  full  thirty  times.
+
+And  6^ivaka  Komarabha/C'/6a  said  to  the  Blessed
+One :  '  Lord,  until  the  Blessed  One's  body  is  com-
+pletely restored,  you  had  better  abstain  from  liquid
+food.'  And  ere  long  the  Blessed  One's  body  was
+completely  restored.
+
+34.  Then  G^ivaka  Komarabha/^/^'a  took  that  suit
+of  Siveyyaka  cloth  and  went  to  the  place  where
+the  Blessed  One  was ;  having  approached  him,  and
+having  respectfully  saluted  the  Blessed  One,  he  sat
+down  near  him.  Sitting  near  him,  (S'ivaka  Komara-
+bha/'/^'a  said  to  the  Blessed  One  :  '  Lord,  I  ask  one
+boon  of  the  Blessed  One.'  (Buddha  replied),  '  The
+Tathagatas,  6^ivaka,  are  above  granting  boons  (be-
+fore they  know  what  they  are).'  ((7ivaka  said),
+'Lord,  it  is  a  proper  and  unobjectionable  demand.' —
+*  Speak,  Civaka.'
+
+'Lord,  the  Blessed  One  wears  only  pa;;2sukula
+robes  (robes  made  of  rags  taken  from  a  dust  heap
+or  a  cemetery^),  and  so  does  the  fraternity  of  Bhik-
+khus.  Now,  Lord,  this  suit  of  Siveyyaka  cloth  has
+been  sent  to  me  by  king  Pa^^ota,  which  is  the  best,
+and  the  most  excellent,  and  the  first,  and  the  most
+precious,  and    the   noblest   of  many  cloths  and   of
+
+^  Buddhaghosa :  '  To  the  Blessed  One  during  the  twenty  years
+from  his  Sambodhi  till  this  story  happened  no  one  had  presented
+a  lay  robe.'
+
+
+194  MAHAVAGGA.  VIII,  i,  35.
+
+many  suits  of  cloth,  and  of  many  hundred  suits  of
+cloth,  and  of  many  thousand  suits  of  cloth,  and  of
+many  hundred  thousand  suits  of  cloth.  Lord,  may
+the  Blessed  One  accept  from  me  this  suit  of  Sivey-
+yaka  cloth,  and  may  he  allow  to  the  fraternity  of
+Bhikkhus  to  wear  lay  robes  ^'
+
+The  Blessed  One  accepted  the  suit  of  Siveyyaka
+cloth.  And  the  Blessed  One  taught,  incited,  ani-
+mated, and  gladdened  6"ivaka  Komarabha/'/^^a  by
+religious  discourse.  And  6"ivaka  Komarabha/'/^a,
+having  been  taught,  incited,  animated,  and  glad-
+dened by  the  Blessed  One  by  religious  discourse,
+rose  from  his  seat,  respectfully  saluted  the  Blessed
+One,  passed  round  him  with  his  right  side  towards
+him,  and  went  away.
+
+35.  And  the  Blessed  One,  after  having  delivered
+a  religious  discourse  in  consequence  of  that,  thus
+addressed  the  Bhikkhus  :
+
+'I  allow  you,  O  Bhikkhus,  to  wear  lay  robes.  He
+who  likes  may  wear  pa;;^sukula  robes;  he  who
+likes  may  accept  lay  robes.  Whether  you  are
+pleased  with  the  one  or  with  the  other  sort  ^  of
+robes,  I  approve  it.'
+
+Now  the  people  at  Ra^agaha  heard,  'The  Blessed
+One  has  allowed  the  Bhikkhus  to  wear  lay  robes.'
+Then  those  people  became  glad  and  delighted  (be-
+cause they  thought),  'Now  we  will  bestow  gifts  (on
+the   Bhikkhus)  and   acquire   merit  by  good  works,
+
+'■  Gahapati^ivara  may  be  translated  also,  as  Buddhaghosa
+explains  it, '  a  robe  presented  by  lay  people.'
+
+2  Itaritara  ('the  one  or  the  other')  clearly  refers  to  the  two
+sorts  of  robes  mentioned  before,  not,  as  Childers  (s.v.  itaritaro)
+understands  it,  to  whether  the  robes  are  good  or  bad.  Compare
+also  chap.  3,  §  2.
+
+
+VIII,  2.  THE    DRESS    OF    THE    BHIKKHUS.  1 95
+
+since  the  Blessed  One  has  allowed  the  Bhikkhiis  to
+wear  lay  robes.'  And  in  one  day  many  thousands
+of  robes  were  presented  at  Ra^agaha  (to  the
+Bhikkhus).
+
+And  the  people  in  the  country  heard,  '  The
+Blessed  One  has  allowed  the  Bhikkhus  to  wear  lay
+robes.'  Then  those  people  became  glad  (&c.,  as  above,
+down  to:)  And  in  one  day  many  thousands  of  robes
+were  presented  through  the  country  also  (to  the
+Bhikkhus).
+
+36.  At  that  time  the  Sa;;2gha  had  received  a
+mantle.     They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  wear  a  mantle.'
+
+They  had  got  a  silk  mantle.
+
+'  I  allow  you,  O  Bhikkhus,  to  wear  a  silk  mantle.'
+
+They  had  got  a  fleecy  counterpane  \
+
+'  I  allow  you,  O  Bhikkhus,  to  use  a  fleecy  counter-
+pane.'
+
+.  End  of  the  first  Bha;^avara.
+
+
+2.
+
+At  that  time  the  king  of  Kasi  -  sent  to  C'ivaka
+Komarabha/^/C'a  a  woollen  garment  made  half  of
+Benares  cloth  .  .  .  ^     Then  (S^ivaka  Komarabha/'Z'a
+
+^  See  Abhidhanapp.  v.  312.
+
+^  Buddhaghosa :  '  This  king  was  Pasenadi's  brother,  the  same
+father's  son.'  He  appears  to  have  been  a  sub-king  of  Pasenadi,
+for  in  the  Lohi^X-a-sutta  it  is  stated  that  Pasenadi's  rule  extended
+both  over  Kasi  and  Kosala  ('  R%a  Pasenadi  Kosalo  Kasikosalaw
+a^^^avasati ').
+
+^  Our   translation   of   a^<//iakasika;«    k  am  b  a  law    is   merely
+
+O    2
+
+
+196  MAHAVAGGA.  VIII,  3,  t.
+
+took  that  woollen  garment  made  half  of  Benares  cloth
+and  went  to  the  place  where  the  Blessed  One  was;
+having  approached  him,  and  respectfully  saluted  the
+Blessed  One,  he  sat  down  near  him.  Sitting  near
+him,  Civaka  Kom^rabha/('/'a  said  to  the  Blessed  One  :
+'  Lord,  this  woollen  garment  made  half  of  Benares
+cloth.  .  .  .^  has  been  sent  to  me  by  the  king  of  Kasi.
+May  the  Blessed  One,  Lord,  accept  this  woollen  gar-
+ment, which  may  be  to  me  a  long  time  for  a  good
+and  a  blessing.'  The  Blessed  One  accepted  that
+woollen  garment.
+
+And  the  Blessed  One  taught  (&c.,  as  in  chap,  i,
+§  34,  down  to  :)  and  went  away.
+
+And  the  Blessed  One,  after  having  delivered  a
+religious  discourse  in  consequence  of  that,  thus
+addressed  the   Bhikkhus  :
+
+'  I  allow  you,  O  Bhikkhus,  to  use  woollen  gar-
+ments.'
+
+
+3.
+
+I.  At  that  time  the  fraternity  got  robes  of  dif-
+ferent kinds.  Now  the  Bhikkhus  thought :  '  What
+robes  are  allowed  to  us  by  the  Blessed  One,  and
+what  robes  are  not  allowed  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  six  kinds  of  robes,  viz.
+
+conjectural.  Buddhaghosa  has  the  following  note:  'Add/i2ikasi-
+ya.m,  here  kasi  means  one  thousand;  a  thing  that  is  worth  one
+thousand,  is  called  kasiya.  This  garment  was  worth  five  hundred;
+therefore  it  is  called  a^/^/zakasiya.  And  for  the  same  reason  it  is
+said,  upafi?(/-^akasina7/;  khamamanaw.'  Perhaps  vikasikaw
+at  VI,  15,  5  may  have  some  connection  with  the  word  used  here.
+'  See  last  note.
+
+
+VIII,  4,  2.         THE    DRESS    OF    THE    BHIKKHUS.  I97
+
+those  made  of  linen,  of  cotton,  of  silk,  of  wool,  of
+coarse  cloth,  and  of  hempen  cloth.'
+
+2.  At  that  time  the  Bhikkhus  accepted  lay  robes,
+but  did  not  get  pawsukula  robes,  because  they
+had  scruples  (and  thought) :  *  The  Blessed  One  has
+allowed  us  either  kind  of  robes  only,  not  both
+kinds  \'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow,  O  Bhikkhus,  that  he  who  accepts  lay
+robes,  may  get  also  pawsukCila  robes.  If  you  are
+pleased  with  those  both  sorts  of  robes,  I  approve
+that  also.'
+
+
+4.
+
+1.  At  that  time  a  number  of  Bhikkhus  were
+travelling  on  the  road  in  the  Kosala  country.  Some
+of  these  Bhikkhus  went  off  {the  road)  to  a  cemetery
+in  order  to  get  themselves  pawsukula  robes;  some
+(other)  Bhikkhus  did  not  wait.  Those  Bhikkhus
+who  had  gone  to  the  cemetery  for  pawsukiila  robes,
+got  themselves  pawsukulas;  those  Bhikkhus  who
+had  not  waited,  said  to  them  :  '  Friends,  give  us  also
+a  part  (of  your  pawsukulas).'  They  replied,  'We
+will  not  give  you  a  part,  friends ;  why  have  you  not
+waited  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  are  not  obliged
+to  give  a  part  against  your  will  to  Bhikkhus  who
+have  not  waited.'
+
+2.  At  that  time  a  number  of  Bhikkhus  were
+travelling  on  the  road  in  the  Kosala  country.     Some
+
+1  See  chap,  i,  §  35-
+
+
+198  '    MAHAY AGGA.  VIII,  4,  3.
+
+
+of  these  Bhikkhus  went  off  (the  road)  to  a  cemetery
+in  order  to  get  themselves  paw^sukiila  robes;
+some  (other)  Bhikkhus  waited  for  them.  Those
+Bhikkhus  who  had  gone  to  the  cemetery  for  p3.m-
+sukula  robes,  got  themselves  pa;;2sukulas  ;  those
+Bhikkhus  who  had  waited,  said  to  them  :  '  Friends,
+give  us  also  a  part  (of  your  pa^/^sukCdas).'  They
+replied, '  We  will  not  give  you  a  part,  friends ;  why
+did  you  not  also  go  off  (to  the  cemetery)  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  give  a  part
+(even)  against  your  will  to  Bhikkhus  who  have
+waited.'
+
+3.  At  that  time  a  number  of  Bhikkhus  were
+travelling  on  the  road  in  the  Kosala  country.  Some
+of  these  Bhikkhus  went  aside  first  from  (the  road)
+to  a  cemetery  in  order  to  get  themselves  pamsu-
+ku la  robes  ;  some  (other)  Bhikkhus  went  aside  later.
+Those  Bhikkhus  who  had  gone  first  to  the  cemetery
+for  pa;;^sukula  robes,  got  themselves  pa;;2sukulas;
+those  Bhikkhus  who  had  got  off  later,  did  not  get
+any,  and  said  (to  the  other  ones) :  '  Friends,  give  us
+also  a  part'  They  replied,  'We  will  not  give  you
+a  part,  friends  ;  why  did  you  get  off  (to  the  cemetery)
+after  us  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  are  not  obliged
+to  give  a  part  against  your  will  to  Bhikkhus  who
+have  gone  (to  the  cemetery)  later  (than  yourselves).'
+
+4.  At  that  time  a  number  of  Bhikkhus  were
+travelling  on  the  road  in  the  Kosala  country.  They
+went  altogether  off  (the  road)  to  a  cemetery  in  order
+to  get  themselves  pa;;/suk{ila  robes;  some  of  the
+Bhikkhus  got  pay/^sukulas,  other  Bhikkhus  did  not
+
+
+VIII,  5.  I.  THE   DRESS    OF    THE    BHIKKHUS.  I99
+
+
+get  any.  The  Bhikkhus  who  had  got  nothhig,  said :
+'  Friends,  give  us  also  a  part  (of  your  pawsukCilas).'
+They  rephed,  '  We  will  not  give  you  a  part,  friends  ;
+w^hy  did  you  not  get  (them  yourselves)  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  give  a  part
+(even)  against  your  will  to  Bhikkhus  who  have  gone
+(to  the  cemetery)  together  with  yourselves.'
+
+5.  At  that  time  a  number  of  Bhikkhus  were
+travelling  on  the  road  in  the  Kosala  country.  They
+went  off  (the  road)  to  a  cemetery  in  order  to  get
+themselves  pa7;/sukula  robes,  after  having  made
+an  agreement  (about  the  distribution  of  what  they
+were  to  find).  Some  of  the  Bhikkhus  got  them-
+selves pawsukulas,  other  Bhikkhus  did  not  get
+any.  The  Bhikkhus  who  had  got  nothing,  said :
+'  Friends,  give  us  also  a  part  (of  the  pawsukulas).'
+They  replied,  '  We  will  not  give  you  a  part,  friends ;
+why  did  you  not  get  (them  yourselves)  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  give  a  part,
+(even)  against  your  will,  to  Bhikkhus  who  have
+gone  (with  you  to  the  cemetery)  after  having  made
+with  you  an  agreement  (about  the  distribution  of
+the  pa7;^sukulas).'
+
+
+5.
+
+I.    At  that  time  people  went  to  the  Arama  with
+robes  ^    (which    they    intended    to    present    to    the
+
+
+'  It  will  be  as  well  to  remind  the  reader  that  here  and  in  the
+following  chapters  /I'ivara  can  mean  both  'a  robe'  and  'cloth  for
+
+
+making  robes.'
+
+
+200  MAHAVAGGA.  VIII,  5,  2.
+
+Bhikkhus).  They  found  there  no  Bhikkhu  who
+was  to  receive  the  robes;  so  they  took  them  back
+again.  (In  consequence  of  that)  few  robes  were
+given  (to  the   Bhikkhus).
+
+They  tokl  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  appoint  a
+Bhikkhu  possessed  of  the  following  five  qualities,
+to  receive  the  robes  (presented  to  the  Bhikkhus):
+(a  person)  who  does  not  go  in  the  evil  course  of
+lust,  in  the  evil  course  of  hatred,  in  the  evil  course
+of  delusion,  in  the  evil  course  of  fear,  and  who  knows
+what  has  been  received  and  what  has  not.
+
+2.  '  And  you  ought,  O  Bhikkhus,  to  appoint  (such
+a  Bhikkhu)  in  this  way :  First,  that  Bhikkhu  must
+be  asked  (to  accept  that  commission).  When  he
+has  been  asked,  let  a  learned,  competent  Bhikkhu
+proclaim  the  following  ;'2atti  before  the  Sa;;2gha  :
+"  Let  the  Sawgha,  reverend  Sirs,  hear  me.  If  the
+Sa;?/gha  is  ready,  let  the  Sawgha  appoint  the
+Bhikkhu  N.  N.  to  receive  the  robes  (presented  to
+the  Bhikkhus).  This  is  the  flatt'i.  Let  the  Sa7;2gha,
+reverend  Sirs,  hear  me.  The  Sa;^2gha  appoints  the
+Bhikkhu  N.  N.  to  receive  the  robes  (presented).
+Let  any  one  of  the  venerable  brethren  who  is  in
+favour  of  our  appointing  the  Bhikkhu  N.  N.  to
+receive  the  robes  (presented),  be  silent,  and  any  one
+who  is  not  in  favour  of  it,  speak.  The  Bhikkhu
+N.  N.  has  been  appointed  by  the  Sawgha  to  receive
+the  robes  (presented).  The  Sawgha  is  in  favour
+of  it,  therefore  are  you  silent ;  thus  I  understand."  '
+
+
+VIII,  7-  THE    DRESS    OF    THE    BIIIKKIIUS.  20I
+
+
+6.
+
+1.  At  that  time  the  Bhikkhus  who  had  to  receive
+the  robes  (presented),  after  having  received  them,
+left  them  there  (in  the  Viharas)  and  went  away ;  the
+robes  were  spoilt.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  appoint  a
+Bhikkhu  possessed  of  the  following  five  qualities,
+to  lay  by  the  robes  (received) :  (a  person)  who  does
+not  cfo  in  the  evil  course  of  lust,  in  the  evil  course
+of  hatred,  in  the  evil  course  of  delusion,  in  the  evil
+course  of  fear,  and  who  knows  what  is  laid  by  and
+what  is  not.
+
+2.  'And  you  ought,  O  Bhikkhus,  to  appoint  (&c.,
+see  chap.  5,  §  2).'
+
+
+7.
+
+At  that  time  the  Bhikkhus  appointed  to  lay  the
+robes  by,  laid  the  robes  by  in  an  open  hall,  or  at  the
+foot  of  a  tree,  or  in  the  hollow  of  a  Nimba  tree^ ;
+thus  they  were  eaten  by  rats  and  white  ants.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  appoint  what
+the  Sa;;^gha  chooses,  a  Vihara,  or  an  A^/^/Z/ayoga^,
+or  a  storied  building,  or  an  attic,  or  a  cave,  to  be  the
+store-room^  (of  the  Sawgha).
+
+^  Compare  III,  12,  5.  '^  Compare  I,  30,  4.
+
+^  The  word  bha/zfl^agara  does  not  imply  any  special  reference
+to  robes  more  than  to  any  other  articles  belonging  to  the  Sawgha.
+A  good  many  things  which  were  usually  kept  in  the  bhaw^/agara
+are  mentioned  at  .^ullav.  VI,  2r,  3.
+
+
+202  MAHAVAGGA.  VIII,  8,  I.
+
+'  And  you  ought,  O  Bhikkhus,  to  appoint  it  in  this
+way :  Let  a  learned,  competent  Bhikkhu  proclaim  the
+following  ;1atti  before  the  Sa/;?gha :  "  Let  the  Sa;;^-
+gha,  reverend  Sirs,  hear  me.  If  the  Sawgha  is  ready,
+let  the  Sawgha  appoint  the  Vihara  called  N.  N.  to
+be  the  store-room  (of  the  Sa?;/gha),  (&c.,  the  usual
+formula  of  a  ;'2attidutiya  kamma)."  '
+
+
+8.
+
+1.  At  that  time  the  cloth  in  the  Sa;;/gha's  store-
+room was  not  protected  (from  rain,  mice,  &c.)
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  appoint  a
+Bhikkhu  possessed  of  the  following  five  qualities,
+to  take  charge  of  the  store-room  :  (a  person)  who
+does  not  go  in  the  evil  course  of  lust  (&c.,  as  in
+chap.  5,  ^  i),  and  who  knows  what  is  protected  and
+what  is  not.
+
+'  And  you  ought,  O  Bhikkhus,  to  appoint  (&c.,
+see  chap.  5,  J  2).'
+
+2.  At  that  time  the  AV^abbaggiya  Bhikkhus
+expelled  a  Bhikkhu,  who  had  charge  of  a  store-
+room, from  his  place.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  Let  no  one,  O  Bhikkhus,  expel  a  Bhikkhu,  who
+has  charge  of  a  store-room,  from  his  place.  He  who
+does  so,  commits  a  dukka/'a  offence.'
+
+
+9.
+
+the
+over-full  of  clothes.
+
+
+I.    At  that   time    the    Sa;/^gha's    store-room  was
+
+
+VIII,  9,  2.         THE    DRESS    OF    THE    BIIIKKHUS.  203
+
+
+They  told  this  thuig  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  they  should  be
+distributed  by  the  assembled  Sawgha.'
+
+Aj;  that  time  the  whole  Sawgha,  when  distributing
+the  clothes,  made  a  bustle.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  appoint  a
+Bhikkhu  possessed  of  the  following  five  qualities,
+to  distribute  the  clothes  :  (a  person)  who  does  not
+eo  in  the  evil  course  of  lust  ....  and  who  knows
+what  is  distributed  and  what  is  not.
+
+'And  you  ought,  O  Bhikkhus,  to  appoint  (&c.,
+see  chap.  5,  §  2).'
+
+2.  Now  the  Bhikkhus  appointed  to  distribute  the
+clothes  thought:  '  In  what  way  are  we  to  distribute
+the  clothes  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  first  assort  the
+clothes,  estimate  them,  share  them  according  to  their
+higher  or  lower  value\  then  count  the  Bhikkhus,
+divide  them  into  troops-,  and  divide  the  portions  of
+cloth  (accordingly).'
+
+Now  the  Bhikkhus,  who  w^ere  to  distribute  the
+clothes,  thought :  '  What  portion  of  cloth  shall  be
+given  to  the  Sama;^eras?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  give  to  the
+Sama;/eras  half  a  portion.'
+
+^  Buddhaghosa:  'If  there  are  robes  of  the  same  quality,  for
+instance,  each  worth  ten  (kahapawas),  for  all  Bhikkhus,  it  is  all
+right ;  if  they  are  not,  they  must  lake  together  the  robes  which  are
+worth  nine  or  eight,  with  those  which  are  worth  one  or  two,  and
+thus  they  must  make  equal  portions.'
+
+2  '  In  case  the  day  should  not  suffice  for  distributing  the  robes
+to  the  Bhikkhus  one  by  one '  (Buddhaghosa).
+
+
+204  MAHAVAGGA.  VIII,  9,  3.
+
+3.  At  that  time  a  certain  Bhikkhu  wished  to  go
+across  (a  river  or  a  desert)  with  the  portion  that
+should  come  to  him.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  give  to  a
+Bhikkhu  who  is  going  across  (a  river  or  a  desert),
+the  portion  that  should  come  to  him.'
+
+At  that  time  a  certain  Bhikkhu  wished  to  eo
+across  (a  river  or  a  desert)  with  a  greater  portion
+(of  cloth  than  fell  to  his  share).
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  give  more
+than  the  due  portion  (to  a  Bhikkhu  who  desires
+it),  if  he  gives  a  compensation.'
+
+4.  Now  the  Bhikkhus,  who  were  to  distribute  the
+clothes,  thought:  '  How  are  we  to  assign  the  portions
+of  cloth  (to  the  single  Bhikkhus),  by  turns  as  they
+arrive  (and  ask  for  cloth),  or  according  to  their  age
+(i.  e.  the  time  elapsed  since  their  ordination)?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  cast  lots,  made
+of  grass-blades,  after  having  made  every  defective
+portion  even.'
+
+
+10.
+
+I.  At  that  time  the  Bhikkhus  dyed  cloth  with
+(cow-)dung  or  with  yellow  clay.  The  robes  were
+badly  coloured.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  use  the  follow-
+ing six  kinds  of  dye,  viz.  dye  made  of  roots,  dye
+made  of  trunks  of  trees,  dye  made  of  bark,  dye  made
+of  leaves,  dye  made  of  flowers,  dye  made  of  fruits.'
+
+
+VIII,  10,  3-       THE    DRESS    OF    THE    BIIIKKIIUS.  205
+
+2.  At  that  time  the  Bhikkhus  dyed  cloth  with
+unboiled  dye  ;  the  cloth  became  ill-smelling.
+
+They  told  this  thing  to  the  Blessed  One.
+'  I  prescribe,  O  Bhikkhus,  that  you  boil  the  dye
+(and  use)  little  dye-pots.'
+They  spilt  the  dye.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  put  basins
+(under  the  dye-pots)  to  catch  the  spilt  (dye).'
+
+At  that  time  the  Bhikkhus  did  not  know  whether
+the  dye  was  boiled  or  not.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  let  a  drop  of
+dye  fall  into  water,  or  on  to  your  nail  (in  order  to
+try  if  the  dye  is  duly  boiled).'
+
+3.  At  that  time  the  Bhikkhus,  when  pouring  the
+dye  out  (of  the  pot),  upset  the  pot ;  the  pot  was
+broken.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  use  a  dye-
+ladle  or  a  scoop  with  a  long  handle.'
+
+At  that  time  the  Bhikkhus  did  not  possess  vessels
+for  keeping  dye.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  get  jars  and
+bowls  for  keeping  the  dye.'
+
+At  that  time  the  Bhikkhus  rubbed  the  cloth
+against  the  vessels  and  the  bowls  (in  which  they
+dyed  it) ;  the  cloth  was  rent.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  use  a  (large)
+trough  for  dying  (cloth)  in.'
+
+
+2o6  MAHAVAGGA.  VIII,  ii,i.
+
+
+11.
+
+1,  At  that  time  the  Bhikkhus  spread  the  cloth  on
+the  floor  (when  they  had  dyed  It) ;  the  cloth  became
+dusty.
+
+They  told  this  thing  to  the  Blessed  One.
+'  I  prescribe,  O  Bhikkhus,  that  you  spread  grass
+(and  put  the  cloth  on  It).'
+
+The  grass  they  had  spread  was  eaten  by  white  ants.
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  get  a  bamb'il
+peg  or  rope  to  hang  the  cloth  on.'
+
+They  hung  It  up  In  the  middle ;  the  dye  dropped
+down  on  both  sides.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  tie  it  fast  at
+the  corner.'
+
+The  corner  wore  out.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  the  use  of  a  clothes-
+line.'
+
+The  dye  dropped  down  on  one  side.
+
+They  told  this  thing  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  turn  the  cloth,
+when  dying  It,  whenever  required,  and  that  you  do
+not  go  away  before  the  dye  has  ceased  to  drop.'
+
+2.  At  that  time  the  cloth  had  become  stiffs
+They  told  this  thing  to  the  Blessed  One.
+
+
+^  Buddhaghosa :  Patthinan  ti  (this  is  the  reading  of  the
+Berlin  MS.)  atira^itatta  thaddhaw^,  i.  e.  '  Patthinaw  means  that
+it  had  become  stiff  from  too  much  dye.'  Thina  or  thinna  is
+Sanskrit  sty  an  a.
+
+
+VIII,  12,  I.       THE    DRESS    OF    THE    BinKKHUS.  207
+
+
+'  I  prescribe,  O  Bhikkhiis,  that  you  dip  (the  cloth)
+into  water  (in  order  to  remove  the  excessive  dye).'
+
+At  that  time  the  cloth  became  rough.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  (that  you  smooth  it
+by)  beating  it  with  your  hands.'
+
+At  that  time  the  Bhikkhus  possessed  ?ikkh\\\-
+naka^  robes  of  yellowish  colour  like  ivory.  The
+people  were  annoyed,  murmured,  and  became  angry  :
+'(The  Bhikkhus  dress)  like  those  who  still  live  in
+the  pleasures  of  the  world.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'You  ought  not,  O  Bhikkhus,  to  possess  2ikkh\vi-
+naka  robes.  He  who  does,  commits  a  dukka/a
+offence.'
+
+
+12.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Raraeaha  as  lone  as  he  thouo^ht  fit,  he  set  forth  on
+his  journey  towards  Dakkhi;<!a-giri  (the  Southern
+Hills-^).  And  the  Blessed  One  beheld  how  the
+Maf^adha  rice  fields  were  divided  into  short  pieces  ^,
+
+
+'  That  is,  made  of  untorn  cloth.    See  VIII,  21,  2.
+
+^  These  are  always  mentioned  in  connection  with  Ra^agaha
+(Mahavagga  I,  53  ;  A'ullavagga  XI,  i-io),  and  are  probably  the
+name  of  the  mountainous  district  immediately  south  of  Rai.'-agaha.
+
+'  A>(-X'ibaddhan  (sic)  ti  X-aturassakedarakabaddhaw  (B.).  I
+have  never  seen  a  field  divided  'ray-fashion,'  which  would  appa-
+rently be  the  literal  translation  of  the  term,  and  it  is  difficult  to  see
+how  the  necessary  water  could  be  conducted  from  strip  to  strip  of
+a  field  so  divided.  Buddhaghosa  also,  though  his  explanation  is
+insufficient,  evidently  does  not  take  Vikkl  in  the  ordinary  sense
+(Rh.  D.).
+
+
+208  MAhAvAGGA.  YIIT,  T2,  2.
+
+
+and  in  rows\  and  by  outside  boundaries  ^  (or  ridges),
+and  by  cross  boundaries  ^.
+
+On  seeing  this  the  Blessed  One  spake  thus  to  the
+venerable  Ananda :  *  Dost  thou  perceive,  Ananda,
+how  the  Magadha  rice  fields  are  divided  into  short
+pieces,  and  in  rows,  and  by  outside  boundaries,  and
+by  cross  boundaries  ?'
+
+'  Even  so.  Lord.'
+
+'  Could  you,  Ananda,  provide '^  robes  of  a  like  kind
+for  the  Bhikkhus  ?'
+
+'  I  could,  Lord.'
+
+Now  when  the  Blessed  One  had  remained  in  the
+Southern  Hills  as  long  as  he  thought  fit,  he  returned
+again  to  Ra^agaha.
+
+Then  Ananda  provided  robes  of  a  like  kind  for
+many  Bhikkhus ;  and  going  up  to  the  place  where
+the  Blessed  One  was,  he  spake  thus  to  the  Blessed
+One :  '  May  the  Blessed  One  be  pleased  to  look  at
+the  robes  which  I  have  provided.'
+
+2.  Then  the  Blessed  One  on  that  occasion  ad-
+dressed the  Bhikkhus  and  said :  'An  able  man,
+O  Bhikkhus,  is  Ananda;  of  great  understanding,
+O  Bhikkhus,  is  Ananda,  inasmuch  as  what  has  been
+spoken  by  me  in  short  that  can  he  understand
+in   full,  and    can   make  the  cross  seams ^  and   the
+
+
+^  Pa/ibaddhan  (sic)  ti  ayamato  kz.  vittharato  kz.  dighamariyada-
+
+baddhaw  (B.).
+
+2  Mariyadabaddhan  (sic)  ti  antarantaraya  mariyadaya  mari-
+
+yadabaddha;;?  (B.).
+
+3  Sihgha/akabaddhan  (sic)  ti  mariyadaya  (sic)  mariyada/«  vini-
+vi^^^/zitva  gata//^ane  sihgha/akabaddliai';?.  A'atukkasawZ/^anan  ti
+attho  (B.).
+
+*  Sawvidahitun  ti  katuw  (B.).
+
+^  Kusi?«  pi 'ti  ayamato  kd.  vitliiarato  /^'a  anuvatadinaw  digha-
+pa//anaw/  etaw  adhiva>^anara  (B.).
+
+
+VIII,  12,  2.         THE    DRESS    OF    THE    BIIIKKIIUS.  209
+
+intermediate  cross  seams  \  and  the  greater  circles  ^
+and  the  lesser  circles  ^  and  the  turning  in*,  and  the
+lining  of  the  turning  in^,  and  the  collar  piece ^  and
+the  knee  piece"',  and  the  elbow  piece ^.  And  it
+shall  be  of  torn  pieces'^  roughly  sewn  together  ^^
+suitable  for  a  Sama;^a,  a  thing  which  his  enemies
+cannot  covet^\  I  enjoin  upon  you,  O  Bhikkhus,
+the  use  of  an  under  robe  of  torn  pieces,  and  of  an
+upper  robe  of  torn  pieces,  and  of  a  waist  cloth  of
+torn  pieces  '^.'
+
+^  Addka.kust  ti  antarantara  rassa-pa/Zana/w  nama/«  (B.).
+'^  Ma«(/alan   ti   pa7i/ta-kha«<fika-^ivarassa   ekekasmiw   khaw^e
+maha-maWalaw/  (B.).
+
+^  A<f<^/>^ama;/(/alan  ti  khuddaka-ma«(falaw  (B.).
+
+*  Viva//an  ti  ma;/</ala?1  y('a  a^o^a-nia/za'alafi  -^a  ekato  katva  sib-
+hitdim  ma^^>^ima-kha;/«/a//i  (B.).
+
+^  Anuviva//an  ti  tassa  ubhosu  passesu  dve  khaw^ani.  Athava
+viva//assa  ekekapassato  dvinnam  pi  ,^atunnam  pi  khaw^anam  eta;«
+nimaw  (B.).
+
+*  Giveyyakan  ti  giva-///iane  daZ-^i-karan-atthaw  z.nna.m  sutta;;^
+sibbitaw  agantuka-pa/Za/;/  (B.).
+
+^  Gahgheyyakan  ti  ^angha-papuna-//>^ane  tatth'  eva  sawsib-
+bita-pa/Zawz.  Giva-////ane  ka.  ^ahgha-///^ane  ka,  pa/Zanaw  ev'  eta;w
+naman  ti  pi  vadanti  (B.).
+
+^  Bahantan  ti  anuviva/Zanaw  bahi  ekekakhawc/aw.  Athava
+suppama«a;«  >^ivara;«  parupentena  sa/wharita  bahaya  upari  Z/zapita
+ubho  anto-bahi-mukha  tiZZ/zanti.  Tesaw  eta;«  namaw.  Ayam  eva
+hi  nayo  Maha-atthakathaya?«  vutto  ti  (B.).  This  latter  explanation
+from  bah  a  seems  evidently  more  correct  than  the  other  one  from
+bahi;  and  we  accordingly  follow  it.
+
+®  See  the  end  of  the  last  chapter.
+
+"  Satta-lfikha;  in  which  compound  the  signification  of  satta
+is  by  no  means  clear.  Buddhaghosa  has  no  note  upon  it.  Now
+it  is  curious  that  in  chapter  21,  below,  it  is  laid  down  that  the  robe
+is  to  be  sutta-liikha,  the  meaning  of  which  would  fit  this  passage
+excellendy.    We  have  accordingly  adopted  that  reading  here.
+
+"  Compare  the  similar  expressions  at  Gataka  I,  8  and  9.
+
+^^  The  general  sense  of  this  chapter  is  clear  enough.  As  an
+Indian  field,  the  common  property  of  the  village  community,  was
+
+[17]  P
+
+
+210  MAHAVAGGA.  VIII,  13,  i.
+
+
+13.
+
+1.  Now  when  the  Blessed  One  had  remained  at
+Rd^agaha  as  long  as  he  thought  fit,  he  went  forth
+on  his  journey  towards  Vesali.  And  the  Blessed
+One,  when  on  the  high  road  between  Ra^agaha  and
+Vesali,  saw  a  number  of  Bhikkhus  smothered  up  in
+robes  \  they  went  along  with  robes  made  up  into
+a  roll  ^  on  their  heads,  or  on  their  backs,  or  on  their
+waist.  And  when  the  Blessed  One  saw  them,  he
+thought :  '  With  too  great  celerity  have  these  foolish
+persons  given  themselves  up  to  superfluity  ^  in  the
+matter  of  dress.  It  would  be  well  were  I  to  confine
+the  dress  of  the  Bhikkhus  within  limits,  and  were  to
+fix  a  bound  thereto.'
+
+2.  And  the  Blessed  One,  proceeding  in  due  course
+on  his  journey  toward  Vesali,  arrived  at  that  place.
+And  there,  at  Vesali,  the  Blessed  One  stayed  at  the
+Gotamaka  shrined     And  at  that  time  in  the  cold
+
+
+divided,  for  the  purposes  of  cultivation,  across  and  across,  so  must
+also  the  Bhikkhu's  robe  be  divided.  That  some,  both  of  the  agri-
+cultural and  of  the  tailoring  terms,  should  now  be  unintelligible  to
+us  is  not  surprising.  Buddhaghosa  himself,  as  the  extracts  from
+his  commentary  show,  was  not  certain  of  the  meaning  of  them  all.
+^  Ubbhawa'ite  /tivarehi.  The  former  word  is  of  course  applied
+to  the  Bhikkhus.  Compare  Childers,  under  Bhaw^ika,  and  Gataka
+I,  504  (last  line  but  one).
+
+2  Bhisi  =  Sanskrit  Bmt.  Compare  the  14th  Pa/tittiya,  where
+we  ought  to  have  rendered  the  word  '  bolster.'  Childers  is  incorrect
+in  translating  it  by  '  mat.'
+
+3  Mentioned  also,  as  being  near  to  Vesali,  in  the  '  Book  of  the
+Great  Decease,'  III,  2.
+
+,    *Bahullayaavatta.      This  phrase  occurs  in  Mahavagga  I,
+
+
+VIII,  13,3-  THE    DRESS    OF    THE    BHIKKHUS.  211
+
+winter  nights,  in  the  period  between  the  Ash/aka
+festivals  when  the  snow  falls  \  the  Blessed  One
+sat  at  night  in  the  open  air  with  but  one  robe  on,
+and  the  Blessed  One  felt  not  cold.  As  the  first
+watch  of  the  night  was  coming  to  its  end,  the  Blessed
+One  felt  cold ;  and  he  put  on  a  second  robe,  and
+felt  not  cold.  As  the  middle  watch  of  the  night
+was  coming  to  its  end,  the  Blessed  One  felt  cold ;
+and  he  put  on  a  third  robe,  and  felt  not  cold.  As
+the  last  watch  of  the  night  was  coming  to  an  end,
+when  the  dawn  was  breaking  and  the  night  was  far
+spent ^  the  Blessed  One  felt  cold;  and  he  put  on
+a  fourth  robe,  and  felt  not  cold.
+
+3.  Then  this  thought  sprang  up  in  the  Blessed
+One's  mind  :  '  Those  men  of  good  birth ^  in  this
+doctrine  and  discipline  who  are  affected  by  cold,  and
+are  afraid  of  cold,  they  are  able  to  make  use  of  three
+robes ^.  It  were  well  if  in  confiningr  within  limits
+the  dress  of  the  Bhikkhus,  and  in  fixing  a  bound
+thereto,  I  were  to  allow  the  use  of  three  robes.'
+And  on  that  occasion  the  Blessed  One,  when  he  had
+
+
+^  See  our  note  on  the  same  phrase  at  Mahavagga  I,  20, 15.
+
+2  Nandimukhiya  rattiya.  The  derivation  of  this  phrase  is
+uncertain,  though  the  general  meaning  is  not  subject  to  doubt.
+The  Sanskrit  form  of  the  whole  phrase  will  be  found  in  the  Lalita
+Vistara  at  p.  447.  Comp.  ^Sahkhayana-gr/hya,  ed.  Oldenberg,  IV,  4,
+where  the  word  nandimukho  occurs  in  a  different  connection.
+
+^  In  the  text  read  Ye  pi  kho  kulaputta.  The  idea  is  that
+men  of  lower  grade,  being  accustomed  to  cold,  would  not  want  so
+many  robes.  But  there  must  be  one  rule  for  all ;  and  the  rule  is
+accordingly  made  to  suit  the  comfort  of  the  weaker  brethren — early
+Buddhism,  contrary  to  an  erroneous  opinion  still  frequently  ex-
+pressed, being  opposed  to  asceticism.
+
+*  Or,  '  to  get  on  with  the  three  robes.'  Compare  the  use  of
+yapetuw  in  the  'Book  of  the  Great  Decease,'  II,  32,
+
+P  2
+
+
+212  MAHAVAGGA.  VIIT,  13,  4.
+
+
+delivered  a  religious  discourse,  addressed  the  Bhik-
+khus,  and  said :
+
+4,  5.  '  When   on   the   high  road,  &c.  ...  I  saw,
+
+&c and  I  thought,  &c (all  the  chapter
+
+is  repeated  down  to  " ....  I  were  to  allow  the  use
+of  three  robes").  I  allow  you,  O  Bhikkhus,  the  use
+of  three  robes,  (to  wit),  a  double  waist  cloth,  and  a
+single  1  upper  robe,  and  a  single  under  garment  ^Z
+
+
+^  Y.\i2ikk\yz,m.  Compare  Gataka  I,  326.  Buddhaghosa  says
+dvigu;za?«  dupa//a-sa?«gha/iwi  eka/^/^iya?/z  ekapa//a?«.  Though
+'  single,'  the  lengths  of  cotton  cloth,  pieced  together,  of  which  the
+robes  were  made,  were  allowed  to  be  doubled  at  the  seams,  the
+collar,  the  elbows,  and  the  knees.     See  above,  VII,  i,  5.
+
+^  The  waist  cloth  (sa?«gha/i)  was  wrapped  round  the  waist  and
+back,  and  secured  with  a  girdle.  The  under  garment  (antara-
+vasaka;  see  also  the  end  of  this  note)  was  wrapped  round  the  loins
+and  reached  below  the  knee,  being  fastened  round  the  loins  by  an  end
+of  the  cloth  being  tucked  in  there  ;  and  sometimes  also  by  a  girdle.
+The  upper  robe  (uttarasawga)  was  wrapped  round  the  legs  from
+the  loins  to  the  ankles,  and  the  end  was  then  drawn,  at  the  back,
+from  the  right  hip,  over  the  left  shoulder,  and  either  (as  is  still  the
+custom  in  Siam,  and  in  the  Siamese  sect  in  Ceylon)  allowed  to  fall
+down  in  front,  or  (as  is  still  the  custom  in  Burma,  and  in  the  Bur-
+mese sect  in  Ceylon)  drawn  back  again  over  the  right  shoulder,
+and  allowed  to  fall  down  on  the  back.  From  the  constant  refer-
+ence to  the  practice  of  adjusting  the  robe  over  one  shoulder  as
+a  special  mark  of  respect  (for  instance,  Mahavagga  I,  29,  2 ;  IV,
+3,  3),  the  Burmese  custom  would  seem  to  be  in  accordance  with
+the  most  ancient  way  of  usually  wearing  the  robe.  The  oldest
+statues  of  the  Buddha,  which  represent  the  robe  as  falling  over
+only  one  shoulder,  are  probably  later  than  the  passages  just
+referred  to.
+
+The  ordinary  dress  of  laymen,  even  of  good  family,  in  Gotama's
+time  was  much  more  scanty  than  the  decent  dress  thus  prescribed
+for  the  Bhikkhus.  See  Rh.  D.'s  note  on  the  '  Book  of  the  Great
+Decease,'  VI,  26.  But  it  consisted  also,  like  that  of  the  Bhikkhus,
+not  in  garments  made  with  sleeves  or  trousers,  to  fit  the  limbs,  but
+in  simple  lengths  of  cloth.
+
+The  antara-vasaka  corresponds,  in  the  dress  of  the  monks,  to
+
+
+VIII,  13,  7-  THE   DRESS   OF    THE    BIIIKKHUS.  213
+
+6.  Now  at  that  time  the  A'/fabbaggiya  Bhikkhus,
+on  the  ground  that  three  robes  had  been  allowed
+by  the  Blessed  One,  used  to  frequent  the  village  in
+one  suit  of  three  robes,  and  in  another  suit  to  rest
+
+A
+
+in  the  Arama,  and  in  another  to  go  to  the  bath.
+Then  those  Bhikkhus  who  were  modest  were  an-
+noyed, murmured,  and  became  indignant,  saying,
+'  How  can  the  Av^abbaggiya  Bhikkhus  wear  extra
+suits  of  robes.'
+
+And  those  Bhikkhus  told  the  matter  to  the  Blessed
+One.  Then  the  Blessed  One  on  that  occasion,  when
+he  had  delivered  a  religious  discourse,  addressed
+the  Bhikkhus,  and  said  :
+
+*  You  are  not,  O  Bhikkhus,  to  wear  an  extra  suit
+of  robes.  Whosoever  does  so,  shall  be  dealt  with
+according  to  law\'
+
+7.  Now  at  that  time  the  venerable  Ananda  had
+acquired  an  extra  suit  of  robes,  and  the  venerable
+Ananda  was  desirous  of  giving  the  extra  suit  to  the
+venerable  Siriputta,  but  the  venerable  Siriputta  was
+staying  at  Saketa.  Then  the  venerable  Ananda
+thought: 'It  hath  been  laid  down  by  the  Blessed
+One  that  we  are  not  to  keep  an  extra  suit  of  robes.
+Now  I  have  received  one,  and  I  want  to  give  it  to
+the  venerable  S^riputta  ;  but  he  is  staying  at  Saketa.
+What  now  shall  I  do  ? '
+
+the  sa/ika  in  the  dress  of  ordinary  women,  and  was  of  the  same
+shape  as  the  u  dak  a -sa/ika,  or  bathing  dress,  prescribed  for  the
+use  both  of  monks  (below,  chapter  15)  and  of  nuns  (Bhikkhunt-
+vibhahga,  Pa-^ittiya  XXII).  The  latter  was,  however,  somewhat
+shorter.
+
+The  ordinary  dress  of  the  Bhikkhunis  or  Sisters  consisted  of  the
+same  three  garments  as  that  of  the  Bhikkhus.
+
+^  That  is,  according  to  the  first  Nissaggiya.  The  first  section  of
+the  Sutta-vibhahga  on  that  rule  is  identical  with  this  section.
+
+
+.214  MAHAVAGGA.  VIII,  13,  8.
+
+And  the  venerable  Ananda  told  this  thing  to  the
+Blessed  One.
+
+A
+
+'  How  long  will  it  be,  Ananda,  before  the  vener-
+able S^riputta  returns  ?'
+
+*  He  will  come  back,  Lord,  on  the  ninth  or  the
+tenth  day  from  now.'
+
+Then  the  Blessed  One  on  that  occasion,  when  he
+had  delivered  a  religious  discourse,  addressed  the
+Bhikkhus,  and  said :
+
+'  I  allow  you,  O  Bhikkhus,  to  keep  an  extra  suit
+of  robes  up  to  the  tenth  day\'
+
+8.  Now  at  that  time  the  Bhikkhus  used  to  get
+extra  suits  of  robes  given  to  them.  And  these  Bhik-
+khus thought :  '  What  now  should  we  do  with  extra
+suits  of  robes  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  enjoin  upon  you,  O  Bhikkhus,  to  make  over
+an  extra  suit  of  robes  (to  other  Bhikkhus  who  have
+no  robes  ^).'
+
+
+14.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Vesali  as  long  as  he  thought  fit,  he  went  onwards
+on  his  journey  towards  Benares.  And  in  due  course
+he  arrived  at  Benares,  and  there,  at  Benares,  he
+stayed  in  the  hermitage  in  the  Migadaya.
+
+Now  at  that  time  a  certain  Bhikkhu's  under  robe
+was  torn.    And  that  Bhikkhu  thought :  'The  Blessed
+
+'  So  the  first  Nissaggiya;  the  second  section  of  the  Sutta-vibhahga
+on  which  rule  is  identical  with  this  section  7.
+
+^  On  vikappetu»2,  compare  our  note  above,  the  59th Pa^ittiya,
+and  below,  chapters  20,  22.
+
+
+Vm,  14,  2.  THE    DRESS    OF    THE    BHIKKHUS.  215
+
+
+One  has  ordained  the  use  of  three  robes,  a  double
+waist  cloth,  and  a  single  upper  robe,  and  a  single
+under-garment  \  and  this  under-garment  of  mine  is
+torn.  What  if  I  were  to  insert  a  slip  of  cloth-  so
+that  the  robe  shall  be  double  all  round  and  single  in
+the  middle.'
+
+2.  So  that  Bhikkhu  inserted  a  slip  of  cloth.  And
+the  Blessed  One  on  his  way  round  the  sleeping
+apartments  saw  him  doing  so,  went  up  to  the  place
+where  he  was,  and  said  to  him  :
+
+'  What  are  you  doing,  O  Bhikkhu  ?'
+
+*  I  am  inserting  a  slip  of  cloth.  Lord.'
+
+'  That  is  very  good,  O  Bhikkhu.  It  is  quite  right
+of  you,  O  Bhikkhu,  to  insert  a  slip  of  cloth.'
+
+And  the  Blessed  One  on  that  occasion,  when  he
+had  delivered  a  religious  discourse,  addressed  the
+Bhikkhus,  and  said  :
+
+'  I  allow  you,  O  Bhikkhus,  to  use  a  double  waist
+cloth,  and  a  single  upper  robe,  and  a  single  under-
+garment, of  cloths  which  are  new,  or  as  good  as
+new  3;  and  the  use  of  a  fourfold  waist  cloth,  and  of
+a  double  upper  robe,  and  of  a  double  under  robe  of
+cloth  which  has  been  worn  for  a  long  time.  You
+are  to  make  endeavour  to  get  sufficient  material
+from  rags  taken  from  the  dust-heap  \  or  from  bits
+picked  up  in  the  bazaar*.  I  allow  you,  O  Bhikkhus,
+slips  of  cloth  inserted  bolt-like  to  hold  a  torn  robe
+
+
+^  See  above,  VIII,  13,  5.
+
+"  Buddhaghosa  says,  Agga/awz  a>^/^/zadeyyan  (sic)  ti  /t/^inna-
+///mwe  pilotika-khaWaw  laggapeyyaw.  The  word  occurs  at  Gataka
+I,  8,  where  the  liability  to  want  such  an  insertion  is  given  as  one  of
+the  nine  disadvantages  of  a  robe  from  the  ascetic's  point  of  view.
+
+^  Ahata-kappanaw.     See  above, VII,  i,  6.
+
+*  See  our  notes  on  these  expressions  above,  VII,  i,  6.
+
+
+2l6  MAHAVAGGA.  VIII,  15,  i.
+
+together,  patches  ^  darns  2,  and  small  pieces  of  cloth
+sewn  on  by  way  of  marking  ^  or  of  strengthening  ^
+the  robe/
+
+
+15.
+
+I.  Now  when  the  Blessed  One  had  remained  at
+Benares  as  long  as  he  thought  fit,  he  went  onwards
+on  his  journey  toward  Savatthi.  And  in  due  course
+journeying  straight  on  he  arrived  at  Savatthi ;  and
+there,   at    Savatthi,    he    stayed    at   the   C'etavana,
+
+A
+
+Anitha-pi;2^ika's  Arama.  And  Visakha  the  mother
+of  Migara  went  up  to  the  place  where  the  Blessed
+One  was ;  and  when  she  had  come  there,  she
+saluted  the  Blessed  One,  and  took  her  seat  on  one
+side.  And  the  Blessed  One  taught  Visakhi  the
+mother  of  Migara  seated  thus :  and  incited,  and
+aroused,  and  gladdened  her  with  religious  dis-
+course. And  Visakha  the  mother  of  Migara  when
+she  had  been  thus  taught,  &c.,  spake  thus  to  the
+Blessed  One :  *  Will  my  Lord  the  Blessed  One
+consent  to  accept  his  morrow's  meal  at  my  hands,
+together  with  the  company  of  the  Bhikkhus  ?'  The
+Blessed  One,  by  remaining  silent,  granted  his  con-
+sent ;  and  Visakhd  the  mother  of  Migara,  perceiving
+that  the  Blessed  One  had  consented,  rose  from  her
+seat,  and  saluted  the  Blessed  One,  and  keeping  him
+on  her  right  side  as  she  passed  him,  she  departed
+thence.
+
+^  This  liability  to  have  to  be  patched  is  given,  in  connection
+with  the  previous  phrase,  as  one  of  the  nine  disadvantages  of  robes
+at  Ga.t3.kdi  I,  8;  and  tunnavaya  occurs  as  the  expression  for  a
+mender  of  old  clothes  at  ^ullavagga  VI,  5,  i.
+
+^  See  our  notes  on  these  expressions  above,  VII,  i,  5.
+
+
+VIII,  15,  3-         T^IE    DRESS    OF    THE    BIIIKKIIUS.  217
+
+
+2.  Now  at  that  time,  when  the  night  was  far
+spent,  there  was  a  great  storm  of  rain  over  the
+whole  world  ^     And   the  Blessed  One  said  to  the
+
+Bhikkhus :
+
+'Just  as  it  is  raining  in  the  Cetavana,  O
+Bhikkhus,  so  is  it  raining  over  the  whole  world.
+Let  yourselves,  O  Bhikkhus,  be  rained  down  upon,
+for  this  is  the  last  time  there  will  be  a  mighty  storm
+of  rain  over  the  whole  world.'
+
+'  Even  so.  Lord,'  said  those  Bhikkhus  in  assent  to
+the  Blessed  One  ;  and  throwing  off  their  robes  they
+let  themselves  be  rained  down  upon.
+
+3.  And  Visakha  the  mother  of  Migara  having
+provided  sweet  food,  both  hard  and  soft,  gave  com-
+mand to  a  slave  girl,  saying,
+
+•Go  thou  2  to  the  Arama ;  and  when  you  are
+there,  announce  the  time,  saying,  "  The  time.  Sirs,
+has  arrived,  and  the  meal  is  ready." '
+
+'  Even  so,  my  Lady,'  said  the  slave  girl  in  assent
+to  Visakha,  the  mother  of  Migira ;  and  going  to
+the  Arama  she  beheld  there  the  Bhikkhus,  with
+their  robes  thrown  off,  letting  themselves  be  rained
+down  upon.  Then  thinking,  '  These  are  not  Bhik-
+khus in  the  Arama,  they  are  naked  ascetics  letting
+the  rain  fall  on  them,'  she  returned  to  the  place
+where  Visakha  the  mother  of  Migara  was,  and  said
+to  her :
+
+'  There  are  no  Bhikkhus  in  the  Arama ;  there  are
+
+
+^  A'atuddipiko,  literally, ' over  the  four  continents,'  into  which
+the  world  was  supposed  to  be  divided.     Compare  Genesis  vii.  44^.
+
+2  G?ikkh2i  ge;  where  ^e  is  the  appropriate  form  of  address
+invariably  used  to  a  female  slave  or  maid- servant.  Compare
+Childers,  in  the  'Dictionary,'  p.  617.
+
+
+2 1 8  MAHAVAGGA.  VITI,  15,  4.
+
+naked  ascetics  there,  letting  the  rain  fall  on  them-
+selves.'
+
+Then  it  occurred  to  Visakha  the  mother  of
+Migara — she  being  learned,  expert,  and  wise — '  For
+a  certainty  the  venerable  ones  must  have  thrown
+off  their  robes  in  order  to  let  themselves  be  rained
+down  upon,  and  this  foolish  girl  thinks  therefore  that
+there  are  no  Bhikkhus  in  the  Arama,  but  only
+naked  ascetics  letting  the  rain  fall  on  them,*  And
+she  again  gave  command  to  the  slave  girl,  saying,
+
+*  Go  thou  to  the  Arama ;  and  when  you  are  there,
+announce  the  time,  saying,  "The  time,  Sirs,  has
+arrived,  and  the  meal  is  ready." '
+
+4.  Now  the  Bhikkhus  when  they  had  cooled  their
+limbs,  and  were  refreshed  in  body,  took  their  robes,
+and  entered  each  one  into  his  chamber.  When  the
+slave  girl  came  to  the  Arama,  not  seeing  any  Bhik-
+khus, she  thought :  '  There  are  no  Bhikkhus  in  the
+
+A  A
+
+Arama.     The  Arama  is  empty.'     And  returning  to
+Visakha  the  mother  of  Migara  she  said  so.
+
+Then  it  occurred  to  Visakha  the  mother  of  Mi-
+gara— she  being  learned,  expert,  and  wise — *  For
+a  certainty  the  venerable  ones,  when  they  had  cooled
+their  limbs  and  were  refreshed  in  body,  must  have
+taken  their  robes,  and  entered  each  one  into  his
+chamber.'  And  she  again  gave  command  to  the
+slave  girl,  saying,
+
+*  Go  thou  to  Arama ;  and  when  you  are  there
+announce  the  time,  saying,  "  The  time,  Sirs,  has
+arrived,  and  the  meal  is  ready." '
+
+5.  And  the  Blessed  One  said  to  the  Bhikkhus  :
+'  Make  yourselves  ready,  O  Bhikkhus,  with  bowl
+and  robe ;  the  hour  for  the  meal  has  come.'
+
+*  Even  so.  Lord,'  said  the  Bhikkhus  in  assent  to
+
+
+VIII,  15,  7-  T'^E    DRESS    OF    THE    BIIIKKIIUS.  219
+
+
+the  Blessed  One.  And  in  the  morning  the  Blessed
+One,  having  put  on  his  under-garment,  and  being
+duly  bowled  and  robed,  vanished  from  the  6^etavana
+as  quickly  as  a  strong  man  would  stretch  forth  his
+arm  when  it  was  drawn  in,  or  draw  it  in  again  when
+it  was  stretched  forth,  and  appeared  in  the  mansion  ^
+of  Visakha  the  mother  of  Migara.  And  the  Blessed
+One  took  his  seat  on  the  seat  spread  out  for  him,
+and  with  him  the  company  of  the  Bhikkhus.
+
+6.  Then  said  Visakha  the  mother  of  Migara:
+'  Most  wonderful,  most  marvellous  is  the  might  and
+the  power  of  the  Tathagata,  in  that  though  the
+floods  are  rolling  on  knee-deep,  and  though  the
+floods  are  rolling  on  waist-deep,  yet  is  not  a  single
+Bhikkhu  wet,  as  to  his  feet,  or  as  to  his  robes.'
+And  elad  and  exalted  in  heart  she  served  and
+offered  with  her  own  hand  to  the  company  of  the
+Bhikkhus,  with  the  Buddha  at  their  head,  sweet
+food,  both  hard  and  soft.  And  when  the  Blessed
+One  had  finished  his  meal,  and  had  cleansed  his
+hands  and  the  bowl,  she  took  her  seat  on  one  side.
+And,  so  sitting,  she  spake  thus  to  the  Blessed  One :
+
+'  Eight  are  the  boons.  Lord,  which  I  beg  of  the
+Blessed  One.'
+
+'  The  Tathagatas,  O  Visakhd,  are  above  granting
+boons  (before  they  know  what  they  are)  2.'
+
+'  Proper,  Lord,  and  unobjectionable  are  the  boons
+I  ask.'
+
+'  Speak  then,  O  Visakha.'
+
+7.    '  I  desire.  Lord,  my  life  long  to  bestow  robes
+
+^  Ko/Maka  does  not  only  mean  a  room,  as  given  by  Childers :
+it  signifies  here,  as  at  Gataka  I,  227,  a  battlemented  dwelling,  the
+house  of  a  person  of  rank.
+
+"^  See  our  note  on  this  phrase  at  I,  54,  4.
+
+
+2  20  MAHAVAGGA.  VIII,  15,  8.
+
+
+for  the  rainy  season  on  the  Sawgha,  and  food  for
+in-coming  Bhikkhus,  and  food  for  out-cfoine  Bhik-
+khus,  and  food  for  the  sick,  and  food  for  those  who
+wait  upon  the  sick,  and  medicine  for  the  sick,  and
+a  constant  supply  of  congey,  and  bathing  robes  for
+the  nuns.'
+
+'  But  what  circumstance  is  it,  O  Visakha,  that  you
+have  in  view  in  asking  these  eight  boons  of  the
+Tatha^ata  ? '
+
+'  I  gave  command,  Lord,  to  my  slave  girl,  saying,
+"  Go  thou  to  the  Arama ;  and  when  you  are  there,
+announce  the  time,  saying,  '  The  time,  Sirs,  has
+arrived,  and  the  meal  is  ready.'  "  And  the  slave
+girl  went.  Lord,  to  the  Arama ;  but  when  she  beheld
+there  the  Bhikkhus  with  their  robes  thrown  off,
+letting  themselves  be  rained  down  upon,  she  thought :
+"  These  are  not  Bhikkhus  in  the  Arama,  they  are
+naked  ascetics  letting  the  rain  fall  on  them,"  and  she
+returned  to  me  and  reported  accordingly.  Impure,
+Lord,  is  nakedness,  and  revolting.  It  was  this
+circumstance,  Lord,  that  I  had  in  view  in  desiring
+to  provide  the  Sawgha  my  life  long  with  special
+garments  for  use  in  the  rainy  season  ^
+
+8.  '  Moreover,  Lord,  an  in-coming  Bhikkhu,  not
+being  able  to  take  the  direct  roads,  and  not  knowing
+the  places  where  food  can  be  procured,  comes  on  his
+way  wearied  out  by  seeking  for  an  alms.  But  when
+he  has  partaken  of  the  food  I  shall  have  provided
+for  in-coming  Bhikkhus,  he  will  come  on  his  way
+without  being  wearied  out  by  seeking  for  an  alms,
+taking  the  direct  road,  and  knowing  the  place  where
+food   can  be    procured.      It  was    this    circumstance
+
+^  See  below,  the  note  on  §  15.
+
+
+VIII,  15,  9-     •     THE    DRESS    OF    THE    BHIKKHUS.  22  1
+
+that  I  had  in  view  in  desiring  to  provide  the
+Sawgha  my  Hfe  long  with  food  for  in-coming
+Bhikkhus.
+
+'  Moreover,  Lord,  an  out-going  Bhikkhu,  while
+seeking  about  for  an  alms  for  himself,  may  be  left
+behind  by  the  caravan  \  or  may  arrive  too  late  at
+the  place  whither  he  desires  to  go,  and  will  set
+out  on  the  road  in  weariness.  But  when  he  has
+partaken  of  the  food  I  shall  have  provided  for  out-
+going Bhikkhus,  he  will  not  be  left  behind  by  the
+caravan ;  he  will  arrive  in  due  time  at  the  place
+whither  he  desires  to  go,  and  he  will  set  out  on  the
+road  when  he  is  not  weary.  It  was  this  circum-
+stance. Lord,  that  I  had  in  view  in  desiring  to
+provide  the  Sa;;/gha  my  life  long  with  food  for
+out-going  Bhikkhus.
+
+9.  '  Moreover,  Lord,  if  a  sick  Bhikkhu  does  not
+obtain  suitable  foods  his  sickness  may  increase  upon
+him,  or  he  may  die.  But  if  a  Bhikkhu  have  taken
+the  diet  that  I  shall  have  provided  for  the  sick,
+neither  will  his  sickness  increase  upon  him,  nor  will
+he  die.  It  was  this  circumstance.  Lord,  that  I  had
+in  view  in  desiring  to  provide  the  Sawgha  my  life
+lonof  with  diet  for  the  sick.
+
+'  Moreover,  Lord,  a  Bhikkhu  who  is  waiting  upon
+the  sick,  if  he  has  to  seek  out  food  for  himself,  may
+bring  in  the  food  (to  the  invalid)  when  the  sun  is
+already  far  on    his    course  2,  and   he  will    lose    his
+
+
+^  Compare  sukha  vihayati  in  the  Sigalovada  Sutta  at  p.  302
+of  Grimblot's  '  Sept  Suttas  Palis.'
+
+-  Compare  Ussfira-seyyo  in  the  Sigalovada  Sutta  at  p.  302
+of  Grimblot's  'Sept  Suttas  Palis;'  and  Bohdingk-Roth,  under
+utsiira.
+
+
+222  MAHAVAGGA.  .  VIII,  15,  10.
+
+opportunity  of  taking  his  food  ^  But  when  he  has
+partaken  of  the  food  I  shall  have  provided  for  those
+who  wait  upon  the  sick,  he  will  bring  in  food  to
+the  invalid  in  due  time,  and  he  will  not  lose  his
+opportunity  of  taking  his  food.  It  was  this  cir-
+cumstance, Lord,  that  I  had  in  view  in  desiring  to
+provide  the  Sa;;2gha  my  life  long  with  food  for
+those  who  wait  upon  the  sick.
+
+10.  '  Moreover,  Lord,  if  a  sick  Bhikkhu  does  not
+obtain  suitable  medicines  his  sickness  may  increase
+upon  him,  or  he  may  die.  But  if  a  Bhikkhu  have
+taken  the  medicines  which  I  shall  have  provided  for
+the  sick,  neither  will  his  sickness  increase  upon  him,
+nor  will  he  die.  It  was  this  circumstance.  Lord,
+that  I  had  in  view  in  desiring  to  provide  the  Sa?;2gha
+my  life  long  with  medicines  for  the  sick.
+
+'  Moreover,  Lord,  the  Blessed  One  when  at
+Andhakavinda,  having  in  view  the  ten  advantages
+thereof,  allowed  the  use  of  congey^.  It  was  those
+advantages  I  had  in  view,  Lord,  in  desiring  to
+provide  the  Sa?;^gha  my  life  long  with  a  constant
+supply  of  congey.
+
+11.  '  Now,  Lord,  the  Bhikkhunis  are  in  the  habit
+of  bathing  in  the  river  AX'iravati  with  the  courte-
+sans, at  the  same  landing-place,  and  naked.  And
+the  courtesans,  Lord,  ridiculed  the  Bhikkhunis,
+saying,  "  What  is  the  good,  ladies,  of  your  maintain-
+ing 3  chastity  when  you  are  young  ?     are   not  the
+
+^  Bhatta>^/J/^eda»z  karissati,  because  he  may  not  eat  solid
+food  after  sun-turn.
+
+2  See  Mahavagga  VI,  24.  The  ten  advantages  are  enumerated
+in  §  5  there.
+
+^  In  the  text  read  k'mnena.  Compare  Bhikkhuni-vibhahga,
+Paiittiya  XXI,  i,  where  the  whole  passage  recurs.  The  first  sen-
+tence also  recurs  ibid.,  PaX:ittiya  II.
+
+
+VIII,  15,  13-  THE    DRESS    OF    THE    BHIKKHUS.  223
+
+
+passions  things  to  be  indulged  ?  When  you  are  old,
+maintain  chastity  then  ;  thus  will  you  be  obtainers
+of  both  ends."  Then  the  Bhikkhunis,  Lord,  when
+thus  ridiculed  by  the  courtesans,  were  confused.
+Impure,  Lord,  is  nakedness  for  a  woman,  disgusting,
+and  revolting.  It  was  this  circumstance.  Lord,  that
+I  had  in  view  in  desiring  to  provide  the  Bhikkhuni-
+sawgha  my  life  long  with  dresses  to  bathe  in.'
+
+12.  'But  what  was  the  advantage  you  had  in
+view  for  yourself,  O  Visakha,  in  asking  these  eight
+boons  of  the  Tathagata?'
+
+'  Bhikkhus  who  have  spent  the  rainy  seasons  in
+various  places  will  come.  Lord,  to  Savatthi,  to  visit
+the  Blessed  One.  And  on  coming  to  the  Blessed
+One  they  will  ask,  saying,  "  Such  and  such  a  Bhik-
+khu.  Lord,  has  died.  Where  has  he  been  re-born,
+and  what  is  his  destiny?"  Then  will  the  Blessed
+One  explain  that  he  had  attained  to  the  fruits  of
+conversion,  or  of  the  state  of  the  Sakadagamins,
+or  of  the  state  of  the  Anagamins,  or  of  Arahatship^
+And  I,  going  up  to  them,  shall  ask,  "Was  that
+brother.  Sirs,  one  of  those  who  had  formerly  been
+at  Savatthi  ?"
+
+13.  'If  they  should  reply  to  me,  "He  had  for-
+merly been  at  Savatthi,"  then  shall  I  arrive  at  the
+conclusion,  "  For  a  certainty  did  that  brother  enjoy
+either  the  robes  for  the  rainy  season,  or  the  food  for
+the  in-coming  Bhikkhus,  or  the  food  for  the  out-
+going Bhikkhus,  or  the  food  for  the  sick,  or  the
+food    for   those    that   wait    upon    the    sick,    or   the
+
+
+^  A  conversation  of  the  kind  here  referred  to  is  related,  as  having
+actually  taken  place  at  Nadika,  in  the  '  Book  of  the  Great  Decease,'
+II,  5-8.
+
+
+2  24  MAHAVAGGA.  VIII,  15,  14.
+
+medicine  for  the  sick,  or  the  constant  supply  of
+congey."  Then  will  gladness  spring  up  within  me
+on  my  calling  that  to  mind;  and  joy  will  arise  to
+me  thus  gladdened ;  and  so  rejoicing  all  my  frame
+will  be  at  peace ;  and  being  thus  at  peace  I  shall
+experience  a  blissful  feeling  of  content ;  and  in  that
+bliss  my  heart  will  be  at  rest ;  and  that  will  be  to
+me  an  exercise  of  my  moral  sense,  an  exercise  of
+my  moral  powers,  an  exercise  of  the  seven  kinds
+of  wisdom  ^ !  This,  Lord,  was  the  advantage  I  had
+in  view  for  myself  in  asking  those  eight  boons  of
+the  Blessed  One.'
+
+14.    'It  is  well,  it  is  well,  Visakha.     Thou  hast
+
+
+^  The  succession  of  ideas  in  this  paragraph  is  very  suggestive,
+and  throws  much  Ught  both  upon  the  psychological  views  and
+upon  the  religious  feelings  of  the  early  Buddhists.  The  exact
+rendering  of  course  of  the  abstract  terms  employed  in  the  Pali
+text  is  no  doubt,  as  yet,  beset  with  difficulty,  for  the  reasons  pointed
+out  in  Rh.  D.'s  '  Buddhist  Suttas  from  the  Pali,'  pp.  xxv,  xxvi ;  but
+the  general  sense  of  the  passage  is  already  sufficiently  clear.  For
+one  or  two  words  we  have  no  real  and  adequate  equivalent.
+
+Kaya  is  neither  'body'  nor  'faculties;'  it  is  the  whole  frame,
+the  whole  individuality,  looked  at  rather  objectively  than  sub-
+jectively, and  rather  from  the  outward  and  visible  than  from  the
+inner,  metaphysical,  stand-point.  Compare  the  use  of  Sakkaya-
+di/Z/zi  and  of  Kayena  passati.
+
+Sukha  is  not  so  much  'happiness,'  simply  and  vaguely,  as  the
+serenity  of  the  bliss  which  follows  on  happiness.  It  is  contrasted
+with,  and  follows  after,  pamo^^a  and  piti,  in  the  same  way  as  in
+this  passage,  in  the  standing  description  of  the  GMn^s  (translated
+by  Rh.  D.  in  the  Maha-sudassana  Sutta  II,  5-8,  in  the  'Buddhist
+Suttas,'  p.  272).  Its  opposite,  Dukkha,  is  a  positive  state  of  pain,
+and  in  comparison  with  this,  sukha  is  negative,  the  absence  of
+pain.
+
+^itta  is  always  more  emotional  than  intellectual.  It  has  the
+connotation,  not  of  '  mind,'  as  is  usually  and  erroneously  supposed,
+but  of  '  heart.'
+
+
+Till,  15,  rS-         THE    DRESS    OF    THE   BIIIKKHUS.  225
+
+
+done  well  in  asking  eight  boons  of  the  Tathagata
+with  such  advantages  in  view.'
+
+And  the  Blessed  One  gave  thanks  to  Visakha
+the  mother  of  Migara  in  these  verses  ;  ^
+
+'  Whatsoever  woman,  upright  in  life,  a  disciple  of
+the  Happy  One,  gives,  glad  at  heart  and  overcom-
+ing avarice,  both  food  and  drink — a  gift,  heavenly,
+destructive  of  sorrow,  productive  of  bliss, —
+
+'  A  heavenly  life  does  she  attain,  entering  upon
+the  Path  that  is  free  from  corruption  and  impurity ;
+
+'  Aiming  at  good,  happy  does  she  become,  and
+free  from  sickness,  and  long  does  she  rejoice  in
+a  heavenly  body.'
+
+And  when  the  Blessed  One  had  given  thanks  to
+Visakha  the  mother  of  Migara  in  these  verses,  he
+arose  from  his  seat,  and  departed  thence.
+
+15.  Then  the  Blessed  One  on  that  occasion,
+after  he  had  delivered  a  religious  discourse,  ad-
+dressed the  Bhikkhus,  and  said :
+
+*  I  allow  you,  O  Bhikkhus,  garments  for  the  rainy
+season  \  and  food  for  in-coming  Bhikkhus,  and  food
+for  out-going  Bhikkhus,  and  diet  for  the  sick,  and
+food  for  those  that  wait  upon  the  sick,  and  medicine
+for  the  sick,  and  a  constant  supply  of  congey,  and
+bathing  robes  for  the  sisterhood.'
+
+
+Here  ends  the  chapter  called  the
+Visakha-bha;^avara.
+
+
+^  The  size  of  such  a  garment  is  Hmited  by  the  91st  Pa^-ittiya  to
+six  spans  by  two-and-a-half— that  is  just  enough  to  go  round  the
+loins  from  the  waist  half  down  to  the  knee.  It  would  be  decent,
+and  yet  avoid  the  disadvantage  of  wearing  the  robes  in  the  rain,
+where  they  would  become  wet  and  heavy  in  the  manner  described,
+for  instance,  at  Mahavagga  VII,  1,1.
+
+[17]  Q
+
+
+2  26  MAHAVAGGA.  VIII,  i6,  i.
+
+
+16.
+
+I,  2.  Now  at  that  time  Bhikkhus  who  had  eaten
+sweet  foods  went  to  sleep  unmindful  and  unthought-
+ful.     And    they    who    had    thus    gone    to    sleep,
+
+dreamed^
+
+3 'I  allow,  O  Bhikkhus,  for  the  protection
+
+of  the  body,  and  of  the  robe,  and  of  the  sleeping-
+place,  the  use  of  a  mat'
+
+4.  Now  at  that  time  the  mat,  being  too  shorty
+did  not  protect  the  whole  of  the  sleeping-place.
+
+*  I  allow  you,  O  Bhikkhus,  to  have  a  covering
+made  as  large  as  you  like.'
+
+
+173.
+
+I.  Now  at  that  time  the  venerable  Bela///^asisa,
+the  superior  of  the  venerable  Ananda,  had  a  disease
+of  thick  scabs;  and  by  reason  of  the  discharge
+thereof  his  robes  stuck  to  his  body.  The  Bhikkhus
+moistened  those  robes  with  water,  and  loosened
+them  (from  his  body).
+
+The  Blessed  One,  as  he  was  going  on  his  rounds
+through  the  sleeping- places,  saw  them  [doing  so],
+and  going  up  to  the  place  where  they  were,  he
+asked  them :
+
+
+^  The  remainder  of  this  introductory  story  scarcely  bears  trans-
+lation. The  first  sentences  recur  in  the  Sutta-vibhahga,  Saw/ghadi-
+sesa  I,  2,  I,  and  Pa/^ittiya  V,  i,  i.
+
+2  The  length  of  a  mat  (nisi dan a7?z)  was  limited  by  the  89th
+Pa/l'ittiya  to  two  spans  by  one.
+
+^  This  introductory  story  is  also  given  as  the  introduction  to
+Mahavagga  VI,  9.
+
+
+VIII,  l8,  I.  THE    DRESS    OF    THE    BHHCKHUS.  22/
+
+
+'  What  is  the  matter,  O  Bhikkhus,  with  this
+Bhikkhu  ?'
+
+'  The  venerable  one  has  the  disease  of  thick
+scabs ;  and  by  reason  of  the  discharge  thereof  his
+robes  stick  to  his  body.  So  we  are  moistening
+those  robes  thoroughly  with  water,  to  loosen  them
+(from  his  body).'
+
+2.  Then  the  Blessed  One  on  that  occasion,  after
+having  delivered  a  religious  discourse,  addressed  the
+Bhikkhus,  and  said  :
+
+'  I  allow,  O  Bhikkhus,  to  whomsoever  has  the  itch,
+or  boils,  or  a  discharge,  or  scabs,  the  use  of  an
+itch-cloth  ^'
+
+
+18.
+
+I.  Now  Visakha  the  mother  of  Migara  took  a  cloth
+for  wiping  the  face,  and  went  up  to  the  place  where
+the  Blessed  One  was.  And  on  arriving  there,  she
+saluted  the  Blessed  One,  and  took  her  seat  on  one
+side,  and,  so  sitting,  Visakha  the  mother  of  Migara
+spake  thus  to  the  Blessed  One  :
+
+*  May  the  Blessed  One  be  pleased  to  accept  of
+me  this  cloth  for  wiping  the  face,  that  that  may  be
+to  me  for  a  long  time  for  a  blessing  and  for  good.'
+
+And  the  Blessed  One  accepted  the  cloth  for
+wiping  the  face.  And  he  taught,  and  incited,  and
+aroused,  and  gladdened  Visakha  the  mother  of
+Migara  with  religious  discourse.  And  she,  so
+taught   &c.,  rose  from   her   seat,  and   saluted   the
+
+^  According  to  the  90th  Pa/('ittiya  such  a  cloth  must  not  be  more
+than  four  spans  in  length,  and  two  in  breadth.
+
+Q   2
+
+
+2  28  MAHAVAGGA.  VIII,  19,  i.
+
+
+Blessed  One,  and  passing  him  on  her  right  side,  she
+departed  thence.
+
+Then  the  Blessed  One  on  that  occasion,  after
+having  delivered  a  religious  discourse,  addressed
+the  Bhikkhus,  and  said  :
+
+'  I  allow  you,  O  Bhikkhus,  a  cloth  to  wipe  your
+faces  with.'
+
+
+19.
+
+I.  Now  at  that  time  Ro^a  the  Malla  was  a  friend
+of  the  venerable  Ananda's^  And  a  linen  cloth
+belonging  to  Ro/a  the  Malla  had  been  deposited
+in  the  keeping  of  the  venerable  Ananda ;  and  the
+venerable  Ananda  had  need  of  a  linen  cloth.
+
+They  told  this  matter  to  the  Blessed  One.
+
+*  I  allow  you,  O  Bhikkhus,  to  take  a  thing  on
+trust  (that  it  would  be  given  to  you)  when  it
+belongs  to  a  person  possessed  of  these  five  qualifi-
+cations— he  must  be  an  intimate  and  familiar  friend
+who  has  been  spoken  to  (about  it)  ^  and  is  alive,
+(and  the  Bhikkhu  taking  the  thing)  must  know  "He
+will  remain  pleased  with  me  after  I  have  taken  it."
+I  allow  you,  O  Bhikkhus,  to  take  a  thing  on  trust
+(that  it  would  be  given  to  you)  ^  when  it  belongs  to
+a  person  possessed  of  these  five  qualifications.'
+
+
+^  He  is  also  mentioned  as  such  in  Mahavagga  VI,  36.
+
+2  Buddhaghosa  says,  Alapito  ti  mama  santaka/w  gawhahi  ya»?
+i/^/^>^eyyasiti  eva»2  vutto.
+
+^  Vissasaw  gahetuw,  on  which  phrase  compare  vissasa
+gawhati  in  chapter  31,  below,  where  the  context  leaves  no  doubt
+
+
+as  to  its  meaning.
+
+
+VIII,  20,  2.         THE    DRESS    OF    THE    BHIKKHUS.  2  29
+
+
+20.
+
+1.  Now  at  that  time  the  Bhikkhus  were  fully
+provided  with  the  three  robes,  but  they  had  need
+of  water-strainers  ^  and  of  bags  (to  carry  their  bowls
+and  other  things  in)  -.
+
+They  told  this  matter  to  the  Blessed  One.
+'  I  allow  you,  O  Bhikkhus,  pieces  of  cloth  requisite
+(for  those  purposes).'
+
+2.  Then  it  occurred  to  the  Bhikkhus :  '  The
+things  allowed  by  the  Blessed  One — the  three
+robes,  and  the  robes  for  the  rainy  season,  and  the
+mat,  and  the  bed-covering,  and  the  cloth  to  cover
+boils  &c.  with,  and  to  wipe  the  face  with,  and
+required  (for  water-strainers  and  bags) — are  all
+these  things  things  which  ought  to  be  kept  to
+ourselves  ^  or  things  which  ought  to  be  handed
+over^  (from  time  to  time  by  one  Bhikkhu  to
+another)  ? '
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  keep  in  hand  the
+three  robes,  and  not  to  assign  them — to  keep  to
+yourselves  the  robes  for  the  rainy  season  during  the
+four  months  of  the  rains,  but  beyond  that  time  to
+hand  them  over — to  keep  to  yourselves  the  mats
+and  the  bed  coverings,  and  not  to  hand  them  over —
+to  keep  to  yourselves  the  coverings  for  the  itch  &c.
+while   the   disease  lasts,   but  beyond   that   time    to
+
+
+'  Compare  ^uUavagga  VI,  13.
+
+2  Compare  the  passages  given  in  the  index  to  the  text  of  the
+A'uUavagga,  p.  355,  s.  v.  thavika.
+
+*  Compare  below,  VIII,  24,  3.
+
+*  Compare  above,VIII,  8,  3.
+
+
+2-10  MAHAVAGGA.  YIII,  21,  i.
+
+
+•J
+
+
+hand  them  over — to  keep  to  yourselves  the  cloths
+to  wipe  the  face  with,  and  those  required  for  water-
+strainers  and  ba^s,  and  not  to  hand  them  over.'
+
+
+21.
+
+I.  Now  the  Bhikkhus  thought :  '  What  is  the  limit
+for  the  size  of  a  robe  up  to  which  it  ought  to  be
+handed  over  to  another  BhikkhuV
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  I  prescribe,  O  Bhikkhus,  to  hand  over  any  robe
+which  is  in  length  eight  inches  according  to  the
+accepted  inch  ^.'
+
+Now  at  that  time  a  robe  belonging  to  the  vener-
+able Maha  Kassapa,  which  had  been  made  of  cast-off
+pieces  of  cloth  became  heavy  (by  reason  of  the
+weight  of  the  new  pieces  tacked  on  to  it^).
+
+They  told  this  matter  to  the  Blessed  One.
+
+*  I  allow  you,  O  Bhikkhus,  to  darn  it  roughly
+together  with  thread*,'
+
+It  was  uneven  at  the  end^.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  remove  the  uneven-
+
+
+ness^
+
+
+^  See  VIII,  13,  8,  and  our  note  on  the  59th  Pa-^ittiya.
+
+2  See  our  note  on  this  word  in  the  92nd  Pa/^ittiya.
+
+^  So  explains  the  commentary,  K/imna.-Ma.nQ  aggalaropanena
+garuko  hoti.
+
+*  Suttalukhara  katun  ti  sutten'  eva  aggala/w  katun  ti  attho
+(B.).     Compare  above,  chapter  12.  2.
+
+^  Y'lkznno  ti  suttam  a?l/^itva  sibbantana;«  eko  sanigMA-kono
+digho  hoti,  says  Buddhaghosa.  Vikawwaka  in  the  233rd  (?ataka
+seems  to  mean  '  harpoon.'
+
+"  Vika««am  uddharitun  ti  digha-ko«aw  /(7/inditu7«  (B.).
+
+
+VITT,  2r,2.         THE    DRESS    OF    THE    BIIIKKHUS.  231
+
+The  threads  frayed  out  \
+
+They  told  this  matter  to  the  Blessed  One.
+
+*  I  allow  you,  O  Bhikkhus,  to  put  a  braiding  or
+a  binding  along  or  round  (the  edge)  -.'
+
+Now  at  that  time  the  ribbons^  of  the  under
+garment  gave  way*.
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  I  allow  you,  O  Bhikkhus,  to  make  an  eight-
+footed  .  .  .  ^'
+
+2.  Now  at  that  time  when  a  set  of  robes  was
+being  made  for  a  certain  Bhikkhu  it  was  impossible
+to  make  it  entirely  from  torn  pieces  of  cloth ".
+
+'  I  allow  you,  O  Bhikkhus,  to  have  two  of  the
+robes  made  of  torn  pieces  of  cloth,  and  one  of  cloth
+not  torn.'
+
+It  was  impossible  to  make  two  of  the  robes  of
+torn  pieces  of  cloth,  and  one  of  cloth  not  torn.
+
+'  I  allow  you,    O   Bhikkhus,  to  make  two  robes
+
+'  Okirati(sic)  ti  X7iinna-ko;/ato  ga/ati  (B.).  Ga/ati  at  VI,  13,  i,
+is  'ran  over,'  whereas  okiriyanti  at  the  corresponding  passages
+VI,  12,  I,  2,  is 'were  spilt.'  Probably  the  above  rendering  is  the  real
+meaning  here,  as  the  threads  could  not  be  literally  spilt  or
+sprinkled.
+
+"^  On  these  difficult  technical  terms  Buddhaghosa  provokingly
+says,  anuvataw  paribha«r/am  anuvataTi  k'  eva  paribham/a;«.
+Childers,  under  the  first,  has  merely '  with  the  wind,'  and  under  the
+second, '  girdle.'  The  same  expressions  occur  also  above,  at  VII,
+I,  5,  where  Buddhaghosa  again  only  explains  the  words  by  the
+words  themselves.
+
+'  We  probably  ought  to  read  paZ/a,  not  patta;  but  what  is
+meant  by  the  ribbons  of  the  sa»zgha/i  is  very  doubtful.  Buddha-
+ghosa says  nothing.
+
+*  For  lu^^^^ati  compare  palu^^ati.
+
+^  What  this  is  is  again  uncertain,  and  Buddhaghosa  gives  no
+help.
+
+"  See  above,  chapter  11,  at  the  end.
+
+
+232  MAHAVAGGA.  VIII,  22,  i-
+
+(out  of  the  set)  of  untorn  pieces,  and  one  of  torn
+pieces.'
+
+Even  this  was  impossible.
+
+'  I  allow  you,  O  Bhikkhus,  to  make  (each  robe  out
+of  the  set)  half  (from  torn  pieces)  and  half^  (from
+untorn  pieces).  But  a  set  of  robes  made  entirely
+from  untorn  pieces  is  not  to  be  worn.  Whosoever
+shall  wear  (a  set  of  robes  so  made)  is  guilty  of  a
+dukka/a.'
+
+
+22.
+
+I.  Now  at  that  time  a  quantity  of  robes  had
+come  into  the  possession  of  a  certain  Bhikkhu,  and
+he  was  desirous  of  giving  those  robes  to  his  father
+and  mother.
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  Since  they  are  his  father  and  mother,  what  can
+we  say,  O  Bhikkhus,  though  he  give  them  to  them.
+I  allow  you,  O  Bhikkhus,  to  give  (robes,  in  such  a
+case,)  to  your  parents.  And  a  gift  of  faith  is  not  to
+be  made  of  no  avail.  Whosoever  shall  make  it  of
+no  avail,  he  is  guilty  of  a  dukka/a^.'
+
+
+23.
+
+I.   Now  at  that  time  a  certain  Bhikkhu  who  had
+deposited    his    robes  ^    in    Andhavana    entered    the
+
+^  Anvadhika;;2,  on  which  Buddhaghosa  says  nothing.
+
+^  Compare  the  ist  and  3rd  Nissaggiyas,  and  above,  VIII,  13,  8,
+as  to  the  rules  concerning  extra  robes,  and  what  is  to  be  done
+with  them.
+
+^  For  the  rule  as  to  such  depositing,  see  the  29th  Nissaggiya.
+
+
+VIII,  23, 3-      THE  DRESS  OF  THE  bhh<:khus.  233
+
+
+villaije  for  alms  (clad  only)  in  his  waist  cloth  and
+nether  earment'.  Thieves  carried  off  that  robe.
+That  Bhikkhu  became  ragged  and  ill-clad.
+
+The  Bhikkhus  spake  thus  :  '  How  is  it,  friend,
+that  you  have  become  ragged  and  ill-clad  ?'
+
+'  I  had  deposited  my  robe  in  Andhavana,  and
+entered  the  village  in  my  waist  cloth  and  nether
+garment.  Thieves  carried  off  that  robe.  Thence
+am  I  become  ragged  and  ill-clad.'
+
+They  told  this  matter  to  the  Blessed  One.
+
+'You  are  not,  O  Bhikkhus,  to  enter  the  village
+(clad  only)  in  your  waist  cloth  and  nether  garment.
+Whosoever  shall  do  so  is  guilty  of  a  dukka/a^'
+
+2.  Now  at  that  time  the  venerable  Ananda  through
+thoughtlessness  went  into  the  village  for  alms  in  his
+waist  cloth  and  nether  garment.
+
+The  Bhikkhus  spake  to  him  thus :  '  Hath  it  not
+been  laid  down  by  the  Blessed  One  that  we  are  not
+to  enter  the  villacre  in  our  waist  cloth  and  nether
+garment.  Why  have  you,  O  friend,  gone  so  into
+the  villafre  ?'
+
+'  It  is  true,  my  friends,  that  it  has  been  laid  down
+by  the  Blessed  One  that  we  are  not  to  enter  the
+village  so,  but  I  did  it  out  of  thoughtlessness.'
+
+They  told  this  matter  to  the  Blessed  One.
+
+3.  '  There  are  five  reasons,  O  Bhikkhus,  for  laying
+
+
+^ivara  (robe)  must  here  be  used  for  Sawgha/i.  See  our  note
+on  VIII,  13,  5,  and  section  2,  below,  where  sa;//gha/i  occurs.
+
+^  On  Santaruttara,  see  the  7th  Nissaggiya.  It  is  clear  from
+this  passage  that  Buddhaghosa  was  right  in  his  limitation  of  the
+word  as  used  in  that  rule ;  and  we  should  have  done  better,  there-
+fore, to  follow  it  in  our  translation  of  the  rule.
+
+2  Compare  the  ist,  2nd,  3rd,  and  4th  Sekhiyas,  and  the  2nd  Nis-
+saggiya; and  also  above, VII,  i,  3.
+
+
+234  MAHAVAGGA.  VIII,  23,  3.
+
+aside  the  robe^ — when  he  (the  Bhikkhu)  is  sick,
+when  it  is  the  appointed  time  for  keeping  the  rainy
+season  ^,  when  it  is  necessary  to  go  to  the  other  side
+of  a  river,  when  the  vih^ra  has  been  securely  fast-
+ened with  a  bolt^  when  the  Ka///ina  ceremony  has
+been  performed  ^  These,  O  Bhikkhus,  are  the  five
+reasons  for  laying  aside  the  robe  [Sdimghkil).
+
+'  There  are  five  reasons,  O  Bhikkhus,  for  laying
+aside  the  waist  cloth  and  the  nether  garment.  [The
+reasons  are  the  same  as  in  the  last  paragraph.]
+These,  O  Bhikkhus,  are  the  five  reasons,  &c.
+
+'  There  are  five  reasons  for  laying  aside  the  gar-
+ment for  use  in  the  rainy  season — when  he  is  sick,
+when  it  is  necessary  to  go  beyond  the  boundary  (?)^,
+when  it  is  necessary  to  go  to  the  other  side  of  a
+river,  when  the  vihara  has  been  securely  fastened
+with  a  bolt,  when  the  garment  for  use  in  the  rainy
+
+
+^  Here  the  word  used  is  Sa»2gha/i.
+
+2  On  saz^zketa,  compare  II,  8,  i.  Buddhaghosa  merely  says
+here,  Vassika-sawzketan  ti /^attaro  mase.  As  saw/keta  implies
+a  mutual  agreement,  the  'appointed  time'  here  probably  means,
+not  the  time  fixed  by  the  Buddha,  but  the  time  agreed  upon  by  the
+Sawgha  as  that  to  which  the  rule  laid  down  by  the  Buddha  should
+apply.  There  may  easily  have  arisen  questions  as  to  the  exact
+day  on  which  the  four  months  should  properly  begin ;  and  there
+were  even  differences  of  opinion  as  to  the  exact  length  of  the
+period  itself,  some  making  it  three,  and  some  four  months.  See
+on  these  points  Childers,  under  Vassa  and  Vassiipanayika.
+
+^  From  fear  of  thieves.
+
+*  See  the  2nd  Nissaggiya,  and  above,  VII,  i,  3.
+
+^  Buddhaghosa  has  nothing  on  this  reason.  It  would  seem  that
+the  garment  in  question  might  be  left  behind  when  the  Bhikkhu
+had  to  go  on  a  journey,  if  that  journey  would  take  him  beyond  the
+boundary  of  the  technical  '  residence.'  On  the  use  of  the  word,  see
+the  passages  collected  by  H.  O.  in  the  Index  to  the  Pali  Text
+(vol.  ii.  p.  349,  s.  v.  sima).
+
+
+VIIT,  24,  2.         THE    DRESS    OF    THE    BHH^KHUS.  235
+
+
+season  has   not   been  made,  or  has   been   left   un-
+finished \
+
+'  These,  O  Bhikkhus,  are  the  five  reasons,'  &c.
+
+
+24.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  keptVassa^
+alone.  The  people  then  gave  him  robes,  saying,
+'  We  give  them  to  the  Sawgha.'
+
+Then  that  Bhikkhu  thought:  '  It  has  been  laid
+down  by  the  Blessed  One  that  the  lowest  number .
+which  can  constitute  a  Sa;;/gha  is  four  ^  Now  I  am
+by  myself,  and  these  people  have  given  the  robes,
+saying,  "  We  give  them  to  the  Sawgha."  I  had
+better  take  these  robes,  which  are  the  property  of
+a  Sawgha,  to  Savatthi.'
+
+So  that  Bhikkhu  did  so,  and  told  the  matter  to
+the  Blessed  One.
+
+'  These  robes  are  your  own,  O  Bhikkhu,  until  the
+Ka///ina  ceremony  shall  have  been  performed*.'
+
+2.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  keep
+Vassa   alone,   and    the   people    of  the    place  give
+
+
+1  It  is  evident  from  this  last  reason  that  the  reasons  are  not  such
+as  would  justify  a  Bhikkhu  in  laying  aside  the  garment  in  such  a
+way  as  to  remain  naked,  but  such  as  would  justify  him  in  not  usmg
+the  rainy-season  garment  when  he  might  otherwise  have  done  so.
+In  the  five  cases  mentioned  he  might  wear  the  nether  garment  only
+reachintr  from  above  the  navel  to  below  the  knees,  instead  of  the
+garment  for  the  rainy  season,  which  was  smaller  in  size.  See  our
+note  above  on  VIII,  13,  5,  and  VIII,  15,  15.
+
+2  That  is,  spent  the  rainy  season.
+
+^  This  is  laid  down  in  IMahavagga  IX,  4,  i.
+
+*  And  thereby  the  KaMina  license  suspended.     Compare  the
+ist,  2nd,  and  3rd  Nissaggiyas,  and  our  note  on  p.  18.
+
+
+236  MAHAVAGGA.  VIII,  24,  3.
+
+him  robes,  intending  them  for  the  Sawzgha, —
+I  prescribe,  O  Bhikkhus,  that  those  robes  shall  be
+his  until  the  Ka//^ina  ceremony  shall  have  been
+performed.'
+
+3.  Now  at  that  time  a  certain  Bhikkhu  spent  the
+rest  of  the  year  (besides  the  rainy  season)^  alone.
+The  people  there  (&c.,  as  before,  in  the  first  para-
+graph of  24.  I,  down  to  the  end).
+
+So  that  Bhikkhu  did  so,  and  told  the  matter  to
+the  Bhikkhus.  They  told  the  matter  to  the  Blessed
+One.
+
+'  I  prescribe,  O  Bhikkhus,  that  you  are  to  divide
+such  robes  with  the  Sa?;/gha  (whether  large  or  small
+in  number)  that  may  be  present  there.
+
+4.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  spend
+the  rest  of  the  year  (besides  the  rainy  season)  alone,
+and  the  people  of  the  place  give  him  robes,  intending
+them  for  the  Sa;;2gha, — I  allow,  O  Bhikkhus,  that
+that  Bhikkhu  should  appropriate  those  robes  to  him-
+self ^  saying,  "These  robes  are  for  me."  If  another
+Bhikkhu  should  arrive  before  those  robes  have  been
+appropriated  to  that  Bhikkhu,  an  equal  share  is  to
+be  given  (to  the  in-coming  Bhikkhu).  If  while  the
+robes  are  being  divided  by  those  Bhikkhus,  and
+before  the  lot  has  been  cast,  another  Bhikkhu  should
+arrive,  an  equal  share  is  to  be  given  to  him.  If
+while  the  robes  are  being  divided  by  those  Bhikkhus,
+and  after  the  lot  has  been  cast,  another  Bhikkhu
+
+
+^  Buddhaghosa  says,  Utukalan  ti  vassanato  3.nn3.m  kalam,
+where  vassana  means  the  rainy  season.  See  Abhidhanappadipika,
+verse  79.
+
+2  On  this  sense  of  adhi/Z-^atuw,  see  above,  Mahavagga  VIII,
+
+
+VIII,  24,  6.         THE    DRESS    OF    THE    BHHCKHUS.  237
+
+should  arrive,  an  equal  share  need  not,  if  they  do
+not  wish  it  \  be  given  to  him.'
+
+5.  Now  at  that  time  two  Thcras,  who  were
+brothers,  the  venerable  Isidasa  and  the  venerable
+Isibhatta,  having- spent  the  rainy  season  in  Savatthi,
+went  to  take  up  their  abode  in  a  certain  village.
+The  people  there,  thinking,  '  It  is  long  since  these
+Theras  have  arrived  here,' made  gifts  of  both  food
+and  robes.
+
+The  Bhikkhus  who  resided  there  asked  the  Theras,
+saying, '  These  robes.  Sirs,  which  are  the  property  of
+the  Sawgha,  have  come  to  us  through  the  Theras'
+arrival^.     Will  the  Theras  accept  a  share  ?'
+
+The  Theras  answered :  '  As  we  understand  the
+rule  laid  down  by  the  Blessed  One,  these  robes
+belong  to  you  alone  until  the  Ka///ina  ceremony
+shall  have  been  performed^'
+
+6.  Now  at  that  time  three  Bhikkhus  spent  the
+rainy  season  at  Ra^agaha.  The  people  there  made
+gifts  of  robes,  saying, '  We  give  them  to  the  Sawgha.'
+
+Then  those  Bhikkhus  thought  thus  :  '  It  has  been
+laid  clown  by  the  Blessed  One  that  the  smallest
+Sawgha  shall  consist  of  four  persons,  and  we  are
+only  three,  and  these  people  have  made  gifts  of
+robes,  intending  to  give  them  to  the  Saw^gha.  What
+now  ought  we  to  do  with  them  ?'
+
+Now  at  that  time  there  were  staying  in  Pa/ali-
+
+
+^  Akama;  on  which  compare  II,  27,  15,  and  especially  II,  34,
+3,  and  IV,  17,  6.
+
+^  Agamma,  which  is  here  nearly  the  same  as  uddissa.  To
+give  the  full  import  of  the  expression  it  would  be  necessary  to  say,
+'  have  come  to  us  in  consequence  of  the  inducement  offered  to  the
+givers  by  the  presence  of  the  Theras  here.'
+
+^  See  our  note  above  on  §  i.
+
+
+238  MAHAVAGGA.  VIII,  25,  I.
+
+putta,  at  the  kukku/arama,  a  number  of  Theras —
+the  venerable  Nilavasi,  and  the  venerable  Sa;/avasi\
+and  the  venerable  Gopaka,  and  the  venerable  Bhagu,
+and  the  venerable  Phalika-sandana.  And  those  Bhik-
+khiis  went  to  Pa/aliputta,  and  asked  the  Theras  what
+they  should  do.
+
+The  Theras  answered  :  '  As  we  understand  the
+rule  laid  down  by  the  Blessed  One,  these  robes
+belong  to  you  alone  until  the  Ka///ina  ceremony
+shall  have  been  performed.'
+
+
+25.
+
+1.  Now  at  that  time  the  venerable  Upananda  of
+the  Sakya  race,  having  spent  the  rainy  season  at
+Savatthi,  went  to  take  up  his  abode  in  a  certain
+village.  The  Bhikkhus  in  that  place  assembled
+together  with  the  object  of  dividing  the  robes.
+They  said  to  him  :
+
+'  These  robes,  friend,  which  are  the  property  of
+the  Ssimgha.,  are  about  to  be  divided.  Will  you
+accept  a  share  of  them  ?'
+
+'  Yes,  friends,  I  will,'  said  he  ;  and  taking  his
+share,  departed  thence  and  took  up  his  abode
+elsewhere.
+
+[The  same  thing  happened  there,  and]  he  departed
+thence  and  took  up  his  abode  elsewhere.
+
+[The  same  thing  happened  there,  and  so]  he  re-
+turned to  Savatthi  with  a  great  bundle  of  robes.
+
+2.  The  Bhikkhus  said  to  him :  '  What  a  merito-
+
+^  There  is  a  Sawavasi  who  takes  a  prominent  part  at  the  Council
+of  Vesali  (A'ullavagga  XII,  1,8;  XII,  2,  4).  He  is  probably
+meant  to  be  considered  the  same  as  this  one.
+
+
+VIII,  25,  4-         THE    DRESS    OF    THE    BHIKKHUS.  239
+
+
+rious  person  you  are,  friend  Upananda.  Plenty  of
+robes  have  come  into  your  possession!'
+
+'  Where  is  my  merit,  friends  ?'  said  he,  and  [told
+them  all  that  had  happened]  \
+
+3.  *  How  then,  friend  Upananda,  have  you  spent
+the  rainy  season  in  one  place,  and  accepted  a  share
+of  robes  in  another  place  ?'
+
+*  Yes,  friends,  that  is  so.'
+
+Those  Bhikkhus  who  were  moderate  were  indig-
+nant, murmured,  and  became  annoyed,  saying,  *  How
+can  the  venerable  Upananda  spend  the  rainy  season
+in  one  place,  and  accept  a  share  of  robes  in  another
+place  ?'
+
+They  told  the  matter  to  the  Blessed  One.
+
+'  Is  it  true,  Upananda,  as  they  say,  that  you  have
+spent  the  rainy  season  in  one  place,  and  have
+accepted  a  share  of  robes  in  another  place?'
+
+*  It  is  true,  Lord.'
+
+The  Blessed  Buddha  rebuked  him,  saying,  '  How
+can  you,  O  foolish  one,  act  so  ?  This  will  not  re-
+dound to  the  conversion  of  the  unconverted,  or  to
+the  increase  of  the  converted!'
+
+And  after  having  rebuked  him,  and  delivered  a
+religious  discourse,  he  addressed  the  Bhikkhus,
+saying,  'Whosoever,  O  Bhikkhus,  has  spent  the
+rainy  season  in  one  place,  is  not  to  accept  a  share
+of  the  robes  in  another  place.  Whosoever  does  so
+shall  be  guilty  of  a  dukka/a.'
+
+4.  Now  at  that  time  the  venerable  Upananda  of
+the  Sakya  race  spent  the  rainy  season  alone  in  two
+residences,  thinking  thus  to  obtain  many  robes.
+And  the  Bhikkhus  thought: '  How  should  his  portion
+
+
+^  Section  i  repeated,  with  the  necessary  change  of  person,  &c.
+
+
+240  MAIiAVAGGA.  Till,  26,  r.
+
+of  the  robes  be  assigned  to  Upananda  of  the  Sakya
+race  ?'
+
+They  told  the  matter  to  the  Blessed  One.
+
+'  Give,  O  Bhikkhus,  to  that  foolish  one  but  one
+portion  \  In  case,  O  Bhikkhus,  a  Bhikkhu  spend
+the  rainy  season  alone  in  two  residences,  thinking
+thus  to  obtain  many  robes,  then,  if  he  have  spent
+exactly  half  the  season  in  one  place  and  half  in
+another,  a  half  portion  of  the  robes  due  to  him
+shall  be  given  to  him  in  one  place,  and  a  half  in  the
+other ;  but  in  whichever  place  of  the  two  he  have
+spent  a  greater  part  of  the  rainy  season,  thence
+shall  the  portions  of  robes  due  to  him  be  given.'
+
+
+26.
+
+1.  Now  at  that  time  a  certain  Bhikkhu  had  a
+disturbance  in  his  bowels,  and  he  lay  fallen  in  his
+own  evacuations.  And  the  Blessed  One  on  going
+round  the  sleeping-places  accompanied  by  the  vener-
+able Ananda  came  to  that  Bhikkhu's  abode,  and  saw
+him  so.  And  he  went  up  to  him,  and  asked  him,
+'  What  is  the  matter  with  you,  O  Bhikkhu  ?'
+
+'  I  have  a  disturbance,  Lord,  in  my  bowels.'
+'  Then  have  you,   O   Bhikkhu,  any  one    to  wait
+upon  you  ?'
+'  No,  Lord.'
+
+'  Why  do  not  the  Bhikkhus  wait  upon  you  ?'
+'  Because  I  am  of  no  service,  Lord,  to  the  Bhikkhus.'
+
+2.  Then  the  Blessed  One  said  to  the  venerable
+
+
+^  Buddhaghosa    says,    Ekadhippayan   ti   ekaw    adhippaya?;/.
+Eka-puggala-pa/ivisa7«  eva  detha  ti  attho.
+
+
+YIII,  26,  4-         THE    DRESS    OF    THE    BHIKKHUS.  24 1
+
+
+Ananda  :  *  Go,  Ananda,  and  fetch  some  water.     Let
+us  bathe  this  Bhikkhu.'
+
+'  Even  so.  Lord,'  said  the  venerable  Ananda,
+in  assent  to  the  Blessed  One,  and  fetched  the
+water.  And  the  Blessed  One  poured  the  water
+over  that  Bhikkhu  ;  and  the  venerable  Ananda  wiped
+him  down.  And  the  Blessed  One  taking  hold  of
+him  at  the  head,  and  the  venerable  Ananda  at  the
+feet,  they  lifted  him  up,  and  laid  him  down  upon
+his  bed.
+
+3.  Then  the  Blessed  One,  on  that  occasion  and
+in  that  connection,  convened  a  meeting  of  the
+Bhikkhu-sa;;2gha,  and  asked  the  Bhikkhus, '  Is  there,
+O  Bhikkhu^,  in  such  and  such  an  apartment,  a
+Bhikkhu  who  is  sick  .-* '
+
+*  There  is,  Lord.'
+
+*  Then  what,  O  Bhikkhus,  is  the  matter  with  that
+Bhikkhu  ?'
+
+'  He  has  a  disturbance.  Lord,  in  his  bowels.'
+
+*  And  is  there  any  one,  O  Bhikkhus,  to  wait  upon
+him?'
+
+*  No,  Lord.'
+
+'  Why,  then,  do  not  the  Bhikkhus  wait  upon  him?'
+'That   Bhikkhu,   Lord,   is    of  no  service    to  the
+Bhikkhus  ;  therefore  do  they  not  wait  upon  him.'
+
+*  Ye,  O  Bhikkhus,  have  no  mothers  and  no  fathers
+who  might  wait  upon  you  !  If  ye,  O  Bhikkhus,  wait
+not  one  upon  the  other,  who  is  there  indeed  who
+will  wait  upon  you  ?  Whosoever,  O  Bhikkhus,  would
+wait  upon  me,  he  should  wait  upon  the  sick.
+
+4.  '  If  he  have  an  upa^^//dya,  his  upa,^,^/^aya
+should  wait  upon  him  as  long  as  his  life  lasts,  and  wait
+until  he  has  recovered;  and  so  if  he  have  an  a/C-a-
+riya,  a  saddhi-vihdrika,  an  antevasika,  a  fellow
+
+[17]  R
+
+
+242  MAHAVAGGA.  VIII,  26,  5.
+
+saddhi-viharika,  or  a  fellow  antevasika\  And
+if  he  have  neither  of  all  these,  then  should  the
+Sa;;2gha  wait  upon  him  ;  and  whosoever  does  not  do
+so,  shall  be  guilty  of  a  dukka/a.
+
+5.  '  There  are  five  qualities,  O  Bhikkhus,  which,
+when  a  sick  man  has,  he  is  difficult  to  wait  upon  —
+when  he  does  not  do  what  is  good  for  him ;  when
+he  does  not  know  the  limit  (of  the  quantity  of  food)
+that  is  good  for  him^;  when  he  does  not  take  his
+medicine ;  when  he  does  not  let  a  nurse  who  desires
+his  good  know  what  manner  of  disease  he  has,  or
+when  it  is  getting  worse  that  that  is  so,  or  when  it
+is  getting  better  that  that  is  so,  or  when  it  is  sta-
+tionary that  that  is  so ;  and  when  he  has  become
+unable  to  bear  bodily  pains  that  are  severe,  sharp,
+grievous,  disagreeable,  unpleasant,  and  destructive
+to  life  ^  These  are  the  five  qualities,  O  Bhikkhus,
+which,  when  a  sick  man  has,  he  is  difficult  to  wait
+upon.
+
+6.  '  There  are  five  qualities,  O  Bhikkhus,  which,
+when  a  sick  man  has,  he  is  easy  to  wait  upon —
+when  he  does'  (&c.,  the  contrary  of  the  last  section).
+
+7.  '  There  are  five  qualities,  O  Bhikkhus,  which,
+when  one  who  waits  upon  the  sick  has,  he  is  incom-
+petent to  the  task — when  he  is  not  capable  of  pre-
+scribing medicines  ;  when  he  does  not  know  what
+(diet)  is  good  and  what  is  not  good  for  the  patient,
+serving  what  is  not  good,  and  not  serving  what  is
+good  for  him ;  when  he  waits  upon  the  sick  out  of
+
+^  On  all  except  the  last  two  this  duty  has  already  been  enjoined
+above  in  the  passages  on  the  mutual  duties  of  masters  and  pupils
+(Mahavagga  I,  24,  25 ;  I,  26, 1 1 ;  I,  32,  3  ;  I,  33,  i).
+
+^  Compare  Gataka  II,  293,  294.
+
+^  This  last  clause  occurs  also  above,  at  I,  49,  6,
+
+
+VIII,  27,  2.         THE    DRESS    OF    THE    BHIKKHUS.  243
+
+
+crreed,  and  not  out  of  love  ;  when  he  revolts  from
+removine  evacuations,  saliva  or  vomit ;  when  he  is
+not  capable  from  time  to  time  of  teaching,  inciting,
+arousing,  and  gladdening  the  patient  with  religious
+discourse.  These  are  the  five  qualities,  O  Bhikkhus,
+which,  when  one  who  waits  upon  the  sick  has,  he  is
+incompetent  to  the  task.
+
+8.  *  There  are  five  qualities,  O  Bhikkhus,  w^hich,
+when  one  who  waits  upon  the  sick  has,  he  is  com-
+petent to  the  task — when  he  is  capable'  (&c.,  the
+contrary  of  the  last  section).
+
+
+27.
+
+1.  Now  at  that  time  two  Bhikkhus  were  journey-
+ing along  a  high  road  in  the  country  of  Kosala.
+And  they  came  to  a  certain  residence,  and  there
+one  of  the  two  fell  ill.  Then  the  Bhikkhus
+there  thought :  '  Waiting  upon  the  sick  has  been
+highly  spoken  of  by  the  Blessed  One.  Let  us  then,
+friends,  now  wait  upon  this  Bhikkhu.'  And  they
+waited  upon  him,  and  while  he  was  being  nursed  by
+them,  he  completed  his  time\  Then  those  Bhik-
+khus took  that  Bhikkhu's  bowl  and  his  robes,  and
+went  to  Savatthi,  and  told  the  matter  to  the
+Blessed  One.
+
+2.  'On  the  death  of  a  Bhikkhu,  O  Bhikkhus,  the
+Sawgha  becomes  the  owner  of  his  bowl  and  of  his
+robes.  But,  now,  those  who  wait  upon  the  sick  are
+of  much  service.  I  prescribe,  O  Bhikkhus,  that  the
+bowl  and  the  set  of  robes  are  to  be  assigned  by  the
+
+^  That  is,  he  died.
+R  2
+
+
+244  MAHAVAGGA.  VIII,  27,  3.
+
+Sa^/^gha  to  them  who  have  waited  upon  the  sick.
+And  thus,  O  Bhikkhus,  are  they  to  be  assigned.
+The  Bhikkhu  who  has  waited  uporl  the  sick  ought
+to  go  before  the  Sawgha,  and  to  say  thus :  "  Such
+and  such  a  Bhikkhu,  Sirs,  has  completed  his  time.
+These  are  his  set  of  robes  and  his  bowl."  Then  a  dis-
+creet and  able  Bhikkhu  ought  to  lay  the  proposition
+before  the  Sa;;/gha,  saying,  "  Let  the  Samghs.  hear
+me.  Such  and  such  a  Bhikkhu  has  completed  his
+time.  These  are  his  set  of  robes  and  his  bowl.  If
+it  is  convenient  to  the  Sa?;2gha,  let  the  Sawgha
+assign  this  set  of  robes  and  this  bowl  to  those  who
+have  waited  upon  the  sick."  This  is  the  na-tti.'
+[Here  follow  the  usual  formal  words  of  a  kamma-
+
+3.  Now  at  that  time  a  certain  Sama;^era  had
+completed  his  time.
+
+They  told  this  matter  to  the  Blessed  One.
+[The  decision  and  the  kammava/^a  are  the  same
+as  in  §  2.]
+
+4.  Now  at  that  time  a  certain  Bhikkhu  and  a
+Sama;^era  waited  upon  a  sick  Bhikkhu  ;  and  while
+he  was  being  waited  upon  by  them  he  completed
+his  time.  And  the  Bhikkhu  who  had  waited  upon
+the  sick  thought :  '  How  now  ought  the  due  portion
+of  robes  be  given  to  the  Sama;2era  who  waited
+upon  the  sick  ?'
+
+They  told  this  matter  to  the  Blessed  One.
+
+*  I  prescribe,  O  Bhikkhus,  that  you  are  to  give  an
+equal  portion  to  a  Sama/^era  who  waits  upon  the
+sick.'
+
+5.  Now  at  that  time  a  certain  Bhikkhu  who  was
+
+^  There  is  only  one,  not  three  Kammava/^as,  given  in  the  text.
+
+
+VIII,  28,  I.        THE    DRESS    OF    THE    BHUvKHUS.  245
+
+possessed  of  much  property,  and  of  a  plentiful  supply
+of  a  Bhikkhu's  requisites,  completed  his  time.
+They  told  this  matter  to  the  Blessed  One,
+'  On  the  death  of  a  Bhikkhu,  O  Bhikkhus,  the
+Sawgha  becomes  the  owner  of  his  bowl  and  of  his
+robes.  But,  now,  those  who  wait  upon  the  sick  are
+of  much  service.  I  prescribe,  O  Bhikkhus,  that  the
+set  of  robes  and  the  bowl  are  to  be  assigned  by  the
+Sawgha  to  them  who  have  waited  upon  the  sick.
+And  whatever  little  property  and  small  supply  of
+a  Bhikkhu's  requisites  there  may  be,  that  is  to  be
+divided  by  the  Sawgha  that  are  present  there ;  but
+whatever  large  quantity  of  property  and  large  supply
+of  a  Bhikkhu's  requisites  there  may  be,  that  is  not  to
+be  given  away^  and  not  to  be  apportioned  2,  but  to
+belong  to  the  Sawgha  of  the  four  directions^,  those
+who  have  come  in,  and  those  who  have  not*.'
+
+
+28.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  came
+naked  up  to  the  place  where  the  Blessed  One  was,
+and  said  :
+
+'  The  Blessed  One,  Lord,  has  praised  in  many
+ways  the  moderate  man  and  the  contented  who  has
+eradicated  (evil),  who  has  shaken  off  his  passions,
+who    is   gracious,    reverent,    energetic  °.     Now    this
+
+
+^  See  A'uUavagga  VI,  15,  2.  ^  See  A'uUavagga  VI,  16,  2.
+
+3  That  is, 'of  all  the  world.'
+
+*  This  description  of  the  totality  of  the  Sawgha  is  constantly
+found  in  dedicatory  inscriptions.  See  Rh.  D.'s  paper  in  the  Indian
+Antiquary,  INIay,  1872.
+
+^  So,  for  example,  in  A'uUavagga  I,  i,  3.
+
+
+246  MAHAVAGGA.  VIII,  28,  2.
+
+nakedness,  Lord,  is  in  many  ways  effectual  to
+moderation  and  content,  to  the  eradication  of  evil,
+to  the  suppressions  of  the  passions,  to  graciousness,
+reverence,  and  zeal.  It  were  well,  Lord,  if  the
+Blessed  One  would  enjoin  nakedness  upon  the
+Bhikkhus.'
+
+The  Blessed  Buddha  rebuked  him,  saying,  *  This
+would  be  improper,  O  foolish  one,  crooked,  unsuit-
+able, unworthy  of  a  Sama/^a,  unbecoming,  and  it
+ought  not  to  be  done.  How  can  you,  O  foolish
+one,  adopt  nakedness  as  the  Titthlyas  do?  This
+will  not  conduce,  O  foolish  one,  to  the  conversion  of
+the  unconverted.'
+
+And  when  he  had  rebuked  him,  and  had  deli-
+vered a  religious  discourse,  he  addressed  the  Bhik-
+khus, and  said  :
+
+'  You  are  not,  O  Bhikkhus,  to  adopt  nakedness,
+as  the  TItthiyas  do\  Whosoever  does  so,  shall
+be  guilty  of  a  grave  offence  (Thulla/^/^aya).'
+
+2.  [The  whole  section  repeated  respectively  in
+the  case  of  a  Bhikkhu  clad  in  a  garment  of  grass,
+clad  in  a  garment  of  bark  ^,  clad  in  a  garment  of
+phalaka  cloth  ^,  clad  in  a  garment  of  hair*,  clad  in
+the  skin  of  a  wild  animal,  clad  in   the   feathers  of
+
+^  Compare  above,  VIII,  15,  7  and  11.
+
+^  This  is  several  times  referred  to  in  the  (ratakas ;  for  instance,
+pp.  6,  9,  12.
+
+^  Perhaps  made  of  leaves.  Compare  Bohtlingk-Roth's,  No.  5,
+sub  voce;  and  Gataka  I,  304  (phalakattharasayana).  Perhaps
+also  Gataka  I,  356, 'making  a  man  his  phalaka,' may  be  a  figure
+of  speech  founded  on  this  use  of  the  word,  and  mean  '  making  him
+his  covering.'
+
+*  Like  the  well-known  Titthiya  A^ita,  one  of  the  six  great
+heretics  (Sama?ma-phala  Sutta,  ed.  Grimblot,  p.  11 4,  =  Book  of  the
+Great  Decease,  V,  60).
+
+
+VIII,  29,  I.         THE    DRESS    OF    THE    BHIKKHUS.  247
+
+an  owl,  clad  in  antelope  skins  (with  the  hoofs  left
+on)^  But  instead  of  'adopt  nakedness  as  the
+Titthiyas  do'  substitute  respectively  'wear  a  gar-
+ment of  grass,  &c.,  which  is  the  symbol-  the  Titthi-
+yas use.']
+
+3.  Now  at  that  time  a  certain  Bhikkhu  came  up
+to  the  place  where  the  Blessed  One  was,  clad  in
+cloth  made  of  the  stalks  of  the  akka  plant  ^.
+
+[All  as  before  in  J  i,  down  to  :]
+
+And  when  he  had  rebuked  him,  and  had  delivered
+a  religious  discourse,  he  addressed  the  Bhikkhus,
+and  said  :
+
+'  You  are  not,  O  Bhikkhus,  to  dress  yourselves  in
+the  stalks  of  the  akka  plant.  Whosoever  does  so,
+shall  be  guilty  of  a  dukka/a.'
+
+[^  3  is  then  repeated  of  a  Bhikkhu  clad  in  cloth
+made  of  the  maka/C'i  fibre  ^.]
+
+
+29.
+
+I.  Now  at  that  time  the  AO^abbaggiya  Bhikkhus
+wore  robes  that  were  all  of  a  blue,  light  yellow,
+crimson,    brown,    black,    brownish    yellow,    or    dark
+
+
+^  Buddhaghosa,  at  Suttavibhahga,  Para^ika  I,  10,  3,  where  this
+word  occurs,  says  on  it,  A^inakkhikan  (sic)  ti  salomaw  sakhuraw
+a^ina-miga-/^amma/«.     Compare  also  above,  Mahavagga  V,  2,  4.
+
+-  Titthiya-dha^a.  Compare  G^ataka  I,  65,  and  A^ullavagga
+I,  27.
+
+'  Akkana/an  ti  akkand/amayaw  (B.).  Compare  Bohtlingk-
+Roth,  under  arka.
+
+*  Potthako  ti  maka^^imayo  vu^^-^ati  (B.).  So  also  Childers,  sub
+voce.
+
+
+248  MAHAVAGGA.  VIII,  30,  I.
+
+yellow  colour  ^ ;  they  wore  robes  with  skirts  to  them
+which  were  not  made  of  torn  pieces  of  cloth,  or
+were  long,  or  had  flowers  on  them,  or  cobras'  hoods
+on  them ;  they  wore  jackets,  and  dresses  of  the
+Tiri/aka  plant  ^,  and  turbans.
+
+The  people  were  indignant,  murmured,  and
+became  annoyed,  saying,  '  This  is  like  those  still
+living  in  the  enjoyments  of  the  world.'
+
+They  told  the  matter  to  the  Blessed  One.
+
+'  Robes  that  are  all  of  a  blue  colour  [&c. ;  all  the
+things  mentioned  in  the  first  paragraph  being  here
+repeated]  are  not  to  be  worn.  Whosoever  wears
+them  shall  be  guilty  of  a  dukka^a^.'
+
+
+30.
+
+I.  Now  at  that  time  Bhikkhus,  after  having
+spent  the  rainy  season,  but  before  a  gift  of  robes
+had  fallen  to  the  Sawgha,  went  away  (from  the
+place);  left  the  Order ;  died ;  admitted  that  they  were
+Sama^^eras;  or  that  they  had  abandoned  the  pre-
+cepts ;  or  that  they  had  become  guilty  of  an  extreme
+
+
+^  See  Buddhaghosa's  explanations  of  all  these  colours  in  the
+note  on  V,  2,  i.
+
+^  Buddhaghosa  says  on  this  word,  Tiritan  (sic)  ti  pana  ruk-
+khay^/^allimaya»/,  ta.7fi  pada-pun/^/^anaw  katuw  va//ati.  ^/^alli  is
+'  bark.'
+
+^  Buddhaghosa  says  that  the  robes  of  the  colours  mentioned  in
+this  chapter  may  be  worn  if  they  have  first  been  dyed,  or  may  be
+used  as  coverlets,  or  may  be  cut  up  and  used  as  parts  of  robes.  So
+the  robes  with  skirts  to  them  may  be  worn  if  the  forbidden  skirts
+have  first  been  torn  or  cut  off.
+
+
+VIII,  30,  2.         THE    DRESS    OF    THE    BHHvKHUS.  249
+
+
+offence  ;  or  that  they  were  mad  ;  or  that  their  minds
+were  unhinged ;  or  that  they  suffered  bodily  pain  ;
+or  that  suspension  had  been  pronounced  against  them
+for  their  refusal  to  acknowledge  an  offence  they  had
+committed,  or  to  atone  for  such  an  offence,  or  to
+renounce  a  false  doctrine;  or  that  they  were
+eunuchs ;  or  that  they  had  furtively  attached  them-
+selves (to  the  Sawgha) ;  or  that  they  had  gone  over
+to  the  Titthiyas;  or  that  they  were  an  animal;  or
+that  they  had  been  guilty  of  matricide,  or  of
+parricide;  or  that  they  had  murdered  an  Arahat;
+or  that  they  had  violated  a  Bhikkhuni ;  or  that  they
+had  caused  a  schism  in  the  Sawgha ;  or  that  they
+had  shed  (a  Buddha's)  blood;  or  that  they  were
+hermaphrodites  ^
+
+They  told  this  matter  to  the  Blessed  One.
+
+2.  '  In  case,  O  Bhikkhus,  a  Bhikkhu,  after  having
+spent  the  rainy  season,  goes  away  before  a  gift  of
+robes  has  fallen  to  the  Sa;;^gha — then  they  are
+nevertheless  to  be  allotted  to  him  if  there  be  any
+person  present  proper  to  receive  them  on  his  be-
+half.
+
+'  Moreover  in  case,  O  Bhikkhus,  a  Bhikkhu,  after
+having  spent  the  rainy  season,  and  before  a  gift  of
+robes  has  fallen  to  the  Sawgha,  leaves  the  Order,
+or  dies,  or  acknowledges  that  he  has  become  a
+Samawera,  or  that  he  has  abandoned  the  precepts,
+or  lastly  that  he  has  become  guilty  of  an  extreme
+offence, — then  the  Sawgha  becomes  the  owner
+(of  the  portion  of  robes  that  would  have  fallen
+to  him).
+
+
+^  The  above  list  of  disqualifications  has  already  occurred    at
+11,36;  IV,  14.
+
+
+250  MAHAVAGGA.  VIII,  30,  3.
+
+
+'  Moreover  in  case,  O  Bhikkhus,  a  Bhikkhu,  after
+having  spent  the  rainy  season,  and  before  a  gift
+of  robes  has  fallen  to  the  Sa;;/gha,  acknowledges
+that  he  has  become  mad,  or  unhinged  in  his  mind,
+or  in  bodily  pain,  or  that  he  has  been  suspended
+for  refusal  to  acknowledge  an  offence  he  had
+committed,  or  to  atone  for  such  an  offence,  or  to
+renounce  a  false  doctrine — then  (his  portion  of
+robes  is  nevertheless)  to  be  allotted  to  him  if  there
+be  any  person  present  proper  to  receive  them  on
+his  behalf.
+
+'  Moreover  in  case,  O  Bhikkhus,  a  Bhikkhu,  after
+having  spent  the  rainy  season,  and  before  a  gift
+of  robes  has  fallen  to  the  Sa;;zgha,  acknowledges
+that  he  is  a  eunuch,  or  that  he  had  furtively  attached
+himself  to  the  Samgha,  or  that  he  had  gone  over
+to  the  Titthiyas,  or  that  he  is  an  animal,  or  that
+he  had  been  guilty  of  matricide,  or  of  parricide,
+or  that  he  had  murdered  an  Arahat,  or  that  he
+had  violated  a  Bhikkhuni,  or  that  he  had  raised
+a  schism  in  the  Sa?;/gha,  or  that  he  had  shed  a
+Buddha's  blood,  or  that  he  is  a  hermaphrodite —
+then  the  Sa7;^gha  becomes  the  owner  (of  the  portion
+of  robes  that  would  have  fallen  to  him).
+
+3.  '[The  same  rules  as  in  J  2,  if  he  had  gone
+away,  &c.,  after  the  gift  of  robes  had  been  made
+to  the  Sa?;/gha,  but  before  the  robes  had  been
+divided  amone  the  individual  members  of  the  Sa;;2-
+gha  belonging  to  the  place  where  he  had  spent  the
+rainy  season.]
+
+4.  'Moreover  in  case,  O  Bhikkhus,  after  the
+Bhikkhus  have  spent  the  rainy  season,  divisions  arise
+among  the  Sa;;^gha  before  any  robes  have  fallen
+to  them,  and  the  people  there  give  the  water  (of
+
+
+VIII,  31,  I-         THE    DRESS    OF    THE    BHHvKHUS.  25!
+
+presentation  ^)  to  one  party,  and  the  robes  to  the
+other  party,  thinking,  "  We  are  giving  to  the
+Sawgha" — then  those  (robes  are  the  property)  of
+the  (whole)  Sawgha.
+
+'  The  people  there  give  the  water  of  presentation
+to  one  party,  and  the  robes  to  the  same  party,
+thinking,  "  We  are  giving  to  the  Sawgha " — then
+those  robes  are  the  property  of  the  whole  Sawgha.
+
+5,  *[In  the  same  two  cases,  if  the  people  intend
+to  give  to  the  one  party  only,  the  robes  are  to  be
+the  property  of  that  party.]
+
+6.  '  Moreover  in  case,  O  Bhikkhus,  after  the  Bhik-
+khus  have  spent  the  rainy  season,  divisions  arise
+among  the  Sa;;2gha  after  the  gift  of  robes  has  been
+made  to  the  Sawgha,  but  before  the  division  (of
+the  robes  to  the  individual  members)  has  taken
+place — then  at  the  division  an  equal  share  is  to  be
+given  to  all.'
+
+
+31.
+
+I.  Now  at  that  time  the  venerable  Revata  sent
+a  robe  to  the  venerable  Sariputta  in  charge  of  a
+certain  Bhikkhu,  saying,  '  Give  this  robe  to  the
+Thera.'  But  that  Bhikkhu,  whilst  on  the  way,  took
+the  robe  himself  in  trust  on  the  venerable  Revata  ^.
+
+Now  the  venerable  Revata,  on  meeting  with  the
+
+'  There  is  no  doubt  that  this  is  the  meaning  here  of  udaka.
+Compare  above,  Mahavagga  I,  22,  18,  and  6'aLaka  I,  93  ;  III,  286 ;
+Dipavawsa  XIII,  29.
+
+"^  That  is,  in  trust  that  the  venerable  Revata,  if  he  knew  that  the
+Bhikkhu  wanted  it,  would  have  given  it  to  him.  See  above,  Maha-
+vagga VIII,  19.
+
+
+252  MAHAVAGGA.  VIII,  31, 2.
+
+venerable  Sariputta,  asked  him,  saying,  *  I  sent  to
+the  venerable  Thera  a  robe.  Did  that  robe  come
+into  his  hands?'
+
+*  I  know  nothing,  friend,  about  that  robe.'
+
+Then  the  venerable  Revata  said  to  that  Bhik-
+khu  :  '  I  sent  a  robe,  my  friend,  in  your  charge  to
+the  Thera.     Where  is  that  robe  ? '
+
+'  I  took  the  robe  myself,  Lord,  in  trust  upon
+you.'
+
+They  told  the  matter  to  the  Blessed  One.
+
+2.  'In  case,  O  Bhikkhus,  a  Bhikkhu  send  a  robe
+in  charge  of  a  Bhikkhu,  saying,  "  Give  this  robe
+to  such  and  such  a  Bhikkhu;"  and  he,  whilst
+on  the  way,  takes  it  himself  in  trust  on  the  one
+who  sends  it — then  it  is  rightly  taken.  But  if  he
+takes  it  himself  in  trust  on  the  one  to  whom  it
+was  sent,  it  is  wrongly  taken.
+
+'[The  same  repeated,  the  latter  case  being  put
+first,  and  the  former  case  last.]
+
+'  Moreover  in  case,  O  Bhikkhus,  a  Bhikkhu  send
+a  robe  in  charge  of  a  Bhikkhu,  saying,  "  Give  this
+robe  to  such  and  such  a  Bhikkhu ;"  and  he,  whilst  on
+the  way,  hears  that  that  Bhikkhu  who  sent  it  is
+dead; — then  if  he  keeps  the  robe  himself ^  as  the
+robe  of  a  deceased  Bhikkhu,  it  is  rightly  kept ;  if
+he  takes  it  himself  in  trust  on  the  one  to  whom  it
+was  sent,  it  is  wrongly  taken.
+
+'  [In  the  same  case],  if  he,  whilst  on  the  way,  hears
+that  that  Bhikkhu  to  whom  it  was  sent  is  dead —
+then  if  he  keeps  the  robe  himself  as  the  robe  of
+a  deceased  Bhikkhu,  it  is  wrongly  kept ;  if  he  takes
+
+
+^  On  this  meaning  of  adhiti/Mati,  see  our  note  above,  VIII,
+20,  2 ;  VIII,  24,  2.
+
+
+VTII,  32,  r.        THE    DRESS    OF    THE    BHHCKHUS.  253
+
+it  himself  in  trust  on  the  one  who  sent  it,  it  is
+rightly  taken.
+
+'[In  the  same  case,  if  he  hears,  whilst  on  the  way,
+that  both  are  dead — then  if  he  keeps  it  himself  as
+the  robe  of  a  deceased  Bhikkhu,  to  wit,  the  one  who
+sent  it,  it  is  rightly  kept ;  if  he  keeps  it  himself  as
+the  property  of  a  deceased  Bhikkhu,  to  wit,  the  one
+to  w^hom  it  was  sent,  it  is  wrongly  kept.]
+
+3.  '  Moreover  in  case,  O  Bhikkhus,  a  Bhikkhu
+send  a  robe  in  charge  of  a  Bhikkhu,  saying,  "  I  give
+the  robe  to  such  and  such  a  Bhikkhu  " — then  [in  all
+the  cases  given  in  J  2  the  decision  is  reversed] '.'
+
+
+32.
+
+I.  There  are,  O  Bhikkhus,  these  eight  grounds ^
+for  the  getting  of  a  gift  of  robes — when  he  gives
+it  to  the  boundary,  when  he  gives  it  to  (a  Sa7;^gha
+which  is)  under  agreement  (with  other  Sa;;/ghas),
+when  he  gives  it  on  a  declaration  of  alms,  when
+he  gives  it  to  the  Sawgha,  when  he  gives  it  to
+both  the  Sa7;/ghas,  when  he  gives  it  to  the  Sawgha
+which  has  spent  the  rainy  season  (at  the  place),
+when  he  gives  it  to  a  specified  number^,  when  he
+eives  it  to  a  single  Bhikkhu.
+
+
+^  The  reason  of  all  this  is,  that  if  the  sender  (A)  says  to  the  mes-
+senger (B), 'Give  this  robe  to  the  sendee  (C),'  the  property  in  the
+robe  does  not  pass;  if  A  says  to  B,'I  give  this  robe  to  C,'  it  does
+pass.
+
+2  Matika;  used  in  the  same  sense  here  as  at  VII,  i,  7.
+
+'  That  is,  of  monks  and  nuns— the  Bhikkhu-sawgha  and  the
+Bhikkhuni-sawgha.
+
+
+254  MAHAVAGGA.  VIII,  32,  i.
+
+•When  he  gives  it  to  the  boundary,  it  is  to  be
+divided  among  all  those  Bhikkhus  who  have  come
+within  the  boundary  ^
+
+'  When  he  gives  it  to  a  Sa7;2gha  which  is  under
+agreement,  there  are  a  number  of  residences  which
+hold  in  common  whatever  they  get,  and  what  is
+given  in  one  residence  is  given  in  all.
+
+'  When  he  gives  it  on  a  declaration  of  alms
+(means  when  the  givers  say),  "We  give  it  at  the
+place  where  constant  supply  of  alms  is  kept  up  for
+the  Sawgha^."
+
+'When  he  gives  it  to  the  Sa;;2gha,  it  is  to  be
+divided  among  the  Sa?;2gha  there  present.
+
+*  When  he  gives  it  to  both  the  Sa;;2ghas,  though
+there  be  many  Bhikkhus  and  only  one  Bhikkhuni,
+an  equal  half  is  to  be  given  (to  each  of  the  two
+Sa;;^ghas),  and  though  there  be  many  Bhikkhunis
+and  only  one  Bhikkhu,  an  equal  half  is  to  be  given
+(to  each  of  the  two  Sa^^ghas).
+
+'  When  he  gives  it  to  the  Sa?;2gha  which  has  spent
+the  rainy  season,  it  is  to  be  divided  among  as  many
+Bhikkhus  as  have  spent  the  rainy  season  at  that
+particular  residence.
+
+'When  he  gives  it  to  a  specified  number,  it  is
+the    number   present   at   the   giving  of  congey,  or
+
+
+1  See  chapters  II,  6  and  following.
+
+2  Buddhaghosa  says,  Bhikkha-pawnattiya,  ti  attano  pari-^Mga-
+pa»mapana-///mne.  Ten'  ev'  aha  yattha  sa?«ghassa  dhuvakara
+kariy.antt  ti.  Tass' attho,  yasmi;;i  vihare  imassa  /^ivara-dayakassa
+santakaw  sawghassa  pakava/Zara  va  va//ati,  yasmi;«  va  vihare  bhik-
+khia  attano  bhara?«  katva  sada  gehe  bho^esi.  Yattha  varena  avaso
+va  karito,  salakabhattadini  va  nibaddhani,  yena  pana  sakalo  pi
+viharo  pati/Z/zapito,  tattha  vattabba?«  eva  n'  atthi  ime  dhuvakara
+nama.
+
+
+VIII,  32,  I.         THE    DRESS    OF    THE    BHIKKHUS.  255
+
+
+rice,  or  hard  food,  or  robes,  or  bedding,  or  medi-
+cine \
+
+'  When  he  gives  it  to  a  single  Bhikkhu,  he  says,
+"  I  sfive  a  set  of  robes  to  such  and  such  a  one."  '
+
+
+Here    ends   the    eighth   Khandhaka,  the  A'ivara-
+
+khandhaka.
+
+
+^  That  is,  he  invites*  a  number  of  Bhikkhus  to  partake  of  yagu,
+and  when  the  yagu  is  served  he  says,  'I  give  robes  to  those  who
+have  partaken  of  the  yagu,'  and  so  on  in  all  the  other  cases  except
+that  of  robes.  In  that  case  he  says, '  I  give  robes  to  those  who
+have  previously  received  robes  from  me'  (B.).
+
+
+256  MAHAVAGGA.  IX,  1,1.
+
+
+NINTH    KHANDHAKA.
+
+(validity  and  invalidity  of  formal  acts
+of  the  samgua.)
+
+
+I.  At  that  time  the  blessed  Buddha  dwelt  at
+A'ampa,  on  the  brink  of  the  lotus-pond  Gaggara.
+At  that  time  there  was  in  the  country  of  Kasi  (a
+village)  called  Vasabha-gama.  There  a  Bhikkhu
+called  Kassapa-gotta  had  his  residence,  who  was
+bound  (to  that  place)  by  the  string  (of  the  religious
+duties  which  he  had  to  perform  there  ^),  and  who
+exerted  himself  to  the  end  that  clever  Bhikkhus
+from  a  distance  might  come  to  that  place,  and  the
+clever  Bhikkhus  therein  might  live  at  ease,  and  that
+(religious  life  at)  that  residence  might  progress,
+advance,  and  reach  a  high  state.
+
+Now  at  that  time  a  number  of  Bhikkhus,  making
+their  pilgrimage  in  the  country  of  Kasi,  came  to
+Vasabha-gama.  And  the  Bhikkhu  Kassapa-gotta
+saw  those  Bhikkhus  coming  from  afar ;  when  he  saw
+them,  he  prepared  seats  for  them,  brought  water  for
+the  washing  of  their  feet,  a  foot-stool,  and  a  towel  ^.
+Then  he  went  forth  to  meet  them,  took  their  bowls
+and  their  robes,  offered  them  (water)  to  drink,  and
+provided  a  bath  for  them,  and  provided  also  rice-
+milk  and  food  hard  and  soft.
+
+
+^  Tanti-baddha.    Buddhaghosa  says, Tanti-baddho  'ti  tasmiw
+avase  katabbata-tanti-pa/ibaddho.
+^  See  our  note  at  I,  6,11.
+
+
+IX,   1,3-  FORMAL    ACTS    OF    THE    SAilfGHA.  257
+
+« _ —  ■    ■  ■'  ,  ■■■■,■,,,■■■■--■■,■     ■
+
+Now  those  stranger  Bhikkhus  thought :  '  The
+resident  Bhikkhu  here,  O  friends,  is  indeed  good-
+natured  ;  he  provides  a  bath  for  us  and  provides
+also  rice-milk,  and  food,  hard  and  soft.  What  if  we
+were  to  stay  here,  friends,  at  Vasabha-gama.'  Thus
+those  stranger  Bhikkhus  stayed  there  at  Vasabha-
+gama.
+
+2.  Now  the  Bhikkhu  Kassapa-gotta  thought :
+'These  stranger  Bhikkhus  are  rested  now  from  their
+travel-weariness ;  they  did  not  know  their  way  here
+before,  but  now  they  know  their  way.  It  is  trouble-
+some indeed  to  be  busy  all  one's  life  for  people  not
+related  to  one's  self,  and  being  asked  ^  is  disagree-
+able to  men.  What  if  I  were  to  provide  no  longer
+rice-milk,  and  food,  hard  and  soft  (for  those  Bhik-
+khus).' Thus  he  did  not  provide  any  more  (for
+them)  rice-milk,  and  food,  hard  and  soft.
+
+Then  those  stranger  Bhikkhus  thought :  '  Formerly,
+friends,  this  resident  Bhikkhu  used  to  provide  baths
+for  us,  and  to  provide  also  rice-milk,  and  food,  hard
+and  soft.  But  now  he  does  not  provide  any  more
+rice-milk,  and  food,  hard  and  soft.  This  resident
+Bhikkhu,  friends,  is  in  anger  with  us  now.  Well,
+friends,  let  us  pronounce  expulsion  against  this
+resident  Bhikkhu.'
+
+3.  Then  those  stranger  Bhikkhus  assembled  and
+said  to  the  Bhikkhu  Kassapa-gotta :  '  Formerly,
+friend,  you  used  to  provide  baths  for  us  and  to
+provide  also  rice-milk,  and  food,  hard  and  soft.
+But  now  you  do  not  provide  any  more  rice-milk,
+and  food,  hard  and  soft.  You  have  committed  an
+offence,  friend  ;  do  you  see  that  offence  ? '
+
+^  As  he  was  obliged  to  ask  the  people  of  Vasabha-gama  for
+what  the  stranger  Bhikkhus  wanted.
+
+[17]  s
+
+
+2^8  MAHAVAGGA.  IX,  i,  4.
+
+
+'  There  is  no  offence,  friends,  for  me  to  see.'
+Then  those  stranger  Bhikkhus  pronounced  ex-
+pulsion against  the  Bhikkhu  Kassapa-gotta  for  his
+refusal  to  see  that  (pretended)  offence.  Then  the
+Bhikkhu  Kassapa-gotta  thought :  '  I  do  not  know
+indeed  whether  this  is  an  offence  or  not,  and
+whether  I  have  made  myself  guilty  of  an  offence
+or  not,  and  whether  I  have  been  expelled  or  not,
+and  whether  that  sentence  is  lawful  or  unlawful,
+objectionable  or  unobjectionable,  valid  or  invalid.
+What  if  I  were  to  go  to  ATampa  and  to  ask  the
+Blessed  One  about  this  matter  ?'
+
+4.  And  the  Bhikkhu  Kassapa-gotta  put  his
+resting-place  in  order,  took  up  his  alms-bowl  and
+his  robe,  and  went  forth  to  A'ampa ;  and  in  due
+course  he  came  to  iTampa  and  to  the  place  where
+the  Blessed  One  was.  Having  approached  him
+and  respectfully  saluted  the  Blessed  One,  he  sat
+down  near  him.
+
+Now  it  is  the  custom  of  the  blessed  Buddhas
+to  exchange  greeting  with  incoming  Bhikkhus.
+And  the  Blessed  One  said  to  the  Bhikkhu  Kas-
+sapa-gotta :  *  Is  it  all  well  with  you,  O  Bhikkhu  ?
+Do  you  find  your  living?  Have  you  made  your
+journey  without  too  much  fatigue  ?  And  from
+what  place  do  you  come,  O  Bhikkhu?'
+
+'  It  is  all  well,  Lord;  I  find  my  living,  Lord;
+I  have  made  the  journey.  Lord,  without  too  much
+fatigue.
+
+5.  '  There  is  in  the  country  of  Kasi,  Lord,  (a
+village)  called  Vasabha-gama.  There  I  had  my
+residence.    Lord,    (&c.^    down    to:)      Then    those
+
+
+^  See  §§  1-3.      Instead  of  '  the  Bhikkhu  Kassapa-gotta'  the
+
+
+IX,  1,7-  FORMAL    ACTS    OF    THE    SA3/GHA.  259
+
+
+Stranger  Bhikkhus,  Lord,  pronounced  against  me
+expulsion  for  my  refusal  to  see  that  offence.  Then
+I  thought,  Lord:  "I  do  not  know  indeed  whether
+this  is  an  offence  or  not,  and  whether  I  have
+made  myself  guilty  of  an  offence  or  not,  and
+whether  I  have  been  expelled  or  not,  and  whether
+that  sentence  is  lawful  or  unlawful,  objectionable
+or  unobjectionable,  valid  or  invalid.  What  if  I
+were  to  go  to  A'ampi  and  to  ask  the  Blessed  One
+about  this  matter."    Thus  I  have  come  here,  Lord.'
+
+6.  (Buddha  replied) :  '  This  is  no  offence,  O  Bhik-
+khu;  it  is  not  an  offence.  You  are  innocent;  you
+are  not  guilty  of  an  offence.  You  are  not  expelled,
+and  have  not  been  expelled ;  the  sentence  by  which
+you  have  been  expelled  is  unlawful,  objectionable,
+and  invalid.  Go,  O  Bhikkhu,  and  settle  yourself
+again  at  Vasabha-gama.'
+
+The  Bhikkhu  Kassapa-gotta  expressed  his  assent
+to  the  Blessed  One  (by  saying),  *  Yes,  Lord,'  rose
+from  his  seat,  and  having  respectfully  saluted  the
+Blessed  One  and  walked  round  him  with  his  right
+side  towards  him,  he  went  on  his  way  to  Vasabha-
+
+
+gama.
+
+
+7.  Now  those  stranger  Bhikkhus  (at  Vasabha-
+gama)  were  overcome  by  scruples  and  remorse :
+'  It  is  all  loss  to  us  indeed,  it  is  no  gain  to  us ;
+we  will  fare  ill  indeed,  we  will  not  fare  well,  in
+this  that  we  have  expelled  that  pure,  guiltless
+Bhikkhu  without  any  cause  and  reason.  Well,
+friends,  let  us  go  to  A"ampa  and  let  us  confess
+there  in  the  Blessed  One's  presence  our  sin  in  its
+sinfulness.'
+
+pronoun  of  the  first  person  is  to  be  read;    and  the  appellation
+• '  Lord,'  addressed  to  Buddha,  is  inserted  several  times.
+
+S   2
+
+
+2  6o  MAHAVAGGA.  IX,  i,  8.
+
+And  those  stranger  Bhikkhus  put  their  resting-
+places  in  order,  took  up  their  alms-bowls  and  their
+robes,  and  went  forth  to  A'ampa,  and  in  due  course
+they  came  to  A!ampa  and  to  the  place  where  the
+Blessed  One  was.  Having  approached  him  and
+respectfully  saluted  the  Blessed  One,  they  sat  down
+near  him.  Now  it  is  the  custom  of  the  blessed
+Buddhas  (&c.\  down  to:)  *  It  is  all  well,  Lord;
+we  find  our  living.  Lord  ;  we  have  made  the  journey,
+Lord,  without  too  much  fatigue.  There  is  in  the
+country  of  Kasi,  Lord,  (a  village)  called  Vasabha-
+gama;  from  that  place  we  come.  Lord.'
+
+8.  '  So  are  you,  O  Bhikkhus,  those  who  have
+expelled  the  resident  Bhikkhu  there?'
+
+'  We  are,  Lord.'
+
+*  For  what  cause,  O  Bhikkhus,  and  for  what
+reason  ? '
+
+'  Without  any  cause  and  reason,  Lord.'
+
+Then  the  Blessed  One  rebuked  those  Bhikkhus :
+'  That  is  improper,  O  Bhikkhus,  it  is  unbecoming,
+indecent,  unworthy  of  Sama;^as,  unallowable,  and  to
+be  avoided.  How  can  you,  O  fools,  expel  a  pure
+and  guiltless  Bhikkhu,  without  any  cause  and  reason  ?
+This  will  not  do,  O  Bhikkhus,  for  converting  the
+unconverted.'  Having^  thus  rebuked  them  and  deli-
+vered  a  religious  discourse,  he  thus  addressed  the
+Bhikkhus  :  '  Let  no  one,  O  Bhikkhus,  expel  a  pure
+and  guiltless  Bhikkhu  without  cause  and  reason.
+He  who  does,  commits  a  dukka/a  offence.'
+
+9,  Then  those  Bhikkhus  rose  from  their  seats,
+adjusted   their   upper    robes    so   as    to    cover    one
+
+
+^  See  §  4.  The  alterations  to  be  made  ('those  Bhikkhus'  instead
+of  '  the  Bhikkhu  Kassapa-gotta,'  &c.)  are  obvious.
+
+
+IX,  2,  I.  FORMAL    ACTS    OF    THE    SAMGIIA.  26 1
+
+
+shoulder,  prostrated  themselves,  inclining  their  heads
+to  the  feet  of  the  Blessed  One,  and  said  to  the
+Blessed  One  :  '  Transgression,  O  Lord,  has  over-
+come us  like  the  foolish,  like  the  erring,  like  the
+unhappy,  in  this  that  we  have  expelled  a  pure,
+guiltless  Bhikkhu  without  any  cause  and  reason.
+May,  O  Lord,  the  Blessed  One  accept  (the  confes-
+sion of)  our  sin  in  its  sinfulness,  and  we  will  refrain
+from  it  in  future.'
+
+'  Truly,  O  Bhikkhus,  transgression  has  overcome
+you  like  the  foolish,  like  the  erring,  like  the  unhappy,
+in  that  you  have  expelled  a  pure,  guiltless  Bhikkhu
+without  any  cause  and  reason.  But  as  you  see,  O
+Bhikkhus,  your  sin  in  its  sinfulness,  and  duly  make
+amends  for  it,  we  accept  it  from  you.  For  this,  O
+Bhikkhus,  is  called  progress  in  the  discipline  of  the
+noble  one,  if  one  sees  his  sin  in  its  sinfulness,  and
+duly  makes  amends  for  it,  and  refrains  from  it  in
+future.'
+
+
+I.  At  that  time  the  Bhikkhus  of  A'ampa  performed
+official  acts  in  the  following  ways  :  they  performed
+unlawful  acts  before  an  incomplete  congregation ;
+they  performed  unlawful  acts  before  a  complete  con-
+gregation; they  performed  lawful  acts  before  an
+incomplete  congregation  ;  they  performed  seemingly
+lawful  acts  before  an  incomplete  congregation ;  they
+performed  seemingly  lawful  acts  before  a  complete
+congregation ;  a  single  Bhikkhu  pronounced  expul-
+sion against  a  single  one ;  a  single  Bhikkhu  pro-
+nounced expulsion   against  two ;   a  single   Bhikkhu
+
+
+262  MAHAVAGGA.  IX,  2,  2.
+
+
+pronounced  expulsion  against  a  number  of  Bhik-
+khus;  a  single  Bhikkhu  pronounced  expulsion
+against  a  S^nngha;  two  Bhikkhus  pronounced  ex-
+pulsion against  a  single   one  ....  against  two  ....
+
+against  a  number  of  Bhikkhus against  a  Sawgha  ;
+
+a  number  of  Bhikkhus  pronounced  expulsion  against
+a  single  one  ...  .  against  two  ....  against  another
+
+number against  a  Sa?;2gha  ;  a  Sawgha  pronounced
+
+expulsion  against  another  Sawgha\
+
+2.  Those  Bhikkhus  who  were  moderate,  were
+annoyed,  murmured,  and  became  angry:  '  How  can
+the  Bhikkhus  of  T^ampa  perform  official  acts  in  the
+following  ways :  perform  unlawful  acts  before  an
+incomplete  congregation  (&c.,  down  to:)  how  can
+a    Sawgha    pronounce    expulsion    against    another
+
+Sawgha  ?'
+
+These  Bhikkhus  told  this  thing  to  the  Blessed  One.
+
+'  Is  it  true,  as  they  say,  O  Bhikkhus,  that  the
+Bhikkhus  of  A'ampa  perform  official  acts  in  the
+following  ways,  &c.  ?'
+
+'  It  is  true,  Lord.'
+
+Then  the  blessed  Buddha  rebuked  those  Bhik-
+khus :  *  It  is  improper,  O  Bhikkhus,  what  these
+foolish  persons  are  doing  ;  it  is  unbecoming,  indecent,
+unworthy  of  Sama;^as,  unallowable,  and  to  be  avoided.
+How  can  these  foolish  persons,  O  Bhikkhus,  perform
+official  acts  in  the  following  ways,  &c.  This  will  not
+do,  O  Bhikkhus,  for  converting  the  unconverted.'
+Having  thus  rebuked  them  and  delivered  a  religious
+discourse,  he  thus  addressed  the  Bhikkhus  :
+
+3.    'If  an  official  act,  O   Bhikkhus,  is  performed
+
+^  The  cases  of  a  Sawgha's  expelling  a  single  Bhikkhu,  or  two
+Bhikkhus,  or  a  number  of  Bhikkhus,  are  omitted,  because  such
+proceedings  are  lawful.
+
+
+IX,  2,  4-     FORMAL  ACTS  OF  THE  SAMGHA.        263
+
+unlawfully  by  an  incomplete  congregation,  it  is  no
+real  act^  and  ought  not  to  be  performed.  An  official
+act  performed  unlawfully  by  a  complete  congregation
+is  no  real  act  and  ought  not  to  be  performed  (&c.,
+as  in  §  I,  down  to  :).  A  seemingly  lawful  act  per-
+formed before  a  complete  congregation  is  no  real  act
+and  ought  not  to  be  performed.  In  case  a  single
+Bhikkhu  pronounces  expulsion  against  a  single  one, —
+this  is  no  real  act  and  ought  not  to  be  performed
+(&c.,  down  to:).  In  case  a  Sawgha  pronounces
+expulsion  against  another  Sa?;^gha, — this  is  no  real
+act  and  ought  not  to  be  performed.
+
+4.  '  There  are,  O  Bhikkhus,  four  kinds  of  official
+acts  (which  a  Sa;;/gha  can  perform) ;  an  unlawful  act
+performed  by  an  incomplete  congregation,  an  unlaw-
+ful act  performed  by  a  complete  congregation,  a
+lawful  act  performed  by  an  incomplete  congre-
+gation, and  a  lawful  act  performed  by  a  complete
+conofreoation.
+
+o       o
+
+'  If,  O  Bhikkhus,  an  act  is  unlawful  and  performed
+by  an  incomplete  congregation  —  such  an  act,  O
+Bhikkhus,  is  objectionable  and  invalid  on  account  of
+its  unlawfulness  and  of  the  incompleteness  (of  the
+congregation).  Such  an  act,  O  Bhikkhus,  ought  not
+to  be  performed,  nor  is  such  an  act  allowed  by  me.
+
+'  If,  O  Bhikkhus,  an  act  is  unlawful  and  performed
+by  a  complete  congregation — such  an  act,  O  Bhik-
+khus, is  objectionable  and  invalid  on  account  of  its
+unlawfulness.     Such  an  act,  &c.
+
+*  If,  O  Bhikkhus,  an  act  is  lawful  and  performed
+by  an  incomplete  congregation  —  such  an  act,  O
+Bhikkhus,  is  objectionable  and  invalid  on  account  of
+
+
+^  I.  e.  it  is  null  and  void.
+
+
+264  MAHAVAGGA.  IX,  3,  i.
+
+
+the  incompleteness  (of  the  congregation).  Such  an
+act,  &c.
+
+'  If,  O  Bhikkhiis,  an  act  is  lawful  and  performed
+by  a  complete  congregation — such  an  act,  O  Bhik-
+khus,  is  unobjectionable  and  valid  on  account  of  its
+lawfulness  and  of  the  completeness  (of  the  congre-
+gation). Such  an  act,  O  Bhikkhus,  ought  to  be
+performed,  and  such  an  act  is  allowed  by  me.
+
+'  Therefore,  O  Bhikkhus,  you  ought  to  train  your-
+selves thus  :  "  Lawful  acts  which  are  performed  by
+complete  congregations  —  such  acts  will  we  per-
+form ^"'
+
+
+3.
+
+I.  At  that  time  the  A^//abbaggiya  Bhikkhus  per-
+formed official  acts  in  the  following  ways :  they
+performed  unlawful  acts  before  an  incomplete  con-
+gregation (&c.,  as  in  chap.  2,  §  1,  down  to:)  they
+performed  seemingly  lawful  acts  before  a  complete
+congregation;  they  performed  acts  without  a  ?zatti^
+and  with  the  proclamation  (of  the  kammava/J^a^);
+they  performed  acts  without  a  proclamation  (of  the
+kammava/^a)  and  with  the  natti;  they  performed
+acts  without  a  natti  and  without  a  proclamation  (of
+the  kammava/^a) ;  they  performed  acts  contrary  to
+the  Dhamma ;  they  performed  acts  contrary  to  the
+Vinaya  ;  they  performed  acts  contrary  to  the  doctrine
+of  the  Teacher ;  and  they  performed  acts  against
+which  (the  Bhikkhus  present)  protested,  which  were
+unlawful,  objectionable,  and  invalid.
+
+Those  Bhikkhus  who  were  moderate,  were  annoyed,
+
+'  A  similar  injunction  is  found  at  the  close  of. chapter  11,  14.
+2  See  I,  28,  &c.
+
+
+IX,  3,  3-  FORMAL   ACTS    OF   THE    SAMGIIA.  265
+
+&c.  These  Bhikkluis  told  this  thing  to  the  Blessed
+One.
+
+'  Is  it  true,  as  they  say,  O  Bhikkhus,  that  the
+AV/abbaggiya  Bhikkhus,  &c.  ?'
+
+'  It  is  true,  Lord,  &c.'
+
+Having  thus  rebuked  them  and  delivered  a  reli-
+ofious  discourse,  he  thus  addressed  the  Bhikkhus  :
+
+2.  '  If  an  official  act,  O  Bhikkhus,  is  performed
+unlawfully  by  an  incomplete  congregation,  it  is  no
+real  act  and  ought  not  to  be  performed  (&c.\  down
+to:).  If  an  official  act,  O  Bhikkhus,  is  performed
+against  which  (the  Bhikkhus  present)  protest,  which
+is  unlawful,  objectionable,  and  invalid,  this  is  no  real
+act  and  ought  not  to  be  performed.
+
+3.  '  There  are,  O  Bhikkhus,  six  kinds  of  official
+acts  (which  a  Sawgha  can  perform) :  an  unlawful  act,
+an  act  performed  by  an  incomplete  congregation,  an
+act  performed  by  a  complete  congregation,  a  seem-
+ingly lawful  act  performed  by  an  incomplete  congre-
+gation, a  seemingly  lawful  act  performed  by  a  com-
+plete congregation,  a  lawful  act  performed  by  a
+complete  congregation.
+
+'And  which,  O  Bhikkhus,  is  an  unlawful  act?  If
+one  performs,  O  Bhikkhus,  a  7'^attidutiya  act-  with
+one  ;7atti,  and  does  not  proclaim  a  kammava/('a,  such
+an  act  is  unlawful.  If  one  performs,  O  Bhikkhus,
+a  ^^attidutiya  act  with  two  ;'2attis  and  does  not
+proclaim  a  kammava/C'a  ....  with  one  kamma-
+va/('a  and  does  not  propose  a  /'^atti  ....  with  two
+
+^  Here  the  different  categories  of  forbidden  acts  are  enumerated
+one  after  the  other,  as  in  §  i.
+
+"^  About  watti,  kammava^a,  »iattidutiya,  and  natti^atuttha
+acts,  see  our  note  at  I,  28,  3.  '  Proposing  a  Ttatti'  and  '  proclaim-
+ing a  kammava/('a'  mean  proposing  a  motion  and  putting  a
+resolution  to  the  assembled  brethren.
+
+
+266  MAHAVAGGA.  IX,  3,  4.
+
+kammava/'as  and  does  not  propose  a  ?^atti,  such
+an  act  is  unlawful.
+
+4.  '  If  one  performs,  O  Bhikkhus,  a  ;?atti/§atuttha
+act  with  one  ;'^atti  and  does  not  proclaim  a  kamma-
+va-^a,  such  an  act  is  unlawful.  If  one  performs,
+O  Bhikkhus,  a  ;1atti/'atuttha  act  with  two  (.  .  .  .
+three,  ....  four)  ;2attis  and  does  not  proclaim  a
+kammava/^a,  such  an  act  is  unlawful.  If  one  per-
+forms, O  Bhikkhus,  a  ^latti/C'atuttha  act  with  one
+kammava/^a  (.  .  .  .  with  two,  ....  three,  ....  four
+kammava/i'as)  and  does  not  propose  a  ;^atti,  such
+an  act  is  unlawful.  Such  acts,  O  Bhikkhus,  are
+called  unlawful  acts.
+
+5.  '  And  which,  O  Bhikkhus,  is  an  act  of  an  incom-
+plete congregation  ?
+
+'If,  O  Bhikkhus,  at  a  ?^attidutiya  act  not  all
+Bhikkhus,  as  many  as  are  entitled  to  vote,  are
+present,  if  the  /^/^anda^  of  those  who  have  to  de-
+clare their  >(V^anda  has  not  been  conveyed  (to  the
+assembly),  and  if  the  Bhikkhus  present  protest,  such
+an  act  is  performed  by  an  incomplete  congregation.
+
+'If,  O  Bhikkhus,  at  a  ^attidutiya  act  as  many
+Bhikkhus  as  are  entitled  to  vote,  are  present,  but  if
+the  /^/^anda  of  those  who  have  to  declare  their  /^//anda
+has  not  been  conveyed  (to  the  assembly),  and  if  the
+Bhikkhus  present  protest,  such  an  act  is  performed
+by  an  incomplete  congregation.
+
+'  If,  O  Bhikkhus,  at  a  /lattidutiya  act  as  many
+Bhikkhus  as  are  entitled  to  vote,  are  present,  if  the
+A'/iSLuda.  of  those  who  have  to  declare  their  >^7/anda
+has  been  conveyed,  but  if  the  Bhikkhus  present  pro-
+test, such  an  act  is  performed  by  an  incomplete
+congregation.
+
+'  See  II,  23.
+
+
+IX,  3,  8.  FORMAL    ACTS    OF    THE    SAMGUA.  267
+
+
+*  If,  O  Bhikkhus,  at  a  ?7atti/;atuttha  act,  &c.^
+
+'  Such  acts,  O  Bhikkhus,  are  called  acts  performed
+by  incomplete  congregations.
+
+6.  '  And  which,  O  Bhikkhus,  is  an  act  of  a  com-
+plete congregation  ?
+
+'  If,  O  Bhikkhus,  at  a  7lattidutiya  act  as  many
+Bhikkhus  as  are  entitled  to  vote,  are  present,  if  the
+X'/zanda  of  those  who  have  to  declare  their  /7/anda
+has  been  conveyed  (to  the  assembly),  and  if  the
+Bhikkhus  present  do  not  protest,  such  an  act  is  per-
+formed by  a  complete  congregation.
+
+'  If,  O  Bhikkhus,  at  a  ;^atti/C'atuttha  act  (&c.,  as
+
+in  last  section),
+
+'  Such  acts,  O  Bhikkhus,  are  called  acts  performed
+
+by  complete  congregations.
+
+7.  '  And  which,  O  Bhikkhus,  is  a  seemingly  lawful
+act  performed  by  an  incomplete  congregation  ?
+
+'  If,  O  Bhikkhus,  at  a  ;/attidutiya  act  the  kam-
+mava/^a  is  proclaimed  first  and  the  /'latti  is  proposed
+afterwards,  if  not  all  Bhikkhus,  as  many  as  are  en-
+titled to  vote,  are  present,  &c.^
+
+8.  'And  which,  O  Bhikkhus,  is  a  seemingly  lawful
+act  performed  by  a  complete  congregation  ?
+
+*  If,  O  Bhikkhus,  at  a  ;/attidutiya  act  the  kam-
+mava/^a  is  proclaimed  first  and  the  U3.tu  is  pro-
+posed afterwards,  if  as  many  Bhikkhus  as  are  entitled
+to  vote,  are  present,  &c.^
+
+
+^  The  identical  three  cases  given  before  with  regard  to  the
+?1attidutiya  act  are  repeated  here.
+
+^  The  six  cases  given  in  this  paragraph,  of  which  three  refer  to
+?«attidutiya  acts  and  three  to  ?tattiX'atuttha  acts,  differ  from
+those  specified  in  §  5  only  by  the  statement  added  in  each  of  these
+cases  regarding  the  inverted  order  of  natti  and  kammava-i'a.
+
+'  This  paragraph  stands  precisely  in  the  same  relation  to  §  6
+in  which  the  preceding  one  stands  to  §  5.
+
+
+268  MAHAVAGGA.  IX,  3,  9.
+
+9.  '  And  which,  O  Bhikkhus,  is  a  lawful  act  per-
+formed by  a  complete  congregation  ?
+
+'  If,  O  Bhikkhus,  at  a  ;^attidutiya  act  the  T^atti
+is  proposed  first  and  afterwards  the  act  is  performed
+with  one  kammavaX'a,  if  as  many  Bhikkhus  as  are
+entitled  to  vote,  are  present,  if  the  ZV/anda  of  those
+who  have  to  declare  their  /^//anda  has  been  con-
+veyed (to  the  assembly),  and  if  the  Bhikkhus  present
+do  not  protest,  such  an  act  is  lawful  and  performed
+by  a  complete  congregation.
+
+*  If,  O  Bhikkhus,  at  a  7^atti/^atuttha  act  the
+;/atti  is  proposed  first  and  afterwards  the  act  is
+performed  with  three  kammava/^as,  if  as  many
+Bhikkhus  as  are  entitled  to  vote,  &c,,  such  an  act  is
+lawful  and  performed  by  a  complete  congregation.'
+
+
+I,  'There  are  five  kinds  of  Sawghas:  the
+Bhikkhu  Sa7;?gha  consisting  of  four  persons,  the
+Bhikkhu  Sa/z/gha  consisting  of  five  persons  ....  of
+ten  persons  ....  of  twenty  persons  ....  of  more
+than  twenty  persons.
+
+'  In  case,  O  Bhikkhus,  the  Bhikkhu  Sa7;^gha  con-
+sist of  four  persons,  and  acts  lawfully,  and  is  com-
+plete, it  is  entitled  to  perform  all  official  acts  except
+three  acts,  that  is,  the  upasampada  ordination,
+pavdra/^a,  and  abbhana^
+
+'  In  case,  O  Bhikkhus,  the  Bhikkhu  SsLmghs.  con-
+sist of  five  persons,  and  acts  lawfully,  and  is  com-
+plete, it  is  entitled  to  perform  all  official  acts  except
+
+^  See  A'ullavagga  III,  2  seq.
+
+
+IX,  4,  2.  FORMAL    ACTS    OF    THE    SAil/GIIA.  269
+
+two  acts,  that  is,  the  upas  am  pa  da  ordination  in
+the  central  countries^  and  abb  h  an  a.
+
+'  In  case,  O  Bhikkhus,  the  Bhikkhu  Sawgha  con-
+sist of  ten  persons,  and  acts  lawfully,  and  is  complete,
+it  is  entitled  to  perform  all  official  acts  except  one,
+namely,  abbhana,
+
+'  In  case,  O  Bhikkhus,  the  Bhikkhu  Sawgha  con-
+sist of  twenty  persons,  and  acts  lawfully,  and  is  com-
+plete, it  is  entitled  to  perform  all  official  acts.
+
+'  In  case,  O  Bhikkhus,  the  Bhikkhu  Sawgha  con-
+sist of  more  than  twenty  persons,  and  acts  lawfully,
+and  is  complete,  it  is  entitled  to  perform  all  official
+acts.
+
+2.  'An  official  act,  O  Bhikkhus,  which  requires
+the  presence  of  four  persons,  if  performed  by  a
+conereoation  in  which  a  Bhikkhuni  is  the  fourth,  is
+no  real  act,  and  ought  not  to  be  performed.  An
+official  act,  O  Bhikkhus,  which  requires  the  pre-
+sence of  four  persons,  if  performed  by  a  congrega-
+tion in  which  a  sikkhamana  is  the  fourth,  .  .  .  .in
+which  asama;^era,  &c.^,  is  the  fourth,  ....  in  which
+a  person  belonging  to  another  communion  is  the
+fourth,  ....  in  which  a  person  staying  within  a
+different  boundary  ^  is  the  fourth,  ...  .in  which
+a  person  poised  in  the  air  by  supernatural  power  is
+
+
+^  As  regards  the  exceptional  regulations  referring  to  the  upa-
+sampada  ordination  in  the  bordering   countries,   see  above,  V,
+
+13.  12.
+
+^  Here  follows  the  very  frequent  enumeration  given,  for  instance,
+
+at  II,  36,  §§  1-4-
+
+^  Generally  speaking,  the  two  categories  of  '  persons  belonging
+to  another  communion,'  and  'persons  staying  within  another
+boundary,'  can  be  considered  as  coincident.  In  certain  cases,
+however,  they  could  be  distinguished;  see  X,  i,  §§  9,  10.
+
+
+2  70  MAHAVAGGA.  IX,  4, 3.
+
+the  fourth,  ....  in  which  a  person  against  whom
+the  Sa;;2gha  institutes  a  proceeding  is  the  fourth —
+is  no  real  act  and  ought  not  to  be  performed.'
+
+
+End  of  the  regulations  about  acts  performed  by
+
+four  persons.
+
+
+3
+
+
+5-5.  '  An  official  act,  O  Bhikkhus,  which  requires
+the  presence  of  five  (.  .  .  .  ten,  ....  twenty)  persons,
+if  performed  by  a  congregation  in  which  a  Bhikkhuni,
+&c.^  is  the  fifth  (  .  .  .  .  tenth,  ....  twentieth),  is  no
+real  act  and  ought  not  to  be  performed.'
+
+
+End  of  the  regulations  about  acts  performed  by
+five,  (ten,  twenty)  persons.
+
+
+6.  'If,  O  Bhikkhus,  a  congregation  in  which  a
+person  sentenced  to  the  parivasa  discipline^  is  the
+fourth,  institutes  the  proceedings  of  parivasa,  of
+mtalaya  pa/ikassana,  and  of  manatta,  or  if  a  con-
+gregation in  which  such  a  person  is  the  twentieth,
+confers  abbhana,  this  is  no  real  act  and  ought  not
+to  be  performed.
+
+'  If,  O  Bhikkhus,  a  congregation  in  which  a  person
+that  ought  to  be  sentenced  to  miilaya  pa/ikas-
+sana  ....  that  ought  to  be  sentenced  to  manatta
+....  that  is  subject  to  the  manatta  discipline  ....
+
+^  Here  the  enumeration  of  §  2  is  repeated.
+
+^  See  about  parivasa,  and  the  other  Sawghakammas  referred
+to  in  this  paragraph,  the  details  given  in  the  second  book  of  the
+^ATullavagga.
+
+
+IX,  4,  8.  FORMAL    ACTS    OF    THE    SAMGIIA.  27I
+
+on  whom  the  abbhana  sentence  ought  to  be  con-
+ferred \  histitutes  the  proceedings  of  parivdsa,  of
+miilaya  pa/ikassana,  and  of  manatta,  or  if  a
+congregation  in  which  such  a  person  is  the  twentieth,
+confers  abbhana,  this  is  no  real  act  and  ought  not
+to  be  performed.
+
+7.  'Of  some  persons,  O  Bhikkhus,  the  protest^
+raised  in  the  assembly  is  effectual,  of  some  persons
+it  is  ineffectual.
+
+'  And  which  are  the  persons,  O  Bhikkhus,  whose
+protest  raised  in  the  assembly  is  ineffectual  ?
+
+'  The  protest,  O  Bhikkhus,  raised  in  the  assembly
+by  a  Bhikkhuni  is  ineffectual.  The  protest,  O
+Bhikkhus,  raised  in  the  assembly  by  a  sikkha-
+mana  (8cc.^,  down  to  :)  by  a  person  against  whom
+the  Sa?;2gha  institutes  a  proceeding,  is  ineffectual.
+These  are  the  persons,  O  Bhikkhus,  whose  protest
+raised  in  the  assembly  is  ineffectual.
+
+8.  '  And  which  are  the  persons,  O  Bhikkhus,
+whose  protest  raised  in  the  assembly  is  effectual  ?
+
+'  The  protest,  O  Bhikkhus,  of  a  Bhikkhu  who  is
+healthy  (in  mind),  who  belongs  to  the  same  com-
+munion *,  who  stays  within  the  same  boundary  ^,  even
+
+
+^  But  has  not  yet  been  conferred.  An  abbhita  Bhikkhu  is
+considered  as  fully  rehabilitated.
+
+"^  Against  official  acts  which  the  Sawgha  is  performing.
+
+^  This  Hst  of  persons  who  cannot  protest  against  official  acts  of
+the  Sawgha  differs  from  that  given  in  §  2  or  at  II,  36,  §§  1-4,  only
+by  three  categories  being  here  added  after  'a  person  guilty  of
+an  extreme  offence'  (antimavatthuw  a^^//apannaka).  These  cate-
+gories are  the  following:  'a  madman,' 'a  person  whose  mind  is
+unhinged,'  'a  person  who  suffers  (bodily)  pain.'    See  II,  22,  3,  &c.
+
+*  That  is,  the  Sa;//gha  which  is  going  to  perform  the  act  in
+question.
+
+^  See  the  note  at  §  2.
+
+
+272  MAHAVAGGA.  IX,  4,  9.
+
+if  he  have  committed  a  sin  which  brings  about  imme-
+diate punishment  in  hell, — if  he  give  notice  of  his
+protest  at  the  meeting, — is  effectual.  This  is  the
+person,  O  Bhikkhus,  whose  protest  raised  in  the
+assembly  is  effectual.
+
+9.  '  There  are,  O  Bhikkhus,  two  cases  of  expul-
+sion ^  (pronounced  against  a  person).  If  expulsion,
+O  Bhikkhus,  had  not  been  pronounced  (before)
+against  a  person,  and  the  Sa;;/gha  pronounces  ex-
+pulsion against  him,  there  are  some  against  whom
+such  expulsion  has  been  pronounced  duly,  and  others
+against  whom  it  has  been  pronounced  unduly.
+
+'  And  which  is  a  person,  O  Bhikkhus,  against
+whom,  if  expulsion  had  not  been  pronounced  before,
+and  the  Sa7;2gha  pronounces  expulsion  against  him,
+expulsion  has  been  pronounced  unduly  ?  In  case,
+O  Bhikkhus,  there  be  a  pure,  guiltless  Bhikkhu, —
+if  the  Sa;;2gha  pronounces  expulsion  against  him,
+expulsion  has  been  pronounced  unduly.  This,  O
+Bhikkhus,  is  called  a  person  against  whom,  if  expul-
+sion had  not  been  pronounced  before,  and  the  Sa;;2gha
+pronounces  expulsion  against  him,  expulsion  has  been
+pronounced  unduly.
+
+*  And  which  is  a  person,  O  Bhikkhus,  against
+whom,  &c.,  expulsion  has  been  pronounced  duly  .'*
+In  case,  O  Bhikkhus,  there  be  an  ignorant,  unlearned
+Bhikkhu,  a  constant  offender,  who  is  unable  to  discern
+what  is  an  offence  2,  who  lives  in  lay  society,  unduly
+
+
+*  Compare  the  rules  regarding  thepabba^aniyakammaj^uUa-
+vagga  I,  13  seq.,  and  our  note  at  I,  79,  i.
+
+2  Anapadana.  Buddhaghosa:  'Anapadano'ti  apa/ana-(read
+apadana-)  virahito.  apadanaw  vu/^Z-ati  pari/^/('//edo.  apatti-pari/^-
+/(•/zeda-virahito  'ti  attho.'  Probably  the  word  must  not  be  derived
+from  the  root  da, '  to  give,'  but  from  da,  'to  cut.'
+
+
+IX,  4,  II.  FORMAL   ACTS    OF    THE    SAMGHA.  273
+
+
+associating  himself  with  lay  people, — if  the  Sawgha
+pronounces  expulsion  against  him,  expulsion  has
+been  pronounced  duly.  This,  O  Bhikkhus,  is
+called  a  person,  &c,
+
+10.  '  There  are,  O  Bhikkhus,  two  cases  of  restora-
+tion (of  an  expelled  Bhikkhu).  If  restoration,  O
+Bhikkhus,  had  not  been  granted  before  to  a  person,
+and  the  Sawgha  grants  restoration  to  him,  there  are
+some  to  whom  such  restoration  will  have  been
+granted  duly,  and  others  to  whom  it  will  have  been
+unduly  granted.
+
+'  And  which  is  a  person,  O  Bhikkhus,  to  whom,
+&c.,  restoration  has  been  granted  unduly  ?  A  eunuch,
+O  Bhikkhus,  to  whom  restoration  had  not  been
+granted  before,  and  whom  the  Sawgha  restores,  has
+been  restored  unduly.  A  person  who  has  furtively
+attached  himself  (to  the  Sa?;/gha),  &c.^  to  whom
+restoration  had  not  been  granted  before,  and  whom
+the  Sawgha  restores,  has  been  restored  unduly.
+
+'  This,  O  Bhikkhus,  is  called  a  person  to  whom,
+&c.,  restoration  has  been  granted  unduly.  These,
+O  Bhikkhus,  are  called  persons  to  whom,  &c.,  resto-
+ration has  been  granted  duly.
+
+11.  'And  which  is  a  person,  O  Bhikkhus,  to  whom,
+&c.,  restoration  has  been  granted  duly?'  Sic."^
+
+End  of  the  first  Bha;^avara,  called  the  Vasabha-
+gima  Bha«avara.
+
+
+*  See  the  list  of  persons  given  at  II,  36,  3.
+
+2  The  formality  and  the  repetitions  are  the  same  here  as  in  §  10,
+and  need  not  be  repeated.  The  list  of  persons  whose  restoration
+is  stated  to  be  valid  is  the  same  as  at  I,  7 1,  i.
+
+
+[n]
+
+
+2  74  MAHAVAGGA.  IX,  5,  r.
+
+
+1.  'In  case,  O  Bhikkhus,  there  be  no  offence
+which  a  Bhikkhu  should  see  (or,  acknowledge  as
+committed  by  himself),  and  if  the  Sa?;?gha,  or  a
+number  of  Bhikkhus,  or  a  single  person  reprove
+him  (and  say):  "You  have  committed  an  offence,
+friend  ;  do  you  see  that  offence  ?" — and  he  replies  :
+"  There  is  no  offence,  friends,  which  I  should  see,"
+and  the  Sa?;2gha  pronounces  expulsion  against  him
+for  his  refusal  to  see  that  offence, — this  is  an  un-
+lawful act.
+
+'  In  case,  O  Bhikkhus,  there  be  no  offence  which
+a  Bhikkhu  should  atone  for,  &c.^
+
+'  In  case,  O  Bhikkhus,  there  be  no  false  doctrine
+which  a  Bhikkhu  should  renounce,  &c.2
+
+2.  '  In  case,  O  Bhikkhus,  there  be  no  offence
+which  a  Bhikkhu  should  see,  and  there  be  no  offence
+which  he  should  atone  for,  and  if  the  Sa;;^gha,  or
+a  number  of  Bhikkhus,  or  a  single  person  reprove
+him  (and  say)  :  "  You  have  committed  an  offence,
+friend ;  do  you  see  that  offence  ?  Atone  for  that
+offence," — and  he  replies  :  "  There  is  no  offence,
+friends,  which    I   should    see ;  there   is   no    offence.
+
+
+^  The  ukkhepaniyakamma  apattiya  appa/inissagge  (expulsion
+for  a  Bhikkhu's  refusal  to  atone  for  an  offence)  is  spoken  of  here
+exactly  in  the  same  terms  as  those  in  which  the  ukkhepaniyakamma
+apattiya  adassane  (expulsion  for  a  Bhikkhu's  refusal  to  see  an
+offence)  is  spoken  of  in  the  preceding  clause.  The  brethren  say
+to  the  pretended  offender,  'You  have  committed  an  offence,  friend ;
+atone  for  that  offence' — which  he  refuses  to  do.
+
+2  As  above;  the  Bhikkhus  institute  the  ukkhepaniyakamma
+papikaya  di/Miya  appa/inissagge  (expulsion  for  a  Bhikkhu's  refusal
+to  renounce  a  false  doctrine).
+
+
+IX,  5,  9-  FORMAL    ACTS    OF    THE    SAA/GIIA.  275
+
+
+friends,  which  I  should  atone  for,"  and  the  Sawgha
+pronounces  expulsion  against  him  for  his  refusal  to
+see  that  offence,  or  for  his  refusal  to  atone  for  that
+offence, — this  is  an  unlawful  act.
+
+o  5  •
+
+6-7.  '  In  case,  O  Bhikkhus,  there  be  an  offence
+
+which  a  Bhikkhu  should  see,  and  if  the  Sa;;/gha,  or
+
+a  number  of  Bhikkhus,  or  a  single  person  reprove
+
+him  (and  say) :  *  You  have  committed  an  offence,
+
+friend  ;  do  you  see  that  offence?" — and  he  replies  :
+
+"  Yes,  friends,  I  see  it,"  and  the  Sawgha  pronounces
+
+expulsion  against  him  for  his  (pretended)  refusal  to
+
+see  that  offence, — this  is  an  unlawful  act.
+
+'  In  case,  O  Bhikkhus,  there  be  an  offence  which
+a  Bhikkhu  should  atone  for,  &c.^
+
+8-9.  '  In  case,  O  Bhikkhus,  there  be  an  offence
+which  a  Bhikkhu  should  see,  and  if  the  Samgha,  or
+a  number  of  Bhikkhus,  or  a  single  person  reprove
+him  (and  say) :  "  You  have  committed  an  offence,
+friend;  do  you  see  that  offence  ?" — and  he  replies  :
+"  There  is  no  offence,  friends,  which  I  should  see,"
+and  the  Saw^gha  pronounces  expulsion  against  him
+for  his  refusal  to  see  that  offence, — this  is  a  lawful
+act^'
+
+
+^  As  in  §  2,  the  first  and  second  of  the  three  cases  given  in  §  i
+are  combined,  so  follow  now  combinations  of  the  first  and  third,
+the  second  and  third,  and  of  the  first,  second,  and  third  cases
+respectivel3^
+
+"^  Here  follow  again  the  cases  of  the  ukkhepaniyakamma  apat-
+tiya  appa/inissagge  and  papikaya  di////iya  appa/inissagge,  and  the
+combinations  of  the  three  cases  as  above.
+
+^  Here  follow  the  two  other  cases,  together  with  the  combinations
+of  the  three,  exactly  as  above.
+
+
+T   2
+
+
+276  MAHAVAGGA.  IX,  6,  I.
+
+
+6.
+
+1.  And  the  venerable  UpalP  went  to  the  place
+where  the  Blessed  One  was.  Having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he  sat
+down  near  him.  Sitting  near  him  the  venerable
+Upali  said  to  the  Blessed  One :  '  Lord,  if  a  complete
+congregation  performs  an  act  at  which  the  presence
+(of  the  accused  Bhikkhu)  is  required,  in  his  absence —
+is  this  act.  Lord,  performed  lawfully  according  to
+Dhamma  and  Vinaya  ? '
+
+'  It  is  performed,  Upali,  unlawfully  against
+Dhamma  and  Vinaya.'
+
+2.  '  Lord,  if  a  complete  congregation  performs  an
+act  at  which  (the  accused  Bhikkhu)  ought  to  be
+called  upon  for  an  answer,  without  calling  upon  him
+for  an  answer — if  it  performs  an  act  at  which  the
+confession  (of  the  culprit)  is  required,  without  his
+confession — if  it  grants  to  a  Bhikkhu  to  whom  sati-
+vinaya^  ought  to  be  granted,  an  amu//zavinaya  ^ —
+if  it  proceeds  against  a  Bhikkhu  to  whom  amu//za-
+vinaya  ought  to  be  granted,  with  the  tassapapiyya-
+sikakamma^ — if  it  proceeds  against  a  Bhikkhu
+against  whom  the  ta  ssapapi yyas  ikakamma  ought
+
+
+^  That  the  redactors  of  this  Pi/aka  have  chosen  Upali  here  and
+at  X,  6,  ^ullavagga  II,  2,  7,  to  question  the  Blessed  One  about  the
+Vinaya  regulations,  stands  evidently  in  connection  with  the  tradition
+ascribing  to  Upali  an  especial  authority  regarding  the  rules  of  the
+Order  and  styling  him,  as  is  said  in  the  Dipava;«sa  (IV,  3,  5  ;  V,
+7,  9),  agganikkhittaka,  i.e.  original  depositary,  of  the  Vinaya
+tradition.     See  our  Introduction,  p.  xii  seq.
+
+2  See  ^ullavagga  IV,  4, 10.  '  See  ^uUavagga  IV,  5.
+
+♦  See  ^ullavagga  IV,  1 1.
+
+
+IX,  6,  3-  FORMAL    ACTS    OF    THE   SAMGIIA.  277
+
+to  be  instituted,  with  the  ta^^aniyakamma^ — if  it
+proceeds  against  a  Bhikkhu  against  whom  the  X.2igg^-
+niyakamma  ought  to  be  instituted,  with  the  nissa-
+yakamma — if  it  proceeds  against  a  Bhikkhu  against
+whom  the  nissayakamma  ought  to  be  instituted,
+with  the  pabb^^aniyakamma  —  if  it  proceeds
+against  a  Bhikkhu  against  whom  the  pabba^aniya-
+kamma  ought  to  be  instituted,  with  the  pa/isd-
+ra;^iyakamma — if  it  proceeds  against  a  Bhikkhu
+against  whom  the  pa/isara;^iyakamma  ought  to
+be  instituted,  with  the  ukkhepaniyakamma — if  it
+sentences  a  Bhikkhu  against  whom  the  ukkhepa-
+niyakamma ought  to  be  instituted,  to  parivasa^ —
+if  it  sentences  a  Bhikkhu  who  ought  to  be  sentenced
+to  parivasa,  to  mtilaya  pa/ikassani — if  it  sen-
+tences a  Bhikkhu  who  ought  to  be  sentenced  to
+mulaya  pa/ikassana,  to  manatta — if  it  grants  to
+a  Bhikkhu  who  ought  to  be  sentenced  to  mdnatta,
+the  decree  of  abbhana — if  it  confers  on  a  Bhikkhu
+to  whom  abbhana  ought  to  be  granted,  the  u pa-
+samp  a  da  ordination, — is  this  act.  Lord,  performed
+lawfully  according  to  Dhamma  and  Vinaya  ?'
+
+3.  '  It  is  performed,  Upali,  unlawfully  against
+Dhamma  and  Vinaya.  If  a  complete  congregation,
+Upali,  performs  an  act  at  which  the  presence  (of  the
+accused  Bhikkhu)  is  required,  in  his  absence  (&c.,
+down  to:)  confers  on  a  Bhikkhu  to  whom  abbhana
+ought  to  be  granted,  the  upasampada  ordina-
+tion,— in  such  case,  Upali,  this  act  is  performed
+unlawfully  against  Dhamma  and  Vinaya,  and  in
+such  case  this  Sa;;^gha  trespasses  against  the  law.'
+
+^  This  Sawghakamma  and  the  following  ones  are  explained  in
+A'ullavagga  I,  i  seq.
+
+^  For  this  term  and  the  next  ones,  see  A'ullavagga  III,  1-7.
+
+
+278  MAHAVAGGA.  IX,  6,  4.
+
+4.  '  Lord,  if  a  complete  congregation  performs  an
+act  at  which  the  presence  (of  the  accused  Bhikkhu)
+is  required,  in  his  presence  (&c.,  down  to:)  confers
+on  a  person,  on  whom  the  upasampada  ordination
+ought  to  be  conferred,  the  upasampada  ordina-
+tion,— is  this  act.  Lord,  performed  lawfully  according
+to  Dhamma  and  Vinaya  ? '
+
+'It  is  performed,  Upali,  lawfully  according  to
+Dhamma  and  Vinaya.  If  a  complete  congregation
+performs  an  act  (&c.,  down  to:)  the  upasampada
+ordination, — in  such  case,  Upali,  this  act  is  performed
+lawfully  according  to  Dhamma  and  Vinaya,  and  in
+such  case  this  Sai';/gha  does  not  trespass  against
+the  law.'
+
+5.  '  Lord,  if  a  complete  congregation  grants  to  a
+Bhikkhu  to  whom  sativinaya  ought  to  be  granted,
+an  am  u  Ma  vinaya,  and  to  a  Bhikkhu  to  whom
+amu//^a vinaya  ought  to  be  granted,  a  sativi-
+naya (&c.\  down  to  :)  confers  on  a  Bhikkhu  to  whom
+abbhana  ought  to  be  granted,  the  upasampada
+ordination,  and  grants  to  a  person  on  whom  the
+upasampada  ordination  ought  to  be  conferred,  the
+decree  of  abbhana, — is  this  act.  Lord,  performed
+lawfully  according  to  Dhamma  and  Vinaya  ? '
+
+6.  '  It  is  performed,  Upali,  unlawfully  against
+Dhamma  and  Vinaya.  If  a  complete  congregation
+grants  to  a  Bhikkhu,  &c., — in  such  case,  Upali,  this
+act  is  performed  unlawfully  against  Dhamma  and
+
+
+^  The  Sawghakammas  enumerated  in  §  2,  beginning  with  sati-
+vinaya, are  arranged  here  in  pairs,  in  direct  and  reverse  order,  in
+this  way :  sativinaya  and  amu//^avinaya,  amuZ/zavinaya  and  sati-
+vinaya ;  then  amuZ/^avinaya  and  tassapapiyyasikakamma,  tassa-
+papiyyasikakamma  and  amu//^avinaya,  &c.
+
+
+IX,  6,  9-  FORMAL    ACTS    OF    THE    SAMGHA.  279
+
+Vinaya,   and  in  such   case   this   Sawgha  trespasses
+against  the  law.'
+
+7.  '  Lord,  if  a  complete  congregation  grants
+sativinaya  to  a  Bhikkhu  to  whom  sativinaya
+ought  to  be  granted,  and  am  il/// a  vinaya  to  a
+Bhikkhu  to  whom  amuMavinaya  ought  to  be
+granted  (&c.  \  down  to:)  grants  abbhana  to  a
+Bhikkhu  to  whom  abbhana  ought  to  be  granted,
+and  confers  the  upasampada  ordination  on  a  person
+on  whom  the  upasampada  ordination  ought  to  be
+conferred, —  is  this  act,  Lord,  performed  lawfully
+according  to  Dhamma  and  Vinaya  ?'
+
+8.  *  It  is  performed,  Upali,  lawfully  according  to
+Dhamma  and  Vinaya  (&c.,  down  to  :)  and  in  such
+case  this  Sa;;/gha  does  not  trespass  against  the  law.'
+
+9.  And  the  Blessed  One  thus  addressed  the
+Bhikkhus :  *  If  a  complete  congregation,  O  Bhik-
+khus,  grants  to  a  Bhikkhu  to  whom  sativinaya
+ought  to  be  granted,  an  amu///avinaya,  in
+such  case,  O  Bhikkhus,  this  act  is  performed
+unlawfully  against  Dhamma  and  Vinaya,  and  in
+such  case  this  Sawgha  trespasses  against  the
+law.  If  a  complete  congregation,  O  Bhikkhus,
+institutes  against  a  Bhikkhu  to  whom  sativinaya
+ought  to  be  granted,  the  tassapapiyyasikakamma
+(&c.-,  down  to  :)  grants  to  a  person  on  whom  the
+
+
+'  The  same  dyads  as  in  §  5.
+
+2  In  this  paragraph  all  possible  combinations  of  two  different
+Sa^^ighakammas  are  formed  in  this  way :  first,  sativinaya  is  com-
+bined with  amuMavinaya  and  all  the  rest,  down  to  upasampada  ;
+then  amu///avinaya  with  all  terms  from  tassapapiyyasika  down  to
+sativinaya,  and  so  on ;  the  whole  series  ends  thus  with  the  combi-
+nations of  upasampadaraha  with  all  terms  from  sativinaya  down
+to  abbhana.
+
+
+28o  MAHAVAGGA.  IX,  7,  i.
+
+upasampada  ordination  ought  to  be  conferred,
+the  decree  of  abb  h  an  a, — in  such  case,  O  Bhikkhus,
+this  act  is  performed  unlawfully  against  Dhamma
+and  Vinaya,  and  in  such  case  this  Sa;;2gha  trespasses
+against  the  law/
+
+End  of  the  second  Bha;^avara,  which  contains
+the  questions  of  Upali.
+
+
+7.
+
+1.  'In  case,  O  Bhikkhus,  a  Bhikkhu  be  litigious,
+contentious,  quarrelsome,  disputatious,  and  con-
+stantly raise  questions  before  the  Sa;;2gha.  And
+the  other  Bhikkhus  say  among  each  other :  "  This
+Bhikkhu,  friends,  is  indeed  litigious,  contentious,
+&c. ;  well,  let  us  proceed  against  him  with  the
+ta^^aniyakamma  ^"  And  they  proceed  against
+him  with  the  ta^^aniyakamma  unlawfully^  with
+an  incomplete  congregation  ^,  and  he  then  goes  from
+that  district  to  another  district.  There  the  Bhik-
+khus say  among  each  other  :  "  Against  this  Bhikkhu,
+friends,  the  Sa;;2gha  has  proceeded  with  the  ta^^a-
+niyakamma  unlawfully  with  an  incomplete  congre-
+gation ;  well,  let  us  proceed  against  him  with  the
+ta^^aniyakamma."  And  they  proceed  against
+him  with  the  ta^^aniyakamma  unlawfully  with
+a  complete  congregation,  and  he  then  goes  from
+that  district  again  to  another  district.  And  there
+the    Bhikkhus   again    say  among   each   other  (&c..
+
+
+^  See  ^ullavagga  1, 1-8.  ^  See  above,  chap.  3,  §  3  seq.
+
+'  See  above,  chap.  3,  §  5.
+
+
+IX,  7,  7-  FORMAL    ACTS    OF    THE    SAi»/GHA.  28 1
+
+
+down  to:)  and  they  proceed  against  him  with  the
+ta^^aniyakamma  lawfully  with  an  incomplete
+congregation  ....  seemingly  lawfully^  with  an  in-
+complete congregation  ....  seemingly  lawfully  with
+a  complete  congregation-.
+
+2-5,  '  In  case,  O  Bhikkhus,  a  Bhikkhu  be  liti-
+gious, &c.  ^
+
+6.  'In  case,  O  Bhikkhus,  a  Bhikkhu  be  ignorant,
+unlearned,  a  constant  offender,  unable  to  discern
+what  is  an  offence ^  and  lives  in  lay  society,  unduly
+associating  himself  with  lay  people.  And  the  other
+Bhikkhus  say  among  each  other :  "  This  Bhikkhu,
+friends,  is  indeed  ignorant,  unlearned,  &c. ;  well,
+let  us  proceed  against  him  with  the  nissaya-
+kamma^"  and  they  proceed  against  him  with
+the  nissayakamma  unlawfully  with  an  incomplete
+congregation,  81c. ^
+
+7.  'In  case,  O  Bhikkhus,  a  Bhikkhu  leads  a  life
+hurtful  to  the  laity,  and  devoted  to  eviV.  And  the
+other    Bhikkhus    say    among    each     other:  "This
+
+
+^  See  above,  chap.  3,  §  7.
+
+^  See  above,  chap.  3,  §  8.
+
+'  As  in  §  I,  but  with  a  different  arrangement  of  the  five  categories
+on  which  this  exposition  is  based  :  unlawfully  with  an  incomplete
+congregation,  unlawfully  with  a  complete  congregation,  lawfully
+with  an  incomplete  congregation,  seemingly  lawfully  with  an  in-
+complete congregation,  seemingly  lawfully  with  a  complete  congre-
+gation. In  §  I  these  categories  are  arranged  in  their  natural  order ;
+in  §  2  the  second  is  placed  at  the  head,  then  follow  the  third,  fourth,
+fifth,  and  finally  the  first;  in  §  3  the  exposition  likewise  begins  with
+the  third  and  ends  with  the  second,  &c.  This  arrangement  is
+called  'a  wheel'  (^akka).
+
+*  See  the  note  at  chap.  4,  §  9.
+
+^  See  A^uUavagga  I,  9-12.
+
+«  The  same  five  cases  and  the  same  /iakka  as  in  §§  1-5.
+
+''  See  the  13th  Sawghadisesa  Rule.
+
+
+282  MAHAVAGGA.  IX,  7,  8.
+
+Bhikkhu,  friends,  leads  a  life  hurtful  to  the  laity,
+and  devoted  to  evil ;  well,  let  us  proceed  against
+him    with    the    pabba^aniyakamma^"  &c.^
+
+8.  'In  case,  O  Bhikkhus,  a  Bhikkhu  abuses  and
+reviles  lay  people.  And  the  other  Bhikkhus  say
+among  each  other :  "  This  Bhikkhu,  friends,  abuses
+and  reviles  lay  people ;  well,  let  us  proceed  against
+him  with  the  pa^isara/ziyakamma^,"  &c.-
+
+9-1 1.  'In  case,  O  Bhikkhus,  a  Bhikkhu,  having
+committed  an  offence,  refuses  to  see  that  offence
+(committed  by  himself) '*.  And  the  other  Bhikkhus
+say  among  each  other :  "  This  Bhikkhu,  friends,
+has  committed  an  offence  and  refuses  to  see  that
+offence ;  well,  let  us  pronounce  expulsion  against
+him  for  his  refusal  to  see  that  offence^,"  &c. -
+
+12-13.  '  I^  case,  O  Bhikkhus,  a  Bhikkhu,  against
+whom  the  Sa;;2gha  has  proceeded  with  the  ta^-
+^aniyakamma,  behaves  himself  properly,  lives
+modestly,  aspires  to  get  clear  of  his  penance,  and
+asks  for  the  revocation  of  the  ta^^aniyakamma
+sentence.  And  the  other  Bhikkhus  say  among  each
+other :  "  This  Bhikkhu,  friends,  against  whom  the
+Sa;;2gha  has  proceeded  with  the  ta^^'aniya-
+kamma,  in  truth  behaves  himself  properly;  he
+lives  modestly,  &c. ;  well,  let  us  revoke  the  ta^-
+^aniyakamma  sentence  pronounced  against  him."
+And  they  revoke  the  ta^^aniyakamma  sentence
+
+^  See  ^ullavagga  I,  13-17.  ^  As  in  §§  1-5  or  in  §  6.
+
+^  ^ullavagga  I,  18-24.
+
+*  §  10:  A  Bhikkhu,  having  committed  an  offence,  refuses  to
+atone  for  that  offence.  §  1 1 :  A  Bhikkhu  refuses  to  renounce  a
+false  doctrine.
+
+^  §  10:  For  his  refusal  to  atone  for  that  offence.  §11:  For  his
+refusal  to  renounce  that  false  doctrine.
+
+
+IX,  7,  15-  FORMAL    ACTS    OF    THE    SAMGIIA.  283
+
+pronounced  against  him  unlawfully  with  an  incom-
+plete congregation.  And  he  then  goes  from  that
+district  to  another  district.  There  the  Bhikkhus
+say  among  each  other:  "The  ta^^^aniyakamma
+sentence,  friends,  pronounced  against  this  Hhikkhu
+has  been  revoked  by  the  Sawgha  unlawfully  with
+an  incomplete  congregation,"  &c. '
+
+14.  'In  case,  O  Bhikkhus,  a  Bhikkhu  against
+whom  the  Sawgha  has  proceeded  with  the  nissa-
+yakamma  ....  with  the  pabba^aniyakamma
+.  .  .  .  with  the  pa/isara;^iyakamma  ....  against
+whom  the  Sawgha  has  pronounced  expulsion  for
+his  refusal  to  see  an  offence  ....  for  his  refusal
+to  atone  for  an  offence  ....  for  his  refusal  to
+renounce  a  false  doctrine,  behaves  himself  pro-
+perly, &c.^
+
+15.  '  In  case,  O  Bhikkhus,  a  Bhikkhu  be  litigious,
+contentious,  quarrelsome,  disputatious,  and  con-
+stantly raise  questions  before  the  Sawgha.  And
+the  other  Bhikkhus  say  among  each  other  :
+"  This  Bhikkhu,  friends,  is  indeed  litigious,  con-
+tentious, &c. ;  well,  let  us  proceed  against  him
+with  the  ta^^^aniyakamma."  And  they  proceed
+against  him  with  the  ta^^aniyakamma,  unlaw-
+fully with  an  incomplete  congregation.  Now  among
+the  Sawgha  residing  in  that  district  a  contention  is
+raised  whether  this  is  an  act  performed  unlawfully
+with  an  incomplete  congregation,  or  an  act  per-
+formed unlawfully  with  a  complete  congregation,
+or  an    act   performed  lawfully  with   an   incomplete
+
+
+^  The  analogous  five  cases  with  the  ^akka  development  as  in
+
+§§  1-5-
+
+2  As  in  §§  12,  13.
+
+
+284  MAHAVAGGA.  IX,  7,  16.
+
+congregation,  or  an  act  performed  seemingly  law-
+fully with  an  incomplete  congregation,  or  an  act
+performed  seemingly  lawfully  with  a  complete  con-
+gregation, or  an  act  not  performed,  badly  performed,
+to  be  performed  again.  In  this  case,  O  Bhikkhus,
+the  Bhikkhus  who  say:  "It  is  an  act  performed
+unlawfully  with  an  incomplete  congregation" — and
+the  Bhikkhus  who  say :  "  It  is  an  act  not  performed,
+badly  performed,  to  be  performed  again"  —  these
+Bhikkhus  are  right  herein.
+
+16.  'In  case,  O  Bhikkhus,  a  Bhikkhu  be  liti-
+gious (&c.,  as  in  J  15,  down  to:)  and  they  proceed
+against  him  with  the  ta^^aniyakamma  unlaw-
+fully with  a  complete  congregation  ....  lawfully
+with  an  incomplete  congregation  ....  seemingly
+lawfully  with  an  incomplete  congregation  ....
+seemingly  lawfully  with  a  complete  congregation.
+Now  among  the  Sawgha  residing  in  that  district
+(&c.,  as  in  §  15).
+
+17-20.  'In  case,  O  Bhikkhus,  a  Bhikkhu  be
+ignorant,  unlearned,'  &c.  ^
+
+
+End  of  the  ninth  Khandhaka,  which  treats  of
+the  events  in  A'ampa.
+
+
+^  The  text  treats  here  in  §§  17,  18  of  the  nissayakamma  (see
+§  6)  and  of  the  Sawzghakammas  down  to  the  expulsion  for  a  Bhik-
+khu's  refusal  to  renounce  a  false  doctrine  (see  §§  7-1 1)  in  the  same
+manner  as  the  ta^^aniyakamma  is  spoken  of  in  §§  15,  16.  Then
+follows  (§§  19,  20)  an  exactly  analogous  exposition  about  the  revo-
+cation of  these  Saz?zghakammas,  which  stands  in  the  same  relation
+to  §§  15-18  in  which  §§  12-14  stand  to  §§  i-ii.
+
+
+X,  I,  2.  SCHISMS    AMONG    THE    SAil/GHA.  2S5
+
+
+TENTH  KHANDHAKA.  ;
+
+(schisms    among     the     SAil/GHA.)
+1.
+
+I.  At  that  time  the  blessed  Buddha  dwelt  at
+Kosambl  in  the  Ghositardma.
+
+At  that  time  a  certain  Bhikkhu  had  committed
+an  offence  which  he  considered  as  an  offence,  while
+the  other  Bhikkhus  considered  that  offence  as  no
+offence.  Afterwards  he  began  to  consider  that
+offence  as  no  offence,  and  the  other  Bhikkhus  began
+to  consider  that  offence  as  an  offence.
+
+Now  those  Bhikkhus  said  to  that  Bhikkhu  :  '  You
+have  committed  an  offence,  friend ;  do  you  see  that
+offence  ? '
+
+(He  replied) :  '  There  is  no  offence,  friends,  which
+I  should  see.'
+
+Then  those  Bhikkhus,  bringing  about  unanimity
+(of  the  fraternity  for  their  sentence)  pronounced
+expulsion  against  that  Bhikkhu  for  his  refusal  to
+see  that  offence.
+
+2.  Now  that  Bhikkhu  was  erudite  ;  he  had  studied
+the  Agamas;  he  knew  the  Dhamma,  the  Vinaya,
+the  Matika^  he  was  wise,  learned,  intelligent,
+modest,  conscientious,  anxious  for  training.
+
+And  that  Bhikkhu  went  to  his  companions  and
+friends  among  the  Bhikkhus,  and  said  to  them :
+'  This  is  no  offence,  friends ;  this  is  not  an  offence.
+
+
+1  See  A'ullavagga  I,  1 1,  i,  with  our  note.
+
+
+2  86  MAHAVAGGA.  X,  r,  3.
+
+I  am  offenceless ;  I  am  not  guilty  of  an  offence ;  I
+am  unexpelled  and  have  not  been  expelled ;  the
+sentence  by  which  I  have  been  expelled  is  unlaw-
+ful, objectionable,  and  invalid.  May  the  venerable
+ones  be  my  partisans  according  to  Dhamma  and
+Vinaya.'
+
+Thus  that  Bhikkhu  got  his  companions  and  friends
+among  the  Bhikkhus  on  his  side.
+
+And  he  sent  also  a  messenger  to  his  companions
+and  friends  among  the  Bhikkhus  of  the  whole  country
+(with  the  following  message)  :  '  This  is  no  offence,
+friends ;  this  is  not  an  offence  (&c,,  down  to :).
+May  the  venerable  ones  be  my  partisans  according
+to  Dhamma  and  Vinaya.'
+
+Thus  that  Bhikkhu  got  also  his  companions  and
+friends  among  the  Bhikkhus  of  the  whole  country
+on  his  side.
+
+3.  Now  those  Bhikkhus  who  were  partisans  of
+the  expelled  Bhikkhu,  went  to  the  place  where  those
+w^ho  had  expelled  him,  were.  Having  approached
+them,  they  said  to  the  Bhikkhus  who  had  expelled
+him :  'This  is  no  offence,  friends  ;  this  is  not  an  offence.
+This  Bhikkhu  is  offenceless ;  this  Bhikkhu  is  not
+guilty  of  an  offence.  This  Bhikkhu  is  unexpelled ;
+this  Bhikkhu  has  not  been  expelled.  The  sentence
+by  which  he  has  been  expelled  is  unlawful,  objec-
+tionable, and  invalid.'
+
+When  they  had  spoken  thus,  the  Bhikkhus  who
+had  expelled  that  Bhikkhu,  said  to  the  partisans  of
+the  expelled  one :  '  This  is  an  offence,  friends  ;  this
+is  not  no  offence.  This  Bhikkhu  is  an  offender;
+this  Bhikkhu  is  not  offenceless.  This  Bhikkhu  is
+expelled ;  this  Bhikkhu  is  not  unexpelled.  The
+sentence  by  which  he  has  been  expelled  is  lawful,
+
+
+X,  1,6.  SCHISMS    AMONG    THE    SAMGHA.  287
+
+
+unobjectionable,  and  valid.  Do  not  stand,  O  vener-
+able ones,  on  the  side  of  this  expelled  Bhikkhu  ;  do
+not  follow  him.'
+
+But  the  partisans  of  the  expelled  Bhikkhu,  though
+they  were  spoken  to  thus  by  the  Bhikkhus  who  had
+expelled  him,  persevered  nevertheless  on  the  side
+of  that  expelled  Bhikkhu  and  followed  him.
+
+4.  And  a  certain  Bhikkhu  went  to  the  place
+where  the  Blessed  One  was.  Having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he  sat
+down  near  him.  Sitting  near  him  that  Bhikkhu  said
+to  the  Blessed  One :  *  A  certain  Bhikkhu,  Lord,  had
+committed  an  offence  which  he  considered  as  an
+offence  (&c.,  as  in  §§  1-3,  down  to  :).  But  the  par-
+tisans, Lord,  of  the  expelled  Bhikkhu,  though  they
+were  spoken  to  thus  by  the  Bhikkhus  who  had  ex-
+pelled him,  persevered  nevertheless  on  the  side  of
+that  expelled  Bhikkhu  and  followed  him.'
+
+5.  Then  the  Blessed  One  (exclaimed) :  *  The
+Bhikkhu  Sa;;^gha  is  divided  !  The  Bhikkhu  Sa?;2gha
+is  divided!' — and  he  rose  from  his  seat  and  went  to
+the  place  where  the  Bhikkhus  w^ere  who  had  pro-
+nounced that  sentence  of  expulsion.  Having  ap-
+proached them,  he  sat  down  on  the  seat  they  had
+prepared.  Sitting  there  the  Blessed  One  said  to
+the  Bhikkhus  who  had  pronounced  expulsion  against
+that  Bhikkhu :  *  Do  not  think,  O  Bhikkhus,  that
+you  are  to  pronounce  expulsion  against  a  Bhikkhu
+whatever  be  the  facts  of  the  case,  saying,  "It  occurs
+to  us  to  do  so ;  it  occurs  to  us  to  do  so."
+
+6.  '  In  case,  O  Bhikkhus,  a  Bhikkhu  has  com-
+mitted an  offence  which  he  considers  as  no  offence,
+while  the  other  Bhikkhus  consider  it  as  an  offence —
+if,  O  Bhikkhus,  those  Bhikkhus  know  with  regard
+
+
+288  MAHAVAGGA.  X,  i,  7.
+
+to  that  Bhikkhu :  "  This  venerable  brother  is  eru-
+
+A
+
+dite ;  he  has  studied  the  Agamas ;  he  knows  the
+Dhamma,  the  Vinaya,  the  M^tika ;  he  is  wise,
+learned,  intelligent,  modest,  conscientious,  anxious
+for  training.  Should  we  pronounce  expulsion  against
+this  Bhikkhu  for  his  refusal  to  see  that  offence,  and
+should  we  not  hold  Uposatha  with  that  Bhikkhu,
+but  hold  Uposatha  without  that  Bhikkhu,  this  matter
+will  cause  among  the  Sa;?2gha  altercations,  conten-
+tions, discord,  quarrels,  divisions  among  the  Sa;;2gha,
+disunion  among  the  Sa;;^gha,  separations  among  the
+Sa;;2gha,  schisms  among  the  Sawgha," — in  that  case,
+O  Bhikkhus,  let  those  Bhikkhus,  standing  in  awe  of
+causing  divisions,  not  pronounce  expulsion  against
+that  Bhikkhu  for  his  refusal  to  see  his  offence.
+
+7.  '  In  case,  O  Bhikkhus,  a  Bhikkhu  has  com-
+mitted (&c.,  as  above,  down  to :).  "  Should  we  pro-
+nounce expulsion  against  this  Bhikkhu  for  his  refusal
+to  see  that  offence,  and  should  we  not  hold  Pava-
+ra^^a  with  that  Bhikkhu,  but  hold  Pavara;^a  without
+that  Bhikkhu,  and  not  perform  official  acts  with
+that  Bhikkhu,  but  perform  official  acts  without  that
+Bhikkhu,  and  not  sit  down  on  our  seats  with  that
+Bhikkhu,  but  sit  down  on  our  seats  without  that
+Bhikkhu,  and  not  sit  down  to  drink  rice-milk  with
+that  Bhikkhu,  but  sit  down  to  drink  rice-milk  with-
+out that  Bhikkhu,  and  not  sit  down  in  the  dining-
+hall  with  that  Bhikkhu,  but  sit  down  in  the  dining-
+hall  without  that  Bhikkhu,  and  not  dwell  under  one
+roof  with  that  Bhikkhu,  but  dwell  under  one  roof
+without  that  Bhikkhu,  and  not  perform  with  that
+Bhikkhu,  according  to  seniority,  the  duties  of  re-
+spectfully saluting  each  other,  rising  from  our  seats,
+raising  the  joined  hands  before  each  other,  and  all
+
+
+X,  1,8.  SCHISMS   AMONG    THE    SAil/GHA.  289
+
+proper  duties,  but  perform  without  that  Bhikkhu,
+according  to  seniority,  the  duties,  &c., — this  matter
+will  cause  among  the  Sawgha  (&c.,  as  in  §  6,  down
+to  the  end).'
+
+8.  And  the  Blessed  One,  having  spoken  thus  to
+the  Bhikkhus  who  had  pronounced  that  sentence  of
+expulsion,  rose  from  his  seat,  and  went  to  the  place
+where  the  partisans  of  the  expelled  Bhikkhu  were.
+Having  approached  them,  he  sat  down  on  the  seat
+they  had  prepared.  Sitting  there  the  Blessed  One
+said  to  the  partisans  of  the  expelled  Bhikkhu  :  '  Do
+not  think,  O  Bhikkhus,  if  you  have  committed  an
+offence,  that  you  need  not  atone  for  that  offence,
+(saying  to  yourselves) :  "  We  are  without  offence."
+In  case,  O  Bhikkhus,  a  Bhikkhu  has  committed  an
+offence  which  he  considers  as  no  offence,  while  the
+other  Bhikkhus  consider  it  as  an  offence — if,  O
+Bhikkhus,  that  Bhikkhu  knows  with  regard  to  those
+Bhikkhus  :  "  These  venerable  brethren  are  erudite
+(&c.,  down  to  :)  anxious  for  training.  It  is  impos-
+sible that  they  should,  on  my  account,  or  on  account
+of  anybody  else,  abandon  themselves  to  walking  in
+longing,  in  malice,  in  delusion,  in  fear.  Should  these
+Bhikkhus  pronounce  expulsion  against  me  for  my
+refusal  to  see  that  offence,  and  should  they  not  hold
+Uposatha  with  me,  but  hold  Uposatha  without  me,
+and  should  they  not  hold  Pavara;ia  with  me,  but
+hold  Pavarawa  without  me  (&c.,  as  in  §  7),  this
+matter  will  cause,  &c.,  schisms  among  the  Sa?;/gha,"
+— in  that  case,  O  Bhikkhus,  let  that  Bhikkhu,  stand-
+ing in  awe  of  causing  divisions,  acknowledge  that
+offence  on  the  authority  of  his  brethren  \'    And  the
+
+^  In  the  text  sandhaya  must  be  corrected  into  saddhaya;
+see  A'ullavagga  XI,  i,  10.
+
+[17]  U
+
+
+290  MAHAVAGGA.  X,  i,  9.
+
+Blessed  One,  having  spoken  thus  to  the  partisans
+of  the  expelled  Bhikkhu,  rose  from  his  seat  and
+went  away,
+
+9.  At  that  time  the  Bhikkhus  who  were  partisans
+of  that  expelled  Bhikkhu,  held  Uposatha  and  per-
+formed official  acts  at  that  same  place,  within  the
+boundary.  On  the  other  hand  the  Bhikkhus  who
+had  pronounced  expulsion  against  him,  went  outside
+the  boundary  and  there  held  Uposatha,  and  per-
+formed official  acts.
+
+Now  a  certain  Bhikkhu  of  those  who  had  expelled
+that  Bhikkhu,  went  to  the  place  where  the  Blessed
+One  was ;  having  approached  him  and  having  re-
+spectfully saluted  the  Blessed  One,  he  sat  down
+near  him.  Sitting  near  him  that  Bhikkhu  said  to
+the  Blessed  One  :  '  Lord,  those  Bhikkhus  who  are
+partisans  of  that  expelled  Bhikkhu,  hold  Uposatha,
+and  perform  official  acts,  at  that  same  place,  within
+the  boundary.  On  the  other  hand,  we  who  have
+pronounced  expulsion  against  him,  have  gone  out-
+side the  boundary  and  there  hold  Uposatha  and
+perform  official  acts.'
+
+(Buddha  replied) :  '  If  those  Bhikkhus,  O  Bhikkhu,
+who  are  partisans  of  that  expelled  Bhikkhu,  will  hold
+Uposatha,  and  perform  official  acts,  at  that  same
+place,  within  the  boundary,  according  to  the  rules
+laid  down  by  me  about  ;iatti  and  anussavana,
+these  official  acts  which  they  perform  will  be  lawful,
+unobjectionable,  and  valid.  And  if  you,  O  Bhikkhus,
+who  have  expelled  that  Bhikkhu,  will  hold  Uposatha,
+and  perform  official  acts,  at  that  same  place,  within
+the  boundary  (&c.,  down  to  :)  and  valid.
+
+10.  'And  why  is  this  so?  These  Bhikkhus  be-
+long to  another  communion  than  that  to  which  you
+
+
+X,  2,  1.  SCHISMS    AMONG    TIIK    SAMGIIA.  29 1
+
+
+belong,  and  you  belong  to  another  communion  than
+that  to  which  they  belong.
+
+'  There  are  two  cases,  O  Bhikkhu,  in  which  a
+Bhikkhu  (though  he  dwell  within  the  same  boundary)
+is  considered  as  belonging  to  another  communion  : —
+either  he  himself  makes  himself  belong  to  another
+communion  \  or  the  Sawgha  in  a  complete  congre-
+gation pronounces  expulsion  against  him  for  his
+refusal  to  see  (an  offence  committed  by  himself),  or
+to  atone  (for  such  an  offence),  or  to  renounce  (a  false
+doctrine).  These,  O  Bhikkhu,  are  the  two  cases
+in  which  a  Bhikkhu  is  considered  as  belonging  to
+another  communion.
+
+'  There  are  two  cases,  O  Bhikkhu,  in  which  a
+Bhikkhu  (belonging  to  either  of  the  categories  men-
+tioned) reacquires  the  belonging  to  the  same  com-
+munion (with  his  brethren  within  the  same  boundary) :
+either  he  himself  makes  himself  belong  (again)  to
+that  same  communion  2,  or  the  Samgha,  having  ex-
+pelled him  for  his  refusal  to  see  (an  offence),  or  to
+atone  (for  an  offence),  or  to  renounce  (a  false  doctrine),
+restores  him  in  a  complete  congregation.  These,  O
+Bhikkhu,  are  the  two  cases  in  which  a  Bhikkhu  re-
+acquires the  belonging  to  the  same  communion.
+
+
+I.  At  that  time  the  Bhikkhus,  among  whom
+altercations,  contentions,  and  quarrels  had  arisen,
+in  the   dinine-hall  and  amidst  the  houses,  behaved
+
+
+^  By  associating  with  expelled  Bhikkhus.
+
+-  By  giving  up  his  connection  with  expelled  Bhikkhus.
+
+U    2
+
+
+292  MAHAVAGGA.  X,  2,  2.
+
+
+improperly  towards  each  other  in  gesture  and  word,
+and  came  to  blows.
+
+The  people  were  annoyed,  murmured,  and  became
+angry  (saying),  '  How  can  these  Sakyaputtiya  Sa-
+mawas,  when  altercations,  contentions,  and  quarrels
+have  arisen  among  them,  &c.,  and  come  to  blows?'
+Some  Bhikkhus  heard  those  people  that  were  an-
+noyed, murmured,  and  had  become  angry.  The
+moderate  Bhikkhus  were  annoyed,  murmured,  and
+became  angry  (saying),  '  How  can  the  Bhikkhus,
+when  altercations,  &c.  ?  '
+
+These  Bhikkhus  told  the  thing  to  the  Blessed
+One.
+
+*  Is  it  true,  O  Bhikkhus,  &c.  ?'
+'  It  is  true.  Lord.'
+
+Having  rebuked  them,  and  delivered  a  religious
+discourse,  he  thus  addressed  the  Bhikkhus  :  '  When
+divisions  have  arisen  among  the  Sa^^gha,  O   Bhik-
+khus, and  when  unlawful  conduct  and  unfriendliness
+prevail  among  the  Bhikkhus,  then  you  ought  to  sit
+down  on  your  seats  (separately,  saying  to  yourselves) :
+"At  least  we  will  not  behave   improperly  towards
+each  other  in  gesture  or  word,  and  will  not  come  to
+blows."      When   divisions  have  arisen  among  the
+Sa;?2gha,  O  Bhikkhus,  and  when  lawful  conduct  and
+friendliness  prevail  among  the  Bhikkhus,  then  you
+may  sit  down  (together),  one  by  one  from  each  side\'
+2.    At  that  time  the  Bhikkhus,  among  whom  alter-
+cations, contentions,  and  quarrels  had  arisen,  wounded
+each  other  with  sharp  words  in  the  assemblies,  and
+were  unable  to  settle  that  question.
+
+
+*  Asanantarikaya.    Buddhaghosa  :  '  Ekeka/^/ asanas  antaraw
+katva  nisiditabba;/?.'
+
+
+X,  2,  3-  SCHISMS    AMONG    THE    SAJ\/GIIA.  293
+
+
+Then  a  certain  Bhikkhu  went  to  the  place  where
+the  Blessed  One  was  ;  having  approached  him  and
+respectfully  saluted  him,  he  stationed  himself  near
+him.  Standing  near  him,  that  Bhikkhu  said  to  the
+Blessed  One :  '  Lord,  the  Bhikkhus  among  whom
+altercations,  contentions,  and  quarrels  have  arisen,
+wound  each  other  with  sharp  words  in  the  assemblies,
+and  are  unable  to  settle  that  question.  Pray,  Lord,
+may  the  Blessed  One  go  to  those  Bhikkhus  out  of
+compassion  towards  them.'
+
+And  the  Blessed  One  expressed  his  consent  by
+remainino-  silent.
+
+Then  the  Blessed  One  went  to  the  place  where
+those  Bhikkhus  were ;  having  approached  them,  he
+sat  down  on  the  seat  they  had  prepared.  Sitting
+there  the  Blessed  One  thus  addressed  those  Bhik-
+khus :  '  Enough,  O  Bhikkhus,  no  altercations,  no
+contentions,  no  disunion,  no  quarrel!'
+
+When  he  had  spoken  thus,  a  certain  Bhikkhu,  an
+adherer  of  the  party  who  were  wrong,  said  to  the
+Blessed  One  :  '  Lord,  may  the  Blessed  One,  the  king
+of  Truth,  be  patient !  Lord,  may  the  Blessed  One
+quiedy  enjoy  the  bliss  he  has  obtained  already  in
+this  life!  The  responsibility  for  these  altercations
+and  contentions,  for  this  disunion  and  quarrel  will
+rest  with  us  alone.'
+
+And  for  the  second  time  the  Blessed  One  thus
+addressed  those  Bhikkhus  :  '  Enough,  O  Bhikkhus,
+&c.'  And  for  the  second  time  that  Bhikkhu  who
+adhered  to  the  party  who  were  wrong,  said  to  the
+Blessed  One :  '  Lord,  may  the  Blessed  One,  &c.'
+Then  the  Blessed  One  spoke  thus  to  those  Bhik-
+khus :
+
+3.    'In  former  times,  O   Bhikkhus,  there  lived  at
+
+
+294  MAHAVAGGA.  X,  2,  3,
+
+Benares  a  king  of  Kasi,  Brahmadatta  by  name,
+wealthy,  rich  in  treasures,  rich  in  revenues,  rich  in
+troops  and  vehicles,  the  lord  over  a  great  realm,
+with  full  treasuries  and  storehouses.  And  there  was
+also  a  king  of  Kosala,  Dighiti  by  name,  not  wealthy,
+poor  in  treasures,  poor  in  revenues,  poor  in  troops
+and  vehicles,  the  lord  over  a  small  realm,  with
+empty  treasuries  and  storehouses.
+
+'And  king  Brahmadatta,  O  Bhikkhus,  of  Kasi,
+having  set  the  four  hosts  of  his  army  in  array,  went
+out  to  war  with  king  Dighiti  of  Kosala,
+
+'And  king  Dighiti  of  Kosala  heard,  O  Bhikkhus  :
+"  King  Brahmadatta  of  Kasi,  having  set  the  four
+hosts  of  his  army  in  array,  has  gone  out  to  war  with
+me."  Then  king  Dighiti  of  Kosala  thought,  O
+Bhikkhus  :  "  King  Brahmadatta  of  Kasi  is  wealthy,
+rich  in  treasures,  &c. ;  and  I  am  not  wealthy,  poor
+in  treasures,  &c.  I  am  not  able  to  stand  against
+even  one  attack  of  king  Brahmadatta  of  Kisi.
+What  if  I  were  to  flee  from  the  town  beforehand."
+
+'And  king  Dighiti  of  Kosala,  O  Bhikkhus,  took
+his  queen-consort  with  him  and  fled  from  the  town
+beforehand.
+
+'  Then  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+conquered  the  troops  and  vehicles,  the  realm,  the
+treasuries  and  storehouses  of  king  Dighiti  of  Kosala,
+and  took  possession  of  them.
+
+'And  king  Dighiti  of  Kosala,  O  Bhikkhus,  together
+with  his  consort,  went  forth  to  Benares.  Wandering
+from  place  to  place  he  came  to  Benares,  and  there
+at  Benares,  O  Bhikkhus,  king  Dighiti  of  Kosala
+dwelt,  together  with  his  consort,  at  a  certain  place
+near  the  town,  in  a  potter's  dwelling,  in  disguise,  in
+the  guise  of  a  wandering  ascetic.
+
+
+X,  2,  5-  SCHISMS   AMONG    THE    SAMGHA.  295
+
+4.  'And  ere  long,  O  Bhikkhus,  the  queen-consort
+of  king  Dighiti  of  Kosala  became  pregnant.  And
+there  came  upon  her  the  longing  of  pregnant  women;
+and  she  desired,  at  sunrise,  to  see  an  army,  with  its
+four  hosts  set  in  array,  clad  in  armour,  standing  on
+auspicious  ground,  and  to  drink  the  water  in  which
+the  swords  were  washed.
+
+'And  the  queen-consort,  O  Bhikkhus,  of  king  Di-
+ghiti of  Kosala  said  to  king  Dighiti  of  Kosala  :  "  I
+am  pregnant.  Lord,  and  the  longing  of  pregnancy
+has  come  upon  me ;  and  I  desire,  at  sunrise,  &c."
+
+*  (The  king  replied) :  "  Whence  shall  come,  O  queen,
+to  people  in  distress  like  us,  an  army  with  four  hosts
+set  in  array,  clad  in  armour,  standing  on  auspicious
+ground,  and  the  water  in  which  the  swords  are
+washed  ?"
+
+'(The  queen  said) :  "  If  I  do  not  obtain  it,  Lord,
+I  shall  die."
+
+5.  '  Now  at  that  time,  O  Bhikkhus,  the  Brahma;^a
+who  was  domestic  chaplain  to  king  Brahmadatta  of
+KasI,  was  a  friend  of  king  Dighiti  of  Kosala.  And
+king  Dighiti  of  Kosala,  O  Bhikkhus,  went  to  the
+place  where  that  Brahma;^a,  the  domestic  chaplain  to
+king  Brahmadatta  of  Kasi,  was ;  having  approached
+him  he  said  to  that  Brahma;/a,  the  domestic  chap-
+lain to  king  Brahmadatta  of  Kasi :  "  Your  lady-
+friend,  my  beloved,  is  pregnant,  and  the  longing  of
+pregnant  women  has  come  upon  her  ;  and  she  de-
+sires (&c.,  as  above)."
+
+'(The  Brahma;/a  replied):  "Well,  O  king,  let  us
+see  the  queen  also."
+
+'  Then,  O  Bhikkhus,  the  queen-consort  of  king
+Dighiti  of  Kosala  went  to  the  place  where  that
+Brahma;^a,  the    domestic    chaplain   to    king    Brah-
+
+
+296  MAHAVAGGA.  X,  2, 6.
+
+madatta  of  Kasi,  was.  And,  O  Bhikkhus,  that
+Brihma;za,  the  domestic  chaplain  to  king  Brah-
+madatta  of  Kasi,  saw  the  queen-consort  of  king
+Dighiti  of  Kosala  coming  from  afar.  On  seeing
+her  he  rose  from  his  seat,  adjusted  his  upper  robe
+so  as  to  cover  one  shoulder,  raised  his  joined  hands
+to  the  queen-consort  of  king  Dighiti  of  Kosala,  and
+three  times  uttered  this  exclamation :  *'  Verily  a
+Kosala  king  dwells  in  thy  womb !  Verily  a  Kosala
+king  dwells  in  thy  womb!"  (And  further  he  said)  :
+"  Do  not  despond,  O  queen,  you  will  obtain  the
+sight  at  sunrise  of  an  army  with  its  four  hosts  set
+in  array,  clad  in  armour,  standing  on  auspicious
+ground,  and  you  will  obtain  the  drinking  of  the
+water  in  which  the  swords  are  washed."
+
+6.  *  And,  O  Bhikkhus,  that  Brahma;^a,  the  do-
+mestic chaplain  to  king  Brahmadatta  of  Kasi,  went
+to  the  place  where  king  Brahmadatta  of  Kasi  was.
+Having  approached  him,  he  said  to  king  Brah-
+madatta of  Kasi :  "  Lord,  the  signs  that  appear
+are  such,  that  to-morrow  at  sunrise  an  army  with
+four  hosts,  set  in  array,  clad  in  armour,  must  station
+itself  on  auspicious  ground,  and  the  swords  must  be
+washed."
+
+'Then,  O  Bhikkhus,  king  Brahmadatta  of  Kasi
+gave  order  to  his  attendants  :  "  Do,  my  friends,  what
+the  Brahma/za,  my  domestic  chaplain,  tells  you."
+
+'  Thus,  O  Bhikkhus,  the  queen-consort  of  king
+Dighiti  of  Kosala  obtained  the  sight  at  sunrise,  &c.,
+and  the  drinking  of  the  water  in  which  the  swords
+were  washed.
+
+'  And,  O  Bhikkhus,  the  queen-consort  of  king
+Dighiti  of  Kosala,  when  the  child  in  her  womb  had
+reached  maturity,  gave  birth  to  a  boy.     They  called
+
+
+X,  2,  9-  SCHISMS    AMONG    THE    SAiWGHA.  297
+
+
+him  Dighavu  ("  Longeval").    And  ere  long,  O  Bhik-
+khus,  young  Dighavu  came  to  the  years  of  discretion.
+
+7.  '  And  king  Dighiti  of  Kosala,  O  Bhikkhus,
+thought :  "  This  kinof  Brahmadatta  of  Kasi  has
+done  much  harm  to  us.  By  him  we  have  been
+robbed  of  our  troops  and  vehicles,  our  realm,  our
+treasuries  and  storehouses.  Should  he  find  us  out
+here,  he  will  have  us  all  three  killed.  What  if  I
+were  to  cause  young  Dighavu  to  dwell  outside  the
+town."
+
+'  Then  king  Dighiti  of  Kosala,  O  Bhikkhus,  caused
+vounor  Diehavu  to  dwell  outside  the  town.  And
+young  Dighavu,  O  Bhikkhus,  dwelling  outside  the
+town,  ere  long  learnt  all  arts.
+
+8.  'At  that  time,  O  Bhikkhus,  the  barber  of  king
+Dighiti  of  Kosala  dwelt  at  the  court  of  king  Brahma-
+datta of  Kasi.  Now,  O  Bhikkhus,  this  barber  of
+king  Dighiti  of  Kosala  saw  king  Dighiti  of  Kosala
+dwelling,  together  with  his  consort,  at  Benares,  at  a
+certain  place  near  the  town,  in  a  potter's  dwelling,
+in  disguise,  in  the  guise  of  a  wandering  ascetic.
+When  he  had  seen  him,  he  went  to  the  place  where
+king  Brahmadatta  of  Kasi  was,  and  having  ap-
+proached him,  he  said  to  king  Brahmadatta  of
+Kisi :  "  King  Dighiti  of  Kosala,  Your  Majesty,
+dwells,  together  with  his  consort,  at  Benares,  at  a
+certain  place  near  the  town,  in  a  potter's  dwelling,
+in  disguise,  in  the  guise  of  a  wandering  ascetic."
+
+9.  '  Then,  O  Bhikkhus,  king  Brahmadatta  of  Kasi
+gave  order  to  his  attendants  :  "  Well,  my  friends,
+brine  kincr  Dighiti  of  Kosala  and  his  consort
+before    me."
+
+'  And  those  people,  O  Bhikkhus,  accepted  this
+order  of  king    Brahmadatta   of   Kdsi   (by   saying).
+
+
+298  MAHAVAGGA.  X,  2,
+
+
+10.
+
+
+"  Yes,  Your  Majesty,"  and  brought  king  Dighiti  of
+Kosala  and  his  consort  before  him.
+
+'  Then,  O  Bhikkhus,  king  Brahmadatta  of  Kasi
+gave  order  to  his  attendants  :  "  Well,  my  friends,
+bind  king  Dighiti  of  Kosala  and  his  consort  firmly
+with  strong  ropes,  tie  their  arms  to  their  backs,
+have  them  close  shaven,  lead  them  around  with
+loud  beatinofs  of  drums  from  road  to  road  and  from
+cross-way  to  cross-way,  then  lead  them  out  of  the
+town  by  the  southern  gate,  hew  them  in  four  pieces
+to  the  south  of  the  town,  and  throw  the  pieces  away
+to  the  four  quarters."
+
+'  And  those  people,  O  Bhikkhus,  accepted  this
+order  of  king  Brahmadatta  of  Kasi  (by  saying),
+"  Yes,  Your  Majesty,"  bound  king  Dighiti  of  Kosala
+and  his  consort  firmly  with  strong  ropes,  tied  their
+arms  to  their  backs,  had  them  close  shaven,  and  led
+them  around  with  loud  beatings  of  drums  from  road
+to  road  and  from  cross-way  to  cross-way.
+
+10.  '  Now,  O  Bhikkhus,  young  Dighavu  thought :
+"  For  a  long  time  I  have  not  seen  my  father  and
+mother.  What  if  I  were  to  go  and  see  my  father
+and  mother."  And  young  Dighavu,  O  Bhikkhus,
+entered  Benares,  and  saw  his  father  and  mother,
+bound  firmly  with  strong  ropes,  their  arms  tied  to
+their  backs,  close  shaven,  and  being  led  around  with
+loud  beating  of  drums  from  road  to  road  and  from
+cross-way  to  cross-way.  When  he  saw  that,  he
+went  up  to  his  father  and  mother.
+
+*  And  king  Dighiti  of  Kosala,  O  Bhikkhus,  saw
+young  Dighavu  coming  from  afar ;  seeing  young
+Dighavu  he  said  to  him  :  "  Do  not  look  long,  my
+dear  Dighavu,  and  do  not  look  short  \     For  not  by
+
+^  This  enigmatic  phrase  will  be  found  explained  below,  §  19.
+
+
+X,  2,  12.  SCHISMS    AMONG    THE    SAMGHA.  299
+
+
+hatred,   my  dear  Dighavu,  is  hatred  appeased;  by
+not-hatred,  my  dear  Dighavu,  hatred  is  appeased."
+
+11.  'When  he  had  spoken  thus,  O  Bhikkhus,  the
+people  said  to  king  Dighiti  of  Kosala  :  "  This  king
+Dighiti  of  Kosala  is  mad  and  raves.  What  has  this
+Dighavu  to  do  with  him  ?  Who  is  he  to  whom  he
+says  :  '  Do  not  look  long,  &c.  ?'  "  (Dighiti  replied) :
+"  I  am  not  mad,  my  friends,  nor  do  I  rave.  He  who
+is  clever  will  understand  it."
+
+'  And  for  the  second  time,  &c.     And  for  the  third
+
+time,  O  Bhikkhus,  king  Dighiti  of  Kosala  said  to
+
+vouncr  Dio-havu,  &c.     And  for  the  third  time  said
+
+...
+the  people  (&c.,  down  to  :)  "  He  who  is  clever  will
+
+understand  it."
+
+'  Then  those  people,  O  Bhikkhus,  having  led  king
+
+Diehiti  of  Kosala  and  his  consort  around  from  road
+
+to  road  and  from  cross-way  to  cross-way,  led  them
+
+out  of  the  town  by  the  southern  gate,  hewed  them
+
+in  four  pieces  to  the  south  of  the  town,  threw  the
+
+pieces  away  to  the   four  quarters,   stationed  there
+
+a  troop  of  soldiers,  and  went  away.
+
+12.  '  Then  young  Dighavu,  O  Bhikkhus,  went  to
+Benares,  got  strong  drink  there,  and  made  those
+soldiers  drink  it.  When  they  were  drunk  and  had
+fallen  down,  he  gathered  the  pieces  (of  the  two
+bodies),  made  a  funeral  pile,  put  his  father's  and
+his  mother's  bodies  on  that  pile,  set  it  on  fire,  and
+raising  his  clasped  hands  he  three  times  circum-
+ambulated the  funeral  pile.
+
+'  Now  at  that  time,  O  Bhikkhus,  king  Brahma-
+datta  of  Kasi  had  gone  up  on  to  the  terrace  of  his
+splendid  palace.  And  king  Brahmadatta  of  Kdsi,
+O  Bhikkhus,  saw  young  Dighavu,  who,  raising  his
+clasped   hands,    three    times    circumambulated    the
+
+
+300  MAHAVAGGA.  X,  2,  13.
+
+funeral  pile.  When  he  saw  that,  he  thought :
+"  Doubtless  this  man  is  a  relation  or  kinsman  of
+king  Dighiti  of  Kosala.  Alas  for  my  misfortune,
+that  nobody  will  tell  me  (what  this  means)!"
+
+13.  'And  young  Dighavu,  O  Bhikkhus,  went  to
+the  forest.  There  he  cried  and  wept  to  his  heart's
+content.  Then  he  wiped  his  tears,  entered  the  town
+of  Benares,  went  to  the  elephant  stables  near  the
+royal  palace,  and  said  to  the  elephant  trainer :  "  I
+wish  to  learn  your  art,  master."
+
+'  "  Well,  my  good  young  man,  learn  it."
+'  And  young  Dighavu,  O  Bhikkhus,  arose  in  the
+night,  at  dawn's  time,  and  sung  in  the  elephant
+stables  in  a  beautiful  voice,  and  played  upon  the
+lute.  And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+having  risen  in  the  night,  at  dawn,  heard  that  singing
+in  a  beautiful  voice  and  that  playing  upon  the  lute
+in  the  elephant  stables.  On  hearing  that  he  asked
+his  attendants :  "  Who  is  it,  my  friends,  who  has
+risen  in  the  night,  at  dawn's  time,  and  has  sung  in
+the  elephant  stables  in  so  beautiful  a  voice,  and  has
+played  upon  the  lute  ?"
+
+14.  '(The  attendants  replied):  "A  young  pupil,
+Your  Majesty,  of  such  and  such  an  elephant  trainer,
+has  risen  in  the  night,  at  dawn,  and  has  sung  in  the
+elephant  stables  in  so  beautiful  a  voice,  and  has
+played  upon  the  lute."
+
+'(The  king  said)  :  "Well,  my  friends,  bring  that
+young  man  to  me."
+
+'  Those  people  accepted,  O  Bhikkhus,  that  order
+of  king  Brahmadatta  of  Kasi  (by  saying),  "  Yes,
+Your  Majesty,"  and  brought  young  Dighavu  to  him.
+
+' "  Is  it  you,  my  good  young  man,  who  has  risen
+in  the  night,  &c.  ?"
+
+
+X,  2,  15-  SCHISMS    AMONG    THE    SAi\/GHA.  3OI
+
+"'Yes,  Your  Majesty."
+
+'  "Well,  my  good  young  man,  sing  and  play  upon
+the  lute  (also  before  me)."
+
+'  Young  Dighavu,  O  Bhikkhus,  accepted  this  order
+of  king  Brahmadatta  of  Kasi  (by  saying),  "  Yes,
+Your  Majesty,"  and  in  order  to  win  (the  king's)
+favour  he  sung  in  a  beautiful  voice  and  played  upon
+the  lute.
+
+*  And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,  said
+to  young  Dighavu  :  "  Be  my  attendant,  my  good
+young  man."
+
+*  Young  Dighdvu,  O  Bhikkhus,  accepted  this  order
+of  king  Brahmadatta  of  Kasi  (by  saying),  "  Yes,
+Your  Majesty."  And  young  Dighavu,  O  Bhikkhus,
+became  (a  servant)  of  king  Brahmadatta  of  Kasi,
+rising  before  him,  lying  down  after  him,  willingly
+obeying  all  his  commands,  agreeable  in  his  conduct,
+pleasing  in  his  words.  And  ere  long,  O  Bhikkhus,
+king  Brahmadatta  of  Kasi  gave  to  young  Dighavu
+an  intimate  position  of  trust.
+
+15.  '  And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+said  to  young  Dighavu  :  "  Well,  my  young  friend,
+put  the  horses  to  the  chariot ;  we  will  go  a-hunting."
+And  young  Dighavu,  O  Bhikkhus,  accepted  this
+order  of  king  Brahmadatta  of  Kasi  (by  saying),
+"  Yes,  Your  Majesty,"  put  the  horses  to  the  chariot,
+and  said  to  king  Brahmadatta  of  Kasi  :  "  The  horses
+have  been  put  to  your  chariot,  Your  Majesty ;  you
+may  do  now  as  you  think  fit."
+
+'  And  king  Brahmadatta  of  Kdsi,  O  Bhikkhus,
+ascended  the  chariot,  and  young  Dighdvu  drove  the
+chariot :  and  he  drove  the  chariot  in  such  a  way
+that  the  hosts  (of  the  royal  retinue)  went  one  way,
+and  the  chariot  went  another  way.
+
+
+302  MAHAVAGGA.  X,  2,  i6.
+
+'  And  after  a  long  drive,  O  Bhikkhus,  king  Brah-
+madatta  of  Kasi  said  to  young  Dighavu  :  "  Well,
+my  young  friend,  stop  now  the  chariot.  I  am  tired  ;
+I  would  lie  down."
+
+'  Young  Dighavu,  O  Bhikkhus,  accepted  this
+order  of  king  Brahmadatta  of  Kasi  (by  saying),
+"  Yes,  Your  Majesty,"  stopped  the  chariot,  and  sat
+down  on  the  ground  cross-legged.  And  king  Brah-
+madatta of  Kasi,  O  Bhikkhus,  lay  down,  laying  his
+head  in  the  lap  of  young  Dighavu ;  and  as  he  was
+tired,  he  fell  asleep  in  a  moment.
+
+1 6.  '  And  young  Dighavu  thought,  O  Bhikkhus  :
+"  This  kine  Brahmadatta  of  Kasi  has  done  much
+harm  to  us.  By  him  we  have  been  robbed  of  our
+troops  and  vehicles,  our  realm,  our  treasuries  and
+storehouses.  And  he  has  killed  my  father  and
+mother.  Now  the  time  has  come  to  me  to  satisfy
+my  hatred," — (thinking  thus)  he  unsheathed  his
+sword.  Then,  O  Bhikkhus,  young  Dighavu  thought :
+"  My  father  said  to  me  in  the  hour  of  his  death  :
+'  Do  not  look  long,  my  dear  Dighavu,  and  do  not
+look  short.  For  not  by  hatred,  my  dear  Dighavu,
+is  hatred  appeased  ;  by  not-hatred,  my  dear  Dighavu,
+hatred  is  appeased.'  It  would  not  become  me  to
+transgress  my  father's  word," — (thinking  thus)  he
+put  up  his  sword.
+
+'  And  for  the  second  time  ....  and  for  the  third
+time  young  Dighavu  thought,  O  Bhikkhus  :  "  This
+king  Brahmadatta  of  Kasi  has  done  much  harm  to  us"
+(&c.,  down  to  :)— (thinking  thus)  he  put  up  his  sword.
+
+'  At  that  moment,  O  Bhikkhus,  king  Brahmadatta
+of  Kasi,  frightened,  terrified,  full  of  anguish,  and
+alarmed,  suddenly  arose.
+
+'  And  young  Dighavu,  O  Bhikkhus,  said  to  king
+
+
+X,  2,  17.  SCHISMS    AMONG    THE    SAMGUA.  303
+
+Brahmadatta  of  Kasi :  "  Why  do  you  arise  so  sud-
+denly, O  king,  frightened,  terrified,  full  of  anguish,
+and  alarmed  ?"
+
+'  (The  king  replied)  :  "  I  dreamt,  my  young  friend,
+that  young  Dighavu,  the  son  of  king  Dighiti  of
+Kosala,  came  upon  me  with  his  sword  ;  therefore
+have  I  arisen  so  suddenly,  frightened,  terrified,  full
+of  anguish,  and  alarmed."
+
+17.  'Then,  O  Bhikkhus,  young  Dighavu,  stroking
+with  his  left  hand  the  head  of  kine  Brahmadatta  of
+Kasi,  and  with  his  right  hand  unsheathing  his  sword,
+said  to  king  Brahmadatta  of  Kasi :  "  I  am  that  young
+Dighavu,  O  king,  the  son  of  king  Dighiti  of  Kosala.
+You  have  done  much  harm  to  us.  By  you  we  have
+been  robbed  of  our  troops  and  vehicles,  our  realm,
+our  treasuries  and  storehouses.  And  you  have
+killed  my  father  and  mother.  Now  the  time  has
+come  to  me  to  satisfy  my  hatred,"
+
+*  Then,  O  Bhikkhus,  king  Brahmadatta  of  Kasi
+fell  down  before  young  Dighavu,  inclining  his  head
+to  his  feet,  and  said  to  young  Dighavu  :  "  Grant  me
+my  life,  my  dear  Dighavu !  Grant  me  my  life,  my
+dear  Dighavu !"
+
+'  "  How  can  I  grant  you  your  life,  O  king  ?  It  is
+you,  O  king,  who  should  grant  me  my  life!"
+
+'  "  Well,  my  dear  Dighavu,  then  grant  me  my  life,
+and  I  will  grant  you  your  life."
+
+'  Thus,  O  Bhikkhus,  king  Brahmadatta  of  Kasi
+and  young  Dighavu  granted  each  other  their  lives
+and  took  each  other's  hands  and  swore  an  oath  not
+to  do  any  harm  to  each  other.
+
+'  And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+said  to  young  Dighavu  :  "  Well,  my  dear  Dighavu,
+put  now  the  horses  to  the  chariot ;  we  will  go."
+
+
+304  MAHAVAGGA.  X,  2,  18.
+
+'  And  young  Dighavu,  O  Bhikkhus,  accepted  this
+order  of  king  Brahmadatta  of  Kasi  (by  saying),
+"  Yes,  Your  Majesty,"  put  the  horses  to  the  chariot,
+and  said  to  king  Brahmadatta  of  Kasi :  "  The  horses
+have  been  put  to  your  chariot,  Your  Majesty ;  you
+may  do  now  as  you  think  fit."
+
+'  And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+ascended  the  chariot,  and  young  Dighavu  drove  the
+chariot ;  and  he  drove  the  chariot  in  such  a  way
+that  they  soon  reached  again  the  hosts  (of  the  royal
+retinue),
+
+18.  'And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+having  entered  Benares,  convoked  his  ministers  and
+counsellors  and  said  to  them :  "  If  you  should  see,
+my  good  Sirs,  young  Dighavu,  the  son  of  king  Dighiti
+of  Kosala,  what  would  you  do  to  him  ?"
+
+'Some  (of  the  ministers)  replied:  "We  would  cut
+off  his  hands.  Your  Majesty;"  (others  said):  "We
+would  cut  off  his  feet " — "  We  would  cut  off  his
+hands  and  feet " — "  We  would  cut  off  his  ears  " —
+"  We  would  cut  off  his  nose  " — "  We  would  cut  off  his
+ears  and  his  nose  " — "  We  would  cut  off  his  head."
+
+'"This  is  young  Dighavu,  Sirs,  the  son  of  king
+Dighiti  of  Kosala.  It  is  not  permitted  to  do  any-
+thing to  him  ;  he  has  granted  me  my  life,  and  I
+have  granted  him  his  life."
+
+19.  'And  king  Brahmadatta  of  Kasi,  O  Bhikkhus,
+said  to  young  Dighavu  :  "  Why  did  your  father  say
+to  you  in  the  hour  of  his  death  :  '  Do  not  look  long,
+&c.' — what  did  your  father  mean  by  that  ?"
+
+'"What  my  father  said,  O  king,  in  the  hour  of
+his  death:  'Not  long' — (means):  'Let  not  your
+hatred  last  long  ;'  this  did  my  father  mean  when  he
+said  in  the  hour  of  his  death  :  '  Not  long.'     And
+
+
+X,  2,  20.  SCHISMS    AMONG    THE    SAil/GIIA.  305
+
+what  my  father  said,  O  king,  in  the  hour  of  his
+death  :  '  Not  short' — (means) :  '  Do  not  be  hasty  to
+fall  out  with  your  friends  ;'  this  did  my  father  mean
+when  he  said  in  the  hour  of  his  death  :  *  Not  short.'
+And  what  my  father  said,  O  king,  in  the  hour  of  his
+death  :  '  For  not  by  hatred,  my  dear  Dighavu,  is
+hatred  appeased  ;  by  not-hatred,  my  dear  Dighavu,
+is  hatred  appeased' — (means  this) :  '  You  have  killed
+my  father  and  mother,  O  king.  If  I  should  deprive
+you  therefore  of  life,  O  king,  then  your  partisans,
+O  king,  would  deprive  me  of  life  ;  my  partisans
+again  would  deprive  those  of  life.  Thus  by  hatred
+that  hatred  would  not  be  appeased.  But  now,  O
+king,  you  have  granted  me  my  life,  and  I,  O  king,
+have  granted  you  your  life ;  thus  by  not-hatred
+hatred  has  been  appeased.'  This  did  my  father
+mean  when  he  said  in  the  hour  of  his  death  :  '  For
+not  by  hatred,  &c."'
+
+20.  'Then  kmg  Brahmadatta  of  Kasi,  O  Bhikkhus,
+thouQfht :  "  O  wonderful !  O  marvellous  !  How  clever
+is  this  young  Dighavu,  that  he  understands  in  its  full
+extent  the  meaning  of  what  his  father  spoke  so  con-
+cisely,"— and  he  gave  him  back  his  father's  troops
+and  vehicles,  his  realm,  his  treasuries  and  store-
+houses, and  he  gave  him  his  daughter.
+
+'  Now,  O  Bhikkhus,  if  such  is  the  forbearance  and
+mildness  of  kings  who  wield  the  sceptre  and  bear
+the  sword,  so  much  more,  O  Bhikkhus,  must  you  so
+let  your  light  shine  before  the  world  that  you,  having
+embraced  the  religious  life  according  to  so  well-
+taught  a  doctrine  and  a  discipline,  are  seen  to  be
+forbearing  and  mild.'
+
+And  for  the  third   time^  the   Blessed   One  thus
+
+^  See  §  2.
+[17]  X
+
+
+3o6  MAHAVAGGA.  X,  3.
+
+
+addressed  those  Bhikkhus  :  '  Enough,  O  Bhikkhus,
+no  altercations;  no  contentions,  no  disunion,  no
+quarrels !'
+
+And  for  the  third  time  that  Bhikkhu  who  adhered
+to  the  party  who  were  wrong,  said  to  the  Blessed
+One :  '  Lord,  may  the  Blessed  One,  the  king  of
+Truth,  be  patient!  Lord,  may  the  Blessed  One
+quietly  enjoy  the  bliss  he  has  obtained  already  in
+this  life !  The  responsibility  for  these  altercations
+and  contentions,  for  this  disunion  and  quarrel  will
+rest  with  us  alone.'  And  the  Blessed  One  thought :
+'  Truly  these  fools  are  infatuate  ;  it  is  no  easy  task
+to  administer  instruction  to  them,' — and  he  rose
+from  his  seat  and  went  away.
+
+
+End  of  the  first  Bha;^avara,  which  contains
+the  story  of  Dighavu.
+
+
+And  in  the  forenoon  the  Blessed  One,  having  put
+on  his  under-robes,  took  up  his  alms-bowl  and  his
+/^ivara,  and  entered  the  town  of  Kosambi  for  alms.
+Having  collected  alms  in  Kosambi,  after  his  meal,
+when  he  had  returned  from  his  alms-pilgrimage,  he
+put  his  resting-place  in  order,  took  up  his  alms-bowl
+and  his  /('ivara,  and  standing  in  the  midst  of  the
+assembly  he  pronounced  the  following  stanzas  :
+
+'  Loud  is  the  noise  that  ordinary  men  make.  No-
+body thinks  himself  a  fool,  when  divisions  arise  in
+the  Sawgha,  nor  do  they  ever  value  another  person
+higher  (than  themselves).
+
+
+X,  3-  SCHISMS    AMONG    THE    SAMGHA.  307
+
+
+'  Bewildered  ^  are  (even)  the  clever  words  of  him
+who  is  versed  in  the  resources  of  eloquence.  As
+wide  as  they  like  they  open  their  mouth.  By  whom
+they  are  lead  they  do  not  see.
+
+'"  He"  has  reviled  me,  he  has  beaten  me,  he  has
+oppressed  me,  he  has  robbed  me," — in  those  who
+nurse  such  thoughts,  hatred  will  never  be  appeased.
+
+'"He  has  reviled  me,  he  has  beaten  me,  he  has
+oppressed  me,  he  has  robbed  me," — in  those  who
+do  not  nurse  such  thoughts,  hatred  is  appeased,
+
+'  For  not  by  hatred  is  hatred  ever  appeased ;  by
+not-hatred  it  is  appeased ;  this  is  an  eternal  law.
+
+*  The  others  '^  do  not  know^  that  w^e  must  keep
+ourselves  under  restraint  here ;  but  those  who  know
+it,  their  quarrels  are  appeased.
+
+'  They  w^hose  bones  are  broken  (by  their  foes),
+who  destroy  lives,  who  rob  cows,  horses,  and  trea-
+sures, w4io  plunder  realms, —  even  these  may  find
+conciliation.     How  should  you  not  find  it  ?
+
+'  If  *  a  man  find  a  wise  friend,  a  companion  who
+
+*  Parimu/Ma.  Buddhaghosa:  'Parimu/Ma  'ti  mu/Massatino.'
+MuZ/Z/a^sati  cannot  be  connected  with  mu///a,  as  Childcrs  supposes,
+but  it  is  evidently  mushitasmr/ti  (Kathasarits.  56,  289  ;  compare
+satisammosa.  Mil.  PaJJha,  p.  266).  Thus  it  appears  that  parimu///^a
+must  be  derived  also  from  the  root  mush.
+
+^  These  verses  are  inserted  in  the  Dhammapada,  vv.  3-6.
+
+^  That  is  to  say,  those  who  do  not  follow  the  Buddha's  teaching.
+On  this  meaning  of  pare  compare  parappavada  at  ]\Iaha-parinib-
+bana  Sutta  V,  62.  Professor  Max  Muller,%vho  in  the  first  edition  of
+his  translation  of  the  Dhammapada  (Buddhaghosa's  Parables,  p.  Ivi)
+has  'Some  do  not  know  that  we  must  all  come  to  an  end  here/
+in  the  revised  edition  (Sacred  Books  of  the  East,  vol.  x)  renders
+the  phrase, 'The  world  does  not  know  that  we  must  all  come  to  an
+end  here.'
+
+*  The  following  three  verses  have  also  been  inserted  in  the
+Dhammapada,  vv.  328-330.  The  two  first  recur  in  the  Khagga-
+visana-sutta  of  the  Sutta  Nipata,  vv.  11,12.
+
+X    2
+
+
+3o8  MAHAVAGGA.  X,  4,  r.
+
+
+lives  righteously,  a  constant  one,  he  may  walk  with
+him,  overcoming  all  dangers,  happy  and  mindful  \
+
+'  If  he  find  no  wise  friend,  no  companion  who  lives
+righteously,  no  constant  one,  let  him  walk  alone,  like
+a  king  who  leaves  his  conquered  realm  behind  ^,  like
+an  elephant  in  the  elephant  forest  ^
+
+'  It  is  better  to  walk  alone ;  with  a  fool  there  is
+no  companionship.  Let  a  man  walk  alone  ;  let  him
+do  no  evil,  free  from  cares,  like  an  elephant  in  the
+elephant  forest  ^'
+
+
+4.
+
+I.  And  the  Blessed  One,  having  pronounced
+these  stanzas  standing  in  the  midst  of  the  assembly,
+went  forth  to  Balakalo;zakara-gama  (or,  to  Balaka,
+the  salt-maker's  village).
+
+At  that  time  the  venerable  Bhagu  dwelt  at  Bala-
+kalo?2akara-gama.  And  the  venerable  Bhagu  saw
+the  Blessed  One  coming  from  afar;  seeing  him  he
+prepared  a  seat,  brought  water  for  the  washing  of
+his  feet,  a  foot-stool,  and  a  towel,  went  forth  to  meet
+him,  and  took  his  bowl  and  his  robe.  The  Blessed
+One  sat  down  on  the   seat  he  had  prepared ;   and
+
+'  On  the  juxtaposition  of  happiness  with  mindfuhiess,  see  the
+constantly  repeated  phrase  occurring,  for  instance,  in  the  Tevi^^^a
+Sutta  I,  49  (at  the  end).  It  would  perhaps  be  better  to  read  sa-
+tima  in  the  text,  as  Fausboll  has  done,  metri  causa.
+
+^  That  is,  who  abdicates,  and  devotes  himself  in  the  forest  to  a
+hermit's  life.  This  is  given  as  the  crucial  instance  of  a  happy  life
+in  the  Gataka  Story,  No.  10.
+
+•''  Professor  Fausboll  reads  in  both  verses  matangara7i«o
+instead  of  matahgaranfie.
+
+
+^%  4,  3«  SCHISMS    AMONG    THE    SAAiGIIA.  309
+
+when  he  was  seated,  the  Blessed  One  washed  his
+feet.  And  also  the  venerable  Bhagu,  having  respect-
+fully saluted  the  Blessed  One,  sat  down  near  him.
+When  he  was  sitting  near  him,  the  Blessed  One  said
+to  the  venerable  Bhagu  :  '  Is  it  all  well  with  you,
+O  Bhikkhu  ?  Do  you  find  your  living  ?  Do  }ou  get
+food  without  too  much  trouble  ?'
+
+'It  is  all  well  with  me,  Lord;  I  fmd  my  living.
+Lord ;  I  get  food,  Lord,  without  too  much  trouble.'
+
+And  the  Blessed  One,  having  taught,  incited,  ani-
+mated, and  gladdened  the  venerable  Bhagu  by  reli-
+o-ious  discourse,  rose  from  his  seat  and  went  forth
+to  the  Eastern  Bambu  Park  (PaX;ina-va;;2sa-daya).
+
+2.  At  that  time  the  venerable  Anuruddha  and  the
+venerable  Nandiya  and  the  venerable  Kimbila  dwelt
+at  PcU'ina-va/;/sa-daya.  And  the  park-keeper  saw
+the  Blessed  One  coming  from  afar;  seeing  him  he
+said  to  the  Blessed  One  :  '  Do  not  enter  this  park,
+O  Sa;;/ana;  here  dwell  three  noble  youths  accustomed
+to  comfort  and  ease ;  you  must  not  annoy  them.'
+And  the  venerable  Anuruddha  heard  what  the  park-
+keeper  was  saying  to  the  Blessed  One  ;  hearing  that
+he  said  to  the  park-keeper :  '  Do  not  keep  off  the
+Blessed  One,  my  good  park-keeper;  our  teacher,
+the  Blessed  One,  has  arrived.'  And  the  venerable
+Anuruddha  went  to  the  place  where  the  venerable
+Nandiya  and  the  venerable  Kimbila  w-ere ;  having
+approached  them,  he  said  to  the  venerable  Nandiya
+and  to  the  venerable  Kimbila  :  '  Come  here,  my
+venerable  friends  !  Come  here,  my  venerable  friends  !
+Our  teacher,  the  Blessed  One,  has  arrived.'
+
+3.  And  the  venerable  Anuruddha,  the  venerable
+Nandiya,  and  the  venerable  Kimbila  went  forth  to
+meet  the  Blessed  One ;  one  took  the  bowl  and  the
+
+
+v)
+
+
+lO  MAHAVAGGA.  X,  4,  4.
+
+
+robe  of  the  Blessed  One,  the  other  one  prepared
+a  seat,  the  third  one  brought  water  for  the  washing
+of  his  feet,  a  foot-stool,  and  a  towel.  Then  the
+Blessed  One  sat  down  on  the  seat  they  had  pre-
+pared ;  and  when  he  was  seated,  the  Blessed  One
+washed  his  feet.  And  also  those  venerable  persons,
+having  respectfully  saluted  the  Blessed  One,  sat
+down  near  him.  When  the  venerable  Anuruddha
+was  sitting  near  him,  the  Blessed  One  said  to  him  :
+'  Is  it  all  well  with  you,  O  Anuruddhas^?  Do  you
+find  your  living  ?  Do  you  get  food  without  too
+much  trouble  ?'
+
+*  It  is  all  well  with  us,  Lord ;  we  find  our  living,
+Lord  ;  we  get  food.  Lord,  without  too  much  trouble.'
+
+'  And  do  you  live,  O  Anuruddhas,  in  unity  and
+concord,  without  quarrels,  like  milk  and  water  (mixed
+together)^,  and  looking  at  each  other  with  friendly
+eyes  ?'
+
+'  Certainly,  Lord,  do  we  live  in  unity  and  concord
+(&c.,  down  to :)  and  looking  at  each  other  with
+friendly  eyes.'
+
+'And  in  what  way,  O  Anuruddhas,  do  you  live  in
+unity  and  concord,  &c.  ?'
+
+4.  'I  think,  Lord:  "It  is  all  gain  to  me  indeed,
+it  is  high  bliss  for  me  indeed,  that  I  live  in  the  com-
+panionship of  brethren  like  these."  Thus,  Lord,  do
+I  exercise  towards  these  venerable  brethren  friend-
+liness in  my  actions,  both  openly  and  in  secret ;   I
+
+*  We  have  here  the  plural  Anuruddha,  meaning  Anuruddha
+and  his  friends.  So  in  A'ullavagga  I,  13,  6  Sariputta  means  Sari-
+putta  and  Moggallana.
+
+"^  Khirodakibhuta  can  scarcely  contain  an  allusion  to  the  Milk
+Ocean  (see  Childers,  s.v.  khirodaka).  Milk  and  water  is  frequently
+chosen  by  the  Indian  poets  as  a  type  of  the  most  perfect  union.
+
+
+X,  4,  5'  SCHISMS    AMONG    THE    SAMGUA.  3!  I
+
+exercise  (towards  them)  friendliness  in  my  words,
+and  friendliness  in  my  thoughts,  both  openly  and  in
+secret.  And  I  think  thus.  Lord  :  "  What  if  I  were
+to  give  up  my  own  will  and  to  live  only  according  to
+the  will  of  these  venerable  brethren."  Thus,  Lord,
+I  give  up  my  own  will  and  live  only  according  to
+the  will  of  these  venerable  brethren.  Our  bodies.
+Lord,  are  different,  but  our  minds,  I  think,  have
+become  one\'
+
+And  also  the  venerable  Nandiya  ....  and  also
+the  venerable  Kimbila  ....  said  to  the  Blessed
+One:  'I  think  also,  Lord:  "It  is  all  gain  to  me"
+{&c.,  down  to :)  have  become  one.
+
+'  In  this  way,  Lord,  do  we  live  in  unity  and  con-
+cord, without  quarrels,  like  milk  and  water  (mixed
+together),  and  looking  at  each  other  with  friendly
+eyes.'
+
+5.  'And  do  you  live,  O  Anuruddhas,  in  earnest-
+ness, zeal,  and  resolvedness  ?'
+
+'  Certainly,  Lord,  do  we  live  in  earnestness,  zeal,
+and  resolvedness.'
+
+'And  in  what  way,  O  Anuruddhas,  do  you  live  in
+earnestness,  zeal,  and  resolvedness  .'*'
+
+'  He^  who  first  of  us  comes  back,  Lord,  from  the
+village,  from  his  alms-pilgrimage,  prepares  seats,
+gets  water  for  washing  feet,  a  foot-stool,  and  a  towel,
+cleans  the  slop-basin,  and  gets  it  ready,  and  puts
+there  (water  to)  drink  and  food.  He  who  comes
+back  last  from  the  village,  from  his  alms-pilgrimage,
+eats,  if  there  is  any  food  left  (from  the  dinner  of  the
+others)  and  if  he  desires  to  do  so ;   and  if  he  does
+
+*  Compare  the  last  poem  in  the  Sutta  Nipata,  and  especially
+V.  1 143.
+
+•^  Compare  IV,  i.
+
+
+312  MAHAVAGGA.  X,  4,  6.
+
+not  desire  (to  eat),  he  throws  it  away  at  a  place  free
+from  grass,  or  pours  it  away  into  water  in  which  no
+hving  things  are  ;  takes  away  the  seat,  jDuts  away
+the  water  for  washing  the  feet,  the  foot-stool,  and
+the  towel,  cleans  the  slop-basin  and  puts  it  away,
+puts  the  water  and  the  food  away,  and  sweeps  the
+dining-room.  He  who  sees  a  water-pot,  or  a  bowl
+for  food,  or  an  easing-chair,  empty  and  void,  puts  it
+(into  its  proper  place),  and  if  he  is  not  able  to  do  so
+single-handed,  he  calls  some  one  else,  and  thus  we
+put  it  (into  its  place)  with  our  united  effort,  but
+we  do  not  utter  a  word.  Lord,  on  that  account.
+And  every  five  days,  Lord,  we  spend  a  whole
+night,  sitting  together,  in  religious  discourse.  In
+this  way.  Lord,  do  we  live  in  earnestness,  zeal,  and
+resolvedness.'
+
+6.  And  the  Blessed  One,  having  taught,  incited,
+animated,  and  gladdened  the  venerable  Anuruddha
+and  the  venerable  Nandiya  and  the  venerable  Kim-
+bila  by  religious  discourse,  rose  from  his  seat,  and
+went  forth  to  Parileyyaka.  Wandering  from  place
+to  place  he  came  to  Parileyyaka.  There  the  Blessed
+One  dwelt  at  Parileyyaka,  in  the  Rakkhita  grove,  at
+the  foot  of  the  Bhaddasala  tree.  Then  in  the  mind
+of  the  Blessed  One,  who  was  alone,  and  had  retired
+into  solitude,  the  following  thought  arose :  *  Formerly
+I  did  not  live  at  ease,  being  troubled  by  those  liti-
+gious, contentious,  quarrelsome,  disputatious  Bhik-
+khus  of  Kosambi,  the  constant  raisers  of  questions
+before  the  Sa?;/gha.  But  now,  being  alone  and  with-
+out a  companion,  I  live  pleasantly  and  at  ease,  re-
+mote from  those  litigious,  contentious,  quarrelsome,
+disputatious  Bhikkhus  of  Kosambi,  the  constant
+raisers  of  questions  before  the  Sawgha.'     And  there
+
+
+X,  4.  7-  SCHISMS    AMOiNG    THE    SA.l/GIlA.  313
+
+
+dwelt  also  a  noble  elephant,  who  was  surrounded  by
+a  crowd  of  elephants,  she-elephants,  elephant-calves,
+and  young-  elephants  ;  the  grass  blades  he  ate  had
+their  tips  broken ;  the  branches  he  broke  down  (the
+other  elephants)  ate  ;  the  water  he  drank  was  turbid  ;
+and  when  he  waded  into  the  river  and  plunged  down,
+the  she-elephants  came  and  rubbed  up  their  bodies
+against  him.  Now  that  noble  elephant  thought  :
+'  I  am  surrounded  by  a  crowd  of  elephants  (&c.,
+down  to :)  and  rub  up  dieir  bodies  against  me.
+What  if  I  were  to  live  alone,  far  away  from  those
+crowds.'
+
+7.  And  that  noble  elephant  left  the  herd  behind,
+and  went  to  Parileyyaka,  to  the  Rakkhita  grove,  to
+the  foot  of  the  Bhaddasala  tree,  to  the  place  where
+the  Blessed  One  was.  Having  approached  him,  he
+administered  with  his  trunk  to  the  Blessed  One
+(water  to)  drink  and  food,  and  removed  the  grass
+from  that  place.  And  that  noble  elephant  thought :
+'  Formerly  I  did  not  live  at  ease,  surrounded  by  that
+crowd  of  elephants  (&c.,  down  to  :)  and  rubbed  up
+their  bodies  against  me.  But  now,  being  alone  and
+without  a  companion,  I  live  pleasandy  and  at  ease,
+remote  from  those  elephants,  she-elephants,  ele-
+phant-calves, and  young  elephants.'
+
+Then  the  Blessed  One,  both  regarding  his  own
+retirement,  and  understanding  by  the  power  of  his
+mind  the  thoughts  which  had  arisen  in  die  mind  of
+that  noble  elephant,  on  this  occasion  pronounced  this
+solemn  utterance  :
+
+'  Thus  the  noble  one  and  the  noble,  the  elephant
+tusked  with  tusks  like  cart  poles  ^  (and  the  noble
+
+
+Isadanta;  see  Bohllingk-Roth,  sub  voce  isha.
+
+
+3  1 4  MAHAVAGGA.  X,  5,  i.
+
+One  among  men) — the  mind  of  the  one  and  the
+mind  of  the  other  harmonise  in  this,  that  they  take
+delight  in  dwehing  alone  in  the  forest.'
+
+
+•      5.
+
+1.  And  the  Blessed  One,  having  dwelt  at  Pari-
+leyyaka  as  long  as  he  thought  fit,  went  forth  to
+Savatthi.  Wandering  from  place  to  place  he  came
+to  Savatthi.  There  the  Blessed  One  dwelt  at
+Savatthi,  in  the  6^etavana,  the  garden  of  Andtha-
+p'mdiks..  And  the  lay-devotees  of  Kosambi
+thought:  'These  venerable  Bhikkhus  of  Kosambi
+have  brought  much  misfortune  to  us;  worried ^  by
+them  the  Blessed  One  is  gone.  Well,  let  us  neither
+salute  the  venerable  Bhikkhus  of  Kosambi,  nor  rise
+from  our  seats  before  them,  nor  raise  our  hands
+before  them,  nor  perform  the  proper  duties  towards
+them,  nor  honour  and  esteem  and  revere  and  sup-
+port them,  nor  give  them  food  when  they  come  on
+their  walks  for  alms ;  thus,  when  they  are  not
+honoured,  esteemed,  revered,  supported,  and  hos-
+pitably received  by  us,  they  will  go  away,  or  return
+to  the  world,  or  propitiate  the  Blessed  One.'
+
+2.  Thus  the  lay-devotees  of  Kosambi  did  not
+salute  any  more  the  Bhikkhus  of  Kosambi,  nor  did
+they  rise  from  their  seats  before  them  (&c.,  down
+to :)  nor  gave  them  food  when  they  came  on  their
+walks  for  alms.
+
+Then  the  Bhikkhus  of  Kosambi,  when  they  were
+no   more   honoured  (&c.,  down  to  :)  and  hospitably
+
+^  Ubba/Aa;  see  <9ataka  I,  300,  and  Mahavagga  III,  9,  i.
+
+
+X,  5,  4-  SCHISMS    AMONG    THE    SAMGIIA,  315
+
+
+received  by  the  lay-devotees  of  Kosambi,  said  to
+each  other:  'Well,  friends,  let  us  go  to  Savatthi
+and  let  us  settle  there  that  question  before  the
+Blessed  One.'  And  the  IMiikkhus  of  Kosambi  put
+their  resting-places  in  order,  took  up  their  alms-
+bowls  and  their  robes,  and  went  forth  to  Savatthi.
+
+3.  And  the  venerable  Sariputta  heard  :  '  Those
+litigious,  contentious,  quarrelsome,  disputatious
+Bhikkhus  of  Kosambi,  the  constant  raisers  of  ques-
+tions before  the  Sawgha,  are  coming  to  Savatthi.'
+And  the  venerable  Sariputta  went  to  the  place
+where  the  Blessed  One  was ;  having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he
+sat  down  near  him.  Sitting  near  him  the  venerable
+Sariputta  said  to  the  Blessed  One :  '  Lord,  those
+litigious,  contentious  (&c.,  down  to :)  arc  coming
+to  Savatthi.  How  am  I  to  behave.  Lord,  towards
+those   Bhikkhus?'
+
+'  Well,  Sariputta,  you  must  side  with  those  who
+are  right  according  to  the  Dhamma.'
+
+'  But  how  shall  I  discern.  Lord,  what  is  right  and
+what  is  wronor-  ?'
+
+4.  '  There  are  eighteen  things,  Sariputta,  by  which
+you  may  conclude  that  a  Bhikkhu  is  wrong  accord-
+ing to  the  Dhamma.  In  case,  Sariputta,  a  Bhikkhu
+declares  what  is  not  Dhamma  to  be  Dhamma,  or
+declares  what  is  Dhamma  not  to  be  Dhamma,  or
+declares  what  is  not  Vinaya  to  be  Vinaya,  or  declares
+what  is  Vinaya  not  to  be  Vinaya,  or  declares  what
+has  not  been  taught  and  spoken  by  the  Tathagata
+to  have  been  taught  and  spoken  by  the  Tathagata,
+or  declares  something  taught  and  spoken  by  the
+Tathagata  not  to  have  been  taught  and  spoken
+by  the   Tathagata,  or  declares  what  has   not  been
+
+
+3l6  MAIIAVAGGA.  X,  5,  5.
+
+practised  by  the  Tathagata  to  have  been  practised
+by  the  Tathagata,  or  declares  something  practised  by
+the  Tathagata  not  to  have  been  practised  by  the
+Tathagata,  or  declares  what  has  not  been  ordained
+by  the  Tathagata  to  have  been  ordained  by  the
+Tathagata,  or  declares  something  ordained  by  the
+Tathagata  not  to  have  been  ordained  by  the  Tatha-
+gata, or  declares  what  is  no  offence  to  be  an  offence,
+or  declares  an  offence  to  be  no  offence,  or  declares  a
+slight  offence  to  be  a  grievous  offence,  or  declares
+a  grievous  offence  to  be  a  slight  offence,  or  declares
+(a  rule  regarding)  an  offence  to  which  there  is  an
+exception  to  be  without  an  exception,  or  declares
+(a  rule  regarding)  an  offence  to  which  there  is  no
+exception  to  admit  of  exceptions  \  or  declares  a
+grave  offence-  to  be  a  not  grave  offence,  or  declares
+an  offence  that  is  not  grave  to  be  a  grave  offence,
+— these  are  the  eighteen  things,  Sariputta,  by  which
+you  may  conclude  that  a  Bhikkhu  is  wrong  accord-
+ing to  the  Dhamma.
+
+5.  '  And  there  are  eighteen  things,  Sariputta,  by
+which  you  may  conclude  that  a  Bhikkhu  is  right
+according  to  the  Dhamma.  In  case,  Sariputta,  a
+Bhikkhu  declares  what  is  not  Dhamma  to  be  not
+
+
+^  Our  translation  of  savasesa  and  anavasesa  is  entirely  con-
+jectural. By  the  exceptions  alluded  to  here  we  believe  that  such
+clauses  must  be  understood  as,  for  instance,  in  the  sixth  Nissaggiya
+Rule  the  words :  '  Except  at  the  right  season ; — here  the  right
+season  means  when  the  Bhikkhu  has  been  robbed  of  his  robe,  or
+when  his  robe  has  been  destroyed.  I'his  is  the  right  season  in
+this  connection.'
+
+^  The  term  '  Du///mlla  apatti '  is  used  also  in  the  ninth  Pa/^ittiya
+Rule,  and  the  Old  Commentary  there  states  that  by  '  grave  offences '
+those  belonging  to  the  Para^aka  and  Sa/;/ghadisesa  classes  are
+understood.
+
+
+X,  5,  7*  SCHISMS    AMONG    THE    SAil/GIIA.  317
+
+Dhamma.or  declares  what  is  Dhamma  to  be  Dhamma
+(«S:c.,  down  to:),  or  declares  a  grave  offence  to  be
+a  grave  offence,  or  declares  an  offence  that  is  not
+ofrave  to  be  not  crrave,  —  these  are  the  eiohteen
+things,  Sariputta,  by  which  you  may  conclude  that
+a  Bhikkhu  is  right  according  to  the  Dhamma,'
+
+6.  And  the  venerable  Mahamoggallana  heard
+(&c.,  as  in  §§  3-5)  —  and  the  venerable  Mahakas-
+sapa  heard,  &c.  —  and  the  venerable  Mahaka/'/'ana
+heard,  &c. — and  the  venerable  Mahako/Z/^ita^  heard,
+&c. — and  the  venerable  Mahakappina  heard,  &c. —
+and  the  venerable  Maha/'unda  heard,  &c. — and  the
+venerable  Anuruddha  heard,  &c. — and  the  venerable
+Revata  heard,  &c. — and  the  venerable  Upali  heard,
+&c.  —  and  the  venerable  Ananda  heard,  &c. — and
+the  venerable  Rahula  heard  (&c.,  as  above).
+
+7.  And  Mahapa^apati  Gotami  heard :  '  Those
+litigious,  contentious,  quarrelsome,  disputatious
+Bhikkhus  of  Kosambi,  the  constant  raisers  of
+questions  before  the  Sa;;^gha,  are  coming  to  Sa-
+vatthi.'  And  Mahapa^apati  Gotami  went  to  the
+place  where  the  Blessed  One  was ;  having  ap-
+proached him  and  respectfully  saluted  the  Blessed
+One,  she  stationed  herself  near  him.  Standing
+near  him  Mahapafapati  Gotamt  said  to  the  Blessed
+One  :  '  Lord,  those  litigious,  contentious  (&c.,  down
+to :)  are  coming  to  Savatthi.  How  am  I  to  behave,
+Lord,  towards  those  Bhikkhus?'
+
+'Well,  Gotami,  hear  the  Dhamma  on  both  sides.
+When  you  have  heard  the  Dhamma  on  both  sides,
+
+
+^  The  name  of  ihis  Thera  is  spelt  in  the  i\ISS.  Mahako///nta  and
+]\Iahako////ika,  In  the  Northern  Buddhist  works  he  is  called  Maha-
+kaushZ/iilya.  In  the  Lalita  Vistara  (p.  i,  ed.  Calc.)  Kau«</ilya  is
+a  misprint.
+
+
+"1 8  MAHAVAGGA.  X,  5,  8.
+
+
+o
+
+
+then  accept  the  opinion  and  the  beHef  and  the  doc-
+trine and  the  cause  of  those  Bhikkhus  who  are  ncAn
+according  to  the  Dhamma  ;  and  whatever  the  Bhik-
+khunisa?;/gha  has  to  apply  for  to  the  Bhikkhusa;;^-
+gha^,  for  all  that  you  must  apply  to  the  party  of
+those  who  are  right.'
+
+8.  And  Anatha-pi;/^ika  the  householder  heard
+(&c.,  as  in  §  3,  down  to :).  '  How  am  I  to  behave,
+Lord,  towards  those  Bhikkhus?'
+
+'  Well,  householder,  bestow  gifts  on  both  sides ;
+having  bestowed  gifts  on  both  sides,  hear  the
+Dhamma  on  both  sides.  When  you  have  heard
+the  Dhamma  on  both  sides,  then  accept  the  opinion
+and  the  belief  and  the  doctrine  and  the  cause  of
+those  Bhikkhus  who  are  riMit  accordingr  to  the
+Dhamma.'
+
+9.  And  Visakha  Migaramata  heard,  &c.  ^
+
+10.  And  the  Bhikkhus  of  Kosambi  in  due  course
+came  to  Savatthi.  And  the  venerable  Sariputta
+went  to  the  place  where  the  Blessed  One  was ;
+Laving  approached  him  and  respectfully  saluted
+the  Blessed  One,  he  sat  down  near  him.  Sitting
+near  him  the  venerable  Sariputta  said  to  the  Blessed
+One :  '  Lord,  those  litigious,  contentious,  quarrel-
+some, disputatious  Bhikkhus  of  Kosambi,  the  con-
+stant raisers  of  questions  before  the  Sa7;/gha,  have
+arrived  at  Savatthi.  How  are  we.  Lord,  to  arrange
+the  dwelling-places  of  those  Bhikkhus  ? '
+
+'  Well,  Sariputta,  assign  separate  dwelling-places
+to  them.'
+
+
+^  See  A^ullavagga  X,  i,  4,  and  the  59th  Pa,^ittiya  Rule  in   the
+Bhikkhuni-patimokkha.
+
+-  As  in  §  8.    Instead  of  '  Well,  householder,'  read  'Well, Visakha.'
+
+
+X,  5,  12.  SCHISMS    AMONG    THE    SAA/GHA.  319
+
+
+*  And  if  there  be  no  separate  dwelling-places,  what
+are  we  to  do  then,  Lord?'
+
+'  Then,  Sariputta,  you  must  separate  (some
+dwelling-places  from  the  rest)  and  then  assign
+them  (to  those  Bhikkhus).  But  in  no  wise,  Sari-
+putta, do  I  say  that  the  dwelling-place  of  a  senior
+Bhikkhu  must  be  taken  from  him.  He  who  does
+that,  commits  a  dukka/a  offence.'
+
+'  And  how  are  we  to  act.  Lord,  regarding  (the
+distribution  of)  material  gifts  ^  ?'
+
+'  Material  gifts,  Sariputta,  must  be  distributed
+among  all  in  equal  parts.'
+
+11.  And  that  Bhikkhu  against  whom  expulsion
+had  been  pronounced,  pondering  over  both  Dhamma
+and  Vinaya,  came  to  the  following  conclusion  :  '  This
+is  an  offence  ;  this  is  not  no  offence.  I  am  an  offender  ;
+I  am  not  offenceless.  I  am  expelled ;  I  am  not  un-
+expelled.  The  sentence  by  which  I  have  been
+expelled  is  lawful,  unobjectionable,  and  valid.'  Then
+that  expelled  Bhikkhu  went  to  the  expelled  Bhikkhu's
+partisans ;  having  approached  them,  he  said  to  the
+partisans  of  the  expelled  Bhikkhu  :  '  This  is  an
+offence,  friends ;  this  is  not  no  offence,  &c.  Come
+now,  my  venerable  brethren,  and  restore  me.'
+
+12.  Then  the  partisans  of  that  expelled  Bhikkhu
+took  with  them  the  expelled  Bhikkhu,  and  went  to
+the  place  where  the  Blessed  One  was ;  having
+approached  him  and  respectfully  saluted  the  Blessed
+One,  they  sat  down  near  him.  Sitting  near  him
+those  Bhikkhus  said  to  the  Blessed  One  :  '  Lord,
+this  Bhikkhu,  against  whom  expulsion  has  been  pro-
+nounced, says,   "This   is  an    offence,    friends   (&c.,
+
+
+^  Such  as  food,  robes,  &c.
+
+
+320  MAHAVAGGA.  X,  5,  13.
+
+
+down  to :)  and  restore  me."  What  are  we  to  do
+here,  Lord  ?'
+
+'  This  is  an  offence,  O  Bhikkhus  ;  this  is  not  no
+offence.  This  Bhikkhu  is  an  offender  ;  this  Bhikkhu
+is  not  offenceless.  This  Bhikkhu  is  expelled  ;  he  is
+not  unexpelled ;  the  sentence  by  w^hich  he  has  been
+expelled  is  lawful,  unobjectionable,  and  valid.  But
+since  this  Bhikkhu,  O  Bhikkhus,  having  committed
+an  offence,  and  having  been  sentenced  to  expulsion,
+sees  (his  offence),  restore  now  that  Bhikkhu,  O
+Bhikkhus.'
+
+1 3.  And  the  partisans  of  that  expelled  Bhikkhu,
+having  restored  that  expelled  Bhikkhu,  went  to  the
+Bhikkhus  who  had  sentenced  him  to  expulsion ;
+having  approached  them,  they  said  to  the  Bhikkhus
+who  had  pronounced  that  sentence :  '  As  regards
+that  matter,  friends,  which  gave  origin  to  altercations
+among  the  Sa;;2gha,  to  contentions,  discord,  quarrels,
+divisions  among  the  Sa;;zgha,  to  disunion  among  the
+Saw^gha,  to  separations  among  the  Sa7;2gha,  to  schisms
+among  the  Sa-mgha., — that  Bhikkhu  (who  was  con-
+cerned in  that  matter),  having  committed  an  offence,
+and  having  been  sentenced  to  expulsion,  has  seen
+(his  offence)  and  has  been  restored.  Come,  friends,
+let  us  declare  now  the  re-establishment  of  concord
+among  the  Sawgha  in  order  to  bring  that  matter  to
+an  end.'
+
+Then  the  Bhikkhus  who  had  pronounced  that
+sentence  of  expulsion,  went  to  the  place  where  the
+Blessed  One  was ;  having  approached  him  and  re-
+spectfully saluted  the  Blessed  One,  they  sat  down
+near  him  ;  sitting  near  him  those  Bhikkhus  said  to
+the  Blessed  One :  '  Lord,  those  partisans  of  the
+expelled    Bhikkhu    have  said  to  us :  "  As  regards
+
+
+X,  5,  M-  SCHISMS    AMONG    THE   SAA/GHA.  321
+
+that  matter  (&c.,  down  to  :)  in  order  to  bring  that
+matter  to  an  end."  What  are  we  to  do  here,  Lord?'
+14,  'Since  this  Bhikkhu,  O  Bhikkhus,  having
+committed  an  offence,  and  having  been  sentenced  to
+expulsion,  has  seen  (his  offence)  and  has  been  re-
+stored, let  the  Sawgha,  O  Bhikkhus,  declare  the
+re-establishment  of  concord  in  order  to  bring  that
+matter  to  an  end.  And  this  declaration  is  to  be
+performed  in  this  way :  Let  all  brethren  assemble
+together,  both  the  sick  and  the  healthy ;  no  one  is
+allowed  to  send  his  declaration  of  ^/landa.^  (and  to
+stay  away).  When  )ou  have  assembled,  let  a  learned,
+competent  Bhikkhu  proclaim  the  following  ;7atti
+before  the  Sa?;/gha :  "  Let  the  Sawgha,  reverend
+Sirs,  hear  me.  As  regards  that  matter  which  gave
+origin  to  altercations  among  the  Sawgha,  to  conten-
+tions, discord,  quarrels,  divisions  among  the  Sawgha,
+to  disunion  among  the  Sa?;2gha,  to  separations  among
+the  Sawgha,  to  schisms  among  the  Sa;;^gha, — that
+Bhikkhu  (concerned  in  that  matter),  having  com-
+mitted an  offence,  and  having  been  sentenced  to
+expulsion,  has  seen  (his  offence)  and  has  been
+restored.  If  the  Sa7;/gha  is  ready,  let  the  Sawgha
+declare  the  re-establishment  of  concord  in  order  to
+brino;  that  matter  to  an  end.  This  is  the  untt'i.
+Let  the  Sawgha,  reverend  Sirs,  hear  me  (&C.2,  down
+to :)  the  re-establishment  of  concord,  in  order  to
+bring  that  matter  to  an  end,  has  been  declared  by
+the  Sa7;/gha ;  the  division  that  existed  among  the
+Sawgha  has  been  settled ;  the  disunion  that  existed
+
+
+*  See  II,  23.
+
+"^  Here  follows  the  repetition  of  the  f<atti  and  the  other  solemn
+formulas  belonging  to  a  ?tattiduliya  kamma  in  the  usual  way.
+
+[17]  Y
+
+
+322  MAHAVAGGA.  X,  6,  I.
+
+among:  the  Sawsfha  has  been  settled.  The  Sa;;^o-ha
+is  in  favour  (of  this  declaration) ;  therefore  you  are
+silent ;  thus  I  understand."  Then  let  the  Sa?;2gha
+hold  Uposatha  and  proclaim  the  Patimokkha.'
+
+
+6.
+
+I.  And  the  venerable  Upali^  went  to  the  place
+where  the  Blessed  One  was.  Having  approached
+him  and  respectfully  saluted  the  Blessed  One,  he
+sat  down  near  him.  Sitting  near  him  the  venerable
+Upali  said  to  the  Blessed  One  :  '  Lord,  if  the  Sa^z/gha,
+regarding  a  matter  which  has  given  origin  to  alter-
+cations (&c.,  down  to  :)  to  schisms  among  the  Samghs.,
+declares  the  re-establishment  of  concord,  without
+having  inquired  into  that  matter  and  without  having
+got  to  the  bottom  of  it,  is  this  declaration.  Lord,
+lawful  ? '
+
+'If  the  Sa;;^gha,  Upali,  regarding  a  matter  (&c.,
+down  to  :)  declares  the  re-establishment  of  concord,
+without  having  inquired  into  that  matter  and  without
+having  got  to  the  bottom  of  it, — this  declaration,
+Upali,  is  unlawful.'
+
+'  But  if  the  Sa;;2gha,  Lord,  regarding  a  matter  (&c.,
+down  to  :)  declares  the  re-establishment  of  concord,
+after  having  inquired  into  that  matter  and  after
+having  got  to  the  bottom  of  it, — is  this  declaration.
+Lord,  lawful  ?'
+
+'  If  the  Sa;;/gha,  Upali,  (&c.,  down  to  :)  declares
+the  re-establishment  of  concord,  after  having  inquired
+
+'  See  the  note  at  IX,  6,  i.
+
+
+X,  6,  3.  SCHISMS    AMONG    THE    SAil/GHA.  323
+
+into  that  matter  and  after  having  got  to  the  bottom
+of  it, — this  declaration,  UpaH,  is  lawful.'
+
+2.  'How  many  kinds  are  there.  Lord,  of  the  re-
+establishment  of  concord  among  a  Sawgha  ?'
+
+'  There  are  the  following  two  kinds,  Upali,  of
+re-establishment  of  concord  among  a  Saw^gha  :  Con-
+cord may  be  re-established,  Upali,  in  the  letter,  but
+not  in  the  spirit,  and  concord  may  be  re-established
+both  in  the  spirit  and  in  the  letter.
+
+'And  in  what  case,  Upali,  is  concord  re-established
+in  the  letter,  but  not  in  the  spirit  ?  If  the  Sawgha,
+Upali,  (&c.,  as  above)  declares  the  re-establishment
+of  concord,  without  having  inquired  into  that  matter
+and  without  having  got  to  the  bottom  of  it, — in  this
+case,  Upali,  concord  is  said  to  have  been  re-esta-
+blished in  the  letter,  but  not  in  the  spirit.
+
+'  And  in  what  case,  Upali,  is  concord  re-established
+both  in  the  spirit  and  in  the  letter  ?  If  the  Sawgha,
+Upali,  {&c.,  as  above)  declares  the  re-establishment
+of  concord,  after  having  inquired  into  that  matter
+and  after  having  got  to  the  bottom  of  it, — in  this
+case,  Upali,  concord  is  said  to  have  been  re-estab-
+lished both  in  the  spirit  and  in  the  letter.  These,
+Upali,  are  the  two  kinds  of  re-establishment  of  con-
+cord among  a  Sawgha.'
+
+3.  And  the  venerable  Upali  rose  from  his  seat,
+adjusted  his  upper  robe  so  as  to  cover  one  shoulder,
+bent  his  clasped  hands  towards  the  Blessed  One,
+and  addressed  the  Blessed  One  in  the  following
+stanzas  :
+
+'  In  the  affairs  of  the  Sa;?/gha  and  in  its  consulta-
+tions, in  the  business  that  arises  and  in  trials,  what
+sort  of  man  is  then  most  wanted  ?  what  Bhikkhu  is
+then  most  worthy  of  the  leadership  ? '
+
+Y  2
+
+
+324  MAHAVAGGA.  X,  6,  3.
+
+
+*  Above  all  he  who  is  blameless  in  his  moral  con-
+duct, who  watches  over  his  behaviour,  whose  senses
+are  well  controlled,  whom  his  rivals  do  not  reprove
+according  to  the  law, — for  there  is  nothing  for  which
+they  could  censure  him, —
+
+'  Such  a  man,  who  abides  in  blameless  conduct,  is
+well  versed  (in  the  doctrine),  and  mighty  are  his
+words.  He  is  not  perplexed,  nor  does  he  tremble,
+when  he  enters  an  assembly  \  He  does  not  dis-
+parage his  cause  by  vain  talk,
+
+'  So  also  when  he  is  asked  questions  in  the  assem-
+blies, he  does  not  hesitate,  and  is  not  troubled.  By
+his  timely  words,  that  solve  the  questions,  the  clever
+man  gladdens  the  assembly  of  the  wise.
+
+'  Full  of  reverence  for  elder  Bhikkhus,  well  versed
+in  what  his  teacher  has  taught  him,  able  to  find  out
+(the  right),  a  master  of  speech,  and  skilled  in  making
+his  rivals  fail, —
+
+'  By  whom  his  rivals  are  annihilated,  by  whom
+many  people  receive  instruction, — he  does  not  for-
+sake the  cause  he  has  taken  up,  (nor  does  he  become
+tired)  of  answering  questions  and  putting  questions
+without  hurting  others  ; —
+
+'  If  he  is  charged  with  a  mission,  he  takes  It  upon
+himself  properly,  and  in  the  business  of  the  Sa;;/gha
+(he  does)  what  they  tell  him  2; — when  a  number  of
+Bhikkhus    despatches    him    (somewhere),   he  obeys
+
+
+^  The  same  idea  is  put  into  the  Buddha's  mouth  in  the  Maha-
+paiinibbana  Sutta  I,  23,  24.
+
+''  We  propose  to  read  ahu  naw  yatha.  This  seems  more
+satisfactory  than  the  reading  and  the  explanation  found  in  Bud-
+dhaghosa's  A/Z/^akatha :  *  yatha  nam  a  ahunaw  ahutipiwa'a/;/  samug-
+gawhanli  (sic)  evaw  api  so  somanassa^'-aten'  eva  -^etasa  sawghassa
+
+
+ki^/tesu  samuggaho.'
+
+
+X,  6,  3-  SCHISMS    AMONG    THE    SAMGIIA.  325
+
+their  command,  but  he  does  not  think  therefrom,
+"  It  is  I  who  do  this ;" —
+
+'  In  what  cases  a  Bhikkhu  commits  an  offence,
+what  an  offence  is,  and  how  it  is  atoned  for,  both
+these  expositions  are  well  known  to  him^;  he  is
+versed  in  the  rules  about  offence  and  atonement ; —
+
+'  By  what  deeds  a  Bhikkhu  brings  expulsion  upon
+himself,  in  w^hat  cases  one  has  been  expelled,  and
+the  rehabilitation  of  a  person  who  has  undergone
+that  penance, — all  this  he  also  knows,  well  versed
+in  the  Vibhaiigas  ; —
+
+'  Full  of  reverence  for  elder  Bhikkhus,  for  the
+young,  for  the  Theras,  for  the  middle-aged,  bringing
+welfare  to  many  people,  a  clever  one : — such  a
+Bhikkhu  is  the  one  who  is  then  worthy  of  the
+leadership,'
+
+End  of  the  tenth  Khandhaka,  which  contains  the
+story  of  the  Bhikkhus  of  Kosambi.
+
+
+End  of  the  Mahavagga.
+
+
+'  For  'Exposition'  the  text  has  vibhahga,  about  the  technical
+meaning  of  which  see  our  Introduction,  pp.  xv  seq.  '  Both '
+refers  to  the  Bhikkhuvibhahga  and  Bhikkhunivibhanga.  In  the
+text,  ubhayassa  must  be  corrected  into  ubhay'  assa,  i.e.  ubhaye
+assa.
+
+
+A'ULLAVAGGA.
+
+
+A^ULLAVAGGA.
+
+
+FIRST    KHANDHAKA.
+THE  MINOR  DISCIPLIVARY  PROCEEDINGS.
+
+
+I.  The  TAGG-^XTiA  KA3>rvL\  (Act  of  Rebuke).
+
+
+I .  At  that  time  the  Blessed  One  was  sta\-iiig  at
+6^etavana,  in  the  grove  of  Anatha^Mw^^ka.
+
+Now  at  that  t:r-.e  :hr  Bhikkhus  who  were  fol-
+lowers of  Pa////uka  and  of  Lohitaka*. — ^who  them-
+selves were  makers  of  strife,  quarrelsome',  makers
+of  disputes ',  given  to  idle  talk,  and  raisers  of  legal
+questions  in  the  Sa/r/gha*, — ^used  to  go  up  to  sudi
+other  Bhikkhus  as  were  the  same,  and  say, '  Do  not
+allow  such  a  one.  venerable  Sirs,  to  turn  you  back-
+Discuss  loud  and  long.  Vou  are  indeed  cleverer,
+more  wise,  more  well  informed,  more  able  at  that  (than
+
+
+^  These  were  two  oat  of  the  six  Doionous  Al^abbirr.ja  Briiih::5,
+who  are  so  freqnenilj  mfwtioncd  dsewhere.  Bnddii3xics2  sijs.
+tesas  nksitata  |h  Paiv^kalohitaki  tv'eva  p2>rftiT-3^-i.
+
+'  In  addition  to  die  passages  refened  lo  in  ifae  two  kAowiag
+notes,  compare  the  dosii^  voids  of  the  Palimokkha,  and  the  2nd,
+3rd,  12th,  13th,  17th,  54th,  74th,  and  75di  I^itftijras^
+
+'  Sndi  persons  were  fonnetfy  deak  wiih  aooav£n^  to  the  lodi,
+iitfa,  and  i2th  Saj^;faai£9esas.
+
+*  Sncfa  peiscms  woe  fimneiij  deak  with  acccMnfing  feo  the  8di
+and  9th  Sai^^iiffisesas  and  the  76th  Paixxdjx  Compare  also
+bek>w,  IV,  14,  and  the  63rd  and  ^si^•FiJStaJ2S.
+
+
+33^  X-ULLAVAGGA.  I,  i,  2.
+
+your  adversaries  are)  and  do  not  you  be  afraid  of  them.
+We  too  will  be  on  your  side.'  Thereby  both  disputes
+arose  which  had  not  arisen  before ;  and  disputes
+which  had  arisen  grew  hotter.
+
+2.  Those  Bhikkhus  who  were  modest  were  an-
+noyed, murmured,  and  became  indignant,  saying,
+*  How  can  the  Bhikkhus  who  are  followers  of
+FsLuduks,  and  of  Lohitaka  act  thus.'  And  those
+Bhikkhus  told  the  matter  to  the  Blessed  One.
+
+Then  the  Blessed  One  on  that  occasion,  and  in
+that  connection,  convened  an  assembly  of  the  Order
+of  Bhikkhus,  and  inquired  of  the  Bhikkhus  :  'Is  it
+true,  as  they  say,  Bhikkhus,  that  those  Bhikkhus
+who  are  followers  of  Fauduksi  and  Lohitaka, — who
+themselves  (&c.,  as  in  J  i,  down  to  the  end)  ?'
+
+*  It  is  true,  Lord  !'
+
+The  Blessed  Buddha  rebuked  them,  saying,  '  This
+is  improper,  O  Bhikkhus,  for  those  foolish  persons,
+not  according  to  rule,  unsuitable,  unworthy  of  a
+Sama;^a,  unbecoming,  and  ought  not  to  be  done.
+How  can  these  foolish  persons,  O  Bhikkhus,  who
+themselves  (&c.,  as  in  ^  i,  down  to  the  end).  This
+will  not  conduce,  O  Bhikkhus,  either  to  the  conver-
+sion of  the  unconverted,  or  to  the  increase  of  the
+converted ;  but  rather  to  those  who  have  not  been
+converted  being  not  converted,  and  to  the  turning
+back  of  those  who  have  been  converted.'
+
+3.  And  when  the  Blessed  One  had  rebuked  those
+Bhikkhus  in  various  ways, — speaking  of  the  evils
+of  being  hard  to  satisfy  in  the  matter  of  support
+or  nourishment,  of  wishing  for  much,  of  discontent,
+of  love  of  society,  and  of  sloth  ;  and  speaking  in
+praise  of  being  easy  to  satisfy  in  the  matter  of
+support  and  nourishment,  of  wishing  for  little,  of  the
+
+
+1,1,4.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.         33 1
+
+contented  man  who  has  eradicated  (evils  from  his
+mind),  has  quelled  his  passions',  and  is  fidl  of  faith,
+of  reverence,  and  of  the  exercise  of  zeal, — when  he
+had  thus  held  a  religious  discourse  to  the  Bhikkhus
+as  to  what  was  fit  and  suitable  in  that  respect,  he
+addressed  the  Bhikkhus,  and  said  :  '  Let  the  Sawgha,
+therefore,  O  Bhikkhus,  carry  out  the  Ta^^^^aniya-
+kamma  (Act  of  Rebuke)  against  those  Bhikkhus.
+
+4.  '  Now  thus,  O  Bhikkhus,  should  it  be  carried
+out.  In  the  first  place  the  Bhikkhus  who  are
+followers  of  Pa/^^fuka  and  Lohitaka  ought  to  be
+warned  ;  when  they  have  been  warned,  they  ought  to
+be  reminded  (of  the  Rule  in  the  Patimokkha  against
+which  they  have  offended) ;  when  they  have  been
+reminded,  they  ought  to  be  charged  with  the  (par-
+ticular) offence ;  when  they  have  been  charged  with
+the  offence,  some  discreet  and  able  Bhikkhu  ought
+to  lay  the  matter  before  the  Sa7;/gha,  saying,
+
+' "  Let  the  venerable  Saw^gha  hear  me.  These
+Bhikkhus  who  are  followers  of  Pa//^uka  and  Lohi-
+taka, who  themselves  (&c.,  as  in  §  i,  down  to  the  end).
+If  the  time  is  fit  for  the  Sawgha  (to  do  so)  let  the
+Sa;;^gha  carry  out  the  Tae;^aniya-kamma  against
+the  Bhikkhus  who  are  followers  of  Pa^^uka  and
+Lohitaka.
+
+'"Such  is  the  motion  (;}atti).
+
+'  "  Let  the  venerable  Sa7;/gha  hear  me.  The  Bhik-
+khus who  are  followers  of  Paw^uka  and  Lohitaka,
+
+
+*  We  have  here  the  substance  of  that  'religious  discourse'
+(dhammiw  kathaw)  which  the  Buddha  is  so  frequently  stated  to
+have  held  before  he  laid  down  the  rule  for  the  guidance  of  the
+Bhikkhus  in  the  particular  matter  which  had  been  brought  before
+him.  It  recurs  in  the  Mahavagga  (I,  25,  6),  and  is  constantly  to  be
+supplied  both  there  and  below.
+
+
+332  X-ULLAVAGGA.  I,  2,  i.
+
+
+who  themselves  (&c.,  as  in  §  i,  down  to  the  end).
+The  Sa;;?gha  hereby  carries  out  the  Ta^^aniya-
+kamma  against  them.  Whosoever  of  the  venerable
+ones  approves  of  the  carrying  out  of  the  T  a^^a  n  iya-
+kamma  against  the  Bhikkhus  who  are  followers  of
+Pa;2rt'uka  and  Lohitaka,  let  him  remain  silent.  Who-
+soever approves  not  thereof,  let  him  speak.
+
+' "  A  second  time  I  say  the  same  thing.  Let  the
+venerable  Sa;;2gha  (&c.,  as  before  ^).  A  third  time
+I  say  the  same  thing.  Let  the  venerable  Sa?«gha
+(&c.,  as  before^).
+
+'  "The  Ta^^aniya-kamma  against  the  Bhikkhus
+who  are  followers  of  Fa.7iduk3.  and  Lohitaka  has
+been  carried  by  the  Sa?;^gha.  The  Sa7;2gha  approves
+(the  motion).  Therefore  is  it  silent.  Thus  do  I
+understand." '
+
+
+2  2.
+
+I.  'There  are  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^^aniya-kamma  is  characterised,
+it  is  against  the  Dhamma,  and  against  the  Vinaya,
+and  difficult  to  be  settled ;  (that  is  to  say),  when  it
+has  not  been  carried  out  in  a  full  assembly  of
+properly  qualified  persons,  according  to  law  and
+justice,  and  in  the  presence  of  the  litigant  parties  '^ —
+when  it  has  been  carried  out  without  the  accused  per-
+son having  been  heard — when  it  has  been  carried  out
+without  the  accused  person  having  confessed  himself
+guilty.    A  Ta^^aniya-kamma,  O  Bhikkhus,  charac-
+
+^  The  motion  just  proposed  is  repeated  down  to  the  end.
+
+"^  Repeated  below,  chapters  lo,  14,  and  19.
+
+^  All  these  details  are  involved  in  the  meaning  of  the  technical
+term  asammukhata,  which  is  fully  explained  in  A^'ullavagga  IV,
+14,  16,  and  following.
+
+
+I,  2,  T.       THE    MINOR    niSCII'LINARY    PROCEEDINGS.        333
+
+
+terised  by  these  three  things  is  against  the  Dhamma,
+and  against  the  Vinaya,  and  difficult  to  be  settled.
+
+'  There  are  other  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^^^aniya-kamma  has  been  cha-
+racterised, it  is  against  the  Dhamma,  and  against
+the  Vinaya,  and  difficult  to  be  settled ;  (that  is  to
+say),  when  it  has  been  carried  out  though  no  fault
+has  been  committed — when  it  has  been  carried  out
+for  a  Para^ika  or  a  Saworhadisesa  offence  ^ — when
+it  has  been  carried  out  though  the  fault  has  been
+confessed.  A  Taj,';4'-aniya-kamma,  O  Bhikkhus,
+characterised  (&c.,  as  before,  down  to)  settled.
+
+'There  are  other  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^.faniya-kamma  has  been  cha-
+racterised, it  is  against  the  Dhamma,  and  against
+the  Vinaya,  and  difficult  to  be  settled ;  (that  is  to
+say),  when  it  has  been  carried  out  without  the  accused
+person  having  been  warned — when  it  has  been  carried
+out  without  the  accused  person  having  been  called
+upon  to  remember  (whether  he  has  or  has  not  com-
+mitted the  offence) — when  it  has  been  carried  out
+without  the  accused  person  having  been  convicted.
+A  Ta^^aniya-kamma,  O  Bhikkhus,  characterised
+(&c.,  as  before,  down  to)  settled.
+
+'There  are  other  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^^^aniya-kamma  has  been  cha-
+racterised, it  is  against  the  Dhamma,  and  against
+the  Vinaya,  and  difficult  to  be  settled  ;  (that  is  to  say),
+when  it  has  not  been  carried  out  in  a  properly  con-
+stituted meeting  properly  conducted  ^ — when  it  has
+
+1  Buddhaghosa  says,  Adesanagaminiya  ti  Para^ikapaUiya  va
+SawghadisesapaUiya  va.
+
+2  As  in  the  first  paragraph  of  this  section  more  fully  described.
+The  word  here  used  is  the  same.
+
+
+334  £:ULLAVAGGA.  I,  2,  i.
+
+been  carried  out  without  justice^ — when  it  has  been
+carried  out  without  the  presence  and  approval  of  all
+the  Bhikkhus  belonging  to  the  particular  circuit  I  A
+Ta^^aniya-kamma,  O  Bhikkhus,  characterised  by
+these  three  things  is  (&c.,  as  before,  down  to)  settled.
+
+'  There  are  other  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^^aniya-kamma  has  been  cha-
+racterised, it  is  against  the  Dhamma,  and  against
+the  Vinaya,  and  difficult  to  be  settled ;  (that  is  to
+say),  when  it  has  been  carried  out  without  the
+accused  person  having  been  heard — when  it  has
+been  carried  out  without  justice — when  it  has  been
+carried  out  without  the  presence  and  approval  of  all
+the  Bhikkhus  belonging  to  the  circuit.  A  Ta^^a-
+niya-kamma,  O  Bhikkhus,  characterised  by  these
+three  things  is  (&c.,  as  before,  down  to)  settled.
+
+'  There  are  other  three  things  (&c.,  as  before,  down
+to)  that  is  to  say,  when  it  has  been  carried  out  without
+the  accused  person  having  been  convicted — when  it
+has  been  carried  out  without  justice — when  it  has
+been  carried  out  without  the  presence  and  approval
+of  all  the  Bhikkhus  belonging  to  the  circuit.'
+
+[And  in  a  similar  way  each  of  the  three  things  in
+paragraphs  2  and  3  of  this  section  are  united  with  the
+two  things  just  repeated  in  each  of  paragraphs  4,  5,
+and  6,  to  make  six  further  cases  in  which  a  Ta^_^a-
+niya-kamma  is  declared  to  be  against  the  Dhamma,
+and  against  the  Vinaya,  and  difficult  to  be  revoked.]
+
+
+Here  end  the  twelve  cases  of  a  proceeding  (Kamma)
+
+
+which  is  against  the  law.
+
+
+^  Adhammena;  perhaps  'contrary  to  the  Rules.'
+"^  Vaggena  for  vi  +  aggena,  the  opposite  of  samaggena.  See  our
+note  on  the  21st  Pa/^ittiya,  and  Mahavagga  IX,  3,  5.
+
+
+1,4,1.       THE    MINOR    DISCIPLINARY    PROCEEDINGS.         335
+
+3.
+
+I.  'There  are  three  things,  O  Bhikkhus,  by
+which,  when  a  Ta^^^aniya-kamma  is  characterised,
+it  is  a  proceeding  in  accordance  with  the  Dhamma,
+a  proceeding  in  accordance  with  the  Vinaya,  and  is
+easy  to  be  settled ;  (that  is  to  say),  when  it  has  been
+carried  out  in  a  full  assembly  of  qualified  persons,
+according  to  law,  and  in  the  presence  of  the  litigant
+parties — when  it  has  been  carried  out  after  the
+accused  person  has  been  heard — when  it  has  been
+carried  out  after  the  accused  person  has  confessed
+himself  guilty.  A  Ta^^aniya-kamma,  O  Bhik-
+khus, characterised  by  these  three  things  is  in
+accordance  with  the  Dhamma,  and  in  accordance
+with  the  Vinaya,  and  is  easy  to  be  settled.'
+
+[And  in  a  similar  way  the  opposite  of  each  of  the
+twelve  propositions  in  the  last  section  is  here  laid
+down.]
+
+Here  end  the  twelve  cases  of  a  proceeding  (Kamma)
+which  is  according  to  law.
+
+
+4.
+
+I.  '  There  are  three  things,0  Bhikkhus,  which,  when
+they  characterise  a  Bhikkhu,  the  Sawgha,  if  it  likes,
+should  carry  out  the  Ta^^aniya-kamma  against
+him  ;  (that  is  to  say),  when  he  is  a  maker  of  strife,
+quarrelsome,  a  maker  of  disputes,  given  to  idle  talk,
+and  a  raiser  of  legal  questions  in  the  Sawgha ' —
+when  he  is  dull,  stupid,  full  of  faults,  and  devoid  of
+merit — when  he  is  living  in  lay  society,  in  unlawful
+
+^  This  refers  to  the  Introductory  Story,  I,  i,  i.
+
+
+336  2i:ULLAVAGGA.  I,  4,  2.
+
+association  with  the  world.  There  are  three  things,
+O  Bhikkhus,  which,  when  the  Sa;;/gha  suspects  (&c,,
+as  before,  down  to)  against  him.
+
+'  There  are  other  three  things,  O  Bhikkhus,  (&c.,
+as  before,  down  to)  against  him  ;  (that  is  to  say),
+when  he  has  failed  in  morality  as  regards  moral
+things — when  he   has  failed  in  conduct  as  reg-ards
+
+o  o
+
+transgression — when  he  has  failed  in  opinion  as
+regards  the  principal  matters  of  opinion  \  There
+are  three  things,  O  Bhikkhus,  (&c.,  as  before,  down
+to)  against  him.
+
+'There  are  other  three  things,  O  Bhikkhus,  (&c.,
+as  before,  down  to)  against  him ;  (that  is  to  say),
+when  he  speaks  in  dispraise  of  the  Buddha — when  he
+speaks  in  dispraise  of  the  Dhamma — when  he  speaks
+in  dispraise  of  the  Sa/;^gha.  These  are  three  things,
+O  Bhikkhus,  (&c.,  as  before,  down  to)  against  him,
+
+2.  'There  are  three  kinds  of  Bhikkhus,  O  Bhik-
+khus, against  whom,  if  the  Sa;;^gha  likes,  it  should
+carry  out  the  Ta^^aniya-kamma  ;  (that  is  to  say),
+one  who  is  a  maker  of  strife  (&c.,  as  in  J  i,  down
+to)  a  raiser  of  legal  questions  in  the  Sa;;^gha — one
+who  is  dull,  stupid,  full  of  faults,  and  devoid  of
+merit — and  one  who  is  living  in  lay  society,  in
+unlawful  association  with  the  world.  These  are
+three  kinds  of  Bhikkhus,  O  Bhikkhus,  (&c,,  as
+before,  down  to)  the  Ta^^aniya-kamma.
+
+'  There  are  other  three  kinds  of  Bhikkhus,  O
+Bhikkhus,  against  whom,  if  the  Sawgha  likes,  it
+should  carry  out  the  Ta^c^^^aniya-kamma ;  (that  is
+to  say),  one  who  has  failed  in  morality  in  regard
+to   moral  matters — one  who  has  failed  in  conduct
+
+^  Compare  Mahavagga  I,  36,  8,  and  our  note  there.
+
+
+1,5,1.       THE    MINOR    DISCIPLINARY    TROCEEDINGS.       337
+
+as  regards  transorression — one  who  has  failed  in
+opinion  as  regards  the  principal  matters  of  opinion.
+These  are  three  kinds  of  Bhikkhus,  O  Bhikkhus
+(&c,,  as  before,  down  to)  the  Ta^^aniya-kamma.
+
+'  There  are  other  three  kinds  of  Bhikkhus,  O
+Bhikkhus,  against  whom,  if  the  Sa;;2gha  likes,  it
+should  carry  out  the  Ta^^^aniya-kamma ;  (that
+is  to  say),  one  who  speaks  in  dispraise  of  the
+Buddha — one  who  speaks  in  dispraise  of  tlie
+Dhamma  —  one  who  speaks  in  dispraise  of  the
+Sa7;/orha.  These  are  three  kinds  of  Bhikkhus,  O
+Bhikkhus  (&c.,  as  before,  down  to)  the  Ta^^aniya-
+kamma/
+
+Here  end  the  six  permissive  cases  ofTa^^aniya-
+
+kamma.
+
+
+I.  'A  Bhikkhu  against  whom  the  Ta^f^aniya-
+kamma  has  been  carried  out  oucrht  to  conduct  him-
+self  aright.  And  herein  this  is  the  right  conduct  ^i
+he  ought  not  to  confer  the  upasampada — he  ought
+not  to  give  a  nissaya^ — he  ought  not  to  provide
+
+^  This  chapter  is  repeated  below  for  the  Nissaya-,  Pabba^^^a-
+niya-,  and  Pa/isara«iya-kammas  (chapters  10,  15,  and  21).  The
+corresponding  rule  for  the  first  two  Ukkhepaniya-kammas  is
+different,  and  much  more  stringent  (chapter  27,  repeated  in  chapter
+31);  but  that  for  the  third  (chapter  33)  is  again  the  same  as  the
+rule  laid  down  in  this  chapter.  In  the  second  Khandhaka  (1,2)
+the  list  of  restrictions  is  again  longer.
+
+'^  Sammavattana.  See  Mahavagga  T,  26,  i;  27,  i  ;  33,  i;  34,  i.
+
+'  Buddhaghosa  says,  agantukana;;/  nissayo  na  databbo.  The
+relation  of  a  junior  Bhikkhu  either  to  his  upa_^^//aya  or  to  his
+aX'ariya  is  alike  called  nissaya  (Mahavagga  I,  36,  i);  but  the
+term  is  more  especially  applied  to  the  latter  (Mahavagga  1,32,  2,
+whereas  in  the  corresponding  formula  for  the  upa^^//aya,  Maha-
+
+[17]  Z
+
+
+338  '  ITULLAVAGGA.  I,  5,  I.
+
+himself  with  a  sdma;^era^ — he  ought  not  to  accept  the
+office  of  orivinor  exhortation  to  the  nuns^ — and  if  he  has
+accepted  the  office,  he  ought  not  to  exhort  the  nuns^ —
+he  ought  not  to  commit  the  offence  for  which  the
+Ta^^aniya-kamma  has  been  carried  out  by  the
+Sa;;2gha  against  him — nor  any  offence  of  a  similar
+kind  —  nor  any  worse  offence — he  ought  not  to  find
+fault  with  the  proceeding  (that  has  been  carried  out
+against  him) — nor  with  (the  Bhikkhus)  who  have
+carried  it  out — he  ought  not  to  raise  objection
+against  a  regular  ^  Bhikkhu's  taking  part  in  the
+Uposatha  ceremony* — or  in  the  Pavara;2a  cere-
+mony ^ — he  ought  not  to  issue  commands  (to  a
+junior  inhibiting  him  from  going  beyond  the
+bounds  ^,  or  summoning  him  to  come  before  the
+elders) — he  ought  not  to  set  on  foot  a  censure
+against  any  other  Bhikkhu  "^ — he  ought  not  to  ask
+another  Bhikkhu  to  give  him  leave  (to  rebuke  that
+Bhikkhu^) — he  ought  not  to  warn  (another  Bhik-
+khu ^  whom  he  supposes  to  be  offending) — he  ought
+
+vagga  I,  25,  7,  the  word  nissaya  does  not  occur).  In  other
+words,  nissaya  means  all  that  is  included  in  the  phrase  '  nissaya  te
+vatthabbaw?'(^ullavagga  I,  9,  2).
+
+^  Compare  Mahavagga  I,  36,  37.
+
+^  See  below,  -^uUavagga  X,  9,  4,  and  also  the  21st  Pa/^ittiya.
+
+'  Compare  Minayeff,  Patimokkha,  p.  63.
+
+*  Compare  Patimokkha»/  //ia,petufn  at  ^ullavagga  IX,  2.
+®  Compare  Mahavagga  IV,  16,  2.
+
+®  As,  for  example,  under  the  rule  at  Mahavagga  I,  27,  2.  Bud-
+dhaghosa  says,  Na  sava^aniyaw  katabban  ti  aham  ayasmantaw
+a.smim  vatthusmi/w  va^aniyaw^  karomi  imamha  avasa  param  pi  ma
+pakkami  yava  na  ta/ra  adhikaraz/az/z  vHpasantaOT  hotiti.  He  also
+gives  a  longer  note,  partly  to  the  same  effect,  on  the  corresponding
+passage  in  II,  i,  2,  which  will  be  found  in  our  note  there,  and  from
+which  we  have  taken  the  second  clause  in  the  parentheses.
+
+'  See  the  note  on  this  word  in  the  next  chapter.
+
+*  Compare  Mahavagga  II,  16,  i.       *  Compare  ^ulla vagga  IX,  5.
+
+
+1,6,2.       THE    MINOR    DISCIPLINARY    PROCEEDINGS.        339
+
+not  to  call  upon  another  Bhikkhu  to  remember
+(whether  he  has  or  has  not  committed  an  offence) —
+and  he  ought  not  to  associate  with  the  Bhikkhus.'
+
+
+Here  end  the   eighteen  duties  which   follow  on   a
+Ta^^aniya-kamma.
+
+
+6\
+
+1.  So  the  Sawgha  carried  out  the  Ta^^aniya-
+kamma  against  the  Bhikkhus  who  were  followers
+of  Pa;/^uka  and  Lohitaka.  And  when  they  had
+been  subjected  by  the  Sawgha  to  the  Ta^^aniya-
+kamma  and  were  conducting  themselves  aright  in
+accordance  thereto,  they  became  subdued  ^,  and  they
+sought  for  release^;  and  going  up  to  the  Bhikkhus
+they  spake  as  follows :  '  We,  Sirs,  have  been  sub-
+jected by  the  Sawgha  to  the  Ta^^aniya-kamma
+(&c.,  down  to)  release.     What  now  should  we  do  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Then,  O  Bhikkhus,  let  the  Sa;;^gha  revoke  the
+Ta^^ani)a-kamma  carried  out  against  the  fol-
+lowers of  Pa/zrt'uka  and  Lohitaka.
+
+2.  '  There  are  five  things,  O  Bhikkhus,  by  which,
+
+*  Compare  below,  chapters  ii,  i6,  23,  28,  34.
+
+^  Lomaw  patenti.  See  the  commentary  as  given  by  H.  Olden-
+berg  at  p.  309  of  his  edition  of  the  text.  That  our  translation  is
+correct  is  evident  from  the  use  of  panna-lomo  (at  A'ullavagga
+VII,  I,  6),  that  being  simply  the  opposite  of  ha/Ma-lomo,  which
+signifies  '  having  the  hair  of  the  body  erect  in  consequence  of  the
+excitement  produced  by  fear,  joy,  or  amazement ;'  and  hence  simply
+'  troubled,  excited.'     The  opposite  of  this  is  '  pacified,  subdued.'
+
+'  Nettharam  vattanti.  See  the  commentary  in  the  edition  of
+the  text  loco  citato.
+
+Z    2
+
+
+340  ZULLAVAGGA.  I,  6,  2.
+
+when  a  Bhikkhu  is  characterised,  a  Ta^^aniya-
+kamma  ought  not  to  be  revoked  for  him;  (that  is
+to  say),  when  he  confers  the  upasampada — when
+he  gives  anissaya — when  he  provides  himself  with
+a  sama/zera — when  he  accepts  the  office  of  giving
+exhortation  to  the  nuns  —  and  when,  having  accepted
+that  office,  he  exhorts  the  nuns.  These  are  the
+five  things,  O  Bhikkhus  (&c.,  as  before,  down  to)
+revoked  for  him.
+
+'  There  are  other  five  things,  O  Bhikkhus,  by
+which,  when  a  Bhikkhu  is  characterised,  a  Ta^^a-
+niya-kamma  ought  not  to  be  revoked  for  him  ;
+(that  is  to  say),  when  he  commits  the  offence  for
+which  the  Ta^^aniya-kamma  has  been  carried
+out  by  the  Sa;;^gha  against  him — or  any  other
+offence  of  a  similar  kind — or  any  worse  offence —
+when  he  finds  fault  with  the  proceeding  that  has
+been  carried  out  against  him — or  with  the  Bhikkhus
+who  have  carried  it  out.  These  are  five  things,
+O  Bhikkhus  (&c.,  as  before,  down  to)  revoked  for
+him.
+
+*  There  are  eight  things,  O  Bhikkhus,  by  which,
+when  a  Bhikkhu  is  characterised,  a  Ta^^aniya-
+kamma  ought  not  to  be  revoked  for  him;  (that  is
+to  say),  when  he  raises  objections  against  a
+regular^  Bhikkhu's  taking  part  in  the  Uposatha
+ceremony — or  in  the  Pavara;^a  ceremony — when
+he  inhibits  a  junior  from  going  beyond  the  bounds —
+when  he  sets  on  foot  a  censure  against  any  other
+Bhikkhu — when  he  asks   another  Bhikkhu  to  give
+
+^  Pakatattassa,  that  is  a  Bhikkhu  who  has  not  made  himself
+liable  to  any  disciplinary  proceeding,  has  committed  no  irregu-
+larity. It  is  one  of  the  expressions  unknown  to  the  Patimokkha,
+but  occurs  in  the  much  later  Introduction  to  that  work  (Dickson,
+p.  ii).     See  below,  III,  i,  i.
+
+
+1,8,1.       THE    MINOR    DISCIPLINARY    PROCEEDINGS.        34 1
+
+him  leave  to  rebuke  that  Bhikkhu — when  he  warns
+another  Bhikkhu  whom  he  supposes  to  be  offend-
+ino- — when  he  reminds  another  Bhikkhu  of  a  rule
+against  which  he  supposes  that  Bhikkhu  to  be
+offendine — when  he  associates  with  the  Bhikkhus.
+These  are  the  eight  things,  O  Bhikkhus  (&c.,  as
+before,  down  to)  revoked  for  him.'
+
+Here  end  the  eighteen  cases  in  which  there  ought  to
+be  no  revocation  (of  the  Ta^^aniya-kamma).
+
+
+7.
+[This  chapter  is  exactly  the  converse  of  the  last.]
+
+
+Here  end  the  eighteen  cases  in  which  there  ought  to
+be  a  revocation  (of  the  Ta^^aniya-kamma).
+
+
+8\
+I.  '  Now,  thus,  O  Bhikkhus,  should  the  revocation
+be  carried  out.  Those  Bhikkhus  who  are  followers
+of  Pa;^^uka  and  Lohitaka  should  go  before  the
+Sa;;^gha,  with  their  upper  robe  arranged  over  one
+shoulder,  and  should  bow  down  at  the  feet  of  the
+elder  Bhikkhus,  and  squatting  down,  and  raising
+their  hands  with  the  palms  joined  together,  should
+speak  as  follows:  "We,  Sirs,  have  been  subjected
+by  the  Sawgha  to  the  Ta^^aniya-kamma,  and  are
+conductinof  ourselves  aricrht  in  accordance  thereto;
+and  we  have  become  subdued,  and  we  seek  for
+release,  and  beg  for  a  revocation  of  the  Ta^^aniya-
+
+^  Compare  below,  chapters  12  and  17.
+
+
+342  JTULLAVAGGA.  I,  8,  2.
+
+kamma."  And  a  second  time  they  should  beg  [in
+the  same  words].  And  a  third  time  they  should  beg
+[in  the  same  words].  Then  a  discreet  and  able  Bhik-
+khu  should  lay  the  matter  before  the  Sawgha :
+
+2.  *"  Let  the  venerable  Sawg-ha  hear  me.  These
+Bhikkhus  who  are  followers  of  Pa?/^uka  and  Lohi-
+taka  have  been  subjected  (&c.,  as  before),  and  they
+are  conducting  themselves  (&c.,  as  before),  and  they
+beg  (&c.,  as  before).
+
+'"This  is  the  motion  (;7atti).
+
+'"Let  the  venerable  Sa;;^gha  hear  me.  These
+Bhikkhus  (&c.,  as  before,  down  to)  and  they  beg
+for  a  revocation  of  the  Ta^^aniya-kamma.  The
+Sa^^gha  revokes  the  Ta^^aniya-kamma  for  the
+Bhikkhus  who  are  followers  of  Pa;^fl'uka  and  Lohi-
+taka.  Whosoever  of  the  venerable  ones  approves  of
+the  revocation  of  the  Ta^^aniya-kamma  for  the
+Bhikkhus  who  are  followers  of  Pa/z^a^uka  and  Lohi-
+taka,  let  him  hold  his  peace.  Whosoever  approves
+not  thereof,  let  him  speak.
+
+'"And  a  second  time  I  say  the  same  thing.  Let
+the  venerable  Sa?;^gha  (&c.,  as  before,  down  to)  let
+him  speak.
+
+'"And  a  third  time  I  say  the  same  thing.  Let
+the  venerable  S3.mgha.  (&c.,  as  before,  down  to)  let
+him  speak.
+
+'"The  revocation  of  the  Ta^^aniya-kamma  for
+the  Bhikkhus  who  are  followers  of  Pa/^rti'uka  and
+Lohitaka  has  been  carried  by  the  Sawgha.  The
+Sa;;^gha  approves ;  therefore  is  it  silent.  Thus  do
+I   understand.'"
+
+
+Here  ends  the  first  (Kamma),  the
+Ta^^^aniya-kamma.
+
+
+I,  9,  I.       THE    MINOR    DISCIPLINARY    PROCEEDINGS.        343
+
+
+II.  The  Nissaya-kamma  (Act  of  Subordination).
+
+
+9.
+
+I.  Now  at  that  time  the  venerable  Seyyasaka
+was  stupid,  and  indiscreet,  and  full  of  faults,  and
+devoid  of  merit,  and  was  living  in  lay  society  in
+unlawful  association  with  the  world'.  So  much  so
+that  the  Bhikkhus  were  worn  ouf^  with  placing  him
+on  probation^,  and  with  throwing  him  back  to  the
+beginning  (of  his  probationary  term)^  and  with  sub-
+jecting him  to  the  manatta  discipline^,  and  with
+rehabilitating  him''.  The  moderate  Bhikkhus  were
+annoyed,    and    murmured,    and    became    indignant
+
+
+^  There  is  no  rule  in  the  Patimokkha  in  which  any  of  these
+things  are  declared  to  be  an  offence.  The  31st  and  85th  PiUittiyas
+only  refer  to  a  Bhikkhu's  staying  an  unreasonable  time  in  a  public
+rest-house,  and  to  his  frequenting  a  village  beyond  the  ordinary
+occasions.  Stupidity,  and  keeping  low  company,  are  not  men-
+tioned. Why  then  should  Seyyasaka  have  been  placed  upon  pro-
+bation? We  think  the  answer  will  appear  from  our  note  i  on
+II,  I,  I.
+
+"^  Pakata,  'done  up,'  explained  by  vava/a.  See  Oldenberg's
+quotation  from  Buddhaghosa  at  p.  310  of  his  edition  of  the  text.
+
+^  Compare  Mahavagga  I,  38,  i;  Maha-parinibbana  SuttaV,  64,
+65 ;  and  A'ullavagga  III,  3.  On  the  distinction  between  these
+kinds  of  probation,  see  also  our  note  below  on  II,  i,  i.
+
+*  See  below,  II,  2,  i.  Compare  also  Subhuti's  expUnation  in
+Childers,  and  the  passages  quoted  in  the  index  to  Oldenberg's
+edition  of  the  text,  p.  348,  sub  voce,  especially  .ffullavagga  III,  7.
+
+^  See  below,  A'ullavagga  III,  i  ;  III,  4.
+
+*  See  below,  A'ullavagga  III,  2  ;  III,  5.
+
+
+344  iTULLAVAGGA.  1, 9,  2.
+
+(saying),  '  How  can  the  venerable  Seyyasaka  be  so
+stupid  (&c.,  as  before),  that  the  Bhikkhus  are  worn
+out  (&c.,  as  before)?'
+
+Then  those  Bhikkhus  told  that  matter  to  the
+Blessed  One.
+
+And  the  Blessed  One  on  that  occasion,  and  in
+that  connection,  convened  a  meeting  of  the  Bhikkhu-
+sa?;2gha,  and  asked  the  Bhikkhus,  '  Is  it  true,  O
+Bhikkhus,  as  they  say,  that  the  venerable  Seyya-
+saka is  stupid  (&:.,  as  before,  down  to)  with  reha-
+bilitating him  ?'
+
+*  It  is  true,  Lord  !'
+
+The  Blessed  Buddha  rebuked  him  (saying),  'This
+is  improper'  (&c.,  as  usual,  compare  I,  2,  3,  down
+to),  and  addressed  the  Bhikkhus,  and  said,  '  Let  the
+Sa?;2gha  therefore,  O  Bhikkhus,  carry  out  the  Nis-
+saya-kamma  (Act  of  Subordination)  against  the
+venerable  Seyyasaka :  "  Thou  must  remain  under
+the  superintendence  cf  others  \"
+
+2.  '  Now  thus,  O  Bhikkhus,  should  it  be  carried
+out.  In  the  first  place  the  Bhikkhu  Seyyasaka  ought
+to  be  warned ;  when  he  has  been  warned,  he  ought
+to  be  reminded  2;  when  he  has  been  reminded,  he
+ought  to  be  charged  with  the  offence^ ;  when  he  has
+been  charged  with  the  offence,  some  discreet  and
+able  Bhikkhu  ought  to  lay  the  matter  before  the
+Sawgha  (saying),
+
+' "  Let  the  venerable  Sa;;/gha  hear  me  (&c.,  as
+usual;  see  above,  chapters  i.  4  and  8.  2).'"
+
+^  These  are  the  distinctive  and  technical  words  of  the  Nissaya-
+kamma,  just  as  the  corresponding  clause  in  chap.  13,  §  7  contains
+the  technical  words  of  the  Pabba^aniya-kamma.
+
+"  As  explained  above,  chap.  i.  4.
+
+
+I,  u,  I.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.      345
+
+
+10.
+
+[Chapters  2-5  are  here  repeated  at  length,  Nis-
+saya-kamma  being  substituted  throughout  for
+Ta^^aniya-kamma.]
+
+
+11\
+
+I.  So  the  Sawgha  carried  out  the  Nissaya-
+kamma  against  the  Bhikkhu  Seyyasaka  (saying),
+'  Thou  must  remain  under  the  superintendence  of
+others.'
+
+•And  he,  when  subjected  by  the  Sa;;/gha  to  the
+N  issaya-kamma,  by  resorting  to  and  cultivating  the
+acquaintance  of  good  companions 2,  associating  with
+them,  getting  them  to  declare  to  him  (the  Dhamma),
+and  asking  them  questions,  became  wise  in  the  tra-
+ditions;  a  man  to  whom  the  Nikayas  had  been
+handed  down;  a  reciter  of  the  Dhamma,  of  the
+Vinaya,  and  of  the  Matikas ;  clever,  discreet,  wise,
+modest,  full  of  remorse,  and  docile;  he  conducted
+himself  aridit,  he  became  subdued,  he  sought  for
+release,  and  going  up  to  the  Bhikkhus,  he  spake  as
+follows :
+
+'  I,  Sirs,  after  having  been  subjected  by  the  Sa;;2gha
+to  the  N issaya-kamma,  am  conducting  myself
+aright,  and  have  become  subdued,  and  I  seek  for
+release.     What  now  should  I  do  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Then,  O  Bhikkhus,  let  the  Sawgha  revoke  the
+N issaya-kamma  for  the  Bhikkhu  Seyyasaka.
+
+^  Compare  above,  chapter  6.
+
+*  Compare  Dhammapada,ver.  357.
+
+
+34^  X-ULLAVAGGA.  I,  n,  2.
+
+2.  'There  are  five  things,  O  Bhikkhus  (&c.,  as
+in  chap.  6.  2,  down  to  the  end  of  chap,  7,  read-
+ing throughout  Nissaya-kamma  for  Ta^^aniya-
+kamma)/
+
+
+12.
+
+[This  chapter  sets  out  the  mode  of  revocation  by
+a  kamma-va/^a  precisely  as  above  in  chapter  8.]
+
+
+Here   ends   the   second  (Kamma),  the    Nissaya-
+kamma.
+
+
+1,13,1.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       347
+
+
+III.  The  Pabbaganiya-kamma  (Act  of  Banishment).
+
+
+131.
+
+I.  Now  at  that  time  the  Bhikkhus  who  were
+followers  of  Assail  and  Punabbasu  were  dwelling
+on  the  Ki/a  Hill,  wicked  Bhikkhus,  and  shameless.
+Such  as  these  were  the  evil  practices  they  followed :
+they  used  to  plant  cuttings  of  flowers,  and  have
+them  planted  ;  they  used  to  water  flowers,  and  have
+them  watered;  they  used  to  gather  them,  and
+have  them  gathered ;  they  used  to  make  them  up
+into  nosegays,  and  have  them  so  made  up ;  they
+used  to  make  them  up,  and  to  have  them  made  up,
+into  wreaths,  of  the  kind  with  the  stalks  together,
+and  of  the  kind  with  the  stalks  separate  ^  of  the
+kind  called  ma;^^■arika•^  of  the  kind  called  vidhu-
+tikaS  of  the  kind  called  va/awsaka^  of  the  kind
+
+
+^  The  whole  of  this  chapter  recurs  in  the  Sutta  Vibhahga  on
+the  13th  Sawghadisesa,  The  proceeding  here  laid  down  is  really
+only  a  later  method  of  acting  under  the  circumstances  similar  to
+those  for  which  that  rule  had  previously  been  the  authorised
+dealinsr.
+
+2  The  Samanta  Pasadika  says,  Ekatova«/ikan  ti  pupphanaw
+va«/e  ekato  katvakata-malaw.  Ubhatovaw/ikan  ti  ubhohi  passehi
+puppha-va«/e  katva  kata-malawi.
+
+^  Perhaps  '  like  an  anklet.'  The  Sam.  Pas.  says,  Mait^ari  viya
+kata  puppha-vikati  maT/^arika  ti.
+
+*  Perhaps  'like  a  fan.'  The  Sam.  Pas.  says,  Vidhutika  ti
+sG^iya  va  salakaya  va  sinduvara-pupphadini  vi^^-^itva  kata  (mala).
+
+*  Perhaps  '  like  a  crest.'     The  Sam.  Pas.  says,  va/a;«sako  ti
+
+
+34^  irULLAVAGGA.  I,  13,  2.
+
+called  ave/a\  of  the  kind  called  ura/C'/J'/zada^; —
+and  they  then  used  to  take  or  send  wreaths  of  each
+of  these  various  kinds  to  the  wives  and  daughters
+and  young  women  and  sisters-in-law  and  female
+slaves  in  respectable  families ; — and  they  used  to
+eat  out  of  one  dish,  to  drink  out  of  one  vessel,  to  sit
+on  one  seat,  to  lie  on  one  bed,  one  mat,  one  coverlet,
+with  the  wives  and  daughters  and  young  women
+and  sisters-in-law  and  female  slaves  in  respectable
+families ; — and  they  used  to  eat  food  at  the  wrong
+time,  and  to  drink  strong  driak,  and  to  make  use
+of  garlands,  and  scents,  and  unguents ; — and  they
+used  to  dance,  and  sing,  and  play  music,  and  wanton,
+and  all  these  together  in  every  combination.
+
+2.  And  they  used  to  amuse  themselves  at  games^
+with  eight  pieces  and  ten  pieces,  and  with  tossing
+up,  hopping  over  diagrams  formed  on  the  ground,
+and  removing  substances  from  a  heap  without
+shaking  the  remainder ;  and  with  games  at  dice,
+and  trap-ball ;  and  with  sketching  rude  figures,
+tossing  balls,  blowing  trumpets,  having  matches  at
+ploughing  with  mimic  ploughs,  tumbling,  forming
+mimic   wind-mills,    guessing    at    measures,    having
+
+avata/wsako.  Compare  the  close  of  Rh.  D.'s  note  on  vegha  for
+avegha,  '  Buddhist  Suttas,'  p.  37.
+
+^  Perhaps  'hke  an  earring.'  The  Sam.  Pas.  says,  a/^elo  (sic)  ti
+ka««ika.  Compare  Sanskrit  api^a,  and  Gataka,  vol  i,  pp.  12,
+95,  269.
+
+2  The  Sam.  Pas.  says,  Ur^H/i^do  ti  hara-sadisaw  ure-Z/^apanaka-
+puppha-dama»?.    '  Like  mail-armour."
+
+'  All  these  games  are  forbidden  seriatim  in  paragraph  4  of  the
+M-Agg/nmz  Sila,  and  the  whole  list  of  offences  recurs  in  the  Sutta-
+vibhahga,  Sa?«ghadisesa  XIII,  i,  2.  See  Rh.  D.,  'Buddhist  Suttas
+from  the  Pali,'  p.  193.  We  adhere  to  the  translations  there  given
+and  based  on  the  Sumahgala  Vilasini.
+
+
+I,  13,  3.      THE   MINOR    DISCIPLINARY    PROCEEDINGS.      349
+
+chariot  races,  and  archery  matches,  shooting  marbles
+with  the  fingers,  guessing  other  people's  thoughts,
+and  mimicking  other  people's  acts  ; — and  they  used
+to  practise  elephant  riding,  and  horse  riding,  and
+carriage  driving,  and  archery,  and  swordsmanship  ; —
+and  they  used  to  run  to  and  fro  in  front  of  elephants,
+and  in  front  of  horses,  and  in  front  of  carriages ; —
+and  they  used  to  exhibit  signs  of  anger\  and  to
+wring  their  hands 2,  and  to  wrestle^,  and  to  box
+with  their  fists; — and  spreading  their  robes  out  as
+a  stage  they  used  to  invite  dancing  girls,  saying,
+'Here  you  may  dance,  sister!'  and  greet  her  with
+applause ^  Thus  manifold  were  the  evil  lives  which
+they  practised.
+
+3.  Now  at  that  time  a  certain  Bhikkhu  who  had
+spent  the  rainy  season  in  the  country  of  Kasi,  and
+was  on  his  way  to  visit  the  Blessed  One,  arrived
+at  the  Ki/a  Hill.  And  that  Bhikkhu  in  the  early
+morning  put  on  his  under  garment,  and  went,  duly
+bowled  and  robed,  to  the  Ki/a  Hill  for  alms.  And
+he  was  perfect  in  dignity,  with  his  eyes  cast  down,
+and  pleasing  in  appearance,  whether  in  going  in  or
+
+
+^  Usse/^enti.  We  are  quite  uncertain  how  to  render  this
+word.  One  might  be  tempted  to  think  that  a  denominative  verb
+from  usso///i  may  have  acquired  a  technical  sense  appropriate  to
+this  passage.  But  we  do  not  favour  any  such  conjectural  alteration
+of  the  clear  reading  of  the  IMSS.,  at  all  events  at  present.
+
+^  Appo//;enti.  See  Buddhaghosa's  note  quoted  by  Rh.  D.  in
+his  note  on  the  Book  of  the  Great  Decease,  II,  19.
+
+'  Nibbu^^-'^/zanti,  which  Buddhaghosa  explains  by  malla-yud-
+dhaw  karonti.  Compare  ubbu^^Aati  at  A'ullavagga  VIII,  10,  and
+Sutta-vibhanga,  Para^ika  I,  10,  26.
+
+*  The  Sam.  Pas.  says,  Nala/ikaw  pi  denti  sadhu  sadhu  bhagi-
+niti  attano  nala/e  ahguli;«  //iapetva  tassa  nala/e  ///apenti.
+
+
+350  £-ULLAVAGGA.  I,  13,  4.
+
+in  coming  out,  in  looking  or  in  watching,  in  bending
+in  his  arm  or  in  stretching  it  forth  ^
+
+Then  the  people  on  beholding  that  Bhikkhu,
+said,  *  Who  is  this  fellow  like  a  fool  of  fools,  or
+like  an  idiot  of  idiots,  or  like  a  simpleton  of
+simpletons  ^  ?  Who  would  give  an  alms  when
+this  fellow  comes  near !  Now  our  own  masters,  the
+followers  of  Assaj^i  and  Punabbasu,  are  gentle,
+friendly,  pleasant  in  speech,  radiant  with  smiles,  by
+no  means  fools,  but  open  in  countenance,  and  the
+first  to  speak.  To  such  now  it  is  fit  to  give  an
+alms ! '
+
+And  a  certain  lay-disciple  saw  that  Bhikkhu  as
+he  was  going  along  the  Ki/a  Hill  for  alms.  And
+on  seeing  him,  he  went  up  to  the  place  where  he
+was ;  and  on  coming  there  he  said  to  that  Bhikkhu :
+
+'  Has  your  reverence  received  an  alms  ?'
+
+'  No,  my  friend,  I  have  received  no  alms !'
+
+*  Come,  your  reverence  !    Let  us  go  to  my  house !'
+4.  So   the  lay-disciple  took   the   Bhikkhu  to   his
+
+house,  and  gave  him  to  eat,  and  asked  him  :
+
+*  Whither  then  is  your  reverence  going  ?'
+
+*  I  am  on  my  way  to  Savatthi,  my  friend,  to  visit
+the  Blessed  One.'
+
+*  Then  let  your  reverence  bow  down  at  the  feet
+of  the  Blessed  One  in  my  name,  and  say,  "  The
+residence  on  the  Ki/a  Hill,  Lord,  has  been  spoiled.
+The  Bhikkhus  who  are  followers  of  Assa^i  and
+Punabbasu  are  dwelling  on  the  Ki/a  Hill,  wicked
+Bhikkhus,  and  shameless.     Such  as  these  are   the
+
+
+*  Compare  Maha-parinibbana  Sutta  II,  15.
+^  The  Sam.  Pas.  says,  Sa;?zku/ita-mukhataya  bhaku/ika-bhaku/ika
+viya.
+
+
+1,13.5-      THE    MINOR    DISCIPLINARY    PROCEEDINGS.      35 1
+
+evil  practices  they  follow  (&c.,  as  in  ^^  i,  2,  down
+to  the  end).  And  people,  Lord,  who  were  formerly
+believers  and  full  of  faith,  are  now  become  non-
+believers  and  void  of  faith  ;  the  opportunities  of
+alms  that  were  formerly  open  to  the  Sawgha  are
+now  destroyed ;  worthy  Bhikkhus  forsake,  and
+wicked  Bhikkhus  dwell  in  the  place.  Let,  Lord,
+the  Blessed  One  be  pleased  to  send  (other)  Bhik-
+khus to  the  Ki/a  Hill  in  order  that  the  residence
+there  may  be  re-established." '
+
+5.  'Very  well,  my  friend,'  said  the  Bhikkhu,  in
+assent,  to  that  lay-disciple.  And  rising  from  his
+seat,  he  set  out  for  Savatthi,  and  went  straight  on
+to  Anatha-pi;^<2'ika  s  grove,  to  the  6^etavana  in
+Savatthi,  to  the  place  where  the  Blessed  One  was
+staying.  And  on  arriving  there  he  saluted  the
+Blessed  One,  and  took  his  seat  on  one  side.
+
+Now  it  is  the  custom  for  the  Blessed  Buddhas
+to  exchange  words  of  greeting  with  in-coming  Bhik-
+khus. And  the  Blessed  One  said  to  that  Bhikkhu,
+*  Do  things  go  well  with  you,  O  Bhikkhu  ?  Have
+you  enough  for  your  support  ?  Have  you  accom-
+plished your  journey  without  too  much  fatigue  ^
+And  whence,  O  Bhikkhu,  have  you  come?'
+
+'  Things  go  well  with  me,  Lord.  I  have  enough
+for  my  support.  And  I  have  accomplished  my
+journey  without  too  much  fatigue.  I  have  spent
+the  rainy  season,  Lord,  in  the  land  of  Kasi ;  and  on
+my  way  to  Savatthi  to  visit  the  Blessed  One  I
+arrived  at  the  Ki/a  Hill.  And  after  having  dressed
+early  in  the  morning,  I  went.  Lord,  duly  bowled
+and  robed,  on  to  the  Ki/a  Hill  for  alms.  And  a
+certain  lay-disciple  saw  me  (&c.,  as  above,  down  to
+the  end  of  J  4,  with    the  alterations   necessary   to
+
+
+352  irULLAVAGGA.  I,  13,  ^.
+
+the  narrative  form  of  speech).     Thence,  Lord,  am
+I  come.'
+
+6.  Then  the  Blessed  One  on  that  occasion,  and
+in  that  connection,  convened  a  meeting  of  the
+Bhikkhu-Sa;;^gha,  and  asked  the  Bhikkhus  :
+
+*  Is  it  true,  O  Bhikkhus,  as  they  say,  that  those
+Bhikkhus  who  are  followers  of  Assa^i  and  Punab-
+basu,  and  are  dwelling  on  the  Ki/a  Hill,  are  wicked
+Bhikkhus,  and  shameless ;  and  that  such  are  the
+evil  practices  they  follow  (&c.,  as  in  §  4,  down  to
+the  end)  ?'
+
+*  It  is  true,  Lord.'
+
+The  Blessed  Buddha  rebuked  them,  saying, '  How
+can  they,  O  Bhikkhus,  foolish  persons  that  they  are,
+follow  such  practices  as  these  (&c.,  as  in  J^  i,  2,
+down  to  the  end)  ?  This  will  not  conduce,  O  Bhik-
+khus, to  the  conversion  of  the  unconverted  (&c.,  as
+usual.     Compare  chap.  1,^2,  down  to  the  end).'
+
+And  when  the  Blessed  Buddha  had  rebuked  them,
+and  had  delivered  a  religious  discourse,  he  addressed
+the  venerable  Sariputta  and  Moggallana,  and  said,
+*  Go  now,  Sariputta  and  Moggallana  ^  to  the  Ki/?a
+Hill.  And  on  arriving  there  carry  out  the  Pabba-
+^aniya-kamma  (Act  of  Banishment^)  against
+those  Bhikkhus  who  are  followers  of  Assa^i  and
+Punabbasu,  to  the  effect  that  they  may  become  your
+Saddhl-viharikas^'
+
+
+^  On  this  meaning  of  Sariputta,  see  the  note  on  Mahavagga
+X,  4,  3-
+
+^  That  is,  out  of  the  particular  place  where  they  have  caused
+the  scandal,  not  of  the  Order.  When  they  in  anger  left  the  Order,
+their  conduct  in  doing  so  is  blamed.     See  chap.  16,  §  i.
+
+'  See  Mahavagga  I,  25,  6,  and  following,  and  ^ullavagga  VIII,
+II,  12,  and  compare  above,  9.  1.
+
+
+I,  13,  7.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       353
+
+'  How,  Lord,  can  we  carry  out  the  Pabbac^aniya-
+kamma  asfainst  those  Bhikkhus  who  are  followers
+of  Assail  and  Punabbasu  ;  for  they  are  passionate
+men  and  violent  ?'
+
+'  Then  do  you  go,  Sariputta  and  Moggalldna,
+too-ether  with  a  number  of  Bhikkhus.'
+
+'  So  be  it,  Lord!'  said  Sariputta  and  Moggallana,
+in  assent,  to  the  Blessed  One.
+
+7  ^  '  Now  thus,  O  Bhikkhus,  should  it  be  car-
+ried out.  In  the  first  place  the  Bhikkhus  who  are
+followers  of  Assa^i  and  Punabbasu  ought  to  be
+warned  :  when  they  have  been  warned,  they  ought
+to  be  reminded  (of  the  Rule  in  the  Patimokkha
+against  which  they  have  offended) ;  when  they  have
+been  reminded  they  ought  to  be  charged  with  the
+offence  ;  when  they  have  been  charged  some  discreet
+and  able  Bhikkhu  ought  to  lay  the  matter  before
+the  Sawgha,  saying,
+
+' "  Let  the  venerable  Sawgha  hear  me.  These
+Bhikkhus  who  are  followers  of  Assaf i  and  Punab-
+basu are  wicked  Bhikkhus  and  shameless.  Their
+evil  practices  are  both  seen  and  heard,  and  also
+that  respectable  families  have  been  led  astray  by
+them  is  seen,  too,  and  heard  2.  If  the  time  is  fit
+for  the  Sa;;?gha  to  do  so,  let  the  Sawgha  carry  out
+the  Pabba^aniya-kamma  against  those  Bhik-
+khus who  are  followers  of  Assa^i  and  Punabbasu,
+to  the  effect  that  the  Bhikkhus  who  are  followers
+
+
+^  On  this  section  compare  chap,  i,  §  4,  cl^'^^P-  9.  §  2.
+
+2  Buddhaghosa  points  out  that  whereas  theTa^^aniya-kamma
+is   directed   against   quarrelsomeness,    and   the   nissaya-kamma
+against  foohshness,  it  is  scandal  to  the  community  against  which
+the  Pabba^aniya-kamma  is  directed.
+[17]  A  a
+
+
+154  X-ULLAVAGGA.  I.  ^S,  7-
+
+
+of  Assafi  and  Punabbasu  are  not  to  dwell  on  the
+Ki/a  HilP.
+
+'  "  This  Is  the  motion  (;latti).
+
+' "  Let  the  venerable  Sawgha  hear  me.  These
+Bhikkhus  who  are  followers  of  Assaj^i  and  Punab-
+basu are  wicked  Bhikkhus  and  shameless.  Their
+evil  practices  (&c.,  as  before,  down  to)  is  seen,  too,
+and  heard.  The  Sa7;2gha  hereby  carries  out  the
+Pabba^aniya-kamma  against  them,  to  the  effect
+that  the  Bhikkhus  who  are  followers  of  Assa^i  and
+Punabbasu  are  not  to  dwell  on  the  Ki/a  HilP.
+Whosoever  of  the  venerable  ones  approves  of  the
+carrying  out  of  the  Pabba^aniya-kamma  against
+the  followers  (&c.,  as  before)  to  the  effect  (&c.,  as
+before  ^)  let  him  remain  silent.  Whosoever  approves
+not  thereof,  let  him  speak.
+
+' "  A  second  time  I  say  the  same  thing.  Let
+the  venerable  Sawgha  (&c.,  as  before).  A  third
+time  I  say  the  same  thing.  Let  the  venerable
+Sa7;?gha  (&c.,  as  before).
+
+'"The  Pabba^aniya-kamma  has  been  carried
+out  by  the  Sawgha  against  those  Bhikkhus  who  are
+followers  of  Assa^i  and  Punabbasu  to  the  effect  that
+those  Bhikkhus  who  are  followers  of  Assa^^'i  and
+Punabbasu  are  not  to  dwell  on  the  Ki/a  HilP.
+The  Sawgha  approves  of  it.  Therefore  is  it  silent.
+Thus  do  I  understand."'
+
+
+14.
+
+I.  [Here   follow    the    twelve    cases    in   which    a
+Pabba^aniya-kamma   is    declared   to   be   against
+
+^  The  corresponding  clause  to  the  words  '  to  the  effect,'  &c.,  is
+wanting  in  chap,  i,  §  4,  but  occurs  in  chap.  9,  §  2,
+
+
+I,  14,  r.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       355
+
+
+the  law,  and  according  to  law  respectively,  in  the
+precise  wording  of  chapters  2  and  3,  reading  Pab-
+bi^aniya  for  Ta^^aniya.  Then  follow  the  six
+cases  of  permissive  suspension  in  the  precise  word-
+ing of  chapter  4,  but  in  addition  to  the  cases  there
+given  for  the  Ta^^^^aniya-kamma,  ^^  j  and  2  of  this
+chapter  are  respectively  added  at  the  end  of  §§  i
+and  2  of  that  chapter.]
+
+I.  'There  are  three  thinijs,  O  Bhikkhus,  which
+when  they  characterise  a  Bhikkhu,  the  Sawgha,
+if  it  likes,  should  carry  out  the  Pabba^aniya-
+kamma  against  him;  (that  is  to  say),  when  he
+is  characterised  by  frivolity  ^  of  action — when  he  is
+characterised  by  frivolity  of  speech — when  he  is
+characterised  by  frivolity  bodi  of  action  and  of
+speech.  These  are  the  three  things,  O  Bhikkhus
+(&c.,  as  before,  down  to)  against  him.
+
+'  There  are  other  three  things,  O  Bhikkhus,  which
+when  they  characterise  a  Bhikkhu,  the  Sawgha,  if
+it  likes,  should  carry  out  the  Pabba^aniya-
+kamma  against  him;  (that  is  to  say),  when  he  is
+characterised  by  absence  of  right-doing  in  action —
+when  he  is  characterised  by  absence  of  right-doing
+in  speech — when  he  is  characterised  by  absence  of
+right-doing  both  in  action  and  in  speech.  These
+are  the  other  three  things,  O  Bhikkhus  (&c.,  as  before,
+down  to)  against  him.
+
+*  There  are  other  three  things  (&c.,  as  in  each  of
+the  last  paragraphs ;  the  three  things  here  being
+injury-  done  by  him  to  others  in  action,  in  speech,
+and  both  in  action  and  in  speech,  owing  to  his  own
+
+^  The  Sam.  Pas.  says,  Kayiko  davo  nama  kaya-ki/a  vuH'ali.
+^  The  Sam.  Pas.  says,  Kayika;«  upaghalita;//  nama kaya-dvare
+paTlnatti-sikkhapadassa  asikkhana-bhavena  upahananaw  vuX-X-ati.
+
+A  a  2
+
+
+<>
+
+
+56  iTULLAVAGGA.  I,  14,
+
+
+want  of  training  in  the  precepts  and  practices  of  the
+order).
+
+'  There  are  other  three  things  (&c.,  as  in  each  of
+the  last  paragraphs,  the  three  things  here  being
+evihiess  of  hfe  in  action,  in  speech,  and  both  in  action
+and  in  speech).
+
+2.  'There  are  three  kinds  of  Bhikkhus,  O  Bhik-
+khus,  against  whom,  when  the  Sawgha  Hkes  (to
+do  so),  it  should  carry  out  the  Pabba^aniya-
+kamma;  (that  is  to  say),  one  who  is  frivolous  in
+action — one  who  is  frivolous  in  speech — one  who  is
+frivolous  both  in  action  and  in  speech.  These  are
+the  three  kinds  of  Bhikkhus  (&c.,  as  above,  down
+to)  the   Pabbacraniya-kamma.
+
+'  There  are  other  three  kinds  of  Bhikkhus  (&c.,  as
+in  the  last  paragraph,  substituting  first,  absence  of
+right-doing — secondly,  injury  to  others — -and  thirdly,
+evilness  of  life  respectively  in  action,  in  speech,  and
+both  in  action  and  in  speech).'
+
+
+15.
+
+
+[This  chapter  is  identical  with  chapter  5,  reading
+Pabba^aniya  for  Ta^^aniya.]
+
+
+ir>i.
+
+I.  So  the  Bhikkhu-Sawgha,  with  Sariputta  and
+Moggallana  at  their  head,  proceeded  to  the  Ki/a
+Hill,  and  there  carried  out  the  Pabba,faniya-
+kamma  against  those  Bhikkhus  who  were  followers
+
+*  Corresponding  to  chapters  6  and  1 1  above.
+
+
+I,  i6,  I.      THE    MINOR    DISCIPLINARY    TROCEEDINGS.        357
+
+
+of  Assail  and  Pimabbasu,  to  the  intent  that  those
+Bhikkhus  should  no  longer  dwell  on  the  Ki/a  Hill.
+And  they,  when  subjected  by  the  Sawgha  to  the
+Pabba^aniya-kamma,  did  not  conduct  themselves
+aright,  they  did  not  become  subdued,  they  did  not
+seek  for  release,  they  did  not  ask  the  Bhikkhus  for
+forgiveness,  they  reviled  them,  they  found  fault  with
+them  \  sa)ing  that  they  were  offending  by  acting
+in  partiality,  in  ill-feeling,  in  folly,  and  in  fear-;  and
+they  not  only  departed  from  the  place,  but  also  left
+the  Order  ^.
+
+Those  Bhikkhus  who  were  moderate  were  of-
+fended, murmured,  and  became  indignant,  saying,
+•  How  can  those  Bhikkhus  who  are  followers  of
+Assa^i  and  Punabbasu,  after  having  been  subjected
+by  the  Sawgha  to  the  Pabba^aniya-kamma,
+refuse  to  conduct  themselves  aright  (&c.,  as  before,
+down  to)  leave  the  Order  ?'  And  those  Bhikkhus
+told  the  matter  to  the  Blessed  One.
+
+Then  the  Blessed  One  on  that  occasion,  and  in
+that  connection,  convened  a  meeting  of  the  Bhikkhu-
+saweha,  and  asked  the  Bhikkhus  :
+
+'  Is  it  true,  O  Bhikkhus,  as  they  say,  that  those
+Bhikkhus  who  are  followers  of  Assa^i  and  Punab-
+basu, after  having  been  subjected  by  the  Sawgha  to
+the  Pabba^aniya-kamma,  refuse  (&c.,  as  before,
+down  to)  leave  the  Order  ? '
+
+'  It  is  true.  Lord  !'
+
+
+^  Compare  Sawghadlsesa  1 3.
+
+^  These  are  the  four  so-called  Agatis,  usually  occurring  as  the
+faults  of  a  judge  (Rh.  D.,  *  Buddhist  Birth  Stories,'  p.  xxii,  and
+Dasaratha  Gataka,  p.  i),  but  compare  Sigalovada  Sulta,  ed.  Grim-
+bolt,  p.  299.
+
+2  Compare  Gataka  I,  1 17,  and  Mahavagga  I,  39,  5.
+
+
+358  JSTULLAVAGGA.  1, 16,  I.
+
+'  How  can  those  Bhikkhus  who  (&c.,  as  before,
+down  to)  leave  the  Order?  This  will  not  conduce,
+O  Bhikkhus,  either  to  the  conversion  of  the  un-
+converted, or  to  the  increase  of  the  converted ;  but
+rather  to  the  unconverted  being  not  converted,  and
+to  the  turning  back  of  those  which  have  been  con-
+verted.' And  when  the  Blessed  One  had  rebuked
+those  Bhikkhus  in  various  ways,  and  had  delivered
+a  religious  discourse,  he  addressed  the  Bhikkhus,
+and  said :
+
+*  Then,  O  Bhikkhus,  let  not  the  Sawgha  revoke
+the  Pabba^aniya-kamma.  There  are  five  things,
+O  Bhikkhus  (&c.,  as  before,  from  chapter  6,  J  2,
+down  to  the  end  of  chapter  7,  reading  Pabba^a-
+niya  for  Ta^^aniya).'
+
+
+Here  end  the  eighteen  cases  in  which  there
+
+ought  to  be  a  revocation  (of  the
+
+Pabba^aniya-kamma),
+
+
+171.
+
+I.  '  Now  thus,  O  Bhikkhus,  should  the  revocation
+be  carried  out.  The  Bhikkhu,  who  has  been  sub-
+jected to  the  Pabba^aniya-kamma,  should  go
+before  the  Sa7;^gha  (&c.,  as  before  in  chapter  8,
+§§  I,  2,  down  to  the  end).'
+
+
+Here  ends  the  third  (Kamma),  the
+Pabba^aniya-kamma.
+
+'  Compare  chapters  8  and  12.
+
+
+I,  i8,  I.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       359
+
+IV.
+
+The   PAnSARAiVIYA-KAMMA  (AcT  OF   RECONCILIATION).
+
+
+18\
+
+I .  Now  at  that  time  the  venerable  Sudhamma  was
+residing  at  Ma/'/'/akasa/^^a  in  dependence  upon  A'itta
+the  householder,  superintending  ^  the  new  buildings
+he  erected^,  and  being  constantly  supplied  by  him
+with  food.  And  whenever  A'itta  the  householder
+wished  to  give  an  invitation  to  the  Sa7;/gha,  or  to
+four  or  five  Bhikkhus*,  or  to  a  single  one,  he  used
+not  to  invite  them  without  making  special  mention
+of  the  venerable  Sudhamma.
+
+Now  at  that  time  a  number  of  the  Thera  Bhikkhus,
+including  the  venerable  Sariputta,  and  the  venerable
+Maha  Moggallana,  and  the  venerable  Maha  Ka/'/ana,
+and  the  venerable  Maha  Ko////ita,  and  the  venerable
+Maha  Kappina,  and  the  venerable  Maha  A'unda,  and
+
+^  The  whole  of  this  story  of  A'itta  and  Sudhamma  recurs  in  the
+Dhammapada  commentary,  pp.  262-264.  There  is  no  Rule  in
+the  Patimokkha  by  which  giving  offence  to  a  layman,  the  cause  of
+the  proceeding  described  in  the  following  chapters,  is  considered
+worthy  of  censure.
+
+"^  Navakammiko,  not  '  newly  appointed  to  an  office,'  as  Dr.
+Rudolf  Hoernle  translates  in  the  Indian  Antiquary,  XI,  29,  in
+dealing  with  one  of  the  Bharhut  Inscriptions.  See  Gataka  I,  92,
+and  below,  V,  13,  3,  VI,  5,  2,  VI,  17,  i,  X,  24.  This  duty  of  super-
+intending a  new  building  was  even  filled  by  Bhikkhunls  ;  see  the
+Bhikkhuni-vibhahga,  Par%ika  I,  where  the  details  of  the  duty  are
+incidentally  mentioned.
+
+^  Compare  below,  A'ullavagga  VI,  5,  2,  and  Gataka  I,  92,  22.
+
+*  This  clause,  both  here  and  below,  is  omitted  in  the  Sinha-
+lese MS.
+
+
+o
+
+
+60  X-ULLAVAGGA.  T,  18,  2.
+
+
+the  venerable  Anuruddha,  and  the  venerable  Revata,
+and  the  venerable  Upali,  and  the  venerable  Ananda,
+and  the  venerable  Rahula,  as  they  were  journeying
+through  the  country  of  Kasi,  arrived  at  Ma/'/'//ika-
+sanda.  And  A'itta  the  householder  heard  the  news
+that  the  Thera  Bhikkhus  had  arrived  at  Ma/'/'/^i-
+ka.s3.7ida..
+
+Then  A'itta  the  householder  went  up  to  the  place
+where  the  Thera  Bhikkhus  were,  and  on  arriving
+there,  he  saluted  the  Thera  Bhikkhus,  and  took  his
+seat  on  one  side.  And  when  he  was  so  seated  the
+venerable  Sariputta  taught  A'itta  the  householder,
+and  incited  him,  and  roused  him,  and  gladdened  him
+with  religious  discourse.  And  A'itta  the  householder,
+having  been  thus  taught,  and  incited,  and  roused,
+and  gladdened  with  religious  discourse,  said  to  the
+Thera  Bhikkhus, '  May  the  venerable  Theras  con-
+sent to  take  their  to-morrow's  meal,  as  incoming
+Bhikkhus,  at  my  house.'  And  the  Thera  Bhikkhus
+signified,  by  silence,  their  consent.
+
+2.  Then  perceiving  that  the  Thera  Bhikkhus  had
+given  their  consent,  A'itta  the  householder  rose  from
+his  seat,  and  bowed  down  before  the  Thera  Bhik-
+khus, and  keeping  them  on  his  right  hand  as  he
+passed  them,  went  on  to  the  place  where  the  vener-
+able Sudhamma  was.  And  on  arriving  there,  he
+saluted  the  venerable  Sudhamma,  and  stood  by  on
+one  side.  And  so  standing,  A'itta  the  householder
+said  to  the  venerable  Sudhamma  :  '  May  the  venera-
+ble Sudhamma  consent  to  take  his  to-morrow's  meal
+at  my  house  with  the  Theras.^
+
+But  the  venerable  Sudhamma,  thinking,  '  For-
+merly indeed  this  A'itta  the  householder,  whenever
+he  wished  to  give  an  invitation  to  the  Sa7ugha,  or  to
+
+
+I,  i8,  3-      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       36 1
+
+
+four  or  five  Bhikkhus,  or  to  a  single  one,  used  not
+to  invite  them  without  making  special  mention  of
+me ;  but  now  he  has  invited  the  Thera  Bhikkhus
+without  reeardinor  me.  This  /utta  the  householder
+is  now  incensed  against  me,  unfavourable  to  me,
+takes  pleasure  in  me  no  longer.'  And  so  thinking
+he  refused,  saying,  '  It  is  enough,  O  householder.'
+
+And  a  second  time  /utta  the  householder  said  to
+the  venerable  Sudhamma  (&c.,  as  before,  with  the
+same  result).  And  a  third  time  (&c.,  as  before,  \vith
+the  same  result).
+
+Then  A"itta  the  householder,  thinking,  'What  can
+the  venerable  Sudhamma  do  against  me,  whether  he
+consents,  or  whether  he  does  not  consent,'  saluted
+the  venerable  Sudhamma,  and  keeping  him  on  his
+right  hand  as  he  passed  him,  departed  thence.
+
+3.  And  at  the  end  of  the  night  A'itta  the  house-
+holder made  ready  sweet  food,  both  hard  and  soft,
+for  the  Thera  Bhikkhus.  And  the  venerable  Su-
+dhamma, thinking,  '  I  may  as  well  go  and  see  what
+A'itta  the  householder  has  made  ready  for  the  Thera
+Bhikkhus,'  robed  himself  early  in  the  morning,  and
+went,  duly  bowled  and  robed,  to  the  place  where
+A'itta  the  householder  dwelt ;  and,  on  arriving  there,
+he  took  his  seat  on  a  mat  spread  out  for  him.
+
+Then  A'itta  the  householder  went  up  to  the  place
+where  the  venerable  Sudhamma  was ;  and  after  he
+had  come  there,  he  saluted  the  venerable  Sudhamma,
+and  took  his  seat  on  one  side.  And  when  he  was  so
+seated  the  venerable  Sudhamma  addressed  A'itta  the
+householder,  and  said :  '  Though  this  great  store  of
+sweet  food,  both  hard  and  soft,  has  been  made  ready
+by  you,  O  householder,  there  is  one  thing  yet  want-
+ing, that  is  to  say,  tila  seed  cake.'
+
+
+562  irULLAVAGGA.  1,18,4.
+
+'  Though  then,  Sir,  there  is  so  much  treasure  in
+the  ward  of  the  Buddhas,  yet  there  is  but  one  thing
+of  which  the  venerable  Sudhamma  makes  mention,
+and  that  is  tila  seed  cake.  Long  ago,  Sir,  certain
+merchants  of  Dakkhi/zapatha  went,  for  the  sake  of
+their  traffic,  to  the  country  of  the  East,  and  thence
+they  brought  back  a  hen.  Now,  Sir,  that  hen  made
+acquaintance  with  a  crow,  and  gave  birth  to  a  chicken.
+And,  Sir,  whenever  that  chicken  tried  to  utter  the
+cry  of  a  cock  it  gave  vent  to  a  "  caw,"  and  whenever
+it  tried  to  utter  the  cry  of  a  crow,  it  gave  vent  to  a
+"  cock-a-doodle-do\"  Just  even  so,  Sir,  though  there
+is  much  treasure  in  the  ward  of  the  Buddhas,  when-
+ever the  venerable  Sudhamma  speaks,  the  sound  is
+"tila  seed  cake." '
+
+4.  '  You  are  abusing  me,  householder.  You  are
+finding  fault  with  me,  householder.  This  place,
+householder,  is  yours.  I  must  go  away  from  it,'  said
+the  venerable  Sudhamma.
+
+*  I  do  not  intend.  Sir,  to  abuse  the  venerable
+Sudhamma,  nor  to  find  fault  with  him.  Let,  Sir,
+the  venerable  Sudhamma  still  dwell  at  Ma/'/'/^ika-
+Sdiuddi.  Pleasant  is  this  grove  of  plum  trees,  and
+I  shall  take  good  care  to  provide  the  venerable  Su-
+dhamma with  those  things  a  recluse  requires — to
+v/it,  with  robes  and  food  and  lodging  and  medicine
+when  he  is  sick.'
+
+And  a  second  time  the  venerable  Sudhamma  said  :
+'You  are  abusing  me  (&c.,  as  before,  with  the  same
+reply).  And  a  third  time  the  venerable  Sudhamma
+said :  '  You  are  abusing  me  (&c.,  as  before,  down  to)
+I  must  go  away  from  it.'
+
+
+'  Compare  Gataka  I,  432  ;  II,  307.
+
+
+I,  i8,  5.      THE    MINOR    DISCIPLINARY    TROCEEDINGS.       363
+
+
+'  Whither  then,  Sir,  will  the  venerable  Sudhamma
+go  ?•
+
+'  I  shall  go  to  Savatthi,  O  householder,  to  visit
+the  Blessed  One.'
+
+'  Then,  Sir,  let  the  Blessed  One  know  all,  both
+what  you  yourself  have  said,  and  what  I  have  said.
+And  I  should  not,  Sir,  be  surprised  if  the  venerable
+Sudhamma  were  to  return  again  even  to  Ma/'/7nka-
+sa.uda..'
+
+5.  So  the  venerable  Sudhamma  gathered  together
+his  sleeping  mat,  and  set  out,  with  his  bowl  and  his
+robe,  for  Savatthi.  And  he  journeyed  straight  on  to
+Savatthi,  to  the  C'etavana,  Anathapi;/^ika's  Grove,
+to  the  place  where  the  Blessed  One  was ;  and  on
+arriving  there  he  bowed  down  before  the  Blessed
+One,  and  took  his  seat  on  one  side.  And  when  he
+was  thus  seated  the  venerable  Sudhamma  informed
+the  Blessed  One  of  all,  both  that  he  himself  had
+said,  and  that  A'itta  the  householder  had  said.
+
+The  Blessed  Buddha  rebuked  him,  saying.  '  This
+was  improper,  O  foolish  one,  not  according  to  rule,
+unsuitable,  unworthy  of  a  Sama;m,  and  ought  not
+to  have  been  done.  How  is  it  that  you,  O  foolish
+one,  could  put  down'  and  could  lower  by  )^our  cen-
+sure^ A'itta  the  householder,  he  being  a  man  of
+faith,  a  believing  disciple,  and  a  donor,  a  provider,
+and  a  supporter  of  the  Sa;;^gha  ?'  This  will  not  con-
+duce, O  foolish  one,  either  to  the  conversion  of  the
+unconverted,  or  to  the  increase  of  the  converted  ;
+but  rather  to  the  unconverted  not  being  converted,
+and  to  the  turninc:  back  of  those  who  have   been
+
+
+'  Compare  Dhammapada,  p.  263,  and  (7ataka  I,  191.
+
+2  Compare  Cataka  I,  191,  356,  359,  and  Sulta  Nipata,  verse  905.
+
+
+3^4  iTULLAVAGGA.  T,  i8,  6.
+
+
+converted.'  And  after  he  had  rebuked  him,  and
+had  delivered  a  rehgious  discourse,  he  addressed
+the  Bhikkhus,  and  said  :  '  Let  therefore  the  Sa;;2eha,
+O  Bhikkhus,  carry  out  the  Pa/isara;^iya-kamma
+(Act  of  Reconciliation)^  against  the  Bhikkhu
+Sudhamma,  saying,  "  You  are  to  ask  and  obtain
+pardon  of  ICitta.  the  householder.'"
+
+6.  '  Now  thus,  O  Bhikkhus,  should  it  be  carried
+out.  In  the  first  place  the  Bhikkhu  Sudhamma
+ought  to  be  warned :  when  he  has  been  warned,  he
+ought  to  be  reminded  (of  the  Rule  in  the  Pati-
+mokkha  against  which  he  has  offended) ;  when  he
+has  been  reminded,  he  ought  to  be  charged  with  the
+offence ;  when  he  has  been  charged  with  the  offence,
+some  discreet  and  able  Bhikkhu  ought  to  lay  the
+matter  before  the  Sa;;2gha,  saying,
+
+' "  Let  the  venerable  S^jugha.  hear  me.  This
+Bhikkhu  Sudhamma  has  put  down,  and  has  lowered
+by  censure  /ifitta  the  householder,  a  man  of  faith,
+a  believing  disciple,  a  donor,  provider  and  supporter
+of  the  Sa;;2gha.  If  the  time  is  fit  for  the  Sa;;/gha
+to  do  so,  let  the  Sawgha  carry  out  the  Pa/isara-
+?^iya-kamma  against  the  Bhikkhu  Sudhamma.
+
+'"  This  is  the  motion  (;^atti).
+
+
+^  Childers  proposes  doubtingly  to  derive  the  word  Pa/isara«iya
+from  the  root  smar;  but  that  that  is  impossible  is  probably  suffi-
+ciently evident  from  the  meaning  of  the  word,  which  is  quite  clear
+from  the  context  of  this,  and  from  the  following  chapters.  Now
+at  p.  530  of  the  Lalita  Vistara  the  common  Pali  phrase  sammo-
+daniya?«  kathawz  sariniyam  vitisaretva  is  represented  by  the
+Sanskrit  sammodani.^  samrangsini/i  katha.^  kr/tva.  It  is  by
+no  means  impossible  that  this  parallel  may  offer  the  true  solution
+of  the  etymology  of  the  Pali  words  in  question;  (compare  Saraga  as
+equal  to  sawraga,  saratta  to  sa/;/rakta,  &c.  &c.)  Pa/isara«iya  would
+then  be  equal  to  pratisa/«ra%-aniya.  See  Senart,  ^lahavagga,  p.  599.
+
+
+I,  20,  I.     TlIK    MINOR    DISCIPLINARY    PROCEEDINGS.       365
+
+* "  Let  the  venerable  Sawgha  hear  me.  This
+Bhikkhu  (&c.,  as  before,  clown  to)  supporter  of  the
+Sawgha,  The  Sa;;/gha  hereby  carries  out  the
+Pa/isara?^iya-kamma  against  the  Bhikkhu  Su-
+dhamma  with  the  words,  'You  are  to  ask  and  obtain
+pardon  of  A'itta  the  householder.'  Whosoever  of
+the  venerable  ones  approves  of  the  carrying  out  of
+the  Pa/isara/ziya-kamma  against  Sudhamma  the
+Bhikkhu,  let  him  remain  silent.  Whosoever  ap-
+proves not  thereof,  let  him  speak.
+
+*  "  A  second  time  I  say  the  same  thing.  Let  the
+venerable  Sawgha  (&c.,  as  before).  A  third  time
+I  say  the  same  thing.  Let  the  venerable  Sa;;2gha
+(&c.,  as  before).
+
+'"The  Pa/isara;nya-kamma  has  been  carried
+out  against  the  Bhikkhu  Sudhamma  with  the  words,
+'  You  are  to  ask  and  obtain  pardon  of  A'itta  the
+householder.'  The  Sa;;^gha  approves  the  motion.
+Therefore  is  it  silent.     Thus  do  I  understand.'"
+
+
+19.
+
+[Here  the  twelve  cases  of  a  proceeding  against,
+and  the  twelve  cases  of  a  proceeding  according  to
+law  are  repeated  of  the  Pa/isara;^iya-kamma  in
+the  words  of  chapters  2  and  3  of  the  Ta^^aniya-
+kamma.]
+
+I.  'There  are  five  things,  O  Bhikkhus,  which  when
+they  characterise  a  Bhikkhu,  the  Sawgha,  if  it  likes,
+should  carry  out  the  Pa/isara;nya-kamma  against
+him  ;   (that  is  to  say),  when  he  goes  about  to  bring
+
+^  See  above,  chapter  4.
+
+
+o
+
+
+^^  irULLAVAGGA.  I,  20,  I.
+
+
+loss  on  the  laity — when  he  goes  about  to  do  harm
+to  the  laity — when  he  goes  about  to  deprive  the
+laity  of  their  dwellings — when  he  reviles  and
+finds  fault  with  the  laity — when  he  brings  about
+division  between  the  laity.  These  are  the  five
+things,  O  Bhikkhus,  which  (&c.,  as  above,  down  to)
+afjainst  him.
+
+'  There  are  other  five  things,  O  Bhikkhus,  which
+when  they  characterise  a  Bhikkhu,  the  Sa;;^gha,  if
+it  likes,  should  carry  out  the  Pa/isa.ra?^iya-
+kamma  against  him;  (that  is  to  say),  when  he
+speaks  to  the  laity  in  dispraise  of  the  Buddha — when
+he  speaks  to  the  laity  in  dispraise  of  the  Dhamma —
+when  he  speaks  to  the  laity  in  dispraise  of  the
+Sa;;/gha — when  he  puts  laymen  down,  and  lowers
+them  by  censure — when  he  does  not  fulfil  a  promise
+made  in  accordance  with  the  Rules  to  the  laity.
+These  are  the  other  five  things,  O  Bhikkhus,  which
+(&c.,  as  before,  down  to)  against  him.
+
+*  There  are  five  kinds  of  Bhikkhus,  O  Bhikkhus,
+against  whom  the  Saw^gha,  if  it  likes,  should  carry
+out  the  Pa/isara;^iya-kamma ;  (that  is  to  say),
+one  who  goes  about  to  bring  loss  on  the  laity  (&c.,
+as  in  the  last  paragraph,  down  to  the  end).'
+
+
+Here  end  the  four  times  five  cases  of  suspicion.
+
+
+21.
+
+[Chapter  5,  as  to  the  right  conduct  of  a  Bhikkhu
+subjected  to  the  Ta^^aniya-kamma,  is  repeated,
+reading  Pa/isara;^iya  for  Ta^^aniya.]
+
+
+Here  end  the  eighteen  duties  which  follow  on  a
+Pa/isara;2iya-kamma.
+
+
+1,22,2.      THE    MINOR    DISCirLINARY    PROCEEDINGS.       T^Sj
+
+
+22.
+
+1.  So  the  Sawgha  carried  out  the  Pa/isarawlya-
+kamma  against  Sudhamma  the  Bhikkhu,  saying,
+'  You  are  to  ask  and  obtain  pardon  of  /ifitta  the
+househokler.  And  after  he  had  been  subjected  by
+the  Sa;;^gha  to  the  Pa/isara^^iya-kamma,  though
+he  went  to  MaX'/{7^ikasa;/^a,  he  was  unable,  being
+greatly  troubled  in  his  mind,  to  ask  and  obtain
+pardon  of  A'itta  the  householder,  but  returned  again
+even  to  Savatthi.
+
+Then  the  Bhikkhus  asked  him,  '  Has  A'itta  the
+householder  been  induced  by  you  to  give  you  his
+pardon  ?'
+
+'Indeed,  though  I  went  to  Ma/'/7/ikasa;^^a,  I  was
+unable,  being  greatly  troubled  in  my  mind,  to  ask
+and  obtain  pardon  of  A'itta  the  householder.'
+
+They  told  this  thing  to  the  Blessed  One.
+
+2.  *  Let,  then,  the  Sawgha,  O  Bhikkhus,  appoint
+a  companion  messenger  to  Sudhamma  the  Bhikkhu,
+to  ask  and  obtain  pardon  of  /iTitta  the  householder.
+
+'  Now  thus,  O  Bhikkhu,  should  the  companion
+messenger  be  appointed.  In  the  first  place  the
+Bhikkhu  (who  is  to  be  sent)  is  to  be  asked  (whether
+he  is  willing  to  go).  After  he  has  been  asked,  let
+some  discreet  and  able  Bhikkhu  lay  the  matter
+before  the  Sa;;2gha,  as  follows :
+
+'"Let  the  venerable  Sa;;/gha  hear  me.  If  the
+time  seems  meet  to  the  venerable  Sawgha,  let  the
+Sa?;?gha  appoint  such  and  such  a  Bhikkhu  as  a
+companion  messenger  to  Sudhamma  the  Bhikkhu,
+to  ask  and  obtain  pardon  of  A'itta  the  householder.
+
+'"This  is  the  motion  (;7atti)'.
+
+
+^68  ^ULLAVAGGA.  1,22,3.
+
+
+O
+
+
+' "  Let  the  venerable  Sa7;/orha  hear  me.  The
+Sa;;2gha  hereby  appoints  such  and  such  a  Bhikkhu
+as  a  companion  messenger  to  Sudhamma  the
+Bhikkhu,  to  ask  and  obtain  pardon  of  Altta  the
+householder.  Whosoever  of  the  venerable  ones
+approves  of  such  and  such  a  Bhikkhu  being  ap-
+pointed as  a  companion  messenger  to  Sudhamma
+the  Bhikkhu,  let  him  remain  silent.  Whosoever
+approves  not  thereof,  let  him  speak.
+
+'  '*  Such  and  such  a  Bhikkhu  has  been  appointed
+by  the  Sa;;2gha  (&c.,  as  before).  The  Sa/z/gha
+approves  thereof.  Therefore  is  it  silent.  Thus  do
+I  understand."
+
+3.  '  Then,  O  Bhikkhus,  let  Sudhamma  the  Bhikkhu
+go,  together  with  the  Bhikkhu  who  is  the  companion
+messenger,  to  Ma/'/7/ikasa/^</a,  and  ask  pardon  of
+K'xttdi  the  householder,  saying,  "  Pardon  me,  O
+householder ;  I  desire  to  gain  once  more  thy  good
+pleasure."  If,  when  he  thus  speaks,  he  pardons  him,
+it  is  well.  If  he  pardon  him  not,  the  Bhikkhu  who
+is  the  companion  messenger  should  say,  "  Pardon
+him,  O  householder ;  he  desires  to  gain  once  more
+thy  good  pleasure."  If,  when  he  thus  speaks,  he
+pardon  him,  it  is  well.  If  he  pardon  him  not,  the
+Bhikkhu  who  is  the  companion  messenger  should
+say,  "  Pardon  him,  O  householder ;  I  desire  to  gain
+thy  good  pleasure."  If,  when  he  thus  speaks,  he
+pardon  him,  it  is  well.  If  he  pardon  him  not,  the
+Bhikkhu  who  is  the  companion  messenger  should
+say,  "  Grant  pardon,  O  householder,  to  this  Bhikkhu,
+in  the  name  of  the  Sawgha  (I  ask  it)."  If  (&c,,  as
+before,  down  to).  If  he  pardon  him  not,  the
+Bhikkhu  who  is  the  companion  messenger — without
+going  out  of  sight,  and  without  going  out  of  hearing,
+
+
+I,  24.        THE    MINOR   DISCIPLINARY   TROCEEDINGS.        369
+
+of  IvittcL  the  householder — should  make  Sudhamma
+the  Bhikkhu  arrange  his  robe  on  one  shoulder,  and
+squat  down  on  his  heels,  and  stretch  forth  his  two
+hands  with  the  palms  together,  and  so  confess  his
+fault.'
+
+
+23.
+
+I.  So  the  venerable  Sudhamma  went,  with  another
+Bhikkhu  as  companion  messenger,  to  Ma/J'/'/nkasa/^^a,
+and  obtained  pardon  of  A^itta  the  householder.  And
+he  conducted  himself  aright,  and  he  became  sub-
+dued, and  he  sought  for  release  (&c.,  as  above,  in
+chapters  6,  7,  down  to  the  end).
+
+
+Here  end  the  eighteen  cases  in  which  there  ought  to
+be  a  revocation  of  the  Pa/isara?^iya-kamma.
+
+
+24.
+
+[In  this  chapter  the  Kammava/C'a  of  the  revocation
+of  the  Pa/isara7^iya-kamma  is  given  in  words  pre-
+cisely similar  to  those  of  chapters  8  and  12.]
+
+
+Here  ends  the  fourth  (Kamma),  the
+Pa^isara;^iya-kamma.
+
+
+[17]  B  b
+
+
+370  liTULLAVAGGA.  1,25,1.
+
+
+V.  The  Ukkhepaniya-kammas  (Acts  of  Suspension)
+for  not  acknowledging,  and  for  not  atoning  for,
+an  offence  ^
+
+
+25.
+
+I.  Now  at  that  time  the  Blessed  Buddha  was
+dwelling  at  Kosambi,  in  the  Ghosita  Arama.  And
+at  that  time  the  venerable  7^/^anna^  when  he  had
+committed  a  fault,  was  not  willing  to  acknowledge
+the  fault.  Those  Bhikkhus  who  were  moderate
+were  annoyed,  murmured,  and  became  indignant,
+saying,  'How  can  the  venerable  ^/^anna  act  so?'
+And  those  Bhikkhus  told  the  matter  to  the  Blessed
+One.
+
+Then  the  Blessed  One  on  that  occasion,  and  In
+that  connection,  after  he  had  convened  a  meeting
+of  the  Bhikkhu-sa;;2gha,  asked  the  Bhikkhus :
+
+'  Is  it  true,  O  Bhikkhus,  as  they  say,  that  ^/^anna
+
+
+^  There  is  no  mention  in  the  Patimokkha  of  any  such  pro-
+ceeding. At  the  close  of  each  of  the  four  Pa/idesaniya  Rules  there
+is  a  form  of  confession  to  be  observed.  It  would  seem  from  the
+following  chapters,  which  are  nowhere  expressly  confined  to  these
+four  cases,  that  a  similar  confession  was  expected  after  the  com-
+mission of  an  offence  against  any  of  the  Patimokkha  Rules.  In
+the  closing  words  of  the  Sa;«ghadisesa  Rules,  an  older  proceeding
+is  mentioned,  under  which  an  offending  Bhikkhu  who  has  not  con-
+fessed any  breach  of  either  of  those  thirteen  Rules  is  to  remain  on
+probation  for  as  many  days  as  he  has  allowed  to  go  by  without
+confessing.
+
+^  On  A'/^anna's  character,  see  also  below,  IV,  14,  i,  XI,  i,  12-14,
+and  Maha-parinibbana  Sutta  VI,  4.
+
+
+1,25,1.      THE    MINOR    DISCirLINARY    TROCEEDINGS.      37 1
+
+when  he  has  committed  a  fault,  is  not  wilh'ng  to
+acknowledge  the  fault?'
+
+'  It  is  true,  Lord  !'
+
+The  Blessed  Buddha  rebuked  him,  saying, '  How,
+O  Bhikkhus,  can  that  foolish  one  act  so  ?  This  will
+not  conduce  either  to  the  conversion  of  the  uncon-
+verted, or  to  the  increase  of  the  converted ;  but
+rather  to  those  who  have  not  been  converted  being
+not  converted,  and  to  the  turning  back  of  those  who
+have  been  converted.'
+
+And  when  the  Blessed  One  had  so  rebuked  him,
+and  had  delivered  a  religious  discourse,  he  addressed
+the  Bhikkhus  and  said  :  '  Let  therefore  the  Sa;;2gha,
+O  Bhikkhus,  carry  out  against  AT/^anna  the  Bhikkhu
+the  apattiya  adassane  Ukkhepaniya-kamma
+(the  Act  of  Suspension  which  follows  on  not
+acknowledging  a  fault)  to  the  intent  that  he
+shall  not  eat  or  dwell  together  with  the  Sawgha^
+
+*  Now  thus,  O  Bhikkhus,  should  it  be  carried  out.'
+[Here  follow  the  formal  words  of  the  Kamma-
+va/C'a  as  in  chapter  i.  4,  with  the  necessary  altera-
+tions owinof  to  the  difference  of  the  fault  and  of  the
+Kamma  following  on  it.  And  at  the  end  of  the
+Kammava/f'a  (after  the  words  '  Thus  I  under-
+stand') the  following  sentence  is  added.]
+
+*  And  send  a  proclamation,  O  Bhikkhus,  from
+residence  to  residence  ^l  saying,  "AV^anna  the  Bhik-
+khu has  been  subjected  by  the  Sawgha  to  the
+Ukkhepaniya-kamma  for  not  acknowledging  a
+fault." '
+
+
+^  Compare  INIahavagga  I,  79  generally,  and  §  2  of  that  chapter
+on  the  last  clause  (asambhoga/?/  sawghena).
+
+^  On  this  phrase  the  Samanta  Pasadika  says,  Avasa-param-
+paraTl  /C'a  bhikkhave  sawsatha  ti  sabbavasesu  aroX'Ctha.
+
+B  b    2
+
+
+'i^'l2  rULLAVAGGA.  1,26.
+
+
+26.
+
+[Here  follow  the  twelve  cases  in  which  a  Kamma
+is  against  the  law,  and  the  twelve  in  which  it  is
+according  to  law ;  and  also  the  six  permissive  cases
+in  which  it  may  be  carried  out,  if  the  Sa;;2gha  likes,
+precisely  as  in  chapters  2,  3,  and  4.]
+
+
+271.
+
+I.  'A  Bhikkhu  against  whom  the  Ukkhepaniya-
+kamma  that  follows  on  not  acknowledging  a  fault
+has  been  carried  out  ought  to  conduct  himself  aright.
+And  herein  this  is  the  right  conduct :  he  ought  not
+to  confer  the  upas  am  pad  a — he  ought  not  to  give
+a  nissaya^ — he  ought  not  to  provide  himself  with  a
+sima7zera^ — he  ought  not  to  accept  the  office  of  giv-
+ing exhortation  to  the  nuns  - — if  he  have  accepted  that
+office,  he  ought  not  to  exhort  the  nuns'^ — he  ought
+not  to  commit  the  offence  for  which  the  Ukkhepa-
+niya-kamma  that  follows  on  not  acknowledging  a
+fault  has  been  carried  out  against  him — nor  any
+offence  of  a  similar  kind — nor  any  worse  offence —
+he  ought  not  to  find  fault  with  the  proceeding  (that
+has  been  carried  out  against  him) — nor  with  (the
+Bhikkhus)  who  have  carried  it  out —  ^he  ought  not
+to   accept   from  a  regular    Bhikkhu    reverence,   or
+
+^  As  this  chapter,  containing  the  samma-vattana  or  right  con-
+duct, differs  from  the  corresponding  chapters  of  the  preceding
+K  am  mas  (chapters  5,  lo,  15,  and  21),  it  is  here  set  out  in  full.
+
+^  See  the  passages  quoted  above  (chapter  5).
+
+^  The  passage  between  these  two  figures  recurs  at  II,  i,  i.
+
+
+1,27,1.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.      373
+
+
+service,  or  salutation,  or  respect,  nor  allow  him  to
+provide  a  seat,  or  a  sleeping-place,  or  water  for  the
+feet,  or  a  foot-stool S  or  a  foot-towel^  for  him,  nor  to
+carry  his  bowl  or  his  robe,  nor  to  shampoo  him^ —
+he  ought  not  to  harass  a  regular  Bhikkhu  with  a
+complaint  that  he  has  failed  in  morality,  or  in  con-
+duct, or  in  doctrine,  or  in  the  mode  of  obtaining  a
+livelihood — he  ought  not  to  cause  division  between
+a  Bhikkhu  and  the  Bhikkhus — he  ought  not  to  wear
+the  outward  signs  of  being  a  layman,  or  of  being  a
+follower  of  some  other  doctrine  ^ — he  ought  not  to
+follow  the  professors  of  other  doctrines — he  ought
+to  follow  the  Bhikkhus — he  ought  to  train  himself
+in  the  training  of  the  Bhikkhus — he  ought  not  to
+dwell  under  one  and  the  same  roof  with  a  regular
+Bhikkhu,  whether  in  a  place  formally  declared  to  be
+a  residence,  or  to  be  not  a  residence,  or  in  a  place
+which  is  neither  the  one  nor  the  other, — on  seeing  a
+regular  Bhikkhu  he  ought  to  rise  from  his  seat — he
+ouoht  not  to  touch "^  a  reo-ular  Bhikkhu,  either  inside
+or  outside  (of  the  residence) — he  ought  not  to  raise
+objections  against  a  regular  Bhikkhu's  taking  part
+in  the  Uposatha  ceremony « — or  in  the  Pavara;/a
+
+*  At  II,  I,  I.  Buddhaghosa  explains  this  word  as  confined  to
+a  stool  on  which  to  place  feet  that  have  been  washed  (dhota-pada-
+Mapanaka;?;).
+
+■'  Buddhaghosa  says  on  the  same  expression  in  II,  i,  i,  pada-
+kathaliyan  (sic)  ti  adhota-pada7/;apanaka7«  pada-ghaA?/sana/«  va.
+
+"  The  Samanta  Pasadika  says,  Na  titthiya-dha^^o  ti  kusa/('i-
+radiw  na  dharetabbaw.  Compare  the  use  of  arahad-dha^aw  at
+Gataka  I,  65.
+
+'  The  Samanta  Pasadika  says,  Na  asadetabbo  ti  na  pasa-
+detabbo  (compare  the  use  of  asadesi,  Gataka  I,  481).  An  to  va
+bahi  va  ti  viharassa  anto  va  bahi  va.
+
+«  On  this  and  the  following  sentences  compare  the  passages
+quoted  above,  chapter  5.
+
+
+374  ^ULLAVAGGA.  1, 28,  i.
+
+ceremony — he  ought  not  to  issue  command  (to  a
+junior,  inhibiting  him  from  going  beyond  the  bounds,
+or  summoning  him  to  appear  before  the  elders) — he
+ought  not  to  set  on  foot  a  censure  against  any  other
+Bhikkhu — he  ought  not  to  ask  another  Bhikkhu  to
+give  him  leave  (to  rebuke  that  Bhikkhu) — he  ought
+not  to  warn  (another  Bhikkhu  whom  he  supposes  to
+be  offending) — he  ought  not  to  remind  (another
+Bhikkhu  of  a  law  against  which  he  supposes  that
+Bhikkhu  to  be  offending) — and  he  ought  not  to
+associate  with  the  Bhikkhus.'
+
+
+Here  end  the  forty-three  duties  which  follow  on  an
+Ukkhepaniya-kamma  for  not  acknowledging
+
+a  fault.
+
+
+28.
+
+I.  So  the  Sa7;?gha  carried  out  against  A^/^anna
+the  Bhikkhu  the  Ukkhepaniya-kamma  for  not
+acknowledging  a  fault  to  the  effect  that  he  should
+not  eat  or  dwell  together  with  the  Sa;;-?gha.  And
+after  he  had  been  subjected  by  the  Sa^^gha  to  the
+Ukkhepaniya-kamma  for  not  acknowlejdging  his
+fault  he  went  from  that  residence  to  another  residence.
+And  the  Bhikkhus  there  did  no  reverence  to  him,
+rose  not  from  their  seats  to  welcome  him,  rendered
+him  not  service,  offered  him  not  salutation,  paid  not  re-
+spect to  him,  offered  him  not  hospitality,  nor  esteemed
+him,  nor  honoured  him,  nor  supported  him.  And
+when  he  received  from  the  Bhikkhus  neither  hospi-
+tality,  nor  welcome,  nor   esteem,  nor   honour,  nor
+
+
+1,29-        THE    MINOR    DISCIPLINARY    TROCEEDINGS.         375
+
+support,  he  went  from  that  residence  to  another
+residence.  And  the  Bhikkhus  there  did  no  reve-
+rence to  him,  rose  not  from  their  seats  to  welcome
+him,  rendered  him  not  service  (&c.,  as  before,  down
+to  :)  he  went  from  that  residence  to  another  resi-
+dence. And  when  he  received  no  hospitahty  he
+returned  back  again  even  to  Kosambi.  Then  he
+conducted  himself  aright,  and  he  became  subdued,
+and  he  sought  for  release,  and  going  up  to  the
+Bhikkhus  he  spake  as  follows  :  '  I,  Sirs,  having  been
+subjected  by  the  Sawgha  to  the  Ukkhepaniya-
+kamma  am  conducting  myself  aright  in  accordance
+thereto,  and  I  am  become  subdued,  and  I  seek  for
+release.    What  now  should  I  do  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Then,  O  Bhikkhus,  let  the  Sa;;/gha  revoke  the
+Ukkhepaniya-kamma  for  not  acknowledging  his
+fault  carried  out  against  /^/^anna  the  Bhikkhu.
+
+2.  '  There  are  five  things,  O  Bhikkhus,  [&c.,  the
+rest  of  this  section  bearing  the  same  relation  to  the
+last,  which  chapter  6,  §  2,  does  to  chapter  5.]'
+
+
+Here  end  the  forty-three  cases  [in  which  an
+
+Ukkhepaniya-kamma  for   not   acknowledging  a
+
+fault  is  not  to  be  revoked].
+
+
+29.
+'There  are  five  things,  O'  Bhikkhus,  [&c.,  as  in
+chapter  7.     This  chapter  being  the  exact  opposite
+of  chapter  28.]
+
+Here  end  the  forty-three  cases  [in  which  an
+
+Ukkhepaniya-kamma  for  not    acknowledging  a
+
+fault  ought  to  be  revoked].
+
+
+376  S-ULLAVAGGA.  1,30.
+
+
+30.
+
+'And  thus,  O  Bhikkhus,  should  the  revocation  be
+carried  out  [&c.,  as  before,  in  chapters  8,  12,  &c.]'
+
+
+Here  ends  the  fifth   Kamma,  namely,  the
+Ukkhepaniya-kamma   for  not  acknowledging  a
+
+fault.
+
+
+31.
+
+Now  at  that  time  the  Blessed  Buddha  was  dwell-
+
+A
+
+ing  at  Kosambt,  in  the  Ghosita  Arama.  And  at
+that  time  the  venerable  AV^anna,  when  he  had  com-
+mitted a  fault,  was  not  willing  to  atone  for  that  fault
+[&c.,  the  proceeding  in  this  case  being  the  same,
+and  laid  down  in  the  same  words  as  the  proceeding
+in  the  last  case,  chapters  25-30].
+
+
+Here  ends  the  sixth  Kamma;  namely,  the
+Ukkhepaniya-kamma  on  not  atoning  for  a  faults
+
+
+^  It  will  be  seen  from  the  above  chapters,  and  especially  from
+chapter  27,  that  the  Ukkhepaniya-kamma  is  an  Act,  not  of
+expulsion,  but  only  of  suspension.  The  ten  cases  in  which  a
+member  of  the  Order  could  be  expelled  are  those  given  above  in
+Mahavagga  I,  60;  and  the  technical  word  for  'expel'  is  naseti.
+
+
+1,32,1.      THE    MINOR    DISCirUNARY    TROCEEDINGS.       377
+
+
+VI.  The  Ukkiiepaniya-kamma  for  not  renouncing
+
+a  sinful  doctrine.
+
+
+32.
+
+I.  Now  at  that  time  the  Blessed  Buddha  was
+sta)ing  at  Savatthi,  in  the  C^etavana,  the  grove  of
+An^thapi;^</ika.  And  at  that  time  a  certain  Bhikkhu
+by  name  Ari///^a,  who  had  formerly  been  a  vulture
+tormentor  \  had  fallen  into  a  sinful  belief  of  this
+kind ;  (that  is  to  say),  '  In  this  wise  do  I  understand
+the  Dhamma  preached  by  the  Blessed  One,  that
+to  him  who  practises  those  things  which  have  been
+declared  by  the  Blessed  One  to  be  impediments  ^
+
+
+^  In  his  commentary  on  the  PaX-ittiya,  quoted  by  Oldenberg  in
+his  note  on  this  passage,  Buddhaghosa  explains  this  expression  to
+mean  '  born  in  a  family  of  vulture  slayers.'  This  does  not  help
+us  much,  vulture  slaying  as  a  regular  occupation  being  somewhat
+incomprehensible,  and  not  referred  to  elsewhere.  Whatever  its
+meaning,  the  occupation  referred  to  is  perhaps  the  origin  of,  or
+should  at  least  be  compared  with,  the  statement  of  Ktesias  (circa
+B.C.  400)  in  his'Indika'  (ed.  C.  Miiller,  Fragment  xiii),  that  the
+Indians  used  not  dogs  but  vultures,  which  they  trained  for  that
+purpose,  in  hunting  hares  and  foxes.  Lassen  in  his  '  Indische
+Alterihumskunde,'  II,  638,  639,  thinks  this  statement  not  incredible,
+very  fairly  comparing  the  use  of  falcons  in  Europe  in  the  Middle
+Ages.  It  is  not  impossible  that  the  correct  rendering  here  should
+be 'vulture-catcher,' or 'vulture-trainer;'  but  we  prefer  to  be  literal.
+
+2  The  only  one  of  such  things  (Dhamma)  known  to  us  else-
+where in  the  Vinaya  Pi/aka  itself  is  deliberate  falsehood.  This
+is  stated  in  Mahavagga  II,  3,  3  to  be  an  impediment,  which  is
+explained  by  the  Old  Commentator,  at  IMahavagga  II,  3,  7,  to
+mean  an  impediment  to  the  attainment  of  the  G/^anas,  and  other
+things  of  similar  nature.
+
+
+37^  irULLAVAGGA.  1,32,2.
+
+
+there  will  arise  no  impediment  sufficient  (to  prevent
+his  acquiring  spiritual  gifts)  '.'
+
+Now  many  Bhikkhus  heard  that  Ari////a,  who  had
+formerly  (&c.,  as  before,  down  to:)  to  be  impedi-
+ments. And  those  Bhikkhus  went  up  to  the  place
+where  Ari///^a  the  Bhikkhu,  who  had  formerly  been
+a  vulture  tormentor,  was ;  and  on  arriving  there  they
+asked  Ari^///a  the  Bhikkhu,  who  had  formerly  been
+a  vulture  tormentor,  '  Is  it  true,  friend  Ari///^a,  as
+they  say,  that  you  have  fallen  into  a  sinful  belief
+(&c.,  as  above,  down  to)  spiritual  gifts  ?'
+
+'Certainly^!  I  do  so  understand  the  Dhamma
+preached  by  the  Blessed  One  (&c.,  as  before).'
+
+2.  '  Say  not  so,  friend  Ari///^a.  Bear  not  false-
+witness  against  the  Blessed  One.  For  neither  is  it
+seemly  to  bring  a  false  accusation  against  the  Blessed
+One,  nor  could  the  Blessed  One  have  spoken  so.
+By  many  a  figure,  friend  Ari///^a,  have  the  things
+which  are  impediments  been  declared  to  be  impedi-
+ments by  the  Blessed  One,  and  also  to  be  sufficient
+to  prevent  him  who  cultivates  them  (from  attaining
+to  spiritual  gifts)  ^  Lusts  have  been  declared  by
+the  Blessed  One  to  be  of  short  taste  ^  full  of  pain,
+and  full  of  despair,  things  wherein  the  danger  is
+great.  Lusts  have  been  declared  by  the  Blessed
+One  to  be  like  the  bones  of  a  skeleton,  full  of  pain,
+and  full  of  despair,  things  wherein  the    danger  is
+
+
+^  This  is  word  for  word  the  same  speech  as  that  which  is  con-
+demned in  the  68th  and  70th  Pd/^ittiyas.
+
+^  By  a  is  only  known  to  us  as  an  intensive  particle  occurring  in
+passages  like  the  present  one.
+
+^  So  far  this  section  is  word  for  word  the  same  as  the  68th  and
+the  70th  Pa^'ittiyas.
+
+^  Quoted  at  Dharamapada,  ver.  186.
+
+
+1,32,3-      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       379
+
+
+oreat.  Lusts  have  been  declared  by  the  Blessed
+One  to  be  like  lumps  of  raw  meat,  full  (&c.,  as
+before,  down  to :)  is  great.  Lusts  have  been  de-
+clared by  the  Blessed  One  to  be  like  torches  made
+of  a  wisp  of  hay  .  .  . .  ,  like  a  pit  full  of  live  coals  ^ .  .  .  . ,
+like  the  visions  of  a  dream  .  .  .  . ,  like  a  beggar's  por-
+tion . .  . . ,  like  the  fruits  of  trees  .  . . .  ,  like  the  sword
+and  the  slaughter-house  .  .  .  .  ,  like  darts  and  clubs
+.  .  .  .  ,  like  snakes  and  creeping  things,  full  of  pain,
+and  full  of  despair,  things  wherein  the  danger  is
+great.'
+
+Yet  notwithstanding  that  Bhikknu  Ari///^a,  who
+had  formerly  been  a  vulture  tormentor,  when  thus
+being  addressed  by  the  Bhikkhus,  remained  stead-
+fastly adhering,  in  the  very  same  way,  and  w^ith
+violence,  to  that  sinful  doctrine,  declaring,  'Verily
+I  do  so  understand  the  Dhamma  preached  by  the
+Blessed  One  (&c.,  as  before,  in  \  i).'
+
+3.  Then  since  those  Bhikkhus  were  unable  to
+move  Ari////a  the  Bhikkhu,  who  had  formerly  been
+a  vulture  tormentor,  from  that  sinful  doctrine,  they
+went  up  to  the  place  where  the  Blessed  One  was ;
+and  when  they  had  come  there,  they  told  this  thing
+to  the  Blessed  One.
+
+And  the  Blessed  One  on  that  occasion,  and  in
+that  connection,  convened  a  meeting  of  the  Bhikkhu-
+sawgha,  and  asked  Ari////a  the  Bhikkhu,  who  had
+formerly  been  a  vulture  tormentor,  'Is  it  true,  as
+they  say,  Antt/m,  that  you  have  fallen  into  a  sinful
+doctrine  of  such  a  kind  (&c.,  as  before,  in  J  i)  V
+
+'Certainly, Lord  !  I  do  so  understand  (&c.,  as  before,
+in  ^  i):
+
+^  Compare  Gataka  I,  231,  232.
+
+
+<>
+
+
+8o  iiTULLAVAGGA.  I,  32,  4.
+
+
+'  How  can  you,  O  foolish  one,  so  understand  the
+Dhamma  preached  by  me  ?  Have  I  not,  by  many
+a  figure,  O  foolish  one,  declared  the  things  which
+are  impediments  to  be  impediments,  and  sufficient
+to  prevent  him  who  cultivates  them  (from  attaining
+to  spiritual  gifts)?  Have  not  lusts  been  by  me
+declared  to  be  of  short  taste  (&c.,  as  above,  down
+to  :)  like  snakes  and  creeping  things,  full  of  danger,
+full  of  despair,  things  wherein  the  danger  is  great  ?
+Yet  now  you,  O  foolish  one,  by  your  having
+grasped  that  doctrine  wrongly  \  are  not  only
+bearing  false-witness  against  us,  but  you  are  also
+rooting  yourself  up,  and  are  giving  rise  to  much
+demerit  the  which  will  be  to  you  for  a  long  time
+for  an  evil  and  a  woe.  This  will  not  conduce,  O
+foolish  one,  either  to  the  conversion  of  the  uncon-
+verted, or  to  the  increase  of  the  converted ;  but
+rather  to  those  who  are  unconverted  not  being
+converted,  and  to  the  turning  back  of  those  who
+have  been  converted  V
+
+When  he  had  thus  rebuked  him,  and  had  delivered
+a  religious  discourse,  he  addressed  the  Bhikkhus,
+and  said :  '  Let  therefore  the  Sawgha,  O  Bhikkhus,
+carry  out  against  Ari////a  the  Bhikkhu,  who  was
+formerly  a  vulture  tormentor,  the  Ukkhepaniya-
+kamma  for  not  renouncing  a  sinful  doctrine,  to  the
+intent  that  he  shall  not  eat  or  dwell  together  with
+the  Sa;;2gha/
+
+4.  '  Now  thus,  O  Bhikkhus,  should  it  be  carried
+out.     In  the  first  place  the  Bhikkhu  Ari///^a  ought
+
+
+^  Compare  Maha-parinibbana  Sutta  IV,  8-1 1.
+"^  Up  to  this  point  the  whole  chapter  recurs  as  the  Introductory
+Story  in  the  Sutta-vibhahga  on  the  68th  Pa/^ittiya.
+
+
+1,34,1.      THE    MINOR    DISCIPLINARY    PROCEEDINGS.       38 1
+
+to  be  warned  [Sec,  as  in  chapter  25,  down  to  the
+end  of  the  KammavaZ'a,  including  the  supplementary
+sentence  as  to  the  proclamation].'
+
+
+33.
+
+[Here  follow  the  twelve  cases  in  which  the
+Kamma  is  against  the  law,  the  twelve  cases  in  which
+it  is  according  to  law,  the  six  permissive  cases  in
+which  it  can  be  carried  out  if  the  Sa;;zgha  likes,  and
+the  eighteen  divisions  of  the  right  conduct  for  the
+convicted  Bhikkhu  to  pursue,  precisely  as  in  chapters
+2,  3,  4,  and  5,  reading  '  Ukkhepaniya-kamma
+for  not  renouncing  a  sinful  doctrine,'  instead  of
+'  Ta^^aniya-kamma.']
+
+
+34.
+
+I.  So  the  Sawgha  carried  out  against  ArU/Zia.  the
+Bhikkhu,  who  had  formerly  been  a  vulture  tormentor,
+the  Ukkhepaniya-kamma  for  not  renouncing  a
+sinful  doctrine,  to  the  intent  that  he  should  not  eat
+nor  dwell  with  the  Sa;;/gha.  And  when  he  had
+been  thus  subjected  by  the  Sa;;2gha  to  the  Ukkhe-
+paniya-kamma for  not  renouncing  a  sinful  doctrine,
+he  left  the  Order.
+
+Those  Bhikkhus  who  were  moderate  were  annoyed,
+murmured,  and  became  indignant,  saying,  '  How  can
+Ari/Ma  the  Bhikkhu,  having  been  subjected  by  the
+Sawgha    to    the    Ukkhepaniya-kamma   for    not
+
+
+«3
+
+
+82  ^ULLAVAGGA.  I,  34,  i.
+
+
+renouncing  a  sinful  doctrine,  leave  the  Order  ? '  And
+those  Bhikkhus  told  the  matter  to  the  Blessed  One.
+
+Then  the  Blessed  One  on  that  occasion,  and
+in  that  connection,  convened  a  meeting  of  the
+Bhikkhu-sa7;^gha,  and  asked  the  Bhikkhus,  '  Is  it
+true,  O  Bhikkhus,  as  they  say,  that  Ari///^a  the
+Bhikkhu,  having  been  subjected  (&c.,  as  before,
+down  to)  left  the  Order  ?'
+
+'  It  is  true,  Lord.'
+
+The  Blessed  Buddha  rebuked  him,  saying,  *  How
+can  Ari////a  the  Bhikkhu  (&c.,  as*  before,  down  to)
+leave  the  Order  ?  This  will  not  conduce  either  to
+the  conversion  of  the  unconverted,  nor  to  the  in-
+crease of  the  converted;  but  rather  to  those  who
+have  not  been  converted  not  being  converted,  and
+to  the  ^turning  back  of  those  who  have  been  con-
+verted.'
+
+And  when  he  had  rebuked  him,  and  delivered
+a  religious  discourse,  the  Blessed  One  addressed
+the  Bhikkhus,  and  said :  '  Let  then  the  Sa?;/eha,  O
+Bhikkhus,  revoke  the  Ukkhepaniya-kamma  for
+not  renouncing  a  sinful  doctrine,  which  has  been
+carried  out  against  Ari/Z/za  the  Bhikkhu.
+
+'  There  are  five  things,  O  Bhikkhus,  [&c.,  as
+before,  in  chapters  6  and  7,  down  to  the  end.]'
+
+
+Here  end  the  eighteen  cases  in  which  a  revocation
+
+of  the  Ukkhepaniya-kamma  on  not  renouncing  a
+
+sinful  doctrine  should  be  carried  out.
+
+
+I,  35.         THE    MINOR    DISCirUNARY    TROCEEDINGS.        38
+
+
+T
+
+
+35.
+
+'  Now  thus,  O  Bhikkhus,  should  it  be  carried  out,'
+&c.  [Here  follows  the  Kammava/C'a  for  the  re-
+vocation of  a  Kamma  precisely  as  in  chapter  8,
+with  the  necessary  alterations.]
+
+
+Here  ends  the  seventh(Kamma),  the  Ukkhepan  iya-
+kamma  on  not  renouncing  a  sinful  doctrine.
+
+
+Here  ends  the  First  Khandhaka,  the  Khandhaka
+
+on  the  Kammas.
+
+
+384  A'ULLAVAGGA.  II,  i,  i.
+
+
+SECOND    KHANDHAKA.
+
+Probation  and  Penance.
+
+
+I.  Now  at  that  time  the  Blessed  Buddha  was
+staying  at  Savatthi,  in  the  6^etavana,  Anatha-
+p'md[k2LS  Grove.  And  at  that  time  Bhikkhus  who
+had  been  placed  on  probation^  used  to  accept  re-
+verence and  service  and  salutation  and  respect  from
+regular  Bhikkhus ;  and  to  allow  them  to  provide  a
+seat,  or  a  sleeping-place,  or  water  for  the  feet,  or
+a  foot-stool,  or  a  foot-towel  for  them ;  and  to  carry
+their  bowl  or  their  robe,  and  to  shampoo  them^.
+
+^  There  are  four  principal  kinds  of  probation ;  the  first  of  which
+was  required  when  the  follower  of  another  of  the  reforming  sects
+was  received  into  the  Buddhist  Order,  and  is  described  in  Maha-
+vagga  I,  38.  The  other  three,  which  follow  on  the  commission  of
+a  Sawghadisesa  offence,  are  more  particularly  described  below  in
+the  third  Khandhaka.  The  Pali  names  of  these  four  are  respec-
+tively apa/i/('/(7^anna-parivasa,  pa/i/^^7zanna-parivasa,  suddhanta-pari-
+vasa,  and  samodhana-parivasa.
+
+No  conclusion  should  be  drawn  against  this  statement  from  the
+passage  above  at  I,  9,  i ;  though  Seyyasaka's  conduct,  as  there
+described,  would  not  have  rendered  him  liable  to  any  one  of  these
+four  principal  probationary  proceedings.  For  he  is  said  to  have
+been  guilty  of  many  offences  (apatti-bahulo).  The  accom-
+panying enumeration  must  be  taken,  not  as  a  description  of  those
+offences,  but  as  additional  to  them.  And  the  probation  imposed
+upon  him  must  have  been  for  concealing  one  or  more  of  the  many
+offences  not  particularly  specified.
+
+2  All  these  expressions  recur  above,  I,  27,  i.
+
+
+II,  I,  I.        PROBATION  AND  PENANCE.  385
+
+Those  Bhikkhus  who  were  moderate  were  an-
+noyed, murmured,  and  became  indignant,  saying,
+'  How  can  Bhikkhus  who  have  been  placed  on  pro-
+bation accept  reverence  (&c.,  as  above,  down  to)
+shampoo  them  ?'
+
+And  those  Bhikkhus  told  this  thing  to  the  Blessed
+One.
+
+Then  the  Blessed  One  on  that  occasion,  and  in
+that  connection,  convened  a  meeting  of  the  Bhikkhu-
+sawgha,  and  asked  the  Bhikkhus :  *  Is  it  true,  O
+Bhikkhus,  as  they  say,  that  Bhikkhus  who  have
+been  placed  on  probation  accept  reverence  {Slc,  as
+before,  down  to)  shampoo  them  ?'
+
+'  It  is  true,  Lord.'
+
+The  Blessed  Buddha  rebuked  them,  saying,  '  How
+can  those  Bhikkhus  (&c.,as  before,  down  to)  shampoo
+them  ?  This  will  not  conduce,  O  Bhikkhus  (&c.,
+as  usual,  down  to)^  turning  back  of  those  who  have
+been  converted.'
+
+And  when  he  had  rebuked  them,  and  had  deli-
+vered a  religious  discourse,  he  addressed  the  Bhik-
+khus, saying,  '  A  Bhikkhu  who  has  been  placed
+on  probation  ought  not  to  accept  reverence  (&c.,
+as  before,  down  to)  shampoo  them.  Whosoever
+does  so,  shall  be  guilty  of  a  dukka/a  offence.
+I  prescribe,  O  Bhikkhus,  to  those  Bhikkhus  who
+have  been  placed  on  probation  to  do  [all  the  cour-
+tesies, duties,  and  services  mentioned  above-]  for
+one  another,  according  to  their  seniority.  I  pre-
+scribe, O  Bhikkhus,  five  things  (as  permissible)  to
+Bhikkhus   who    have    been    placed    on    probation,
+
+^  See  I,  I,  2,  down  to  the  end.
+
+^  That  is,  in  the  lists  recurring  in  the  previous  paragraphs,  and
+given  in  full  at  I,  27,  i.
+
+[r;]  C  C
+
+
+386  ^ULLAVAGGA.  II,  r,  2.
+
+
+according  to  their  seniority ;  (that  is  to  say),  the
+Uposatha  ceremony,  the  Pavara^za  ceremony,  the
+share  in  robes  for  the  rainy  season,  in  things  dedi-
+cated to  the  Sa;;^gha^  and  in  food.
+
+2.  '  Therefore,  O  Bhikkhus,  do  I  make  known  to
+you  a  rule  of  conduct  for  Bhikkhus  who  have  been
+placed  on  probation,  according  to  which  they  ought
+to  conduct  themselves  aright.  And  herein  this  is
+the  right  conduct.  He  oudit  not  to  confer  the
+Upasampada  (&c.,  as  above,  in  I,  i,  5,  down  to
+the  end)  2.
+
+'  A  Bhikkhu  who  has  been  placed  on  probation
+ought  not,  O  Bhikkhus,  to  walk  in  front  of,  or  to  sit
+down  in  front  of,  a  regular  Bhikkhu.  Whichever
+belonging  to  that  company  of  Bhikkhus  shall  be  the
+worst  seat",  or  the  worst  sleeping-place,  or  the  worst
+room^,  that  shall  be  given  to  that  Bhikkhu,  and  there-
+
+
+^  Ono^anam,  which  the  Samanta  Pasadika  explains  by  'visa^-
+^anavz.'  Compare  the  use  of  ono^esi  at  Dipava/«sa  XIII,  29.
+The  etymology  of  the  word  is  unknown  to  us.
+
+^  The  Samanta  Pasadika  has  here  the  following  note  on  sava-
+ztaniyawz,  which  should  be  compared  with  the  shorter  note  on  the
+same  word  given  above,  I,  i,  5  :  Na  savaX-aniyawz  katabban  ti
+palibodhatthaya  pakkosanatthaya  va  sava/^aniya?^  na  katabbaw.
+Palibodhatthaya  hi  karonto,  aha;«  ayasmantaw^  imasmi;;^  vatthusmi?;^
+sava/^aniya/zi  karomi,  imamha  avasa  ekapadaw  pi  ma  pakkami
+yava  na  ta;;;  adhikarawawz  vupasanta??^  hotiti ;  evam  karoti.  Pak-
+kosanatthaya karonto,  aha?^  te  sava/&aniya7?z  karomi,  ehi  mayd
+saddhi;/;  vinaya-dharanaz/z  sammukhibhavaw  g^kkMmi  ti  :  evawz
+karoti.
+
+^  Buddhaghosa  says  here,  Asanapariyanto  bhattaggadisu
+sa7«gha-navak-asanaOT  vu/c/^ati,  svassa  databbo.  Pariyanta  is
+used  here  in  the  same  sense  as  in  the  22nd  Nissaggiya.
+
+*  Vihara.  In  later  times  this  word  is  no  doubt  always,  or
+almost  always,  used  to  designate  the  whole  of  a  building  in  which
+several  or  many  Bhikkhus  resided.    In  the  older  literature  it  always,
+
+
+11,1,2.  PROBATION    AND    PENANCE.  387
+
+
+with  shall  he  content  himself.  A  Bhikkhu  who  has
+been  placed  under  probation  ought  not,  O  Bhikkhus,
+to  visit  the  families  who  support  a  regular  Bhikkhu
+(by  officiating,  in  order  to  do  so,  as  the  companion
+who  precedes  or  follows  that  regular  Bhikkhu) — he
+ought  not  to  devote  himself  to  a  forest  life — he  ought
+not  to  devote  himself  to  living  on  alms  personally-
+received^ — he  ought  not  to  cause  an  alms  to  be
+brought  out  to  him  with  the  object  of  escaping  an
+extension  of  his  probationary  term-,  thinking,  "Let
+them  not  recognise  me"  (as  one  who  has  been  placed
+under  probation)  •'.
+
+'  A  Bhikkhu  who  has  been  placed  on  probation
+ought,  O  Bhikkhus,  to  announce  the  fact  of  his  having
+been  so  placed  when  he  arrives  at  a  residence  as  an
+incoming  Bhikkhu — he  ought  to  announce  the  fact
+to  an  incoming  Bhikkhu — he  ought  to  announce  the
+fact  at  an  Uposatha  meeting — he  ought  to  an-
+nounce the  fact  at  a  Pavara;za  meetinof — and,  if
+he  be  sick,  he  ought  to  announce  the  fact  at  such
+meetings  by  means  of  a  messenger*.
+
+or  almost  always,  denotes  the  dwelling-place,  the  private  apart-
+ment, of  a  single  Bhikkhu,
+
+^  That  is,  to  refrain  from  salaka-bhatta,  &c.
+
+^  The  Samanta  Pasadika  says,  Tappa/('/Jaya  'li  niha/abhatto
+hutva  viharen'  eva  nisiditva  bhu?~^anto  vattiyo  gawayissami  ga/O-
+X7iato  me  bhikkhii  disva  anaro/tentassa  rattiH'/^edo  (cap.  2)  siya  'ti
+imina  karawena  piwfl'apato  na  niharapetabbo,
+
+^  Ma  ma?;/  ^aniw/sfi  'ti  ma  ma;«  ekabhikkhu  pi  ^<^anatu  'ti/ta
+imina  a^^^asayena  vihare  samawerehi  paX-apetva  bhu%itum  labbhati.
+Gama;«  piw^aya  pavisitabbam  eva,  Gilanassa  pana  navakammaw
+SX'ariyupai;77//ayaki/('/(-adipasu  (sic)  tassa  \i  vihare  yeva  aM/iilnm
+va/Zati.  SaX-e  pi  game  anekasata  bhikkhu  vi/(-aranti  na  sakka  hoti
+aroX-etuw  gamakavasaw  gantva  sabhaga////ane  vasitu;«  va//ati.
+
+*  This  paragraph,  it  will  be  seen,  is  omitted  in  three  out  of  the
+four  following  cases,  which  are  otherwise  similar  in  every  respect,
+
+C  C  2
+
+
+o
+
+
+88  irULLAVAGGA.  II,  i,  3.
+
+
+3.  '  A  Bhikkhu  who  has  been  placed  on  probation
+ought  not,  O  Bhikkhus,  to  go  away  from  a  residence
+in  which  Bhikkhus  are  Uving  to  a  residence  in  which
+no  Bhikkhus  are  Uving,  unless  with  a  regular  Bhik-
+khu, or  in  time  of  danger.  A  Bhikkhu  who  has  been
+placed  on  probation  ought  not,  O  Bhikkhus,  to  go
+away  from  a  residence  in  which  Bhikkhus  are  living
+to  a  place  which  is  not  a  residence  ^  and  w^here  no
+Bhikkhus  are  living,  unless  with  a  regular  Bhikkhu,  or
+in  time  of  danger.  A  Bhikkhu  (&c.,  as  before)  ought
+not  to  go  away  from  a  residence  in  which  Bhikkhus
+are  living,  either  to  a  residence  or  to  a  place  which
+is  not  a  residence,  and  where  Bhikkhus  are  not
+living,  unless  (&c.,  as  before)  ^  .  .  .  from  a  place
+which  is  not  a  residence,  but  where  Bhikkhus  are
+living,  to  a  place  which  is  a  residence,  but  where
+Bhikkhus  are  not  living  ....  from  a  place  which  is
+not  a  residence,  but  where  Bhikkhus  are  living,  to
+a  place  which  is  not  a  residence  and  where  Bhikkhus
+are  not  living  ....  from  a  place  which  is  no  residence,
+but  where  Bhikkhus  are  living,  either  to  a  place
+which  is  not  a  residence  or  to  a  residence  where  no
+Bhikkhus  are  living  ....  from  a  place  which  is  either
+a  residence  or  not  a  residence,  to  a  place  which  is  a
+residence,  but  where  no  Bhikkhus  are  living  ....
+from  a  place  which  is  either  a  residence  or  no  re-
+sidence, but  where  Bhikkhus  are  living,  to  a  place
+
+
+as  regards  the  right  conduct  which  is  laid  down  for  them,  to  the
+present  case  of  the  Bhikkhus  who  have  been  placed  on  probation.
+
+1  The  Samanta  Pasadika  says,  (Abhikkhuko  avaso)  na  hi
+tattha  vuttharattiyo  ga7/anupika  honti.  pakatattena  pana  saddhiw
+va//ati.  Anavaso  nama  /^etiyagharaw  bodhigharaw  samma?i§-ani-
+a//ako  darua//ako  paniyama/o  va/^'X-aku/i  dvarako/Mako  'ti  evamadi.
+
+2  In  the  text  read  avaso  va  anavaso  vl
+
+
+IT,  1,  4.  rROBxVTION   AND    PENANCE.  389
+
+
+which  is  not  a  residence  and  where  no  Bhikkhus  are
+living  ....  from  a  place  which  is  either  a  residence
+or  not  a  residence,  but  where  Bhikkhus  are  living,
+to  a  place  which  is  either  a  residence  or  not  a  resid-
+ence, but  where  no  Bhikkhus  are  living,  unless  with
+a  regular  Bhikkhu  or  in  time  of  danger.
+
+'  A  Bhikkhu  who  has  been  placed  on  probation
+ought  not,  O  Bhikkhus,  to  go  away  from  a  residence
+where  Bhikkhus  are  living  to  a  residence  where
+Bhikkhus  are  living,  but  where  there  may  be  Bhik-
+khus of  different  communities  from  his  own  (unless,
+&c.,  as  before).  [The  same  changes  as  in  the  last
+series  are  here  rung  upon  this  inhibition,  down  to]
+....  from  a  place  which  is  either  a  residence  or  not  a
+residence,  but  wdiere  Bhikkhus  are  living,  to  a  place
+which  is  either  a  residence  or  not  a  residence,  and
+where  Bhikkhus  are  living,  but  where  there  may  be
+Bhikkhus  of  different  communities  from  his  own
+(unless,  &:c.,  as  before).
+
+'  A  Bhikkhu  who  has  been  placed  on  probation
+ought  to  go,  O  Bhikkhus,  from  a  residence  where
+Bhikkhus  are  living  to  a  residence  where  Bhikkhus
+are  livine,  and  where  there  are  Bhikkhus  of  the
+same  community  (with  himself),  if  he  knows,  "This
+very  day  I  can  go  there."  [Here  follow  the  same
+permutations   and  combinations  as  in  the  last  two
+
+series.]
+
+4.  '  A  Bhikkhu  who  has  been  placed  on  probation
+ought  not,  O  Bhikkhus,  to  dwell  with  a  regular
+Bhikkhu  in  a  residence  under  one  and  the  same
+roof— nor  in  a  place  which  is  not  a  residence  under
+one  and  the  same  roof — nor  in  a  place  which  is
+either  a  residence  or  not  a  residence  under  one  and
+the  same  roof.     On   seeing  a  regular  Bhikkhu  he
+
+
+390  irULLAVAGGA.  IT,  r,  4.
+
+ought  to  rise  from  his  seat^ ;  and  he  ought  to  offer
+his  seat  to  a  regular  Bhikkhu.  He  ought  not  to
+sit  down  on  one  and  the  same  seat  with  a  ree^ular
+Bhikkhu  ;  when  a  regular  Bhikkhu  is  seated  on  a
+low  seat  he  ought  not  to  sit  down  on  a  high  seat-;
+when  a  regular  Bhikkhu  is  seated  on  the  ground  he
+ought  not  to  sit  down  on  a  seat^ ;  he  ought  not  to
+walk  up  and  down  on  the  same  /^ankama^  with
+a  regular  Bhikkhu ;  when  a  regular  Bhikkhu  is
+walking  up  and  down  on  a  low  /^ahkama  he  ought
+not  to  walk  up  and  down  on  a  higher  >('ankama;
+when  a  regular  Bhikkhu  is  walking  up  and  down  on
+the  ground  he  ought  not  to  walk  up  and  down  on
+a  (properly  prepared)  X'ankama.
+
+'A  Bhikkhu  who  has  been  placed  on  probation
+ought  not,  O  Bhikkhus,  to  dwell  (&c.,  all  the  other
+acts  mentioned  in  the  last  paragraph  being  here
+repeated  down  to  the  end)  with  a  Bhikkhu  senior  to
+himself  who  has  been  placed  on  probation  ....  with
+a  Bhikkhu  who  has  been  thrown  back  to  the  com-
+mencement of  his  term  of  probation  ....  with  a
+Bhikkhu  who  has  rendered  himself  liable  to  the
+Manatta  discipline'^  ....  with  a  Bhikkhu  under-
+going the  Manatta  discipline  ....  with  a  Bhikkhu
+who  is  in  a  position  to  receive  rehabilitation ^
+
+'  If  a  meeting  of  four  Bhikkhus,  of  whom  one  is
+
+
+^  This  recurs  in  Khandhaka  I,  chapter  27.
+
+^  Compare  the  69th  Sekhiya.
+
+^  Compare  the  68th  Sekhiya.
+
+*  A  narrow  space  of  open  ground,  levelled  and  cleared  of  jungle,
+for  the  purpose  of  being  used  to  walk  up  and  down  upon  when
+meditating.     See  our  note  on  Mahavagga  V,  i,  14.
+
+°  On  these  disciplines  and  on  rehabiUtation,  see  the  following
+Khandhaka,
+
+
+TI,  2,  I.        PROBATION  AND  PENANCE.  39 1
+
+
+a  probationer,  should  place  a  Bhikkhu  on  probation,
+or  throw  him  back  to  the  beginning  of  his  proba-
+tionary course,  or  subject  him  to  the  Manatta
+discipline — or  if  a  meeting  of  twenty  Bhikkhus,  of
+wdiom  one  is  a  probationer,  should  rehabilitate  a
+Bhikkhu,  that,  O  Bhikkhus,  is  an  invalid  act,  and
+need  not  be  obeyed  \'
+
+
+Here  end  the  ninety-four  duties  encumbent  on
+a  probationer.
+
+
+2.
+
+I.  Now  the  venerable  Upali  went  up  to  the  place
+where  the  Blessed  One  was ;  and  on  arriving  there,
+he  saluted  the  Blessed  One,  and  took  his  seat  on
+one  side.  And  when  he  was  so  seated  the  venerable
+Upali  said  to  the  Blessed  One  :  '  Now  in  what  case,
+Lord,  can  there  be  an  interruption  of  the  proba-
+tionary period  of  a  Bhikkhu  who  has  been  placed  on
+probation^  ? '
+
+'There  are  three  ways  of  interruption  of  the
+probationary  period,  O  Upali,  of  a  Bhikkhu  who
+has  been  placed  on  probation ;  (that  is  to  say),  by
+
+
+*  Compare  jNIahavagga  IX,  4,  i.
+
+2  Literally,  '  breaking  of  the  nights.'  The  time  of  probation  was
+reckoned,  not  by  days,  but  by  nights ;  and  in  either  of  the  three
+cases  which  follow  the  reckoning  was  interrupted,  and  had  to
+begin  afresh.
+
+
+392  iTULLAVAGGA.  H,  3,  i.
+
+
+dwelling  together^,  by  dwelling  alone-,  and  by  not
+
+
+announcinof3.
+
+o
+
+
+'  These  are  the  three  ways  of  interruption  to  the
+probationary  period,  O  Upali,  of  a  Bhikkhu  who  has
+been  placed  under  probation.'
+
+
+I.  Now  at  that  time,  since  there  was  a  ereat  com-
+pany  of  the  Bhikkhus  gathered  together  at  Savatthi,
+those  Bhikkhus  who  had  been  placed  on  probation
+did  not  know  how  to  carry  out  their  probation
+correctly.
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe  to  you,  O  Bhikkhus,  to  carry  out  your
+probation  correctly.  Now  thus,  O  Bhikkhus,  ought
+you  to  postpone^  the  probation.  The  Bhikkhu  who
+has  been  placed  on  probation  is  to  go  up  to  a  single
+Bhikkhu,  and  arranging  his  robe  on  one  shoulder,
+and  squatting  down  on  his  heels,  and  stretching
+forth  his  hands  with  the  palms  together,  he  is  to
+say  :  "  I  postpone  my  probation."  Then  the  proba-
+tion is  postponed.     Or  he  is  to  say :  "  I  postpone
+
+^  Buddhaghosa  explains  this  to  mean  when  the  probationer  has
+done  any  of  the  things  forbidden  in  II,  i,  4.
+
+"^  That  is,  when  the  probationer  has  done  any  of  the  things
+forbidden  in  II,  i,  3.
+
+^  That  is,  when  the  probationer  has  omitted  to  make  any  of  the
+announcements  prescribed  at  the  end  of  II,  i,  2.
+
+*  This  chapter  is  repeated  below,  chap.  8,  in  reference  to
+Bhikkhus  undergoing  the  Manatta  discipline.
+
+^  That  is,  if  it  should  be  impossible  during  the  time  immedi-
+ately succeeding  the  imposition  of  probation  to  fulfil  all  the  thereto
+necessary  duties,  then  a  Bhikkhu  might  postpone  the  fulfilment  to
+some  more  convenient  season.
+
+
+II,  4,  T.  PROBATION    AND    PENANCE.  2>9o
+
+the  duties  (i.  e.  of  a  probationer)."  Then  also  the
+probation  is  postponed.'
+
+2.  Now  at  that  time  the  Bhikkhus  who  were  at
+Savatthi  went  away  hither  and  thither,  and  the
+Bhikkhus  who  had  been  placed  on  probation  were
+not  able  to  carry  out  their  probation  correctly ^
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  I  prescribe  to  you,  O  Bhikkhus,  to  take  upon
+yourselves  again  the  probation  (which  had  been
+postponed).  Now  thus,  O  Bhikkhus,  ought  you  to
+take  it  upon  )'ourselves  again.  The  Bhikkhu  who
+has  been  placed  under  probation  is  to  go  up  to  a  single
+Bhikkhu,  and  arranging  his  robe  on  one  shoulder,
+and  squatting  down  on  his  heels,  and  stretching  forth
+his  hands  with  the  palms  together,  he  is  to  say :  "  I
+take  my  probation  again  upon  myself"  Then  the
+probation  is  resumed.  Or  he  is  to  say :  "  I  take  the
+duties  (i.  e.  of  a  probationer)  upon  myself  again."
+Then  also  is  the  probation  resumed.'
+
+
+Here  end  the  duties  encumbent  on  a  probationer.
+
+
+I.  Now  at  that  time  Bhikkhus,  who  had  rendered
+themselves  liable  to  be  thrown  back  to  the  com-
+mencement (of  their  probationary  course)  ^  used  to
+
+
+^  The  Samanta  Pasadika  here  says,  Eva»z  vattaw  samadiyitva
+parivutta-parivasassamanattawgawhatopunavatta-samadana-kiX-X-a;;/
+n'  atthi  samadinna-vatto  ycva  hi  esa.  Tasmassa  X7;arattaw  manattawz
+databbaw,  /Ji««a-manatto  abbhetabbo,  cvaw  anapattiko  hutva  sud-
+dhante  pati///iito  tisso  sikkha  pQretva  dukkhass'  antaw  karissatiti.
+
+*  This  is  fully  explained  in  the  next  Khandhaka.
+
+
+394  A'ULLAVAGGA.  II,  5.
+
+accept  reverence  [&c.,  as  before  In  chapter  i,  reading
+throuo:hout  '  Bhikkhus  liable  to  be  thrown  back  to
+the  beginning  of  their  probationary  course'  for
+'  Bhikkhus  who  had  been  placed  on  probation^ ;'  and
+omitting  in  chapter  2  the  announcements  referred  to
+there  In  our  note].
+
+
+5.
+
+[In  this  chapter  the  same  rules  are  laid  down,
+word  for  word,  as  in  the  last,  reading  throughout
+for  '  Bhikkhus  liable  to  be  thrown  back  to  the  be-
+ginning of  their  probationary  course,'  '  Bhikkhus
+liable  to  be  subjected  to  the  Manatta  discipline^.']
+
+
+6.
+
+[In  this  chapter  the  same  rules  for  the  Manatta,
+or  Penance,  are  laid  down  word  for  word  as  those  in
+chapter  i,  §§  i,  2,  3,  and  4,  for  the  probation,  reading
+throughout  '  Bhikkhus  who  are  going  through  the
+Manatta  discipline'  for  'Bhikkhus  who  have  been
+placed  under  probation/  There  are,  however,  one
+or  two  minor  points  of  difference,  which  are  as
+follows :
+
+I.  At  the  end  of  the  announcements  (chapter  i,
+
+*  In  the  text  alter  the  words  'Instead  of  sa/z/ghena  parivaso
+dinno  hoti  read  sa^^ghena  mfilaya  pa/ikassanaraho  kato
+hoti'  into  '  Instead  of  parivasika  bhikkhu  read  mulaya  pa/i-
+kassanaraha  bhikkhu.'
+
+^  This  is  fully  explained  in  the  next  Khandhaka.
+
+
+II,  7,  I.        PROBATION  AND  PENANCE.  395
+
+§  2)  there  is  inserted  the  injunction,  '  Mc  ought  to
+announce  the  fact  every  day.'
+
+2.  In  the  passages  about  going  from  one  resi-
+dence to  another  (chapter  i,  §  3)  read  'unless  with
+the  Sawgha '  instead  of  '  unless  with  a  regular
+Bhikkhu.7
+
+
+7.
+
+I.  Now  the  venerable  Upali  went  up  to  the  place
+where  the  Blessed  One  was ;  and  on  arriving  there,
+he  saluted  the  Blessed  One,  and  took  his  seat  on
+one  side.  And  when  he  was  so  seated  the  venerable
+Upali  said  to  the  Blessed  One  :  '  Now  in  what  case,
+Lord,  can  there  be  an  interruption  of  the  Manatta
+discipline  2  of  a  Bhikkhu  who  is  undergoing  that
+discipline  ?'
+
+'  There  are  four  ways  of  interruption  of  the
+Manatta  discipline,  O  Upali,  of  a  Bhikkhu  who  is
+undergoing  that  discipline ;  (that  is  to  say),  by  dwell-
+ing together-^  by  dwelling  alone ■\  by  not  announcing^
+and  by  living  with  less  than  four  other  Bhikkhus''.
+These  are  the  four  ways  (&c.,  as  before,  down  to)
+undergoing  that  discipline.'
+
+^  It  Avill  be  seen,  therefore,  that  there  is  very  little,  one  might
+almost  say  no  practical,  difference  between  the  Parivasa,  which
+we  have  rendered  'probation,'  and  the  INIanatta,  which  we  have
+usually  left  untranslated,  and  sometimes  rendered  'penance.'
+Neither  the  one  nor  the  other  are  at  present  enforced  anywhere
+among  the  Buddhists.
+
+^  See  chapter  2,  note  i.
+
+^  See  the  notes  above  on  chapter  2.
+
+*  The  SamantaPasadika  says,  fine  ga«e  ti  /C-attaro  va  atireka  va.
+
+
+->
+
+
+96  rULLAVAGGA.  II,  8.
+
+
+8.
+
+
+[In  this  chapter  the  means  of  postponing  and
+resuming  the  Manatta  penance  are  laid  down,  word
+for  word,  as  in  chapter  3,  reading  '  Bhikkhus  who
+are  undergoing  the  Manatta  discipHne'  for  *  Bhik-
+khus who  have  been  placed  on  probation.']
+
+
+9.
+
+[This  chapter  is  word  for  word  the  same  as
+chapter  i,  reading  'Bhikkhus  who  have  rendered
+themselves  capable  of  receiving  rehabilitation'  for
+'  Bhikkhus  who  have  been  placed  on  probation.']
+
+
+Here  ends  the  Second  Khandhaka,  called  the
+Khandhaka  on  Probationers,  &c.
+
+
+Ill,  I,  2.  PROBATION    AND    TENANCE.  397
+
+
+THIRD    KHANDHAKA.
+Probation  and  Penance  (continued).
+
+1.
+
+1.  Now  at  that  time  the  Blessed  Buddha  was
+staying  at  Savatthi,  in  the  6^etavana,  Anathapi;^-
+rt'ika's  Grove.  And  at  that  time  the  venerable  Udayi
+committed  an  offence,  to  wit,  the  first  Sawghadisesa
+offence,  and  did  not  conceal  it.  He  told  the  Bhik-
+khus,  saying,  '  I  have  committed  an  offence — the
+first  Sawcrhadisesa  offence — and  do  not  conceal  it.
+What  now  shall  I   do  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+
+•  Then,  O  Bhikkhus,  let  the  Sawgha  lay  the  Ma-
+natta  penalty  on  Udayi  the  Bhikkhu  for  the  space
+of  six  days  on  account  of  that  offence — the  first
+Sawtrhadisesa — which  he  has  not  concealed.
+
+2.  '  Now  thus,  O  Bhikkhus,  ought  it  to  be  laid
+upon  him.      Udayi   the   Bhikkhu  ought  to  go  up,
+
+0  Bhikkhus,  before  the  Sawgha ;  and,  arranging
+his  robe  on  one  shoulder,  he  ought  to  bow  down  at
+the  feet  of  the  elder  Bhikkhus,  and  squatting  down
+on  his  heels,  and  stretching  forth  his  hands  with  the
+palms  together,  he  ought  to  say  as  follows  :
+
+' "  I,  venerable  Sirs,  have  committed  an  offence —
+the  first  Sawghadisesa — which  I  have  not  concealed.
+
+1  ask  the  Sawgha  (to  impose  upon  me)  the  Manatta
+penalty  for  six  days  on  account  of  this  offence — the
+
+
+'>
+
+
+98  iSrULLAVAGGA.  Ill,  i,  3.
+
+
+first  Saworhadisesa  offence — which  I  have  not  con-
+cealed." '
+
+[This  speech  is  repeated  three  times.]
+
+3.  '  Some  discreet  and  able  Bhikkhii  should  then
+lay  the  matter  before  the  Sa?;^gha,  as  follows  :
+
+* "  Let  the  venerable  Sa;;zgha  hear  me.  Udayi
+the  Bhikkhu  has  committed  an  offence — the  first
+Sa7;^CThadisesa  offence — which  he  has  not  concealed.
+And  he  asks  the  Saw^gha  for  the  Manatta  penalty
+for  six  days  on  account  of  that  offence — the  first
+Sa;,vcrhadisesa  offence — which  he  has  not  concealed.
+
+' "  If  the  time  seem  meet  to  the  Sa;;/gha,  let  the
+Sa;;?gha  impose  a  Manatta  of  six  days'  duration  on
+Udayi  the  Bhikkhu  for  that  one  offence — the  first
+Sa77/orhadisesa  offence — which  he  has  not  concealed.
+
+'  "  This  is  the  motion  (/^atti).
+
+'  "  The  Sa;72gha  hereby  imposes  aManatta  of  six
+days  on  Udayi  the  Bhikkhu  for  that  one  offence —
+the  first  Sa;;2ghadisesa  offence — which  he  has  not
+concealed.
+
+'  "  Whosoever  of  the  venerable  ones  approves  of
+the  imposition  of  a  Manatta  (&c.,  as  in  the  last
+paragraph,  down  to)  not  concealed,  let  him  remain
+silent.     Whosoever  approves  not,  let  him  speak.
+
+'  "  A  second  time  I  say  the  same  thing  (&c.,  as
+before  in  the  last  two  paragraphs).  A  third  time  I
+say  the  same  thing  (&c.,  as  before).
+
+* "  The  Sa7;^gha  has  imposed  a  Manatta  of  six
+days'  duration  (&c.,  as  before,  in  the  words  of  the
+motion,  down  to)  not  concealed.  The  Sawgha  ap-
+proves thereof.  Therefore  Is  it  silent.  Thus  do  I
+understand." '
+
+
+111,2,3.  PROBATION    AND    PENANCE.  399
+
+2.
+
+1.  When  he  had  done  the  Manatta  he  told  the
+Bhikkhiis,  sayhig, '  Friends,  I  committed  an  offence
+— the  first  Sawghadisesa  offence — which  I  had  not
+concealed.  And  I  asked  the  Sawgha  for  a  Manatta  of
+six  days'  duration  for  that  offence — the  first  Sa;;2gha-
+disesa  offence — which  I  had  not  concealed.  The
+Sawgha  imposed  upon  me  a  Manatta  (&c.,  as  before,
+down  to)  not  concealed.  Now  I  have  accomplished
+that  Manatta.    What  now  shall  I  do  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+*  Then,  O  Bhikkhus,  let  the  Sawgha  rehabilitate
+Udayi  the  Bhikkhu.
+
+2.  *  Now  thus,  O  Bhikkhus,  ought  he  to  be  re-
+habilitated.
+
+'  Uda)-i  the  Bhikkhu  ought  to  go  up  (&c.,  as  in
+chapter  i,  J  2,  down  to)  he  ought  to  say  as  follows  :
+
+* "  I  committed,  venerable  Sirs,  an  offence — the
+first  Sawghadisesa  offence — which  I  did  not  conceal.
+I  asked  the  Sawgha  (to  impose  upon  me)  a  Manatta
+of  six  days'  duration  for  that  offence — the  first
+Sawghadisesa  offence — which  I  had  not  concealed.
+The  Sa?;^gha  imposed  upon  me  a  Manatta  of  ...  .
+for  ....  not  concealed.  I,  having  accomplished  that
+Manatta,  ask  the  Sa;;^gha  for  rehabilitation.'"
+
+[This  speech  is  repeated  three  times.]
+
+3.  '  Then  some  discreet  and  able  Bhikkhu  [&c.,
+as  before  in  chapter  i,  }  2,  the  rest  of  the  kamma-
+va/C'a  bearing  the  same  relation  to  the  petition  as  it
+does  there].'
+
+
+400  rULLAVAGGA.  Ill,  3,  r.
+
+
+3.
+
+1.  Now  at  that  time  the  venerable  Udayi  had
+committed  an  offence  —  the  first  Sa?;/ghadisesa —
+which  he  had  for  one  day  concealed.
+
+He  told  the  Bhikkhus  (&c.,  as  before).
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Then,  O  Bhikkhus,  let  the  Sawgha  impose  a
+probation  of  one  day  on  Udayi  the  Bhikkhu  for  an
+offence  (&c.,  as  in  the  first  paragraph  of  this  section
+down  to)  concealed.
+
+2.  '  Now  thus,  O  Bhikkhus,  ought  it  to  be  im-
+posed— .'
+
+[Here  follows  the  kammava/^a  precisely  as  in
+chapter  i,  §^  2  and  3,  with  the  necessary  changes  in
+the  wording,  a.  of  the  offence,  b.  of  the  penalty.]
+
+
+4.
+
+1.  When  he  had  passed  through  the  probation  he
+told  the  Bhikkhus,  saying,  '  I  committed,  friends,
+an  offence — the  first  Sa?;2ghadisesa — which  for  one
+day  I  concealed.  I  asked  the  Sawgha  to  impose
+upon  me  a  probation  of  one  day  for  the  offence  ....
+concealed.  The  Sawgha  imposed  ....  concealed.
+I  have  passed  through  that  probation.  What  now
+should  I  do  ? '
+
+They  told  this  thing  to  the  Blessed  One.
+'  Let  then  the  Sa;?/gha  impose  upon  Udayi  the
+Bhikkhu  a  Manatta  of  six  days'  duration.'
+
+2,  3.  [Here  follows  the  kammava/^a  as  In
+chapter  i,  §§  2,  3,  to  the  end.]
+
+
+in,  7,  I.       PROBATION  AND  TENANCE.  4O I
+
+
+5.
+
+1.  When  he  had  accompHshed  the  Manatta  he
+told  the  Bhikkhus,  saying,  '  I  committed  (&c.,  as  4.
+I,  down  to)  for  one  day  concealed.  I  asked,  &c.  .  .  .
+The  Sawgha  imposed  a  probation,  &c.  .  .  .  When  I
+passed  through  that  probation  the  Sawgha  imposed
+a  Manatta  of  &c.  ...  for  &c.  ...  I  have  accomplished
+that  Manatta.     What  now  shall  I  do  ?'
+
+They  told  that  matter  to  the  Blessed  One.
+*  Let  then  the  Sawgha,  O  Bhikkhus,  rehabilitate
+Udayi  the  Bhikkhu.'
+
+2,  3.  [Here  follows  the  kammava>C'a  as  in
+chapter  2,  J}  2,  3,  to  the  end.]
+
+
+6.
+
+[This  chapter  is  the  same  as  chapter  3,  reading
+'for  two — three — four — five  days  concealed,'  and
+'probation  of  two — three — four — five  days.']
+
+
+7.
+
+I.  Whilst  he  was  undergoing  that  probation,  he
+committed  an  offence — the  first,  &c. — which  he  did
+not  conceal.
+
+He  told  the  Bhikkhus,  saying,  '  I  committed,
+&c.  ...  I  asked  the  Sawgha,  Sec.  .  .  .  The  Sawgha
+imposed  upon  me  a  probation  of  two — three — four
+— five  days.  Whilst  I  was  undergoing  that  pro-
+bation, I  committed,  &c.  .  .  .'
+[17]  D  d
+
+
+402  A'ULLAVAGGA.  Ill,  7,
+
+
+They  told  that  matter  to  the  Blessed  One.
+
+'  Let  then  the  Sa;;2gha,  O  Bhikkhus,  throw  back
+Udayi  the  Bhikkhu  to  the  commencement  (of  his
+probationary  course).'
+
+2,  3.  [Here  follows  the  kammavaZ'a  as  in
+chapter  i,  with  the  necessary  alterations.]
+
+
+8.
+
+1.  When  he  had  undergone  that  probation,  and
+was  liable  to  the  Manatta,  he  committed  an  offence —
+the  first  Sa;;2ghadisesa — which  he  did  not  conceal.
+
+He  told  the  Bhikkhus,  saying,  &c.  .  .  .
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  Let  then  the  Sa;;/gha,  O  Bhikkhus,  throw  back
+Udayi  the  Bhikkhu  to  the  commencement  (of  his
+probationary  course).'
+
+2,  3.  [Here  follows  the  kammava/('a  in  the
+same  form  as  is  given  in  chapter  i.]
+
+
+9.
+
+1.  When   he  had  undergone   that  probation  he
+
+told,  &c.  .  .  .
+
+They  told,  &c.  .  .  .
+
+'  Let  then  the  Sa^^^gha,  O  Bhikkhus,  impose  upon
+Udayi  the  Bhikkhu  a  Manatta  of  six  days'  proba-
+tion for  these  offences.'
+
+2,  3.    [The  kammavaX-a  as  before.]
+
+
+10.
+
+I.  While  he  was  undergoing  that  Manatta  he
+
+
+TIT,  II,  I.      PRORATION  AND  PENANCE.  403
+
+
+o
+
+
+committed  an  offence  —  the  first  Sa;;/i>hadisesa —
+which  he  did  not  conceal.
+
+He  told  the  Bhikkhus,  saying,  '  I  committed,  &c.
+...  I  asked  the  Sawgha.  .  .  .  Hie  Sawgha  imposed
+[Szc,  going  through  all  that  had  happened,  down  to
+the  end  of  the  first  paragraph  in  this  chapter].
+
+They  told.  See.
+
+'  Let  then  the  Sa;;/gha,  O  Bhikkhus,  impose  upon
+Udayi  the  Bhikkhu  a  Manatta  of  six  days'  duration,
+throwing  him  back  to  the  commencement  (of  his
+Manatta).
+
+[The  kammava/'a  as  before.]
+
+
+11.
+
+I.  When  he  had  accomplished  that  Manatta,  and
+while  he  was  w^orthy  to  be  rehabilitated,  he  com-
+mitted an  offence — the  first  Sawfjhadisesa  offence —
+which  he  did  not  conceal.
+
+He  told  the  Bhikkhus  [all  that  had  happened  from
+chapter  6  onwards  down  to  this  last  offence].
+
+They  told,  &c.
+
+*  Let  then  the  Sawgha,  O  Bhikkhus,  impose  upon
+Udayi  the  Bhikkhu  a  Manatta  of  six  days'  duration,
+for  that  he  when  he  had  (Szc,  as  in  first  paragraph
+down  to)  not  conceal,  throwing  him  back  to  the
+commencement  (of  his  Manatta).
+
+*  Now  thus,  O  Bhikkhus,  [here  follows  the  kam-
+mava/('a  as  before.]
+
+
+D  d  2
+
+
+404  JiTULLAVAGGA.  Ill,  12,  i.
+
+
+12.
+
+I.  When  he  had  accomplished  that  Manatta  he
+told  the  Bhikkhus  [all  that  had  happened].
+
+They  told,  &c.
+
+*  Let  then  the  Sa;;2gha,  O  Bhikkhus,  rehabilitate
+Udayi  the  Bhikkhu.
+
+'Now  thus  [here  follows  the  kammava/^-a  as
+before].
+
+
+13.
+
+I.  Now  at  that  time  the  venerable  Udayi  com-
+mitted an  offence — the  first  Sa?;/ghadlsesa — and  for
+half  a  month  he  concealed  it.
+
+[The  rest  of  this  chapter  is  precisely  the  same  as
+chapter  3,  reading  '  for  half  a  month '  instead  of  *  for
+one  day.']
+
+
+14.
+
+I.  Whilst  he  was  undergoing  that  probation  he
+committed  an  offence  —  the  first  Sa/;2ghadlsesa  —
+which  for  five  days  he  concealed.
+
+He  told,  &c.  ...  *  I  committed,  &c.  ...  I  asked,
+&c.  .  .  .  The  Sa;;2gha  imposed  a  probation  of  half  a
+month,  &c.  .  .  .  Whilst  I  was  undergoing,  &c.  .  .  .
+What  now  shall  I  do  ?'
+
+They  told,  &c.
+
+*  Let  then  the  Sa;;/gha,  O  Bhikkhus,  for  that  whilst
+(&c.,  as  in  the  first  paragraph)  throw  Udayi  the
+Bhikkhu  back  to  the  beginning  of  his  probationary
+
+
+Ill,  15,  r.  PROBATION   AND    PENANCE.  405
+
+term,  and  impose  upon  him  an  inclusive  proba-
+tion (to  include  his  new  offence  together)  with  the
+former  offence  ^
+
+*  Now  thus,  O  Bhikkhus,  [here  follow  two
+kammava/('as,  one  for  the  throwing  back,  and  one
+for  the  additional  probation,  each  of  them  as  in
+chapter  i.]'
+
+
+15.
+
+I.  When  he  had  undergone  that  probation,  and
+while  he  was  liable  to  the  Manatta,  he  committed
+an  offence — the  first  Sawghadisesa — which  for  five
+days  he  concealed.
+
+He  told,  &c.  . . .  [all  that  happened,  from  chapter  13
+downwards].
+
+They  told,  &c.
+
+'  Let  then  the  Sawgha,  O  Bhikkhus,  for  that  he
+when  he  had  (&c.,  as  in  the  first  paragraph)  throw
+Udayi  the  Bhikkhu  back  to  the  commencement  of
+
+
+^  Samodhana-parivasa.  It  is  clear  from  the  next  chapter  that
+this  probation  did  not  affect  the  IManatta  to  ^vhich  he  was  Hable
+for  that  first  offence.  The  Manatta  ahvays  lasted  six  days,  and
+was  preceded  by  a  probation  equal  in  length  to  the  time  during
+which  the  offence  had  been  concealed.  If  now,  during  that  proba-
+tion, another  offence  was  committed  and  concealed,  the  penalties
+for  this  new  offence  and  for  the  old  one  were  not  accumulative  but
+concurrent.  The  offender  lost  the  advantage  of  the  probation  he
+had  already  undergone,  he  was  thrown  back  to  the  commencement
+of  his  term  of  probation,  and  had  to  begin  again.  But  the  new
+term  of  probation — equal  in  length  to  whichever  was  the  longest
+of  the  two  periods  during  which  he  had  concealed  the  two  offences —
+satisfied  both  the  concealments,  and  the  IManatta  which  still,  as  it
+would  have  done  before,  followed  at  the  end  of  the  probation,
+satisfied  both  the  offences.     See  our  note  below  on  chapter  20.
+
+
+406  A'ULLAVAGGA.  Ill,  i6,  i.
+
+
+his  probationary  term,  and  impose  upon  him  an
+inclusive  probation  (for  this  and)  for  the  former
+offence.
+
+'  Now   thus,  O  Bhikkhus,  [here  follow  two  kam-
+mava/'as,  as  in  the  last  chapter.]'
+
+
+16.
+
+I.  When  he  had  undergone  that  probation  he
+told  the  Bhikkhus,  &c.  [all  that  had  happened  since
+chapter  13].
+
+They  told,  &c.
+
+'  Let  then  the  Sawgha,  O  Bhikkhus,  impose  upon
+Udayi  the  Bhikkhu  a  Manatta  of  six  days'  duration
+for  these  offences  \
+
+'Now  thus,  O  Bhikkhus,  [here  follows  one  kam-
+mava/'a  in  the  form  given  in  chapter  i.]'
+
+
+17.
+
+I.  While  he  was  undergoing  that  Manatta  he
+committed  an  offence  —  the  first  Sawehadisesa —
+which  he  for  four  days  concealed.
+
+He  told,  &c.  .  .  .  [all  that  had  happened,  from
+chapter  13  downwards].
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  Let  then  the  Sa;;/gha,  O  Bhikkhus,  for  that  while
+(&c.,  as  in  the  first  paragraph)  throw  Udayi  the
+Bhikkhu  back  to  the  commencement  (of  the  proba-
+tionary term  he  had  already  undergone),  and  impose
+
+
+^  As  in  chapter  9.
+
+
+Ill,  19,  I.       rUOBATION  AND  PENANCE.  4O7
+
+Upon  him  an  inclusive  probation  (for  this  and)
+for  the  first  offence,  and  also  a  Manatta  of  six  days'
+duration.
+
+'  Now  thus,  O  Bhikkhus,  [here  follow  three
+kamniavayC'as,  one  for  the  throwing  back,  one  for
+the  inclusive  probation,  and  one  for  the  new  Mfi-
+natta,  each  of  them  on  the  same  form  as  that  given
+in  chapter  i.]'
+
+
+18.
+
+I.  When  he  had  accomplished  that  Manatta,  and
+while  he  was  worthy  to  be  rehabilitated,  he  com-
+mitted an  offence — the  first  Sawghadisesa — which
+for  five  days  he  concealed.
+
+He  told,  &c.  [all  that  happened,  from  chapter  13
+downwards].
+
+They  told  this  matter  to  the  Blessed  One.
+
+'  Let  then  the  Sa;;2gha,  O  Bhikkhus,  for  that  when
+he  had  (&c.,  as  in  the  first  paragraph)  throw  Udayi
+the  Bhikkhu  back  to  the  commencement  (of  the
+probationary  term  he  had  already  undergone)  and
+impose  upon  him  an  inclusive  probation  for  this
+and  for  the  first  offence,  and  a  Manatta  of  six  days'
+duration.
+
+'  Now  thus,  &c.  .  .  .  [Here  follow  three  kamma-
+va/6as  as  in  chapter  17.]'
+
+
+19.
+
+I.  When  he  had  accomplished  the  Manatta  he
+told  the  Bhikkhus  [all  that  happened,  from  chapter  1 3
+downwards].
+
+
+408  JTULLAVAGGA.  Ill,  19,  i.
+
+They  told  this  matter  to  the  Blessed  One.
+
+*  Let  then  the  Sawgha  rehabilitate  Udayi  the
+Bhikkhu.
+
+'  Now  thus,  O  Bhikkhus,  [here  follows  the
+kammava/t'a  as  in  chapter  5.]'
+
+
+Here  end  the  proceedings  on  the  breach  of  the
+first  Sa^/ghadisesa.
+
+
+ITT,  20,  I.      PROBATION  AND  PENANCE.  409
+
+
+20.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  had  com-
+mitted numerous  Sawghadisesa  offences,  one  of
+which  he  had  concealed  for  one  day,  one  for  two
+days,  one  for  three  days,  [and  so  on  down  to]  and
+one  for  ten  days.
+
+He  told  the  Bhikkhus,  saying,  '  I  have  committed,
+(&c.,  as  before,  down  to)  and  one  for  ten  days.  What
+now  shall  I  do  ?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Let  then  the  Sa;;^gha,  O  Bhikkhus,  impose  upon
+that  Bhikkhu  an  inclusive  probation  according  to
+one  of  those  offences  which  has  been  concealed  for
+ten  days\'
+
+'  Now  thus,  O  Bhikkhus,  ought  it  to  be  imposed.'
+
+
+^  From  this  and  what  follows  it  is  clear  that  however  many  are
+the  offences,  and  however  various  the  periods  of  concealment,  the
+probation  is  only  to  last  for  the  same  period  as  the  longest  of  the
+concealments  has  lasted.  Thus  the  Samanta  Pasadika  says  here  :
+agghasamodhano  nama  sambahulasu  apattisu  ya  eka  va  dve  va
+tisso  va  sambahula  va  apattiyo  sabba-^'irapa/iH-^annayo  tasa;;;  ag-
+ghena  samodhaya  tasar«  rattipariK7/edavascna  avasesanaw  iinatara-
+paZ/X'-i'/^annanawi  apattina/^z  parivaso  diyyati.  Yassa  pana  sa.tam
+apattiyo  dasahapa//X'/('/^anna,  apara;;^  pi  S3.tam  apattiyo  dasilha-
+pa///^'/i7ianna  ti,  evam  dasakkhaltuwz  katva  apattisahassaw  divasasata-
+pa//X'/(7/annaw  hoti,  tena  ki;«  katabban  ti  ?  Sabbaw  samodhapetva
+dasa  divase  parivasitabba?^,  evaw  eken'  eva  dasahena  divasasata^
+pi  parivasitam  eva  hoti.     Vuttaw  pi  /(■'  etaw  :
+
+dasasataw  rattisata;«  apattiyo  /7/adayitvana
+dasarattiyo  vasitvana  mu/^/i'cyya  parivasiko.
+
+
+4IO  A'ULLAVAGGA.  Ill,  21,  i.
+
+
+[Here  follows  the  kammava/^-a   in  the  form  given
+at  chapter  i,  §§  2,  3,  to  the  end.]
+
+
+21.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  had  com-
+mitted numerous  Sa?;2ghadisesa  offences,  one  of
+which  he  had  concealed  for  one  day,  two  for  two
+days,  three  for  three  days,  [and  so  on  down  to]  and
+ten  for  ten  days.
+
+He  told,  &c.
+
+They  told,  &c.
+
+*  Let  then  the  Sawgha,  O  Bhikkhus,  impose  upon
+that  Bhikkhu  an  inclusive  probation  equal  in  duration
+to  the  lonoest  time  durinof  which  he  has  concealed
+any  one  or  more  of  those  offences  \'
+
+[Then  follows  the  kammavaZ-a  as  before.]
+
+
+22.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  had  com-
+mitted two  Sa7;2ghadisesa  offences  which  he  had
+concealed  for  two  months.  And  it  occurred  to  him,
+'  Lo !  I  have  committed  two  Sa;;^ghadisesa  offences
+which  I  have  concealed  for  two  months.  Let  me
+now  ask  the  Sa?;2gha  for  a  probation  of  two  months
+for  one  offence  concealed  for  two  months.'  And  he
+asked  the  Sa?;/gha  for  a  probation  of  two  months  for
+
+^  Literally,  '  according  to  the  value  of  whichever  offences  among
+those  offences  have  been  the  longest  concealed.'
+
+
+111,23,1.       PROBATION  AND  TENANCE.  4II
+
+one  offence  concealed  for  two  months.  And  the
+Sawgha  imposed  upon  hun  a  probation  (&c.,  as
+before,  down  to)  for  two  months.  Whilst  he  was
+undergoing  that  probation,  shame  overcame  him  in
+that  he  thought,  '  I  have  committed,  &c.  ...  And
+it  occurred  to  me,  &c.  .  .  .  And  I  asked,  &c.  .  .  .
+And  the  Sawgha  imposed  ....  And  whilst  I  was
+undergoing  ....  (&c.,  as  before,  down  to)  for  two
+months.'
+
+'  Let  me  now  ask  the  Sa;;^gha  for  a  probation  of
+two  months  for  the  other  offence  concealed  for  two
+months.'
+
+2.  He  told  the  Bhikkhus  [all  that  had  happened].
+They  told  this  thing  to  the  Blessed  One.
+
+3.  '  Let  then  the  Sawgha,  O  Bhikkhus,  impose
+upon  that  Bhikkhu  a  probation  of  two  months  for
+that  other  offence  concealed  for  two  months.'
+
+[Here  follows  the  kammava/C'a  as  before.]
+'  Then  that  Bhikkhu,  O  Bhikkhus,  should  undergo
+probation  for  two  months  from  that  date\'
+
+
+23.
+
+I.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  have
+committed  two  Sawghadisesa  offences  [&c.,  as  be-
+fore, in  the  first  paragraph  of  the  last  chapter  down
+to  the  end].  And  he  asks  the  Sawgha  for  a  pro-
+bation of  two  months  for  that  other  offence  concealed
+for  two  months.  And  the  Sawgha  imposes  upon
+him  a  probation  of  two  months  for  that  other  offence
+
+^  Tadupaddya;  see  chapters  23.  i  and  2,  24.  3.
+
+
+412  X-ULLAVAGGA.  HI,  23,  2.
+
+concealed  for  two  months^  That  Bhikkhu,  O  Bhik-
+khus,  ought  to  continue  on  probation  for  two  months
+from  that  date.
+
+2.  *  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  have
+committed  two  Sa;;^ghadisesa  offences,  which  he  has
+concealed  for  two  months.  And  he  is  aware  of  one
+offence,  but  of  the  other  offence  he  is  not  aware.
+And  he  asks  the  Sa;;/gha  for  a  two  months'  pro-
+bation for  that  offence  of  which  he  is  aware,  con-
+cealed for  two  months.  And  the  Sa^ngha.  gives  him
+a  probation  of  two  months  for  an  offence  concealed
+for  two  months.  And  whilst  he  is  undergoing  that
+probation  he  becomes  aware  of  the  other  offence.
+Then  it  occurs  to  him,
+
+' "  Lo !  I  have  committed  two  Sai^^ghadisesa
+offences  (&c.,  as  in  the  last  paragraph,  down  to)  I
+became  aware  of  the  other  offence.  Let  me  now
+ask  the  Sa?;2gha  for  a  probation  of  two  months  for
+that  other  offence  concealed  for  two  months."
+
+*  And  he  asks  the  Sa?;^gha  for  a  probation  of
+two  months  for  that  other  offence  concealed  for  two
+months.  And  the  Samgha  imposes  upon  him  a
+probation  of  &c.  ...  for  &c.  .  .  .  That  Bhikkhu,
+O  Bhikkhus,  ought  to  continue  on  probation  for  two
+months  from  that  date.
+
+3.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  commit
+two  Sa;;^ghadisesa  offences,  which  he  conceals  for
+two  months ;  and  one  offence  he  recollects,  but  the
+other  offence  he  does  not  recollect.  And  he  asks
+the  Samgha.  (&c.,  as  in  the  last  section,  down  to  the
+end,  reading  "recollect"  for  "be  aware  of").
+
+
+^  This  is  merely  repeated  to  lay  a  basis  for  the  following  varia-
+tions.   See  below,  chapter  25.
+
+
+111,23,5-  PROBATION    AND    TENANCE.  4T3
+
+4.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  commit
+two  Sawghadisesa  offences,  which  he  conceals  for
+two  months  ;  and  of  one  offence  he  is  not  doubtful',
+but  of  the  other  offence  he  is  doubtful.  And  he
+asks  the  Sa7;^gha  (&c.,  as  in  the  last  section,  reading
+"is  doubtful"  for  "  does  not  recollect").
+
+5.  '  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  commit
+two  Sawghadisesa  offences,  which  he  conceals  for
+two  months ;  and  one  offence  he  conceals  wittingly,
+but  the  other  offence  he  conceals  unwittingly.  And
+he  asks  the  Sa;;/gha  for  a  probation  of  two  months
+for  those  two  offences  concealed  for  two  months.
+And  the  Sawgha  Imposes  upon  him  a  probation  of
+two  months  for  those  two  offences  concealed  for  two
+months.  And  whilst  he  is  undergoing  that  probation
+there  arrives  a  Bhikkhu  who  is  versed  in  the  tradi-
+tions, acquainted  with  the  tradition,  a  custodian  of
+the  Dhamma,  of  the  Vinaya,  and  of  the  Matikas^,
+clever,  discreet,  wise,  modest,  sensitive,  willing  to
+learn.     And  he  speaks  thus  :
+
+' "  What  has  this  Bhikkhu,  O  friends,  been  guilty
+of,  and  why  is  he  on  probation  ?"
+
+'  And  they  reply :  "  This  Bhikkhu,  O  friend,  has
+committed  two  Sawghadisesa  offences,  which  he
+concealed  for  two  months ;  and  one  offence  he  con-
+cealed wittingly,  and  one  offence  he  concealed  un-
+wittingly. He  asked  the  Sa7;/gha  for  a  probation  of
+two  months  for  those  two  offences  concealed  for  two
+months.  And  the  Sawgha  imposed  upon  him  a
+probation  of  two  months  for  those  two  offences  con-
+
+^  In  chapter  34,  §  i,  di////i,  instead  of  nibbematiko,  is  put
+in  opposition  to  vematiko.
+
+^  See  our  note  above,  on  Mahavagga  II,  21,  2,  and  compare
+VII,  1,7;  VIII,  32, 1 ;  X,  I,  2  ;  A'ullavagga  I,  1 1,  i.
+
+
+414  A'ULLAVAGGA.  111,23,6.
+
+
+cealed  for  two  months.  Therein,  O  friend,  is  this
+Bhikkhu  guilty,  and  therefore  is  he  on  probation."
+
+'  And  he  rejoins  :  "  The  offence  which  he  wittingly
+concealed,  O  friends,  for  that  the  imposition  of  a
+probation  is  valid,  and  by  reason  of  its  validity  it
+takes  effect ^  But  the  offence  which  he  unwittingly
+concealed,  O  friends,  for  that  the  Imposition  of  a
+probation  is  invalid,  and  by  reason  of  its  invalidity
+it  does  not  take  effect.  For  this  offence,  O  friends,
+the  Bhikkhu  Is  liable  to  a  Manatta."
+
+6.  'In  case,  O  Bhikkhus,  a  Bhikkhu  commit  tw^o
+Sa;;/ghadisesa  offences,  which  he  conceals  for  two
+months.  And  one  offence  he  conceals  recollectlnp-
+it,  but  the  other  offence  he  conceals  without  recol-
+lectlno^  It'
+
+[Here  follow  the  same  remarks  as  in  the  last
+section,  down  to  the  end,  reading  *  recollecting  it '  for
+*  wittingly.']
+
+
+24.
+
+I.  Now  at  that  time  a  certain  Bhikkhu  committed
+two  Sa?;^ghddisesa  offences  which  he  concealed  for
+two  months.  And  It  occurred  to  him,  '  Lo !  I  have
+committed,  &c.  ...  for  two  months.  Let  me  now
+ask  the  Sa;;^gha  for  a  probation  of  one  month  for
+&c.  .  .  .'  He  asked  the  Sa7;^gha  for  a  probation  of
+one  month  for  &c.  .  .  .  The  Sa7;^gha  imposed  upon
+him  a  probation  of  one  month  for  &c.  .  .  .  Whilst  he
+was  undergoing  that  probation,  shame  (for  the  way
+
+
+^  This  expression  recurs   below,  chaps.  25,  27,  &c.     Compare
+the  use  of  ruhati  at  Mahavagga  VI,  14,  5.
+
+
+111,25,1.  PROBATION    AND    TENANCE.  415
+
+in  which  he  had  acted)  overcame  him.  '  Let  me  now
+ask  the  Sawgha  for  a  (furtlier)  probation  of  one
+month  for  the  two  Sawghadisesa  offences  concealed
+for  two  months.'
+
+2.  He  told  the  Bhikkhus  [all  that  had  happened,
+in  the  words  of  ^  i,  and  asked  them],  'What  now
+shall   I  do?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+3.  '  Let  then  the  Sa;;/gha,  O  Bhikkhus,  impose
+upon  that  Bhikkhu  a  probation  for  a  further  month
+for  those  two  Sa;;/ohadisesa  offences  concealed  for
+two  months.'
+
+[Here  follows  the  kammava/{'a  in  the  form
+given  in  chapter  i,  §§  2,  3.]
+
+'  Thus  that  Bhikkhu,  O  Bhikkhus,  should  undergo
+probation  for  two  months  from  that  date\'
+
+
+25.
+
+I.  'hi  case,  O  Bhikkhus,  a  Bhikkhu  commit  two
+Sa;«ghadisesa  offences  which  he  conceals  for  two
+months.  And  it  occurs  to  him  {&c.,  as  in  last
+chapter).  .  .  .  And  he  asks  ....  And  the  Sawgha
+imposes  ....  And  whilst  he  is  undergoing  that  pro-
+bation, shame  (&c.)  overcomes  him,  &c.  .  .  .  And  he
+asks  the  Sawgha  for  a  probation  of  a  further  month
+for  those  two  Sa7;/u:hadisesa  offences  concealed  for
+two  months.  And  the  Sa7;/gha  imposes  upon  him
+a  further  probation,  &c.  .  .  .  Then,  O  Bhikkhus,  that
+Bhikkhu  should  from  that  date  undergo  that  further
+
+^  See  above,  chap.  22.  3.
+
+
+41 6  iTULLAVAGGA.  Ill,  25,  2.
+
+probation  of  one  month  for  those  two  Sa?;/ghadisesa
+offences  concealed  for  two  months  \
+
+2,  3.  *  Now  in  case,  O  Bhikkhus,  a  Bhikkhu  have
+committed  two  Sa7;2ghadisesa  offences,  which  he  con-
+ceals for  two  months.  And  of  one  month  he  is  aware,
+but  of  the  other  month  he  is  not  aware  ....  one
+month  he  recollects,  but  the  other  month  he  does
+not  recollect  ....  one  month  he  wittingly  conceals,
+but  the  other  month  he  unwittingly  conceals.'
+
+[This  chapter  is  word  for  word  the  same  as  chapter
+23,  reading  'month'  for  'offence.']
+
+
+26.
+
+1.  Now  at  that  time  a  certain  Bhikkhu  had  com-
+mitted numerous  Sa;;2ghadisesa  offences  ;  but  he  was
+not  aware  of  the  degree  of  the  offences  2,  and  was
+not  aware  of  the  duration  of  the  times  ^;  or  he  did
+not  recollect  the  degree  of  the  offences,  and  did  not
+recollect  the  duration  of  the  times  ;  or  he  was  un-
+certain as  to  the  degree  of  the  offences,  and  was
+uncertain  as  to  the  duration  of  the  times.
+
+He  told  the  Bhikkhus,  saying, '  I  have  committed,
+&c.  .  .  .  but  I  am  not  aware,  &c.  ...  I  do  not  recol-
+lect, &c.  ...  I  am  uncertain,  &c.  .  .  .  What  now  shall
+I  do?'
+
+They  told  this  thing  to  the  Blessed  One.
+
+'  Then  let  the  Sawgha,  O  Bhikkhus,  impose  upon
+that  Bhikkhu   a  probation  of  complete    purifi-
+
+^  This  repetition  of  the  last  chapter  is  again  only  to  afford
+a  basis  for  the  succeeding  variations,  as  above,  in  chap.  23.
+
+^  That  these  are  plurals,  and  not  singulars,  is  clear  from  §  3,
+below.
+
+
+111,26,3.       PROBATION  AND  TENANCE.  417
+
+cation  (that  is  to  say,  a  probation  for  as  many  days
+as  have  elapsed  since  the  date  of  his  upasampada)^
+
+2. '  Now  thus,  O  Bhikkhus,  should  it  be  imposed.'. . .
+
+[Here  follows  the  kammava/('a  in  the  same  form
+as  is  given  in  chapter  i.]
+
+3.  '  In  the  following-  cases,  O  Bhikkhus,  is  the
+probation  of  complete  purihcation  to  be  imposed ;
+and  in  the  following  cases  is  the  (ordinary)  probation
+to  be  imposed.  Now  in  what  cases  is  the  probation
+of  complete  purification  to  be  imposed  ?  When  he
+is  not  aware  of  the  degree  of  the  offences,  nor  of  the
+duration  of  the  times  ;  when  he  does  not  recollect  the
+degree  of  the  offences,  nor  the  duration  of  the  times  ;
+and  when  he  is  not  certain  as  to  the  deo^ree  of  the
+offences,  nor  as  to  the  duration  of  the  times — then  is
+the  probation  of  complete  purification  to  be  imposed.
+
+'  When  he  is  aware  of  the  degree  of  the  offences,
+but  not  of  the  duration  of  the  times ;  when  he  does
+recollect  the  degree  of  the  offences,  but  not  the  dura-
+tion of  the  times  ;  when  he  is  certain  as  to  the  degree
+of  the  offences,  but  not  as  to  the  duration  of  the
+times — then  is  the  probation  of  complete  purification
+to  be  imposed.
+
+'When  he  is  aware  ....  recollects  ....  is  certain  ....
+of  the  degree  of  some,  but  not  of  others  of  the
+offences,  and  is  not  aware  of ...  .  does  not  recol-
+lect ....  is  not  certain  of  the  duration  of  the  times " —
+then  &c.
+
+'  When  he  is  not  aware  ....  does  not  recollect ....
+
+^  Suddhanta-parivaso.  The  Samanta  Pasadika  says,  Ta»/
+gahetva  gahita-divasato  yava  upasampada-divaso  tava  ratiiyo  ga-
+wetva  parivasitabbaw.
+
+^  This  and  the  following  sentences  are  given  in  the  text  in  full,
+as  in  the  last  paragraph.
+
+[17.]  E  e
+
+
+41 8  irULLAVAGGA.  HI,  26,  4.
+
+
+is  not  certain  ....  of  the  degree  of  the  offences,  and
+is  aware  ....  recollects  ....  is  certain  ....  of  the  times
+of  some,  but  not  of  the  times  of  the  others — then,  &c.
+
+*  When  he  is  aware  ....  recollects ....  is  certain  of
+the  deeree  of  the  offences,  and  is  aware  ....  recol-
+lects  ....  is  certain  of  the  times  of  some,  but  not  of
+the  times  of  others — then,  &c.
+
+*  When  he  is  aware  ....  recollects  ....  is  certain  of
+the  degrees  of  some  of  the  offences,  but  not  of  others  ;
+
+and  is  aware recollects is  certain  of  the  times
+
+of  some,  but  not  of  the  times  of  others — then,  &c.
+
+*  In  these  cases,  O  Bhikkhus,  is  the  probation  of
+complete  purification  to  be  imposed.
+
+4.  '  And  in  what  cases,  O  Bhikkhus,  is  the  (ordi-
+nary) probation  to  be  imposed  ?  When  he  is  aware
+....  recollects  ....  is  certain  of  the  degree  of  the
+offences,  but  is  not  aware ....  does  not  recollect  ....
+is  not  certain  of  the  duration  of  the  times — then  is
+the  (ordinary)  probation  to  be  imposed.
+
+'  When  he  is  not  aware  ....  does  not  recollect ....
+is  not  certain  of  the  degree  of  the  offences,  but  is
+aware  ....  recollects  ....  is  certain  of  the  duration  of
+the  times — then  &c.  .  .  .
+
+'  When  he  is  aware  ....  recollects  ....  is  certain  of
+the  degree  of  some  of  the  offences,  but  not  of  others  ;
+and  is  aware recollects  ....  is  certain  of  the  dura-
+tion of  the  times — then  &c.  .  .  .
+
+'  In  these  cases,  O  Bhikkhus,  is  the  (ordinary)
+probation  to  be  imposed  \'
+
+
+Here  ends  the  probation.
+
+
+^  That  is  to  say,  shortly;  if  the  guilty  Bhikkhu  can  determine
+the  time  during  which  the  offence  has  been  concealed  (on  which
+the  length  of  the  probation  depends),  then  he  is  to  undergo  the
+
+
+111,27,1.       TROBATION  AND  PENANCE.  419
+
+
+27.
+
+I.  Now  at  that  time  a  certain  Bliikkhii,  whilst  he
+was  under  probation,  threw  off  the  robes.  After-
+wards he  came  back  again,  and  asked  the  Bhikkhus
+for  iipasampada.  They  told  this  thing  to  the
+Blessed  One.
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu  throws  off  the
+robes  whilst  he  is  under  probation,  there  can  follow
+no  probation  to  him,  O  Bhikkhus,  so  long  as  he  is
+out  of  the  Order.  If  he  afterwards  receive  the
+upasampada,  the  original  probation  (previously
+imposed  upon  him,  still  remains  obligatory)  upon
+him.  A  probation  once  imposed,  is  imposed  for
+good ;  a  probation  once  undergone,  is  undergone
+for  good ;  if  any  (portion  of  the  time)  remain  over,
+the  probation  must  be  again  undergone  (from  the
+beginning).
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu,  whilst  he  is
+undergoing  probation,  becomes  a  Sam  a  ;^  era.  There
+can  happen  no  probation  to  him,  O  Bhikkhus,  so  long
+as  he  is  a  Sama;^era.  If  he  afterwards  receives
+the  upasampada  (&c.,  as  in  the  last  paragraph,
+down  to  the  end).
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu,  whilst  he  is
+undergoing  probation,  goes  out  of  his  mind  ....  be-
+comes weak  in  his  mind  ....  diseased  in  his  sensa-
+tions ....  is  suspended  for  not  acknowledging  an
+
+corresponding  probation.  If  not,  he  is  to  undergo  the  so-called
+*  probation  of  complete  purification,'  which,  as  it  is  computed  from
+the  date  of  his  ordination,  is  quite  certain  to  be  as  long  as  the
+time  of  the  longest  concealment  of  any  offence.
+
+E  e  2
+
+
+420  iTULLAVAGGA.  HI,  27,  2.
+
+offence  ....  for  not  atoning  for  an  offence  ....  for  not
+recanting  a  sinful  doctrine^ — there  can  happen  no
+probation  to  him,  O  Bhikkhus,  so  long  as  he  is  out
+of  his  mind  ....  weak  in  his  mind  ....  suspended,  &c.
+If  he  afterwards  becomes  not  out  of  his  mind  ....
+becomes  not  weak  in  his  mind  ....  is  restored  from
+the  suspension,  the  original  probation  is  still  obli-
+gatory upon  him.  A  probation  once  imposed  (&c,,
+as  in  the  first  paragraph,  down  to  the  end).
+
+2.  '  In  case,  O  Bhikkhus,  a  Bhikkhu,  whilst  he  is
+liable  to  be  thrown  back  to  the  commencement  of
+his  probation,  throws  off  the  robes  (&c.,  as  in  all  the
+paragraphs  of  section  i,  reading  "  liable  to  be  thrown
+back,"  for  "undergoing  probation").'
+
+3.  [The  same  for  a  Bhikkhu  who  throws  off  the
+robes,  or  becomes  any  of  the  seven  things  specified,
+whilst  he  is  liable  to  be  subjected  to  the  Manatta
+discipline ;
+
+4.  Or  is  undergoing  the  Manatta  discipline;
+
+5.  Or  is  fit  to  be  rehabilitated.]
+
+
+Here  end  the  forty  ^  cases  (of  interruption  to  a  major
+
+disciplinary  proceeding  from  a  change  of  state
+
+in  the  person  undergoing  that  discipline).
+
+
+28.
+
+I.   *  In    case,  O    Bhikkhus,   whilst   a   Bhikkhu    is
+undergoing  probation,  he  commit  numerous  Sa;;/gha-
+
+^  The  text  has  a  separate  paragraph  for  each  of  these  cases.
+^  That  is,  on  any  of  the  above  eight  events  occurring  in  any  of
+the  above  five  cases.
+
+
+in,  28,  2.  PROBATION    AND    PENANCE.  42 1
+
+
+disesa  offences,  definite  \  but  not  concealed,  that
+Bhikkhu  is  to  be  thrown  back  to  the  commencement
+of  his  probation.
+
+2.  'In  case,  O  Bhikkhus,  whilst  a  Bhikkhu  is  under-
+going probation,  he  commit  numerous  Sawghddisesa
+offences,  definite,  and  concealed,  that  Bhikkhu  is  to
+be  thrown  back  to  the  commencement  of  his  proba-
+tion, and  an  inclusive  probation  is  to  be  imposed
+upon  him  according  to  the  duration  of  time  since
+the  first  of  the  offences  which  he  has  thus  con-
+cealed.
+
+'  In  case,  O  Bhikkhus,  whilst  a  Bhikkhu  is  under-
+going probation,  he  commit  numerous  Sa;;^ghadisesa
+offences,  erievous,  and  some  of  them  concealed,  some
+of  them  not  concealed,  that  Bhikkhu  must  (as  in  the
+last  paragraph  to  the  end).
+
+'  In  case,  O  Bhikkhus,  whilst  a  Bhikkhu  is  under-
+going probation,  he  commit  numerous  Sawghadlsesa
+offences,  not  definite,  and  not  concealed not  defi-
+nite, and  concealed- ....  not  grievous,  and  some  of
+them  concealed,  others  not  concealed  ....  some  defi-
+nite, and  some  not  definite  and  not  concealed  ....
+some  definite,  and  some  not  definite  and  (all)  con-
+cealed   some  definite,  and  some  not  definite,  some
+
+concealed,  some  not  concealed — then  that  Bhikkhu  is
+to  be  thrown  back,  and  an  inclusive  probation  Is  to
+be  imposed  upon  him,  according  to  the  duration  of
+
+
+^  Parima;7a,  the  meaning  of  which  is  open  to  much  doubt.
+The  Samanta  Pasadika  merely  says,  Antara  sambahula  apattiyo
+apa^^ati  parimawa  pa/i/t/(7/annayo  ti  adisu  apatti-pariH'//eda-
+vase  parimawayo  k'  eva  appa/iH7/annayo  ki  'ti  attho.  The  only  con-
+clusion to  be  drawn  from  this  is  that  the  word  is  ace.  fern,  plur.,
+and  not  an  adverb.     Compare  chap,  33,  below.
+
+2  The  text  has  a  full  paragraph  for  each  of  these  cases.
+
+
+42  2  rULLAVAGGA.  HI,  29,  i.
+
+the  time  since  the  first  of  the  offences  which  he  had
+concealed.'
+
+[The  same  if  the  offences  are  committed  whilst
+he  is  liable  to  the  Manatta  discipline,  or  under-
+going the  Manatta  discipline,  or  pending  his  re-
+habilitation.]
+
+Here  end  the  thirty-six  cases  (of  fresh  offences  being
+committed  whilst  under  probation)  ^
+
+
+29.
+
+I.  'In  case,  O  Bhikkhus,  a  Bhikkhu  who  has
+committed  numerous  Sawghadisesa  offences,  but  has
+not  concealed  them,  throw  off  the  robes,  and  he,
+having  afterwards  again  received  the  upasampada,
+does  not  conceal  them.  A  Manatta,  O  Bhikkhus,
+is  to  be  imposed  upon  that  Bhikkhu.
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu  (&:c.,  as  before,
+down  to)  throw  off  the  robes,  and  he,  having  after-
+wards again  received  the  upasampada,  does  conceal
+them, — on  that  Bhikkhu,  O  Bhikkhus,  a  probation  is
+to  be  imposed  according  to  the  duration  of  the  time
+during  which  he  has  concealed  any  offence  in  the
+batch  of  offences  thus  afterwards  concealed^;  and
+after  that  a  Manatta  is  to  be  imposed.
+
+^  This  chapter  is  repeated  below,  chap.  33,  for  the  cases  in  which
+a  new  ordination  has  followed  after  the  offences  have  been  com-
+mitted.
+
+^  The  Samanta  Pasadika  says,  'Pa.kk/iirmsmi7?t  apattik-
+khandhe  ti  eko  'va  so  apattikkhandho,  pa/i/^Maditatta  pana
+paX'/^/nmasmiw  apattikkhandhe  ti  vuttaw.  Purimasminti  etthapi
+es'  eva  nayo.
+
+
+111,29,2.       PROBATION  AND  TENANCE.  423
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu  who  has  com-
+mitted numerous  Sawghadisesa  offences,  and  has
+concealed  them,  throw  off  the  robes,  and  he,  after
+having  again  received  the  upasampada,  does  not
+conceal  them, — on  that  Bhikkhu,  O  Bhikkhus,  a  pro-
+bation is  to  be  imposed  according  to  the  duration  of
+the  time  during  which  he  has  concealed  any  offence
+in  the  batch  of  offences  thus  previously  concealed  ^ ;
+and  after  that  a  Manatta  is  to  be  imposed  upon
+him.
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu  who  has  com-
+mitted numerous  Sawghadisesa  offences,  and  has
+concealed  them,  throw  off  the  robes,  and,  after  again
+receiving  the  upasampada,  he  does  conceal  them,
+— on  that  Bhikkhu,  O  Bhikkhus,  a  probation  is  to  be
+imposed  corresponding  to  the  duration  of  the  time
+during  which  he  has  concealed  any  offence  either  in
+the  first  or  in  the  batch  of  offences  thus  afterwards
+concealed;  and  after  that  a  Manatta  is  to  be  im-
+posed upon  him.
+
+^2.  '[In  case,  O  Bhikkhus,  a  Bhikkhu  have  com-
+
+^  See  the  close  of  the  last  note.
+
+^  This  section  should  correspond  to  chap.  31,  section  2,  but  as
+noted  by  H.  O.  in  his  edition  of  the  text,  p.  312,  there  is  very
+great  confusion  in  the  jNISS.  We  ought  to  have  four  cases  of
+which  the  distinctions  are  as  under.     Those  offences
+
+(  concealed  before        are  afterwards  not  concealed  1     +
+1  not  concealed  before  ,,         not
+
+concealed  before  „
+
+
+}
+
+
+not  concealed  before  „
+
+r  concealed  before  „
+
+^  \  not  concealed  before  „
+
+f  concealed  before  „
+
+'^  (  not  concealed  before  „
+
+All  these  four  cases  are  required  to  make  up  the  one  hundred
+
+
+not
+
+}
+
++     -
+
+concealed
+
+-    +
+
+concealed
+
+}
+
++     +
+
+not  concealed
+
+—     —
+
+concealed
+
+}
+
++     +
+
+concealed
+
+-     +
+
+4*24  X-ULLAVAGGA.  Ill,  29,
+
+
+o*
+
+
+mitted  numerous  Sa?;/ghadisesa  offences,  and  some
+of  his  offences  have  been  concealed,  and  some  not
+concealed  ;  and  he,  having  thrown  off  the  robes,  and
+again  received  the  upasampada,  does  not  after-
+wards conceal  those  offences  w^hich  he  had  previously
+concealed,  and  does  not  afterwards  conceal  those
+offences  which  previously  he  had  not  concealed, —
+on  that  Bhikkhu  [the  penalty  is  to  be  the  same  as  in
+section  i,  paragraph  4].]
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu  [&c.,  as  in  last
+paragraph,  down  to]  does  not  afterwards  conceal
+those  offences  which  he  had  previously  concealed,
+and  does  conceal  those  offences  which  previously  he
+had  not  concealed, — on  that  Bhikkhu  [the  penalty  is
+to  be  the  same  as  in  section  i,  paragraph  4].
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu  (&c,,  as  in  last
+paragraph,  down  to)  does  afterwards  conceal  those
+offences  which  he  had  previously  concealed,  and
+does  not  afterwards  conceal  those  offences  which
+previously  he  had  not  concealed, — on  that  Bhikkhu
+[the  penalty  is  to  be  the  same  as  In  section  i,  para-
+graph 4].  ^
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu  (&c.,  as  In  last
+paragraph,  down  to)  does  afterwards  conceal  those
+offences  which  he  had  previously  concealed,  and  does
+afterwards  conceal  those  offences  which  previously
+he  had  not  concealed, —  on  that  Bhikkhu  [the  penalty
+is  to  be  the  same  as  in  section  i,  paragraph  4].
+
+3.  'In  case,  O  Bhikkhus,  a  Bhikkhu  have  com-
+mitted numerous  Sa;;i^ghadisesa  offences,  and  of  some
+
+cases  mentioned  in  the  title  at  the  close  of  chap.  30  ;  but  the  first
+is  altogether  omitted  in  the  text,  and  the  others  are  not  properly
+discriminated.  We  have  supplied  the  first  in  brackets,  and  corrected
+the  others  accordingly.
+
+
+111,29,3'  TROBATION    AND    PENANCE.  425
+
+of  them  he  is  aware,  but  of  some  of  them  he
+is  not  aware ;  and  he  conceals  those  offences
+of  which  he  is  aware,  but  does  not  conceal  those
+offences  of  which  he  is  not  aware ;  after  having
+thrown  off  the  robes,  and  again  received  the  upa-
+sampada,  those  offences  of  which  he  had  previously
+been  aware,  and  which  he  did  then  conceal,  of
+them,  afterwards,  he  is  still  aware,  and  he  does  not
+conceal  them  ;  and  those  offences  of  which  previously
+he  had  not  been  aw^are  and  did  not  then  conceal,  of
+them,  afterwards,  he  becomes  aware,  and  does  not
+conceal  them, — on  that  Bhikkhu  [the  penalty  is  the
+same  as  in  section  t,  paragraph  3].
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu  (&c.,  as  in  the
+last  paragraph,  down  to)  and  again  received  the
+iipasampada,  those  offences  of  which  he  had  pre-
+viously been  aware,  and  which  he  did  then  conceal,  of
+them,  afterwards,  he  is  still  aware,  and  he  does  not
+conceal  them ;  and  those  offences  of  which  previously
+he  had  not  been  aware,  and  did  not  then  conceal,
+of  them,  afterwards,  he  becomes  aware,  and  does
+conceal  them, — on  that  Bhikkhu  [the  penalty  is  the
+same  as  in  section  i,  paragraph  4].
+
+*  In  case,  O  Bhikkhus,  a  Bhikkhu  (Sec,  as  in  the
+last  paragraph,  down  to)  which  he  did  then  conceal,
+of  them,  afterwards,  he  is  still  aware,  and  does  con-
+ceal them  ;  and  of  those  offences  of  which  previously
+he  had  not  been  aware,  and  did  not  then  conceal,  of
+them,  afterwards,  he  becomes  aware,  and  does  not
+conceal  them, — on  that  Bhikkhu  [the  penalty  is  the
+same  as  in  section  i,  paragraph  4].
+
+'  In  case,  O  Bhikkhus,  a  Bhikkhu  (&c.,  as  in  the
+last  paragraph,  down  to)  which  he  did  then  conceal,
+of  them,  afterwards,  he  is  still  aware,  and  does  conceal
+
+
+426  /rULLAVAGGA.  1X1,29,4.
+
+
+them ;  and  of  those  offences  of  which  previously
+he  had  not  been  aware,  and  did  not  then  conceal,
+of  them,  afterwards,  he  becomes  aware,  and  does
+conceal  them, — on  that  Bhikkhu  [the  penalty  is  the
+same  as  in  section  i,  paragraph  4].'
+
+4.  [This  section  is  the  same  as  the  last,  reading
+'  he  recollects'  for  '  he  is  aware,'  and  '  he  does  not
+recollect'  for  *  he  is  not  aware.']
+
+5.  [This  section  is  again  the  same  as  section  3,
+reading  'he  is  certain'  for  'he  is  aware,'  and  'he  is
+not  certain'  for  'he  is  not  aware.']
+
+
+30.
+
+I.  [The  whole  of  the  last  chapter  is  'repeated  in
+the  case  of  a  Bhikkhu  who,  having  committed
+offences,  becomes  a  Samawera,  goes  out  of  his  mind,
+or  becomes  weak  in  his  mind\  and  the  text  then
+goes  on]  '  He  becomes  diseased  in  his  sensations.
+His  offences  are  some  of  them  concealed,  some  not
+concealed.  Of  some  offences  he  is  aware,  of  some
+he  is  not  aware.  Some  offences  he  recollects,  some
+he  does  not  recollect.  Of  some  offences  he  is  cer-
+tain, of  some  he  is  not  certain.  Those  offences  of
+which  he  was  not  certain,  those  he  conceals ;  those
+offences  of  which  he  was  certain,  those  he  does  not
+conceal.  Then  he  becomes  diseased  in  his  sensa-
+tions. When  he  has  recovered  power  over  his
+sensations,  those  offences  of  which  he  previously
+had  been  certain  and  had  concealed,  of  those  he  is
+afterwards  still  certain,  but  does  not  conceal  them  ;
+and  those  offences  of  which  he  previously  had  been
+
+^  See  above,  chap.  27,  and  Mahavagga  II,  22,  3 ;  IX,  4,  7.
+
+
+111,30,1.       PROBATION  AND  PENANCE.  427
+
+
+uncertain  and  had  not  concealed,  of  those  he  became
+certain  but  did  not  conceal  them.  Those  offences  of
+which  he  previously  had  been  certain  and  had  con-
+cealed, of  those  he  was  afterwards  still  certain  and
+did  not  conceal ;  while  those  offences  of  which  he
+previously  had  been  uncertain,  and  had  not  con-
+cealed, of  those  offences  he  afterwards  became  cer-
+tain and  did  conceal  them.  Those  offences  of  which
+previously  he  had  been  certain,  and  had  concealed,
+of  those  offences  he  was  afterwards  still  certain  and
+did  conceal  them  ;  while  those  offences  of  which  he
+previously  had  been  uncertain  and  had  not  concealed,
+of  those  offences  he  afterwards  became  certain,  and
+did  not  conceal  them.  Those  offences  of  which  he
+previously  had  been  certain,  and  had  concealed  them,
+of  those  offences  he  was  afterwards  still  certain  and
+did  conceal  them  ;  whilst  those  offences  of  which  he
+previously  had  been  uncertain  and  did  not  conceal
+them,  of  those  offences  he  afterwards  became  certain
+and  did  conceal  them, — on  that  Bhikkhu,  O  Bhikkhus,
+[the  same  penalty  is  to  be  imposed  as  in  chapter  29,
+section  i,  paragraph  4.]'
+
+
+Here  end  the  hundred  cases ^  in  which  a  Manatta
+
+(is  to  be  imposed  after  a  change  of  state
+
+in  the  guilty  Bhikkhu).
+
+
+^  The  hundred  cases  are  made  up  thus:  Chap.  29, §§  1,2,  3,  4)  5
+contain  each  of  them  four  cases  (after  our  correction  of  29.  2) ;  so
+that  chap.  29  gives  altogether  twenty  cases.  Then  in  chap.  30,
+each  of  these  twenty  cases  is  repeated  in  the  four  other  cases  there
+given ;  so  that  chap.  30  gives  altogether  eighty  cases.  Of  these
+eighty  cases,  as  usual,  at  the  end  of  a  repetition,  the  last  (four
+cases)  are  set  out  in  full.
+
+
+428  rULLAVAGGA.  Ill,  31,  i.
+
+
+31.
+
+I.  'In  case,  O  Bhlkkhus,  a  Bhikkhu  who  is  under-
+going probation  is  guilty  meanwhile  of  a  number  of
+Sa;;/ghadisesa  offences,  and  without  concealing  them
+then  throws  off  the  robes,  and  he,  when  he  has  again
+received  the  upasampada,  does  not  conceal  those
+offences — that  Bhikkhu  ought  to  be  thrown  back  to
+the  commencement  (of  his  term  of  probation).
+
+'  And  in  case,  O  Bhikkhus,  a  Bhikkhu  (&c.,  as
+before,  down  to)  and  he,  when  he  has  again  received
+the  upasampada,  does  conceal  those  offences —
+that  Bhikkhu  ought  to  be  thrown  back  to  the  com-
+mencement (of  his  term  of  probation),  and  an  in-
+clusive probation  ought  to  be  imposed  upon  him
+(corresponding  to  the  time  which  has  elapsed  since)
+the  first  offence  among  those  offences  which  he  has
+concealed.
+
+'  And  in  case,  O  Bhikkhus,  a  Bhikkhu  who  is
+undergoing  probation  is  guilty  meanwhile  of  a
+number  of  Sa?72ghadisesa  offences,  and,  concealing
+them,  throws  off  the  robes ;  and  he,  when  he  has
+again  received  the  upasampada,  does  not  conceal
+those  offences — that  Bhikkhu  ouo"ht  to  be  thrown
+back  to  the  commencement  of  his  term  of  probation,
+and  an  inclusive  probation  ought  to  be  imposed  upon
+him  (corresponding  to  the  period  which  has  elapsed
+since)  the  first  offence  among  those  offences  which
+he  has  concealed.'
+
+[The  same  judgment  if  he  has  concealed  the
+offences  before  he  throws  off  the  robes,  and  also
+after  he  has  again  received  the  upasampada.]^
+
+^  This  section  corresponds  to  chap.  29,  section  i.
+
+
+111,31,3-       TROBATION  AND  PENANCE.  429
+
+2.  'And  in  case,  O  Bhikkhus,  a  Bhikkhu  who  is
+undergoing  probation  is  guilty  meanwhile  of  a
+number  of  Sawghadisesa  offences,  and  some  of
+them  he  has  concealed  and  some  of  them  he  has
+not  concealed  ;  and  after  he  has  thrown  off  the  robes
+and  again  received  the  upasampada,  he  does  not
+afterwards  conceal  those  offences  which  previously
+he  had  concealed,  and  he  does  not  afterwards  con-
+ceal those  offences  which  previously  he  had  not
+concealed — [the  judgment  is  the  same  as  in  the  last
+paragraph  of  J  i].'
+
+[In  the  same  case  down  to]  he  does  not  afterwards
+conceal  those  offences  which  previously  he  had  con-
+cealed, and  he  does  afterwards  conceal  those  offences
+which  previously  he  had  not  concealed  [the  judgment
+is  the  same].
+
+[In  the  same  case,  down  to]  he  does  afterwards
+conceal  those  offences  which  previously  he  had  con-
+cealed, and  he  does  not  afterwards  conceal  those
+offences  which  previously  he  had  not  concealed  [the
+judgment  is  the  same].
+
+[In  the  same  case,  down  to]  he  does  afterwards
+conceal  those  offences  which  previously  he  had  con-
+cealed, and  he  does  afterwards  conceal  those  offences
+which  previously  he  had  not  concealed  [the  judgment
+is  the  same]\
+
+3.  '  And  in  case,  O  Bhikkhus,  a  Bhikkhu  who
+is  undergoing  probation  is  guilty  meanwhile  of  a
+number  of  Sa;;^ghadisesa  offences,  and  he  is  aware
+of  some  of  those  offences,  and  not  aware  of  others  ;
+and  he  conceals  those  offences  of  which  he  is  aware,
+but  does  not  conceal  those  offences  of  which  he  is
+
+^  This  section  corresponds  to  chap.  29,  section  2.
+
+
+430  irULLAVAGGA.  Ill,  32,  i.
+
+not  aware.  After  having  thrown  off  the  robes  and
+again  received  the  upasampada,  those  offences  of
+which  he  had  previously  [&c.,  as  in  chapter  29,
+section  3,  down  to]  on  that  Bhikkhu  [the  penalty  is
+the  same  as  in  the  last  section,  chapter  31,  }  2].'
+
+[The  rest  of  this  chapter  corresponds  exactly  to
+chapter  29,  {J  4,  5,  and  chapter  30 ;  the  penalty  being
+always  the  same.]
+
+
+32.
+
+I.  'And  In  case,  O  Bhikkhus,  a  Bhikkhu  who  has
+rendered  himself  liable  to  the  Manatta  discipline,
+or  is  undergoing  the  Manatta  discipline,  or  is  fit  to
+be  rehabilitated,  is  guilty  meanwhile  of  a  number  of
+Sa;;^ghadisesa  offences  which  he  does  not  conceal  ;
+and  he  then  throws  off  the  robes,  and  again  receives
+the  upasampada, — then  with  regard  to  the  Bhik-
+khu so  liable  to  the  Manatta  discipline,  or  under-
+going the  Manatta  discipline,  or  fit  to  be  rehabili-
+tated, the  same  rules  are  to  apply  as  in  the  case  of
+a  Bhikkhu  so  acting  while  undergoing  probation  \
+
+'  And  in  case,  O  Bhikkhus,  a  Bhikkhu  who  is  fit
+to  be  rehabilitated  2  is  guilty  meanwhile  of  a  number
+of  Sawghadisesa  offences  which  he  does  not  conceal ;
+and  he  then  becomes  a  Sama;zera,  goes  out  of  his
+mind,  becomes  weak  in  his  mind,  or  becomes  dis-
+eased in  his  sensations ;  his  offences  are  some  of  them
+
+^  As  laid  down  in  chap.  31.
+
+*  This  includes,  of  course,  the  two  other  cases  of  a  Bhikkhu
+who  has  rendered  himself  liable  to,  or  is  undergoing  the  Manatta
+discipHne.
+
+
+Ill,  33»  I-       PROBATION  AND  PENANCE.  43 1
+
+
+concealed,  some  of  them  not  concealed  ....  [and  so
+on,  as  in  chapter  30,  down  to  the  end,  excepthig  that
+the  penalty  is  here  the  same  as  it  is  in  the  previous
+chapters  31  and  32].'
+
+
+33.
+
+I.  '  And  in  case,  O  Bhikkhus,  a  Bhikkhu  is  guilty
+of  a  number  of  Sa?;^ghddisesa  offences,  definite,  and
+not  concealed — not  definite,  and  not  concealed — of
+one  designation,  and  not  concealed — of  various  de-
+signations, and  not  concealed — similar,  and  not  con-
+cealed— dissimilar,  and  not  concealed — connected  \
+and  not  concealed — disconnected,  and  not  concealed
+■ — and  then  throws  off  the  robes  I'  .  .  .
+
+
+^  On  the  opposition  of  vavatthita  and  sambhinna,  compare
+INIinaycflf  Patimokkha,  p.  29,  where  these  two  expressions  are  used
+of  language.
+
+"^  The  chapter  is  translated  as  it  stands.  To  supply  the  impli-
+cations involved,  the  words  '  a  Bhikkhu '  at  the  beginning  should
+be  understood  as  '  a  Bhikkhu  undergoing  probation,  or  liable  to
+the  IManatta  discipline,  or  undergoing  the  INIanatta  discipline,  or
+fit  to  be  rehabilitated.'  And  the  conclusion  should  be  supplied
+as  in  chap.  28,  except  that  the  penalty  in  each  case  is  not  an
+additional  probation,  but  a  probation  corresponding  in  length  to
+the  period  which  has  elapsed  since  the  first  of  those  offences  which
+the  re-ordained  Bhikkhu  has  concealed  (cither  before  or  after  the
+second  ordination).  The  details  are  only  worked  out,  in  chap.  28,
+of  the  first  of  the  several  pairs  here  enumerated,  and  are  intended
+to  be  supplied  here  for  each  of  the  other  pairs  in  a  similar  way.  All
+the  pairs  recur  in  chaps.  35,  36.
+
+
+432  A'ULLAVAGGA.  Ill,  34,  i.
+
+
+34.
+
+I.  '  Two  Bhikkhiis  have  been  guilty  of  a  Sawgha-
+disesa  offence,  and  as  touchinof  that  Sa;;/s:hadisesa
+offence  they  are  of  opinion  that  it  is  a  Sawghadisesa
+offence \  One  of  them  conceals,  the  other  does  not
+conceal  it.  He  who  has  concealed  it  should  be
+compelled  to  confess  himself  guilty  of  a  dukka/a
+offence,  and  a  probation  corresponding  to  the  period
+during  which  he  has  concealed  it  having  been  im-
+posed upon  him,  a  Manatta  should  be  imposed  upon
+them  both.
+
+'  Two  Bhikkhus  have  been  guilty  of  a  Sawgha-
+disesa  offence,  and  as  touching  that  Sa;;^ghadisesa
+offence  they  are  in  doubt.  One  of  them  conceals,
+the  other  does  not  conceal  it.  [The  penalty  is  the
+same.]  ^
+
+'  Two  Bhikkhus  have  been  guilty  of  a  Sa;;/gha-
+disesa  offence,  and  as  touching  that  Sa7;^ghadisesa
+offence  they  are  of  opinion  that  it  is  a  mixed  offence  ^
+One  of  them  conceals,  the  other  does  not  conceal  it.
+[The  penalty  is  the  same.]  -
+
+'  Two  Bhikkhus  have  been  guilty  of  a  mixed
+offence,  and  as  touching  that  mixed  offence  they  are
+of  opinion  that  it  is  a  Sa7;^ghadisesa  offence.    One  of
+
+
+^  Compare  chap.  23,  §  4.
+
+^  The  concluding  words  of  the  last  paragraph  are  here  repeated.
+
+^  The  Samanta  Pasadika  says,  Missakan  tr  thulla/'/C-ayadihi
+missita;/^ ;  that  is  an  act  which  involves  not  only  a  Sawghadisesa,
+but  also  some  one  or  other  of  the  lesser  offences.  Compare  the
+use  of  missaka  at  6'ataka  II,  420,  433,  and  at  Maha-parinibbana
+Sutta,  ed.  Childers,  p.  22.
+
+
+Ill,  34,  2.       PROBATION  AND  PENANCE.  433
+
+them  conceals,  the  other  docs  not  conceal  it.    [The
+penalty  is  the  same.]^
+
+*  Two  Bhikkhus  have  been  guilty  of  a  mixed
+offence,  and  as  touching  that  mixed  offence  they  are
+of  opinion  that  it  is  a  mixed  offence.  One  of  them
+conceals,  the  other  does  not  conceal  it.  [The  penalty
+is  the  same.]
+
+'  Two  Bhikkhus  have  been  guilty  of  a  minor
+offence-;  and  as  regarding  that  minor  offence  they
+are  of  opinion  that  it  is  a  Sawghadisesa  offence.
+One  of  them  conceals,  the  other  does  not  conceal
+it.  He  who  has  concealed  it  should  be  compelled
+to  confess  himself  guilty  of  a  dukka/a  offence,
+and  both  of  them  should  be  dealt  with  according
+to  law.
+
+'Two  Bhikkhus  have  been  guilty  of  a  minor
+offence,  and  as  touching  that  minor  offence  they  are
+of  opinion  that  it  is  a  minor  offence.  One  of  them
+conceals,  the  other  does  not  conceal  it.  He  who  has
+concealed  it  should  be  compelled  to  confess  himself
+guilty  of  a  dukka/a  offence,  and  both  of  them
+should  be  dealt  with  according  to  law.
+
+2.  '  Two  Bhikkhus  have  been  guilty  of  a  Sawgha-
+dlsesa  offence,  and  as  touching  that  Sa;;/ghadisesa
+offence  they  are  of  opinion  that  it  is  a  Sawghadisesa.
+One  of  them  thinks  :  "  I  will  tell  (the  Sawgha  of  it)."
+The  other  thinks  :  "  I  will  not  tell  (the  Sawgha  of  it);"
+and  during  the  first  watch  of  the  night  he  conceals  it,
+and  during  the  second  watch  of  the  night  he  conceals
+
+
+^  The  concluding  words  of  the  last  paragraph  are  here  repeated.
+
+"  That  is,  any  offence  less  than  a  Sawghddisesa.  The  Samanta
+Pasadika  says,  Suddhakan  ti  Sawghadisesaw  vina  lahukapaltik-
+khandham  eva.
+
+[17]  F  f
+
+
+434  S-ULLAVAGGA.  IH,  34,  2.
+
+it,  and  during  the  third  watch  of  the  night  he  con-
+ceals it.  After  the  sun  has  arisen  the  offence  is  a
+concealed  one.  He  who  has  concealed  it  [&c. ;  the
+penalty  is  the  same  as  in  section  i,  paragraph  i].
+
+*  Two  Bhikkhus  have  been  guilty  of  a  Sawgha-
+disesa  offence,  and  as  touching  that  Sa?;^ghadisesa
+offence  they  are  of  opinion  that  it  is  a  Sawghadisesa
+offence.  They  set  out,  intending  to  tell  (the  Sa;;^gha
+of  it).  On  the  way  there  springs  up  in  one  of  them
+a  desire  to  conceal  it ;  and  during  the  first  watch  of
+the  night  he  conceals  it,  and  during  the  second  watch
+of  the  night  he  conceals  it,  and  during  the  third
+watch  of  the  night  he  conceals  it.  After  the  sun  has
+arisen  the  offence  is  a  concealed  one.  He  who
+has  concealed  it  [&c. ;  the  penalty  is  the  same  as
+before].
+
+*  Two  Bhikkhus  have  been  guilty  of  a  Sa;;^gha-
+disesa  offence,  and  as  touching  that  Sa^/^ghadisesa
+offence  they  are  of  opinion  that  it  is  a  Sa7;/ghadisesa
+offence.  They  go  out  of  their  mind ;  and  afterwards
+when  they  have  recovered  their  senses  one  of  them
+conceals,  the  other  does  not  conceal  it.  He  who
+has  concealed  it  [&c. ;  the  penalty  is  the  same  as
+before]  ^
+
+'  Two  Bhikkhus  have  been  guilty  of  a  Sa?;/gha-
+disesa  offence.  When  the  Patimokkha  is  being  re-
+cited they  say  thus  :  "  Now  do  we  come  to  perceive
+it ;  for  this  rule  they  say  has  been  handed  down  in
+the  Suttas,  is  contained  in  the  Suttas,  and  comes
+into  recitation  every  half  month."  As  touching  that
+Sawghadisesa   offence,    they  (thus)  come  to  be  of
+
+^  It  is  probably  to  be  understood  that  a  like  rule  is  to  apply  in
+the  other  similar  cases  mentioned  in  the  last  paragraph  of  chap.  32.
+
+
+Ill,  33>  I-  PROBATION    AND    PENANCE.  435
+
+ojDinion  that  it  is  a  Sawf^hadisesa  offence.  One  of
+them  conceals,  the  other  does  not  conceal  it.  He
+who  has  concealed  it  [&c. ;  the  penalty  is  the  same
+as  before].'
+
+
+35.
+
+I.  'And  in  case,  O  Bhikkhus,  a  Bhikkhu  is  guilty
+of  a  number  of  Sawghadisesa  offences — definite,  and
+not  definite — of  one  designation,  and  of  various
+designations — similar  to  each  other,  and  dissimilar
+— connected  with  each  other,  and  disconnected ^
+He  asks  the  Sa;;/gha  for  an  inclusive  probation  on
+account  of  those  offences^.  The  Sa?;2gha  imposes
+upon  him  an  inclusive  probation  on  account  of  those
+offences.  He  undergoing  that  probation  is  guilty
+meanwhile  of  a  number  of  Sa;;/ghadisesa  offences,
+definite  ones,  which  he  does  not  conceal.  He  asks
+the  Sawgha  to  throw  him  back  on  account  of  those
+intervening  offences  to  the  commencement  (of  his
+term  of  probation).  The  Sawgha  [does  so]  by  a
+lawful  proceeding  that  cannot  be  quashed^,  and  fit
+
+'  See  chap.  33  for  this  list.
+
+^  In  accordance  with  the  rule  laid  down  in  chap.  28,  which
+shows  that  by  '  a  Bhikkhu '  must  be  understood  *  a  Bhikkhu  who  is
+under  probation;'  and  the  offences  he  has  committed  must  have
+been  concealed  by  him.
+
+^  Akuppa.  The  technical  term  kamma;;/  kopeti  is  not  to
+revoke  the  valid  decision  of  a  kamma  regularly  held,  but  to  show
+that  the  kamma  by  reason  of  some  irregularity  was  no  real
+kamma,  and  its  whole  proceedings  therefore  void.  One  may
+compare  akuppd  me  ^eto-vimutti  spoken  by  the  Buddha  im-
+mediately after  he  had  attained  Nirvawa  under  the  Bo  Tree  (Ariya-
+pariyosana  Sutta  in  H.  O.'s  'Buddha,'  p.  429)  and  the  opposite
+idea  in  Sutta  Nipata  IV,  3,  5.
+
+F  f  2
+
+
+43<3  iTULLAVAGGA.  Ill,  35,  2.
+
+
+for  the  occasion ;  and  it  also  imposes  a  Manatta
+upon  him,  but  by  an  unlawful  proceeding,  and  then
+by  an  unlawful  proceeding  rehabilitates  him.  That
+Bhikkhu,  O  Bhikkhus,  is  not  purified  from  those
+offences.
+
+'  And  in  case,  O  Bhikkhus,  a  Bhikkhu  is  guilty  of  a
+number  of  Sa;;^ghadisesa  offences — definite,  and  not
+definite — of  one  designation,  and  of  various  desig-
+nations— similar  to  each  other,  and  dissimilar — con-
+nected with  each  other,  and  disconnected.  And  he
+asks  the  Sa;;^gha  for  an  inclusive  probation  on
+account  of  those  offences.  The  Sa;;/gha  imposes
+upon  him  an  inclusive  probation  on  account  of  those
+offences.  He  undergoing  that  probation  is  guilty
+meanwhile  of  a  number  of  Sa;;2ghadisesa  offences,
+definite  ones,  which  he  does  conceal.  He  asks  the
+Samghdi  to  throw  him  back  on  account  of  those
+intervening  offences  to  the  commencement  (of  his
+term  of  probation).  The  Sa;;^gha  [does  so]  by  a
+lawful  proceeding  that  cannot  be  quashed,  and  fit  for
+the  occasion ;  and  it  also  imposes  upon  him  an  inclu-
+sive probation  by  a  lawful  proceeding,  and  imposes
+upon  him  a  Manatta,  but  by  an  unlawful  proceeding,
+and  by  an  unlawful  proceeding  it  rehabilitates  him.
+That  Bhikkhu,  O  Bhikkhus,  is  not  purified  from  those
+offences.'
+
+[The  same  decision  is  given  if,  of  the  intervening
+offences,  all  of  which  are  definite,  some  have  been
+concealed,  and  some  not  concealed.]
+
+2.  [The  same  if  the  intervening  offences  have
+been  not  definite  and  not  concealed,  or  not  definite
+and  concealed,  or  all  not  definite  but  some  concealed
+and  some  not  concealed,  or  all  not  concealed  but
+some  definite  and  some  not  definite,  or  all  concealed
+
+
+m,  36,  2.       PROBATION  AND  PENANCE.  437
+
+
+but  some  definite  and  some  not  definite,  or  some
+definite  and  some  not  definite  and  some  concealed
+and  some  not  concealed.]
+
+
+Here  end  the  nine  principal  cases  (which  serve  as
+
+a  basis  for  the  variations  in  the  following
+
+chapter)  in  which  a  Bhikkhu  is  not
+
+purified  (by  undergoing  a
+
+term  of  probation).
+
+
+36.
+
+1.  [The  same  nine  cases  of  the  throwing  back  is
+carried  by  unlawful  proceeding,  though  the  Manatta
+and  the  rehabilitation  are  by  a  lawful  proceeding,]
+
+2.  '  And  in  case,  O  Bhikkhus,  a  Bhikkhu  is  guilty
+of  a  number  of  Sa;;/ghadlsesa  offences — definite,  and
+not  definite — of  one  designation,  and  of  various  de-
+signations— similar  to  each  other,  and  dissimilar —
+connected  with  each  other,  and  disconnected \  He
+asks  the  Sawgha  for  an  inclusive  probation  on
+account  of  those  offences.  The  Sawgha  imposes
+upon  him  an  additional  probation  on  account  of
+those  offences.  He  undergoing  that  probation  is
+guilty  meanwhile  of  a  number  of  Sawghadlsesa
+offences,  definite  ones,  which  he  does  conceal.  He
+asks    the    Saweha  to  throw   him  back  on  account
+
+^  These  offences  must  be  understood  to  be  offences  com-
+mitted ^vhile  under  probation,  and  concealed.  See  the  note  on
+chap.  35,  §  I.
+
+
+438  A'ULLAVAGGA.  IH,  36, 2.
+
+of  those  intervening  offences  to  the  commencement
+of  his  term  of  probation.  The  Sawgha  [does  so]  by
+an  unlawful  proceeding  that  is  liable  to  be  quashed,
+and  unfit  for  the  occasion ;  and  it  also  imposes  an
+inclusive  probation  upon  him,  but  by  an  unlawful
+proceeding.  He  thinking,  "  I  am  undergoing  that
+probation,"  is  guilty  meanwhile  of  a  number  of
+Sa7;^ghadisesa  offences,  definite  ones,  which  he  does
+conceal.  When  he  has  arrived  at  this  condition  he
+calls  to  mind  the  other  offences  committed  while  the
+first  offences  were  being  committed,  and  he  calls  to
+mind  also  the  other  oft'"ences  committed  while  the
+latter  offences  were  being  committed.
+
+'  Then  it  occurs  to  him,  "  I  have  been  guilty  of
+a  number  of  Sa;72ghadisesa  offences  (&c.,  as  in  the
+whole  of  the  section  from  the  beginning  to  the  end
+of  the  last  paragraph,  down  to)  and  I  called  to  mind
+also  the  other  offences  committed  while  the  latter
+offences  were  being  committed.  Let  me  now  ask
+the  Sa;;2gha  to  throw  me  back  on  account  of  those
+offences  committed  while  the  former  offences,  and
+while  the  latter  offences,  were  being  committed,  to
+the  commencement  of  my  term  of  probation,  by  a
+lawful  proceeding  that  cannot  be  quashed,  and  is  fit
+for  the  occasion ;  and  let  me  ask  for  an  inclusive
+probation  to  be  imposed  by  a  lawful  proceeding,
+and  for  a  Manatta  to  be  imposed  by  a  lawful  pro-
+ceeding, and  then  for  rehabilitation  by  a  lawful
+proceeding."
+
+'  And  he  asks  the  Sa;;2gha  [accordingly],  and  the
+Sa7;2gha  [does  so].  That  Bhikkhu,  O  Bhikkhus,  is
+purified  from  those  offences.'
+
+[The  same  if  some  of  the  offences  in  each  case
+have  been  concealed  and  some  not  concealed.]
+
+
+Ill,  36, 4.  TROBATION    AND    PENANCE.  439
+
+3,  4.  [The  Bhikkhu  is  not  purified  from  such  inter-
+vening and  remembered  offences  as  are  specified  in
+the  last  section,  if  the  Sa;;/gha  has  proceeded,  as
+in  the  first  section  of  this  chapter,  by  an  unlawful
+proceeding.]
+
+Here  ends  the  Third  Khandhaka,  on  the
+Accumulation  of  Offences.
+
+
+NOTE   ON   ABHIHAT-r^UJ/.
+
+In  the  7th  Nissaggiya,  in  the  34th  Pa-^iltiya,  and  in  the  36th
+Pa^ittiya  there  occurs  the  phrase  abhiha///zU7;i  pavareyya,
+regarding  the  correct  translation  of  which,  as  will  be  seen  from
+the  note  on  the  first  passage,  we  were  in  doubt.  The  connection
+is  always  '  if  A  should  offer  B,'  &c. ;  and  the  only  difficulty  is  the
+force  of  the  word  abhiha///zu;«  which  precedes  the  '  should  offer,'
+and  in  some  way  qualifies  it.  In  all  three  passages  the  Old  Com-
+mentary preserved  in  the  Sutta-Vibhanga  explains  the  two  words
+G.hhihz///inm  pavareyya  by  'Take  just  as  much  as  you  want'
+(yavataka;«  iX'/^-^asi  tavataka?;z  gawhahi),  which  does  not  solve  the
+difficulty.  On  the  following  words  of  the  third  passage,  however,
+the  Old  Commentary  (see  H.  O., '  Vinaya  Pitakaw,'  vol.  iv,  p.  84)
+uses  the  word  abhiharati  in  its  usual  sense  of  he  brings  up  to,
+offers  to,  hands  over  to,'  as  practically  equivalent  to  abhiha////u;«
+pavareti;  and  Buddhaghosa,  in  the  Samanta  Pasadika  on  the
+7th  Nissaggiya,  uses  abhiharitva  as  directly  equivalent  to  abhi-
+
+Now  in  a  passage  quoted  from  the  Thera-galha  in  H.  O.'s
+'Buddha,  sein  Leben,  seine  Lehre,  und  seine  Gemeinde'  (p.  425,
+note  i),  nikkhamitu;72na  occurs  as  the  gerund  of  nikkhamati
+instead  of  nikkhamitvana.  The  existence  in  Prakrit  of  corres-
+ponding gerunds  in  -tu,  -tu;;z  for  -tva,  and  in  -tu«a,  -tuawa  for
+-tvana,  is  laid  down  in  Hema/^andra  II,  146  (Pischel,  vol.  i,  p.  62).
+And  Professor  Weber  has  given  corresponding  forms  (aha//u,  ka//u,
+&c.)  from  the  Cain  dialect  in  his  Bhagavati  I,  p.  433.
+
+What  we  have  in  the  phrase  in  question  is  therefore  simply  a
+gerund  in  -tuw,  and  the  two  words  taken  together  mean,  'if  A
+should  lay  before  and  offer  to  B,'  &c.  The  thing  offered  in  one
+case  is  robes,  in  the  other  two  cases  food  ;  and  abhiharati  is  the
+usual  word  in  Pali  for  serving  food,  laying  it  before  another  person.
+Compare  thali-paka-satani  abhihari  at  Cataka  I,  186;  and
+the  phrase  bhattabhiharo  abhihariyittha  constantly  repeated
+in  the  Maha-sudassana  Sutta  (Rh.  D., '  Buddhist  Suttas,'  in  the  last
+paragraph  of  chap.  II,  §§  12,  29,  31,  33,  37).
+
+
+TRANSLITERATION    OF    ORIENTAL   ALniABETS.
+
+
+441
+
+
+[17]
+
+
+Gg
+
+
+442
+
+
+TRANSLITERATION    OF    ORIENTAL   ALPHABETS
+
+
+c   —
+
+
+C  c;    .  r  r    .  «-ij^
+
+
+.9  O  "  M
+
+
+0   "
+
+
+•o     D-O
+
+
+->^
+
+
+^b^->        D
+
+
+1     D-o
+
+
+^  ^•!),
+
+">
+
+
+?  c^       2-
+
+
+^-S)
+
+
+^
+
+
+?  -S       e'>s
+
+
+^
+
+
+^^
+
+
+^
+
+
+R-
+
+
+ic    P-
+
+
+hr  pr
+
+
+IT   |€   18
+
+
+n
+
+<
+X
+
+B.
+>J
+
+■<
+
+>
+
+at
+<
+z
+
+o
+
+
+33
+
+
+s
+
+
+CO       M
+
+
+T3
+
+
+C     -^
+
+
+in
+H
+JC  ■
+
+<
+
+o
+
+tn
+
+O
+
+u
+
+
+in
+
+3
+
+
+en
+
+3
+
+
+r2   :2
+
+
+e3
+
+
+n
+
+
+o
+
+O
+
+
+to
+
+xn
+
+CO
+
+
+S  .a
+
+CO       a>
+
+
+3
+
+■♦3
+
+
+a5      2
+
+si      1—1
+
+
+CO
+
+
+CO         CO
+
+
+03
+
+
+c3
+
+•4-3
+
+S3      cd
+
+
+rH      <M
+
+
+.-I     (M
+
+
+05     O
+
+
+3
+
+c
+
+
+5
+
+
+c3
+
+O
+
+03     -^
+
+
+o
+
+o
+
+I— I
+
+1.M
+
+s
+
+s
+
+m
+
+a,
+
+Ql^
+
+C
+
+to
+
+C3
+
+c3
+
+1— t
+
+3
+
+a
+
+<u
+
+(0
+
+
+o<1
+
+
+(33
+
+
+0)
+
+02
+
+
+3h
+C/3
+
+
+-H     (M
+
+
+(M(MCKIC3CSIIM<MeOC^COCOCOCO
+
+
+CO    CO
+
+
+FOR    THE    SACRED    BOOKS    OF    THE    EAST.
+
+
+443
+
+
+a
+
+
+>a  J»
+
+
+-a  ^
+
+
+^Lr
+
+
+^
+
+
+^
+
+
+8-
+
+
+a.  -^     .
+
+
+CI  m  n  n
+
+
+3>
+
+
+9
+
+
+1
+
+
+1
+
+
+B    &
+
+
+n
+
+
+«j>
+
+
+•]
+
+
+■]
+
+
+<j
+
+
+-^  ^
+
+
+to   to    t^    \o   V   ^
+
+
+^  fi  ttr  tr
+
+
+r^  'I?  p
+
+
+-«   =§    s
+
+
+00       N
+
+
+P^-g,^     5
+
+
+s    &  ^  ««
+
+
+c3
+
+^-.
+
+■-3
+
+o
+
+m
+
+s
+
+o
+
+a
+
+M
+
+0
+
+^
+
+-4^
+
+•J
+
+fl
+
+0)
+
+n
+
+(3
+
+
+.   e3
+
+.2  ea
+
+a      5    5
+
+
+o
+
+o
+
+
+O)
+
+
+(n
+
+
+m
+o
+
+1—1
+
+•r-l
+
+Hi
+
+
+(SS
+
+
+CO
+
+OS
+
+
+c3
+
+
+c
+
+
+-a
+
+a>
+IS
+
+
+c3      ~
+
+
+a     >-i
+
+
+o
+
+o
+
+
+o)     2
+
+
+.~       .-    "J
+
+
+Eh    >^    W
+
+
+OJ
+
+
+O0
+
+rt
+
+>■
+
+if)
+
+U7
+
+»-r
+
+rt
+
+c
+
+<1
+
+>
+
+oooO'-HfMM'^iracDr^oocs
+
+
+444
+
+
+TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
+
+
+C5        <Ci     '  •  ^        <^
+
+
+13    <3     o)    <!U    <cs
+
+
+<0j
+
+
+^      h       l^.
+
+
+■hi>
+
+
+'b
+
+
+M  ^
+
+
+B.
+
+
+:?    ?    -  'T-
+
+
+-^-^
+
+
+^
+
+
+P    ^    lw-*ftr  |£>   |£»'  IP*  I?*  I.?    p
+
+
+tvclv
+
+
+^'^
+
+
+O     )D     'O      o3    <rt    •-"
+
+
+rt      <3        (U
+
+
+3  S3
+
+g      3    ^50
+
+OJ      O
+
+
+:£S
+
+
+:-    -.3    :0
+
+
+<o
+
+
+t;
+>
+
+o
+>
+
+
+I
+
+o
+
+fcC
+
+c
+
+c3
+
+
+>
+
+
+c3
+
+
+3
+
+
+03
+
+60  .2
+
+
+c
+o
+
+
+>
+<u
+
+
+C9
+be
+c
+o
+
+
+as
+
+
+m
+
+eS
+
+K*
+
+eS
+bo
+
+05
+
+>
+
+hfi
+
+OJ
+
+C
+
+r^
+
+C
+
+02
+
+_o
+
+OJ
+
+GO
+
+■^
+
+tn
+
+03
+
+C
+
+0)
+
+J^
+
+bC
+C
+
+»\
+
+;s
+
+o3     -k^
+bxj  43
+
+Q     a,
+
+
+•~l  *l
+
+
+p
+
+3
+
+
+.       03
+
+-(J
+
+.      eS
+
+'cS
+c3  a.
+bo    1
+
+bo
+
+
+bo
+
+c
+
+o
+
+
+OJ
+
+
+03
+
+
+O
+
+
+bD
+
+c
+o
+
+
+03
+I
+
+O
+
+P
+
+bo
+
+w
+
+p
+
+bo
+
+C
+
+o
+
+r£2
+
+
+Q
+
+
+03
+
+0
+
+c<J
+
+Ki
+
+S
+
+ai
+
+Ct-1
+
+i:
+
+ai
+
+OD
+
+m
+
+^
+
+P
+
+as
+
+-3
+
+■^
+
+^
+
+s
+
+(Tl
+
+ert
+
+0
+
+P^
+
+J
+
+•-HtMeOrJ^lOCOIvCOO^O'-HCSICOTtiLOCCt^
+
+
+coo50'-l(^Jl^:)■*^cco^»
+
+1—iT— iCSICq(M<M(M(M(MCl
+
+
+January,  1883.
+
+(ElarentJon  |3rcss,   ©xfortr.
+
+A  SELECTION  OF
+
+BOOKS
+
+PUBLISHED  FOR  THE  UNIVERSITY  BY
+
+HENRY    FROWDE,
+
+AT    THE    OXFORD    UNIVERSITY    PRESS    WAREHOUSE,
+7    PATERNOSTER    ROW,    LONDON.
+
+ALSO  TO   BE   HAD   AT  THE
+
+CLARENDON    PRESS    DEPOSITORY,    OXFORD.
+
+
+LEXICONS,  GRAMMARS,  &c.    *
+
+(See  also  Clarendon  Press  Series,  pp.  22,  25,  28.)
+
+A    Greek-English   Lexicon,   by   Henry   George
+
+Liddell,  D.D.,  and  Robert  Scott,  D.D.     Seventh  Edition,  Revised
+and  Augmented  throughout.     1883.  4to.  cloth,  \l.  i6s.
+
+A  copious  Greek-English   Vocabulary,  compiled
+
+from  the  best  authorities.     1850.  24mo.  bound,  3s.
+
+A  Practical  Infrodnction  to  Greek  Accentuation,
+
+by  H.  W.  Chandler,  M.A.     Second  Edition.     1881.    8vo.   cloth,
+10s.  dd.
+
+A  Latin  Dictio7tary,  founded  on  Andrews'  edi-
+tion of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great
+part  rewritten  by  Charlton  T.  Lewis,  Ph.D.,  and  Charles  Short,
+LL.D.,  Professor  of  Latin  in  Columbia  College,  New  York.  1879.
+4to.  cloth,  il.  5s.
+
+The  Book  of  Hebrew  Roots,   by  Abu  '1-Waltd
+
+Marwan  ibn  Janah,  otiierwisc  called  Rabbi  Yonah    Now  first  edited,
+with  an  Appendix,  by  Ad.  Neubauer.     1875,  4to.  clolh,  2/.  Is.  bd.
+
+[9]  B
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Plato:    The  Dialogues,  translated  into  English,
+
+with  Analyses  and  Introductions,  by  B.  Jowett,  M.A.,  Regius
+Professor  of  Greek.  A  new  Edition  in  5  volumes,  medium  Svo.
+1875.  cloth,  3/.  los.
+
+Plato:    The  Republic,  translated  into  English,
+
+with  an  Analysis  and  Introduction,  by  B.  Jowett,  M.A.  Medium
+Svo.  cloth,  I2S.  dd.
+
+Plato:   Index   to.      Compiled   for   the    Second
+
+Edition  of  Professor  Jowett's  Translation  of  the  Dialogues.  By
+Evelyn  Abbott,  M.A.     1875.  8 vo.  paper  covers,  2s.  6c?.
+
+Thucydides :  Translated  into  English,  with  In-
+troduction, Marginal  Analysis,  Notes,  and  Indices.  By  B.  Jowett,
+M.A.,  Regius  Professor  of  Greek.     2  vols.     1881.     Medium  Svo.
+
+cloth,  1/.  I2S.
+
+
+THE  HOLY  SCRIPTURES,  &c.
+
+The  Holy  Bible  in  the  earliest  English  Versions,
+
+made  from  the  Latin  Vulgate  by  John  Wycliffe  and  his  followers :
+edited  by  the  Rev.  J.  Forshall  and  Sir  F.  Madden.  4  vols.  1850.
+Royal  4to.  cloth,  3Z.  3s.
+
+Also  reprinted  from  the  above,  with  Introduction  and
+Glossary  by  W.  "W.   Skeat,  M.A.
+
+The  New   Testament  in  English,   according  to
+
+the  Version  by  John  Wycliffe,  about  a.d.  1380,  and  Revised  by
+John  Purvey,  about  a.d.  1388.     Extra  fcap.     Svo.  cloth,  6s.
+
+The  Books   of  Job,  Psalms,   Proverbs,   Eccle-
+
+siastes,  and  the  Song  of  Solomon:  according  to  the  Wycliffite  Version
+made  by  Nicholas  de  Hereford,  about  a.d.  1381,  and  Revised  by
+John  Purvey,  about  a.d.  13S8,     Extra  fcap.     8vo.  cloth,  3s.  6d.
+
+
+The  Holy  Bible:    an   exact   reprint,    page    for
+
+page,  of  the  Authorized  Version  published  in  the  year  1611.
+Demy  4to.  half  bound,  i/.  is.
+
+Vetus    Testamenttim  ex   Versione   Septiiaginta
+
+Interpretum  secundum  exemplar  Vaticanum  Romae  editum.  Accedit
+potior  varietas  Codicis  Alexandrini.  Tomi  III.  Editio  Altera.
+iSmo.  cloth,  iSs.
+
+
+CLARENDON  PRESS,  OXFORD,
+
+
+On'ornis    Hcxaphwuni    quae    supersunt ;    sive,
+
+Vetcrum  IiUerprclum  Graeconim  in  totum  Vetus  Tcstamentum
+Fragmenta.  Edidit  Fridericus  Field,  A.M.  2  vols.  1875.  4^o-
+cloth,  5/.  5s.
+
+Libri  Psalmorwn  Versio  antiqua  Latina,  cum
+
+Paraphrasi  Anglo-Saxonica.  Edidit  B.  Thorpe,  F.A.S.  1835.
+8vo.  cloth,  I  OS.  dd.
+
+Lidri  Psalmoricm  Versio  2Lnt\c\\i2i  Gallica  e  Cod.
+
+MS.  in  Bibl.  Bodleiana  adservalo,  una  cum  Versione  Metiica
+aliisque  Monumentis  pervetustis.  Nunc  primum  desciipsit  et  edidit
+Franciscus  Michel,  Phil.  Doct.    i860.  8vo.  cloth,  los.  dd.
+
+The  Psalms  in  Hebrew  withoiU  points,      1879,
+
+Crown  8vo.  cloth,  3s.  dd.
+
+The  Book  of   Wisdo7n :   the   Greek   Text,  the
+
+Latin  Vulgate,  and  the  Authorised  English  Version;  with  an  In-
+troduction, Critical  Apparatus,  and  a  Commentary.  By  William
+J.  Deane,  M.A.,  Oriel  College,  Oxford;  Rector  of  Ashen,  Essex.
+Small  4to.  cloth,  1 2s.  6d,
+
+The  Book  of  Tobit.     A  Chaldee  Text,  from  a
+
+unique  MS.  in  the  Bodleian  Library ;  with  other  Rabljinical  Texts,
+English  Translations,  and  the  Itala.  Edited  by  Ad.  Ncubauer,  M.  A.
+1878.  Crown  Svo.  cloth,  6s.
+
+A  Commentary  on  the  Book  of  Proverbs.  Attri-
+buted to  Abraham  Ibn  Ezra.  Edited  from  a  Manuscript  in  the
+Bodleian  Library  by  S.  R.  Driver,  M.A.  Crown  Svo.  paper  cover,
+3s.  (>d.
+
+Horae  Hebraic ae  et  Talmndicae,  a  J.  Lightfoot.
+
+A  new  Edition,  by  R.  Gandell,  M.A.    4  vols.    1859.  Svo.  cloth,
+
+\l.  IS.
+
+Novum  Testamentum  Graece.  Antiquissimorum
+
+Codicum  Textus  in  ordine  parallelo  dispositi.  Accedit  collatio
+Codicis  Sinaitici.  Edidit  E.  II.  Hansell,  S.T.B.  Tomi  III.  1S64.
+Svo.  half  morocco,  2/.  1 2s,  6i.
+
+Novum  Testamentum  Graece.     Accedunt  paral-
+
+lela  S.  Scripturae  loca,  necnon  vetus  capitulorum  notatio  et  canones
+Eusebii.  Edidit  Carolus  Lloyd,  S.  T.  P.  R.,  necnon  Episcopus
+Oxoniensis.     i8mo.  cloth,  3s.
+
+The  same  on  writing  paper,  with  large  margin,  cloth,  los.
+
+
+6  CLARENDON  PRESS,  OXFORD.
+
+Novtmi    Testamenhim   Graece  juxta   Exemplar
+
+Millianum.     i8mo.  cloth,  is.  6d.
+The  same  on  -vTriting  paper,  with  large  margin,  cloth,  95.
+
+Evangelia  Sacra  Graece.  fcap.  8vo.  limp,  \s.  6d.
+The    Greek     Testament,    with     the     Readings
+
+adopted  by  the  Revisers  of  the  Authorised  Version  : —
+
+(i)  Pica  type.      Second  Edition,  with  Marginal  References,
+Demy  8vo.  cloth,  los.  6rf.
+
+(2)  Long  Primer  type.     Fcap.  8vo.  cloth,  4s.  6rf.
+
+(3)  The  same,  on  writing  paper,  with  wide  margin,  cloth,  15s.
+
+The  Parallel  New  Testament,  Greek  and  Engf-
+
+lish ;  being  the  Authorised  Version,  161 1;  the  Revised  Version,
+18S1 ;  and  the  Greek  Text  followed  in  the  Revised  Version.  8vo.
+cloth,  I2J-.  dd.
+
+The  Revised  Version  is  the  joint  property  of  the  U?iiversities  of  Oxford
+
+and  Cambridge.
+
+The  Gospel  of  St.  Mark  in  Gothic,  according  to
+
+the  translation  made  by  Wulfila  in  the  Fourth  Century.  Edited
+with  a  Grammatical  Introduction  and  Glossarial  Index  by  W.  W.
+Skeat,  M.A.     Extra  fcap.  8vo.  cloth,  4^.
+
+Canon  Mttratoriamis :    the  earliest  Cataloene
+
+o
+
+of  the  Books  of  the  New  Testament.  Edited  with  Notes  and  a
+Facsimile  of  the  MS.  in  the  Ambrosian  Library  at  Milan,  by  S.  P.
+Tregelles,  LL.D.     1867.  4to.  cloth,  los.  6J.
+
+
+FATHERS  OP  THE  CHURCH,  &c.
+
+St.  Athanasius :    Orations  against  the  Arians.
+
+With  an  Account   of  his  Life  by  William  Bright,  D.D.     1873.
+Crown  8vo.  cloth,  9s.
+
+St.  A  thanasiics :  Historical  Writings,  according
+
+to  the  Benedictine  Text.    With  an  Introduction  by  William  Bright,
+D.D.     1881.     Crown  8vo.  cloth,  los.  dd.
+
+St.  Augustine:   Select  Anti-Pelagian  Treatises,
+
+and  the  Acts  of  the  Second  Council  of  Orange.     With  an  Intro-
+duction by  William  Bright,  D.D.     Crown  8vo.  cloth,  9s.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+The  Canojis  of  the  First  Four  General  CoiLucils
+
+of  Nicaea.  Constantinople,  Ephesus,  and  Chalcedon.  1877.  Crown
+8vo.  cloth,  2s.  6rf.
+
+Notes  on  the  Canons  of  the  First  Fo7tr  General
+
+Councils.  By  William  Bright,  D.D.  1882.  Crown  Svo.  cloth,
+5s.  6rf.
+
+Cyrilli  A  rchiepiscopi  A  lexandrini  in  XII  Pro-
+
+phetas.  Edidit  P.  E.  Pusey,  A.M.  Tomi  II.  1868.  Svo.  cloth,
+2/.  2S.
+
+Cyrilli  A  rchiepiscopi  A  lexandrini  in  D.  Joannis
+
+Evaugcliiim.  Accedunt  Fra^^menta  Varia  necnon  Tractatus  ad
+Tiberium  Diaconum  Duo.  Edidit  post  Aubertum  P.  E.  Pusey,
+A.M.     Tomi  III.     1872.  Svo.  2/.  5s.
+
+Cyrilli  A  rchiepiscopi  A  lexandrini  Commentarii
+
+ill  Lticae  Evangeliiiin  quae  supersunt  Syriace.  E  MSS.  apud  Mus.
+Britan.  edidit  R.  Payne  Smith,  A.M.     1858.   4to.  cloth,  1/.  2s.
+
+The  same,  translated  by  R.  Payne  Smith,  M.A.
+
+2  vols.  1859.  Svo.  cloth,  14s.
+
+Ephraemi  Syri,    Rabulae    EpiscopI    Edesseni,
+
+Balaei,  aliorumque  Opera  Sclecta.  E  Codd.  Syriacis  MSS.  in
+Museo  Britannico  et  Bibliotheca  Bodleiana  asservatis  primus  edidit
+J.  J.  Overbeck.     1865.  Svo.  cloth,  il.  is.
+
+Eusebius    Ecclesiastical  History,  according   to
+
+the  text  of  Burton,  with  an  Introduction  by  William  Bright,  D.D.
+1881.  Crown  Svo.  cloth,  8s.  dd
+
+Irenaens:     The    Third  Book   of  St.   Irenaetis,
+
+Bishop  of  Lyons,  against  Heresies.  With  short  Notes  and  a
+Glossary  by  H.  Deane,  B.D.,  Fellow  of  St.  John's  College,  Oxford.
+1874.  Crown  Svo.  cloth,  5s.  ()d.
+
+Patrnm  Apostolicorum,  S.  Clementis   Roman i,
+
+S.  Ignatii,  S.  Polycarpi,  quae  su])ersunt.  Edidit  Guil.  Jacobsoii,
+S.T.P.R.     Tomi  II.     Fourth  Edition,  1863.  Svo.  cloth,  1/.  is.
+
+Socrates    Ecclesiastical    History,    according    to
+
+the  Text  of  Hussey,  with  an  Introduction  by  William  Blight.  D.D.
+1878.  Crown  Svo.  cloth,  ys  6J.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+ECCLESIASTICAL  HISTORY,  BIOGRAPHY,  &c.
+
+Baedae  Histoj^ia  Ecclesiastica.  Edited,  with  Eng-
+lish Notes,  by  G.  H.  Moberly,  M.A.  1881.  Crown  8vo.  cloth.  los.  bd.
+
+Bright  {TV.,  D.D.).    Chapters  of  Early  English
+
+Church  History.     1878.  8vo.  cloth,  12s.
+
+Burnet' s   History   of  the   Reformation    of  the
+
+Church  of  England.  A  new  Edition.  Carefully  revised,  and  the
+Records  collated  with  the  originals,  by  N.  Pocock,  M.A.  7  vols.
+1865.    Svo.  Price  reduced  to  il.  los.
+
+Councils  and  Ecclesiastical  Documents  relating
+
+to  Great  Britain  and  Ireland.  Edited,  after  Spelman  and  Wilkins,
+by  A.  W.  Haddan,  B.D.,  and  W.  Stubbs,  M.A.,  Regius  Professor
+of  Modern  History,  Oxford.  Vols.  I.  and  III.  1869-71.  Medium
+Svo.  cloth,  each  iZ.  is.
+
+Vol.  II.  Part  I.  1873.  Medium  Svo.  cloth,  los.  6d.
+Vol.11.  Part  II.    1878.    Church  of  Ireland;   Memorials   of  St.
+Patrick.     Stiff  covers,  3s.  6d.
+
+Hammond   {C  E.).      Liturgies,   Eastern    and
+
+Western.  Edited,  with  Introduction,  Notes,  and  a  Liturgical
+Glossary.     1S78.  Crown  Svo.  cloth,  10s.  6rf.
+
+An  Appendix  to  the  above.     1879.  Crown  Svo.  paper  covers,  is.  6^.
+
+John,  Bishop  of  Ephesus.      The  Third  Part  of
+
+his  Ecclesiastical  History.  [In  Syriac]  Now  first  edited  by
+William  Cureton,  M.A.     1853.  4*^0-  cloth,  i/.  12s.
+
+The  same,  translated  by  R.  Payne  Smith,  M.A.
+
+i860.  Svo.  cloth,  los.
+
+Monnmenta  Ritzialia  Ecclesiae  Anglicanae.  The
+
+occasional  Offices  of  the  Church  of  England  according  to  the  old
+use  of  Salisbury  the  Prymer  in  EngUsh,  and  other  prayers  and
+forms,  with  dissertations  and  notes.  By  William  Maskell,  M.A.
+Second  Edition.     1882.  3  vols.  Svo.  cloth,  2/.  10s.
+
+The  Ancient  Liturgy  of  the  Church  of  England,
+
+according  to  the  uses  of  Sarum,  York,  Hereford,  and  Bangor,  and
+the  Roman  Liturgy  arranged  in  parallel  columns,  with  preface  and
+notes.  By  William  Maskell,  MA.  Third  Edition.  1882.  Svo.
+cloth,  15s.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+The  Litnro;y  and  Rihial  of  the  Celtic  Church.
+
+By  F.  E.  \Varren,  B.D.,  Fellow  of  St.  John's  College,  Oxford.
+a88i.  8vo.  cloth,  14s.
+
+The  Lcofric  Missal.     By  the  same  Editor.     In
+
+the  Press.
+
+Records    of   the    Refoi'-7natiou.     The    Divorce,
+
+1527-1533.  Mostly  now  for  the  first  time  printed  from  MSB.  in
+the  British  Museum  and  other  libraries.  Collected  and  arranged
+by  N.  Pocock,  M.A.     1870.    2  vols.  8vo.  cloth,  1/.  i6s.
+
+Shirley  {W.  TV.).     Some  Account  of  the  Church
+
+in  the  Apostolic  Age.  Second  Edition,  1874.  fcap.  Svo.  cloth,
+3s.  6rf.
+
+Stubbs  (TV.).     Rcgistr7im  Sac7'tim  Anglicamim.
+
+An  attempt  to  exhibit  the  course  of  Episcopal  Succession  in  Eng-
+land.    1858.  small  4to.  cloth,  8s.  dd.
+
+
+ENGLISH    THEOLOGY.
+
+BtUlers  Works,  with  an  Index  to  the  Analogy.
+
+2  vols.     1874.  Svo.  cloth,  IIS.
+
+Bzitlers  Ser^nons.     Svo.  cloth,  5^".  6d.
+
+Butler  s  Analogy  of  Religion.  Svo.  cloth,  ^s.  6d.
+
+Hcurtlcys  Harmonia  Symbolical  Creeds  of  the
+
+Western  Church.     1858.  8vo.  cloth,  6s.  6d.
+
+Hoinilies    appointed    to    be   read  in    ChurcJies.
+
+Edited  by  J.  Griffiths,  M.A.     1859.  Svo.  cloth,  7s.  6rf.
+
+Hooker's  Works,  with  his  Life  by  Walton,  ar-
+ranged by  John  Keble,  M.A.  Sixth  Edition,  1874.  3  vols.  Svo.
+cloth,  \l.  IIS.  6i.
+
+Hooker  s  Works  ;  the  text  as  arranged  by  John
+
+Keble,  M.A.    2  vols.     1875.  Svo.  cloth,  iis.
+
+
+lo  CLARENDON  PRESS,  OXFORD.
+
+
+Pearsons  Exposition   of  the    Creed.      Revised
+
+and  corrected  by  E.  Burton,  D.D.   Sixth  Edition,  1877.  Svo.  cloth,
+I  OS.  6d.
+
+Waterland's   Review    of  the    Doctrine  of  the
+
+Eiicharist,  with  a  Preface  by  the  present  Bishop  of  London.    1880.
+Crown  8vo.  cloth,  6s.  dd.
+
+Wheatly  s  Illustration  of  the  Book  of  Common
+
+Prayer.     A  new  Edition,  1846.  Svo.  cloth,  5s.
+
+Wyclif.     A    Catalogtie  of  the  Original  Works
+
+of/ohn  Wyclif,  by  W.  W.  Shirley,  D.D.     1865.  8vo.  cloth,  3s.  6^.
+
+Wyclif    Select  English  Works.    By  T.  Arnold,
+
+M.A.     3  vols.     1869-1871.  8vo.  cloth.     Price  reduced  to  ll.  is.
+
+Wyclif.    Trialogus.    With  the  Supplement  now
+
+first  edited.    By  Gotthard  Lechler.    1S69.8VO.  cloth.   Price  reduced
+to  7s.
+
+
+HISTORICAL   AND    DOCUMENTARY   WORKS.
+British  Barrows,  a  Record  of  the  Examination
+
+of  Sepulchral  Mounds  in  various  parts  of  England.  By  William
+Greenwell,  M.A.,  F.S.  A.  Together  with  Description  of  Figures  of
+Skulls,  General  Remarks  on  Prehistoric  Crania,  and  an  Appendix
+by  George  Rolleston,  M.D.,  F.R.S.    1877.  Medium  Svo.  cloth,  25s.
+
+Britton.     A  Treatise  7ipon  the  Common  Law  of
+
+England,  composed  by  order  of  King  Edward  I.  The  French  Text
+carefully  revised,  with  an  English  Translation,  Introduction,  and
+Notes,  by  F.  M.  Nichols,  M.A.  2  vols.  1865.  Royal  Svo.  cloth,
+\l.  1 6s.
+
+Clarendons    [Edw.   Earl  of)   History    of  the
+
+Rebellion  and  Civil  Wars  in  England.  7  vols.  1839.  i8mo.  cloth,
+\l.  IS.
+
+Clarendons    [Ediv.    Earl  of)   Histojy   of    the
+
+Rebellion  and  Civil  Wars  in  England.  Also  his  Life,  written  by
+himself,  in  which  is  included  a  Continuation  of  his  History  of  the
+Grand  Rebellion.  With  copious  Lidexes.  In  one  volume,  royal
+Svo.  1842.  cloth,  i/.  2s.
+
+
+CLARENDON  PRESS,  OXFORD.  ii
+
+
+Clintons  Epitome  of  the  Fasti  Hellcnici.     1 85 1 .
+
+8vo.  cloth,  65.  dd.
+
+Clintons  Epitome  of  the  Fasti  Romani.      1854.
+
+8vo.  cloth,  7s.
+
+Freeman  s    {E.  A)    History   of  the    Norman
+
+Conquest  of  England ;  its  Causes  and  Results.     In  Six  Volumes.
+Svo.  cloth,  5/.  9>-.  dd.
+
+Vols.  I-II  together,  3rd  edition,  1877.  1/.  i6s.
+
+Vol.  Ill,  2nd  edition,  1874.  1/.  is.
+
+Vol.  IV,  2nd  edition,  1875.   i/.  is.
+
+Vol.  V,  1876.  I/.  IS.  )
+
+Vol.  VI.     Index.     1879.  8vo.  cloth,  10s.  dd.  \
+
+Freeman  (E.  A.).     The  Reign  of  William  Rnfois
+
+and  the  Accession  of  Henry  the  First.     2  vols.  8vo.  cloth,  i/.  i6s7\
+
+Gascoigncs     Theological    Dictionary    ("  Liber
+
+Veri'tatum ") :  Selected  'Passages,  illustrating  the  condition  of
+Church  and  State,  1403-1458.  With  an  Introduction  by  James
+E.  Thorold  Rogers,  M.P.     Small  4to.  cloth,  los.  dd.
+
+Magna  Carta,  a  careful   Reprint.     Edited  by
+
+\V.  Stubbs,  M.A.,  Regius  Professor  of  Modern  History.  1879.
+4to.  stitched,  is.
+
+Olaf.    Passio  et  Miracula  Beati  Olavi.     Edited
+
+from  a  Twelfth-Century  MS.  in  the  Library  of  Corpus  Christi
+College,  Oxford,  with  an  Introduction  and  Notes,  by  Frederick
+Metcalfe,  M.A.     Small  4to.  stiff  cover,  6s.
+
+Protests  of  the  Lords,    including   those  which
+
+have  been  expunged,  from  1624  to  1874;  with  Historical  Intro-
+ductions Edited  by  James  E.  Thorold  Rogers,  M.A.  1875.  3  vols.
+8vo.  cloth,  2/.  2s.
+
+Rogers  s  History  of  Agriculture  and  Prices  in
+
+England,  a.d.  i  259-1 793.
+
+Vols.  I  and  II  (1259-14^0).   1866.  8vo.  cloth,  2Z.  2s.
+Vols.  Ill  and  IV  (1401-1582).  1882.  Svo.  cloth.  %l.  iQu
+
+
+12  CLARENDON  PRESS,  OXFORD.
+
+
+Sturlunga  Saga,  including  the  Islendlnga  Saga
+
+of  Lawman  Sturla  Thordsson  and  other  works.  Edited  by  Dr.
+Gudbrand  Vigfusson.     In  2  vols.     1878.  8vo.  cloth,  2/.  2s.
+
+Two   of  the   Saxon    Chro7ticIes  parallel,    with
+
+Supplementary  Extracts  from  the  Others.  Edited,  with  Intro-
+duction, Notes,  and  a  Glossarial  Index,  by  J.  Earle,  M.A.  1865.
+8vo.  cloth,  1 6s.
+
+Statutes  made  for  the  University  of  Oxford,  and
+
+for  the  Colleges  and  Halls  therein,  by  the  University  of  Oxford
+Commissioners.     1882.     8vo.  cloth,  12s.  6d»
+
+Also  separately,
+
+Statittes  made  for  the  University  of  Oxford.  2S>
+Statutes    made  for    the    Colleges    of    Oxford.
+
+IS.  each.
+
+Statuta  Universitatis  Oxoniensis.     1882.     8vo.
+
+cloth,  5s.
+
+The  Student's  Handbook  to  the  University  and
+
+Colleges  of  Oxford.  Sixth  Edition.  iS8i.  Extra  fcap.  8vo.
+cloth,  2s.  6d.
+
+
+MATHEMATICS,  PHYSICAL   SCIENCE,  &c.
+
+Astronomical  Observations  made  at  the  Uni-
+versity Observatory,  Oxford,  under  the  direction  of  C.  Pritchard,
+M.A.,  Savihan  Professor  of  Astronomy.  No.  i.  1878.  Royal  8vo.
+paper  covers,  3s.  6c?.
+
+Treatise  on  Infinitesimal  CalctUus.    By  Bartho-
+lomew Price,  M.A.,  F.R.S.,  Professor  of  Natural  Philosophy,  Oxford.
+Vol.  I.  Differential  Calculus.   Second  Edition,  8vo.  cloth,  14s.  6cf.
+Vol.  II.    Integral  Calculus,  Calculus  of  Variations,  and  Differential
+
+Equations.     Second  Edition,  1865.  8vo.  cloth,  i8s.
+Vol.  III.    Statics,  including  Attractions ;  Dynamics  of  a  Material
+
+Particle.     Second  Edition,  1868.  8vo.  cloth,  i6s.
+Vol.  IV.  Dynamics  of  Material  Systems ;  together  with  a  chapter
+
+on  Theoretical  Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.  1862.
+
+8vo.  cloth,  i6s.
+
+
+CLARENDON  PRESS,  OXFORD.  13
+
+
+Ri gaud's    Correspondence  of  Scientific  Men  of
+
+the  17th  Century,  with  Table  of  Contents  by  A.  de  Morgan,  and
+Index  by  the  Rev.  J.  Rigaud,  M.A.,  Fellow  of  Magdalen  College,
+Oxford.     2  vols.  1S41-1862.  8vo.  cloth,  i8s.  6rf.
+
+Vesuvius.       By   John    Phillips,    M.A.,    F.R.S.,
+
+Professor  of  Geology,  Oxford.     1869.  Crown  Svo.  cloth,  \os.  6d.
+
+Geology    of   Oxford    and    the    Valley    of   the
+
+Thames.     By  the  same  Author.     1871.  Svo.  cloth,  21s.
+
+Synopsis    of   the    Pathological    Series    in    the
+
+Oxford  Museum.  By  H.  W.  Aciand,  M.D.,  F.R.S.,  1867.  Svo.
+cloth,  2s.  6rf.
+
+Thcsaurtis  Entomologicus  Hopcianus^  or  a  De-
+scription of  the  rarest  Insects  in  the  Collection  given  to  the
+University  by  the  Rev.  William  Hope.  By  J.  O.  Westwood,  M.A.,
+F.L.S.     SVith  40  Plates.     1874.   Small  folio,  half  morocco,  7/.  los.
+
+Text-Book  of  Botany,  Morphological  and  Phy-
+siological. By  Dr.  Julius  Sachs,  Professor  of  Botany  in  the  Uni-
+versity of  Wiirzburg.  A  New  Edition.  Translated  by  S.  H.  Vines,
+M.A.    1SS2.     Royal  Svo.  1/.  IIS.  6rf.
+
+Johannes  Miiller  on  Certain  Variations  in  the
+
+Vocal  Organs  of  the  Passeres  that  have  hitherto  escaped  notice.
+Translated  by  F.  J.  Bell.  B.A.,  and  edited  with  an  Appendix,  by
+A.  H.  Garrod,  M.A.,  F.R.S.  With  Plates.  1878.  410.  paper
+covers,  7s.  6rf.
+
+
+MISCELLANEOUS.
+
+BacoiUs  Novum  Organwm.     Edited,  with  Eng-
+lish notes,  by  G.  W.  Kitchin,  M.A.     1855.  Svo.  cloth,  9s.  6d.
+
+Bacon's  Novum  Orga^ium.     Translated  by  G.
+
+W.  Kitchin,  M.A.     1855'.  Svo.  cloth,  9s.  dd.     (See  also  p.  38.).
+
+The  Works  of  George  Berkeley,  D.D.,  formerly
+
+Bishop  of  Cloyne ;  including  many  of  his  writings  hitherto  un-
+published. With  Prefaces,  Annotations,  and  an  Account  of  his
+Life  and  Philosophy,  by  Alexander  Campbell  Fraser,  M.A.  4  vols.
+1871.  Svo.  cloth,  2/.  18s.
+
+Tfte  Life,  Letters,  &c.     1  vol.  cloth,  16s.     (See  also  p.  38.)
+
+
+14  CLARENDON  PRESS,  OXFORD.
+
+
+The  Logic  of  Hegel ;  translated  from  the  En-
+cyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by
+William  Wallace,  M.A.     1874.  8vo.  cloth,  14s.
+
+SmitJis  Wealth  of  Nations.     A   new   Edition,
+
+with  Notes,  by  J.  E.  Thorold  Rogers,  M.A.    2  vols.  iSSo,  cloth,  21s.
+
+A  Course  of  Lectures  on  Art,  delivered  before
+
+the  University  of  Oxford  in  Hilary  Term,  1870,  by  Johii  Ruskin,
+M.A.,  Slade  Professor  of  Fine  Art.     8vo.  cloth,  (is.
+
+Aspects  of  Poetry ;    being   Lectures   delivered
+
+at  Oxford  by  John  Campbell  Shairp,  LL.D.,  Professor  of  Poetry,
+Oxford.     Crown  8vo.  cloth,  10s.  6d.
+
+A  Critical  Account  of  the  Drawings  by  Michel
+
+Angela    and  Raffaello   iti  the   University   Galleries,   Oxford.     By  J.
+C.  Robinson,  F.S.A.     1870.  Crown  8vo.  cloth,  4s.
+
+Catalogue  of  the  Castellani  Collection  of  Anti-
+quities in  the  University  Galleries,  Oxford.  By  W.  S.  W.  Vaux,  M. A.,
+F.R.S.     Crown  8vo.  stiff  cover,  is.
+
+
+©ije  ^ac«tr  23oo]^s  of  tfie  lEast.
+
+Translated  by  various  Oriental  Scholars,  and  edited  by
+
+F.  Max  Muller.
+
+Vol,    I.    The    Upanishads.     [Translated  by  F.  Max
+
+Miiller.]  Part  I.  The  A7;andogya-upanishad,  The  Talavakara-
+upanishad.  The  Aitareya-arawyaka,  The  Kaushitaki-brahmawa-
+upanishad,  and  The  Va^asaneyi-sa;«hita-upauishad.  8vo.  cloth,
+10s.  6rf.
+
+Vol.  II.   The  Sacred  Laws   of  the  Aryas,  as  taught
+
+in  the  Schools  of  Apastamba,  Gautama,  Vasish^/;a,  and  Baudhayana.
+[Translated  by  Prof.  Georg  Biihler.]  Part  I,  Apastamba  and
+Gautama.     8vo.  cloth,  105.  6c?.
+
+Vol.  III.    The  Sacred  Books  of  China.     The  Texts
+
+of  Confucianism.  [Translated  by  James  Legge.]  Parti.  The  Sh{i
+King,  The  Religious  portions  of  the  Shih  King,  and  The  Hsiao
+King.     8vo.  cloth,  12s.  6rf.
+
+
+CLARENDON  PRESS,  OXFORD.  15
+
+
+Vol.    IV.     The     VcndtdAd.      Translated     by    James
+
+Darmestetcr.     8vo.  cloth,  los.  dd.
+
+Vol.  V.  The  Bnndahis,  Bahinan   Vast,  and  SJidyast-
+
+liUShiyast.  Pahlavi  Texts,  Part  I.  Translated  by  E.  W.  West.
+Svo.  cloth,  I2S.  61/.
+
+Vols.  VI   and    IX.    The   Qiir^dn.      Parts   I  and  II.
+
+Translated  by  Professor  E.  H.  Palmer.     Svo.  cloth,  2is.
+
+Vol.  VII.    TJic    Institutes    of    Vishmi.     Translated
+
+by  Professor  Julius  Jolly.     Svo.  cloth,  los,  6d.
+
+Vol.  VIII.    The    Bhagavadgttd,    Sanatsugdtiya,    and
+
+Anugftd.  Translated  by  Kashinath  Trimbak  Telang.  Svo.  cloth,
+I  OS.  dd.
+
+Vol.  X.  The  Dhannnapada,   translated    by  Professor
+
+F.  Max  Midler ;  and  The  Sutta  Nifata,  translated  by  Professor
+Fausboll ;  being  Canonical  Books  of  the  Buddhists.  Svo.  cloth,
+I  OS.  6rf.
+
+Vol.  XI.  TJie  M ahAparinibbdna  Siitia,   The   Tcvigga
+
+Sutta,  The  Jllahcisudassaiia  Sutta,  The  Dhamiua-Y^akkappavattana
+Sutta.     Translated  by  T.  W.  Rhys  Davids.     Svo.  cloth,  los.  6d.
+
+Vol.    XII.    The     Satapatha-Brdhmana.      Translated
+
+by  Professor  Eggeling.     Vol.  I.     8vo  cloth,  lis.  6d.
+
+Vol.  XIII.  The  Pdtimokkha.     Translated  by  T.  VV.
+
+Rhys  Davids.  The  Alah&vagga,  Part  I.  Translated  by  Dr.  H.
+Oldenberg.     Svo.  cloth,  los.  (id.
+
+Vol.  XIV.   The  Sacred  Laws  of  the  Aryas,  as  taught
+
+in  the  Schools  of  VasishMa  and  Baudhayana.  Translated  by  I'ro-
+fessor  Georg  Biihler.     Svo.  cloth,  los.  6d.
+
+Vol.  XVI.   The  Yt  King,  with  an  Appendix  on  the
+
+Philosophy  of  the  Scholars  of  the  Sung  dynasty,  professedly  derived
+from  the  Yi.     Translated  by  James  Legge.     Svo.  cloth,  los.  6d.
+
+Vol.  XVIII.    The  Dddistdn-t  Dhiik,  and  Epistles  of
+
+Mihii'isVihar.  Pahlavi  Texts,  Part  II.  Translated  by  E.  W.  West.
+Svo.  cloth,  1 2s.  dd.
+
+The  following  Volumes  are  in  the  Press : —
+
+Vol.   XV.    The    Upanishads.      Part    II.     Translated
+
+by  F.  Max  Miiller.
+
+
+1 6  CLARENDON  PRESS,  OXFORD.
+
+
+Vol.  XVII.    The  Mahdvagga,  and  Yinllavagga.     Part
+
+II.     Translated  by  T.  W.  Rhys  Davids  and  Dr.  H.  Oldenberg.
+
+Vol.  XIX.  The  Fo-sho-hiiig-tsan-kiiig.   Translated  by-
+Samuel  Beal.
+
+Vol.  XX.   The  Vdyu-Pwdna.  Translated  by  Professor
+
+Bhandarkar,  of  Elphinstone  College,  Bombay.
+
+Vol.  XXI.  The  Saddharma-pundarika.  Translated  by
+
+Professor  Kem.
+
+Vol.  XXII.     The   Akdrdnga-StUra.     Translated   by
+
+Professor  Jacobi.
+
+^nectjota  ©xoni'tnsfa :
+
+Classical    Series.      Vol.    I.      Part    I.      The   English
+
+Manuscripts  of  the  Nicomachemt  Ethics,  described  in  relation  to
+Bekker's  Manuscripts  and  other  Sources.  By  J.  A.  Stewart,  M.A.,
+Classical  Lecturer,  Christ  Church.     Small  4to.  3s.  dd.
+
+Classical    Series.     Vol.  I.      Part  II.     Nonius   Mar-
+
+cellus,  de  Compendiosa  Doctrina,  Harleian  MS.  2719.  Collated
+by  J.  H.  Onions,  M.A.,  Senior  Student  of  Christ  Church.  Small
+4to.  3s.  6cf.
+
+Classical  Series.    Vol.  I.  Part  III.    Aristotle's  Physics.
+
+Book  VII.  Collation  of  various  MSS. ;  vk'ith  an  Introduction
+by  R.  Shute,  M.A.     Small  4to.  t.s.
+
+Semitic    Series.     Vol.    I.     Part    I,     Commentary   on
+
+Ezra  and  Nehe/niah.  By  Rabbi  Saadiah.  Edited  by  H.  J.  Mathews,
+M.A.,  Exeter  College,  Oxford.     Small  4to.  is.  6d.
+
+Aryan    Series.     Vol.    I.      Part    I.     Bnddhist    Texts
+
+from  lapan.     Edited  by  F.  Max  Miiller.     Small  4to.  3s.  dd.
+Mediaeval    and     Modern     Series.     Vol.    I.     Part    I.
+
+Sinononia  Bartholonici ;  A  Glossary  from  a  Fourteenth-Century
+MS.  in  the  Library  of  Pembroke  College,  Oxford.  Edited  by  J.
+L.  G.  Mowat,  M.A.,  Fellow  of  Pembroke  College.  Small  4to.
+3s.  dd.
+
+
+CLARENDON  PRESS,  OXFORD.  17
+
+
+Cliirtnirnit  ^itss  Serbs
+
+
+The  Delegates  of  the  Clarendon  Press  having  undertaken
+the  publication  of  a  series  of  works,  chiefly  educational,  and
+entitled  the  Clarntbon  |1rfss  Scries,  have  published,  or  have
+in  preparation,  the  following.
+
+Those  to  which,  prices  are  attached  are  already  published  ;  the
+others  are  in  preparation,
+
+I.    ENGLISH.
+A  First  Reading  Book.     By  Marie  Eichens  of
+
+Berlin ;  and  edited  by  Anne  J.  Clough.  Extra  fcap.  8vo.  stiff
+covers,  4^.
+
+Oxford  Reading  Book,    Part    I.       For    Little
+
+Children.     Extra  fcap.  8vo.  stiff  covers,  6(/.
+
+Oxford  Reading  Book,   Part  II.      For  Junior
+
+Classes.     Extra  fcap.  8vo.  stiff  covers,  dd.
+
+An  Elementary  English  Grammar  and  Exercise
+
+Book.  By  O.  W.  Tancock,  M.A.,  Head  Master  of  Norwich  School.
+Second  Edition.     Extra  fcap.  Svo.  cloth,  is.  dd.
+
+An  English  Grammar  and  Reading  Book,  for
+
+Lower  Forms  in  Classical  Schools.  By  O.  W.  Tancock,  M.A.,
+Head  Master  of  Norwich  School.  Third  Edition.  Extra  fcap.
+Svo.  cloth,  3s.  dd.
+
+Typical  Selections  from  the  best  English  Writers.,
+
+with   Introductory  Notices.     Second  Edition.     In  Two  Volumes.
+Extra  fcap.  Svo.  cloth,  3$.  dd.  each.
+Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Tope  to  Macaulay.
+
+The  Philology  of  the  English   Tongne.     By  J.
+
+Earle,  M.A.,^formerly  Fellow  of  Oriel  College,  and  Professor  of
+Anglo-Saxon,  Oxford.  Third  Edition.  Extra  fcap.  Svo.  cloth,
+7s.  dd.
+
+C
+
+
+1 8  CLARENDON  PRESS,  OXFORD.
+
+
+A  Book  for  the  Beginner  in  Anglo-Saxon.     By
+
+John  Earle,  M.A.,  Professor  of  Anglo-Saxon,  Oxford.  Second
+Edition.     Extra  fcap.  8vo.  cloth,  2s.  6cf.
+
+An  Ano;lo-Saxon  Reader.     In  Prose  and  Verse.
+
+With  Grammatical  Introduction,  Notes,  and  Glossary.  By  Henry
+Sweet,  M.A.     Third  Edition,     Extra  fcap.  8vo.  cloth,  8s.  6c?.
+
+An  Anglo-Saxon  Primer,  with  Grammar,  Notes,
+
+and  Glossary.    By  the  same  Author.     Extra  fcap.  8vo.  cloth,  2s.  6d.
+
+The  Onmtlnm ;  with  the  Notes  and  Glossary
+
+of  Dr.  R.  M.  White.  Edited  by  Rev.  R.  Holt,  M.A.  1878.  2  vols.
+Extra  fcap.  8vo.  cloth,  21s.
+
+Specimens  of  Early  English.  A  New  and  Re-
+vised Edition.  With  Introduction,  Notes,  and  Glossarial  Index.
+By  R.  Morris,  LL.D.,  and  W.  W.  Skeat,  M.A.
+
+Part  I.     From  Old  English  Homilies  to  King  Horn  (a.d.  1 150
+to  A.D.  1300).     Extra  fcap.  8vo.  cloth,  9s.
+
+Part  II.     From  Robert  of  Gloucester  to  Gower  (a.d.  1298  to
+A.D.  1393).     Second  Edition.    Extra  fcap.  8vo.  cloth,  7s.  6cf.
+
+Specimens    of   English    Literature,    from    the
+
+'  Ploughmans  Crede '  to  the  '  Shepheardes  Calender '  (a.d.  1394  to
+A.D.  1579).  With  Introduction,  Notes,  and  Glossarial  Index.  By
+W.  W.  Skeat,  M.A.     Extra  fcap.  8vo.  cloth,  7s.  6rf.
+
+The    Vision  of  William  concerning  Piers   the
+
+Plowman,  by  William  Langland.  Edited,  with  Notes,  by  W.  W.
+Skeat,  M.A.    Third  Edition.     Extra  fcap.  8vo.  cloth,  4s.  dd.
+
+Chaucer.     The  Prioresses   Tale ;   Sir   Thopas  ;
+
+The  Monkes  Tale ;  The  Clerkes  Tale ;  The  Squieres  Tale,  &c.
+Edited  by  W.  W.  Skeat,  M.A.  Second  Edition.  Extra  fcap.
+8vo.  cloth,  4s.  6d.
+
+Chaucer.      The    Tale  of  the  Man   of  Lawe ;
+
+The  Pardoneres  Tale ;  The  Second  Nonnes  Tale ;  The  Chanouns
+Yemannes  Tale.  By  the  same  Editor.  Second  Edition.  Extra
+fcap.    8vo.    cloth,  4s.  dd.    (See  also  p.  20.)
+
+
+CLARENDON  PRESS,  OXFORD.  19
+
+
+Old  Enc^lish  Drama.     Marlowe  s  TraQ;ical  His-
+
+tory  of  Dr.  F"austus,  and  Greene's  Honourable  History  of  Friar
+Bacon  and  Friar  Bungay.  Edited  by  A.  W.  Ward,  M.A.,  Professor
+of  History  and  English  Literature  in  Owens  College,  Manchester.
+1878.     Extra  fcap.  8vo.  cloth,  5s.  6rf.
+
+Marlowe.      Edward  II.      With    Introduction,
+
+Notes,  &c.  By  O.  W.  Tancock,  M.A.,  Head  Master  of  Nonvich
+School.     Extra  fcap.  Svo.  cloth,  3s.
+
+Shakespeare.     Hamlet.    Edited  by  W.  G.  Clark,
+
+M.A.,  and  W.  Aldis  Wright,  M.A.     Extra  fcap.  8vo.  stiff  covers,  2s.
+
+Shakespeare.      Select    Plays.      Edited    by   W.
+
+Aldis  Wright,  M.A.     Extra  fcap.  8vo.  stiff  covers.
+
+The  Tempest,  is.  6(f.  King  Lear,  is.  6rf.
+
+As  You  Like  It,  is,  6rf.  A  Midsummer  Night's  Dream,  is.  ^d.
+
+Julius  Caesar,  as.  Coriolanus,  2s.  ^d.
+
+Richard  the  Third,  2s.  6rf.  Henry  the  Fifth,  2s.
+
+Twelfth  Night.    In  the  Press.    (For  other  Plays,  see  p.  20.)
+
+Milton.     Areopagitica.    With  Introduction  and
+
+Notes.  By  J.  W.  Hales,  ISLA.,  late  Fellow  of  Christ's  College,
+Cambridge.     Second  Edition.     Extra  fcap.  Svo.  cloth,  35.
+
+Bunyan.     Holy  War.     Edited  by  E,  Venables,
+
+M.A.    In  the  Press.     (See  also  p.  21.)
+
+Locke  s  Conduct  of  the  Understanding.     Edited,
+
+with  Introduction,  Notes,  &c.,  by  T.  Fowler,  M.A.,  Professor  of
+Logic  in  the  University  of  Oxford.  Second  Edition.  Extra  fcap.
+Svo.  cloth,  2s.
+
+Addison.  Selections  from  Papers  in  the  Spec-
+tator. With  Notes.  By  T.  Arnold,  M.A.,  University  College.
+Extra  fcap.  Svo.  cloth,  4s.  dd.
+
+Burke.     Four   Letters    on    the    Proposals   for
+
+Peace  with  the  Regicide  Directory  of  France.  Edited,  with  In-
+troduction and  Notes,  by  E.  J.  Payne,  M,A.  Extra  fcap.  Svo.
+cloth,  js.     (See  also  p.  21.)
+
+C  2
+
+
+20  CLARENDON  PRESS,  OXFORD.
+
+Also  the  following  in  paper  covers  :—
+
+Goldsmith.      The  Deserted  Village,     id.
+Gray.     Elegy  and  Ode  on  Eton  College.     2d.
+Johison.      Vanity  of  Human    Wishes.     With
+
+Notes  by  E.  J.  Payne,  M.A.     i^d.
+
+Keats.     Hyperion,   Book   I.     With    Notes   by
+
+W.  T.  Arnold,  B.A.     i,d.
+
+Milton.     With  Notes  by  R.  C.  Browne,  M.A.
+
+Lycidas,  3^.       L' Allegro,  ^d.       II  Penseroso,  /^d.       Comus,  6rf.
+Samson  Agonistes,  6J.
+
+Parnell.     The  Hermit,     id.
+
+Scott.     Lay  of  the  Last  Minstrel.    Introduction
+
+and  Canto  I,  with  Preface  and  Notes  by  W.  Minto,  M.A.     6d.
+
+A  SERIES  OP  ENGLISH  CLASSICS,
+
+Designed  to  meet  the  -wants  of  Students  in  English  Litera-
+ture, by  the  late  Rev.  J,  S.  BREWER,  M.A.,  of  Queen's  College,
+Oxford,  and  Professor  of  English  Literature  at  King's  College,
+London.
+
+1.  Chattcer.      The  Prologue  to  the  Canterbury
+
+Tales  ;  The  Knightes  Tale  ;  The  Nonne  Prestes  Tale.  Edited  by
+R.  Morris,  Editor  of  Specimens  of  Early  English,  &c.,  &c.  Sixth
+Edition.     Extra  fcap.  8vo.  cloth,  2s.  6cf.     (See  also  p.  18.)
+
+2.  Spenser  s  Faery  Queene.     Books   I   and   II.
+
+Designed  chiefly  for  the  use  of  Schools.  With  Introduction,  Notes,
+and  Glossary.     By  G.  W.  Kitchin,  M.A.
+
+Book  I.     Eighth  Edition.     Extra  fcap.  8vo.  cloth,  2s.  ()d.
+
+Book  II.     Sixth  Edition.     Extra  fcap.  8vo.  cloth,  2  s.  6  J.
+
+3.  Hooker.   Ecclesiastical  Polity,  Book  L   Edited
+
+by  R.  W.  Church,  M.A.,  Dean  of  St.  Paul's  ;  formerly  Fellow  of
+Oriel  College,  Oxford.    Second  Edition.    Extra  fcap.  Svo.  cloth,  2s.
+
+4.  Shakespeare.     Select  Plays.     Edited  by  W.
+
+G.  Clark,  M.A.,  Fellow  of  Trinity  College,  Cambridge ;  and  W.
+Aldis  Wright,  M.A.,  Trinity  College,  Cambridge.  Extra  fcap.
+Svo.  stiff  covers.
+
+I.  The  Merchant  of  Venice,     is.
+II.  Richard  the  Second,     is,  dd.
+III.  Macbeth,     is.  6rf,     (For  other  Plays,  see  p.  19.)
+
+
+CLARENDON  PRESS,  OXFORD.  21
+
+
+5.  Bacon.
+
+I.  Advancement  of  Learning.     Edited   by  \V.  Aldis  Wright
+M.A.     Second  Edition.     Extra  fcap.  8vo.  cloth,  4s.  6J.
+
+II.  The  Essays.  With  Introduction  and  Notes.  By  J.  R.
+Thursfield,  M.A.,  Fellow  and  formerly  Tutor  of  Jesus
+College,  Oxford.     In  Preparation.
+
+6.  Milton.     Poems.     Edited  by  R.  C.  Browne,
+
+M.A.     2  vols.    Fifth  Edition.     Extra  fcap.  8vo.  cloth,  6s.  ^d.
+Sold  separately,  Vol.  I.  4s. ;  Vol.  II.  3s.     (See  also  p.  20.)
+
+7.  Dryden.      Select   Poems.      Stanzas    on    the
+
+Death  of  Oliver  Cromwell ;  Astrxa  Redux ;  Annus  Mirabilis ;
+Absalom  and  Achitophel ;  Religio  Laici ;  The  Hind  and  the
+Panther.  Edited  by  W.  D.  Christie,  M.A.  Second  Edition.  Extra
+fcap.  8vo.  cloth,  35.  fid.
+
+8.  Btmyan.       The  Pilgrim  s   Progress,    Grace
+
+Abounding,  Relation  of  the  Imprisonment  of  Mr.  John  Bunyan.
+Edited,  with  Biographical  Introduction  and  Notes,  by  E.  Venables,
+M.A.     1879.     Extra  fcap.  8vo.   cloth,  5s.
+
+9.  Pope.     With  Introduction    and   Notes.     By-
+Mark  Pattison,  B.D.,  Rector  of  Lincoln  College,  Oxford.
+
+I.  Essay  on  Man.     Sixth  Edition.     Extra  fcap.  8vo.     is.  6rf.
+II.  Satires  and  Epistles.     Third  Edition.     Extra  fcap.  8vo.  2s.
+
+10.  Johnson.      Rasselas ;    Lives   of  Pope   and
+
+Dr}'den.  Edited  by  Alfred  Milnes,  B.A.  (London),  late  Scholar  of
+Lincoln  College,  Oxford.     Extra  fcap.   Svo.  cloth,  4s.  dd.
+
+11.  Burke.     Select  Works.     Edited,   with    In-
+troduction and  Notes,  by  E.  J.  Payne,  M.A.,  of  Lincoln's  Inn,
+
+Barrister-at-Law,  and  Fellow  of  University  College,  Oxford.
+
+I.  Thoughts  on  the  Present  Discontents ;  the  two  Speeches  on
+America.     Second  Edition.     Extra  fcap.   8vo.  cloth,  4s.  dd.
+
+II.  Reflections    on    the    French   Revolution.     Second   Edition.
+Extra  fcap.  Svo.  cloth,  5s.     (See  also  p.  19.)
+
+12.  Cowper.     Edited,  with  Life,  Introductions,
+
+and  Notes,  by  H.  T.  Griffith,  B.A.,  formerly  Scliolar  of  Pembroke
+College,  Oxford.
+
+I.  The  Didactic  Poems  of  17S1,  with  Selections  from  the  Minor
+
+Pieces,  a.d.  1779-1783.     Extra  fcap.  8vo.  cloth,  3s.
+II.  The  Task,  with  Tirocinium,  and  Selections  from  the  Minor
+Poems,  A.D.  1 784-1 799.    Extra  fcap.  8vo.  cloth,  3s.
+
+
+22  CLARENDON  PRESS,  OXFORD.
+
+
+II.    LATIN.
+A 71  Elementary  Latin  Grammar.     By  John  B.
+
+Allen,  M.A.,  Head  Master  of  Perse  Grammar  School,  Cambridge.
+Third  Edition,  Revised  and  Corrected.    Extra  fcap.  8vo.  cloth,  as.  6rf.
+
+A  First  Latin  Exercise  Book.     By  the   same
+
+Author.     Third  Edition.     Extra  fcap.  8vo.  cloth,  2s.  6(f.
+
+A  Seco7td  Lathi  Exercise  Book.     By  the  same
+
+Author.     Preparing.
+
+Anglice  Reddenda,  or  Easy  Extracts,  Latin  and
+
+Greek,  for  Unseen  Translation.  By  C.  S.  Jerram,  M.A.  Second
+Edition,  Revised  and  Enlarged,     Extra  fcap.  8vo.  cloth,  2s.  dd.
+
+Passages  for  Translation  into  Latin.     For  the
+
+use  of  Passmen  and  others.  Selected  by  J.  Y.  Sargent,  M.A.,
+Fellow  and  Tutor  of  Magdalen  College,  Oxford.  Fifth  Edition.
+Extra  fcap.  8vo.  cloth,  2s.  6tf.
+
+First  Latin  Reader.      By  T.  J.  Nunns,  M.A.
+
+Third  Edition.     Extra  fcap.  8vo.  cloth,  2s.
+
+Second  Latin  Reader.     In  Preparation.
+Caesar.   The  Commentaries  (for  Schools).    With
+
+Notes  and  Maps.     By  Charles  E.  Moberly,  M.A.
+
+Part  I.    The    Gallic   War.     Third   Edition.      Extra   fcap,  8vo.
+cloth,  4s.  6d.
+
+Part  II.   The  Civil  War.     Extra  fcap.  8vo.  cloth,  3s,  6d.
+The  Civil  War.     Book  I.     Extra  fcap.  Svo.  cloth,  2s.
+
+Cicero.  Selection  of  interesting  and  descrip-
+tive passages.  With  Notes.  By  Henry  Walford,  M.A.  In  three
+Parts,  Second  Edition.  Extra  fcap.  Svo.  cloth,  4s,  6c?.  Each
+Part  separately,  limp,  is.  6rf.
+
+Part  I.       Anecdotes  from  Grecian  and  Roman  History.
+Part  II.     Omens  and  Dreams :  Beauties  of  Nature.
+Part  III.  Rome's  Rule  of  her  Provinces.
+
+Cicero.     Selected  Letters   (for    Schools).     With
+
+Notes.  By  the  late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,
+M.A,    Second  Edition.     Extra  fcap.  Svo.  cloth,  3s.
+
+
+CLARENDON  PRESS,  OXFORD.  23
+
+
+Cicero.     Select   Orations  (for  Schools).      With
+
+Notes.     By  J.  R.  King,  M.A.     Extra  fcap.  8vo.  cloth,  2s.  6d.
+
+Cornciiics   Nepos.      With    Notes.       By    Oscar
+
+Biowning,  M.A.     Second  Edition.     Extra  fcap.  8vo.  cloth,  zs,  6J.
+
+Livy.     Selections   (for  Schools).      With    Notes
+
+and  Maps.  By  H.  Lee-Warner,  M.A.  Extra  fcap.  8vo.  In  Parts,
+limp,  each  is.  6c/.
+
+Part  I.     The  Caudine  Disaster.
+
+Part  II.    Hannibal's  Campaign  in  Italy.
+
+Part  III.  The  Macedonian  War.
+
+Livy.     Books  V-VII.      With  Introduction  and
+
+Notes.     By  A.  R.  Cluer,  B.A.     Extra  fcap.  8vo.  cloth,  3s.  6<f.
+
+Ovid.     Selections  for  the  use  of  Schools.   With
+
+Introductions  and  Notes,  and  an  Appendi.x  on  the  Roman  Calendar.
+By  W.  Ramsay,  M.A.  Edited  by  G.  G.  Ramsay,  M.A.,  Professor
+of  Humanity,  Glasgow,  Second  Edition.  Extra  fcap.  8vo.  cloth,
+5s.  6rf.
+
+Pliny.     Selected  Letters   (for    Schools).     With
+
+Notes.  By  the  late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,  M.A.
+Second  Edition.     Extra  fcap.  8vo.  cloth,  3s.
+
+
+Catidli  Veronensis  Liber.     Iterum  recognovit,
+
+apparatum  criticum   prolegomena   appendices   addidit,   Robinson
+Ellis,  A.M.     1878.     Demy  8vo.  cloth,  i6s.
+
+A    Commentary   on    Catullus.      By    Robinson
+
+Ellis,  M.A.     1876.     Demy  8vo.  cloth,  i6s.
+
+Catulli  Veronensis  Carmina  Selecta,  secundum
+
+recognitionem  Robinson  Ellis,  A.M.    Extra  fcap.  Svo.  cloth,  3s.  6rf.
+
+Cicero    de    Oratore.     With     Introduction    and
+
+Notes,  by  A.  S.  Wilkins,  M.A.,  Professor  of  Latin,  Owens  College,
+Manchester.
+
+Book  I.  1879.  Svo.  cloth,  6s.         Book  II.  1881.  Svo.  cloth,  5J.
+
+
+24  CLARENDON  PRESS,  OXFORD.
+
+
+Cicero's  Philippic  Orations.     With  Notes.     By
+
+J.  R.  King,  M.A.     Second  Edition,     1879.    8vo.  cloth,  los.  dd.
+
+Cicero.  Select  Letters.  With  EngHsh  Intro-
+ductions, Notes,  and  Appendices.  By  Albert  Watson,  M.A.  Third
+Edition.     1881.     Demy  8vo.  cloth,  i8s.
+
+Cicero.     Select  Letters.     Text.     By  the   same
+
+Editor.    Extra  fcap.  8vo.  cloth,  4s.
+
+Cicero  pro   Cluentio.     With   Introduction   and
+
+Notes.  By  W.  Ramsay,  M.A.  Edited  by  G.  G.  Ramsay,  M.A.
+Extra  fcap.  8vo.  cloth,  3s,  ^d.
+
+Horace.      With    a    Commentary.      Volume    I.
+
+The  Odes,  Carmen  Seculare,  and  Epodes.  By  Edward  C.  Wick-
+ham,  M.A.,  Head  Master  of  Wellington  College.  Second  Edition.
+1877.     Demy  Svo.  cloth,  12s.
+
+Horace.     A   reprint   of  the    above,   in   a   size
+
+suitable  for  the  use  of  Schools.     Extra  fcap,  Svo.  cloth,  5s.  6cf.
+
+
+Livy,   Book   I.     With  Introduction,   Historical
+
+Examination,  and  Notes.  By  J.  R.  Seeley,  M.A.,  Regius  Professor
+of  Modem  History,  Cambridge.  Third  Edition.  1881.  Svo.
+cloth,  6s.
+
+Ovid.      P.    Ovidii  Nasonis   Ibis.      Ex    No  vis
+
+Codicibus  Edidit.  Scholia  Vetera  Commentarium  cum  Prolego-
+menis  Appendice  Indice  addidit,  R.  Ellis,  A.M,  Demy  Svo.
+cloth,  los.  dd.
+
+Persius.       The   Satires.      With    a   Translation
+
+and  Commentary.  By  John  Conington,  M.A.  Edited  by  Henry
+Nettleship,  M.A.     Second  Edition.     1874.     Svo.  cloth,  7s.  dd.
+
+Vii^gil.    With  Introduction  and  Notes,  by  T.  L.
+
+Papillon,  M.A.,  Fellow  of  New  College,  Oxford,  Two  vols,
+crown  Svo,  cloth,  los,  6c/.
+
+
+CLARENDON  PRESS,  OXFORD.  25
+
+
+Selections  from  the  less  known  Latin  Poets.     By
+
+North  Finder,  M.A.     1869.     Demy  8vo.  cloth,  15s.
+
+Fragments    and    Specimens    of   Ea^'ly    Latin.
+
+A\'ilh  Introductions  and  Notes.  1874.  By  John  Wordsworth,  M.A.
+8vo.  cloth,  185.
+
+TacittLs.  ■    The  Ayinals.      With     Essays    and
+
+Notes.     Preparing.
+
+Vergil:    Suggestions   Lntrodiictory  to   a  Study
+
+of  the  Aeneid.     By  H.  Nettleship,  M.A.     8vo.  sewed,  is.  ^d.
+
+Ancient  Lives  of  Vergil ;  with  an  Essay  on  the
+
+Poems  of  Vergil,  in  connection  with  his  Life  and  Times.  By
+II.  Nettleship,  M.A.     8vo.  sewed,  is.
+
+The  Roman  Satura :  its  original  form  in  con-
+nection with  its  literary  development.  By  H.  Nettleship,  M.A.
+8vo.  sewed,  15.
+
+A    Manual    of    Comparative    Philology.      By
+
+T.  L.  Papillon,  M.A.,  Fellow  and  Lecturer  of  New  College.
+Third  Edition.     1882.  Crown  8vo.  cloth,  6s.
+
+The  Roman  Poets  of  the  Augustan  Age.     By
+
+W^illiam  Young  Sellar,  M.A.,  Professor  of  Humanity  in  the  Uni-
+versity of  Edinburgh.     Virgil.     1877.     8 vo.  cloth,  14s.
+
+The  Roman  Poets  of  the  Republic.    By  the  same
+
+Author.  New  Edition,  Revised  and  Enlarged.  18S1.  8vo.  cloth,
+14s.
+
+III.     GREEK.
+
+A   Greek  Primer,  for  the  use  of  beginners  in
+
+that  Language.  By  the  Right  Rev.  Charles  Wordsworth,  D.C.L.,
+Bishop  of  St.  Andrews.  Si.\th  Edition,  Revised  and  Enlarged.
+Extra  fcap.  8vo.  cloth,  is.  6J.
+
+Graecae    Grammaticae    Rudimenta    in    usum
+
+Scholarum.  Auctore  Carolo  Wordsworth,  D  C.L.  Twentieth
+Edition,  1 88 a.     i2jno.  cloth,  4s.
+
+
+26  CLARENDON  PRESS,  OXFORD.
+
+
+A  Greek-English  Lexicon,  abridged  from  Liddell
+
+and  Scott's  4to.  edition,  chiefly  for  the  use  of  Schools.  Nineteenth
+Edition.  Carefully  Revised  throughout,  1880.  Square  i2nio.
+cloth,  Is.  6d.
+
+Greek    Verbs,   Irregtdar   and  Defective;   their
+
+forms,  meaning,  and  quantity;  embracing  all  the  Tenses  used  by
+Greek  writers,  with  references  to  the  passages  in  which  they  are
+found.  By  W.  Veitch.  Fourth  Edition.  Crown  8vo.  cloth,  10s.  6d.
+
+The  Elements  of  Greek  A  ccentuation  (for  Schools) :
+
+abridged  from  his  larger  work  by  H.  W.  Chandler,  M.A.,  Waynflete
+Professor  of  Moral  and  Metaphysical  Philosophy,  Oxford.  Extra
+fcap.  Svo.  cloth.  IS.  6d.
+
+A  Series  of  Graduated  Greek  Readers : —
+
+First  Greek  Reader.    By  W.  G.  Riishbrooke,
+
+M.L.,  formerly  Fellow  of  St.  John's  College,  Cambridge,  Second
+Classical  Master  at  the  City  of  London  School.  Extra  fcap.  Svo.
+cloth,  2s.  (id.
+
+Second  Greek  Reader.      By  A.  M.  Bell,  M.A.
+
+Extra  fcap.  Svo.  cloth,  3s.  ^d.
+
+Third  Greek  Reader.     In  Preparation.
+Fourth    Greek   Reader ;    being   Specimejis   of
+
+Greek  Dialects.  With  Introductions  and  Notes.  By  W.  W.
+Merry,  M.A.,  Fellow  and  Lecturer  of  Lincoln  College.  Extra
+fcap.  8vo.  cloth,  4s,  6d.
+
+Fifth    Greek   Reader.      Part    I.      Selections
+
+from  Greek  Epic  and  Dramatic  Poetry,  with  Introductions  and
+Notes.  By  Evelyn  Abbott,  M.A.,  Fellow  of  Balliol  College.
+Extra  fcap.  Svo.  cloth,  4s.  6rf.
+
+Part  II.     By  the  same  Editor.     In  Preparation.
+
+The  Golden  Treasury  of  Ancient  Greek  Poetry  ;
+
+being  a  Collection  of  the  finest  passages  in  the  Greek  Classic  Poets,
+with  Introductory  Notices  and  Notes.  By  R.  S.  Wright,  M.A.,
+Fellow  of  Oriel  College,  Oxford.     Extra  fcap.  Svo.  cloth,  8s.  dd.
+
+A   Golden   Treasury  of  Greek  Prose,  being   a
+
+collection  of  the  finest  passages  in  the  principal  Greek  Prose
+Writers,  with  Introductory  Notices  and  Notes.  By  R.  S.  Wright,
+M.A.,  and  J.  E.  L.  Shadwell,  M.A.     Extra  fcap,  Svo,  cloth,  4s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  27
+
+
+Acschyhis.      Prometheus   Bound  (for  Schools).
+
+Willi  Introduction  antl  Notes,  by  A.  O.  Prickard,  M.A-,  Fellow  of
+New  College.     Extra  fcap.  8vo.  cloth,  2s.
+
+Aeschylus.      Agamemno7i.     With    Introduction
+
+and  Notes  by  Arthur  Sidgwick,  M.A.,  Tutor  of  Corpus  Christi
+College,  Oxford ;  late  Fellow  of  Trinity  College,  Cambridge,  and
+Assistant  Master  of  Rugby  School.     Extra  fcap.  8vo.  cloth,  3s.
+
+Aeschylus.    The  Chocphoroe.    With  Introduction
+
+and  Notes  by  the  same  Editor.     Preparing.
+
+Aristophanes.     In    Single    Plays,    edited,   with
+
+English  Notes,  Introductions,  &c.,  by  W.  W.  Merry,  M.A.  Extra
+fcap.  8vo.
+
+The  Clouds,  2s.  The  Achamians,  2s.
+
+Other  Plays  will  follow.
+
+Arrian.   Selections  (for  Schools).    With  Notes.
+
+By  J.  S.  Phillpotts,  B.C.L.,  Head  Master  of  Bedford  School.
+
+Cebes.      Tabula.     With  Introduction  and  Notes
+
+by  C.  S.  Jerram,  M.A.     Extra  fcap.  8vo.  cloth,  2s.  dd.
+
+Etiripidcs.     Alcestis  (for   Schools).     By   C.   S.
+
+Jerram,  M.A.     Extra  fcap.  8vo.  cloth,  2s.  dd.
+
+Etiripides.     Helena.     Edited  with  Introduction,
+
+Notes,  and  Critical  Appendix,  for  Upper  and  Middle  Forms.  By
+C.  S.  Jerram,  M.A.     Extra  fcap.  8vo.  cloth,  3s.
+
+Herodotus.  Selections  from.  Edited,  with  In-
+troduction, Notes,  and  a  Map,  by  W.  W.  Merry,  M.A.,  Fellow  and
+Lecturer  of  Lincoln  College.     Extra  fcap.  8vo.  cloth,  2s.  6d.
+
+Homer.     Odyssey,  Books  I-XII  (for  Schools).
+
+By  W.  W.  Merr}',  M.A,  Twenty-fourth  Thousand.  Extra  fcap.  Svo.
+cloth,  4s.  6rf.
+
+Book  II,  separately,  is.  6(f.
+
+Homer.      Odyssey,    Books    XIII-XXIV    (for
+
+Schools).     By  the  same  Editor.     Extra  fcap.  Svo.  cloth,  5s,
+
+
+28  CLARENDON  PRESS,  OXFORD.
+
+
+Homer.      Iliad,    Book    I    (for    Schools).       By
+
+D.  B.  Monro,  M.A.     Extra  fcap.  8vo.  cloth,  2s.
+
+Homer.     Iliad,    Books   VI   and   XXL     With
+
+Introduction  and  Notes.  By  Herbert  Hailstone,  M.A.,  late  Scholar
+of  St.  Peter's  College,  Cambridge.  Extra  fcap.  8vo.  cloth,  is.  dd.
+each.
+
+Luciaii.       Vera   Historia    (for    Schools).       By
+
+C.  S.  Jerram,  M.A.    Extra  fcap.  8vo.  cloth,  is.  dd.
+
+Plato.     Selections  (for  Schools).     Edited   with
+
+Notes  by  J.  Purves,  M.A.,  Fellow  and  late  Lecturer  of  Balliol
+College,  Oxford.     Extra  fcap,  Svo.  cloth,  ds.  fid.
+
+Sophocles.  In  Single  Plays,  with  English  Notes,
+
+&c.  By  Lewis  Campbell,  M.A.,  Professor  of  Greek  in  the  Univer-
+sity of  St.  Andrew's,  and  Evel)'n  Abbott,  M.A.,  Balliol  College,
+Oxford.     Extra  fcap.  Svo.  limp.
+
+Oedipus  Tyrannus.     New  and  Revised  Edition.     2s.
+
+Oedipus  Coloneus,         Antigone,  is.  ^d.  each.
+
+Ajax,         Electra,         Trachiniae,         Philoctetes,  2s.  each.
+
+Sophocles.     Oedipus  Rex:  Dindorf's  Text,  with
+
+Notes  by  the  present  Bishop  of  St.  David's.  Ext.  fcap.  Svo.  limp,
+Is.  dd.
+
+Theocritus   (for    Schools).      With    Notes.      By
+
+H.  Kynaston,  M.A.  (late  Snow),  Head  Master  of  Cheltenham
+College.     Third  Edition.     Extra  fcap.  Svo.  cloth,  4s.  6d.
+
+Xenophoii.    Easy  Selections  (for  Junior  Classes).
+
+With  a  Vocabulary,  Notes,  and  Map.  By  J.  S.  Phillpotts,  B.C.L.,
+and  C.  S.  Jerram,  M.A.  Third  Edition.  Extra  fcap.  Svo.  cloth,
+3s.  6rf.
+
+Xenophon.    Selections  (for  Schools).   With  Notes
+
+and  Maps.  By  J.  S.  Phillpotts,  B.C.L.,  Head  Master  of  Bedford
+School.     Fourth  Edition.     Extra  fcap.  Svo.  cloth,  3s.  6d.
+
+Xeriophon.     Anabasis,  Book  II.     With   Notes
+
+and  Map.     By  C.  S.  Jerram,  M.A.     Extra  fcap.  Svo.  cloth,  2s.
+
+
+CLARENDON  PRESS,  OXFORD.  29
+
+
+Aristotle s  Politics.     By  W.  L.  Newman,  M.A.,
+
+Fellow  of  Balliol  College,  Oxford.
+
+Aristotelian  Sticdics.     I.   On  the  Structure  of
+
+the  Seventh  Book  of  the  Nicomachean  Ethics.  By.  J.  C.  Wilson,
+M.A.,  Fellow  of  Oriel  College,  Oxford.  1879.  Medium  8vo.
+stiff,  5s.
+
+Demosthenes  and  Aeschincs.     The  Orations  of
+
+Demosthenes  and  yEschines  on  the  Crown.  With  Introductory
+Essays  and  Notes.  By  G.  A.  Simcox,  M.A.,  and  W.  H.  Simco.x,
+M.A.     1872.  8vo.  cloth,  I2S.
+
+Homer.     Odyssey,  Books  I-XII.     Edited  with
+
+English  Notes,  Appendices,  etc.  By  W.  W.  Merry,  M.A.,  and  the
+late  James  Riddell,  M.A.     1876.  Demy  8vo.  cloth,  i6s.
+
+Homer.     Iliad.     With  Introduction  and  Notes.
+
+By  D.  B.  Monro,  M.A,,  Provost  of  Oriel  College,  Oxford.  Pre-
+paring.
+
+A  Grammar  of  the  Homeric  Dialect.    By  D.  B.
+
+Monro,  M.A.,  Provost  of  Oriel  College.  Demy  8vo.  cloth,
+I  OS.  6(/.
+
+Sophocles.     The  Plays  and  Fragments.     With
+
+English  Notes  and  Introductions,  by  Lewis  Campbell,  M.A.,  Pro-
+fessor of  Greek,  St.  Andrews,  formerly  Fellow  of  Queen's  College,
+Oxford.     2  vols.
+
+"Vol.  I.      Oedipus   Tyrannus.      Oedipus   Coloneus.      Antigone.
+Second  Edition.     1879.  8vo.  cloth,  i6s.
+
+Vol.  II.  Ajax.    Electra.    Trachiniae.     Philoctetes.     Fragments
+1881.  8vo.  cloth,  16s.
+
+Sophocles.     The  Text  of  the  Seven  Plays.     By
+
+the  same  Editor.     Extra  fcap.  Svo.  cloth,  4s.  6(/.
+
+A   Manual  of  Greek   Historical  Inscriptions.
+
+By  E.  L.  Ilicks,  M.A.,  formerly  Fellow  and  Tutor  of  Corpus
+Christi  College,  Oxford.    Demy  Svo.  cloth,  los.  dd.
+
+
+30  CLARENDON  PRESS,  OXFORD.
+
+
+IV.   FRENCH.
+
+An    Etymological   Dictionary   of   the    French
+
+Language,  with  a  Preface  on  the  Principles  of  French  Etymology.
+By  A.  Brachet.  Translated  into  English  by  G.  W.  Kitchin,  M.A.
+Second  Edition.     Crown  8vo.  cloth,  7s.  6rf.
+
+Brachet' s  Historical  Grammar  of  the  French
+
+Language.  Translated  into  English  by  G.  W.  Klitchin,  M.A.
+Fourth  Edition.     Extra  fcap.  Svo.  cloth,  3s.  6c;?.
+
+A  Short  History  of  French  Literature.  By-
+George  Saintsbury,  M.A.    Crown  Svo.  cloth,  los.  6rf.
+
+Specimens  of  French  Literature,  from  Villon  to
+
+Hugo.     Selected  and  arranged  by  the  same  Editor.     Preparing.
+
+A  Prim,er  of  French  Literature.     By  the  same
+
+Author.     Extra  fcap.  Svo.  cloth,  2s.
+
+Corneilles  Horace.     Edited  with   Introduction
+
+and  Notes  by  George  Saintsbury.     Extra  fcap.  Svo.  cloth,  is.  6d.
+French  Classics,  Edited  by  GUSTAVE  MASSON,  B.A.
+
+Corneilles  Cinna,  and  Molieres  Les  Femmes
+
+Savantes.  With  Introduction  and  Notes.  Extra  fcap.  Svo.  cloth,
+2S.  6d.
+
+Racine s  Andromaque,  and  Corneilles  Le  Men-
+
+teur.  With  Louis  Racine's  Life  of  his  Father.  Extra  fcap.  Svo.
+cloth,  2s.  dd.
+
+Molieres  Les  Fourberies  de  Scapin,  and  Ra-
+cine's Athalie.  With  Voltaire's  Life  of  Moliere.  Extra  fcap.  Svo.
+cloth,  2s.  (sd.
+
+Selections  from  the  Correspondence  of  Madame
+
+de  Sevigne  and  her  chief  Contemporaries.  Intended  more  especially
+for  Girls'  Schools.     Extra  fcap.  Svo.  cloth,  3s.
+
+Voyage  autour  de  ma  Chambre,  by  Xavier  de
+
+Maistre;  Ourika,  by  Madame  de  Duras;  La  Dot  de  Suzette,  by
+Fievee;  Les  Jumeaux  de  I'Hotel  Corneille,  by  Edmond  About;
+Mesaventures  d'un  Ecolier,  by  Rodolphe  Topffer.  Extra  fcap.  SvO:
+cloth,  2s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  31
+
+Regnard's  Lc  yoiietir  and  Drueys  and  Pala-
+
+prat's  Le  Grondeur.     Extra  fcap.  8vo.  cloth,  2s.  6rf.
+
+Louis  XIV  and  his  Co7itcmporarics ;  as  de-
+scribed in  Extracts  from  the  best  Memoirs  of  the  Seventeenth
+Century.  AVith  English  Notes,  Genealogical  Tables,  &c.  Extra
+fcap.  8vo.  cloth,  2.s.  6rf,
+
+V.    GERMAN.
+
+LANGE'S  German  Course.     By  HERMANN  LANGE,
+Teacher  of  Modern  Languages,  Manchester :
+
+The  Germans  at  Home ;  a  Practical  Introduc-
+tion to  German  Conversation,  with  an  Appendix  containing  the
+Essentials  of  German  Grammar.  Second  Edition.  8vo.  cloth,
+as.  6rf.
+
+The  German  Manual ;   a  German    Grammar,
+
+a  Reading  Book,  and  a  Handbook  of  German  Conversation.    8vo.
+cloth,  7s.  6d.
+
+A   Gram^nar  of  the  German  Language.     8vo.
+
+cloth,  3s.  dd.
+
+This  '  Grammar '  is  a  reprint  of  the  Grammar  contained  in
+•  The  German  Manual,'  and,  in  this  separate  form,  is  in-
+tended for  the  use  of  Students  who  wish  to  make  them-
+selves acquainted  with  German  Grammar  chiefly  for  the
+purpose  of  being  able  to  read  German  books.
+
+Gerinan   Composition;    Extracts  from   English
+
+and  American  writers  for  Translation  into  German,  with  Hints
+for  Translation  in  footnotes.     In  the  Press.
+
+
+Lessings  Laokoon.  With  Introduction,  Eng-
+lish Notes,  etc.  By  A.  Hamann,  Phil.  Doc,  M.A.  Extra  fcap.
+Svo.  cloth,  4s.  6rf.
+
+Wilhchn  Tell.  A  Drama.  By  Schiller.  Trans-
+lated into  English  Verse  by  E.  Massie,  M.A.  Extra  fcap.  Svo.
+cloth,  5s.
+
+
+32  CLARENDON  PRESS,  OXFORD.
+
+
+Also,  Edited  by  C.  A.  BtTCHHEIM,  Phil.  Doc,  Professor
+in  King's  College,  London :
+
+Goethe  s  Egniont.     With  a  Life  of  Goethe,  &c.
+
+Third  Edition.     Extra  fcap.  8vo.  cloth,  3s.
+
+Schiller  s  Wilhelm  Tell.  With  a  Life  of  Schiller;
+
+an  historical  and  critical  Introduction,  Arguments,  and  a  complete
+Commentary.     Fourth  Edition.     Extra  fcap.  8vo.  cloth,  3s.  dd.
+
+Lessings  Minna  von  Bm^nhehn.     A  Comedy.
+
+With  a  Life  of  Lessing,  Critical  Analysis,  Complete  Commentary,
+&c.     Fourth  Edition.     Extra  fcap.  8vo.  cloth,  3s.  dd.
+
+Schiller  s  Historische  Skizzen ;   Egmonts  Leben
+
+und  Tod,  and  Belagerung  von  Antwerpen.    Second  Edition.    Extra
+fcap.  8vo.  cloth,  2s,  dd,
+
+Goethe  s  Iphigenie  auf  Tauris.    A  Drama.  With
+
+a  Critical  Introduction  and  Notes.     Extra  fcap.  Svo.  cloth,  3s.
+
+Modern  German  Reader.    A  Graduated  Collec-
+tion of  Prose  Extracts  from  Modem  German  writers  : —
+
+Part  I.     With  English  Notes,  a  Grammatical  Appendix,  and  a  com-
+plete Vocabulary.   Second  Edition.   Extra  fcap.  Svo.  cloth,  2s.  6d.
+Parts  II  and  III  in  Preparation,
+
+Lessing  s  Nathan  der   Weise.     With  Introduc-
+tion, Notes,  etc.    Extra  fcap.  Svo.  cloth,  4s.  dd.
+
+In  Preparation.
+
+Becker  s  (K.  F.)  Friedrich  der  Grosse.
+
+Schiller  s  Maria  Sttcart.     With  Notes,  Intro-
+duction, &c.
+
+Schiller  s  Jiingfrau  von  Orleans.     With  Notes,
+
+Introduction,  &c.
+
+Selections    from    the    Poems    of   Schiller   and
+
+Coe:he,
+
+
+CLARENDON  PRESS,  OXFORD.  33
+
+
+VI.    MATHEMATICS,  &c.
+
+FigU7'cs  Jlfadc  Easy:   a  first  Arithmetic  Book.
+
+(Introductory  to  '  The  Scholar's  Aritlimctic.')  I5y  Lewis  Ilcnsley,
+M.A.,  formerly  Fellow  and  Assistant  Tutor  of  Trinity  College,
+Cambridge.     Crown  8vo.  cloth,  (xl.
+
+Answers  to  the  Examples  in  Figures  made  Easy,
+
+together  with  two  thousand  additional  Examples  formed  from  the
+Tables  in  the  same,  with  Answers.  13y  the  same  Author,  Crown
+8vo.  cloth,  Is.
+
+The   ScJiolars   Ar  if  kinetic ;   with    Answers   to
+
+the  Examples.     By  the  same  Author.     Crown  8vo.  cloth,  4s.  6d.
+
+The  Scholar  s  Algebra.     An  Introductory  work
+
+on  Algebra.     By  the  same  Author.    Crown  Svo.  cloth,  4s.  6d.
+
+Book-kecpiiig.    By  R.  G.  C.  Hamilton,  Financial
+
+Assistant  Secretary  to  the  Board  of  Trade,  and  John  Ball  (of  the
+Firm  of  Quilter,  Ball,  and  Co.),  Co-Examiners  in  Book-keeping
+for  the  Society  of  Arts.  New  and  enlarged  Edition.  Extra  fcap.
+Svo.  limp  cloth,  2s.
+
+A  Course  of  Lectures  on  Pure  Geometry.     By
+
+Henry  J.  Stephen  Smith,  M.A.,  F.R.S.,  Fellow  of  Corpus  Chrisli
+College,  and  Savilian  Professor  of  Geometry  in  the  University  of
+Oxford,
+
+Acoustics.     By  W.  F.  Donkin,  M,A,,   F.R,S„
+
+Savilian  Professor  of  Astronomy,  Oxford.  1870.  Crown  Svo.  clotli,
+7s,  6c/.
+
+A  Treatise  on  Electricity  and  Magnetism.     By
+
+J,  Clerk  Maxwell,  M.A.,  F.R.S.,  Professor  of  Experimental  Physics
+in  the  University  of  Cambridge.  Second  Edition.  2  vols.  Demy
+Svo.  cloth,  i/.  IIS.  dd.
+
+An   Elementary   Treatise   on  Electricity.      By
+
+the  same  Author.  Edited  by  William  Gamett,  M.A,  Demy  Svo.
+cloth,  7s.  6c/.
+
+A  Treatise  on  Statics.    By  G.  M.  Minchin,  M.  A.,
+
+Professor  of  Applied  Mathematics  in  the  Indian  Engineering  Coliege,
+Cooper's  Hill,  Second  Edition,  Revised  and  Enlarged.  1879,
+Svo.  cloth,  14s.
+
+D
+
+
+34  CLARENDON  PRESS,  OXFORD.
+
+Uniplanar  Kine7natics   of  Solids   and  Fluids.
+
+By  G.  M.  Minchin,  M.A.     Crown  8vo.  cloth,  7s.  6rf.
+
+A    Treatise  on    the  Kinetic    Theory  of  Gases.
+
+By  Henry  William  Watson,   M,A.,   formerly  Fellow   of  Trinity
+College,  Cambridge.     1876.  Svo.  cloth,  3s.  6d.
+
+A    Treatise  on  the  Application  of  Generalised
+
+Coordinates  to  the  Kinetics  of  a  Material  System.     By   H.  W.
+Watson,  M.A.,  and  S.  H.  Burbury,  M.A.     1879.  Svo.  cloth,  6s.
+
+Geodesy.     By  Colonel  Alexander  Ross  Clarke,
+
+C.B.,  R.E.     1880.  8vo.  cloth,  12s.  dd.
+
+
+VII.  PHYSICAL    SCIENCE.
+
+A   Handbook   of  Descriptive  Astronomy.     By
+
+G.  F.  Chambers,  F.R.A.S.  Third  Edition.  1877.  Demy  Svo.
+cloth,  28s.
+
+A  Cycle  of  Celestial  Objects.  Observed,  Re-
+duced, and  Discussed  by  Admiral  W.  H.  Smyth,  R.N.  Revised,
+condensed,  and  greatly  enlarged  by  G.  F.  Chambers,  F.R.A.S.
+1 88 1.  Svo.  cloth,  2 IS.
+
+Chemistry  for  Students.     By  A.  W.  Williamson,
+
+Phil.  Doc,  F.R.S.,  Professor  of  Chemistry,  University  College,
+London.  A  new  Edition,  with  Solutions.  1873.  Extra  fcap.  Svo.
+cloth,  2,s.  6d.
+
+A  Treatise  on  Heat,  with  numerous  Woodcuts
+
+and  Diagrams.  By  Balfour  Stewart,  LL.D.,  F.R.S.,  Professor  of
+Natural  Philosophy  in  Owens  College,  Manchester.  Fourth
+Edition.  1881.  Extra  fcap.  Svo.  cloth,  7s.  6d.
+
+Lessons  on  Tliermodynamics.    By  R.  E.  Baynes,
+
+M.A.,  Senior  Student  of  Christ  Church,  Oxford,  and  Lee's  Reader
+in  Physics.     1878.  Crown  Svo.  cloth,  7s.  6c?.
+
+Forms   of  Animal  Life.      By   G.    Rolleston,
+
+M.D.,  F.R.S.,  Linacre  Professor  of  Physiology,  Oxford.  Illustrated
+by  Descriptions  and  Drawings  of  Dissections.  A  New  Edition  in
+the  Press.
+
+
+CLARENDON  PRESS,  OXFORD.  35
+
+
+Exercises     in    Practical    Chemistry.      Vol.   I.
+
+Elementary  Exercises.  By  A.  G.  \'crnon  llarcourt,  M.A. ;  and
+H.  G.  Madan,  M.A.  Third  Edition.  Revised  by  H.  G.  Madan,
+M.A.     Crown  8vo.  cloth,  9s.
+
+Tables  of  Qualitative  Analysis.     Arranged  by
+
+H.  G.  Madan,  M.A.    Large  4to.  paper  covers,  4s.  dd.
+
+Crystallography.      By  M.  H.  N.  Story-Maske-
+
+lyne,  M.A.,  Professor  of  Mineralogy,  Oxford ;  and  Deputy  Keeper
+in  the  Department  of  Minerals,  British  Museum.     In  the  Press.
+
+
+VIII.  HISTORY.
+
+The  Constitutional  History  of  England,  in  its
+
+Origin  and  Development.  By  William  Stubbs,  D.D.,  Regius  Pro-
+fessor of  Modern  History.  Library  Edition.  Three  vols,  demy  8vo.
+cloth,  2/.  Ss.
+
+Also  in  3  vols,  crown  8vo.  price  12s.  each.
+
+Select  Charters  and  other  Illnstrations  of  Eng-
+lish. Constitutional  History,  from  the  Earliest  Times  to  the  Reign
+of  Edward  I.  Arranged  and  Edited  by  W.  Stubbs,  M.A.  Fourth
+Edition.     iSSi.     Crown  Svo.  cloth,  8s.  6c/.
+
+A  History  of  England,  principally  in  the  Seven-
+teenth Century.  V,y  Leopold  Von  Ranke.  Translated  by  Resident
+Members  of  the  University  of  Oxford,  under  the  superintendence
+of  G.  W.  Kitchin,  M.A.,  and  C.  W.  Boase,  M.A.  1875.  6  vols.
+Svo.  cloth,  3/.  3s.
+
+A  Short  History  of  the  Norman  Conquest  of
+
+England.    By  E.  A.  Freeman,  M.A.    Extra  fcap.  8vo.  cloth,  2s.  6rf.
+
+Genealogical  Tables  ilhtstrative  of  Modern  His-
+tory. By  H.  B.  George,  M.A.  Second  Edition.  Small  4to.
+cloth,  1 2s.
+
+A  History  of  France.     With  numerous  Maps,
+
+Plans,  and  Tables.     By  G.  W.  Kitchin,  M.A.     In  Three  Volumes.
+1873-77.     Crown  Svo.  cloth,  each  los.  dd.
+
+Vol.  I.  Second  Edition.    Down  to  the  Year  1453.
+Vol.  2.  From  1453-1624.
+Vol.  3.  From  1624-1793.
+
+D  2
+
+
+36  CLARENDON  PRESS,  OXFORD.
+
+
+A   History  of  Germany  and  of  the  Empire^
+
+down  to  the  close  of  the  Middle  Ages.  By  J.  Bryce,  D.C.L.,
+Regius  Professor  of  Civil  Law  in  the  University  of  Oxford.
+
+A  History  of  British  India.     By  S.  J.  Owen,
+
+M.A.,  Reader  in  Indian  History  in  the  University  of  Oxford.
+
+A  Selection  from  the  Despatches,  Treaties,  and
+
+other  Papers  of  the  Marquess  Wellesley,  K.G.,  during  his
+Government  of  India.  Edited  by  S.  J.  Owen,  M.A.,  formerly
+Professor  of  History  in  the  Elphinstone  College,  Bombay.  1877,
+8vo.  cloth,  1/.  4s.
+
+A  Selection  from  the  Despatches,  Treaties,  and
+
+other  Papers  relating  to  India  of  Field-Marshal  the  Duke  of
+Wellington,  K.G.     By  the  same  Editor.     1880.  Svo.  cloth,  24s.
+
+A  History  of  the   United  States   of  America.
+
+By  E.  J.  Payne,  M.A.,  Barrister-at-Law,  and  Fellow  of  University
+College,  Oxford.     In  the  Press.
+
+A  History  of  Greece  from  its  Conquest  by  the
+
+Romans  to  the  present  time,  b.c.  146  to  a.d.  1864.  By  George
+Finlay,  LL.D.  A  new  Edition,  revised  throughout,  and  in  part
+re-written,  with  considerable  additions,  by  the  Author,  and  Edited
+by  H.  F.  Tozer,  M.A.,  Tutor  and  late  Fellow  of  Exeter  College,
+Oxford.     1877.     7  vols.  8vo.  cloth,  3/.  los,
+
+A  Manual  of  Ancient  History.     By  George
+
+Rawlinson,  M.A.,  Camden  Professor  of  Ancient  History,  formerly
+Fellow  of  Exeter  College,  Oxford.  Second  Edition,  Demy  Svo.
+cloth,  14s.
+
+A  History  of  Greece.    By  E.  A.  Freeman,  M.A.,
+
+formerly  Fellow  of  Trinity  College,  Oxford.
+
+Italy  and  her  Invaders,  a.d,  376-476,     By  T.
+
+Hodgkin,  Fellow  of  University  College,  London.  Illustrated  with
+Plates  and  Maps.     2  vols.  Svo.  cloth,  \l.  12s.
+
+
+IX.  LAW.
+
+The  Elements  of  Jtirisprndence.     By  Thomas
+
+Erskine  Holland,  D.C.L.,  Chichele  Professor  of  International  Law
+and  Diplomacy,  and  Fellow  of  All  Souls  College,  Oxford.  Second
+Edition.     Demy  Svo.  cloth,  los.  6c/..
+
+
+CLARENDON  PRESS,  OXFORD.  37
+
+
+The  histiUitcs  of  yustiniau,  edited  as  a  recen-
+sion of  the  Institutes  of  Gains.  By  the  same  Editor.  Second
+Edition,  i8Si.     Extra  fcap.  8vo.  cloth,  5s.
+
+Select  Titles  from  the  Di(^est  of  Justinian.     By
+
+T.  E.  Holland,  D.C.L.,  Chichcl'e  I'rofcssor  of  International  Law
+and  Diplomacy,  and  Fellow  of  All  Souls'  College,  Oxford,  and
+C.  L.  Shadwell,  B.C.L.,  Fellow  of  Oriel  College,  Oxford.  8vo.
+cloth,  14s.
+
+Also  sold  in  Parts,  in  paper  covers,  as  follows  : —
+
+Part  I.      Introductory  Titles.     2s.  6c/.
+
+Part  II.    Family  Law.     is.
+
+Part  III.  Property  Law.     2s.  f)d.
+
+Part  IV.  Law  of  Obligations  (No.  i).     3s.  6<f.
+
+Part  IV.  Law  of  Obligations  (No.  2).     4s.  6rf.
+
+Imperatoris    lustiniani    Institutiomim     Libri
+
+Quatttior ;  with  Introductions,  Commentary,  Excursus  and  Trans-
+lation. By  J.  B.  Moyle,  B.C.L.,  M.A.,  of  Lincoln's  Inn,  Barrister-
+at-Law,  and  Fellow  and  Tutor  of  New  College,  Oxford.  2  vols.
+8vo.  cloth,  2ls.
+
+Gaii  Instittitionum  Juris  Civilis  Commentarii
+
+Qiiatuor ;  or,  Elements  of  Roman  Law  by  Gaius.  With  a  Trans-
+lation and  Commentary  by  Edward  Poste,  M.A.,  Barrister-atLaw,
+and  Fellow  of  Oriel  College,  Oxford.  Second  Edition.  1875.  8vo.
+cloth,  1 8s.
+
+An  Introduction   to   the  Principles  of  Morals
+
+and  Legislation.     By  Jeremy  Bentham.     Crown  8vo.  cloth,  6s.  6rf.
+
+Elements  of  Law  considered  with  reference  to
+
+Principles  of  General  Jurisprudence.  By  William  Markby,  M.A.,
+Judge  of  the  High  Court  of  Judicature,  Calcutta.  Second  Edition,
+with  Supplement.  1874.  t;rown  8vo.  cloth,  7s.  dd.  Supplement
+separately,  2s.
+
+Alberici  Gentilis,  I. CD.,  I.C.   Professoris    Re-
+
+gii,  De  lure  Belli  Libri  Tres.  Edidit  Thomas  Erskine  Holland
+LCD.,  luris  Gentium  Professor  Chicheleianus,  Coll.  Omn.  Anim.
+Socius.  necnon  in  Univ.  Perusin.  luris  Professor  Honorarius.  1877.
+Small  4to.  half  morocco,  2  is.
+
+International  Laiu,     By  William  Edward  Hall,
+
+M. A.,  Barrister-atLaw.     Demy  8vo.  cloth,  215,
+
+
+38  CLARENDON  PRESS,  OXFORD.
+
+
+An  Introduction  to  the  History  of  the  Laiv  of
+
+Real  Property,  with  original  Authorities.  By  Kenelm  E.  Digby,
+M.A.,  of  Lincoln's  Inn,  Barrister-at-Law.  Second  Edition.  1876.
+Crown  8vo.  cloth,  7s.  W.
+
+Principles  of  the  English   Law   of  Contract,
+
+and  of  Agency  in  its  Relation  to  Contract.  By  Sir  William  R.
+Anson,  Bart.,  D.  C.L.,  Warden  of  All  Souls  College,  Oxford.
+Second  Edition.    Demy  Svo.  cloth,  los.  6 J.
+
+
+X.     MENTAL  AND  MORAL  PHILOSOPHY.
+
+Bacon.  Novtim  Organum.  Edited,  with  In-
+troduction, Notes,  &c.,  by  T.  Fowler,  M.A.,  Professor  of  Logic  in
+the  University  of  Oxford.     1878.     Svo.  cloth,  14s.
+
+Locke  s  Conduct  of  the  Understanding.     Edited,
+
+with  Introduction,  Notes,  &c.,  by  T.  Fowler,  M.A.,  Professor  of
+Logic  in  the  University  of  Oxford.     Extra  fcap.  Svo.  cloth,  2s.
+
+Selections  from  Berkeley,  with  an  Introduction
+
+and  Notes.  For  the  use  of  Students  in  the  Universities.  By
+Alexander  Campbell  Eraser,  LL.D.  Second  Edition.  Crown  Svo.
+cloth,  7s.  6 J.     (_See  also  p.  13.)
+
+The   Elements   of  Deductive    Logic,    designed
+
+mainly  for  the  use  of  Junior  Students  in  the  Universities.  By  T.
+Fowler,  M.A.,  Professor  of  Logic  in  the  University  of  Oxford.
+Seventh  Edition,  with  a  Collection  of  Examples.  Extra  fcap.  Svo.
+cloth,  3s.  6rf.
+
+The    Elements    of   Inductive   Logic,    designed
+
+mainly  for  the  use  of  Students  in  the  Universities.  By  the  same
+Author.     Third  Edition.     Extra  fcap.  Svo.  cloth,  6s.
+
+A  Manual  of  Political  Econo^ny,  for  the  use
+
+of  Schools.  By  J.  E.  Thorold  Rogers,  M.A.,  formerly  Professor
+of  Political  Economy,  Oxford.  Third  Edition.  Extra  fcap.  Svo,
+cloth,  4$.  (id.
+
+XI.     ART,  &c.
+A  Handbook  of  Pictorial  Art.     By  R.  St.  J.
+
+Tyrwhitt,  M.A.,  formerly  Student  and  Tutor  of  Christ  Church,
+Oxford.  With  coloured  Illustrations,  Photographs,  and  a  chapter
+on  Perspective  by  A.  Macdonald.  Second  Edition,  1S75.  Svo.
+half  morocco,  i8s.
+
+
+CLARENDON  PRESS,  OXFORD.  39
+
+
+A  Music  Primer  for  Schools.    By  J.  Troiitbeck,
+
+M.A.,  Music  Master  in  Westniinsler  School,  and  R.  F.  Dale,  M.A.,
+B.  Mus.,  Assistant  Master  in  Westminster  School.  Crown  8vo.
+cloth,  Is.  dd.
+
+A    Treatise  on  Harmony.     By  Sir  F.  A.  Gore
+
+Ouseley,  Bart.,  Professor  of  Music  in  the  University  of  Oxford.
+Second  Edition.     4to.  cloth,  los.
+
+A  Treatise  on  Counterpoint,  Canon,  and  Fu^ue,
+
+based  upon  that  of  Cherubini.  By  the  same  Author.  Second
+Edition.    4to.  cloth,  16s.
+
+A    Treatise  on   Musical   Form    and   General
+
+Cotnposition.     By  the  same  Author.     4to.  cloth,  los.
+
+The   Cultivatio7i   of  the    Speaking    Voice.     By
+
+John  Hullah.     Second  Edition.     Extra  fcap.  8vo.  cloth,  2s.  6rf.
+
+XII.     MISCELLANEOUS.
+
+The     Construction     of     Healthy     Dwellings;
+
+namely  Houses,  Hospitals,  Barracks,  Asylums,  &c.  By  Douglas
+Galton,  late  Royal  Engineers,  C.B.,  F.R.S.,  &c.  Demy  bvo.
+cloth,  I  OS.  6t/.
+
+A    Treatise  on  Rivers  and  Canals,  relating  to
+
+the  Control  and  Improvement  of  Rivers,  and  the  Design,  Construc-
+tion, and  Development  of  Canals.  By  Leveson  Francis  Vemon-
+Harcourt,  M.A.,  Balliol  College,  Oxford,  Member  of  the  Institution
+of  Civil  Engineers.  2  vols.  (Vol,  I,  Text.  Vol.  II,  Plates.)  bvo.
+cloth,  2 is.
+
+A  System  of  Physical  Edtication :  Theoretical
+
+and  Practical.  By  Archibald  Maclaren.  Extra  fcap.  8vo.  cloth,
+7s.  6d.
+
+Specimens  of  Lowland  Scotch    and  Northern
+
+English.     By  Dr.  J.  A.  H.  Murray.     Preparing.
+
+English  Plant  Names  from  the  Tenth  to  the
+
+Fifteenth  Century.     By  J.  Earle,  M.A.     Small  fcap.  Svo.  cloth,  5s.
+
+
+40  CLARENDON  PRESS,  OXFORD.
+
+
+An  Icelandic  Prose  Reader,  with  Notes,  Gram-
+mar, and  Glossary  by  Dr.  Gudbrand  Vigfusson  and  F.  York
+Powell,  M.A.     1879.    Extra  fcap.  8vo.  cloth,  los.  6cf.
+
+Dante.      Selections   from    the    Inferno.     With
+
+Introduction  and  Notes.  By  H,  B.  Cotterill,  B.A,  Extra  fcap,
+8vo.  cloth,  4s.  dd.
+
+Tasso.      La    Gernsalemme    Liberata.      Cantos
+
+i,  ii.  With  Introduction  and  Notes.  By  the  same  Editor.  Extra
+fcap.  8vo.  cloth,  25.  (td.
+
+The  Modern    Greek  Language  in  its   relation
+
+to  Ancient  Greek.  By  E.  M.  Geldart,  B.A.  Extra  fcap.  8vo.
+cloth,  4s.  dd.
+
+Outlines  of  Textual  Criticism  applied  to  the
+
+New  Testament.  By  C.  E.  Hammond,  M.A.,  Fellow  and  Tutor
+of  Exeter  College,  Oxford.  Third  Edition.  Extra  fcap.  8vo.
+cloth,  3s.  dd.
+
+A  Handbook  of  Phonetics,  including  a  Popular
+
+Exposition  of  the  Principles  of  Spelling  Reform.  By  Henry  Sweet,
+M.A.     Extra  fcap.  8vo.  cloth,  4s,  6rf.
+
+
+LONDON:   HENRY  FROWDE,
+Oxford    University   Press  Warehouse,   7  Paternoster    Row,
+
+OXFORD:   CLARENDON  PRESS  DEPOSITORY,
+116  High  Street.
+
+The  Delegates  of  the  Press  invite  suggestions  and  advice  from
+all  persotis  interested  in  educatiofi ;  and  zvill  be  thankful  for  hints,  ^c.
+addressed  to  the  SECRETARY  TO  THE  DELEGATES,  Claretidon  Press,
+Oxford.
+
+
+J^
+
+
+Princeton  Theoloqical  ,SeminarY  Libraries
+
+
+7  1012  01247   1605
+
+
+DATE  DUE
+
+
+*i  >>.
+
+
+K  rr-n^
+
+
+GAYLORD  #3523PI       Printed  in  USA
+
+
+'■^'.
+
+
+y^i?'
+
+
+m^^
+
+
+#
+
+
+)T.
+
+
+■■'/•!.
+
+
+m
+
+
+{''-^t^^f^
+
+
+M
+
+
+m
+
+
+m
+
+
+'^
+
+
+<%i::ji
+
+
+ii--\>i.-^
