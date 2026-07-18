@@ -1445,7 +1445,7 @@ def build_findings(texts, motif_index)
   occurrence_count = motif_index["occurrence_count"]
   traditions = texts.map { |item| item[:metadata]["tradition"] }.compact.uniq.length
 
-  agreement = load_yaml(File.join(ROOT, "data", "indexes", "replication-agreement.yml"))
+  agreement = (path = File.join(ROOT, "data", "indexes", "replication-agreement.yml"); File.exist?(path) ? load_yaml(path) : {})
   agreement_section = ""
   pairwise = agreement.fetch("pairwise", [])
   if pairwise.any?
@@ -1561,7 +1561,7 @@ def build_lab
   current = "lab/index.html"
   sections = []
 
-  agreement = load_yaml(File.join(ROOT, "data", "indexes", "replication-agreement.yml"))
+  agreement = (path = File.join(ROOT, "data", "indexes", "replication-agreement.yml"); File.exist?(path) ? load_yaml(path) : {})
   pairwise = agreement.fetch("pairwise", [])
   if pairwise.any?
     reader_label = lambda do |run_id|
@@ -1599,7 +1599,7 @@ def build_lab
     HTML
   end
 
-  sequences = load_yaml(File.join(ROOT, "data", "indexes", "motif-sequences.yml"))
+  sequences = (path = File.join(ROOT, "data", "indexes", "motif-sequences.yml"); File.exist?(path) ? load_yaml(path) : {})
   if sequences.any?
     top = sequences.fetch("recurring_sequences", []).first(20)
     pairs = sequences.fetch("precedence_pairs", []).first(20)
@@ -1620,7 +1620,7 @@ def build_lab
     HTML
   end
 
-  constellations = load_yaml(File.join(ROOT, "data", "indexes", "motif-constellations.yml"))
+  constellations = (path = File.join(ROOT, "data", "indexes", "motif-constellations.yml"); File.exist?(path) ? load_yaml(path) : {})
   if constellations.any?
     sections << <<~HTML
       <section class="section">
@@ -1634,7 +1634,7 @@ def build_lab
     HTML
   end
 
-  null_model = load_yaml(File.join(ROOT, "data", "indexes", "null-model.yml"))
+  null_model = (path = File.join(ROOT, "data", "indexes", "null-model.yml"); File.exist?(path) ? load_yaml(path) : {})
   if null_model.any?
     result = null_model.fetch("result", {})
     sections << <<~HTML
