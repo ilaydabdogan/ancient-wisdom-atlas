@@ -975,3 +975,117 @@ table.ledger tr.hit td { color: var(--ink); }
   font-size: 0.85rem;
   color: var(--ink-soft);
 }
+
+/* ---------- universals (the ranked ledger) ---------- */
+
+.universal-list { list-style: none; margin: 2rem 0 0; padding: 0; }
+
+.universal-row {
+  border-top: 1px solid var(--line);
+  padding: 1.15rem 0 1.3rem;
+  max-width: var(--measure);
+}
+
+.universal-row:last-child { border-bottom: 1px solid var(--line); }
+
+.universal-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.u-rank {
+  min-width: 2.2rem;
+  text-align: right;
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+}
+
+.universal-head h3 { margin: 0; font-size: 1.16rem; font-weight: 400; }
+.universal-head h3 a { text-decoration: none; }
+.universal-head h3 a:hover { color: var(--rubric); }
+
+.u-gloss {
+  margin-left: auto;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.u-bar {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--gold-faint);
+  margin: 0.6rem 0 0.25rem 2.95rem;
+  overflow: hidden;
+}
+
+.u-bar i {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  background: var(--gold);
+  box-shadow: var(--glow);
+}
+
+.u-count {
+  margin-left: 2.95rem;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+.universal-row .chips { margin-left: 2.95rem; margin-top: 0.5rem; }
+
+.iso-badge {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--gold);
+  border: 1px solid var(--gold-faint);
+  border-radius: 999px;
+  padding: 0.02rem 0.55rem;
+  white-space: nowrap;
+  font-variant-caps: small-caps;
+}
+
+@media (max-width: 40rem) {
+  .u-bar, .u-count, .universal-row .chips { margin-left: 0; }
+}
+
+/* ---------- fingerprints (per-tradition ledger) ---------- */
+
+.fingerprint-section {
+  border-top: 1px solid var(--line);
+  padding: 1.7rem 0 1.9rem;
+  max-width: var(--measure);
+  scroll-margin-top: 4.5rem;
+}
+
+.fingerprint-section:last-child { border-bottom: 1px solid var(--line); }
+
+.fingerprint-section h2 {
+  margin: 0 0 0.2rem;
+  font-size: 1.35rem;
+  text-transform: capitalize;
+}
+
+.fp-meta {
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.fp-tier {
+  margin: 1.1rem 0 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  color: var(--rubric);
+  font-variant-caps: small-caps;
+}
+
+.fp-family-gloss { color: var(--ink-faint); }

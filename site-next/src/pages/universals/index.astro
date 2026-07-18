@@ -1,0 +1,123 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { families, isolatedPredictionTest, humanize, fmtInt } from '../../lib/atlas.js';
+
+/*
+ * The Most Shared Stories of Humankind.
+ *
+ * Rank canonical families by *spread* — the number of distinct traditions
+ * attesting the family — not by raw occurrence counts. `comparative` is a
+ * cross-tradition scholarly category, not a lineage, so it is excluded from
+ * both the spread and the chips. Everything is recomputed from the frequency
+ * index at build time.
+ */
+const TOP = 30;
+const CHIP_LIMIT = 12;
+
+const iso = isolatedPredictionTest();
+const isoProven = new Set((iso.reproduced_edge_list ?? []).flat());
+
+const rows = families()
+  .map((f) => {
+    const trads = Object.keys(f.traditions).filter((t) => t !== 'comparative').sort();
+    const occ = trads.reduce((a, t) => a + f.traditions[t], 0);
+    return {
+      id: f.id,
+      label: f.label,
+      trads,
+      traditionCount: trads.length,
+      occurrenceCount: occ,
+      proven: isoProven.has(f.id),
+    };
+  })
+  .sort((a, b) => b.traditionCount - a.traditionCount || b.occurrenceCount - a.occurrenceCount);
+
+const top = rows.slice(0, TOP);
+const maxSpread = top[0]?.traditionCount ?? 1;
+const provenInTop = top.filter((r) => r.proven).length;
+
+// The tradition universe of the frequency index (lineages only).
+const universe = new Set();
+for (const r of rows) for (const t of r.trads) universe.add(t);
+const universeCount = universe.size;
+---
+
+<Manuscript
+  title="Universals — the Most Shared Stories of Humankind — Ancient Wisdom Atlas"
+  description={`The ${TOP} motif families carried by the greatest number of unrelated traditions, ranked by spread — with the isolation-proven families marked.`}
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Universals · a ranked ledger</p>
+      <h1>The most shared stories of humankind</h1>
+      <div class="reading">
+        <p class="dropcap">
+          Of the {fmtInt(rows.length)} canonical motif families in the atlas, these are
+          the {fmtInt(TOP)} carried by the greatest number of traditions.
+          &ldquo;Shared&rdquo; here means <em>spread</em>, not volume: a family ranks by how many
+          of the corpus&rsquo;s {fmtInt(universeCount)} distinct traditions attest it at
+          least once, never by how many times it is told. A story whispered once in
+          forty lands outranks one shouted a thousand times in five.
+        </p>
+        <p>
+          An honest caution before the ledger: spread is not importance. A family
+          carried by forty traditions is not thereby deeper or truer than one carried
+          by six — it may only be easier to recognize, or favored by what our corpus
+          happens to contain. The occurrence counts stand in the margin as glosses,
+          not as verdicts.
+        </p>
+        <p class="footnote">
+          <span class="iso-badge">✦ isolation-proven</span> marks families whose
+          conserved partnerships <em>re-formed</em> among the held-out isolated
+          lineages — peoples with little or no historical contact with the Old World
+          training corpus — in the preregistered
+          isolated-lineage test ({fmtInt((iso.reproduced_edge_list ?? []).length)} reproduced
+          pairings; see <a href="/findings/">the findings</a>). For these families,
+          &ldquo;they borrowed it&rdquo; is not an available explanation.
+          {fmtInt(provenInTop)} of the {fmtInt(TOP)} families below carry the mark.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section>
+      <ol class="universal-list">
+        {top.map((f, i) => (
+          <li class="universal-row">
+            <div class="universal-head">
+              <span class="u-rank">{i + 1}</span>
+              <h3><a href={`/descent/${f.id}/`}>{f.label}</a></h3>
+              {f.proven && (
+                <span class="iso-badge" title="Conserved pairings of this family re-formed among isolated lineages with no contact with the training corpus">✦ isolation-proven</span>
+              )}
+              <span class="u-gloss">{fmtInt(f.occurrenceCount)} occurrences</span>
+            </div>
+            <div class="u-bar" role="img" aria-label={`${f.traditionCount} of ${universeCount} traditions`}>
+              <i style={`width:${((f.traditionCount / maxSpread) * 100).toFixed(1)}%`}></i>
+            </div>
+            <p class="u-count">{fmtInt(f.traditionCount)} of {fmtInt(universeCount)} traditions</p>
+            <ul class="chips">
+              {f.trads.slice(0, CHIP_LIMIT).map((t) => <li class="chip">{humanize(t)}</li>)}
+              {f.trads.length > CHIP_LIMIT && (
+                <li class="chip more">+{fmtInt(f.trads.length - CHIP_LIMIT)} more</li>
+              )}
+            </ul>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="footnote">
+          Each family name opens its page in <a href="/descent/">the descent</a>, down
+          through sub-families and motifs to the quoted passages themselves. The
+          `comparative` category — scholarly cross-tradition commentary, not a lineage —
+          is excluded from every count on this page. The mirror of this ledger is
+          <a href="/fingerprints/"> what each culture alone remembers</a>.
+        </p>
+      </div>
+    </section>
+  </div>
+</Manuscript>
