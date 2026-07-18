@@ -14,6 +14,7 @@ SITE_DIR = File.join(ROOT, "site")
 NAV = [
   ["Home", "index.html"],
   ["Findings", "findings/index.html"],
+  ["Lab", "lab/index.html"],
   ["Explorer", "explorer/index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
@@ -1556,6 +1557,114 @@ def build_agent_files(texts, motif_index)
   }))
 end
 
+def build_lab
+  current = "lab/index.html"
+  sections = []
+
+  agreement = load_yaml(File.join(ROOT, "data", "indexes", "replication-agreement.yml"))
+  pairwise = agreement.fetch("pairwise", [])
+  if pairwise.any?
+    reader_label = lambda do |run_id|
+      case run_id
+      when /gpt54/ then "gpt-5.4 (second reader)"
+      when /gpt56terra/ then "gpt-5.6-terra (third reader)"
+      when /wave1|motif-extraction/ then "gpt-5.5 (primary)"
+      else run_id
+      end
+    end
+    rows = pairwise.map do |pair|
+      per_tradition = (pair["per_tradition_canonical_jaccard"] || {}).map do |tradition, value|
+        "#{tradition_label(tradition)} #{value ? (value * 100).round : "–"}%"
+      end.join(" · ")
+      <<~HTML
+        <tr>
+          <td>#{esc(reader_label.call(pair["run_a"]))}<br>× #{esc(reader_label.call(pair["run_b"]))}</td>
+          <td>#{pair["shared_passages"]}</td>
+          <td><strong>#{pair["mean_canonical_jaccard"] ? (pair["mean_canonical_jaccard"] * 100).round(1) : "–"}%</strong></td>
+          <td>#{pair["exact_canonical_match_rate"] ? (pair["exact_canonical_match_rate"] * 100).round(1) : "–"}%</td>
+          <td class="lab-traditions">#{esc(per_tradition)}</td>
+        </tr>
+      HTML
+    end
+    sections << <<~HTML
+      <section class="section">
+        <h2>Reader Agreement Triangle</h2>
+        <p>Three independent AI models extract motifs from identical passages under identical prompts. Agreement is measured on canonical family sets per passage (Jaccard overlap; exact = identical sets). Generated #{esc(agreement["generated_at"].to_s)}.</p>
+        <div class="table-scroll"><table class="lab-table">
+          <thead><tr><th>Reader pair</th><th>Shared passages</th><th>Mean family overlap</th><th>Exact match</th><th>By tradition</th></tr></thead>
+          <tbody>#{rows.join}</tbody>
+        </table></div>
+        <p class="lab-note">Raw data: <code>data/indexes/replication-agreement.yml</code> in the repository. Replication runs are quarantined from the primary evidence index.</p>
+      </section>
+    HTML
+  end
+
+  sequences = load_yaml(File.join(ROOT, "data", "indexes", "motif-sequences.yml"))
+  if sequences.any?
+    top = sequences.fetch("recurring_sequences", []).first(20)
+    pairs = sequences.fetch("precedence_pairs", []).first(20)
+    sections << <<~HTML
+      <section class="section">
+        <h2>Narrative Sequences (the monomyth test)</h2>
+        <p>Does motif <em>order</em> recur across traditions? Ordered family chains per text, mined for cross-tradition n-grams and precedence consistency. Summary: #{esc(sequences.dig("summary", "texts_with_chains").to_s)} texts chained; #{esc(sequences.dig("summary", "recurring_sequences").to_s)} recurring sequences; #{esc(sequences.dig("summary", "strong_precedence_pairs").to_s)} strong precedence pairs.</p>
+        <div class="table-scroll"><table class="lab-table">
+          <thead><tr><th>Sequence</th><th>Traditions</th><th>Texts</th></tr></thead>
+          <tbody>#{top.map { |entry| "<tr><td>#{esc(entry["sequence"])}</td><td>#{entry["tradition_count"]}</td><td>#{entry["text_count"]}</td></tr>" }.join}</tbody>
+        </table></div>
+        <h3>Strongest orderings (A before B)</h3>
+        <div class="table-scroll"><table class="lab-table">
+          <thead><tr><th>Before</th><th>After</th><th>Consistency</th><th>Texts</th></tr></thead>
+          <tbody>#{pairs.map { |entry| "<tr><td>#{esc(entry["before"])}</td><td>#{esc(entry["after"])}</td><td>#{(entry["consistency"].to_f * 100).round}%</td><td>#{entry["text_count"]}</td></tr>" }.join}</tbody>
+        </table></div>
+      </section>
+    HTML
+  end
+
+  constellations = load_yaml(File.join(ROOT, "data", "indexes", "motif-constellations.yml"))
+  if constellations.any?
+    sections << <<~HTML
+      <section class="section">
+        <h2>Constellations (the archetype test)</h2>
+        <p>Motif families whose mutual affinity survives lineage isolation: co-occurrence edges independently significant in ≥#{esc(constellations.dig("summary", "min_traditions").to_s)} traditions form #{esc(constellations.dig("summary", "constellations").to_s)} candidate constellations from #{esc(constellations.dig("summary", "conserved_edges").to_s)} conserved edges.</p>
+        <div class="table-scroll"><table class="lab-table">
+          <thead><tr><th>Constellation</th><th>Families</th><th>Edges</th></tr></thead>
+          <tbody>#{constellations.fetch("constellations", []).first(15).map { |entry| "<tr><td>#{esc(entry["constellation_id"])}</td><td>#{esc(entry["families"].join(", "))}</td><td>#{entry["internal_edges"]}</td></tr>" }.join}</tbody>
+        </table></div>
+      </section>
+    HTML
+  end
+
+  null_model = load_yaml(File.join(ROOT, "data", "indexes", "null-model.yml"))
+  if null_model.any?
+    result = null_model.fetch("result", {})
+    sections << <<~HTML
+      <section class="section">
+        <h2>Null Model (the chance test)</h2>
+        <p>Observed conserved co-occurrence edges: <strong>#{esc(result["observed_conserved_edges"].to_s)}</strong>, against a chance expectation of #{esc(result["null_mean"].to_s)} ± #{esc(result["null_sd"].to_s)} (max seen in #{esc(null_model.dig("config", "permutations").to_s)} permutations: #{esc(result["null_max"].to_s)}). z = #{esc(result["z_score"].to_s)}, p = #{esc(result["p_value"].to_s)}.</p>
+      </section>
+    HTML
+  end
+
+  if sections.empty?
+    sections << "<section class=\"section\"><p>Analysis runs are in progress. Results appear here as their indexes land in the repository.</p></section>"
+  end
+
+  in_progress = <<~HTML
+    <section class="section">
+      <h2>Currently Running</h2>
+      <p>Primary full-corpus extraction (gpt-5.5), third-reader replication (gpt-5.6-terra), motif-level embeddings, second-pass critique preparation, and the extraction of #{esc((Dir.glob(File.join(ROOT, "texts/public-domain/**/*.md")).length).to_s)} corpus texts including newly added isolated lineages. This page regenerates with every repository push.</p>
+    </section>
+  HTML
+
+  write_page(current, layout(
+    title: "Research Lab",
+    subtitle: "Live methodology results: reader agreement, sequences, constellations, and the chance test — regenerated from the data on every build.",
+    current_output: current,
+    body: sections.join("\n") + in_progress,
+    page_class: "lab"
+  ))
+end
+
 def build_explorer(motif_index, patterns)
   current = "explorer/index.html"
   motifs = motif_index.fetch("motifs", [])
@@ -2495,6 +2604,28 @@ STYLE_CSS = <<~CSS
   .findings .section p {
     max-width: 44rem;
     line-height: 1.7;
+  }
+  .lab-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+  }
+  .lab-table th, .lab-table td {
+    padding: 0.5rem 0.7rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(127, 127, 127, 0.25);
+    vertical-align: top;
+  }
+  .lab-traditions {
+    font-size: 0.85rem;
+    opacity: 0.85;
+  }
+  .lab-note {
+    font-size: 0.88rem;
+    opacity: 0.8;
+  }
+  .table-scroll {
+    overflow-x: auto;
   }
   .stats-grid {
     display: grid;
@@ -4518,6 +4649,7 @@ end
 build_step("assets") { build_assets }
 build_step("home") { build_home(texts, comparisons, motif_index, extractions) }
 build_step("findings") { build_findings(texts, motif_index) }
+build_step("lab") { build_lab }
 build_step("agent files") { build_agent_files(texts, motif_index) }
 build_step("explorer") { build_explorer(motif_index, patterns) }
 build_step("texts") { build_texts(texts) }
