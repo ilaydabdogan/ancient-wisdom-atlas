@@ -1,0 +1,36 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: motif-embeddings-2026-07-17-azure
+created_at: '2026-07-18T02:22:15Z'
+updated_at: '2026-07-18T04:23:42Z'
+artifacts:
+  requests_index_path: data/batches/motif-embeddings-2026-07-17-azure/requests/index.yml
+  embedding_request_map_path: data/batches/motif-embeddings-2026-07-17-azure/embedding-request-map.jsonl
+  results_dir: data/batches/motif-embeddings-2026-07-17-azure/results
+  embedding_results_path: data/embeddings/motif-embeddings-2026-07-17-azure/embeddings.jsonl
+  embedding_collection_manifest_path: data/embeddings/motif-embeddings-2026-07-17-azure/manifest.yml
+  embedding_ingested_results_path: data/batches/motif-embeddings-2026-07-17-azure/embedding-ingested-results.jsonl
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-18T04:17:48Z'
+  realtime_concurrency: 32
+  last_embedding_ingest_at: '2026-07-18T04:23:42Z'
+pipeline: embeddings
+status: embeddings_ingested
+config:
+  embedding_request_generation:
+    source: extractions
+    model: text-embedding-3-large
+    endpoint: "/v1/embeddings"
+    encoding_format: float
+    dimensions:
+    limit:
+    max_input_chars: 24000
+    max_requests_per_shard: 10000
+    max_bytes_per_shard: 188743680
+counts:
+  embedding_inputs_prepared: 5763
+  request_shards: 1
+  embeddings_ingested: 5763
+  failed_embedding_ingestions: 0
+

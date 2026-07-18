@@ -159,20 +159,27 @@ chains.each_value do |data|
 end
 
 asymmetries = []
-precedence.each do |a, row|
-  row.each do |b, forward|
-    backward = precedence[b][a]
-    total = forward + backward
-    next if total < 8 || a >= b && precedence.dig(a, b).nil?
+seen_pairs = {}
+precedence.keys.each do |a|
+  precedence[a].keys.each do |b|
+    key = [a, b].sort
+    next if seen_pairs[key]
 
-    ratio = forward.to_f / total
+    seen_pairs[key] = true
+    forward = precedence[a][b]
+    backward = precedence.key?(b) ? precedence[b].fetch(a, 0) : 0
+    total = forward + backward
+    next if total < 8
+
+    winner, loser, wins = forward >= backward ? [a, b, forward] : [b, a, backward]
+    ratio = wins.to_f / total
     next if ratio < 0.75
 
     asymmetries << {
-      "before" => a,
-      "after" => b,
-      "before_count" => forward,
-      "after_count" => backward,
+      "before" => winner,
+      "after" => loser,
+      "before_count" => wins,
+      "after_count" => total - wins,
       "text_count" => total,
       "consistency" => ratio.round(3)
     }
