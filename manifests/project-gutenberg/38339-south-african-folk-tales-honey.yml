@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_38339
+  work_id: african.south_african_folk_tales.honey_gutenberg
+  title: South-African Folk-Tales
+  source_url: https://www.gutenberg.org/ebooks/38339
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/38339-south-african-folk-tales-honey.txt
+    checksum:
+      algorithm: sha256
+      value: 3465195f0de2de7c74a91b9668ad57fdf47ee62253e3c9e6e08dfd30155fd1e0
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/38339-south-african-folk-tales-honey.md
+    checksum:
+      algorithm: sha256
+      value: '00893528422a7d97709241e0a71fcecf348d6a4d2d7b07f13668339fc71cf3dc'
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+    checksum:
+      algorithm: sha256
+      value: 2e1661d7a06347b6a7b450f948e52ad012b0665eed6d9a2ce6591126c41e93b6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.south_african_folk_tales.honey_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Recording context -
+      a compilation drawing on earlier colonial collections (Bleek and others); mixes
+      Khoikhoi and San animal tales with some Boer and European-influenced stories,
+      so individual tales must be provenance-checked before being used in isolation
+      arguments.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

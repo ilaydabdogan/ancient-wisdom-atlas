@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_42084
+  work_id: arctic_inuit.central_eskimo.boas_gutenberg
+  title: The Central Eskimo
+  source_url: https://www.gutenberg.org/ebooks/42084
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/42084-central-eskimo-boas.txt
+    checksum:
+      algorithm: sha256
+      value: 44f94974a2a8eddba95b6ce83f3cab39be637908397f2991353b2ea3770305fb
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/42084-central-eskimo-boas.md
+    checksum:
+      algorithm: sha256
+      value: 9e17506823d735be8abb66680c1ab39b9d1fdba145a118ba3cc9c6ab34db6054
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+    checksum:
+      algorithm: sha256
+      value: 06a51ef78bebbc3d0fc7b7c71a842a3b02ea18bf04a752f3be7567e380069b96
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids arctic_inuit.central_eskimo.boas_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (Bureau of Ethnology), public domain. Recording
+      context - early ethnography of a living Inuit tradition; the Sedna narrative
+      and angakoq material remain religiously significant to Inuit communities. Much
+      of the volume is ethnographic description - extract the myth and tale chapters.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

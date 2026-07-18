@@ -1,6 +1,6 @@
 # Texts Checklist
 
-Generated on 2026-04-30 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
+Generated on 2026-07-17 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
 
 This page tracks complete source Markdown files currently present in the repo and the planned first-500 corpus units still to be filled or split. A checked first-500 unit means a complete source Markdown file exists that covers it; long works may still need unit-level splitting before the unit is final.
 
@@ -9,7 +9,7 @@ This page tracks complete source Markdown files currently present in the repo an
 | Track | Count |
 | --- | ---: |
 | Included Markdown source texts | 58 |
-| Markdown files under `texts/` | 58 |
+| Markdown files under `texts/` | 70 |
 | First-500 planned units | 500 |
 | First-500 units with source Markdown | 299 |
 | First-500 units needing translation/source review or unit matching | 58 |
@@ -156,6 +156,23 @@ This page tracks complete source Markdown files currently present in the repo an
 
 - [x] Persian Literature, Volume 1 — `persian.persian_literature_volume_1.gutenberg` — [texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md](texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md)
 - [x] The Persian Literature, Volume 2, The Gulistan — `persian.sadi.gulistan.ross_gutenberg` — [texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md](texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md)
+
+## Unregistered Markdown Files
+
+These files exist under `texts/` but are not yet present in `data/collections/ingested-corpus.yml`.
+
+- [x] [texts/experiential/contemplative/bardo-thodol.md](texts/experiential/contemplative/bardo-thodol.md)
+- [x] [texts/experiential/contemplative/interior-castle.md](texts/experiential/contemplative/interior-castle.md)
+- [x] [texts/experiential/contemplative/underhill-mystical-way.md](texts/experiential/contemplative/underhill-mystical-way.md)
+- [x] [texts/experiential/contemplative/yoga-sutras.md](texts/experiential/contemplative/yoga-sutras.md)
+- [x] [texts/experiential/nde/greyson-scale.md](texts/experiential/nde/greyson-scale.md)
+- [x] [texts/experiential/nde/iands-phenomenology.md](texts/experiential/nde/iands-phenomenology.md)
+- [x] [texts/experiential/nde/moody-phenomenology.md](texts/experiential/nde/moody-phenomenology.md)
+- [x] [texts/experiential/nde/van-lommel-elements.md](texts/experiential/nde/van-lommel-elements.md)
+- [x] [texts/experiential/psychedelic/asc-dimensions.md](texts/experiential/psychedelic/asc-dimensions.md)
+- [x] [texts/experiential/psychedelic/grof-bpm.md](texts/experiential/psychedelic/grof-bpm.md)
+- [x] [texts/experiential/psychedelic/meq30-dimensions.md](texts/experiential/psychedelic/meq30-dimensions.md)
+- [x] [texts/experiential/psychedelic/strassman-dmt.md](texts/experiential/psychedelic/strassman-dmt.md)
 
 ## First-500 Planned Units
 

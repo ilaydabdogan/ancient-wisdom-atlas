@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_18450
+  work_id: polynesian.hawaiian_folk_tales.thrum_gutenberg
+  title: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  source_url: https://www.gutenberg.org/ebooks/18450
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/18450-hawaiian-folk-tales-thrum.txt
+    checksum:
+      algorithm: sha256
+      value: 23eeb2821b18b107514c18581c50bbd136852a976b80f10905c9f52b20b03405
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/18450-hawaiian-folk-tales-thrum.md
+    checksum:
+      algorithm: sha256
+      value: 1c0718f69c17ffb7acfc5ebc2f5d278d65d520dc155382cf99c4dedf29afa4e3
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+    checksum:
+      algorithm: sha256
+      value: 748488bbb39a12749915456fc4196e881efe2d4643ee7d1ba12f2fe269059382
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids polynesian.hawaiian_folk_tales.thrum_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Native Hawaiian mo'olelo compiled in the immediate post-annexation era, partly
+      by outsider writers; treat as historical witnesses to living traditions and
+      note contributor provenance per tale.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,8 +1,47 @@
 ---
 collection_id: ingested_corpus
 title: Ingested Corpus Registry
-updated_on: '2026-04-28'
+updated_on: '2026-07-17'
 items:
+- id: african.south_african_folk_tales.honey_gutenberg
+  title: South-African Folk-Tales
+  tradition_cluster: khoisan_southern_african
+  source_id: source.project_gutenberg.38339
+  canonical_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  manifest_path: manifests/project-gutenberg/38339-south-african-folk-tales-honey.yml
+  extraction_dir: extractions/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: african.west_african_folk_tales.barker_gutenberg
+  title: West African Folk-Tales
+  tradition_cluster: african
+  source_id: source.project_gutenberg.66923
+  canonical_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  manifest_path: manifests/project-gutenberg/66923-west-african-folk-tales-barker.yml
+  extraction_dir: extractions/akan/project-gutenberg/west-african-folk-tales-barker
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: african_diaspora.jamaica_anansi_stories.beckwith_gutenberg
+  title: Jamaica Anansi Stories
+  tradition_cluster: african
+  source_id: source.project_gutenberg.72735
+  canonical_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  manifest_path: manifests/project-gutenberg/72735-jamaica-anansi-stories-beckwith.yml
+  extraction_dir: extractions/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: ainu.folk_tales.chamberlain_gutenberg
   title: Aino Folk-Tales
   tradition_cluster: ainu_folklore
@@ -10,6 +49,86 @@ items:
   canonical_text_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
   manifest_path: manifests/project-gutenberg/29287-aino-folk-tales-chamberlain.yml
   extraction_dir: extractions/ainu/project-gutenberg/aino-folk-tales-chamberlain
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: arctic_inuit.central_eskimo.boas_gutenberg
+  title: The Central Eskimo
+  tradition_cluster: arctic_inuit
+  source_id: source.project_gutenberg.42084
+  canonical_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  manifest_path: manifests/project-gutenberg/42084-central-eskimo-boas.yml
+  extraction_dir: extractions/inuit/project-gutenberg/central-eskimo-boas
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: arctic_inuit.eskimo_folk_tales.rasmussen_worster_gutenberg
+  title: Eskimo Folk-Tales
+  tradition_cluster: arctic_inuit
+  source_id: source.project_gutenberg.28932
+  canonical_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  manifest_path: manifests/project-gutenberg/28932-eskimo-folk-tales-rasmussen-worster.yml
+  extraction_dir: extractions/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  tradition_cluster: australian_aboriginal
+  source_id: source.project_gutenberg.3833
+  canonical_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  manifest_path: manifests/project-gutenberg/3833-australian-legendary-tales-parker.yml
+  extraction_dir: extractions/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: australian.euahlayi_tribe.parker_gutenberg
+  title: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  tradition_cluster: australian_aboriginal
+  source_id: source.project_gutenberg.3819
+  canonical_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  manifest_path: manifests/project-gutenberg/3819-euahlayi-tribe-parker.yml
+  extraction_dir: extractions/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: baltic.hero_of_esthonia.kirby_gutenberg
+  title: The Hero of Esthonia and Other Studies in the Romantic Literature of That
+    Country
+  tradition_cluster: european_folk
+  source_id: source.project_gutenberg.19438
+  canonical_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  manifest_path: manifests/project-gutenberg/19438-hero-of-esthonia-kirby.yml
+  extraction_dir: extractions/estonian/project-gutenberg/hero-of-esthonia-kirby
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: biblical.daniel.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 27: Daniel'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8027
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/daniel-kjv.md
+  manifest_path: manifests/project-gutenberg/8027-daniel-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/daniel-kjv
   rights:
     status: public_domain
     full_text: allowed
@@ -42,6 +161,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: biblical.ezekiel.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 26: Ezekiel'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8026
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  manifest_path: manifests/project-gutenberg/8026-ezekiel-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/ezekiel-kjv
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: biblical.genesis.web_classic
   title: Genesis
   tradition_cluster: jewish_christian
@@ -55,6 +187,32 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: biblical.isaiah.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 23: Isaiah'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8023
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  manifest_path: manifests/project-gutenberg/8023-isaiah-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/isaiah-kjv
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: biblical.job.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 18: Job'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8018
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  manifest_path: manifests/project-gutenberg/8018-job-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/job-kjv
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: biblical.leviticus.web_classic
   title: Leviticus
   tradition_cluster: jewish_christian
@@ -81,6 +239,58 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: biblical.psalms.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 19: Psalms'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8019
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/psalms-kjv.md
+  manifest_path: manifests/project-gutenberg/8019-psalms-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/psalms-kjv
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: biblical.revelation.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 66: Revelation'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8066
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/revelation-kjv.md
+  manifest_path: manifests/project-gutenberg/8066-revelation-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/revelation-kjv
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: biblical.sirach.douay_gutenberg
+  title: 'The Bible, Douay-Rheims, Book 26: Ecclesiasticus'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8326
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  manifest_path: manifests/project-gutenberg/8326-sirach-ecclesiasticus-douay.yml
+  extraction_dir: extractions/biblical/project-gutenberg/sirach-ecclesiasticus-douay
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: biblical.wisdom_of_solomon.douay_gutenberg
+  title: 'The Bible, Douay-Rheims, Book 25: Wisdom'
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.8325
+  canonical_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  manifest_path: manifests/project-gutenberg/8325-wisdom-of-solomon-douay.yml
+  extraction_dir: extractions/biblical/project-gutenberg/wisdom-of-solomon-douay
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: buddhist.dhammapada.max_muller_gutenberg
   title: Dhammapada, a Collection of Verses
   tradition_cluster: buddhist
@@ -94,6 +304,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: buddhist.diamond_sutra.gemmell_gutenberg
+  title: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  tradition_cluster: buddhist
+  source_id: source.project_gutenberg.64623
+  canonical_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  manifest_path: manifests/project-gutenberg/64623-diamond-sutra-gemmell.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/diamond-sutra-gemmell
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
   title: Buddhist birth stories; or, Jataka tales, Volume 1
   tradition_cluster: buddhist
@@ -198,6 +421,20 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: christian.apocryphal_gospels.wake_gutenberg
+  title: The suppressed Gospels and Epistles of the original New Testament of Jesus
+    the Christ, Complete
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.6516
+  canonical_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  manifest_path: manifests/project-gutenberg/6516-suppressed-gospels-epistles-wake.yml
+  extraction_dir: extractions/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: comparative.golden_bough.volume_1_frazer_gutenberg
   title: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
   tradition_cluster: comparative_religion
@@ -289,6 +526,32 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: egyptian.legends_of_gods.budge_gutenberg
+  title: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  tradition_cluster: egyptian
+  source_id: source.project_gutenberg.9411
+  canonical_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  manifest_path: manifests/project-gutenberg/9411-legends-of-the-gods-budge.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/legends-of-the-gods-budge
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: egyptian.literature_ancient_egyptians.budge_gutenberg
+  title: The Literature of the Ancient Egyptians
+  tradition_cluster: egyptian
+  source_id: source.project_gutenberg.15932
+  canonical_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  manifest_path: manifests/project-gutenberg/15932-literature-of-ancient-egyptians-budge.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: finnish_karelian.kalevala.crawford_gutenberg
   title: 'Kalevala: The Epic Poem of Finland'
   tradition_cluster: finnish_karelian
@@ -302,6 +565,58 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: germanic.beowulf.gummere_gutenberg
+  title: 'Beowulf: An Anglo-Saxon Epic Poem'
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.16328
+  canonical_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  manifest_path: manifests/project-gutenberg/16328-beowulf-gummere.yml
+  extraction_dir: extractions/germanic/project-gutenberg/beowulf-gummere
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: germanic.grimm_household_tales.hunt_gutenberg
+  title: Household Tales by Brothers Grimm
+  tradition_cluster: european_folk
+  source_id: source.project_gutenberg.5314
+  canonical_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  manifest_path: manifests/project-gutenberg/5314-grimm-household-tales-hunt.yml
+  extraction_dir: extractions/germanic/project-gutenberg/grimm-household-tales-hunt
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: germanic.nibelungenlied.needler_gutenberg
+  title: The Nibelungenlied
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.7321
+  canonical_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  manifest_path: manifests/project-gutenberg/7321-nibelungenlied-needler.yml
+  extraction_dir: extractions/germanic/project-gutenberg/nibelungenlied-needler
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: gnostic.pistis_sophia.horner_gutenberg
+  title: Pistis Sophia
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.76266
+  canonical_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  manifest_path: manifests/project-gutenberg/76266-pistis-sophia-horner.yml
+  extraction_dir: extractions/gnostic/project-gutenberg/pistis-sophia-horner
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: greek.aesop.fables_vernon_jones_gutenberg
   title: Aesop's Fables; a new translation
   tradition_cluster: greek_fable_later_collection
@@ -309,6 +624,19 @@ items:
   canonical_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
   manifest_path: manifests/project-gutenberg/11339-aesops-fables-vernon-jones.yml
   extraction_dir: extractions/greek/project-gutenberg/aesops-fables-vernon-jones
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: greek.argonautica.seaton_gutenberg
+  title: The Argonautica
+  tradition_cluster: greek_roman
+  source_id: source.project_gutenberg.830
+  canonical_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  manifest_path: manifests/project-gutenberg/830-argonautica-seaton.yml
+  extraction_dir: extractions/greek/project-gutenberg/argonautica-seaton
   rights:
     status: public_domain
     full_text: allowed
@@ -458,6 +786,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: hindu.yoga_sutras.johnston_gutenberg
+  title: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  tradition_cluster: hindu_jain_indian_philosophical
+  source_id: source.project_gutenberg.2526
+  canonical_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  manifest_path: manifests/project-gutenberg/2526-yoga-sutras-patanjali-johnston.yml
+  extraction_dir: extractions/hindu/project-gutenberg/yoga-sutras-patanjali-johnston
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: indigenous_australian.australian_legendary_tales.parker_gutenberg
   title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
     Piccaninnies'
@@ -524,6 +865,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: jewish.1_enoch.charles_gutenberg
+  title: The Book of Enoch
+  tradition_cluster: jewish_christian
+  source_id: source.project_gutenberg.77935
+  canonical_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  manifest_path: manifests/project-gutenberg/77935-book-of-enoch-charles.yml
+  extraction_dir: extractions/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: maya_quiche.popol_vuh.spence_gutenberg
   title: The Popol Vuh
   tradition_cluster: mesoamerican
@@ -537,6 +891,58 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: mesoamerican.maya_chronicles.brinton_gutenberg
+  title: The Maya Chronicles
+  tradition_cluster: mesoamerican
+  source_id: source.project_gutenberg.20205
+  canonical_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  manifest_path: manifests/project-gutenberg/20205-maya-chronicles-brinton.yml
+  extraction_dir: extractions/maya/project-gutenberg/maya-chronicles-brinton
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: mesoamerican.myths_of_mexico_peru.spence_gutenberg
+  title: The Myths of Mexico & Peru
+  tradition_cluster: mesoamerican
+  source_id: source.project_gutenberg.53080
+  canonical_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  manifest_path: manifests/project-gutenberg/53080-myths-of-mexico-peru-spence.yml
+  extraction_dir: extractions/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: mesoamerican.rig_veda_americanus.brinton_gutenberg
+  title: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
+  tradition_cluster: mesoamerican
+  source_id: source.project_gutenberg.14993
+  canonical_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  manifest_path: manifests/project-gutenberg/14993-rig-veda-americanus-brinton.yml
+  extraction_dir: extractions/nahua/project-gutenberg/rig-veda-americanus-brinton
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
+  title: The Babylonian Legends of the Creation
+  tradition_cluster: mesopotamian
+  source_id: source.project_gutenberg.9914
+  canonical_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  manifest_path: manifests/project-gutenberg/9914-babylonian-legends-of-creation.yml
+  extraction_dir: extractions/mesopotamian/project-gutenberg/babylonian-legends-of-creation
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg
   title: An Old Babylonian Version of the Gilgamesh Epic
   tradition_cluster: mesopotamian
@@ -550,6 +956,32 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: native_american.navaho_legends.matthews_gutenberg
+  title: Navaho Legends
+  tradition_cluster: native_north_american
+  source_id: source.project_gutenberg.60165
+  canonical_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  manifest_path: manifests/project-gutenberg/60165-navaho-legends-matthews.yml
+  extraction_dir: extractions/navajo/project-gutenberg/navaho-legends-matthews
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: native_american.zuni_folk_tales.cushing_gutenberg
+  title: Zuni Folk Tales
+  tradition_cluster: native_north_american
+  source_id: source.project_gutenberg.54682
+  canonical_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  manifest_path: manifests/project-gutenberg/54682-zuni-folk-tales-cushing.yml
+  extraction_dir: extractions/zuni/project-gutenberg/zuni-folk-tales-cushing
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: norse.myths_of_norsemen.guerber_gutenberg
   title: 'Myths of the Norsemen: From the Eddas and Sagas'
   tradition_cluster: norse
@@ -576,6 +1008,33 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: norse.prose_edda.anderson_gutenberg
+  title: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.18947
+  canonical_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  manifest_path: manifests/project-gutenberg/18947-younger-edda-anderson.yml
+  extraction_dir: extractions/norse/project-gutenberg/younger-edda-anderson
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: norse.volsunga_saga.morris_gutenberg
+  title: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  tradition_cluster: norse_celtic
+  source_id: source.project_gutenberg.1152
+  canonical_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  manifest_path: manifests/project-gutenberg/1152-volsunga-saga-morris-magnusson.yml
+  extraction_dir: extractions/norse/project-gutenberg/volsunga-saga-morris-magnusson
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: persian.persian_literature_volume_1.gutenberg
   title: Persian Literature, Volume 1
   tradition_cluster: persian
@@ -596,6 +1055,19 @@ items:
   canonical_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
   manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
   extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: polynesian.hawaiian_folk_tales.thrum_gutenberg
+  title: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  tradition_cluster: oceanian_polynesian
+  source_id: source.project_gutenberg.18450
+  canonical_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  manifest_path: manifests/project-gutenberg/18450-hawaiian-folk-tales-thrum.yml
+  extraction_dir: extractions/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum
   rights:
     status: public_domain
     full_text: allowed
@@ -635,6 +1107,32 @@ items:
   canonical_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
   manifest_path: manifests/project-gutenberg/26073-metamorphoses-books-8-15-riley.yml
   extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-8-15-riley
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: slavic.myths_folk_tales.curtin_gutenberg
+  title: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  tradition_cluster: european_folk
+  source_id: source.project_gutenberg.50011
+  canonical_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  manifest_path: manifests/project-gutenberg/50011-myths-folk-tales-russians-slavs-magyars-curtin.yml
+  extraction_dir: extractions/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: slavic.russian_fairy_tales.ralston_gutenberg
+  title: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  tradition_cluster: european_folk
+  source_id: source.project_gutenberg.22373
+  canonical_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  manifest_path: manifests/project-gutenberg/22373-russian-fairy-tales-ralston.yml
+  extraction_dir: extractions/slavic/project-gutenberg/russian-fairy-tales-ralston
   rights:
     status: public_domain
     full_text: allowed

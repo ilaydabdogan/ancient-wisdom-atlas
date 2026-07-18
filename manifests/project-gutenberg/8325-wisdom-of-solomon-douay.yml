@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_8325
+  work_id: biblical.wisdom_of_solomon.douay_gutenberg
+  title: 'The Bible, Douay-Rheims, Book 25: Wisdom'
+  source_url: https://www.gutenberg.org/ebooks/8325
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/8325-wisdom-of-solomon-douay.txt
+    checksum:
+      algorithm: sha256
+      value: 46010905a603d63dccedb838bcc918a09b12a65c7fb0111abc5a42bf0722ad28
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/8325-wisdom-of-solomon-douay.md
+    checksum:
+      algorithm: sha256
+      value: 175a094b773660a099b72b5c6f48bfbd597cd1cd955019310bf304dae80a7602
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+    checksum:
+      algorithm: sha256
+      value: eae597348157a33cfe2ae6c1993a4799acf7ec806d46b2d69ed32476880933ee
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids biblical.wisdom_of_solomon.douay_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Douay-Rheims Challoner revision (1752) is public domain everywhere; Project
+      Gutenberg catalog records public-domain status in the USA.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

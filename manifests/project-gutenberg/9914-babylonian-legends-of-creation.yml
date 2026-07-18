@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_9914
+  work_id: mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
+  title: The Babylonian Legends of the Creation
+  source_url: https://www.gutenberg.org/ebooks/9914
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/9914-babylonian-legends-of-creation.txt
+    checksum:
+      algorithm: sha256
+      value: 59e0178388b929a7f0c3fd6cb291e32c39b6e957c5c3a12f6c10c2db4303bc5b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/9914-babylonian-legends-of-creation.md
+    checksum:
+      algorithm: sha256
+      value: 48cc0d4e42269ae4eefd0086b7b9cc15f73174086b99fd9f592f3d41d7c53446
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+    checksum:
+      algorithm: sha256
+      value: c499e725a51afa36c8960220c67681ea1e23a6394642b5f5e5a2ce117b32342c
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

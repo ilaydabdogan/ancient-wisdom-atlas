@@ -1,0 +1,4215 @@
+# The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+
+                                THE
+                            DIAMOND SUTRA
+
+                         (CHIN-KANG-CHING)
+
+                                 OR
+
+                          PRAJNA-PARAMITA
+
+                     TRANSLATED FROM THE CHINESE
+                    WITH AN INTRODUCTION AND NOTES
+
+                                 BY
+
+                          WILLIAM GEMMELL
+
+
+                               金剛經
+
+
+                               LONDON
+                 KEGAN PAUL, TRENCH, TRÜBNER & CO., LTD.
+                BROADWAY HOUSE, 68–74 CARTER LANE, E.C.
+                                1912
+
+
+                            THIS VOLUME
+                     IS RESPECTFULLY INSCRIBED TO
+                              MY FRIEND
+                         WILLIAM NIVEN, Esq.,
+                                 BY
+                            THE AUTHOR.
+
+
+                              PREFACE
+
+
+This English version of _The Diamond Sutra_,[1] translated from the
+Chinese text of Kumarajiva, owes its inception to successive
+conversations with a friend, profoundly interested in the
+interpretation of oriental systems of philosophy. During those
+conversations renderings into English were made of numerous passages
+from the works of Confucius, Mencius, and Lao-Tsz.
+
+Having surveyed briefly those fertile fields of thought, we passed, by
+a natural transition, into the delectable Buddhist realm. Some
+passages from the _Chinese Sutras_, comprising texts and annotations,
+were consecutively examined, and variously considered. Eventually it
+was suggested that _The Diamond Sutra_, perhaps one of the most
+metaphysical of the works ascribed to Buddha, be conveniently rendered
+into the English language.
+
+In order that the rather unfamiliar text might assume due
+intelligibility, parallel passages and numerous annotations were
+subjoined, as the pleasant work of translating proceeded. The idea of
+printing and publishing the text seemed to follow as a natural sequence.
+
+Already there exist in the English language, renderings of _The Diamond
+Sutra_ from the Sanscrit by Max Müller, and from the Chinese by Beal.
+This new version does not seek to enter into rivalry with those
+erudite works; and a possible apology which might readily be offered
+for the publication of this modest volume is, that the scholarly
+productions of Müller and Beal, in their present forms, are perhaps
+slightly inaccessible to the general English reader.
+
+It would appear that the peculiar charm of the Buddhist philosophy,
+and the remarkable purity of the Buddhist faith, are becoming more
+generally appreciated in Europe. Should this imperfect rendering of
+_The Diamond Sutra_, even in the faintest degree, confirm this just
+sense of appreciation, or prove a gentle incentive to further enquiry,
+then its unexpected publication may prove to be not entirely
+unjustified.
+
+In recording our many obligations to those scholars whose works were
+frequently consulted, we also give expression to a hope that nothing
+of importance is omitted which ought to be gratefully acknowledged.
+
+It may also be permissible to express admiration of the piety, and
+appreciation of the friendship, of those learned monks in Central
+China, to whom we are everlastingly indebted for even a slight
+initiation into those inexhaustible truths, which are alike the
+heritage, and the glory, of the disciples of Buddha. Amongst those we
+should like to specify are Chang-Ming, the chief monk (Seng-Kwan) of
+Chen-Chou prefecture, Hu-Nan, and the aged and affectionate Chioh-Hsien.
+
+                                          WM. GEMMELL.
+
+  POLLOKSHIELDS, GLASGOW,
+     _6th September_ 1912.
+
+
+[1] A learned Chinese commentator thus explained the rather striking
+title: “As the diamond exceeds all other precious gems in brilliance
+and indestructibility; so, also, does the wisdom of _The Diamond Sutra_
+transcend, and shall outlive, all other knowledge known to philosophy.”
+
+
+                            INTRODUCTION
+
+
+_The Diamond Sutra_ is one of the most valued and widely read
+philosophical works in Buddhist literature. It is very popular amongst
+ardent Buddhists in China, and excepting the _Lotus of the Good Law_,
+and the _Leng-Yen-Ching_,[1] perhaps no other Sutra ascribed to Buddha
+is regarded by the Chinese with so great esteem.
+
+In Japan, _The Diamond Sutra_ appears to be perused extensively by
+what Max Müller[2] termed the Shin-Gon sect, founded by Ko-Bo, a
+disciple of the renowned pilgrim Hiuen-Tsang, about the year 816 A.D.
+
+_The Diamond Sutra_ was written originally in Sanscrit, and in process
+of time translated into the Tibetan, Chinese, Mongol, and Manchu
+languages. It represents the Mahayana school of Buddhist thought, a
+school founded by Nagarjuna,[3] which flourished primarily at
+Tchakuka, and thereafter influenced appreciably a considerable part of
+the Buddhist Church.
+
+In the year 1836, Csomo Körösi published an account of the Tibetan
+translation, which interesting document may be consulted in Vol. XX.
+of the _Asiatic Researches_. _The Diamond Sutra_ is therein designated
+“The Sutra of Wonderful Effects,” a treatise by means of which
+Sakyamuni Buddha instructs Subhuti, one of his conspicuous disciples,
+in _The Prajna-Paramita_ of transcendent wisdom.[4]
+
+To Kumarajiva,[5] a native of Kashmir, who gained distinction as a
+monk of the later Chin dynasty[6] (A.D. 384–417), is conceded the
+honour of having first translated _The Diamond Sutra_ into the Chinese
+language. Of subsequent Chinese translations, perhaps the most
+noteworthy is the text ascribed to the scholarly _Hiuen-Tsang_, and
+completed about the middle of the seventh century.[7]
+
+A rendering into English of Kumarajiva’s Chinese translation was
+accomplished by the Rev. S. Beal, and published in The _Journal of the
+Royal Asiatic Society_, 1864–65. The text and German translation of
+the Tibetan version were published in 1873 by M. Schmidt, in _The
+Mémoires de l’Académie St Pétersbourg_. The Mongolian translation was
+presented by the Baron de Constadt to the library of the Institut de
+France. The Manchu translation is in the possession of M. de Harlez,
+who, with the aid of the Tibetan, Manchu, and Chinese versions,
+published a French translation of the Sanscrit text of _The Diamond
+Sutra_ in the _Journal Asiatique_, 1892.[8] It has been observed[9]
+that “at first sight it may seem as if this metaphysical treatise
+hardly deserved the world-wide reputation which it has attained.”
+Regarding this descriptive “world-wide reputation,” devout Buddhists
+might suggest in extenuation, that throughout many centuries, the
+“spiritual wisdom” of _The Diamond Sutra_ produced in countless minds
+a “conscious blessedness of perfect peace.” This “spiritual wisdom”
+also appeared to be a “strong incentive to holiness,” and a grateful
+inspiration to those who had entered “the path which leads to
+Nirvana.” In a few renowned monasteries of Central China, our Buddhist
+friends frequently affirmed that, by contemplating the “spiritual
+wisdom” of _The Diamond Sutra_, the mind would inevitably become
+“transfused with the mellow light of imperishable truth.”
+
+In the preface to _The Vagrakkhedika_, Max Müller made a critical
+observation regarding certain peculiarities of “‘style’ adopted in
+this treatise by the Buddhist philosophers who wished to convince
+their hearers of the truth of their philosophy.” From the Sanscrit
+text, perhaps it is difficult to realise fully what Asvaghocha[10]
+described as the “persuasiveness of Buddha’s eloquence”;[11] yet we may
+quite appreciate the academic instinct of Kumarajiva, whose work on
+_The Diamond Sutra_ bears evidence of a laudable endeavour to produce
+a classic, which in the Chinese language is almost entirely beyond
+reproach.
+
+In all our aspirations to translate or to interpret Buddhist texts,
+perhaps it might prove advantageous to bear in mind the significant
+words incorporated in the _Light of Asia_:—
+
+  “And time hath blurred their script and ancient sense,
+   Which once was new and mighty, moving all.”
+
+Max Müller stated[12] that _The Diamond Sutra_ represents a treatise on
+“metaphysical agnosticism,” and he excused its “endless repetition of
+the same process of reasoning” on the assumption, that the
+subject-matter of the _Sutra_ was probably “perfectly familiar to
+children and ignorant persons.”
+
+By referring to our Chinese text, we are led to suppose that _The
+Diamond Sutra_ was “delivered expressly for those who had entered the
+Path which leads to Nirvana,” and for those who are “attaining to the
+ultimate plane of Buddhic thought.” Our Chinese annotators also appear
+to be unanimous in suggesting, that the “spiritual wisdom” of _The
+Diamond Sutra_ is understood only in its rudimentary forms, by those
+of immature or uninitiated mind.
+
+Concerning what has been termed the “agnosticism” of _The Diamond
+Sutra_, Sakyamuni Buddha, when he admissibly delivered the text,
+indicated clearly that there is a sense in which the “highest perfect
+knowledge”[13] may be referred to as “unknown.” Dante appears to have
+had a similar difficulty regarding “knowledge” and “power” wherewith
+to express the higher forms of spiritual experience; and the following
+lines, constituting the opening stanzas of _The Paradiso_, may serve
+to elucidate the Buddhist position, and make it perhaps more
+intelligible to those who are as yet unfamiliar with its peculiar
+modes of thought:—
+
+  _“La gloria di colui che tutto move
+    Per l’universo penetra, e risplende
+    In una parte più, e meno altrove.”_
+
+   _“Nel ciel che più della sua luce prende
+    Fu’io; e vidi cose che ridire
+    Nè sa nè può qual di lassù discende;”_
+
+   _“Perchè, appressando sè al suo disire,
+    Nostro intelletto[14] si profonda tanto,
+    Che retro la memoria non può ire.”_[15]
+
+In order to appreciate fully the philosophy of _The Diamond Sutra_,
+doubtless it is necessary to interpret aright the meaning of the
+Buddhist terminology. In this connection, the Sanscrit Dharma—usually
+rendered into Chinese by “Fah,” and into English by “Law”—appears to
+merit our immediate attention.
+
+Max Müller, with his ample knowledge, stated that Dharma, “in the
+ordinary Buddhist phraseology, may be correctly rendered by Law; and
+thus the whole teaching of Buddha is named _Saddharma_—‘The Good Law.’
+What _The Diamond Sutra_ wishes to teach is that all objects,
+differing one from the other by their Dharmas, are illusive, or as we
+should say, phenomenal and subjective, that they are, in fact, of our
+own making, the products of our own mind.” With those noteworthy
+observations, there is embodied in the preface to _The Vagrakkhedika_,
+the following interesting suggestion, that the Greek εῖδος—whatever is
+seen, form, shape, figure—appears to be the equivalent of the Sanscrit
+Dharma.
+
+Spence Hardy, a distinguished writer on Buddhism, made a suggestion of
+perhaps equal importance, with reference to the correct interpretation
+of Dharma. In his well-known volume _Eastern Monachism_, there occurs
+the following relevant passage: “The second of the three great
+treasures is called Dhammo, or in Singhalese Dharmma. This word has
+various meanings, but is here to be understood in the sense of _truth_.”
+
+Rhys Davids in his useful volume _Buddhism_, indicated that “Dharma
+(Pali Dhamma) is not law, but that which underlies and includes the
+law—a word often most difficult to translate, but best rendered here
+by Truth and Righteousness.”[16]
+
+Perhaps it may be opportune to remark, that had Kumarajiva regarded
+“form,” “truth,” or “righteousness,” as expressing adequately the
+Sanscrit Dharma, these familiar terms being obviously at his command,
+might have been utilised at pleasure. Like the cultured Asvaghocha,
+Kumarajiva may have regarded the “nature” of the Law as “co-extensive
+with the illimitable ocean of being”;[17] and within that ample
+compass, perhaps he thought there might synthetically be included
+those beautifully-defined concepts “form,” “truth,” and “righteousness.”
+
+Chinese annotators of _The Diamond Sutra_ seldom criticise adversely
+its classic terminology, or suggest many inapplicable alternative
+renderings. They appear to have surveyed the realm of “spiritual
+wisdom” enunciated by Sakyamuni Buddha, and thereafter to have become
+greatly impressed by the thought that, in its _Essence_, it might
+possibly be inexhaustible. This may in part explain their motive for
+incorporating in the commentary a familiar passage from _Lao-Tsz_,
+“Infinite truth is inexpressible”[18]—which in a measure illustrates
+the appreciable difficulty of stating, in exact terms of philosophy,
+the equivalent of the Buddhic “Law.”
+
+In our intercourse with Buddhist monks, we heard the rather engaging
+suggestion, that the familiar Christian phrase, “the law of the spirit
+of life,” contains a spiritual concept which appears to approximate
+closely to the idea of the “Law” of Buddha. Those monks seemed to
+believe that the “Law”[19] enters quietly and operates imperceptibly
+within every natural and spiritual sphere; and that they have at least
+a semblance of reason for their belief, the following exquisite lines
+clearly indicate:—
+
+  _“This is its touch upon the blossomed rose,
+    The fashion of its hand shaped lotus-leaves.”_
+
+   _“That is its painting on the glorious clouds,
+    And these its emeralds on the peacock’s train.”_
+
+   _“Out of the dark it wrought the heart of man,
+    Out of dull shells the pheasant’s pencilled neck.”_
+
+   _“It spreadeth forth for flight the eagle’s wings
+    What time she beareth home her prey.”_
+
+   _“This is its work upon the things ye see
+    The unseen things are more; men’s hearts and minds,
+    The thoughts of peoples and their ways and wills,
+    Those, too, the great Law binds.”_[20]
+
+As we consider the manifold operations of this “Law which moves to
+righteousness,” perhaps we may gradually appreciate the dignified mind
+of Sakyamuni, when he addressed Subhuti, saying: “What is usually
+referred to as the ‘Law’ of Buddha, is not in reality a ‘Law’
+attributive to Buddha, it is merely termed the ‘Law’ of Buddha.”[21]
+
+The Sanscrit term Samgna,[22] usually rendered into Chinese by “Ming”
+and into English by “Name,” seems to deserve our further attention.
+Like the term Dharma, a clear knowledge of “Samgna” is indispensable
+for a correct understanding of our text.
+
+In one of the opening passages of _The Diamond Sutra_, we find that
+Sakyamuni Buddha, in reply to an enquiry by Subhuti, suggests that by
+means of this “wisdom,” enlightened disciples shall be enabled to
+bring into subjection every inordinate desire.
+
+“_Every species of life, whether hatched in the egg, formed in the
+womb, evolved from spawn, produced by metamorphosis, with or without
+form or intelligence, possessing or devoid of natural instinct—from
+these changeful conditions of being I command you to seek deliverance
+in the transcendental concept of Nirvana. Thus you shall obtain
+deliverance from the idea of an immeasurable, innumerable, and
+illimitable world of sentient life; but, in reality there is no idea
+of a world of sentient life from which to obtain deliverance. And why?
+Because, in the mind of an enlightened disciple, there have ceased to
+exist such arbitrary ideas of phenomena as an entity, a being, a
+living being, or a personality._”
+
+A similar process of reasoning appears to permeate the whole of _The
+Diamond Sutra_, and whether appertaining to a living being,[23] a
+virtue,[24] a condition of mind,[25] a Buddhist kingdom,[26] or a
+personal Buddha,[27] there is implied in each concept a spiritual
+essence, only imperfectly described, if not entirely overlooked, in
+the ordinary use of each particular name. Shakespeare enquired,
+“What’s in a name?” and in a thought inspired by the rose and its
+delicious fragrance, suggested with Buddha, that there is little, or
+nothing, in a name which explains the real nature of an object. Even a
+“particle of dust” seems, to the Buddhist mind, to embody in its
+composition a subtle spiritual element, entirely “inscrutable,” and
+quite “incomprehensible.”
+
+According to the Mahayana School of Buddhist thought, objects and
+their respective names are alike unreal and illusory. Objects and
+names, in the abstract, represent merely the products of untutored and
+unenlightened minds. Nothing is real, in the sense that it is
+permanent. Everything appears to be subject to irrevocable Laws of
+change and decay. As the things which we see are temporal, it is
+essential for our intellectual development, that we focus our thoughts
+upon the things which are Unseen and Eternal. Many minds are
+susceptible of deception by the fleeting phenomena of life; but behind
+these phenomena there is an essential element, entirely spiritual,[28]
+uninfluenced by arbitrary ideas or changeful conditions, which
+“pervades all things,” and is “pure” and “unchanging.”
+
+Perhaps it might prove of interest to quote the following outline of
+Mahayana doctrine[29] prepared by Mr S. Kuroda, which was approved by
+several influential Buddhist communions in Japan, “and published with
+authority at Tokyo in 1893”:—
+
+“All things that are produced by causes and conditions are inevitably
+destined to extinction. There is nothing that has any reality; when
+conditions come things begin to appear, when conditions cease these
+things likewise cease to exist. Like the foam of the water, like the
+lightning flash,[30] and like the floating, swiftly vanishing clouds,
+they are only of momentary duration. As all things have no constant
+nature of their own, so there is no actuality in pure and impure,
+rough and fine, large and small, far and near, knowable and
+unknowable, etc. On this account it is sometimes said that all things
+are nothing. The apparent phenomena around us are, however, produced
+by mental operations within us, and thus distinctions are
+established....”
+
+“All things are included under subject and object. The subject is an
+entity in which mental operations are awakened whenever there are
+objects, while the object consists of all things, visible and
+invisible, knowable and unknowable, etc. The subject is not something
+that occupies some space in the body alone, nor does the object exist
+outside of the subject....”[31]
+
+“The various phenomena which appear as subjects and objects are
+divided into two kinds:—the perceptible and knowable, the
+imperceptible and unknowable.... Now, what are the imperceptible and
+unknowable phenomena?”
+
+“Through the influence of habitual delusions, boundless worlds,
+innumerable varieties of things spring up in the mind. This boundless
+universe and these subtle ideas are not perceptible and knowable;[32]
+only Bodhisattvas[33] believe, understand, and become perfectly
+convinced of these through the contemplation of Vidyamatara[34] (all
+things are nothing but phenomena in mind); hence they are called
+imperceptible and unknowable. What are the perceptible and knowable
+phenomena?”
+
+“Not knowing that these imperceptible and unknowable phenomena are the
+productions of their own minds, men from their habitual delusions
+invest them with an existence outside of mind, as perceptible mental
+phenomena, as things visible, audible, etc. These phenomena are called
+perceptible and knowable.”
+
+“Though there are thus two kinds, perceptible and imperceptible
+phenomena, they occur upon the same things, and are inseparably bound
+together even in the smallest particle. Their difference in appearance
+is caused only by differences, both in mental phenomena and in the
+depth of conviction. Those who know only the perceptible things,
+without knowing the imperceptible, are called the unenlightened by
+Buddha....”
+
+“In contradistinction to the fallacious phenomena, there is the true
+Essence of Mind. Underlying the phenomena of mind, there is an
+unchanging principle which we call essence of mind.... The essence of
+mind is the entity without ideas and without phenomena, and is always
+the same. It pervades all things, and is pure and unchanging.... The
+essence and the phenomena of mind are inseparable; and as the former
+is all-pervading and ever-existing, so the phenomena occur everywhere
+and continually, wherever suitable conditions accompany it. Thus the
+perceptible and imperceptible phenomena are manifestations of the
+essence of mind that, according to the number and nature of
+conditions, develop without restraint. All things in the universe,
+therefore, are mind itself.”
+
+“By this we do not mean that all things combine into a mental unity
+called mind, nor that all things are emanations from it, but that,
+without changing their places or appearance, they are mind itself
+everywhere. Buddha saw this truth and said that the whole universe was
+his own. Hence it is clear that where the essence of mind is found,
+and the necessary conditions accompany it, the phenomena of mind never
+fail to appear.... Though there is a distinction between the essence
+and the phenomena of mind, yet they are nothing but one and the same
+substance, that is, _mind_. So we say that there exists nothing but
+mind. Though both the world of the pure and impure, and the generation
+of all things, are very wide and deep, yet they owe their existence to
+our mind.”
+
+Perhaps we might appropriately indicate that however interesting, or
+even fascinating, may be the nice distinction between _mind_ and
+_essence of mind_, in relation to phenomena, so far as we are aware,
+the distinction may be implied, but is never precisely stated, in the
+text of _The Diamond Sutra_. Nevertheless, we may readily appreciate
+the subtle intellectual movement, which endeavours to distinguish
+clearly between the phenomena of mind, and an unchanging principle
+underlying it, capable of being defined as Essence of Mind. Yet we
+have a notion that our Japanese Buddhist friends intuitively find in
+their beautiful concept, infinitely more of a purely spiritual nature,
+than they attempt to express by the mere metaphysical term. Doubtless
+they have frequently applied to it the incisive logic of Sakyamuni
+Buddha, and found simultaneously, that what is ordinarily referred to
+as “essence of mind,” is not in reality “essence of mind,” it is
+merely termed “essence of mind.”[35]
+
+The term Buddha, as defined in _The Diamond Sutra_, seems to merit a
+brief consideration. In fulfilment of our present purpose, it seems
+almost unnecessary to enter into questions regarding the historical
+Buddha, or to the authenticity of Sutras ascribed to his genius.
+Therefore, without indicating any particular reservation, we meantime
+accept the traditional statements that the Buddha of _The Diamond
+Sutra_ was the son of Suddhodana, the husband of Yasodhara, and the
+father of Rahula. But, incorporated with the text, there is embodied
+in the familiar term Buddha, a lofty spiritual concept, which seems to
+place it in a category where fresh interest is imparted to the
+question of its interpretation.
+
+Concluding the twenty-sixth chapter of _The Diamond Sutra_, wherein
+“the spiritual[36] body is entirely differentiated from external
+phenomena” Sakyamuni, in reply to an enquiry regarding the possibility
+of perceiving “Buddha” by means of his bodily distinctions, delivered
+the following remarkable Gatha[37]:—
+
+  _I am not to be perceived by means of any visible form,
+   Nor sought after by means of any audible sound;
+   Whosoever walks in the way of iniquity,
+   Cannot perceive the blessedness of the Lord Buddha._[38]
+
+In the twenty-ninth chapter of _The Diamond Sutra_, wherein is
+expounded “the majesty of the absolute,” Sakyamuni declared that a
+disciple who affirms that “Buddha” comes or goes, obviously has not
+understood the meaning of his instruction. Because, as we learn from
+our text, the idea “Buddha” implies neither coming from anywhere, nor
+going to anywhere. This purely spiritual concept of Buddha seems to
+have seized the imagination, and inspired the writer of the
+_Yuen-Chioh Sutra_,[39] to whom are ascribed the following significant
+lines:—
+
+“_Like drifting clouds, like the waning moon, like ships that sail the
+ocean, like shores that are washed away—these are symbolic of endless
+change. But the blessed Buddha, in his essential, absolute nature, is
+changeless and everlasting._”
+
+Again, in the seventeenth chapter of _The Diamond Sutra_, it is
+declared that in the word “Buddha,” every Law is intelligibly
+comprehended.[40] To Western minds, it might become necessary to resist
+a natural inclination to ascribe to those elements of thought, an
+influence which had its inception in a nation other than the
+Indian.[41] But, lest we should appear to detract from the native glory
+of Sakyamuni Buddha, perhaps it might prove opportune to remark, that
+there is sufficient evidence in the ancient Vedic hymns, Upanishads,
+etc., to indicate clearly the probable starting-points in the
+evolution of his thought. It seems to be to the everlasting honour of
+some early Indian philosophers, that they endeavoured carefully to
+combine in an abstract spiritual unity, all the essential elements
+usually comprehended under the term “Divinity.”[42] This may in a
+manner explain why the devout Buddhist, possessing a natural mental
+tendency—induced by persistent Hindoo influence—is enabled to regard
+“Buddha”[43] in a purely spiritual sense, as the One[44] in whom all
+Laws are comprehended and become perfectly intelligible.
+
+In _The Diamond Sutra_ it may be observed that incidental reference is
+made by Sakyamuni Buddha to the doctrines of Karma and Reincarnation.
+It seems to be an old truth to which expression is given in the
+_Epistle to the Galatians_: “Whatsoever a man soweth, that shall he
+also reap. For he that soweth to his flesh shall of the flesh reap
+corruption; but he that soweth to the Spirit shall of the Spirit reap
+life everlasting.”[45]
+
+To the Buddhist mind, Karma is indissolubly associated with “the Law
+which moves to Righteousness.” Thus it is accustomed to view the
+traditional Christian idea of “justification by Faith,” rather as a
+devoutly-conceived theory, than as a reasonably-constructed truth.
+
+Occasionally we have heard a gentle affirmation, that the Western mind
+seems unwittingly inclined to confound the doctrine of Karma with a
+concept which is almost suggestive of Fatalism. If Karma contains even
+a germ of thought which corresponds to “blind fatalism,” the idea is
+perhaps quite felicitously expressed in the following sentences,
+culled from a valued letter written by an aged Chinese monk: “Karma is
+a universal Law which gently binds us to the rhythmic cycle of
+evolving life. It operates so quietly and imperceptibly that we
+scarcely are conscious of its presence. The absolute truth of Karma
+greatly attracts our minds, which approve naturally of its consummate
+justice and perfect righteousness.”
+
+Those ideas of “consummate justice” and “perfect righteousness,” seem
+to be faithfully portrayed in the following quotation, gleaned from
+_The Light of Asia_:—
+
+  “_What hath been bringeth what shall be, and is,
+    Worse—better—last for first and first for last:
+    The Angels in the Heavens of Gladness reap
+    Fruits of a holy past._”
+
+It would therefore appear that Karma may be regarded generally, as
+comprising the constituent moral elements derived consecutively from
+the thoughts, words, and actions of an interminable life’s cycle.
+Perhaps it is in this connection that Chinese Buddhists frequently
+assume Karma to resemble “a moral fibre, indissolubly entwined in
+sentient life.” It may be believed to recede far into the past, and to
+extend indefinitely into the future.
+
+Although realising the significance of Karma,[46] the devout Buddhist
+mind is not usually disturbed by fearful forebodings. Ostensibly, it
+has evolved to a condition of holiness, wherein “the dross of sin” is
+entirely consumed in the “white flames” of Sakyamuni’s “transcendent
+wisdom” and “boundless love.”
+
+Within the realm of Buddhist philosophy, the doctrine of
+reincarnation is conspicuous by reason of its peculiarly attractive
+charms. On first acquaintance, the European mind may be somewhat
+“startled” to discover, that a satisfactory explanation of the
+interminable evolution of life, is sought for by the earnest Buddhist
+in the theory of reincarnation.
+
+In the text of _The Diamond Sutra_, it may be observed that Sakyamuni
+Buddha, in discoursing to Subhuti, referred incidentally to personal
+reminiscences, one of which belonged to a distant period of five
+hundred incarnations.
+
+According to the text of _The Light of Asia_, the spiritual
+consciousness of Sakyamuni Buddha extended to a period even more
+remote, as may be judged by these remarkable lines:—
+
+  “_I now remember, myriad rains ago,
+    What time I roamed Himâla’s hanging woods._”
+
+In considering briefly the doctrine of reincarnation, perhaps it might
+readily be conceded to our Buddhist friends, that there were
+exemplified in the Founder of their faith, a wonderful potency of
+intellect, and a marvellous degree of spiritual intuition. Quite
+agreeable, also, may be the suggestion, that this potency of intellect
+might become intensified, and probably “rendered subjective,” by
+“ascetic exercises,” abstract contemplation, and “determined effort.”
+
+Spence Hardy indicated in _Eastern Monachism_ that the Buddhist mind
+conceives of “spiritual powers” arising from the aforementioned
+“potency of intellect” and “spiritual intuition,” which in other
+systems of religion are usually regarded as partaking of the nature of
+“Divinity.” If it be admitted that those potential “powers” are
+probably susceptible of affiliation with the Divine Spirit, then the
+way of approach to an understanding of the Buddhist theory of
+intuition becomes, perhaps, tolerably clear. Concrete knowledge
+acquired by intuition, appears to assure our Buddhist friends of the
+_fact_ of reincarnation. But they invariably refrain from a vain
+attempt to _prove_ the “fact,” by an authorised—and consequently
+stereotyped—process of reasoning.
+
+The unknown Hindoo author of The _Bhagavad-Gita_ revealed in simple
+phraseology the native idea of reincarnation; and suggested, happily,
+an instructive theory concerning the advent of great Teachers and
+Saviours in every age. To Krishna are ascribed the following sayings;—
+
+  “_Manifold the renewals of my birth
+    Have been.... When Righteousness
+    Declines, O Bharata, when Wickedness
+    Is strong, I rise, from age to age, and take
+    Visible shape, and move a man with men,
+    Succouring the good, thrusting the evil back,
+    And setting Virtue on her seat again._”
+
+Rhys Davids justly observed that “to the pious Buddhist it is a
+constant source of joy and gratitude that ‘the Buddha,’ not only then,
+but in many former births, when emancipation from all the cares and
+troubles of life was already within his reach, should again and again,
+in mere love for man, have condescended to enter the world, and live
+amidst the sorrows inseparable from finite existence.”[47] Perhaps in a
+more general sense the idea of reincarnation appealed strongly to the
+imagination of Wordsworth, when he was inspired to write these
+familiar, yet exquisite, lines:—
+
+  “_Our birth is but a sleep and a forgetting;
+    The soul that rises with us, our life’s star,
+    Hath had elsewhere its setting
+    And cometh from afar._”
+
+Regarding the doctrines of Individuality and non-Individuality, which
+characterise the text of _The Diamond Sutra_, wherein are found to
+occur frequently Chinese equivalents for the ordinary concepts of an
+entity, a being, a living being and a personality, the following
+passage from _The Bhagavad-Gita_, suggestive almost of complete
+harmony with the Buddhist doctrine, may serve to make even a cursory
+consideration of the subject perhaps more illuminating. The passage,
+rendered by Sir Edwin Arnold, is as follows:—
+
+  “_There is ‘true’ Knowledge, Learn it thou in this:
+    To see one changeless Life in all the Lives,
+    And in the Separate, One Inseparable.
+    There is imperfect Knowledge: that which sees
+    The separate existences apart,
+    And, being separated, holds them real._”
+
+As Nirvana is only referred to casually in _The Diamond Sutra_, that
+familiar Buddhist term hardly calls for any present detailed
+explanation. Within a brief compass probably no better explanation may
+be forthcoming than what is already given in this concise exposition
+gathered from _The Light of Asia_:—
+
+  “_If any teach Nirvana is to cease,
+    Say unto such they lie.
+    If any teach Nirvana is to live,
+    Say unto such they err; not knowing this,
+    Nor what light shines beyond their broken lamps,
+    Nor lifeless, timeless bliss._”
+
+In concluding, it might be opportune to observe, that the
+_Werthurtheile_,[48] known amongst modern theologians as characterising
+the teaching of Albrecht Ritschl—sounds, upon intimate acquaintance,
+merely as a faint echo of the logic of Sakyamuni Buddha. Ritschl might
+apply his _Werthurtheile_ to the presumed interpretation of a
+“miracle,” etc. Buddha suggested by his “method,” that what is
+ordinarily referred to as a “miracle,” is not in _reality_ a “miracle,”
+therefore it is merely _defined_ as a “miracle.” So, also, with the
+various dogmas which distinguish every religious creed. By many
+Chinese it is regarded as an evidence of Divinity, that in the mind of
+Sakyamuni Buddha there was conceived this incisive logical method; and
+amongst the learned monks, profound homage is rendered, and much
+wonder expressed, because the Lord Buddha[49] did not hesitate to apply
+its principles to every doctrine synonymous with his own accredited
+“Law.”
+
+  [1] “The Sutra of firm establishment in all doctrine, describing
+  clearly the secret merit and attainments in the religious life of
+  Tathagata.” (Compare Edkins’ _Chinese Buddhism_.)
+
+  [2] See the preface to _The Vagrakkhedika_.
+
+  [3] “A native of Western India who lived as a hermit under an
+  Arguna tree, whence he derived his name. Converted by Kapimala,
+  he laboured in Southern India as the fourteenth patriarch....
+  He is the chief representative, if not originator, of the
+  Mahayana school, the greatest philosopher of the Buddhists,
+  and as such styled ‘one of the four suns which illuminate the
+  world.’ His own peculiar tenets have been perpetuated by a
+  distinct metaphysical school called Madhyamika (_Lit_. Juste
+  Milieu), the characteristics of which are a sophistic nihilism
+  which dissolves every proposition into a thesis and its
+  antithesis, and denies both. ‘The soul,’ said Nagarjuna,
+  ‘has neither existence nor non-existence, it is neither eternal
+  nor non-eternal, neither annihilated by death nor
+  non-annihilated.’ The tenets of this school are condensed in
+  Nagardjuna’s commentary on the Mahaprajna Paramita S’astra. He
+  spent the later part of his life in a monastery at Kosala ...
+  (correct date probably A.D. 194). After his death he received
+  the title Bodhisattva. He is the author of many S’atras.”
+  (Compare Eitel’s _Handbook of Chinese Buddhism_.)
+
+  [4] _See_ the preface to _The Vagrakkhedika_.
+
+  [5] Kumarajiva was referred to as “one of the four suns of
+  Buddhism” (Tchatvara Suryas). He laboured in China as a most
+  active and judicious translator, and is credited with having
+  introduced a new alphabet. One of Kumarajiva’s Chinese
+  designations—Tung-Sheo—meant that, although young in years, he
+  was ripe in the wisdom and virtues of old age. (Compare Eitel’s
+  _Handbook of Chinese Buddhism_.)
+
+  [6] Beal stated in his preface to the _Kin-Kong-King_, that “it
+  was translated first into the Chinese by Kumara-Jiva (A.D. 405),
+  who was brought into China from Thibet.”
+
+  [7] Other translations, worthy of recognition, are those
+  attributed respectively to Bodhiruki (A.D. 509), Paramartha (A.D.
+  562), Dharmagupa, of the Sui dynasty (A.D. 589–618), and I-Tsing
+  (A.D. 703). (Compare the preface to _The Vagrakkhedika_.)
+
+  [8] This information may be found in Max Müller’s
+  _Vagrakkhedika_, and represented, doubtless, at the period when
+  it was written, a considerable part of the knowledge available on
+  the subject.
+
+  [9] By Max Müller.
+
+  [10] The Chinese Ma-Ming.
+
+  [11] Compare the Chinese text of the Chi-Sin-Pien—_The
+  Awakening of Faith_.
+
+  [12] In the preface to _The Vagrakkhedika_.
+
+  [13] “Supreme spiritual wisdom.” In Beal’s _Kin-Kong-King_,
+  “The unsurpassed, just, and enlightened heart.”
+  (Sanscrit, “_Annuttara Samyak Sambodhi Hridaya_.”)
+
+  [14] According to the text of _The Diamond Sutra_, the intellect
+  of Sakyamuni Buddha sank so profoundly into the past, that he was
+  enabled to speak confidently of his experiences in previous
+  incarnations. (Compare pp. 56, 57.)
+
+  [15] From the text adopted by Mr H. Oelsner, M.A., Ph.D., for
+  _The Temple Classics_.
+
+  [16] Dr Edkins, in his scholarly work _Chinese Buddhism_, seems
+  to have regarded “the Law or body of doctrine” as an accurate
+  definition of Dharma.
+
+  Dr Eitel, in his _Handbook of Chinese Buddhism_, explained Dharma
+  by “Fah”—“Law”; and observed that it is “a general term for
+  religious objects, especially for the Buddhistic Canon.”
+
+  Mr Vincent A. Smith, in _Asoka, Buddhist Emperor of India_,
+  suggested that the Chinese _Hsiao_ (piety), and the Latin Pietas,
+  coincide with the Sanscrit term Dharma.
+
+  [17] The Chinese phrase is “Fah-sing-chen-ru-hai.”
+
+  [18] _See_ the _Tao-Teh-Ching_. Compare, also, the statement
+  attributed to Confucius—“Nature and Truth cannot be adequately
+  expressed.”
+
+  [19] Or Dharma.
+
+  [20] Compare _The Light of Asia_. Perhaps this aspect of the “Law”
+  of Buddha may be conceived of as harmonising with Shakespeare’s
+  idea of a “Divinity.”
+
+  [21] It may be interesting to observe that, according to our
+  Chinese text, Sakyamuni Buddha evidently disclaimed any desire to
+  formulate, or to perpetuate, a stereotyped system of “Law” or
+  “doctrine.” Sakyamuni Buddha also made it plain, that the “Law”
+  which he enunciated, was presented before the minds of his
+  disciples in the simile of a “raft”—a thing to be abandoned when
+  the mind “touched the further shore” of everlasting truth. It
+  seems to be in this tentative sense that intellectual Buddhists
+  regard all ecclesiastical institutions, priesthoods, dogmas,
+  ordinances, etc.; and we have met monks who would classify
+  belief in the “efficacy” of religious rites or ceremonies, with
+  obnoxious forms of “heresy” and “immorality.” (Compare Rhys
+  Davids’ _Buddhism_.) With regard to the Buddhist objection
+  concerning the “efficacy” of religious “rites,” compare the noble
+  sentiments expressed in the following lines, delightfully
+  rendered by Sir Edwin Arnold from the _Bhagavad-Gita_ (_The Song
+  Celestial_):—
+
+    “Serenity of soul, benignity,
+     Sway of the silent spirit, constant stress
+     To sanctify the nature,—these things make
+     Good rite, and true religiousness of mind.”
+
+  [22] Max Müller suggests that Samgna and Dharma “correspond in many
+  respects to the Vedantic Namarupe”—in Chinese Ming-Seh—name,
+  form, or characteristic.
+
+  [23] Compare p. 86.
+
+  [24] Compare p. 55.
+
+  [25] Compare p. 80.
+
+  [26] Compare p. 76.
+
+  [27] Compare p. 95.
+
+  [28] Some modern Japanese Buddhists appear to regard this purely
+  spiritual element as “essence of mind.”
+
+  [29] From the preface to _The Vagrakkhedika_.
+
+  [30] Compare p. 110.
+
+  [31] Compare the interesting dialogue entitled _The Enlightenment
+  of Ananda_, in which Sakyamuni instructs his distinguished
+  disciple in ideas concerning the subjective and objective
+  phenomena of mind.
+
+  [32] Compare pp. 102, 103.
+
+  [33] Bodhisattvas—greatly enlightened disciples.
+
+  [34] _Vidya Matra Siddhi_, a philosophical work by Vasubandhu, a
+  native of Radjagriha, and disciple of Nagarjuna, founder of the
+  Mahayana school. (Compare Eitel’s _Handbook of Chinese
+  Buddhism_.)
+
+  [35] Compare the process of reasoning which permeates the entire
+  _Diamond Sutra_. We hope no injustice is done to our Japanese
+  friends, by applying to their beautiful concept “essence of
+  mind,” this familiar logical method of Sakyamuni Buddha.
+
+  [36] Fah-Shen—the Law, or spiritual body. Compare Shen-Shen, the
+  term usually employed in the Chinese rendering of the New
+  Testament Scriptures to denote the spiritual body.
+
+  [37] Gatha—usually a Scripture verse comprising four lines.
+
+  [38] Compare the following lines from _The Song Celestial_.—
+
+    “I am not known
+     To evil-doers, ... nor to those
+     Whose mind is cheated by the show of things.”
+
+  [39] In Buddhist phraseology, Yuen-Chioh means the study, by means
+  of contemplation, of primary spiritual causes.
+
+  [40] Compare Beal’s rendering in the Kin-Kong-King, “Tathagata is
+  the explanation as it were of all systems of Law.” See also _The
+  Book of the Manifesting of the One and Manifold_ in _The Song
+  Celestial_, the verse commencing:—
+
+    “Thou, of all souls the Soul!
+     The comprehending whole!”
+
+  In conversation with Chinese monks regarding the meaning of this
+  impressive passage, we found that they invariably approved of a
+  suggested rendering, that “Buddha is the _One_ in whom all Laws
+  become intelligible.”
+
+  [41] Compare the observations made by Sir Edwin Arnold in his
+  preface to _The Song Celestial_, regarding the date when that
+  famous Brahmanic poem was composed; and the gentle indication
+  that in its teaching may be found “echoes of the lessons of
+  Galilee, and of the Syrian incarnation.”
+
+  [42] An instructive exposition of this subject by J. Muir, Esq.,
+  entitled _The Progress of the Vedic Religion towards Abstract
+  Conceptions of the Deity_, may be consulted in the _Jour.
+  R.A.S.,_ 1864–65.
+
+  [43] In colloquial Chinese there is a noteworthy saying, that
+  “Buddha is simply a condition of mind.” This “condition of mind”
+  is beautifully expressed by a “classic” couplet, which, rendered
+  into English, means “as pure as the image of the moon in a
+  river,” and “as lovely as the bloom of a flower in a mirror”
+  (Shui-Li-Chï-Yüeh, Ching-Li-Chï-Wha).
+
+  [44] Compare the beautifully expressed sentiment of Akhnaton,
+  Pharaoh of Egypt, concerning “the One in whom all Laws are
+  intelligibly comprehended.” “There is no poverty for him who hath
+  Thee in his heart.” (See _Life and Times of Akhnaton_.)
+
+  [45] Rhys Davids, when he expounded the doctrine of Karma in
+  _Buddhism_, clearly indicated the Buddhist position, “that
+  whatever a man reaps, that he must also have sown.” Chinese
+  Buddhists appear to be assured, “that if a man reaps sorrow,
+  disappointment, pain, he himself, and no other, must at some time
+  have sown folly, error, sin; and if not in this life, then in
+  some former birth. Where then, in the latter case, is the
+  identity between him who sows and him who reaps? _In that which
+  alone remains_ when a man dies, and the constituent parts of the
+  sentient being are dissolved; in the result, namely, of his
+  action, speech, and thought, in his good or evil _Karma_
+  (literally his ‘doing’) which _does not_ die.”
+
+  [46] In the concept Karma, Sakyamuni Buddha suggested the
+  revealing of a _moral cause_ which explained the otherwise
+  insoluble riddle of the evident inequalities, and consequent
+  sufferings of life.
+
+  [47] Compare _Buddhism_.
+
+  [48] “The much-canvassed Ritschlian doctrine of the _Worth_—or
+  ‘value-judgments,’ in which the peculiarity of religious
+  knowledge is supposed to lie.” For the introduction of the term
+  into theology we are indebted to Herrmann, _Die Religion, etc._,
+  and Kaftan, _Das Wesen_. _See_ Orr’s, _The Ritschlian Theology and
+  The Evangelical Faith_.
+
+  [49] It may be observed in this English version of _The Diamond
+  Sutra_, that the Chinese term _Fuh_, in deference to our Oriental
+  friends, is invariably rendered “Lord Buddha”—a designation
+  consonant with _their_ concepts of devotion and piety.
+
+
+                         THE DIAMOND SUTRA
+
+[Chapter 1]
+
+
+Thus have I heard[1] concerning our Lord Buddha:—
+
+Upon a memorable occasion, the Lord Buddha[2] sojourned in the kingdom
+of Shravasti,[3] lodging in the grove of Jeta,[4] a park within the
+imperial domain, which Jeta, the heir-apparent, bestowed upon
+Sutana,[5] a benevolent Minister of State, renowned for his charities
+and benefactions.
+
+With the Lord Buddha, there were assembled together twelve hundred and
+fifty mendicant disciples,[6] all of whom had attained to eminent
+degrees of spiritual wisdom.
+
+As it approached the hour for the morning meal, Lord Buddha, Honoured
+of the Worlds,[7] attired himself in a mendicant’s robe,[8] and
+bearing an alms-bowl in his hands, walked towards the great city of
+Shravasti, which he entered to beg for food.[9] Within the city he
+proceeded from door to door,[10] and received such donations as the
+good people severally bestowed.[11] Concluding this religious
+exercise, the Lord Buddha returned to the grove of Jeta, and partook
+of the frugal meal[12] received as alms. Thereafter he divested
+himself of his mendicant’s robe, laid aside the venerated
+alms-bowl,[13] bathed his sacred feet, and accepted the honoured seat
+reserved for him by his disciples.
+
+  [1] It is generally supposed that the familiar introductory
+  phrase, “Thus have I heard,” was adopted by the writers or
+  editors of Buddhist Sutras in order that their scriptures might
+  assume the same high degree of authority as the Brahmanas and the
+  Mantras, “as forming the ‘S’ruti’ or sacred revelation of the
+  followers of the Vedas.” (Compare Max Müller’s _History of
+  Sanscrit Literature_ and the valuable note in Beal’s
+  _Kin-Kong-King_)
+
+  [2] “The term (Buddha) means ‘every intelligent being who has
+  thrown off the bondage of sense perception and self, knows the
+  utter unreality of all phenomena, and is ready to enter
+  Nirvana.’”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [3] Shravasti is variously described as the city (or kingdom) of
+  philosophy, of good doctrine, of abundant virtue, and as the
+  abode of immortals. It was situated on the north bank of the
+  Ganges, about 200 miles above Benares. Much interesting
+  information regarding the sacred city Shravasti, is fortunately
+  preserved in the instructive records of the distinguished Chinese
+  pilgrims, _Fa-Hien_ and _Hiuen-Tsang_.
+
+  [4] “Prasenajit, the king of Shravasti, was very favourable to
+  the Buddhist religion. It was his minister who bought the garden
+  of Jeta from the prince of that name, and erected in it a
+  residence for Buddha (_see_ Julien’s _Memoirs sur les Contrées
+  Occidentales_). Many of the Sutras attributed to Buddha are said
+  to have been delivered here. _Hiuen-Tsang_ observed the remains
+  of the monastery formerly standing on the site of the garden of
+  Jeta, 2 miles below the city.”—_Chinese Buddhism_. Edkins.
+
+  [5] “A person of extraordinary piety and goodness. One of the
+  former Djatakas of Sakyamuni when he was a prince, and forfeited
+  the throne by liberality in almsgiving.”—_Handbook of Chinese
+  Buddhism_. Eitel.
+
+  [6] The Chinese text is _ta-pi-k’u_—greater disciples. Our Chinese
+  editor of _The Diamond Sutra_ suggests that there are different
+  grades of discipleship. The “lesser disciples” are those who have
+  abandoned every form of vice, and are striving after virtue. The
+  “greater disciples” are those to whom virtue has become
+  spontaneous, and who have ceased to strive after its attainment.
+
+  [7] A title conferred by Chinese Buddhists upon the founder of
+  their faith, believing him to be a Teacher and Saviour whose
+  merit is acclaimed in worlds beyond our own.
+
+  [8] Having taken vows of poverty, a robe is one of the following
+  eight articles which Buddhist monks are permitted to possess:
+  three garments of different descriptions, a girdle for the loins,
+  an alms-bowl, a razor, a needle, and a water-strainer.
+
+  [9] Buddha has said, “the wise priest never asks for anything; he
+  disdains to beg; it is a proper thing for which he carries the
+  alms-bowl; and this is his only mode of solicitation. But when he
+  is sick, he is permitted to ask for any medicine that he may
+  require, without being guilty of any transgression.”—_Eastern
+  Monachism_. Spence Hardy.
+
+  [10] Concerning the manner of begging an alms: “As a bee,
+  injuring not the flower, or its colour, or its scent, flies away,
+  taking the nectar, so let a sage go through the
+  village.”—_Questions of King Milinda_. T. W. Rhys Davids.
+
+  [11] “By many of the Buddhists it is considered to be an act of
+  great merit to make a vow never to partake of food without giving
+  a portion to the priests.”—_Eastern Monachism_. Spence Hardy.
+
+  [12] “The fifth of the twelve sacred observances of the Chinese
+  is called in Sanscrit Khaloupas’ Waddhaktinka, and is said to
+  enjoin that the food obtained by the mendicant is to be divided
+  into three portions: one to be given to any person whom he sees
+  to be suffering from hunger, and a second to be carried to some
+  quiet place in the forest, and placed upon a stone for the birds
+  and beasts. If he does not meet with any one who is in want, he
+  is not to eat the whole of the food that he has received, but
+  two-thirds only. By this means his body will be lighter and more
+  active.... He will be able readily to enter upon the practice of
+  all good works. When any one eats too greedily ... nothing is
+  more harmful to the development of reason.” (Quotation from
+  Remusat’s _Relation des Royaumes Buddhiques_, in Spence Hardy’s
+  _Eastern Monachism_.)
+
+  [13] “The alms-bowl which Sakyamuni used is considered a sacred
+  relic, and to be used by each of the hundred Buddhas of the
+  present kalpa. It was first preserved in Vais’ali, whence its
+  emigrations began to Gandhara, to Persia, to China, to Ceylon, to
+  Madhyades’a, up into the heaven Tuchita, and down to the bottom
+  of the ocean, where it is to await (in the palace of Sagara) the
+  advent of Meitreya Buddha.”—_Handbook of Chinese Buddhism_. Eitel.
+
+
+[Chapter 2]
+
+Upon that occasion, the venerable Subhuti[1] occupied a place in the
+midst of the assembly. Rising from his seat, with cloak arranged in
+such manner that his right shoulder was disclosed, Subhuti knelt upon
+his right knee, then pressing together the palms of his hands, he
+respectfully raised them towards Lord Buddha, saying: “Thou art of
+transcendent wisdom, Honoured of the Worlds! With wonderful
+solicitude, Thou dost preserve in the faith, and instruct in the Law,
+this illustrious assembly of enlightened disciples.[2] Honoured of the
+Worlds! if a good disciple, whether man or woman,[3] seeks to obtain
+supreme spiritual wisdom,[4] what immutable Law shall sustain the mind
+of that disciple, and bring into subjection every inordinate desire?”[5]
+
+The Lord Buddha replied to Subhuti, saying: “Truly a most excellent
+theme! As you affirmed, I preserve in the faith, and instruct in the
+Law, this illustrious assembly of enlightened disciples. Attend
+diligently unto me, and I shall enunciate a Law whereby the mind of a
+good disciple, whether man or woman, seeking to obtain supreme
+spiritual wisdom,[6] shall be adequately sustained, and enabled to
+bring into subjection[7] every inordinate desire.” Subhuti was
+gratified, and signified glad consent. Thereupon, the Lord Buddha,
+with majesty of person,[8] and perfect articulation, proceeded to
+deliver the text of this Scripture,[9] saying:—
+
+  [1] “A famous dialectician noted for the subtilty of his
+  intellect. He was a native of Shravasti, a contemporary of
+  Sakyamuni, and figures as the principal interlocutor in the
+  _Prajna-Paramita_.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [2] “_Pu-Sa_ or Bodhisattva, literally he whose essence (Sattva)
+  has become intelligence (Bodhi). A being that has only once more
+  to pass through human existence before it attains to Buddhaship.
+  The third class of Buddhistic saints comprehending all who are
+  candidates for Buddhaship as well as those Buddhas who are not yet
+  perfected by entrance into Nirvana. They are also styled
+  Mahasattvas (_Mo-Ho-Sa_). The state of a Bodhisattva is considered
+  as one of the three means of conveyance to Nirvana.”—_Handbook of
+  Chinese Buddhism_. Eitel.
+
+  [3] “Women began to ask and received permission to take the
+  vows. They were called in India Bikshuni.... Ni is the Sanscrit
+  feminine termination of Bikshu. These female mendicants were
+  subject to the same code of regulations as the males.”—_Chinese
+  Buddhism_. Edkins.
+
+  [4] “_ho-ru-to-lo-san-mao-san-pu-ti_ (Anuttara Samyak Sambodhi),
+  literally unexcelled perfect intelligence. Another more
+  painstaking but arbitrary explanation is untarnished and
+  unparalleled (Nuttara) correct view (Sam) and complete wisdom
+  (Myak) with complete possession of the highest sentiments
+  (Sambodhi). This term, one of the sacred phrases of most frequent
+  occurrence, signifies the characteristics which every Buddha
+  possesses.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  “The unsurpassed, just, and enlightened heart.”—_Kin-Kong-King_.
+  Beal.
+
+  [5] “When a man’s heart is disposed in accordance with his roaming
+  senses, it snatches away his spiritual knowledge as the wind does
+  a ship on the waves.”—_Bhagavad-Gita_. J. Cockburn Thomson.
+
+  [6] Chinese commentators are careful to explain that the title of
+  this Sutra, _Po-ro-po-lo-mi_ (_Prajna-Paramita_), means Wisdom, by
+  which we are enabled to reach the other shore (Nirvana).
+
+  [7] “Bringing into captivity every thought to the obedience of
+  Christ.”—The Apostle Paul.
+
+  [8] Compare the Chinese text of the famous Buddhist tract entitled
+  _Awakening of Faith_, written by _Ma-Ming_ (Asvaghocha), “who
+  flourished A.D. 50, under the Indo-Scythic king, Gondophares.”
+
+  [9] “This work contains the germ of the larger compilation
+  _Prajna-Paramita_ in one hundred and twenty volumes. The
+  abstractions of Buddhist philosophy, which were afterwards
+  ramified to such a formidable extent as these numbers indicate,
+  are here found in their primary form, probably as they were taught
+  by Sakyamuni himself.”—_Chinese Buddhism_. Edkins.
+
+
+[Chapter 3 and 4]
+
+ “By this wisdom shall enlightened disciples be enabled to bring into
+subjection every inordinate desire! Every species of life, whether
+hatched in the egg, formed in the womb, evolved from spawn, produced
+by metamorphosis, with or without form or intelligence, possessing or
+devoid of natural instinct—from these changeful[1] conditions of
+being, I command you to seek deliverance,[2] in the transcendental
+concept of Nirvana.[3] Thus, you shall be delivered from an
+immeasurable, innumerable, and illimitable world of sentient life;
+but, in reality, there is no world of sentient life from which to
+seek deliverance. And why? Because, in the minds[4] of enlightened
+disciples there have ceased to exist such arbitrary concepts of
+phenomena as an entity, a being, a living being, or a personality.”[5]
+
+“Moreover, Subhuti, an enlightened disciple ought to act spontaneously
+in the exercise of charity,[6] uninfluenced by sensuous phenomena[7]
+such as sound, odour, taste, touch, or Law.[8] Subhuti, it is
+imperative that an enlightened disciple, in the exercise of charity,
+should act independently of phenomena. And why? Because, acting
+without regard to illusive forms of phenomena, he will realise in the
+exercise of charity, a merit inestimable and immeasurable.”
+
+“Subhuti, what think you? Is it possible to estimate the distance
+comprising the illimitable universe of space?”[9] Subhuti replied,
+saying: “Honoured of the Worlds! It is impossible to estimate the
+distance comprising the illimitable universe of space.” The Lord
+Buddha thereupon discoursed, saying: “It is equally impossible to
+estimate the merit[10] of an enlightened disciple, who discharges the
+exercise of charity, unperturbed by the seductive influences of
+phenomena. Subhuti, the mind of an enlightened disciple ought thus to
+be indoctrinated.”[11]
+
+  [1] “The first of six Paramita—charity, morality, endurance,
+  energy, contemplation, wisdom—cardinal virtues, or means of
+  progressing towards Nirvana. The virtue of religious charity,
+  implying all kinds of self-denying acts, almsgiving, sacrifice,
+  etc.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [2] “The kind of craving excitement, which follows on sensation,
+  and causes the delusion of self and the lust of life—creating
+  either delight in the objects that present themselves, or an eager
+  desire to supply a felt want—this eager yearning thirst growing
+  into sensuality, desire of future life, or love of the present
+  world, is the origin of all suffering. Sorrow and suffering will
+  be overcome, extinguished, if this ‘thirst’ be quenched, this lust
+  of life destroyed. ‘He who overcomes this contemptible thirst,
+  sufferings fall off from him like water drops from a lotus
+  leaf.’”—_Buddhism_. T. W. Rhys Davids.
+
+  [3] _Fah_, the Chinese equivalent of Dharma—Law, appears to be a
+  generic term for all religious doctrines incidental to Buddhism.
+  The Buddhas are invariably referred to as _Fah-Wang_—Princes of
+  the Law. The Sutras are frequently alluded to as _Fah-Pao_—Jewels
+  of the Law. The monks are usually designated _Fah-Men_—Disciples
+  of the Law. The interminable process of transmigration is depicted
+  by _Fah-Luen_—Wheel of the Law. The dissemination of Buddhistic
+  tenets is typified by _Chuan-Fah-Luen_—Revolving Wheel of the Law.
+  Religious designations consonant with the idea of Law, are held in
+  high esteem amongst the Buddhist ecclesiastical orders. Of such
+  are _Fah-Ai_—Lover of the Law; _Fah-Lien_—Approved in the Law;
+  _Fah-Ming_—Brightness of the Law (compare Eitel’s _Handbook of
+  Chinese Buddhism_.
+
+  [4] “Subhuti, can the western, or southern, or northern regions of
+  space be measured? or the four midway regions of space (_i.e._,
+  N.E., S.E., S.W., N.W.), or the upper and lower regions: can
+  either of these be accurately measured or defined?”—
+  _Kin-Kong-King_. Beal.
+
+  [5] “Of all the modes of acquiring merit, that of almsgiving is
+  the principal; it is the chief of the virtues that are requisite
+  for the attainment of the Buddhaship; it is the first of the four
+  great virtues, _viz_.: almsgiving, affability, promoting the
+  prosperity of others, and loving others as ourselves; it is
+  superior to the observance of the precepts—the path that all the
+  Buddhas have trod—a lineage to which they have all belonged....
+  The giving of alms softens the mind, and brings it into
+  subjection, by which the ascetic is prepared for the exercise of
+  the rites he is afterwards to practise.... The faithful are
+  required to give in alms of that which they have honestly earned
+  by their own personal exertions.... There must be a willing mind
+  respecting that which they offer, from the time that the intention
+  of making the offering is formed to the time when it is presented,
+  as well as after it has been made.... When the gift, the giver,
+  and the receiver are all pure, the reward is proportionately
+  great.”—_Eastern Monachism_. Spence Hardy.
+
+  [6] “Let his livelihood be kindliness,
+       His conduct righteousness,
+       Then in the fulness of gladness
+       He will make an end of grief.”—_Buddhism_. T. W. Rhys Davids.
+
+  [1] Discoursing upon illusory ideas concerning the world of
+  sentient life, the Lord Buddha stated that these were already
+  eliminated from the minds of his enlightened disciples. The
+  reference in the text is to disciples in process of instruction,
+  and these the Lord Buddha commanded to relegate to oblivion the
+  deceptive idea of the reality of sentient life, to dissolve within
+  their minds its nauseous dregs, to put away its horrid stain, and
+  cause it to vanish like snow in a glowing furnace.—_Chinese
+  Annotation_.
+
+  “The very nature of phenomena demonstrates that they must have had
+  a beginning, and that they must have an end.”—_Lay Sermons_.
+  Huxley.
+
+  [2] By adopting the term _Mieh-Tu_, Chinese Buddhists appear well
+  prepared to refute a prevalent notion that their concept of
+  deliverance is equivalent to annihilation. _Mieh_ usually means
+  annihilation, but _Tu_—to cross over in safety, is the antithesis
+  of annihilation. After due consideration of the significance of
+  the terminology, perhaps it will be generally conceded that
+  English renderings of _Mieh-Tu_ as Deliverance or Salvation, are
+  not without some degree of justification.
+
+  “All these I command and exhort to enter on the state of the
+  unsurpassed Nirvana (Pari Nirvana), and for ever to free
+  themselves from the conditions of being to which they severally
+  belong.”—_Kin-Kong-King_. Beal.
+
+  [3] “The dewdrop slips into the shining sea.”—_Light of Asia_.
+  Sir Edwin Arnold.
+
+  “The dewdrop re-becomes the shining sea.”—_Chioh-Hsien_ (a
+  Chinese monk).
+
+  “The popular exoteric systems agree in defining Nirvana negatively
+  as a state of absolute exemption from the circle of transmigration
+  as a state of entire freedom from all forms of materiality, from
+  all passion and exertion, mentally and emotionally, a state of
+  indifference therefore alike to joy and pain. Positively they
+  define Nirvana as the highest stage of spiritual liberty and
+  bliss, as absolute immortality through absorption of the soul into
+  itself. Individuality is preserved, and Buddhas who have entered
+  Nirvana occasionally reappear again to intervene on behalf of the
+  faithful.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [4] The able commentator _Ti-Ching_ observes that many people,
+  like Ananda—a favourite disciple of Buddha—are in error when they
+  suppose their minds to be located within their material bodies.
+  This interesting aspect of Buddhist psychology is made tolerably
+  clear in the familiar narrative known generally as _The
+  Enlightenment of Ananda_. Therein the Lord Buddha endeavours to
+  prove that as objects within ourselves are invisible, the
+  illuminating mind cannot be asserted to inhabit exclusively our
+  material bodies. He also indicates that it cannot be affirmed to
+  occupy any appointed sphere outside ourselves, it being usually
+  understood that we observe only those objects by which we are
+  environed. The Lord Buddha also controverts the theory, enunciated
+  by Ananda, that the mind is secreted somewhere within the organs
+  of sense; which assumption is based upon a notion that the seeing
+  eye, and differentiating mind, are mysteriously correlated.
+
+  [5] “This belief in self is regarded so distinctly as a heresy
+  that two well-known words in Buddhist terminology have been coined
+  on purpose to stigmatise it. The first of these is Sakkayaditthi,
+  ‘the heresy of individuality,’ the name given to this belief as
+  one of the three primary delusions (the others being doubt, and
+  belief in the efficacy of rites or ceremonies) which must be
+  abandoned at the very first stage of the Buddhist path of
+  holiness. The other is Attavada, ‘the doctrine of soul or self,’
+  which is the name given to it as a part of the chain of causes
+  which lead to the origin of evil. It is there classed—with
+  sensuality, heresy (as to eternity and annihilation), and belief
+  in the efficacy of rites and ceremonies—as one of the four
+  Upadanas, which are the immediate cause of birth, decay, death,
+  sorrow, lamentation, pain, grief, and despair.”—_Buddhism_. T. W.
+  Rhys Davids.
+
+
+[Chapter 5]
+
+The Lord Buddha interrogated Subhuti, saying: “What think you? Is it
+possible that by means of his physical body,[1] the Lord Buddha may be
+clearly perceived?” Subhuti replied, saying: “No! Honoured of the
+Worlds! It is impossible that by means of his physical body, the Lord
+Buddha may be clearly perceived. And why? Because, what the Lord
+Buddha referred to as a physical body, is in reality not merely a
+physical body.” Thereupon the Lord Buddha addressed Subhuti, saying:
+“Every form or quality of phenomena is transient and illusive. When
+the mind realises that the phenomena of life are not real phenomena,
+the Lord Buddha may then be clearly perceived.”[2]
+
+  [1] “Primitive Buddhism distinguished a material, visible, and
+  perishable body (_Seh-Shen_—_lit_., the Body of Form) and an
+  immaterial, invisible, immortal body (_Fah-Shen_—_lit_., the Body
+  of Law) as the constituents of every personality. This
+  dichotomism, taught, as it seems by Sakyamuni himself, was ever
+  afterwards retained as regards the nature of ordinary mortals. But
+  in later ages, when the combined influence of Sivaism, which
+  ascribed to Siva a threefold body (called _Dharmakaya_—essence,
+  _Sambhogakaya_—reflex intelligence, and _Nirmanakaya_—practical
+  issue of his intelligence), and that of Brahmanism with its
+  Trimurti, gave rise to the Buddhist dogma of a Triratna
+  (_San-Pao_—the precious Buddha, the precious Law, and the precious
+  Priesthood), trichotomism was taught with regard to the nature of
+  all Buddhas. Again they ascribed to every Buddha a triple form of
+  existence, viewing him: [1] as having entered Nirvana; [2] as
+  existing in reflex in the world of form; [3] as existing or having
+  existed on earth.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [2] The spiritual Buddha must be realised within the mind,
+  otherwise there can be no true perception of the Lord
+  Buddha.—_Chinese Annotation_.
+
+
+[Chapter 6]
+
+Subhuti enquired of the Lord Buddha, saying: “Honoured of the Worlds!
+In future ages, when this scripture is proclaimed, amongst those
+beings destined to hear, shall any conceive within their minds a
+sincere, unmingled faith?”[1]
+
+The Lord Buddha replied to Subhuti, saying: “Have no such apprehensive
+thought! Even at the remote period of five centuries subsequent to the
+Nirvana of the Lord Buddha,[3] there will be many disciples observing
+the monastic vows,[3] and assiduously devoted to good works.[4] These,
+hearing this scripture proclaimed, will believe in its immutability,
+and similarly conceive within their minds a pure, unmingled faith.
+Besides, it is important to realise that faith[5] thus conceived, is
+not exclusively in virtue of the insular thought of any particular
+Buddha, but because of its affiliation with the concrete[6] thoughts
+of myriad Buddhas, throughout infinite ages. Therefore, amongst the
+beings destined to hear this Scripture proclaimed, many, by momentary
+reflection, will intuitively[7] conceive a pure and holy faith.”
+
+“Subhuti, the Lord Buddha by his prescience,[8] is perfectly cognisant
+of all such potential disciples, and for these also there is reserved
+an immeasurable merit. And why? Because, the minds of these disciples
+will not revert to such arbitrary concepts of phenomena as an entity,
+a being, a living being, a personality, qualities or ideas coincident
+with Law, or existing apart from the idea of Law. And why? Because,
+assuming the permanency and reality of phenomena, the minds of these
+disciples would be involved in such distinctive ideas as an entity, a
+being, a living being, and a personality. Affirming the permanency and
+reality of qualities or ideas coincident with Law, their minds would
+inevitably be involved in resolving these same definitions.
+Postulating the inviolate nature of qualities or ideas which have an
+existence apart from the Law, there yet remain to be explained these
+abstruse distinctions—an entity, a being, a living being, and a
+personality. Therefore, enlightened disciples ought not to affirm the
+permanency or reality of qualities or ideas coincident with Law, nor
+postulate as being of an inviolate nature, qualities or ideas having
+an existence apart from the concept of Law.”
+
+“Thus, we are enabled to appreciate the significance of those words
+which the Lord Buddha invariably repeated to his followers: ‘You
+disciples must realise that the Law which I enunciated, was presented
+before your minds in the simile of a raft.[9] If the Law—having
+fulfilled its function in bearing you to the other shore
+(Nirvana)[10]—with its coincident qualities and ideas must inevitably
+be abandoned,[11] how much more inevitable must be the abandonment of
+qualities or ideas which have an existence apart from the Law?’”
+
+  [1] Compare the question addressed by Jesus to His disciples,
+  “When the Son of Man cometh, shall He find faith on the earth?”
+
+  [2] “In fulness of the times—it fell
+       The Buddha died, the great Tathagata,
+       Even as a man ’mongst men, fulfilling all:
+       And how a thousand thousand lakhs since then
+       Have trod the Path which leads whither he went
+       Unto Nirvana, where the Silence lives.”—_The
+       Light of Asia_. Sir Edwin Arnold.
+
+  [3] When a novice seeks admission to a monastic order, an
+  ordination service is conducted by a chapter of monks, at which
+  the following vows are administered. “I take the vow not to
+  destroy life. I take the vow not to steal. I take the vow to
+  abstain from impurity. I take the vow not to lie. I take the vow
+  to abstain from intoxicating drinks, which hinder progress and
+  virtue. I take the vow not to eat at forbidden times. I take the
+  vow to abstain from dancing, singing, music, and stage plays. I
+  take the vow not to use garlands, scents, unguents, or ornaments.
+  I take the vow not to use a high or broad bed. I take the vow not
+  to receive gold or silver.” (Compare _Buddhism_. T. W. Rhys Davids.)
+
+  [4] “The primary motive for doing good, and worshipping Buddha,
+  according to these scriptures (the Buddha scriptures of Nipal), is
+  the hope of obtaining absorption into the nature of the god, and
+  being freed from transmigrations.”—_China_. Sir John Francis Davis.
+
+  [5] “And is thy faith so much to give,
+       Is it so hard a thing to see,
+       That the Spirit of God, whate’er it be,
+       The Law that abides and changes not, ages long,
+       The Eternal and Nature-Born—these things be strong?”—_The
+  Bacche_. Euripides (translated by Gilbert Murray).
+
+  [6] “The elements of faith, like the flowers, appear to have their
+  roots in eternity.”—_Chang-Ming_ (a Chinese monk).
+
+  [7] “Were it possible for a Yogi and a Rahat from India, a Greek
+  philosopher from one of the schools holding the power of
+  intuition, an ascetic from the wilds of Syria or the mountains of
+  Egypt, a heretic from the school at Alexandria, a monk from one of
+  the monasteries of Europe, a schoolman of the Middle Ages, and a
+  modern German metaphysician of the school of Schelling to meet
+  together, and were it possible for them to forget their sectarian
+  subtleties and nice distinctions, they would find that there was a
+  vast mass of speculation about the main principles of which they
+  were agreed. They would be of one mind relative to the four
+  following propositions: [1] That there is an objective potency of
+  intellect; [2] That this potency can be rendered subjective by
+  concentrated thought, ascetic exercises, or determined effort; [3]
+  That this potency can only be acquired by the initiated; [4] That
+  the initiated may enlarge this potency to a limitless extent. As
+  to the efficient cause of the potency, there would be a difference
+  of opinion; some would ascribe it to intuition alone, while others
+  would attribute it to an alliance with higher spirits or with God;
+  but of its existence there would be no doubt.”—_Eastern
+  Monachism_. Spence Hardy.
+
+  [8] “For now I know, by what within me stirs,
+       That I shall teach compassion unto men
+       And be a speechless world’s interpreter.”—_The Light of
+  Asia_. Sir Edwin Arnold.
+
+  [9] “(By me) is made a well-constructed raft,—so said Bhagavat—I
+  have passed over (to Nibbana), I have reached the further bank,
+  having overcome the torrent (of passions); there is no (further)
+  use for a raft: therefore if thou like, rain, O
+  sky!”—_Sutta-Nipata_. Fausböll.
+
+  [10] Compare an idea expressed by the apostle Paul, “wherefore the
+  law was our schoolmaster to bring us unto Christ.” Note, also, the
+  similarity of a metaphor employed in Christian anthology, “We
+  shall meet on that beautiful ‘shore.’”
+
+  [11] “Our little systems have their day,
+         They have their day and cease to be;
+         They are but broken lights of Thee,
+       But thou, O Lord, art more than they.”—Tennyson.
+
+  “Reposing on eternal truth ... when thy mind shall have worked
+  through the snares of delusion, then wilt thou attain to
+  indifference to the doctrines, which are either (already)
+  received, or have yet to be received.”—_Bhagavad-Gita_. J.
+  Cockburn Thomson.
+
+
+[Chapter 7]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? Has the
+Lord Buddha really attained to supreme spiritual wisdom? Or has he a
+system of doctrine which can be specifically formulated?”
+
+Subhuti replied, saying: “As I understand the meaning of the Lord
+Buddha’s discourse, he has no system of doctrine which can be
+specifically formulated; nor can the Lord Buddha express, in explicit
+terms, a form of knowledge which can be described as supreme spiritual
+wisdom. And why? Because, what the Lord Buddha adumbrated in terms of
+the Law, is transcendental and inexpressible. Being a purely spiritual
+concept, it is neither consonant with Law, nor synonymous with
+anything apart from the Law. Thus[1] is exemplified the manner by
+which wise disciples and holy Buddhas, regarding intuition[2] as the
+Law of their minds, severally attained to different planes of
+spiritual wisdom.”[3]
+
+  [1] “So it appears that all the sages and wise men who have lived
+  have all adopted this mode of diffusive doctrine [doctrine which
+  admits of no particular distinction (_wou-wei)], and hence the
+  differences which have occurred.”—_Kin-Kong-King_. Beal.
+
+  [2] The Chinese text “_i-wu-wei-fah_,” is explained by a learned
+  expositor as _tsz-ran-choih-sing_—the intuitive faculty.
+
+  [3] “Because that thing which was known or taught by the Tathagata
+  is incomprehensible and inexpressible. It is neither a thing nor
+  no-thing. And why? Because the holy persons are of imperfect
+  power.”—_The Vagrakkhedika_. Max Müller.
+
+
+[Chapter 8]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? If a
+benevolent person bestowed as alms, an abundance of the seven
+treasures[1] sufficient to fill the universe, would there accrue to
+that person a considerable merit?”
+
+Subhuti replied, saying:[2] “A very considerable merit, Honoured of
+the Worlds! And why? Because, what is referred to does not partake of
+the nature of ordinary merit, and in this sense the Lord Buddha made
+mention of a ‘considerable’ merit.”
+
+The Lord Buddha rejoined, saying: “If a disciple adhered with implicit
+faith to a stanza[3] of this Scripture, and diligently explained it to
+others, the intrinsic merit of that disciple would be relatively
+greater. And why? Because, Subhuti, the holy Buddhas, and the Law[4]
+by which they attained to supreme spiritual wisdom, severally owe
+their inception to the truth[5] of this sacred Scripture. Subhuti,
+what is ordinarily termed the Buddhic Law, is not really a Law
+attributive to Buddha.”[6]
+
+  [1] Gold, silver, pearls, coral, cornelian, glass, and crystal.
+
+  [2] “Very considerable indeed, world-honoured one! But why so?
+  This merit being in its very character of the nature of that which
+  is no merit at all, so Tathagata speaks of it as being
+  ‘much.’”—_Kin-Kong-King_. Beal.
+
+  “Subhuti said: Yes, O Sugata, that son or daughter of a good
+  family would produce a large stock of merit. And why? Because, O
+  Bhagavat, what was preached by the Tathagata as the stock of
+  merit, is no stock of merit. Therefore, the Tathagata preaches: ‘a
+  stock of merit, a stock of merit indeed!’”—_The Vagrakkhedika_.
+  Max Müller.
+
+  [3] “Gatha—hymns and chants, narratives containing moral
+  expositions in metrical language. A Chinese text says, ‘32
+  characters form one Gatha,’ which refers to a certain variety of
+  Gatha called Aryagiti, a metre consisting of 32
+  instants.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [4] “The _Dharmma_ (Law) is perfect, having nothing redundant, and
+  nothing wanting. But it requires attention, that the benefits it
+  offers may be received. Though the teacher may attain great
+  happiness, and enter Nirvana, it does not follow that the disciple
+  will necessarily possess the same privileges; he may be like one
+  who binds the crown upon the head of another. Therefore each one
+  for himself must exercise meditation, and observe the ordinances,
+  that he may attain wisdom.”—_Eastern Monachism_. Spence Hardy.
+
+  [5] “Faith is in the world the best property for a man; _Dhamma_
+  (the Law), well observed, conveys happiness; truth, indeed, is the
+  sweetest of things; and the life they call the best which is lived
+  with understanding.”—_Sutta-Nipata_. Fausböll.
+
+  [6] “What then, Subhuti? All the Buddhas, and all the perfect laws
+  of the Buddhas, have sprung from (the principles of) this one
+  Sutra; but, Subhuti, that which is spoken of as the Law of Buddha,
+  is after all not such a Law (or, is a Law of no
+  Buddha).”—_Kin-Kong-King_. Beal.
+
+  “Because, O Subhuti, the highest perfect knowledge of the holy and
+  enlightened Tathagatas is produced from it; the blessed Buddhas
+  are produced from it. And why? Because, O Subhuti, when the
+  Tathagata preached: ‘The qualities of Buddha, the qualities of
+  Buddha indeed!’ They were preached by him as no-qualities of
+  Buddha. Therefore they are called the qualities of Buddha.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  An erudite Chinese commentator suggests that the words
+  _fei-fuh-fah_ are synonymous with _wu-wei-fah_—intuition, already
+  observed in the preceding section. A familiar passage from
+  _Lao-Tsz_, “Infinite truth is inexpressible,” is quoted by our
+  commentator as serving to illustrate the difficulty of giving
+  expression to an idea equivalent to the Law of Buddha.
+
+
+[Chapter 9]
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? May a
+Scrotapatti[1] (having entered the stream which bears on to Nirvana)
+thus moralise within himself, ‘I have obtained the fruits[2]
+commensurate with the merit of a Scrotapatti’?” Subhuti replied,
+saying: “No! Honoured of the Worlds! And why? Because, Scrotapatti is
+simply a descriptive term signifying ‘having entered the stream.’ A
+disciple who avoids the seductive phenomena of form, sound, odour,
+taste, touch, and Law,[3] is named a Scrotapatti.”
+
+The Lord Buddha again enquired of Subhuti, saying: “What think you?
+May a Sakridagami[4] (who is subject only to one more reincarnation)
+thus muse within himself, ‘I have obtained the fruits consonant with
+the merit of a Sakridagami’?” Subhuti replied, saying: “No! Honoured
+of the Worlds! And why? Because, Sakridagami is merely a descriptive
+title denoting ‘only one more reincarnation’;[5] but in reality there
+is no such condition as ‘only one more reincarnation,’ hence
+Sakridagami is merely a descriptive title.”
+
+The Lord Buddha once again enquired of Subhuti, saying: “What think
+you? May an Anagami[6] (having entire immunity from reincarnation)
+thus reflect within himself, ‘I have obtained the fruits which accord
+with the merit of an Anagami?’” Subhuti replied, saying: “No! Honoured
+of the Worlds! And why? Because, Anagami is merely a designation
+meaning ‘immunity from reincarnation’; but in reality there is no such
+condition as ‘immunity from reincarnation,’ hence Anagami is merely a
+convenient designation.”
+
+The Lord Buddha yet again enquired of Subhuti, saying: “What think
+you? May an Arhat[7] (having attained to absolute quiescence of mind)
+thus meditate within himself, ‘I have obtained the condition of an
+Arhat’?” Subhuti replied, saying: “No! Honoured of the Worlds! And
+why? Because, there is not in reality a condition synonymous with the
+term Arhat. Honoured of the Worlds! if an Arhat thus meditates within
+himself, ‘I have obtained the condition of an Arhat,’ there would be
+obvious recurrence of such arbitrary concepts as an entity, a being, a
+living being, and a personality. Honoured of the Worlds! When the Lord
+Buddha declared that in absolute quiescence[8] of mind, perfect
+observance of the Law,[9] and true spiritual perception, I was
+pre-eminent amongst the disciples, I did not cogitate thus within
+myself, ‘I am an Arhat, freed[10] from desire!’ Had I thus cogitated,
+‘I have obtained the condition of an Arhat,’[11] the ‘Honoured of the
+Worlds’ would not have declared concerning me, ‘Subhuti delights in
+the austerities practised by the Aranyaka’;[12] but, in reality,
+Subhuti was perfectly quiescent and oblivious to phenomena;[13] hence
+the allusion, ‘Subhuti delights in the austerities practised by the
+Aranyaka.’”
+
+  [1] “One who has entered (Apatti) the stream (Srota), the latter
+  being defined as the stream of holy conduct (which bears on to
+  Nirvana).”—_Handbook of Chinese Buddhism_. Eitel.
+
+  [2] “Men walking in the path, and standing in the fruits thereof,
+  those who have attained some fruits thereof but are yet
+  learners ... whose hope is directed to the utmost goal.”—_Questions
+  of King Milinda_. T. W. Rhys Davids.
+
+  “Enter the path! There spring the healing streams
+   Quenching all thirst! there bloom th’ immortal flowers
+   Carpeting all the way with joy! there throng
+   Swiftest and sweetest hours.”—_The Light of Asia_.
+   Sir Edwin Arnold.
+
+  [3] Perhaps in the sense that a Scrotapatti clearly perceives and
+  understands the tentative nature of the Law, his mind being
+  trained to regard it as “a well-constructed raft,” designed to
+  bear him safely across the stream of spiritual consciousness upon
+  which he has entered. It also appears that the Scrotapatti
+  discerns in the _idea_ of the Law, something as unreal and
+  ephemeral as the phenomena of form, sound, odour, taste, or touch.
+  In seeking “Nirvana’s blest abode,” the Scrotapatti endeavours to
+  “rise by daily sojourn with these phantasies—to lovelier verities.”
+
+  [4] “The path Sakradagami is so called because he who enters it
+  will receive one more birth. He may enter this path in the world
+  of men, and afterwards be born in a Dewa-Loka (a heavenly
+  mansion—in Chinese _Tien-Kong_); or he may enter it in a
+  Dewa-Loka, and afterwards be born in the world of men.”—_Eastern
+  Monachism_. Spence Hardy.
+
+  [5] “Because he is not an individual being (Dharma), who has
+  obtained the state of a Sakridagami.”—_The Vagrakkhedika_. Max
+  Müller.
+
+  [6] “Not returning, or not being reborn in the world of desire.
+  The third degree of Buddhistic saintship, the third class of
+  Aryas, embracing all those who are no more liable to be reborn as
+  men, though they are to be born once more as Devas, when they will
+  forthwith become Arhats and enter Nirvana.”—_Handbook of Chinese
+  Buddhism_. Eitel.
+
+  “Men devoid of passion, and of malice, and of dulness, men in whom
+  the great evils (lust, becoming, delusion, and ignorance) are not,
+  men who have neither craving thirst, nor grasping
+  desires.”—_Questions of King Milinda_. T. W. Rhys Davids.
+
+  [7] “Explained by _Fuh-Ko_—the Fruit of Buddha (Buddhaphalam). The
+  original meaning of Arhat (deserving, worthy) is overlooked by
+  most Chinese commentators, who explained the term as if it were
+  written _Ari-Hat_—Destroyer of the Enemy. The following two
+  explanations are given, _Shah-Tseh_—Destroying the Enemy, and
+  _Puh-Seng_—not to be reborn, _i.e._, except from transmigration.
+  There is, however, a third explanation which is based on the
+  original meaning of Arhat, namely _Ying-Kong_—deserving worship.
+  The Arhat is the perfected Arya (one who has mastered the four
+  spiritual truths—_Sz-Ti_—and thereby entered the path to Nirvana
+  called Arya-Marga), and the state of Arhat can accordingly be
+  attained only by passing through the different degrees of
+  saintship. Arhatship implies possession of supernatural powers,
+  and is to be succeeded either by Buddhaship or by immediate
+  entrance into Nirvana.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  “Those who have entered the stream, and those who, free from
+  stains, will only be reborn once more on earth, those who will
+  never again return, and Arhats—these are they who dwell in the
+  ‘city of Righteousness.’”—_Questions of King Milinda_. T. W. Rhys
+  Davids.
+
+  In the moral philosophy of Mencius there is inculcated a principle
+  of having few desires (_Kwa-Yuh_), and Chinese Buddhists
+  frequently institute comparisons between those “few desires” and
+  “no desires” of the Arhats.
+
+  [8] A Chinese annotator suggests it is almost self-evident that
+  “absolute quiescence” is the condition of mind in which knowledge
+  is acquired by intuition.
+
+  [9] “More is the treasure of the Law than gems;
+       Sweeter than comb its sweetness; its delights
+       Delightful past compare.”—_The Light of Asia_.
+  Sir Edwin Arnold.
+
+  [10] “The man for whom there is nothing upon which he depends, who
+  is independent, having understood the _Dhamma_ (Law), for whom
+  there is no desire for coming into existence or having
+  existence—him I call calm.... He has overcome
+  desire.”—_Dhammapada_. Max Müller.
+
+  “This devotion should be practised with that determination by
+  which thought becomes indifferent (to every worldly object). He
+  who has abandoned all desires which spring from imagination, and
+  has, by means of his heart, kept back the whole collection of the
+  senses from every direction (in which they would go), should
+  gradually become passive by his mind’s acquiring firmness, and, by
+  having caused his heart to remain within himself, should not place
+  his thoughts on anything at all.”—_Bhagavad-Gita_.—J. Cockburn
+  Thomson.
+
+  [11] “There are some persons who obtain the Rahatship
+  instantaneously, while others can only obtain it by a slow
+  process; they must give aims, make offerings, study the _Bana_
+  (Law), and exercise the necessary discipline.”—_Eastern
+  Monachism_. Spence Hardy.
+
+  [12] “Explained by ‘living in retirement,’ ‘a hermit,’ ‘a
+  recluse.’ The term signifies ascetics who live in strict
+  seclusion. There are three classes to be distinguished. The first
+  is called _Dharma Aranyaka_—‘Hermits of the Law,’ their favourite
+  tenet being the doctrine that the principles (_Dharma_)
+  constituting human nature are originally calm, still, and passive.
+  Their favourite tree is the Bodhi tree (tree of intelligence). The
+  second class is called _Matanga Aranyaka_. Its members reside
+  constantly in cemeteries, and are prohibited to approach a village
+  within hearing distance of the lowing of a cow. They are probably
+  called after the Hindoo caste _Matanga_. The third class, or the
+  _Danataka Aranyaka_, is formed by hermits living on the sea beach
+  or on half-tide rocks.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  “Men whose home is the forest, men who have taken on themselves
+  the extra vows, men full of joy, men who are wearing rough
+  garments, men rejoicing in solitude.”—_Questions of King Milinda_.
+  T. W. Rhys Davids.
+
+  [13] “The _Sramana_ (Buddhist monk) who sets himself to overcome
+  the evils of existence, retires from all intercourse with the
+  world, and either practises meditation, simply, or joins with it
+  the practice of Kasina (an ascetic exercise to free the mind from
+  all agitation), by which he is enabled to attain to _Nimitta_
+  (inward illumination), which is represented as being a mental
+  illumination that brings with it, in various degrees of
+  perfection, the state of mind called _Samadhi_ (absolute
+  self-abstraction). This result of profound meditation includes
+  undisturbed tranquillity, and equanimity the most entire, and in
+  its superior degree it produces unconsciousness.”—_Eastern
+  Monachism_. Spence Hardy.
+
+  “The world-honoured one would not then have said: ‘Subhuti, what
+  is this but the name of the one who delights in the mortification
+  of an _Aranyaka_ (forest devotee),’ regarding ‘Subhuti’ as in
+  truth not acting at all, but as a mere name, then (in such
+  forgetfulness of self) ‘he is one who delights in
+  self-mortification.’”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 10]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? When the
+Lord Buddha, in a previous life, was a disciple of Dipankara
+Buddha,[1] was there communicated to him any prescribed Law, or system
+of doctrine, whereby he eventually became a Buddha?” Subhuti replied,
+saying: “No! Honoured of the Worlds! When the Lord Buddha was a
+disciple of Dipankara Buddha, neither prescribed Law nor system of
+doctrine was communicated to him, whereby he eventually became a
+Buddha.”[2]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? may an
+enlightened disciple thus ponder within himself, ‘I shall create
+numerous Buddhist Kingdoms’?”[3] Subhuti replied, saying: “No!
+Honoured of the Worlds! And why? Because, kingdoms thus created would
+not in reality be Buddhist kingdoms,[4] therefore ‘the creation of
+numerous Buddhist kingdoms’ is merely a figure of speech.”
+
+The Lord Buddha, continuing, addressed Subhuti, saying: “Enlightened
+disciples ought therefore to engender within themselves a pure and
+holy mind; they ought not to depend on the phenomena of form, sound,
+odour, taste, touch, or Law; they ought to sedulously cultivate a mind
+independent of every material aid.”
+
+The Lord Buddha addressed Subhuti, saying: “Supposing a man with a
+body as pretentious as Sumeru,[5] prince among mountains, would you
+esteem such a body as being great?” Subhuti replied, saying:
+“Exceedingly great, Honoured of the Worlds! And why? Because, the Lord
+Buddha referred not to a physical body,[6] but to mental and spiritual
+concepts of bodies, in which sense a body may be regarded as really
+Great.”
+
+  [1] “_Ran-Teng-Fuh_—the Buddha who illuminates brightly,
+  _Ting-Kwang-Fuh_—the Buddha of fixed light. The twenty-fourth
+  predecessor of Sakyamuni, from whom the latter received the
+  assurance of his being destined for Buddhaship.”—_Handbook of
+  Chinese Buddhism_. Eitel.
+
+  It is recorded in _The Diamond Sutra_ that the Lord Buddha, in
+  previous incarnations, assiduously performed religious vows, and
+  deferentially honoured all contemporary Buddhas. An image of a
+  former master, Dipankara Buddha, may frequently be observed in
+  Chinese Buddhist temples, immediately behind the more conspicuous
+  figure of Sakyamuni Buddha. Amongst Chinese Buddhist anniversaries
+  may be found the birthday of “the ancient Buddha, _Ran-Teng_”
+  (Dipankara), and the period allocated for its observance is the
+  22nd day of the 8th month. (Compare Edkins’ _Chinese Buddhism_.)
+
+  [2] “It is maintained by the Buddhists that the founder of their
+  faith was entirely _αὐτοδιδακτος_. The wisdom that he manifested
+  was the outbeaming of a self-enkindled flame, not an inspiration
+  from any exterior source, nor was it the result of any process of
+  thought or reason. To whatever object he directed his intellectual
+  vision, whether it was near or remote, whether past, present, or
+  future, he saw it in a moment, intuitively, and yet in a manner
+  the most absolutely perfect.”—_Eastern Monachism_. Spence Hardy.
+
+  [3] “Bhagavat said: If Subhuti, a Bodhisattva, should say, ‘I
+  shall create numbers of worlds,’ he would say what is untrue. And
+  why? Because, O Subhuti, when Tathagata preached numbers of
+  worlds, numbers of worlds indeed! they were preached by him as no
+  numbers. Therefore they are called numbers of worlds.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “Subhuti, what think you? are the various lands and territories of
+  the Buddhas completely perfected by the Bodhisatwas who occupy
+  them? No! World-honoured one! for this complete perfection of
+  which we speak is after all no perfection at all, it is only an
+  empty name.”—_Kin-Kong-King_. Beal.
+
+  “The wise man is always thinking: How can I and these beings
+  become Buddhas? I will preach this true Law, upon which the
+  happiness of all beings depends, for the benefit of the
+  world.”—_Saddharma-Pundarika_. H. Kern.
+
+  The words _Chuang-Yen_, in a Buddhist sense, usually refer to the
+  erection or adornment of temples and pagodas, almsgiving, or other
+  work of merit. Used in conjunction with _Fuh-Tu_—Buddhist
+  kingdoms, as exemplified by our text, _Chuang-Yen_ appears to
+  convey a much wider meaning. Perhaps it refers to a spiritual
+  creation and adornment by charity and virtue, of kingdoms owning
+  allegiance to the Lord Buddha.
+
+  “In twelve years from the commencement of his public teaching,
+  Buddha’s doctrines had spread over sixteen Indian
+  kingdoms.”—_Chinese Buddhism_. Edkins.
+
+  [4] A Buddhist kingdom has no outward manifestation; it is a pure
+  and holy condition of mind.—_Chinese Annotation_.
+
+  Compare the statement attributed to Christ, “The kingdom of heaven
+  is _within_ you.”
+
+  [5] “Sumeru is probably Elburz, an isolated mountain of the
+  Caucasus range, 18,000 feet in height, and surrounded by low
+  ground.”—_Chinese Buddhism_. Edkins.
+
+  “But when they brought the painted palanquin
+   To fetch him home, the bearers of the poles
+   Were the four Regents of the Earth, come down
+   From Mount Sumeru.”—_The Light of Asia_. Sir Edwin Arnold.
+
+  [6] “The modification which Buddhism introduced into the idea of
+  transmigration was necessitated by the early Buddhist theories of
+  the nature of sentient beings; according to which, man consists of
+  an assemblage of different properties or qualities ... these are
+  Material qualities, Sensations, abstract Ideas, Tendencies of
+  mind, and mental Powers.... The first group, Material Qualities,
+  are like a mass of foam, that gradually forms, and then vanishes.
+  The second group, the Sensations, are like a bubble dancing on the
+  face of the water. The third group, the Ideas, are like the
+  uncertain mirage that appears in the sunshine. The fourth group,
+  the mental and moral Predispositions, are like the plantain stalk,
+  without firmness or solidity. And the last group, the Thoughts,
+  are like a spectre or magical illusion. The body itself is
+  constantly changing, ... man is never the same for two consecutive
+  moments.” (Compare Rhys Davids’ _Buddhism_, and Spence Hardy’s
+  _Manual_.
+
+  “For instance, Subhuti, a man might have a body and a large body,
+  so that his size should be as large as the king, of mountains,
+  Sumeru. Do you think then, O Subhuti, that his selfhood would be
+  large? Subhuti said, Yes! his selfhood would be large. And why?
+  Because, when the Tathagata preached ‘selfhood,’ selfhood indeed!
+  it was preached by him as no selfhood. Therefore it is called
+  selfhood.”—_The Vagrakkhedika_. Max Müller.
+
+
+[Chapter 11]
+
+The Lord Buddha addressed Subhuti, saying: “If there were rivers
+Ganges as numerous as the sands of the Ganges, would the aggregate
+grains of sand[1] be of considerable number?” Subhuti replied, saying:
+“Of very considerable number, Honoured of the Worlds! The rivers
+Ganges alone would be innumerable, and much more innumerable would be
+the grains of sand.”
+
+The Lord Buddha thereupon addressed Subhuti, saying: “I have a truth
+to declare unto you! If a good disciple, whether man or woman, were to
+bestow in the exercise of charity, an abundance of the seven
+treasures,[2] sufficient to fill as many boundless universes as there
+would be grains of sand in these innumerable rivers, would the
+cumulative merit of such a disciple be considerable?” Subhuti replied,
+saying: “Very considerable, Honoured of the Worlds!”
+
+The Lord Buddha then declared unto Subhuti, “If a good disciple,
+whether man or woman, were with implicit faith to adhere to a stanza
+of this Scripture, and diligently explain it to others, the consequent
+merit would be relatively greater than the other.”
+
+  [1] “Sarvanikchepa, by which you deal
+       With all the sands of Gunga, till we come
+       To Antah-Kalpas, where the unit is
+       The sands of ten crore Gungas.”—_The
+  Light of Asia_. Sir Edwin Arnold.
+
+  [2] Gold, silver, pearls, coral, cornelian, glass, and crystal.
+
+  “As much of the seven precious substances as would fill as many
+  great chiliocosms as there are sands in all the rivers above
+  described.”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 12]
+
+The Lord Buddha, continuing, said unto Subhuti: “Wherever this
+Scripture is proclaimed, even though it were but a stanza comprising
+four lines, you should realise that that place would be sanctified by
+the presence of the whole realm of gods, men, and terrestrial
+spirits,[1] who ought unitedly to worship, as if before a sacred
+shrine of Buddha.[2] But what encomium shall express the merit of a
+disciple who rigorously observes, and diligently studies,[3] the text
+of this Scripture? Subhuti, you should realise that such a disciple
+will be endowed[4] with spiritual powers commensurate with initiation
+in the supreme, incomparable, and most wonderful Law.[5] Whatever
+place constitutes a repository for this sacred Scripture, there also
+the Lord Buddha may be found, together with disciples worthy of
+reverence and honour.”
+
+  [1] Adopting Max Müller’s rendering. In the Chinese text are
+  _Tien_, _Ren_, and _O-Siu-Lo_—heaven, or gods—men, and _Asurus_;
+  the latter defined as _fei-tien_—not celestial spirits.
+
+  [2] “Whatever spirits have come together here, either belonging to
+  the earth or living in the air, let us worship the perfect Buddha,
+  revered by gods and men.”
+
+  “Whatever spirits have come together here, either belonging to the
+  earth or living in the air, let us worship the perfect _Dhamma_
+  (Law), revered by gods and men.”
+
+  “Whatever spirits have come together here, either belonging to the
+  earth or living in the air, let us worship the perfect _Sangha_
+  (community of monks), revered by gods and men.”—_Dhammapada_. Max
+  Müller.
+
+  [3] “Earnestness is the path of immortality (Nirvana),
+  thoughtlessness the path of death. Those who are in earnest do not
+  die, those who are thoughtless are as if dead
+  already.”—_Dhammapada_. Max Müller.
+
+  [4] “They, O Subhuti, will be endowed with the highest wonder
+  (with what excites the highest wonder). And in that place, O
+  Subhuti, there dwells the teacher (Sasa, often the name of
+  Buddha), or one after another holding the place of the wise
+  preceptor. (This may refer to a succession of teachers banding
+  down the tradition one to another.)”—_The Vagrakkhedika_. Max
+  Müller.
+
+  “Subhuti, know that this man has acquired knowledge of the most
+  excellent and desirable of all Laws; and if the place where this
+  Sutra is recited be worthy of all honour as the place of Buddha
+  himself, so also is this disciple honourable and worthy of the
+  highest respect.”—_Kin-Kong-King_. Beal.
+
+  [5] “The praises of the _Bana_ (Law) are a favourite subject with
+  the native authors.... The discourses of Buddha are as a divine
+  charm to cure the poison of evil desire; a divine medicine to heal
+  the disease of anger; a lamp in the midst of the darkness of
+  ignorance; a fire, like that which burns at the end of a Kalpa, to
+  destroy the evils of repeated existence; a meridian sun to dry up
+  the mud of covetousness; a great rain to quench the flame of
+  sensuality; a thicket to block up the road that leads to the
+  _Narakas_ (place of the wicked); a ship in which to sail to the
+  opposite shore of the ocean of existence; a collyrium for taking
+  away the eye-film of heresy; a moon to bring out the night-blowing
+  lotus of merit; a succession of trees bearing immortal fruit,
+  placed here and there, by which the traveller may be enabled to
+  cross the desert of existence; ... a straight highway by which to
+  pass to the incomparable wisdom; a door of entrance to the eternal
+  city of Nirvana; ... a treasury of the best things it is possible to
+  obtain; and a power by which may be appeased the sorrow of every
+  sentient being.”—_Eastern Monachism_. Spence Hardy.
+
+
+[Chapter 13]
+
+Upon that occasion, Subhuti enquired of the Lord Buddha, saying:
+“Honoured of the Worlds! by what name shall this Scripture be known,
+that we may regard it with reverence?” The Lord Buddha replied,
+saying: “Subhuti, this Scripture shall be known as _The Diamond
+Sutra_,[1] ‘The Transcendent Wisdom,’ by means of which we reach ‘The
+Other Shore.’ By this name you shall reverently regard it! And why?
+Subhuti, what the Lord Buddha declared as ‘transcendent wisdom’ by
+means of which we reach ‘the other shore,’ is not essentially
+‘transcendent wisdom’—in its essence it transcends all wisdom.”
+
+The Lord Buddha addressed Subhuti, saying:[2] “What think you? Did the
+Lord Buddha formulate a precise system of Law or doctrine?” Subhuti
+replied, saying: “Honoured of the Worlds! The Lord Buddha did not
+formulate a precise system of Law or doctrine.”
+
+The Lord Buddha addressed Subhuti, saying: “What think you? within the
+myriad worlds which comprise this universe, are the atoms of dust
+numerous?”[3] Subhuti replied, saying: “Very numerous, Honoured of the
+Worlds!”
+
+The Lord Buddha continuing his discourse, said: “Subhuti, the Lord
+Buddha declares that all these ‘atoms of dust’ are not essentially
+‘atoms of dust,’ they are merely termed ‘atoms of dust.’ The Lord
+Buddha also declares that those ‘myriad worlds’ are not really ‘myriad
+worlds,’ they are merely designated ‘myriad worlds.’”
+
+The Lord Buddha addressed Subhuti, saying: “What think you? Can the
+Lord Buddha be perceived by means of his thirty-two bodily
+distinctions?”[4] Subhuti replied, saying: “No! Honoured of the
+Worlds! the Lord Buddha cannot be perceived by means of his thirty-two
+bodily distinctions. And why? Because, what the Lord Buddha referred
+to as his ‘thirty-two bodily distinctions,’ are not in reality ‘bodily
+distinctions,’ they are merely defined as ‘bodily distinctions.’”
+
+The Lord Buddha addressed Subhuti, saying: “If a good disciple,
+whether man or woman, day by day sacrificed lives innumerable as the
+sands of the Ganges;[5] and if another disciple adhered with implicit
+faith to a stanza of this Scripture, and diligently explained it to
+others, the intrinsic merit of such a disciple would be relatively
+greater than the other.”[6]
+
+  [1] A Chinese annotator observes, that as the “diamond” excels all
+  other precious gems in brilliance and indestructibility, so also
+  the “wisdom” of this Sutra transcends and shall outlive all
+  other knowledge known to philosophy.
+
+  [2] “Then what do you think, O Subhuti, is there anything that was
+  preached by the Tathagata? Subhuti said: Not indeed, O Bhagavat,
+  there is nothing that was preached by the Tathagata.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  It appears to be one of the distinctive features of primitive
+  Buddhism, that its founder made provision for the utmost
+  development of the human intellect, within the spheres of religion
+  and philosophy. According to the text of _The Diamond Sutra_, the
+  Lord Buddha evidently disclaims any suggestion on his part to
+  formulate a “precise system of Law or doctrine” corresponding to
+  the idea of a _creed_.
+
+  [3] “Matter is infinitely divisible.”—_The World as Idea and
+  Will_. Schopenhauer.
+
+  “After me repeat
+  Your numeration....
+  By Pundarikas unto Padumas,
+  Which last is how you count the utmost grains
+  Of Hastagiri ground to finest dust.”—_The Light of Asia_. Sir
+  Edwin Arnold.
+
+  “If the Buddha was not a materialist, in the sense of believing in
+  the eternal existence of material atoms, neither could he in any
+  sense be called a ‘spiritualist,’ or believer in the external
+  existence of abstract spirit. With him creation did not proceed
+  from an omnipotent spirit or mind evolving phenomena out of itself
+  by the exercise of will, nor from an eternal self-existing,
+  self-evolving germ of any kind. As to the existence in the
+  universe of any spiritual substance which was not matter and was
+  imperceptible to the senses, it could not be proved.”—_Buddhism_.
+  Sir Monier Williams.
+
+  “Subhuti, all these countless particles of dust Tathagata declares
+  are no real particles; it is but an empty name by which they are
+  known. Tathagata declares that all these systems of worlds
+  composing the great chiliocosm are no real worlds; they are but
+  empty names.”—_Kin-Kong-King_. Beal.
+
+  [4] “Characteristic physiological marks by which every Buddha may
+  be recognised.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  “Can Tathagata be known by the thirty-two signs (of a hero)?”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “The King saluted, and Queen Maya made
+   To lay her babe before such holy feet;
+   But when he saw the prince the old man cried
+   ‘Ah, Queen not so!’ and thereupon he touched
+   Eight times the dust, laid his waste visage there,
+   Saying, ‘O Babe! I worship! Thou art He!
+   I see the rosy light, the foot-sole marks,
+   The soft curled tendrils of the Swastika,
+   The sacred primal signs thirty-and-two,
+   The eighty lesser tokens. Thou art Buddh,
+   And thou wilt preach the Law and save all flesh
+   Who learn the Law.’”—_The Light of Asia_.
+   Sir Edwin Arnold.
+
+  “Bright were the divine lineaments of his face, and as the Master
+  (of the Law) gazed in awe and holy reverence, he knew not how to
+  compare the spectacle; the body of Buddha and his Kashaya robe
+  were of a yellowish red colour, and from his knees upward the
+  distinguishing marks of his person were exceedingly glorious.”—_The
+  Life of Hiuen-Tsang_. Beal.
+
+  [5] The Chinese expression _Shen-Ming_—life, invariably refers to
+  life in an ordinary material sense, and which may be offered in
+  sacrifice. But in Buddhist philosophy there is a spiritual
+  _Atman_, which can be disposed of only by knowledge.
+
+  [6] “Were any one to fill the bowl of Buddha with the choicest
+  food, or to present oil, sugar, honey, medicaments in the greatest
+  abundance, or to build thousands of _Wiharas_ (monasteries or
+  temples) splendid as those of Anuradhapura (an ancient city in
+  Ceylon, the Anurogrammum of Ptolemy), or to present an offering to
+  Buddha like that of Anepidu (a rich merchant of Sewet), the
+  hearing or reading of one stanza of the _Bana_ (Law) would be more
+  meritorious than all.”—_Eastern Monachism_. Spence Hardy.
+
+
+[Chapter 14]
+
+Upon that occasion, the venerable Subhuti, hearing the text of this
+scripture proclaimed, and profoundly realising its meaning, was moved
+to tears. Addressing the Lord Buddha, he said: “Thou art of
+transcendent wisdom, Honoured of the Worlds! The Lord Buddha in
+expounding this supreme canon of Scripture, surpassed in perspicuity
+every exposition previously heard by me, since my eyes[1] were
+privileged to perceive this most excellent wisdom. Honoured of the
+Worlds! In years to come, if disciples hearing this scripture
+proclaimed, and having within their minds a pure and holy faith,
+engender true concepts of the ephemeral nature of phenomena—we ought
+to realise that the cumulative merit of such disciples will be
+intrinsic and wonderful. Honoured of the Worlds! The true concept of
+phenomena is, that these are not essentially phenomena, and hence the
+Lord Buddha declared that they are merely termed phenomena.”
+
+“Honoured of the Worlds! having heard this unprecedented Scripture,
+faith, clear understanding, and firm resolve to observe its precepts,
+follow as a natural sequence. If, in future ages, disciples destined
+to hear this Scripture, likewise believe, understand, and observe its
+precepts, their merit will incite the highest wonder and praise.[2]
+And why? Because, the minds of those disciples[3] will have outgrown
+such arbitrary ideas of phenomena as an entity, a being, a living
+being, or a personality. And why? Because, the entity is in reality
+non-entity; and a being, a living being, or a personality, are ideas
+equally nebulous and hypothetical.[4] Wherefore, discarding every
+arbitrary idea of phenomena, the wise and wholly enlightened were
+severally designated Buddha.”[5]
+
+The Lord Buddha, assenting, said unto Subhuti: “If, in future ages,
+disciples destined to hear this Scripture, neither become perturbed by
+its extreme modes of thought,[6] nor alarmed by its lofty
+sentiments,[7] nor apprehensive about realising its high
+ideals[8]—these disciples also, by their intrinsic merit, will incite
+superlative wonder and praise.”
+
+“Subhuti, what the Lord Buddha referred to as the first _Paramita_[9]
+(charity), is not in reality the first _Paramita_, it is merely termed
+the first _Paramita_”
+
+“Subhuti, regarding the third _Paramita_ (endurance), it is not in
+reality a _Paramita_, it is merely termed a _Paramita_. And why?
+Because, in a previous life, when the Prince of Kalinga[10]
+(‘Kaliradja’) severed the flesh from my limbs and body, at that time I
+was oblivious to such arbitrary ideas of phenomena as an entity, a
+being, a living being, or a personality. And why? Because, upon that
+occasion, when my limbs and body were rent asunder, had I not been
+oblivious to such arbitrary ideas as an entity, a being, a living
+being, or a personality, there would have originated within my mind,
+feelings of anger and resentment.”
+
+“Subhuti, five hundred incarnations ago,[11] I recollect that as a
+recluse practising the ordinances of the Kshanti-Paramita,[12] even
+then I had no such arbitrary ideas as an entity, a being, a living
+being, or a personality. Therefore, Subhuti, an enlightened disciple
+ought to discard as being unreal and illusive, every conceivable form
+of phenomena.[13] In aspiring to supreme spiritual wisdom, the mind
+ought to be insensible to every sensuous influence, and independent of
+everything pertaining to sound, odour, taste, touch, or Law. There
+ought to be cultivated a condition of complete independence of mind;
+because, if the mind is depending upon any external aid, it is
+obviously deluded—there is in reality nothing external to depend
+upon.[14] Therefore, the Lord Buddha declared that in the exercise of
+charity, the mind of an enlightened disciple ought not to depend upon
+any form of phenomena. Subhuti, an enlightened disciple desirous to
+confer benefits upon the whole realm of being, ought thus to be
+animated in the exercise of charity.”[15]
+
+The Lord Buddha, in declaring the “unreality of phenomena,” also
+affirmed “that the whole realm of sentient life is ephemeral and
+illusory.”[16]
+
+“Subhuti, the sayings of the Lord Buddha are true, credible, and
+immutable. His utterances are neither extravagant nor chimerical.
+Subhuti, the plane[17] of thought to which the Lord Buddha attained,
+cannot be explained in terms synonymous with reality or non-reality.”
+
+“Subhuti, in the exercise of charity, if the mind of an enlightened
+disciple is not independent of every Law, he is like unto a person
+having entered impenetrable darkness, and to whom every object is
+invisible. But an enlightened disciple, discharging the exercise of
+charity with a mind independent of every Law, is like unto a person
+having the power of vision, in the meridian glory of the sunlight, and
+to whom every object is visible.”
+
+“Subhuti, in future ages, if a good disciple, whether man or woman,
+rigorously studies and observes the text of this Scripture; the Lord
+Buddha, by means of his Buddhic wisdom,[18] entirely knows and
+perceives that for such a disciple there is reserved a cumulative
+merit, immeasurable and illimitable.”
+
+  [1] “As one raises what has been overthrown, or reveals what has
+  been hidden, or tells the way to him who has gone astray, or holds
+  out an oil lamp in the dark that those who have eyes may see the
+  objects, even so by the venerable Gotama in manifold ways the
+  _Dhamma_ (Law) has been illustrated.”—_Dhammapada_. Max Müller.
+
+  [2] “The chief of the priests of that establishment (the Jayendra
+  convent) was a man of high moral character. He observed with the
+  greatest strictness the religious rules and ordinances. He was
+  possessed of the highest intelligence, and acquainted with all the
+  points of a true disciple. His talents were eminent; his spiritual
+  powers exalted; and his disposition affectionate.”—_The Life of
+  Hiuen-Tsang_. Beal.
+
+  [3] “They had within themselves the possession of a power by which
+  all objective truth could be presented to their intellectual
+  vision. They, therefore, partook of what in other systems would be
+  regarded as divinity.”—_Eastern Monachism_. Spence Hardy.
+
+  [4] “They have been divided into existing and non-existing, real
+  and unreal, by those who had wrong notions; other laws also, of
+  permanency, of being produced, of birth from something already
+  produced, are wrongly assumed.”—_Saddharma-Pundarika_. H. Kern.
+
+  [5] “But, O Bhagavat, there will not arise in them any idea of a
+  self, of a being, of a living being, of a person, nor does there
+  exist for them any idea of no-idea. And why? Because, the idea of
+  a self is no-idea, the idea of a being is no-idea, the idea of a
+  living being is no-idea, the idea of a person is no-idea. And why?
+  Because, the blessed Buddhas are freed from all ideas.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  [6] ... “For birth and death
+      End hence for me and those who learn my Law.”—_The
+      Light of Asia_. Sir Edwin Arnold.
+
+  [7] “As the Buddhist strove to reach a state of quietism or holy
+  meditation in this world, namely the state of the perfect disciple
+  or Arhat; so he looked forward to an eternal calm in the world to
+  come, Nirvana. Buddha taught that this end could only be attained
+  by the practice of virtue.”—_The Indian Empire_. Sir William Hunter.
+
+  [8] “The heart of it is love, the end of it
+       Is peace and consummation sweet.”—_The
+       Light of Asia_. Sir Edwin Arnold.
+
+  [9] The first of six _Paramita_—charity, morality, endurance,
+  energy, contemplation, wisdom—or means of attaining to Nirvana.
+
+  “What the Tathagata preaches as the _Prajna-Paramita_, that was
+  preached also by innumerable Blessed Buddhas. Therefore it is
+  called the _Prajna-Paramita_,”—_The Vagrakkhedika_. Max Müller.
+
+  [10] “An ancient kingdom S.E. of Kos’ala, a nursery of heretical
+  sects, the present Calingapatah, a town in the northern Circars
+  (Lat. 18° 15 N., Long. 85° 11 E.).”—_Handbook of Chinese
+  Buddhism_. Eitel.
+
+  It is recorded that the Lord Buddha, in a previous incarnation,
+  was living in a mountainous region, strictly observing the
+  monastic vows. The Prince of Kalinga, a cruel and dissolute ruler,
+  having organised a hunting expedition, visited the secluded
+  region, accompanied by numerous ladies of his harem. Fatigued by
+  the excitement of the chase, the prince fell into a deep siesta.
+  Meantime, the ladies resolved upon a short excursion along a
+  mountain path. Unexpectedly meeting the Lord Buddha, they were
+  greatly astonished at his dignified bearing and edifying
+  conversation. When the prince awoke from his siesta, he was
+  irritated to find that his ladies had disappeared. Instituting an
+  immediate search, he became filled with implacable rage upon
+  discovering them in the society of a hermit. The incident, as
+  narrated in the Chinese text, proved to be a distressing sequel to
+  the modest ladies’ innocent adventure. (Compare _Chinese
+  Annotations_, etc.)
+
+  [11] “Various forms of pre-existence to the number of 500 or 550
+  are recorded, in the course of which he (Buddha) marked his way up
+  through as many different stages of transmigration from the lowest
+  spheres of life to the highest, practising all kinds of
+  asceticism, and exhibiting in every form the utmost unselfishness
+  and charity.”—_Handbook of Chinese Buddhism_. Eitel.
+
+  “I and thou, O Arjuna! have passed through many transmigrations. I
+  know all these.... Even though I am unborn, of changeless essence,
+  and the lord also of all which exist, yet, in presiding over
+  nature (Prakrita), which is mine, I am born by my own mystic power
+  (Maya). For whenever there is a relaxation of duty, ... and an
+  increase of impiety, I then reproduce myself for the protection of
+  the good.... I am produced in every age.”—_Bhagavad-Gita_. J.
+  Cockburn Thomson.
+
+  [12] “Explained by patient endurance of insult. The virtue of
+  patience, implying constant equanimity under persecution, and
+  excluding hatred and revenge.”—_Handbook of Chinese Buddhism_.
+  Eitel.
+
+  “Because, O Subhuti, I remember the past five hundred births, when
+  I was the _Rishi-Kshantivadin_ (preacher of endurance).”—_The
+  Vagrakkhedika_. Max Müller.
+
+  [13] “Let (the Bodhisattva) be concentrated in mind, attentive,
+  ever firm as the peak of Mount Sumeru, and in such a state (of
+  mind) look upon all laws (and things) as having the nature of
+  space (as being void), permanently equal to space, without
+  essence, immovable, without substantiality. These, indeed, are the
+  Laws, all and for ever.”—_Saddharma-Pundarika_. H. Kern.
+
+  [14] “Because what is believed is not believed (not to be depended
+  on).”—_The Vagrakkhedika_. Max Müller.
+
+  [15] “Hence Buddha declares that the mind of a Bodhisatwa ought
+  not to rely on any formal act of charity. Subhuti, the Bodhisatwa
+  ought to distribute his almsgiving for the purpose of benefiting
+  the whole mass of sentient creatures, and yet Tathagata declares
+  that as all dependencies are after all no real subjects of
+  dependence, so also he says that all sentient creatures are not in
+  reality what they are called.”—_Kin-Kong-King_. Beal.
+
+  [16] Literally, “Every form of phenomena is really _not_ phenomena;
+  every form of sentient life is in reality _not_ sentient life.”
+
+  [17] The Buddhist term, _Fah_ (Law).
+
+  [18] “The omniscience of Buddha is not the knowledge of all
+  things, but the power of knowing whatever he wishes to know. In
+  opposition to other teachers, who deduce their doctrines from
+  certain previously assumed principles, and who may err either in
+  the data, or in the deductions from them. Buddha affirms of
+  himself that the complete field of truth is before him, that the
+  eye of wisdom to perceive it was obtained by him when he became a
+  Buddha; and whatever he desires to know he perceives perfectly,
+  and at one glance, without any reasoning process.”—(Rev. D. J.
+  Gogerly, in the _Ceylon Friend_. Quoted by R. Spence Hardy, in
+  _Eastern Monachism_).
+
+
+[Chapter 15]
+
+The Lord Buddha addressed Subhuti, saying: “If a good disciple,
+whether man or woman, in the morning, at noonday, and at eventide,
+sacrificed lives innumerable as the sands of the Ganges, and thus
+without intermission throughout infinite ages; and if another
+disciple, hearing this Scripture proclaimed, steadfastly believed it,
+his felicity would be appreciably greater than the other. But how much
+greater must be the felicity of a disciple who transcribes the sacred
+text, observes its precepts, studies its Laws, and repeats the
+Scripture that others may be edified thereby?”
+
+“Subhuti, the relative importance of this Scripture may thus be
+summarily stated: its truth is infinite; its worth incomparable; and
+its merit interminable.”
+
+“The Lord Buddha delivered this Scripture specifically for those who
+are entered upon the path which leads to Nirvana, and for those who
+are attaining to the ultimate plane of Buddhic thought.[1] If a
+disciple rigorously observes, studies, and widely disseminates the
+knowledge of this Scripture, the Lord Buddha entirely knows and
+perceives that for such an one there will be a cumulative merit,
+immeasurable, incomparable, illimitable, and inconceivable. All such
+disciples will be endowed with transcendent Buddhic wisdom and
+enlightenment.[2] And why? Because, Subhuti, if a disciple takes
+pleasure in a narrow or exclusive form of the Law,[3] he cannot
+receive with gratification[4] the instruction of this Scripture, or
+delight in its study, or fervently explain it to others. Subhuti, in
+whatever place there is a repository for this Scripture, the whole
+realm of spiritual beings ought to adore it; and reverencing it as a
+sacred shrine,[5] ceremoniously surround it, scattering profusely
+sweet-scented flowers, and pure odours of fragrant incense.”[6]
+
+  [1] Literally, for the _ta-cheng-che_—those of the great vehicle,
+_i.e._, the Mahayana faith. “They taught (the Mahayana school)
+that there were two methods of salvation, or, so to speak, two
+ways or two vehicles—the great and the little (Maha-Yana and
+Hina-Yana)—and indeed two Bodhis or forms of true knowledge which
+these vehicles had to convey (there was also a middle way). The
+former was for ordinary persons, the latter for beings of larger
+talents and higher spiritual powers.”—_Buddhism_. Sir Monier
+Williams.
+
+  “Therefore let one always be thoughtful, and avoid (gross)
+  pleasures; having abandoned them, let him cross the stream, after
+  baling out the ship, and go to the other shore
+  (Nirvana).”—_Dhammapada_. Max Müller.
+
+  [2] “All these beings will equally remember the _Bodhi_ (the
+  highest Buddhic knowledge), will receive it and understand
+  it.”—_The Vagrakkhedika_. Max Müller.
+
+  “All men being one with _ho-tan_ (Gautama?) Tathagata, arrive at
+  the state of the unsurpassed, just, and enlightened
+  (heart).”—_Kin-Kong-King_. Beal.
+
+  The Chinese phrase “_ho-tan-Ju-Lai_,” may mean to bear upon the
+  person evidences of the Lord Buddha. Compare the statement of the
+  apostle Paul, “I bear in my body evidences of the Lord Jesus
+  Christ.”
+
+  [3] Those disciples associated with the _Siao-Fah_ (little Law,
+  the Hinayana school of Buddhist thought), are rather ungraciously
+  referred to by a Chinese commentator as “rootless stems”; by which
+  we are reminded of the Hindoo aphorism, “from the absence of a
+  root within the root, all things are rootless.”
+
+  [4] When the Lord Buddha delivered the Sutra known as the _Lotus
+  of the Good Law_, it is recorded that five thousand followers
+  forsook him, owing to what they regarded as a grave difficulty in
+  complying with its intensely abstruse doctrines.
+
+  [5] “In these two places also Topes (where relics of Buddha are
+  deposited and safeguarded) have been built, both adorned with
+  layers of all the previous substances (gold, silver, pearls,
+  coral, cornelian, glass, and crystal). The kings, ministers, and
+  peoples of the kingdoms vie with one another in making offerings
+  at them. The trains of those who come to scatter flowers and light
+  lamps at them never cease.”—_The Travels of Fa-Hien_. Legge.
+
+  This descriptive scene concerning the endless trains of pilgrims
+  who lit their lamps at the sacred shrine, may recall to our minds
+  the beautifully expressed line in Sophocles’ _Œdipus Coloneus_,
+  thus rendered by Professor Jebb, _The torch-lit strand_ of Eleusis.
+
+  [6] “Then the king, with his assembled ministers and all the
+  priests belonging to the capital (of Kashmir), advanced to the
+  preaching hall (_Dharmasala_) and escorted him (the Master of the
+  Law) onwards, being altogether something like a thousand men, with
+  standards and parasols, with incense and flowers filling the
+  roads. When they met (the Master of the Law) they all performed a
+  humble salutation, and spread before him countless flowers as
+  religious offerings.”—_The Life of Hiuen-Tsang_. Beal.
+
+
+[Chapter 16]
+
+The Lord Buddha, continuing, addressed Subhuti, saying: “If a good
+disciple, whether man or woman, devoted to the observance and study of
+this Scripture, is thereby despised, or lightly esteemed,[1] it is
+because that in a previous life there had been committed some grievous
+transgression, followed now by inexorable retribution.[2] But,
+although in this life despised or lightly esteemed, the compensating
+merit thus acquired will cause the transgression of a former life to
+be fully expiated, and the disciple adequately recompensed by the
+attainment of supreme spiritual wisdom.”
+
+“Furthermore, Subhuti, numberless ages ago, I recollect that before
+the advent of Dipankara Buddha, there were myriad Buddhas before whom
+I served and received religious instruction, my conduct being entirely
+blameless and without reproach. But, in the ages to come, if a
+disciple be enabled to rigorously observe and to study the text of
+this Scripture, the merit thus acquired will so far exceed the measure
+of my merit in the service of those myriad Buddhas, that it cannot be
+stated in terms of proportion, nor comprehended by means of any
+‘analogy.’”
+
+“Again, Subhuti, in future ages, if a good disciple, whether man or
+woman, be enabled to rigorously observe and to study consecutively the
+texts of this Scripture, were I to elaborate either the nature or
+extent of this merit, those who heard it might become delirious, or
+entirely doubt its credibility.[3] Subhuti, it is necessary to
+realise, that as the meaning of this Scripture is beyond ordinary
+comprehension, the scope of its fruitful rewards is equally
+incomprehensible.”[4]
+
+  [1] “Whoever reviles Buddha or his disciple, be he a wandering
+  mendicant, or a householder, let one know him as an
+  outcast.”—_Sutta-Nipata_. V. Fausböll.
+
+  [2] “Whatever evil deeds these beings have done in a former birth,
+  deeds that must lead to suffering, those deeds these beings, owing
+  to their being overcome, after they have seen the Law, will
+  destroy, and they will obtain the knowledge of Buddha.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “According to the Buddha ... all men must suffer in their own
+  persons either in the present life, or in future lives, the
+  consequences of their own acts.... The penalty of sin could not be
+  transferred to another—it could only be borne by the sinner
+  himself, just as the reward of virtue could only be enjoyed by the
+  virtuous man himself.”—_Hinduism_. Sir Monier Williams.
+
+  [3] Literally, “become as doubtful as a fox.”
+
+  [4] “For as the method and entire meaning of this Sutra is not to
+  be described or entirely conceived, so the merit and happy
+  consequences of accepting it cannot be conceived or
+  described.”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 17]
+
+Upon that occasion, the venerable Subhuti addressed the Lord Buddha,
+saying: “Honoured of the Worlds! if a good disciple, whether man or
+woman, having desired to attain to supreme spiritual wisdom, what
+immutable Law shall support the mind of that disciple, and bring into
+subjection every inordinate desire?”[1]
+
+The Lord Buddha replied, saying: “A good disciple, whether man or
+woman, ought thus to habituate his mind:[2] ‘I must become oblivious
+to every idea of sentient life; and having become oblivious to every
+idea of sentient life, there is _no one_ to whom the idea of sentient
+life has become oblivious.’[3] And why? Because, Subhuti, if an
+enlightened disciple retains within his mind such arbitrary ideas of
+sentient life as an entity, a being, a living being, or a personality,
+he has not attained to supreme spiritual wisdom. And why? Because,
+Subhuti, there is no Law by means of which a disciple may be defined
+as one having obtained supreme spiritual wisdom.”[4]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? When the
+Lord Buddha was a disciple of Dipankara Buddha, was there bequeathed
+to him any Law whereby he attained to supreme spiritual wisdom?”
+Subhuti replied, saying: “No! Honoured of the Worlds! inasmuch as I am
+able to comprehend the meaning of the Lord Buddha’s discourse, when
+the Lord Buddha was a disciple of Dipankara Buddha, there was no Law
+bequeathed to him whereby he attained to supreme spiritual wisdom.”
+
+The Lord Buddha endorsed these words, saying:[5] “Truly there is no
+Law by means of which the Lord Buddha obtained supreme spiritual
+wisdom. Subhuti, if there existed a Law by means of which the Lord
+Buddha obtained supreme spiritual wisdom, Dipankara Buddha would not
+have foretold at my initiation, ‘In future ages[6] thou shalt become
+Sakyamuni Buddha.’ But, in reality, there is no Law by means of which
+supreme spiritual wisdom can be obtained. Therefore, at my initiation,
+Dipankara Buddha foretold concerning me, ‘In future ages, thou shalt
+become Sakyamuni Buddha.’ And why? Because, in the word _Buddha_.[7]
+every Law is summarily and intelligibly comprehended.” “If a disciple
+affirmed that the Lord Buddha attained to supreme spiritual wisdom, it
+is necessary to state that there is no Law whereby this condition of
+mind can be realised. The supreme spiritual wisdom to which the Lord
+Buddha attained, cannot, in its essence, be defined as real or unreal.
+Thus, the Lord Buddha declared that the ordinarily accepted term, ‘the
+Buddhic Law,’ is synonymous with every moral and spiritual Law.
+Subhuti, what are ordinarily declared to be ‘systems of Law,’ are not
+in reality ‘systems of Law,’ they are merely termed ‘systems of Law.’”
+
+The Lord Buddha enquired of Subhuti, saying: “Can you imagine a man
+having a great physical body?” Subhuti replied, saying: “The Lord
+Buddha, discoursing upon the proportions of a physical body, did not
+maintain for these any _real_ greatness, therefore it is merely termed
+‘a great body.”’
+
+The Lord Buddha, thereupon, addressed Subhuti, saying: “Thus it is
+with an enlightened disciple: if he were to expatiate after this
+manner, ‘I must become oblivious to every idea of sentient life,’[8]
+he could not be described as fully enlightened. And why? Because,
+there is no Law whereby a disciple can be approved as ‘fully
+enlightened.’[9] Therefore, the Lord Buddha declared that within the
+realm of spiritual Law, there is neither an entity, a being, a living
+being, nor a personality.”
+
+The Lord Buddha addressed Subhuti, saying: “If an enlightened disciple
+were to speak in this wise, ‘I shall create numerous Buddhist
+kingdoms,’ he could not be designated ‘fully enlightened.’ And why?
+Because, the Lord Buddha, discoursing upon ‘creating numerous Buddhist
+kingdoms,’ did not affirm the idea of creating numerous ‘material’
+Buddhist kingdoms, hence the ‘creation of numerous Buddhist kingdoms’
+is merely a figure of speech. Subhuti, the Lord Buddha declared that a
+disciple may be regarded as ‘truly enlightened,’ whose mind is
+thoroughly imbued with the Law of non-individuality.”[10]
+
+  [1] “Let a man restraining all these remain in devotion.... For
+  he, whose senses are under his control, possesses spiritual
+  knowledge. Attachments to objects of sense arise in a man who
+  meditates upon them; from attachment arises desire; from desire
+  passion springs up; from passion comes bewilderment; from
+  bewilderment, confusion of the memory; from confusion of the
+  memory, destruction of the intellect; from destruction of the
+  intellect, he perishes.”—_Bhagavad-Gita_. J. Cockburn Thomson.
+
+  [2] “He should thus frame his thought: all things must be
+  delivered by me in the perfect world of Nirvana.... And why?
+  Because, O Subhuti, there is no such thing as one who has entered
+  on the path of the Bodhisattva.”—_The Vagrakkhedika_. Max Müller.
+
+  [3] “Such scenes as the following, illustrating the beliefs of the
+  time and the locality, would not seldom occur. A wayfarer in the
+  country of the Getæ (Jats) (Afghanistan) knocks at the door of a
+  Brahman family. A young man within answers: ‘There is No One in
+  this house.’ The traveller was too well taught in Buddhism not to
+  know the meaning of this philosophical nihilism, and at once
+  answered, ‘Who is No One?’ The young man, when he heard this, felt
+  that he was understood. A kindred spirit was outside. Hurriedly he
+  opened the door, and invited the stranger to enter. The visitor
+  was the patriarch of the time (seventeenth), with staff and rice
+  bowl, travelling to teach and make new disciples.”—_Chinese
+  Buddhism_. Edkins.
+
+  [4] Most writers on the Buddhist faith and religion have occasion
+  to refer to the series of events which culminated in the Lord
+  Buddha obtaining “supreme enlightenment.” The founder of the
+  Buddhist faith, dissatisfied with the practice of asceticism, and
+  disappointed by his unfaithful disciples, walked meditatively
+  towards the river Nairanjara, where Sujata, “the daughter of a
+  neighbouring villager,” provided him with his morning meal.
+  Seating himself under a sacred Bo-Tree, immediately he became
+  engaged in the severest of mental conflicts. The Buddhist authors
+  describe their Master as sitting “sublime,” “calm,” and “serene”
+  throughout the sustained assault of a “visible” and wicked
+  tempter, assisted by legions of evil spirits. So unrelenting was
+  the fierce encounter, that the forces of nature shook and were
+  convulsed under the dreadful onslaught. As the day advanced, the
+  spiritual elements in Buddha’s nature gradually gained the
+  ascendency; and when he became “fully enlightened,” there was
+  revealed to him an antidote for human woe. The mind of the Lord
+  Buddha thereafter assumed an aspect of perfect peace; “and in _the
+  power over the human heart of inward culture, and of love to
+  others_,” the great Teacher discovered a foundation of Truth,
+  where, with assurance of faith, he could securely rest. As Milton
+  regarded “Paradise” to be “regained” in the wilderness, and not on
+  Calvary; in like manner the Buddhist poets indicate a belief that
+  the experience of their Master under the Bo-Tree was the most
+  eventful in his history. That is the reason they regard the
+  Bo-Tree with a reverence resembling the Christian veneration of
+  the Cross. (Compare Davids’ _Buddhism_.)
+
+  [5] Buddha said: “Right! Right! Subhuti, there is in truth no
+  fixed Law (by which) Tathagata attained this condition. Subhuti,
+  if there had been such a Law, then Dipankara Buddha would not have
+  said in delivering the prediction concerning me: ‘you in after
+  ages must attain to the state of Buddha, and your name shall be
+  Sakyamuni,’ so that because there is indeed no fixed Law for
+  attaining the condition of ‘the perfect heart,’ on that account it
+  was Dipankara Buddha delivered his prediction in such
+  words.”—_Kin-Kong-King_. Beal.
+
+  [6] “To the pious Buddhist it is a constant source of joy and
+  gratitude that ‘the Buddha,’ not only then, but in many former
+  births, when emancipation from all the cares and troubles of life
+  was already within his reach, should again and again, in mere love
+  for man, have condescended to enter the world, and live amidst the
+  sorrows inseparable from finite existence.”—_Buddhism_. T. W. Rhys
+  Davids.
+
+  [7] “And why, O Subhuti, the name of Tathagata? It expresses ‘true
+  suchness.’ And why Tathagata, O Subhuti? It expresses that ‘he had
+  no origin.’ And why Tathagata, O Subhuti? It expresses ‘the
+  destruction of all qualities.’ And why Tathagata, O Subhuti? It
+  expresses ‘one who has no origin whatever.’ And why this? Because,
+  O Subhuti, ‘no origin is the highest goal.’”—_The Vagrakkhedika_.
+  Max Müller.
+
+  The familiar word Buddha, seems to convey to devout Buddhist
+  minds, a meaning consonant with the ethical idea of Love, as
+  understood generally by the followers of Christ. Within it are
+  potential spiritual elements, which, according to their judgment,
+  perfectly fulfil the Law. The Chinese text, _Ju-Lai-che,
+  chi-chu-fah-ru-i_, may bear the following interpretation, _Buddha
+  is the One in whom all Laws become intelligible_. With this
+  particular definition before us, and bearing in mind the general
+  substance of the Mahayana faith, we may perhaps appreciate the
+  sense in which the distinguished missionary, Dr Richard of
+  Shanghai, ventured to render the Chinese term _Ju-Lai_ (Buddha),
+  in a translation of Asvaghocha’s _The Awakening of Faith_, by the
+  English synonym God. Few Christians would controvert the statement
+  _that God, is the One in whom all Laws become intelligible!_
+
+  [8] “And if a Bodhisattva were to say: ‘I shall deliver all
+  beings,’ he ought not to be called a Bodhisattva. And why? Is
+  there anything, O Subhuti, that is called a Bodhisattva? Subhuti
+  said: ‘Not indeed!’ Bhagavat said: ‘Those who were spoken of as
+  beings, beings indeed, O Subhuti, they were spoken of as no beings
+  by the Tathagata, and, therefore, they are called beings.
+  Therefore Tathagata says: “All beings are without self, all beings
+  are without life, without manhood, without personality.”’”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “Subhuti, so it is with the Bodhisatwa, if he should say: ‘I ought
+  to destroy all recollection of the countless kinds of creatures,’
+  this Bodhisatwa would not be really one, but only a nominal
+  one.... Hence Buddha says that all things ought to be without any
+  individual distinction.”—_Kin-Kong-King_. Beal.
+
+  [9] “The fountain of knowledge is the pure, bright,
+  self-enlightening mind.”—_Twan-Tsi-Sin-Yao_ (_Tang Dynasty_).
+  Compare Edkins’ _Chinese Buddhism_.
+
+  [10] “A Bodhisattva, O Subhuti, who believes that all things are
+  without self, he has faith, he is called a noble-minded
+  Bodhisattva by the holy and fully enlightened Tathagata.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  In the _Mo-Wei-Sutra_, the ordinary concepts of an entity, a
+  being, a living being, or a personality, are referred to as
+  _blots_ or _stains_ upon the mind.
+
+
+[Chapter 18]
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? Does the
+Lord Buddha possess the physical eye?” Subhuti assented, saying:
+“Honoured of the Worlds! the Lord Buddha truly possesses the physical
+eye.”
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? Does the
+Lord Buddha possess the divine or spiritual eye?” Subhuti assented,
+saying: “Honoured of the Worlds! the Lord Buddha truly possesses the
+divine or spiritual eye.”
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? Does the
+Lord Buddha possess the eye of wisdom?” Subhuti assented, saying:
+“Honoured of the Worlds! the Lord Buddha truly possesses the eye of
+wisdom.”
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? Does the
+Lord Buddha possess the eye of truth?”[1] Subhuti assented, saying:
+“Honoured of the Worlds! the Lord Buddha truly possesses the eye of
+truth.”
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? Does the
+Lord Buddha possess the Buddhic eye?” Subhuti assented, saying:
+“Honoured of the Worlds! the Lord Buddha truly possesses the Buddhic
+eye.”[2]
+
+The Lord Buddha enquired of Subhuti, saying: “What think you?
+Concerning the sands of the Ganges, did the Lord Buddha declare that
+these were grains of sand?” Subhuti assenting, said: “Honoured of the
+Worlds! the Lord Buddha declared that these were grains of sand.”
+
+The Lord Buddha enquired of Subhuti, saying: “What think you? If there
+were as many rivers Ganges as there are grains of sand in the Ganges,
+and if there were as many Buddhist worlds as the grains of sand in
+those innumerable rivers, would these Buddhist worlds be numerous?”
+Subhuti replied, saying: “Honoured of the Worlds! these Buddhist
+worlds would be very numerous.”
+
+The Lord Buddha, continuing, addressed Subhuti, saying: “Within these
+innumerable worlds, every form of sentient life, with their various
+mental dispositions, are entirely known to the Lord Buddha.[3] And
+why? Because, what the Lord Buddha referred to as their ‘various
+mental dispositions,’ are not in reality their ‘various mental
+dispositions,’ these are merely termed their ‘various mental
+dispositions.’ And why? Because, Subhuti, dispositions of mind, or
+modes of thought, whether relating to the past, the present, or the
+future, are alike unreal and illusory.”
+
+  [1] The Chinese _Fah-Yen_—literally, Eye of the Law.
+
+  “The second of the three great treasures is called _Dhamma_, or in
+  Singhalese, _Dharmma_. This word has various meanings, but is here
+  to be understood in the sense of Truth. It is not unfrequently
+  translated ‘the Law,’ but this interpretation gives an idea
+  contrary to the entire genius of Buddhism. The _Dharmma_ is
+  therefore emphatically the Truth.”—_Eastern Monachism_. Spence
+  Hardy.
+
+  [2] “Supernatural talents, which the founder of Buddhism,
+  Sakyamuni, is believed to have acquired in the night before he
+  became Buddha, and which every Arhat takes possession of by means
+  of the fourth degree of _Dhyana_ (abstract contemplation). Most
+  Chinese texts reckon six such talents, while the Singhalese know
+  only five. Sometimes, however, only five are mentioned.”—_Handbook
+  of Chinese Buddhism_. Eitel.
+
+  The physical eye has an ordinary local function. The divine or
+  spiritual eye has a universal function. The eye of wisdom is
+  affiliated with the Law, and attests its immutability. The eye of
+  truth is exegetical and synthetical. The Buddhic eye is the
+  instrument of salvation.—_Chinese Annotation_.
+
+  [3] “Bhagavat said, as many beings as there would be in all those
+  worlds, I know the manifold trains of thought of them all. And
+  why? Because, what was preached as the trains of thought, the
+  trains of thought indeed, O Subhuti, that was preached by
+  Tathagata as no train of thoughts, and therefore it is called the
+  train of thoughts. And why? Because, O Subhuti, a past thought is
+  not perceived, a future thought is not perceived,, and the present
+  thought is not perceived.”—_The Vagrakkhedika_. Max Müller.
+
+  “Gautama himself was very early regarded as omniscient, and
+  absolutely sinless. His perfect wisdom is declared by the ancient
+  epithet of Samma-Sambuddha, ‘the completely enlightened one,’
+  found at the commencement of every Pali text; and at the present
+  day in Ceylon, the usual way in which Gautama is styled is
+  _Sarwajnan-Wahanse_, ‘the venerable omniscient one.’ From his
+  perfect wisdom, according to Buddhist belief, his sinlessness
+  would follow as a matter of course.”—_Buddhism_. T. W. Rhys Davids.
+
+
+[Chapter 19]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? If a
+disciple, having obtained all the treasures of this universe,[1] were
+to bestow these in the exercise of charity, would such a disciple
+consequently enjoy a considerable merit?” Subhuti assenting, said:
+“Honoured of the Worlds! such a disciple would consequently enjoy a
+very considerable merit.”[2]
+
+The Lord Buddha thereupon addressed Subhuti, saying: “If there were
+any real or permanent quality in merit, the Lord Buddha would not have
+spoken of such merit as ‘considerable.’ It is because there is neither
+a tangible nor material quality in merit, that the Lord Buddha
+referred to the merit of that disciple as ‘considerable.’”
+
+  [1] The seven treasures—gold, silver, pearls, coral, cornelian,
+  glass, and crystal.
+
+  [2] “Because, what was preached as a stock of merit, a stock of
+  merit indeed, O Subhuti, that was preached as no stock of merit by
+  the Tathagata, and therefore it is called a stock of merit. If, O
+  Subhuti, there existed a stock of merit, Tathagata would not have
+  preached a stock of merit, a stock of merit indeed!”—_The
+  Vagrakkhedika_. Max Müller.
+
+  Within the meaning of the Buddhic Law, charity is purely a
+  spiritual concept; and merit consequent upon fulfilling the Law of
+  charity, must have a purely spiritual realisation. This is the
+  sense in which the Lord Buddha referred to merit as
+  “considerable.”—_Chinese Annotation_.
+
+
+[Chapter 20]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? Can the
+Lord Buddha be perceived by means of his perfect material body?”[1]
+Subhuti replied, saying: “Honoured of the Worlds! it is improbable
+that the Lord Buddha can be perceived by means of his perfect material
+body. And why? Because, what the Lord Buddha referred to as a ‘perfect
+material body,’ is not in reality a ‘perfect material body,’ it is
+merely termed a ‘perfect material body.’”
+
+The Lord Buddha addressed Subhuti, saying: “What think you? Can the
+Lord Buddha be perceived by means of any physical phenomena?”[2]
+Subhuti replied, saying: “Honoured of the Worlds! it is improbable
+that the Lord Buddha can be perceived by means of any physical
+phenomena. And why? Because, what the Lord Buddha referred to as
+‘physical phenomena,’ are not in reality ‘physical phenomena,’ these
+are merely termed ‘physical phenomena.’”
+
+  [1] “The first of the Buddha’s bodies is the _Dharma-Kaya_ (body
+  of the Law), supposed to be a kind of ethereal essence of a highly
+  sublimated nature and co-extensive with space. This essence was
+  believed to be eternal, and after the Buddha’s death, was
+  represented by the Law or doctrine (_Dharma_) he taught.”
+
+  “The second body is the _Sambhoga-Kaya_, ‘body of conscious
+  bliss,’ which is of a less ethereal and more material nature than
+  the last. Its Brahmanical analogue appears to be the intermediate
+  body (belonging to departed spirits) called _Bhoga-Deha_, which is
+  of an ethereal character, though composed of sufficiently gross
+  (Sthula) material particles to be capable of experiencing
+  happiness or misery.”
+
+  “The third body is the _Nirmana-Kaya_, ‘body of visible shapes and
+  transformations,’ that is to say, those various concrete material
+  forms in which every Buddha who exists as an invisible and eternal
+  essence, is manifested on the earth or elsewhere for the
+  propagation of the true doctrine.”—_Buddhism_. Sir Monier Williams.
+
+  [2] “What think you then, O Subhuti, is a Tathagata to be seen
+  (known) by the shape of his visible body? Subhuti said, not
+  indeed, a Tathagata is not to be seen (known) by the shape of his
+  visible body. And why? Because, what was preached as the shape of
+  the visible body, the shape of the visible body indeed, that was
+  preached by Tathagata as no-shape of the visible body, and
+  therefore it is called the shape of the visible body.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  Herein is exemplification of the surpassing excellence of
+  spiritual phenomena: although outwardly possessed of the
+  thirty-two primal signs of a Buddha, there were also the essential
+  evidences of those marvellous spiritual perfections which
+  constitute the _real_ Buddha.—_Chinese Annotation_.
+
+
+[Chapter 21]
+
+The Lord Buddha addressed Subhuti, saying: “Do not affirm that the
+Lord Buddha thinks thus within himself, ‘I ought to promulgate a
+system of Law or doctrine.’ Have no such irrelevant thought! And why?
+Because, if a disciple affirmed that the Lord Buddha promulgated a
+system of Law or doctrine, he would defame the Lord Buddha, being
+manifestly unable to understand the purport of my instruction.
+Subhuti, regarding the promulgation of a ‘system of Law or doctrine,’
+there is in reality no ‘system of Law or doctrine’ to promulgate, it
+is merely termed a ‘system of Law or doctrine.’”[1]
+
+Upon that occasion, the virtuous and venerable Subhuti enquired of the
+Lord Buddha, saying: “Honoured of the Worlds! in ages to come, will
+sentient beings destined to hear this Law,[2] engender within their
+minds the essential elements of faith?” The Lord Buddha replied,
+saying: “Subhuti, it cannot be asserted that these are sentient
+beings, or that these are not sentient beings. And why? Because,
+Subhuti, regarding ‘sentient beings,’ the Lord Buddha declared that in
+reality these are not ‘sentient beings,’ they are merely termed
+‘sentient beings.’” [3]
+
+  [1] “Bhagavat said: What do you think, O Subhuti, does Tathagata
+  think in this wise: the Law has been taught by me? Subhuti said:
+  Not indeed, O Bhagavat, does the Tathagata think in this wise: the
+  Law has been taught by me. Bhagavat said: If a man should say that
+  the Law has been taught by the Tathagata, he would say what is not
+  true; he would slander me with untruth which he has learned. And
+  why? Because, O Subhuti, it is said the teaching of the Law, the
+  teaching of the Law indeed, O Subhuti, there is nothing that can
+  be perceived by the name of the teaching of the Law.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  Eminent wisdom possesses the natural beauty of a pellucid stream,
+  flowing swiftly between rugged mountain crags; but a mind at rest
+  from ‘systems of Law or doctrine,’ is reminiscent of the
+  loveliness of a waterfall, frozen into shining icicles, and
+  resplendent in the light of the moon.—_Chinese Annotation_.
+
+  [2] “He is the best of all guides of men, no other being is like
+  unto him; he is like a jewel, of imperishable glory, who hears
+  this Law with a pure heart.”—_The Buddha-Karita_. E. B. Cowell.
+
+  [3] “Bhagavat said: These, O Subhuti, are neither beings nor
+  no-beings. And why? Because, O Subhuti, those who were preached as
+  beings, beings indeed, they were preached as no-beings by the
+  Tathagata, and therefore they are called beings.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  Although these are ordinarily referred to as sentient beings,
+  there are spiritual elements in their real natures, which place
+  them in a category only imperfectly described by the term
+  “sentient beings”; but possessing also evident material qualities,
+  it might be an error to assert that these are not “sentient
+  beings”; hence the declaration of the Lord Buddha, “they are
+  merely termed sentient beings.”—_Chinese Annotation_.
+
+
+[Chapter 22]
+
+Subhuti enquired of the Lord Buddha, saying: “Honoured of the Worlds!
+did the Lord Buddha, in attaining to supreme spiritual wisdom, obtain
+nothing of a real or tangible nature?” The Lord Buddha replied,
+saying: “In attaining to supreme spiritual wisdom, not a vestige of
+Law or doctrine was obtained,[1] and therefore it is termed ‘supreme
+spiritual wisdom.’”
+
+  [1]“To affirm the existence of anything real or tangible in the
+  nature of the Law, would be tantamount to being firmly bound by
+  the Law; but to affirm that ‘not even the vestige of Law or
+  doctrine was obtained,’ is the equivalent of being absolutely free
+  from the Law.”—_Yen-Ping_ (a Chinese monk).
+
+  “Buddha said: ‘True, true, Subhuti! I, as possessed of this heart,
+  have come into the condition above described. This term the
+  unsurpassed, just, and enlightened heart, is but a mere
+  name.’”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 23]
+
+The Lord Buddha addressed Subhuti, saying: “This Law is coherent and
+indivisible,[1] it is neither ‘above’ nor ‘below,’[2] therefore it is
+termed ‘supreme spiritual wisdom.’ It excludes such arbitrary ideas as
+an entity, a being, a living being, or a personality; but includes
+every Law pertaining to the cultivation of goodness.[3] Subhuti, what
+were referred to as ‘Laws pertaining to goodness,’ these the Lord
+Buddha declared are not in reality ‘Laws pertaining to goodness,’ they
+are merely termed ‘Laws pertaining to goodness.’”[4]
+
+[1] The Abbé Dubois in his valuable book, _Hindu Manners, Customs,
+and Ceremonies_, carefully observes that amongst the attributes
+which the Jains ascribe to the Supreme Being, the first is that He
+is “one” and “indivisible”; and this observation of the learned
+Abbé becomes quite illuminating, when we remember the intimate
+relationship which has existed between the Jains and the Law of
+Buddha.
+
+  [2] “Within it first arose desire, the primal germ of mind,
+       Which nothing with existence links, as sages searching find.
+       The cord, transversely stretched, that spanned this universal
+         frame,
+       Was it beneath? was it above? can any sage proclaim?”
+
+  “Progress of the Vedic religion towards abstract conceptions of
+  the Deity.” J. Muir (_Journal of the Royal Asiatic Society_).
+
+  [3] “Free from self, free from life, free from personality, that
+  highest perfect knowledge is always the same, and thus known with
+  all good things. And why? Because, what was preached as good
+  things, good things, indeed, O Subhuti, they were preached by the
+  Tathagata as no-things, and therefore are they called good
+  things.”—_The Vagrakkhedika_. Max Müller.
+
+  “This condition which is named the unsurpassed, just, and
+  enlightened (heart), consists in nothing more than the exclusion
+  of all individual distinctions. A man who practices all the rules
+  of virtuous conduct will forthwith attain this condition. But,
+  Subhuti, when we speak of rules of virtuous conduct, Tathagata
+  declares that these rules are after all no real and lasting rules;
+  the term is but a mere name,”—_Kin-Kong-King_. Beal.
+
+  [4] The six Paramita—charity, morality, endurance, energy,
+  contemplation, wisdom, comprehended under the term “Laws
+  pertaining to goodness,” merely constitute an open door by means
+  of which disciples are ushered into the presence of
+  truth.—_Chinese Annotation_.
+
+
+[Chapter 24]
+
+The Lord Buddha addressed Subhuti, saying: “If within this universe of
+universes, the seven treasures[1] were heaped together, forming as
+many great elevations as there are Sumerus, prince of mountains, and
+these treasures bestowed entirely in the exercise of charity; and if a
+disciple were to select a stanza of this Scripture, rigorously observe
+it, and diligently explain it to others, the merit[2] thus obtained
+would so far exceed the former excellence, that it cannot be stated in
+terms of proportion, nor comprehended by any analogy.”[3]
+
+  [1] Gold, silver, pearls, coral, cornelian, glass, and crystal.
+
+  [2] “And whosoever in days when the good Law is abolished, abandons
+  love for his own body and life, and proclaims day and night these
+  good words—pre-eminent is his merit from this.”
+
+  “He obtains a glorious and endless splendour who teaches even one
+  word thereof; he will not miss one consonant nor the meaning who
+  gives this Sutra to others.”
+
+  “Therefore let those who are endowed with lofty ambitions, always
+  hear this Law which causes transcendent merit; let them hear it
+  and gladly welcome it and lay it up in their minds and continually
+  worship the three jewels (the Buddha, the Law, and the assembly of
+  monks) with faith.”—_Buddha-Karita_. E. B. Cowell.
+
+  [3] “I declare that his happiness and consequent merit would be
+  incomparably greater than that of the other, so much so, that no
+  number could express the excess of one over the
+  other.”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 25]
+
+The Lord Buddha addressed Subhuti, saying: “What think you? You
+disciples, do not affirm that the Lord Buddha reflects thus within
+himself, ‘I bring salvation to every living being.’ Subhuti, entertain
+no such delusive thought! And why? Because, in reality there are no
+living beings to whom the Lord Buddha can bring salvation.[1] If there
+were living beings to whom the Lord Buddha could bring salvation, the
+Lord Buddha would necessarily assume the reality of such arbitrary
+concepts as an entity, a being, a living being, and a personality.
+Subhuti, what the Lord Buddha adverted to as an entity, is not in
+reality an entity; it is only understood to be an entity, and believed
+in as such, by the common, uneducated people. Subhuti, what are
+ordinarily referred to as the ‘common, uneducated people,’ these the
+Lord Buddha declared to be not merely ‘common, uneducated people.’”[2]
+
+  [1] As the primordial human mind is void and quiescent, so also is
+  the wisdom of this Sutra full and overflowing. Therefore, hearing
+  the text of this Sutra expounded, and meditating upon its truth,
+  there are formed spontaneously within the minds of those living
+  beings, all the essential elements of salvation. As these mature
+  and develop into a Law of spiritual liberty, the Lord Buddha
+  obviously relinquishes every duty consonant with the idea of a
+  delegated Saviour.—_Chinese Annotation_.
+
+  “What do you think then, O Subhuti, does a Tathagata think in this
+  wise: beings have been delivered by me? You should not think so.
+  And why? Because, there is no being that has been delivered by the
+  Tathagata. And if there were a being, O Subhuti, that had been
+  delivered by the Tathagata, then Tathagata would believe in a
+  self, a being, a living being, and a person. And what is called a
+  belief in self, O Subhuti, that is preached as a no-belief by the
+  Tathagata. And this is learned by children and ignorant persons,
+  and they who were preached as children and ignorant persons, O
+  Subhuti, were preached as no-persons by the Tathagata, and
+  therefore they are called children and ignorant persons.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  [2] “Difference there is in beings endowed with bodies, but
+  amongst men this is not the case, the difference amongst men is
+  nominal only.”—_Dhammapada_. Max Müller.
+
+  “Worldly profit is fleeting and perishable, religious (holy) profit
+  is eternal and inexhaustible; a man though a king is full of
+  trouble, a common man who is holy, has everlasting
+  rest.”—_Fo-Sho-Hing-Tsan-King_. Beal.
+
+
+[Chapter 26]
+
+The Lord Buddha addressed Subhuti, saying: “Can the Lord Buddha be
+perceived by means of his thirty-two bodily distinctions?”[1] Subhuti
+replied, saying: “Even so,[2] the Lord Buddha can be perceived by
+means of his thirty-two bodily distinctions.”
+
+The Lord Buddha, continuing, said unto Subhuti: “If by means of his
+thirty-two bodily distinctions it were possible to perceive the Lord
+Buddha, then the Lord Buddha would merely resemble one of the great
+wheel-turning kings.”[3]
+
+Subhuti thereupon addressed the Lord Buddha, saying: “Honoured of the
+Worlds! According as I am able to interpret the Lord Buddha’s
+instruction, it is improbable that the Lord Buddha may be perceived by
+means of his thirty-two bodily distinctions.”
+
+Thereafter, the “Honoured of the Worlds” delivered this sublime Gatha:
+
+  “I am not to be perceived by means of any visible form,
+   Nor sought after by means of any audible sound;
+   Whosoever walks in the way of iniquity,
+   Cannot perceive the blessedness of the Lord Buddha.”[4]
+
+  [1] “This probably refers to the auspicious signs discovered in
+  Sakyamuni at his birth, which left it open whether he would become
+  a king or a Buddha.”—_The Vagrakkhedika_. Max Müller.
+
+  [2] Subhuti failed to apprehend the idea
+  as expressed by the Lord Buddha, and
+  inadvertently replied, saying: “Even so, Even
+  so.”—_Chinese Annotation_.
+
+  [3] “The portends troubled, till his dream readers
+       Augured a prince of earthly dominance,
+       A Chakravartin, such as rise to rule
+       Once in a thousand years.”—_The
+       Light of Asia_. Sir Edwin Arnold.
+
+  “A king who rules the world, and causes the wheel of doctrine
+  everywhere to revolve. The great Asoka (King of Central India, who
+  reigned near Patna, about 150–200 years after the demise of
+  Buddha) was a ‘wheel king.’ The word is Chakravarti in Sanscrit,
+  from Chakra ‘wheel,’ the symbol of activity, whether of Buddha in
+  preaching, or of kings like Asoka in ruling.”—_Chinese Buddhism_.
+  Edkins.
+
+  “Those of the Bikkhus who carry in their hearts the words of
+  excellent knowledge that is immeasurable, who are free from bonds,
+  whose fame and power and glory no man can weigh, who (in imitation
+  of their master) keep the royal chariot wheel of the kingdom of
+  righteousness rolling on, who have reached perfection in
+  knowledge.”—_Questions of King Milinda_. T. W. Rhys Davids.
+
+  [4] The following Gatha, translated by Max Müller, and concluding
+  the twenty-sixth section of _The Vagrakkhedika_, is not
+  incorporated in the Chinese text.
+
+  “A Buddha is to be seen (known) from the Law;
+   For the Lords (Buddha) have the Law-Body;
+   And the nature of the Law cannot be understood,
+   Nor can it be made to be understood.”
+
+
+[Chapter 27]
+
+The Lord Buddha said unto Subhuti: “If you think thus within yourself
+‘The Lord Buddha did not, by means of his perfect bodily distinctions,
+obtain supreme spiritual wisdom,’ Subhuti, have no such deceptive
+thought! Or if you think thus within yourself, ‘In obtaining supreme
+spiritual wisdom, the Lord Buddha declared the abrogation of every
+Law,’ Subhuti, have no such delusive thought! And why? Because, those
+disciples who obtain supreme spiritual wisdom, neither affirm the
+abrogation of any Law, nor the destruction of any distinctive quality
+of phenomena.”[1]
+
+
+  [1] “What do you think then, O Subhuti, has the highest perfect
+  knowledge been known by the Tathagata by the possession of signs?
+  You should not think so, O Subhuti. And why? Because, the highest
+  perfect knowledge will not be known by the Tathagata through the
+  possession of signs. Nor should anybody, O Subhuti, say to you
+  that the destruction or annihilation of anything is proclaimed by
+  those who have entered on the path of the Bodhisattvas.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “Subhuti, if you should think thus, ‘Tathagata, by means of his
+  personal distinctions has attained to the unsurpassable
+  condition,’ you would be wrong.... But, Subhuti, do not come to
+  such an opinion as this, viz., ‘that what is called the
+  unsurpassed, just, and enlightened heart is nothing more than the
+  mere neglect and destruction of all rules and conditions.’ Think
+  not so, for why? the exhibition of this perfect and unsurpassed
+  heart is not the consequence of having disregarded and destroyed
+  all rules, in the active discharge of duty.”—_Kin-Kong-King_. Beal.
+
+  Concerning the phenomena of Law, if these were abrogated and
+  entirely discarded, where would the mind receive its guiding
+  light, or the human spirit its power of discernment? To attempt a
+  process of reasoning apart from such necessary postulates as the
+  distinctive qualities of Law and phenomena, would prove to be as
+  futile as an effort to cross a river without a raft, and would
+  inevitably end in oblivion.—_Chinese Annotation_.
+
+
+[Chapter 28]
+
+The Lord Buddha addressed Subhuti, saying: “If an enlightened
+disciple, in the exercise of charity, bestowed as considerable an
+amount of the seven treasures as might fill worlds numerous as the
+sands of the Ganges; and if a disciple, realising that within the
+meaning and purport of the Law, there is no abstract individual
+existence,[1] perfects himself in the virtue of endurance, this latter
+disciple will have a cumulative merit, relatively greater than the
+other. And why? Because, enlightened disciples are entirely unaffected
+by considerations of ‘reward or merit.’”
+
+Subhuti thereupon enquired of the Lord Buddha, saying: “Honoured of
+the Worlds! in what respect are enlightened disciples unaffected by
+considerations of ‘reward or merit’?” The Lord Buddha replied, saying:
+“Enlightened disciples do not aspire, in a spirit of covetousness, to
+rewards commensurate with their merit; therefore, I declare that they
+are entirely unaffected by considerations of ‘reward or merit.’”[2]
+
+  [1] “And if a Bodhisattva acquired endurance in selfless and
+  uncreated things, then he would enjoy a larger stock of merit,
+  immeasurable and innumerable.”—_The Vagrakkhedika_. Max Müller.
+
+    “Nothing in this world is single,
+     All things by a law divine
+     In one another’s being mingle.”—Shelley.
+
+  [2] “Subhuti asked Buddha: World-honoured One! what is this you
+  say, that Bodhisatwas cannot be said to appreciate reward?
+  ‘Subhuti, the reward which a Bodhisatwa enjoys ought to be
+  connected with no covetous desire; this is what I mean by
+  non-appreciation of reward.’”—_Kin-Kong-King_. Beal.
+
+  This passage, concluding the twenty-eighth section of _The Diamond
+  Sutra_, not being incorporated in the translation of _The
+  Vagrakkhedika_ by Max Müller, may be suggestive of a noteworthy
+  interpolation in the Chinese text, or is it a probable lacuna in
+  the Sanscrit MSS.?
+
+
+[Chapter 29]
+
+The Lord Buddha addressed Subhuti, saying: “If a disciple asserts that
+the Lord Buddha comes or goes, sits or reclines, obviously he has not
+understood the meaning of my discourse. And why? Because, the idea
+‘Buddha’ implies neither coming from anywhere, nor going to anywhere,
+and hence the synonym ‘Buddha!’”[1]
+
+  [1] “And why? Because the word Tathagata means one who does not go
+  to anywhere, and does not come from anywhere, and therefore he is
+  called the Tathagata (truly come), holy and fully
+  enlightened.”—_The Vagrakkhedika_. Max Müller.
+
+  “That which is Tathagata has no where whence to come, and no where
+  whither he can go, and is therefore named
+  Tathagata.”—_Kin-Kong-King_. Beal.
+
+  In the heavens above, we cannot discern a place whence he came,
+  nor whither he may return. In his holy, immaculate, and
+  marvellously endowed body, were manifested plenary spiritual
+  powers.—_Hua-Yen-Sutra_.
+
+  Like drifting clouds, like the waning moon, like ships that sail
+  the ocean, like shores that are washed away—these are symbolic of
+  endless change. But the blessed Buddha, in his essential, absolute
+  nature, is changeless and everlasting.—_Yuen-Chioh-Sutra_.
+
+  “If the pool be of pure water, the shining moon is reflected upon
+  its limpid surface; and yet we cannot affirm that the moon really
+  came from anywhere, or that it is actually in the pool. If the
+  pool be disturbed and the dense mud raised, immediately the bright
+  reflection becomes obscured; and yet we dare not affirm that the
+  moon has really gone to anywhere, or that it has actually departed
+  from the pool. It is entirely a question of the purity or impurity
+  of the water, and has no reasonable affinity with theories
+  concerning the existence or non-existence of the moon. So, also,
+  with the true concept of Buddha; only those whose minds are
+  immaculate in their pristine purity, can ever realise his
+  transcendent blessedness.”—_Chang-Shui_ (a Chinese monk).
+
+
+[Chapter 30]
+
+The Lord Buddha addressed Subhuti, saying: “If a good disciple,
+whether man or woman, were to take infinite worlds and ‘reduce’ them
+to minute particles of dust; what think you, would the aggregate of
+all those particles of dust be great?” Subhuti replied, saying:
+“Honoured of the Worlds! the aggregate of all those particles of dust
+would be exceedingly great. And why? Because, if all those were in
+reality ‘minute particles of dust,’ the Lord Buddha would not have
+declared them to be ‘minute particles of dust.’ And why? Because, the
+Lord Buddha, discoursing upon ‘minute particles of dust,’ declared
+that in reality those are not ‘minute particles of dust,’ they are
+merely termed ‘minute particles of dust.’”[1]
+
+Subhuti continuing, addressed the Lord Buddha, saying: “Honoured of
+the Worlds! what the Lord Buddha discoursed upon as ‘infinite worlds,’
+these are not in reality ‘infinite worlds,’ they are merely termed
+‘infinite worlds.’ And why? Because, if these were in reality
+‘infinite worlds,’ there would of necessity be unity and eternity of
+matter. But the Lord Buddha, discoursing upon the ‘unity and eternity
+of matter,’ declared that there is neither ‘unity’ nor ‘eternity of
+matter,’ therefore it is merely termed ‘unity and eternity of matter.’”
+
+The Lord Buddha thereupon declared unto Subhuti, “Belief in the unity
+or eternity of matter is incomprehensible;[2] and only common,
+worldly-minded people, for purely materialistic reasons, covet this
+hypothesis.”
+
+  [1] These minute particles of dust, like the great worlds which
+  are composed of them, are deceptive forms of natural phenomena,
+  equally unreal and evanescent. The minute particles which we
+  observe floating in space, are carried hither and thither by
+  atmospheric currents, and eventually pass into regions beyond our
+  cognisance. So, also, with the immense worlds revolving in space;
+  their ever-recurring phenomena of light and darkness, heat and
+  cold, changing seasons, transient scenes of mountain and valley,
+  river and plain. These things indicate that all are ephemeral, and
+  entirely subject to irrevocable laws of change and decay.—_Chinese
+  Annotation_.
+
+  “Because, what was preached as a mass of many atoms by the
+  Tathagata, that was preached as no-mass of atoms by the Tathagata,
+  and therefore it is called ‘a mass of many atoms.’”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “What then, if Buddha speaks of all these particles, then they are
+  not really what they are called, it is but a mere name,
+  World-Honoured One!”—_Kin-Kong-King_. Beal.
+
+  [2] “Bhagavat said, and a belief in matter itself, O Subhuti, is
+  inestimable and inexpressible; it is neither a thing nor a
+  no-thing, and this is known by children and ignorant
+  persons.”—_The Vagrakkhedika_. Max Müller.
+
+  “Annihilation of matter is inconceivable, but annihilation of all
+  its forms and qualities is conceivable.” _The World as Idea and
+  Will_. Schopenhauer.
+
+  If the worlds were real and permanent, they would always retain
+  their original forms and primordial natures, and be subject
+  neither to the influence of time nor the Law of change.—_Chinese
+  Annotation_.
+
+  “Subhuti, this characteristic of the one ‘harmonious principle,’
+  is a thing which cannot be spoken of in words; it is only the vain
+  philosophy of the world, which has grasped the idea of explaining
+  this.”—_Kin-Kong-King_. Beal.
+
+  This noteworthy statement seems to militate against some opinions
+  expressed in Europe regarding the Buddhist theory of “matter.”
+  According to our Chinese text, it does not appear that Sakyamuni
+  Buddha categorically denied the “presence” or “existence” of
+  matter in the universe, but endeavoured rather to indicate the
+  diversified and evanescent nature of its “forms” and “qualities.”
+  Many devout Buddhists regard even the smallest particle of dust as
+  containing a mysterious and elusive element—probably what we are
+  disposed to term “a spiritual element,” or “principle of life”—and
+  these are not unreasonably regarded as being altogether
+  inscrutable, and therefore “incomprehensible.”
+
+
+[Chapter 31]
+
+The Lord Buddha addressed Subhuti, saying: “If a disciple affirmed
+that the Lord Buddha enunciated a belief[1] that the mind can
+comprehend the idea of an entity, a being, a living being, or a
+personality; what think you, Subhuti, would that disciple be
+interpreting aright the meaning of my discourse?” Subhuti replied,
+saying: “Honoured of the Worlds! that disciple would not be
+interpreting aright the meaning of the Lord Buddha’s discourse. And
+why? Because, Honoured of the Worlds! discoursing upon comprehending
+such ideas as an entity, a being, a living being, and a personality,
+it was declared that these are entirely unreal and illusive, and
+therefore they are merely termed an entity, a being, a living being,
+and a personality.”
+
+The Lord Buddha thereafter addressed Subhuti, saying:[2] “Those who
+aspire to the attainment of supreme spiritual wisdom ought thus to
+know, believe in, and interpret phenomena. They ought to eliminate
+from their minds every tangible evidence of every visible object.
+Subhuti, concerning ‘visible objects,’ the Lord Buddha declared that
+these are not really ‘visible objects’ they are merely termed ‘visible
+objects.’”
+
+  [1] “Because, O Subhuti, if a man were to say that belief in self,
+  belief in a being, belief in life, belief in personality, had been
+  preached by the Tathagata, would he be speaking truly? Subhuti
+  said, not indeed, Bhagavat, he would not be speaking truly. And
+  why? Because, what was preached by the Tathagata as a belief in
+  self, that was preached as no-belief, therefore it is called
+  belief in self.”—_The Vagrakkhedika_. Max Müller.
+
+  In these words are exemplified another profound aspect of Buddhist
+  doctrine. Apart from interesting questions concerning the
+  existence of an entity, a being, a living being, or a personality,
+  another problem seems to arise regarding our ability to entirely
+  perceive or “comprehend” those admitted abstract ideas. If we
+  interpret aright the Buddhist doctrine, there are variously
+  compounded within those abstract ideas, so many elusive spiritual
+  elements, that the human mind is incapable of resolving them by
+  any process of reasoning. In short—an entity, a being, a living
+  being, or a personality, represents to the Buddhist mind, much
+  more than it attempts to express in terms of philosophy.
+
+  [2] “Thus then, O Subhuti, are all things to be perceived, to be
+  looked upon, and to be believed by one who has entered upon the
+  path of the Bodhisattvas. And in this wise are they to be
+  perceived, to be looked upon, and to be believed, neither in the
+  idea of a thing, nor in the idea of a no-thing? And why? Because
+  by saying: the idea of a thing, the idea of a thing indeed, it has
+  been preached by the Tathagata as the no-idea of a thing.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  “Subhuti, the persons who aspire to the perfectly enlightened
+  heart, ought to know accordingly that this is true with respect to
+  all things, and thus prevent the exhibition of any characteristics
+  on any point whatever. Subhuti, these very characteristics of
+  which we speak are after all no characteristics, but a mere
+  name.”—_Kin-Kong-King_. Beal.
+
+
+[Chapter 32]
+
+The Lord Buddha addressed Subhuti, saying: “If a disciple, having
+immeasurable spheres filled with the seven treasures,[1] bestowed
+these in the exercise of charity; and if a disciple, whether man or
+woman, having aspired to supreme spiritual wisdom, selected from this
+Scripture a stanza comprising four lines, then rigorously observed it,
+studied it, and diligently explained it to others; the cumulative
+merit of such a disciple would be relatively greater than the other.”
+
+“In what attitude of mind should it be diligently explained to
+others?[2] Not assuming the permanency or the reality of earthly
+phenomena, but in the conscious blessedness of a mind at perfect
+rest.[3] And why? Because, the phenomena of life may be likened unto a
+dream, a phantasm, a bubble,[4] a shadow, the glistening dew, or
+lightning flash, and thus they ought to be contemplated.”
+
+When the Lord Buddha concluded his enunciation of this Scripture,[5]
+the venerable Subhuti, the monks,[6] nuns, lay-brethren and sisters,
+all mortals, and the whole realm of spiritual beings, rejoiced
+exceedingly, and consecrated to its practice, they received it and
+departed.
+
+  [1] Gold, silver, pearls, coral, cornelian, glass, and crystal.
+
+  [2] “The wise man, the preacher, who wishes to expound this Sutra,
+  must absolutely renounce falsehood, pride, calumny, and envy....
+  He is always sincere, mild, forbearing; ... he must feel affection
+  for all beings who are striving for enlightenment ... they are
+  greatly perverted in their minds, those beings who do not hear,
+  nor perceive ... the mystery of the Tathagata. Nevertheless will I,
+  who have attained this supreme, perfect knowledge, powerfully bend
+  to it the mind of every one (Burnouf, _par la force de mes
+  facultés surnaturelles_), whatever may be the position he
+  occupies, and bring about that he accepts, understands, and
+  arrives at full ripeness.”—_Saddharma-Pundarika_. H. Kern.
+
+  [3] “By contemplation are obtained those conditions through which
+  is eventually gained that supreme calm, undecaying, immortal
+  state, which is so hard to be reached.”—_Buddha-Karita_. E. B.
+  Cowell.
+
+  “And in what way can the disciple ‘proclaim them generally?’
+  Simply by relying on no conditions or distinctions whatever; thus
+  he will act without agitation or excitement. Wherefore the
+  conclusion is this—that all things which admit of definition are
+  as a dream, a phantom, a bubble, a shadow, as the dew and
+  lightning flash. They ought to be regarded thus.”—_Kin-Kong-King_.
+  Beal.
+
+  “And how should he explain it? As in the sky: stars, darkness, a
+  lamp, a phantom, dew, a bubble, a dream, a flash of lightning, and
+  a cloud—thus should we look upon the world (all that was
+  made).”—_The Vagrakkhedika_. Max Müller.
+
+  [4] “_Fa-Hien_ stayed at the dragon Vihara till after the summer
+  retreat, and then, travelling to the south-east for seven Yojanas,
+  he arrived at the city of Kanyakubja, lying along the Ganges....
+  At a distance from the city of six or seven _Le_, on the west, on
+  the northern bank of the Ganges, is a place where Buddha preached
+  the Law to his disciples. It has been handed down that his
+  subjects of discourse were such as ‘The bitterness and vanity (of
+  life), as impermanent and uncertain,’ and that ‘The body is as a
+  “bubble” or foam on the water.’”—_Travels of Fa-Hien_. Legge.
+
+  [5] “Thus spake the Bhagavat enraptured; the elder Subhuti, and
+  the friars, nuns, the faithful lay men and women, and the
+  Bodhisattvas also, and the whole world of gods, men, evil spirits
+  and fairies, praised the preaching of the Bhagavat.”—_The
+  Vagrakkhedika_. Max Müller.
+
+  [6] “The vow of ‘obedience’ was never taken by the Buddhist monks
+  and nuns, and in this it may be noticed a fundamental difference
+  between them and monastic orders in the West: mental culture, not
+  mental death, was the aim set before the Buddhist ascetic by the
+  founder of his faith.”—_Buddhism_. T. W. Rhys Davids.
+
+
+  “_As when men, travelling, feel a glorious perfume sweet
+   Pervading all the country side, and gladdening them, infer at once,
+  ‘Surely ’tis giant forest trees are flowering now!’
+   So, conscious of this perfume sweet of righteousness
+   That now pervades the earth and heavens, they may infer:
+  ‘A Buddha, infinitely great, must once have lived!’_”
+
+
+                               INDEX
+
+
+  Alexandria, 20
+
+  Alms-bowl, 3, 5
+
+  Almsgiving, 2
+
+  Anagami, 31, 32
+
+  Ananda, 11, 12
+
+  Anepidu, 51
+
+  Anniversaries, 37
+
+  Anta-Kalpas, 42
+
+  Anuradhapura, 51
+
+  Anurogrammum, 51
+
+  Apatti, 28
+
+  Aranyaka, 35, 36, 37
+
+  Arhat, 31, 32, 33, 34, 35, 55, 78
+
+  Ari-Hat, 32
+
+  Arjuna, 57
+
+  Arnold (Sir Edwin), 11, 18, 21, 29, 40, 42, 48, 50, 55, 94
+
+  Arya, 31, 32
+
+  Aryagiti, 26
+
+  Arya-Marga, 32
+
+  Ascetic, 21
+
+  Asiatic, 89
+
+  Asoka, 94, 95
+
+  Asurus, 44
+
+  Asvaghocha, 9, 74
+
+  Atman, 51
+
+  Atoms, 48
+
+  Attavada, 12
+
+  _αὐτοδιδακτος_, 38
+
+  _Awakening of Faith_, 9, 74
+
+
+  _Bacche (The)_, 20
+
+  Bana, 35, 45, 51
+
+  Beal, 7, 10, 15, 24, 26, 28, 36, 39, 43, 45, 49, 50, etc.
+
+  Benares, 2
+
+  Benefactions, 3
+
+  _Bhagavad-Gita_, 8, 23, 34, 58, 68
+
+  Bhagavat, 23, 26, 38, 47, 54, 80, 85, 87, 103, 105, 110
+
+  Bhoga-Deha, 83
+
+  Bikkhus, 95
+
+  Bikshu, 7
+
+  Bikshuni, 7
+
+  Bodhi, 6, 35, 62, 63
+
+  Bodhisattva, 6, 38, 39, 58, 59, 69, 75, 76, 97, 98, 99, 106, 110
+
+  Bo-Tree, 70, 71
+
+  Brahman, 69
+
+  Brahmanas, 1
+
+  Brahmanical, 83
+
+  Brahmanism, 17
+
+  Buddha, 1, 3, 4, 5, 8, 9, 18, etc.
+
+  _Buddha-Karita_, 86, 91, 109
+
+  Buddhaphalam, 32
+
+  Buddhas, 7, 11, 25, 28
+
+  Buddhaship, 6, 15, 32
+
+  Buddhic, 27
+
+  Buddhism, 13, 14, 16, 19, 41, 49, 63, 72, 80, 83, 110
+
+  Burnouf, 108
+
+
+  Calingapatah, 56
+
+  Calvary, 71
+
+  Ceylon, 80
+
+  _Ceylon Friend_, 61
+
+  Chakra, 95
+
+  Chakravartin, 94, 95
+
+  Chang-Ming, 20
+
+  Chang-Shui, 101
+
+  Chiliocosms, 43, 49
+
+  China, 5, 19
+
+  _Chinese Buddhism_, 2, 7, 9, 37, 39, 40, 69
+
+  Chioh-Hsien, 11
+
+  Christ, 8, 23, 40, 63, 73
+
+  Christians, 74
+
+  Chuan-Fah-Luen, 14
+
+  Chuang-Yen, 39
+
+  Circars, 56
+
+  Coral, 25, 43, 64, 81, 107
+
+  Cornelian, 25, 43, 64, 81, 107
+
+  Cowell, E. B., 86, 91, 109
+
+  Creed, 47
+
+  Cross, 71
+
+  Crystal, 25, 43, 64, 81, 107
+
+
+  Danataka Aranyaka, 35
+
+  Davids, T. W. Rhys, 13, 29, 31, 80, 95, 110
+
+  Davis, Sir John Francis, 19
+
+  Dewa-Loka, 30
+
+  Devas, 31
+
+  Dhamma, 27, 34, 44, 52
+
+  _Dhammapada_, 34, 44, 52, 63, 93
+
+  Dhammo, 78
+
+  Dharma, 30, 35, 83
+
+  Dharma Aranyaka, 35
+
+  Dharma-Kaya, 17, 82
+
+  Dharmasala, 65
+
+  Dharmma, 27
+
+  _Diamond Sutra, The_, 37, 47
+
+  Dipankara Buddha, 37, 38, 67, 71, 72, 73
+
+  Djatakas, 2
+
+  Dubois (the Abbé), 88
+
+
+  _Eastern Monachism_, 4, 5, 16, 21, 27, 30, 35, 36, 38, 46, 51, 53,
+      61, 78
+
+  Edkins, 2, 7, 9, 39, 40, 69
+
+  Egypt, 20
+
+  Eitel, 1, 2, 6, 11, 13, 26, 28, 31, 32, 35, 37, 49, 56, 57, 58, 79
+
+  Elburz, 40
+
+  Eleusis, 65
+
+  _Enlightenment of Ananda_, 12
+
+  Euripides, 20
+
+  Europe, 20, 104
+
+
+  Fa-Hien, 2, 65, 109
+
+  Fah, 14, 60
+
+  Fah-Ai, 14
+
+  Fah-Lien, 14
+
+  Fah-Luen, 14
+
+  Fah-Men, 14
+
+  Fah-Ming, 14
+
+  Fah-Pao, 14
+
+  Fah-Shen, 16
+
+  Fah-Wang, 14
+
+  Fah-Yen, 78
+
+  Fairies, 110
+
+  Faith, 3, 27
+
+  Fausböll, 23, 27
+
+  Fei-Fuh-Fah, 28
+
+  _Fo-Sho-Hing-Tsan-King_, 93
+
+  Fox, 67
+
+  Fuh-Ko, 32
+
+  Fuh-Tu, 39
+
+
+  Gandhara, 5
+
+  Ganges, 2, 42, 51, 61, 79, 98, 109
+
+  Gatha, 26, 95
+
+  Gautama, 63, 80
+
+  German, 20
+
+  Getæ, 69
+
+  Girdle, 3
+
+  Glass, 25, 43, 64, 81, 107
+
+  God, 21, 74
+
+  Gods, 110
+
+  Gogerly, Rev. D. J., 61
+
+  Gold, 25, 43, 64, 81, 107
+
+  Gondophares, 9
+
+  Gotama, 52
+
+  Greek, 20
+
+  Gunga, 42
+
+  Hardy, Spence, 4, 16, 21, 27, 30, 35, 36, 38, 46, 51, 53, 61, 78
+
+  Hastagiri, 48
+
+  Hero, 50
+
+  Hinayana, 64
+
+  Hindoo, 64
+
+  _Hindu Manners, Customs, and Ceremonies_, 88
+
+  _Hinduism_, 66
+
+  Hiuen-Tsang, 2, 50, 53, 65
+
+  Ho-Ru-To-Lo-San-Mao-San-Pu-Ti, 7
+
+  Ho-Tan-Ju-Lai, 63
+
+  _Hua-Yen-Sutra_, 100
+
+  Hunter, Sir William, 55
+
+  Huxley, 10
+
+
+  Icicles, 86
+
+  _Idea and Will, The World as_, 48, 103
+
+  Immortality, 44
+
+  Immortals, 2
+
+  India, 7, 20
+
+  _Indian Empire, The_, 55
+
+  Indo-Scythic, 9
+
+  I-Wu-Wei-Fah, 25
+
+
+  Jains, 88
+
+  Jayendra, 53
+
+  Jesus, 18
+
+  Jeta, 2, 4
+
+  Jewels, 91
+
+
+  Kalinga, 56
+
+  Kaliradja, 56
+
+  Kalpa, 45
+
+  Kanyakubja, 109
+
+  Kashaya, 50
+
+  Kashmir, 65
+
+  Kasina, 36
+
+  Kern, H., 39, 58, 108
+
+  Khaloupas’ Waddhaktinka, 4
+
+  Kin-Kong-King, 7, 10, 15, 24, 26, 28, 36, 39, 45, 49, 59, etc.
+
+  Kingdoms, 38, 40, 76
+
+  Kos’ala, 56
+
+  Kshanti, 58
+
+  Kshantivadin, 58
+
+  Kwa-Yuh, 33
+
+
+  Lao-Tsz, 28
+
+  _Lay Sermons_, 10
+
+  Le, 109
+
+  Legge, 65, 109
+
+  _Light of Asia (The)_, 11, 18, 21, 29, 34, 40, 42, 48, 50, 55, 94,
+      etc.
+
+  _Lotus of the Good Law_, 64
+
+  Love, 73
+
+
+  Ma-Ming, 9
+
+  Madhyades’a, 5
+
+  Mahasattvas, 7
+
+  Mahayana, 62
+
+  Mantras, 1
+
+  Matanga, 35
+
+  Materialist, 48
+
+  Maya, 50, 58
+
+  Meitreya (Buddha), 5
+
+  _Memoirs sur les Contrées Occidentales_, 2
+
+  Mencius, 33
+
+  Mendicant, 4
+
+  Metamorphosis, 9
+
+  Mieh-Tu, 10
+
+  Milinda, 4, 29, 31, 33, 36, 95
+
+  Milton, 71
+
+  Mo-Ho-Sa, 7
+
+  _Mo-Wei-Sutra_, 77
+
+  Muir (J.), 89
+
+  Müller (Max), 1, 25, 26, 30, 34, 39, 42, 44, 47, 52, 54, etc.
+
+  Murray (Gilbert), 20
+
+  Myak, 7
+
+
+  Nairanjara, 70
+
+  Narakas, 46
+
+  Needle, 3
+
+  Nibbana, 23
+
+  Nihilism, 69
+
+  Nimitta, 36
+
+  Nirmanakaya, 17, 83
+
+  Nirvana, 1, 7, 8, 10, 11, 17, 18, 23, 27, 28, 30, 31, 32, 44, 46, 55,
+      62, 63, 69
+
+  Non-individuality, 76
+
+  Nuttara, 7
+
+
+  _Œdipus Coloneus_, 65
+
+  O-siu-lo, 44
+
+
+  Padumas, 48
+
+  Pali, 80
+
+  Paramita, 13, 55, 56, 90
+
+  Patna, 94
+
+  Path, 18
+
+  Paul (The Apostle), 8, 23
+
+  Pearls, 25, 43, 64, 81, 108
+
+  Persia, 5
+
+  Pilgrims, 2
+
+  Po-Ro-Po-Lo-Mi, 8
+
+  Prajna-Paramita, 9
+
+  Prakrita, 57
+
+  Prasenajit, 2
+
+  Priests, 4
+
+  Ptolemy, 51
+
+  Puh-Seng, 32
+
+  Pundarikas, 48
+
+  Pu-sa, 6
+
+
+  _Questions of King Milinda_, 4, 29, 31 33, 36, 95
+
+
+  Raft, 23
+
+  Rahat, 20
+
+  Rahatship, 35
+
+  Ran-Teng-Fuh, 37
+
+  Razor, 3
+
+  Regents, 40
+
+  Reincarnation, 30, 31
+
+  _Relation des Royaumes Buddhiques_, 5
+
+  Remusat, 5
+
+  Ren, 44
+
+  Richard (Dr), 74
+
+  Righteousness, 33
+
+  Rishi, 58
+
+  Robe, 3, 50
+
+  _Saddharma-Pundarika_, 39, 54, 58, 108
+
+  Sagara, 5
+
+  Sakkayaditthi, 12
+
+  Sakridagami, 30, 31
+
+  Sakyamuni, 2, 5, 9, 37, 72, 73, 78, 94, 104
+
+  Salvation, 10, 92, 93
+
+  Samadhi, 36
+
+  Sambhoga-Kaya, 83
+
+  Sambodhi, 7
+
+  Samma-Sambuddha, 80
+
+  Sangha, 44
+
+  San-Pao, 17
+
+  Sanscrit, 1, 7, 95, 99
+
+  Sarvanikchepa, 42
+
+  Sarwajnan-Wahanse, 80
+
+  Sasa, 45
+
+  Sattva, 6
+
+  Saviour, 92
+
+  Schelling, 20
+
+  Schopenhauer, 48, 103
+
+  Scripture, 9, 18, 19, 20, 26, 43, 45, etc.
+
+  Scrotapatti, 28, 29
+
+  Seh-Shen, 16
+
+  Selfhood, 42
+
+  Sewet, 51
+
+  Shah-Tseh, 32
+
+  Shanghai, 74
+
+  Shelley, 98
+
+  Shen-Ming, 51
+
+  Shore, 23, 47
+
+  Shravasti, 2, 4, 6
+
+  Siao-Fah, 64
+
+  Signs, 50
+
+  Silver, 25, 43, 64, 107
+
+  Singhalese, 78
+
+  Siva, 17
+
+  Sivaism, 17
+
+  Sophocles, 65
+
+  Spawn, 9
+
+  Spirits, 44, 110
+
+  Spiritualist, 48
+
+  Sramana, 36
+
+  Srota, 28
+
+  S’ruti, 1
+
+  Sthula, 83
+
+  Subhuti, 6, 8, 13, etc.
+
+  Sugata, 26
+
+  Sujata, 70
+
+  Sumeru, 40, 42, 58
+
+  Sutana, 2
+
+  Sutra, 1, 8, 27, 45, 47, 68, 77, 91, 92, 108
+
+  _Sutta-Nipata_, 23, 27, 66
+
+  Swastika, 50
+
+  Syria, 20
+
+  Sz-ti, 32
+
+
+  Ta-Cheng-Che, 62
+
+  Talents, 78
+
+  Tang (dynasty), 76
+
+  Ta-Pi-Ku, 3
+
+  Tathagata, 25, 26, 38, 47, 49, 59, 63, 72, etc.
+
+  Teacher, 3
+
+  Temples, 39
+
+  Tennyson, 23
+
+  Thomson (J. Cockburn), 8, 23, 34, 58, 68
+
+  Ti-Ching, 11
+
+  Tien, 44
+
+  Tien-Kong, 30
+
+  Ting-Kwang-Fuh, 37
+
+  Topes, 64
+
+  Treasures, 25, 43, 64, 81, 90, 107
+
+  Trimurti, 17
+
+  Triratna, 17
+
+  Truth, 27, 78, 79
+
+  Tsz-Ran-Choih-Sing, 25
+
+  Tuchita, 5
+
+  _Twan-Tsi-Sin-Yao_, 76
+
+
+  Upadanas, 13
+
+
+  _Vagrakkhedika (The)_, 25, 26, 28, 30, 39, 42, 45, 47, etc.
+
+  Vais’ali, 5
+
+  Vedas, 1
+
+  Vedic, 89
+
+  Vice, 3
+
+  Vihara, 109
+
+  Virtue, 3
+
+  Vows, 19
+
+
+  Waddhaktinka, 4
+
+  Waterfall, 86
+
+  Water-strainer, 3
+
+  West, 110
+
+  Wiharas, 51
+
+  Williams (Sir Monier), 49, 63, 66, 83
+
+  Wisdom, 3, 7, 8, 47
+
+  Wou-Wei, 24
+
+  Wu-Wei, Fah, 28
+
+
+  Yen-Ping, 88
+
+  Yogi, 20
+
+  Yojanas, 109
+
+  _Yuen-Chioh-Sutra_, 100

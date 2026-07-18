@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_64623
+  work_id: buddhist.diamond_sutra.gemmell_gutenberg
+  title: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  source_url: https://www.gutenberg.org/ebooks/64623
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/64623-diamond-sutra-gemmell.txt
+    checksum:
+      algorithm: sha256
+      value: 8c651092c8c960765663ac5ec2b4b7dcac0bd5f0805d061a582c7844cd9e614f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/64623-diamond-sutra-gemmell.md
+    checksum:
+      algorithm: sha256
+      value: c29d97acc155bff46e7a014587dc4e1759a9e7b82ba144a9575418fa634ea08a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+    checksum:
+      algorithm: sha256
+      value: 480c2ca48caa98f8591099b98060a0a84ea62749bd36ff0da04be11e79952afa
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids buddhist.diamond_sutra.gemmell_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Translated from the
+      Chinese (Kumarajiva) recension, complementing the Sanskrit-based SBE 49 version.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

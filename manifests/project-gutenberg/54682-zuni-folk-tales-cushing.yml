@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_54682
+  work_id: native_american.zuni_folk_tales.cushing_gutenberg
+  title: Zuni Folk Tales
+  source_url: https://www.gutenberg.org/ebooks/54682
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/54682-zuni-folk-tales-cushing.txt
+    checksum:
+      algorithm: sha256
+      value: 92edd17c2215098011a72d0cf5d7af37b16b2e1867a650d8bdc53dc2b7ef1da8
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/54682-zuni-folk-tales-cushing.md
+    checksum:
+      algorithm: sha256
+      value: 0aeecf45b2c368b666c1a9e5fbdc566545776f4bd069bc98421967c73402f123
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+    checksum:
+      algorithm: sha256
+      value: 0aedc36bc1e0c372943ac510988cb9c8ecccec1c7dfe2a834137cbe8e909609b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.zuni_folk_tales.cushing_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Cushing's participant-observer methods at Zuni are historically controversial,
+      and A:shiwi tradition remains living and partly restricted; frame as one ethnographer's
+      literary renderings, not authorized Zuni publication.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

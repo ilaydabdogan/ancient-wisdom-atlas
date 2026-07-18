@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_3833
+  work_id: australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  source_url: https://www.gutenberg.org/ebooks/3833
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/3833-australian-legendary-tales-parker.txt
+    checksum:
+      algorithm: sha256
+      value: b53f68075b7a169ce8fa03f6594bd91fa68278d4a465f100435241a39d01233b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/3833-australian-legendary-tales-parker.md
+    checksum:
+      algorithm: sha256
+      value: d3a34f20a120bdc2e0637c3d256bfadca8fea8a08946ca56fd8420a17e5570d6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+    checksum:
+      algorithm: sha256
+      value: a5abd5d9598d0e607363b3a95bd18a0941b39271785209488aa6f03be55a7fa6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids australian.australian_legendary_tales.parker_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Colonial recording context
+      - Parker was a settler pastoralist who recorded Yuwaalaraay (Euahlayi) narratives
+      from Aboriginal people living on her station; the Dreaming remains a living
+      religious tradition, some knowledge is gender- or initiation-restricted, and
+      the collection's framing (including its period title) reflects 1890s colonial
+      attitudes. Frame as mediated settler recordings, not authorized community publication.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

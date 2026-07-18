@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_15932
+  work_id: egyptian.literature_ancient_egyptians.budge_gutenberg
+  title: The Literature of the Ancient Egyptians
+  source_url: https://www.gutenberg.org/ebooks/15932
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/15932-literature-of-ancient-egyptians-budge.txt
+    checksum:
+      algorithm: sha256
+      value: c96dba9ff3305bac62d2670dc7450b1106eb1c777d6e6187d2f55b052f2cc92a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/15932-literature-of-ancient-egyptians-budge.md
+    checksum:
+      algorithm: sha256
+      value: 7d5a257e944ef787b167e44392cbeb6cc29fcd447810dfde60191ba6f7d89733
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+    checksum:
+      algorithm: sha256
+      value: 8f2107a5d23925b91c3eeec320664b6d80124c7568646a0c07a28184e5fe127e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids egyptian.literature_ancient_egyptians.budge_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

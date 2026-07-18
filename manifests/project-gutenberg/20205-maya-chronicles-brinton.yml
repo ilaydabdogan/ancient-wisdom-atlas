@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_20205
+  work_id: mesoamerican.maya_chronicles.brinton_gutenberg
+  title: The Maya Chronicles
+  source_url: https://www.gutenberg.org/ebooks/20205
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/20205-maya-chronicles-brinton.txt
+    checksum:
+      algorithm: sha256
+      value: b6b1ae3eb67cc4112b0c8530971dd30154f02d65c2f8e63d5fd8f09a9b8af96c
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/20205-maya-chronicles-brinton.md
+    checksum:
+      algorithm: sha256
+      value: dbfa7840b491338094207cdb993ad55701eb0ea66418df7b16f6157cb6becf51
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+    checksum:
+      algorithm: sha256
+      value: af0eb8cac3acf917095e88dbafa616a69383a0ddd6819aca7c9078af789753e4
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids mesoamerican.maya_chronicles.brinton_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Contains Maya-language
+      texts with Brinton's translations of katun chronicles from the Books of Chilan
+      Balam; his readings predate modern Maya epigraphy and need scholarly caveats.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_6516
+  work_id: christian.apocryphal_gospels.wake_gutenberg
+  title: The suppressed Gospels and Epistles of the original New Testament of Jesus
+    the Christ, Complete
+  source_url: https://www.gutenberg.org/ebooks/6516
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/6516-suppressed-gospels-epistles-wake.txt
+    checksum:
+      algorithm: sha256
+      value: 7cc1c7cdde2998af6f966c80b4690a569414bdf5b038bb18ce770657dec64202
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/6516-suppressed-gospels-epistles-wake.md
+    checksum:
+      algorithm: sha256
+      value: 3c0f1038dd468bcd53b28add29567bbd10c6f3aa1aac673ec758800671ad852c
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+    checksum:
+      algorithm: sha256
+      value: 1f19d1c67ed712291187d887c395abb9c95783981c55e91ac3094dc26b786e60
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids christian.apocryphal_gospels.wake_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Wake's translations date to 1693 and circulated in 19th-century apocryphal
+      New Testament collections; unquestionably public domain. Project Gutenberg catalog
+      records public-domain status in the USA.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

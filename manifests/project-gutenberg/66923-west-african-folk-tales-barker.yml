@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_66923
+  work_id: african.west_african_folk_tales.barker_gutenberg
+  title: West African Folk-Tales
+  source_url: https://www.gutenberg.org/ebooks/66923
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/66923-west-african-folk-tales-barker.txt
+    checksum:
+      algorithm: sha256
+      value: e61a4b8d99932801bd66bf489daca192d30399eed52a06bf103755740929d3e2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/66923-west-african-folk-tales-barker.md
+    checksum:
+      algorithm: sha256
+      value: 0fbc3cdc7a27c379fd8b4fea3b207543318a8c59a5cd797d1245512c4d920d87
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+    checksum:
+      algorithm: sha256
+      value: 6cd42693b485219824c16b787c01891e42690afa6ded3a28055f540aaa2e32a2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.west_african_folk_tales.barker_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Akan/Ashanti tales collected by colonial-era educators and retold for English
+      readers; Anansi remains a living tradition, and the retellings may smooth or
+      moralize original tellings.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

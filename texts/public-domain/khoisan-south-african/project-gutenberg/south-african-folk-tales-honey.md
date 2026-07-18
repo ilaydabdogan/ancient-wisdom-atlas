@@ -1,0 +1,2905 @@
+---
+id: african.south_african_folk_tales.honey_gutenberg
+title: South-African Folk-Tales
+alternate_titles:
+- South African Folk-Tales
+text_status: complete
+tradition: khoisan_south_african
+culture: khoikhoi_san_oral_traditions_colonial_compilation
+region: southern_africa_cape
+source_language: Khoikhoi and San oral traditions mediated through English
+text_language: English
+date_range: living and recently extinct oral traditions; compiled from 19th-century
+  sources, published 1910
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.project_gutenberg.38339
+  edition: 'Project Gutenberg plain-text eBook #38339'
+  translator: James A. Honey
+  editor: James A. Honey
+  publication_year: 1910
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/38339
+  access_date: '2026-07-17'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://www.gutenberg.org/policy/license.html
+  training_use: allowed
+  full_text: allowed
+  notes: Project Gutenberg records US public-domain status. Recording context - a
+    compilation drawing on earlier colonial collections (Bleek and others); mixes
+    Khoikhoi and San animal tales with some Boer and European-influenced stories,
+    so individual tales must be provenance-checked before being used in isolation
+    arguments.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- khoikhoi
+- san
+- south_africa
+- animal_tales
+- jackal
+- mantis
+motifs:
+- trickster_boundary
+- animal_helper
+- origin_of_death
+- shapeshifter
+figures:
+- Jackal
+- Lion
+- Mantis
+- Hare_and_Moon
+---
+
+# South-African Folk-Tales
+
+SOUTH-AFRICAN
+FOLK-TALES
+
+
+SOUTH-AFRICAN
+FOLK-TALES
+
+BY
+James A. Honeÿ, M.D.
+
+NEW YORK
+THE BAKER & TAYLOR COMPANY
+1910
+
+
+COPYRIGHT, 1910, BY
+THE BAKER & TAYLOR COMPANY
+
+Published, November, 1910
+
+THE TROW PRESS, NEW YORK
+
+
+AFFECTIONATELY DEDICATED
+TO
+C. F. H. AND F. I. G.
+
+
+CONTENTS
+
+
+                                              PAGE
+
+    INTRODUCTION                                 1
+
+    ORIGIN OF THE DIFFERENCE IN MODES OF
+      LIFE BETWEEN HOTTENTOTS AND BUSHMEN        8
+
+    THE LOST MESSAGE                            10
+
+    THE MONKEY'S FIDDLE                         14
+
+    THE TIGER, THE RAM, AND THE JACKAL          19
+
+    THE JACKAL AND THE WOLF                     22
+
+    A JACKAL AND A WOLF                         24
+
+    THE LION, THE JACKAL, AND THE MAN           25
+
+    THE WORLD'S REWARD                          28
+
+    THE LION AND THE JACKAL                     33
+
+    TINK-TINKJE                                 42
+
+    THE LION AND JACKAL                         45
+
+    THE LION AND JACKAL                         48
+
+    THE HUNT OF LION AND JACKAL                 53
+
+    THE STORY OF LION AND LITTLE JACKAL         56
+
+    THE LIONESS AND THE OSTRICH                 62
+
+    CROCODILE'S TREASON                         64
+
+    THE STORY OF A DAM                          73
+
+    THE DANCE FOR WATER OR RABBITS'
+      TRIUMPH                                   79
+
+    JACKAL AND MONKEY                           84
+
+    LION'S SHARE                                87
+
+    JACKAL'S BRIDE                              92
+
+    THE STORY OF HARE                           94
+
+    THE WHITE MAN AND SNAKE                    101
+
+    ANOTHER VERSION OF THE SAME FABLE          103
+
+    CLOUD EATING                               105
+
+    LION'S ILLNESS                             107
+
+    JACKAL, DOVE, AND HERON                    109
+
+    COCK AND JACKAL                            111
+
+    ELEPHANT AND TORTOISE                      112
+
+    ANOTHER VERSION OF THE SAME FABLE          115
+
+    TORTOISE HUNTING OSTRICHES                 117
+
+    THE JUDGMENT OF BABOON                     118
+
+    LION AND BABOON                            121
+
+    THE ZEBRA STALLION                         122
+
+    WHEN LION COULD FLY                        124
+
+    LION WHO THOUGHT HIMSELF WISER THAN
+      HIS MOTHER                               126
+
+    LION WHO TOOK A WOMAN'S SHAPE              129
+
+    WHY HAS JACKAL A LONG BLACK STRIPE
+      ON HIS BACK?                             137
+
+    HORSE CURSED BY SUN                        138
+
+    LION'S DEFEAT                              139
+
+    THE ORIGIN OF DEATH                        141
+
+    ANOTHER VERSION OF THE SAME FABLE          143
+
+    A THIRD VERSION OF THE SAME FABLE          144
+
+    A FOURTH VERSION OF THE SAME FABLE         146
+
+    A ZULU VERSION OF THE LEGEND OF THE
+      "ORIGIN OF DEATH"                        147
+
+    LITERATURE ON SOUTH-AFRICAN FOLK-LORE      148
+
+
+SOUTH-AFRICAN FOLK-TALES
+
+
+INTRODUCTION
+
+
+In presenting these stories, which are of deep interest and value to
+South Africans, I hope they may prove of some value to those Americans
+who have either an interest in animals or who appreciate the folklore of
+other countries.
+
+Many of these tales have appeared among English collections previous to
+1880, others have been translated from the Dutch, and a few have been
+written from childhood remembrance. Consequently they do not pretend to
+be original or unique. Care has been taken not to spoil the ethnological
+value for the sake of form or structure; and in all cases they are as
+nearly like the original as a translation from one tongue to another
+will allow. They are all South-African folklore tales and mainly from
+the Bushmen. Some are perverted types from what were originally Bushmen
+tales, but have been taken over by Hottentots or Zulus; a few are from
+the Dutch. Most of these last named will show a European influence,
+especially French.
+
+Some of the animal stories have appeared in American magazines under the
+author's name, but this is the first time that a complete collection has
+appeared since Dr. Bleek published his stories in 1864. The object has
+been to keep the stories apart from those which have a mythological or
+religious significance, and especially to keep it an animal collection
+free from those in which man appears to take a part.
+
+There will be found several versions of the same story, and as far as
+possible these will be put in the order of their importance in relation
+to the original. The author does not pretend to be an authority on
+South-African folklore, but has only a South-African-born interest in
+what springs from that country of sunshine. It is a difficult task to
+attempt to trace the origin of these stories, as there is no country
+where there have been so many distinct and primitive races dwelling
+together.
+
+The Bushmen seem to trace back to the earliest Egyptian days, when
+dwarfs were pictured on the tombs of the kings and were a distinct race.
+From then until now it has been their pride to say that before men were
+men, they were; or, to put it clearer, before Africa was inhabited by
+other races, they were there. As represented by some of these stories of
+the Bushmen, what races have not, then, had their influence on the
+folklore? According to Stow, they were a wandering primitive race of
+small men, painters and sculptors, hunters and herdsmen, and withal a
+race showing traces of wonderful reasoning and adaptability, with a keen
+sense of justice and a store of pride. Mythological some of their
+stories are, but whether this is due to the influence of the Hottentots,
+a later race, it is difficult to say. And, lastly, there are the Kaffirs
+spread over the whole of South Africa, domineering, but backward. The
+varied influences which may have affected these stories before they
+reached us show what enormous possibilities there are for error in
+tracing the origin of the animal tales here presented. Bleek finds that
+a greater congeniality exists between the Hottentot and European mind
+than is found between the latter and any other of the black races of
+Africa. Whether he means that this indicates a European origin of the
+fables, I cannot say. There is no doubt in my mind that the Bushmen came
+from the north and were the primitive race of south and tropical Africa,
+the dwarfs of Livingstone, Stanley, and other explorers. Considering,
+then, the great antiquity of this race, it naturally follows that if
+these stories are not original with the Bushmen, they are at least so
+modified as to bear no resemblance to Egyptian, Phoenician, or any other
+ancient race which the Bushmen may have come in contact with. Herodotus
+described a race on the upper Nile which corresponds with later
+descriptions of the Bushmen in tropical and southern Africa.
+
+I agree with what the _South-African Folklore Journal_ stated twenty
+years or more ago, that with the "vast strides South Africa is making in
+the progress of civilization, the native races will either be swept away
+or so altered as to lose many of their ancient habits, customs,
+traditions, or at least greatly to modify them."
+
+Knowing that by a collection of this kind these stories could best be
+preserved, and feeling that others had not read them, I began this
+collection ten years ago. There is so much done now to preserve what is
+still Bushmen folklore that I feel this small volume is indeed only a
+small addition to the folklore world.
+
+"South-African folklore is," the _South-African Folklore Journal_ says,
+"in its very nature plain, and primitive in its simplicity; not adorned
+with the wealth of palaces and precious stones to be met with in the
+folklore of more civilized nations, but descriptive in great measure of
+the events of everyday life, among those in a low state of civilization;
+and with the exception of evidences of moral qualities, and of such
+imagery as is connected with the phenomena of nature, very little that
+is grand or magnificent must be looked for in it."
+
+Bain gives a story related by a Kaffir which shows "the distribution of
+animals after the creation." This story could not become typically
+Kaffir until after the Kaffir came in contact with the European in the
+last two or three hundred years. However, the story will serve to
+illustrate the people whose stories appear in this volume and to close
+the Introduction.
+
+Teco, in Kaffir, is the Supreme Being. Teco had every description of
+stock and property.
+
+There were three nations created, viz., the Whites, the Amakosa, or
+Kaffirs, and the Amalouw, or Hottentots. A day was appointed for them to
+appear before the Teco to receive whatever he might apportion to each
+tribe. While they were assembling, a honey bird, or honey guide, came
+fluttering by, and all the Hottentots ran after it, whistling and making
+the peculiar noise they generally do while following this wonderful
+little bird. The Teco remonstrated with them about their behavior, but
+to no purpose. He thereupon denounced them as a vagrant race that would
+have to exist on wild roots and honey beer, and possess no stock
+whatever.
+
+When the fine herds of cattle were brought, the Kaffirs became very much
+excited--the one exclaiming, "That black and white cow is mine!" and
+another, "That red cow and black bull are mine!" and so on, till at last
+the Teco, whose patience had been severely taxed by their shouts and
+unruly behavior, denounced them as a restless people, who would only
+possess cattle.
+
+The Whites patiently waited until they received cattle, horses, sheep,
+and all sorts of property. Hence, the old Kaffir observed, "You Whites
+have got everything. We Kaffirs have only cattle, while the Amalouw, or
+Hottentots, have nothing."
+
+                                                  James A. Honeÿ.
+
+  CAMBRIDGE, MASS., June, 1910.
+
+
+ORIGIN OF THE DIFFERENCE IN MODES OF LIFE BETWEEN HOTTENTOTS AND BUSHMEN
+
+
+In the beginning there were two. One was blind, the other was always
+hunting. This hunter found at last a hole in the earth from which game
+proceeded and killed the young. The blind man, feeling and smelling
+them, said, "They are not game, but cattle."
+
+The blind man afterwards recovered his sight, and going with the hunter
+to this hole, saw that they were cows with their calves. He then quickly
+built a kraal (fence made of thorns) round them, and anointed himself,
+just as Hottentots (in their native state) are still wont to do.
+
+When the other, who now with great trouble had to seek his game, came
+and saw this, he wanted to anoint himself also. "Look here!" said the
+other, "you must throw the ointment into the fire, and afterwards use
+it." He followed this advice, and the flames flaring up into his face,
+burnt him most miserably; so that he was glad to make his escape. The
+other, however, called to him: "Here, take the kirri (a knobstick), and
+run to the hills to hunt there for honey."
+
+Hence sprung the race of Bushmen.
+
+
+THE LOST MESSAGE
+
+
+The ant has had from time immemorial many enemies, and because he is
+small and destructive, there have been a great many slaughters among
+them. Not only were most of the birds their enemies, but Anteater lived
+almost wholly from them, and Centipede beset them every time and at all
+places when he had the chance.
+
+So now there were a few among them who thought it would be well to hold
+council together and see if they could not come to some arrangement
+whereby they could retreat to some place of safety when attacked by
+robber birds and animals.
+
+But at the gathering their opinions were most discordant, and they could
+come to no decision.
+
+There was Red-ant, Rice-ant, Black-ant, Wagtail-ant, Gray-ant,
+Shining-ant, and many other varieties. The discussion was a true babel
+of diversity, which continued for a long time and came to nothing.
+
+A part desired that they should all go into a small hole in the ground,
+and live there; another part wanted to have a large and strong dwelling
+built on the ground, where nobody could enter but an ant; still another
+wanted to dwell in trees, so as to get rid of Anteater, forgetting
+entirely that there they would be the prey of birds; another part seemed
+inclined to have wings and fly.
+
+And, as has already been said, this deliberation amounted to nothing,
+and each party resolved to go to work in its own way, and on its own
+responsibility.
+
+Greater unity than that which existed in each separate faction could be
+seen nowhere in the world; each had his appointed task, each did his
+work regularly and well. And all worked together in the same way. From
+among them they chose a king--that is to say some of the groups did--and
+they divided the labor so that all went as smoothly as it possibly
+could.
+
+But each group did it in its own way, and not one of them thought of
+protecting themselves against the onslaught of birds or Anteater.
+
+The Red-ants built their house on the ground and lived under it, but
+Anteater leveled to the ground in a minute what had cost them many days
+of precious labor. The Rice-ants lived under the ground, and with them
+it went no better. For whenever they came out, Anteater visited them and
+took them out sack and pack. The Wagtail-ants fled to the trees, but
+there on many occasions sat Centipede waiting for them, or the birds
+gobbled them up. The Gray-ants had intended to save themselves from
+extermination by taking to flight, but this also availed them nothing,
+because the Lizard, the Hunting-spider, and the birds went a great deal
+faster than they.
+
+When the Insect-king heard that they could come to no agreement he sent
+them the secret of unity, and the message of Work-together. But
+unfortunately he chose for his messenger the Beetle, and he has never
+yet arrived at the Ants, so that they are still to-day the embodiment of
+discord and consequently the prey of enemies.
+
+
+THE MONKEY'S FIDDLE
+
+
+Hunger and want forced Monkey one day to forsake his land and to seek
+elsewhere among strangers for much-needed work. Bulbs, earth beans,
+scorpions, insects, and such things were completely exhausted in his own
+land. But fortunately he received, for the time being, shelter with a
+great uncle of his, Orang Outang, who lived in another part of the
+country.
+
+When he had worked for quite a while he wanted to return home, and as
+recompense his great uncle gave him a fiddle and a bow and arrow and
+told him that with the bow and arrow he could hit and kill anything he
+desired, and with the fiddle he could force anything to dance.
+
+The first he met upon his return to his own land was Brer Wolf. This old
+fellow told him all the news and also that he had since early morning
+been attempting to stalk a deer, but all in vain.
+
+Then Monkey laid before him all the wonders of the bow and arrow that he
+carried on his back and assured him if he could but see the deer he
+would bring it down for him. When Wolf showed him the deer, Monkey was
+ready and down fell the deer.
+
+They made a good meal together, but instead of Wolf being thankful,
+jealousy overmastered him and he begged for the bow and arrow. When
+Monkey refused to give it to him, he thereupon began to threaten him
+with his greater strength, and so when Jackal passed by, Wolf told him
+that Monkey had stolen his bow and arrow. After Jackal had heard both of
+them, he declared himself unqualified to settle the case alone, and he
+proposed that they bring the matter to the court of Lion, Tiger, and the
+other animals. In the meantime he declared he would take possession of
+what had been the cause of their quarrel, so that it would be safe, as
+he said. But he immediately brought to earth all that was eatable, so
+there was a long time of slaughter before Monkey and Wolf agreed to
+have the affair in court.
+
+Monkey's evidence was weak, and to make it worse, Jackal's testimony was
+against him. Jackal thought that in this way it would be easier to
+obtain the bow and arrow from Wolf for himself.
+
+And so fell the sentence against Monkey. Theft was looked upon as a
+great wrong; he must hang.
+
+The fiddle was still at his side, and he received as a last favor from
+the court the right to play a tune on it.
+
+He was a master player of his time, and in addition to this came the
+wonderful power of his charmed fiddle. Thus, when he struck the first
+note of "Cockcrow" upon it, the court began at once to show an unusual
+and spontaneous liveliness, and before he came to the first waltzing
+turn of the old tune the whole court was dancing like a whirlwind.
+
+Over and over, quicker and quicker, sounded the tune of "Cockcrow" on
+the charmed fiddle, until some of the dancers, exhausted, fell down,
+although still keeping their feet in motion. But Monkey, musician as he
+was, heard and saw nothing of what had happened around him. With his
+head placed lovingly against the instrument, and his eyes half closed,
+he played on, keeping time ever with his foot.
+
+Wolf was the first to cry out in pleading tones breathlessly, "Please
+stop, Cousin Monkey! For love's sake, please stop!"
+
+But Monkey did not even hear him. Over and over sounded the resistless
+waltz of "Cockcrow."
+
+After a while Lion showed signs of fatigue, and when he had gone the
+round once more with his young lion wife, he growled as he passed
+Monkey, "My whole kingdom is yours, ape, if you just stop playing."
+
+"I do not want it," answered Monkey, "but withdraw the sentence and give
+me my bow and arrow, and you, Wolf, acknowledge that you stole it from
+me."
+
+"I acknowledge, I acknowledge!" cried Wolf, while Lion cried, at the
+same instant, that he withdrew the sentence.
+
+Monkey gave them just a few more turns of the "Cockcrow," gathered up
+his bow and arrow, and seated himself high up in the nearest camel thorn
+tree.
+
+The court and other animals were so afraid that he might begin again
+that they hastily disbanded to new parts of the world.
+
+
+THE TIGER, THE RAM, AND THE JACKAL
+
+
+Tiger (leopard) was returning home from hunting on one occasion, when he
+lighted on the kraal of Ram. Now, Tiger had never seen Ram before, and
+accordingly, approaching submissively, he said, "Good day, friend! What
+may your name be?"
+
+The other in his gruff voice, and striking his breast with his forefoot,
+said, "I am Ram. Who are you?"
+
+"Tiger," answered the other, more dead than alive, and then, taking
+leave of Ram, he ran home as fast as he could.
+
+Jackal lived at the same place as Tiger did, and the latter going to
+him, said, "Friend Jackal, I am quite out of breath, and am half dead
+with fright, for I have just seen a terrible looking fellow, with a
+large and thick head, and on my asking him what his name was, he
+answered, 'I am Ram.'"
+
+"What a foolish fellow you are," cried Jackal, "to let such a nice piece
+of flesh stand! Why did you do so? But we shall go to-morrow and eat it
+together."
+
+Next day the two set off for the kraal of Ram, and as they appeared over
+a hill, Ram, who had turned out to look about him, and was calculating
+where he should that day crop a tender salad, saw them, and he
+immediately went to his wife and said, "I fear this is our last day, for
+Jackal and Tiger are both coming against us. What shall we do?"
+
+"Don't be afraid," said the wife, "but take up the child in your arms,
+go out with it, and pinch it to make it cry as if it were hungry." Ram
+did so as the confederates came on.
+
+No sooner did Tiger cast his eyes on Ram than fear again took possession
+of him, and he wished to turn back. Jackal had provided against this,
+and made Tiger fast to himself with a leathern thong, and said, "Come
+on," when Ram cried in a loud voice, and pinching his child at the same
+time, "You have done well, Friend Jackal, to have brought us Tiger to
+eat, for you hear how my child is crying for food."
+
+On these dreadful words Tiger, notwithstanding the entreaties of Jackal
+to let him go, to let him loose, set off in the greatest alarm, dragged
+Jackal after him over hill and valley, through bushes and over rocks,
+and never stopped to look behind him till he brought back himself and
+half-dead Jackal to his place again. And so Ram escaped.
+
+
+THE JACKAL AND THE WOLF
+
+
+Once on a time Jackal, who lived on the borders of the colony, saw a
+wagon returning from the seaside laden with fish; he tried to get into
+the wagon from behind, but he could not; he then ran on before and lay
+in the road as if dead. The wagon came up to him, and the leader cried
+to the driver, "Here is a fine kaross for your wife!"
+
+"Throw it into the wagon," said the driver, and Jackal was thrown in.
+
+The wagon traveled on, through a moonlight night, and all the while
+Jackal was throwing out the fish into the road; he then jumped out
+himself and secured a great prize. But stupid old Wolf (hyena), coming
+by, ate more than his share, for which Jackal owed him a grudge, and he
+said to him, "You can get plenty of fish, too, if you lie in the way of
+a wagon as I did, and keep quite still whatever happens."
+
+"So!" mumbled Wolf.
+
+Accordingly, when the next wagon came from the sea, Wolf stretched
+himself out in the road. "What ugly thing is this?" cried the leader,
+and kicked Wolf. He then took a stick and thrashed him within an inch of
+his life. Wolf, according to the directions of Jackal, lay quiet as long
+as he could; he then got up and hobbled off to tell his misfortune to
+Jackal, who pretended to comfort him.
+
+"What a pity," said Wolf, "I have not got such a handsome skin as you
+have!"
+
+
+A JACKAL AND A WOLF
+
+
+Jackal and Wolf went and hired themselves to a man to be his servants.
+In the middle of the night Jackal rose and smeared Wolf's tail with some
+fat, and then ate all the rest of it in the house. In the morning the
+man missed the fat, and he immediately accused Jackal of having eaten
+it. "Look at Wolf's tail," said the rogue, "and you will see who is the
+thief." The man did so, and then thrashed Wolf till he was nearly dead.
+
+
+THE LION, THE JACKAL, AND THE MAN
+
+
+It so happened one day that Lion and Jackal came together to converse on
+affairs of land and state. Jackal, let me say, was the most important
+adviser to the king of the forest, and after they had spoken about these
+matters for quite a while, the conversation took a more personal turn.
+
+Lion began to boast and talk big about his strength. Jackal had,
+perhaps, given him cause for it, because by nature he was a flatterer.
+But now that Lion began to assume so many airs, said he, "See here,
+Lion, I will show you an animal that is still more powerful than you
+are."
+
+They walked along, Jackal leading the way, and met first a little boy.
+
+"Is this the strong man?" asked Lion.
+
+"No," answered Jackal, "he must still become a man, O king."
+
+After a while they found an old man walking with bowed head and
+supporting his bent figure with a stick.
+
+"Is this the wonderful strong man?" asked Lion.
+
+"Not yet, O king," was Jackal's answer, "he has been a man."
+
+Continuing their walk a short distance farther, they came across a young
+hunter, in the prime of youth, and accompanied by some of his dogs.
+
+"There you have him now, O king," said Jackal. "Pit your strength
+against his, and if you win, then truly you are the strength of the
+earth."
+
+Then Jackal made tracks to one side toward a little rocky kopje from
+which he would be able to see the meeting.
+
+Growling, growling, Lion strode forward to meet the man, but when he
+came close the dogs beset him. He, however, paid but little attention to
+the dogs, pushed and separated them on all sides with a few sweeps of
+his front paws. They howled aloud, beating a hasty retreat toward the
+man.
+
+Thereupon the man fired a charge of shot, hitting him behind the
+shoulder, but even to this Lion paid but little attention. Thereupon the
+hunter pulled out his steel knife, and gave him a few good jabs. Lion
+retreated, followed by the flying bullets of the hunter.
+
+"Well, are you strongest now?" was Jackal's first question when Lion
+arrived at his side.
+
+"No, Jackal," answered Lion, "let that fellow there keep the name and
+welcome. Such as he I have never before seen. In the first place he had
+about ten of his bodyguard storm me. I really did not bother myself much
+about them, but when I attempted to turn him to chaff, he spat and blew
+fire at me, mostly into my face, that burned just a little but not very
+badly. And when I again endeavored to pull him to the ground he jerked
+out from his body one of his ribs with which he gave me some very ugly
+wounds, so bad that I had to make chips fly, and as a parting he sent
+some warm bullets after me. No, Jackal, give him the name."
+
+
+THE WORLD'S REWARD
+
+
+Once there was a man that had an old dog, so old that the man desired to
+put him aside. The dog had served him very faithfully when he was still
+young, but ingratitude is the world's reward, and the man now wanted to
+dispose of him. The old dumb creature, however, ferreted out the plan of
+his master, and so at once resolved to go away of his own accord.
+
+After he had walked quite a way he met an old bull in the veldt.
+
+"Don't you want to go with me?" asked the dog.
+
+"Where?" was the reply.
+
+"To the land of the aged," said the dog, "where troubles don't disturb
+you and thanklessness does not deface the deeds of man."
+
+"Good," said the bull, "I am your companion."
+
+The two now walked on and found a ram.
+
+The dog laid the plan before him, and all moved off together, until they
+afterwards came successively upon a donkey, a cat, a cock, and a goose.
+
+These joined their company, and the seven set out on their journey.
+
+Late one night they came to a house and through the open door they saw a
+table spread with all kinds of nice food, of which some robbers were
+having their fill. It would help nothing to ask for admittance, and
+seeing that they were hungry, they must think of something else.
+
+Therefore the donkey climbed up on the bull, the ram on the donkey, the
+dog on the ram, the cat on the dog, the goose on the cat, and the cock
+on the goose, and with one accord they all let out terrible
+(threatening) noises (cryings).
+
+The bull began to bellow, the donkey to bray, the dog to bark, the ram
+to bleat, the cat to mew, the goose to giggle gaggle, and the cock to
+crow, all without cessation.
+
+The people in the house were frightened perfectly limp; they glanced
+out through the front door, and there they stared on the strange sight.
+Some of them took to the ropes over the back lower door, some
+disappeared through the window, and in a few counts the house was empty.
+
+Then the seven old animals climbed down from one another, stepped into
+the house, and satisfied themselves with the delicious food.
+
+But when they had finished, there still remained a great deal of food,
+too much to take with them on their remaining journey, and so together
+they contrived a plan to hold their position until the next day after
+breakfast.
+
+The dog said, "See here, I am accustomed to watch at the front door of
+my master's house," and thereupon flopped himself down to sleep; the
+bull said, "I go behind the door," and there he took his position; the
+ram said, "I will go up on to the loft"; the donkey, "I at the middle
+door"; the cat, "I in the fireplace"; the goose, "I in the back door";
+and the cock said, "I am going to sleep on the bed."
+
+The captain of the robbers after a while sent one of his men back to
+see if these creatures had yet left the house.
+
+The man came very cautiously into the neighborhood, listened and
+listened, but he heard nothing; he peeped through the window, and saw in
+the grate just two coals still glimmering, and thereupon started to walk
+through the front door.
+
+There the old dog seized him by the leg. He jumped into the house, but
+the bull was ready, swept him up with his horns, and tossed him on to
+the loft. Here the ram received him and pushed him off the loft again.
+Reaching ground, he made for the middle door, but the donkey set up a
+terrible braying and at the same time gave him a kick that landed him in
+the fireplace, where the cat flew at him and scratched him nearly to
+pieces. He then jumped out through the back door, and here the goose got
+him by the trousers. When he was some distance away the cock crowed. He
+thereupon ran so that you could hear the stones rattle in the dark.
+
+Purple and crimson and out of breath, he came back to his companions.
+
+"Frightful, frightful!" was all that they could get from him at first,
+but after a while he told them.
+
+"When I looked through the window I saw in the fireplace two bright
+coals shining, and when I wanted to go through the front door to go and
+look, I stepped into an iron trap. I jumped into the house, and there
+some one seized me with a fork and pitched me up on to the loft, there
+again some one was ready, and threw me down on all fours. I wanted to
+fly through the middle door, but there some one blew on a trumpet, and
+smote me with a sledge hammer so that I did not know where I landed; but
+coming to very quickly, I found I was in the fireplace, and there
+another flew at me and scratched the eyes almost out of my head. I
+thereupon fled out of the back door, and lastly I was attacked on the
+leg by the sixth with a pair of fire tongs, and when I was still running
+away, some one shouted out of the house, 'Stop him, stop h--i--m!'"
+
+
+THE LION AND JACKAL
+
+
+Not because he was exactly the most capable or progressive fellow in the
+neighborhood, but because he always gave that idea--that is why Jackal
+slowly acquired among the neighbors the name of a "progressive man." The
+truly well-bred people around him, who did not wish to hurt his
+feelings, seemed to apply this name to him, instead of, for instance,
+"cunning scamp," or "all-wise rat-trap," as so many others often dubbed
+him. He obtained this name of "a progressive man" because he spoke most
+of the time English, especially if he thought some of them were present
+who could not understand it, and also because he could always hold his
+body so much like a judge on public occasions.
+
+He had a smooth tongue, could make quite a favorable speech, and
+especially with good effect could he expatiate on the backwardness of
+others. Underneath he really was the most unlettered man in the
+vicinity, but he had perfect control over his inborn cunningness, which
+allowed him for a long time to go triumphantly through life as a man of
+great ability.
+
+One time, for instance, he lost his tail in an iron trap. He had long
+attempted to reach the Boer's goose pen, and had framed many good plans,
+but when he came to his senses, he was sitting in front of the goose pen
+with his tail in the iron trap, the dogs all the time coming for him.
+When he realized what it meant, he mustered together all his strength
+and pulled his tail, which he always thought so much of, clean off.
+
+This would immediately have made him the butt of the whole neighborhood
+had he not thought of a plan. He called together a meeting of the
+jackals, and made them believe that Lion had issued a proclamation to
+the effect that all jackals in the future should be tailless, because
+their beautiful tails were a thorn in the eyes of more unfortunate
+animals.
+
+In his smooth way he told them how he regretted that the king should
+have the barbaric right to interfere with his subjects. But so it was;
+and he thought the sooner he paid attention to it the safer. Therefore
+he had had his tail cut off already and he should advise all his friends
+to do the same. And so it happened that once all jackals for a long time
+were without tails. Later on they grew again.
+
+It was about the same time that Tiger hired Jackal as a schoolmaster.
+Tiger was in those days the richest man in the surrounding country, and
+as he had had to suffer a great deal himself because he was so
+untutored, he wanted his children to have the best education that could
+be obtained.
+
+It was shortly after a meeting, in which it was shown how important a
+thing an education was, that Tiger approached Jackal and asked him to
+come and teach his children.
+
+Jackal was very ready to do this. It was not exactly his vocation, he
+said, but he would do it to pass time and just out of friendship for his
+neighbor. His and Tiger's farm lands lay next each other.
+
+That he did not make teaching his profession and that he possessed no
+degree was of no account in the eyes of Tiger.
+
+"Do not praise my goodness so much, Cousin Jackal," laughed he. "We know
+your worth well enough. Much rather would I intrust my offspring to you
+than to the many so-called schoolmasters, for it is especially my wish,
+as well as that of their mother, to have our children obtain a
+progressive education, and to make such men and women of them that with
+the same ability as you have they can take their lawful places in this
+world."
+
+"One condition," said Jackal, "I must state. It will be very
+inconvenient for me, almost impossible, to come here to your farm and
+hold school. My own farm would in that case go to pieces, and that I
+cannot let happen. It would never pay me."
+
+Tiger answered that it was not exactly necessary either. In spite of
+their attachment to the little ones, they saw that it would probably be
+to their benefit to place them for a while in a stranger's house.
+
+Jackal then told of his own bringing up by Wolf. He remembered well how
+small he was when his father sent him away to study with Wolf.
+Naturally, since then, he had passed through many schools, Wolf was only
+his first teacher. And only in his later days did he realize how much
+good it had done him.
+
+"A man must bend the sapling while it is still young," said he. "There
+is no time that the child is so open to impressions as when he is
+plastic, about the age that most of your children are at present, and I
+was just thinking you would be doing a wise thing to send them away for
+quite a while."
+
+He had, fortunately, just then a room in his house that would be suited
+for a schoolroom, and his wife could easily make some arrangement for
+their lodging, even if they had to enlarge their dwelling somewhat.
+
+It was then and there agreed upon. Tiger's wife was then consulted about
+one thing and another, and the following day the children were to leave.
+
+"I have just thought of one more thing," remarked Jackal, "seven
+children, besides my little lot, will be quite a care on our hands, so
+you will have to send over each week a fat lamb, and in order not to
+disturb their progress, the children will have to relinquish the idea of
+a vacation spent with you for some time. When I think they have become
+used to the bit, I will inform you, and then you can come and take them
+to make you a short visit, but not until then.
+
+"It is also better," continued he, "that they do not see you for the
+first while, but your wife can come and see them every Saturday and I
+will see to all else."
+
+On the following day there was an unearthly howling and wailing when the
+children were to leave. But Tiger and their mother showed them that it
+was best and that some day they would see that it was all for their
+good, and that their parents were doing it out of kindness. Eventually
+they were gone.
+
+The first Saturday dawned, and early that morning Mrs. Tiger was on her
+way to Jackal's dwelling, because she could not defer the time any
+longer.
+
+She was still a long way off when Jackal caught sight of her. He always
+observed neighborly customs, and so stepped out to meet her.
+
+After they had greeted each other, Mrs. Tiger's first question was:
+"Well, Cousin Jackal, how goes everything with the small team? Are they
+still all well and happy, and do they not trouble you, Cousin Jackal,
+too much?"
+
+"Oh, my goodness, no, Mrs. Tiger," answered Jackal enthusiastically,
+"but don't let us talk so loud, because if they heard you, it certainly
+would cause them many heartfelt tears and they might also want to go
+back with you and then all our trouble would have been for nothing."
+
+"But I would like to see them, Cousin Jackal," said Mrs. Tiger a little
+disturbed.
+
+"Why certainly, Mrs. Tiger," was his answer, "but I do not think it is
+wise for them to see you. I will lift them up to the window one by one,
+and then you can put your mind at rest concerning their health and
+progress."
+
+After Mr. and Mrs. Jackal and Mrs. Tiger had sat together for some time
+drinking coffee and talking over one thing and another, Jackal took
+Tiger's wife to a door and told her to look through it, out upon the
+back yard. There he would show her the children one by one, while they
+would not be able to see her. Everything was done exactly as Jackal had
+said, but the sixth little tiger he picked up twice, because the
+firstborn he had the day before prepared in pickle for their Sunday
+meal.
+
+And so it happened every Saturday until the last little tiger--which was
+the youngest--had to be lifted up seven times in succession.
+
+And when Mrs. Tiger came again the following week all was still as death
+and everything seemed to have a deserted appearance on the estate. She
+walked straight to the front door, and there she found a letter in the
+poll grass near the door, which read thus:
+
+     "We have gone for a picnic with the children. From there we
+     will ride by Jackalsdance for New Year. This is necessary for
+     the completion of their progressive education."
+
+                                                    JACKAL.
+
+Saturday after Saturday did Mrs. Tiger go and look, but every time
+Jackal's house seemed to look more deserted; and after a while there was
+a spider's web over the door and the trail of Snake showed that he, too,
+had taken up his abode there.
+
+
+TINK-TINKJE
+
+
+The birds wanted a king. Men have a king, so have animals, and why
+shouldn't they? All had assembled.
+
+"The Ostrich, because he is the largest," one called out.
+
+"No, he can't fly."
+
+"Eagle, on account of his strength."
+
+"Not he, he is too ugly."
+
+"Vulture, because he can fly the highest."
+
+"No, Vulture is too dirty, his odor is terrible."
+
+"Peacock, he is so beautiful."
+
+"His feet are too ugly, and also his voice."
+
+"Owl, because he can see well."
+
+"Not Owl, he is ashamed of the light."
+
+And so they got no further. Then one shouted aloud, "He who can fly the
+highest will be king." "Yes, yes," they all screamed, and at a given
+signal they all ascended straight up into the sky.
+
+Vulture flew for three whole days without stopping, straight toward the
+sun. Then he cried aloud, "I am the highest, I am king."
+
+"T-sie, t-sie, t-sie," he heard above him. There Tink-tinkje was flying.
+He had held fast to one of the great wing feathers of Vulture, and had
+never been felt, he was so light. "T-sie, t-sie, t-sie, I am the
+highest, I am king," piped Tink-tinkje.
+
+Vulture flew for another day still ascending. "I am highest, I am king."
+
+"T-sie, t-sie, t-sie, I am the highest, I am king," Tink-tinkje mocked.
+There he was again, having crept out from under the wing of Vulture.
+
+Vulture flew on the fifth day straight up in the air. "I am the highest,
+I am king," he called.
+
+"T-sie, t-sie, t-sie," piped the little fellow above him. "I am the
+highest, I am king."
+
+Vulture was tired and now flew direct to earth. The other birds were mad
+through and through. Tink-tinkje must die because he had taken
+advantage of Vulture's feathers and there hidden himself. All flew after
+him and he had to take refuge in a mouse hole. But how were they to get
+him out? Some one must stand guard to seize him the moment he put out
+his head.
+
+"Owl must keep guard; he has the largest eyes; he can see well," they
+exclaimed.
+
+Owl went and took up his position before the hole. The sun was warm and
+soon Owl became sleepy and presently he was fast asleep.
+
+Tink-tinkje peeped, saw that Owl was asleep, and z-zip away he went.
+Shortly afterwards the other birds came to see if Tink-tinkje were still
+in the hole. "T-sie, t-sie," they heard in a tree; and there the little
+vagabond was sitting.
+
+White-crow, perfectly disgusted, turned around and exclaimed, "Now I
+won't say a single word more." And from that day to this White-crow has
+never spoken. Even though you strike him, he makes no sound, he utters
+no cry.
+
+
+THE LION AND JACKAL
+
+
+Lion had now caught a large eland which lay dead on the top of a high
+bank. Lion was thirsty and wanted to go and drink water. "Jackal, look
+after my eland, I am going to get a drink. Don't you eat any."
+
+"Very well, Uncle Lion."
+
+Lion went to the river and Jackal quietly removed a stone on which Lion
+had to step to reach the bank on his return. After that Jackal and his
+wife ate heartily of the eland. Lion returned, but could not scale the
+bank. "Jackal, help me," he shouted.
+
+"Yes, Uncle Lion, I will let down a rope and then you can climb up."
+
+Jackal whispered to his wife, "Give me one of the old, thin hide ropes."
+And then aloud he added, "Wife, give me one of the strong, buffalo
+ropes, so Uncle Lion won't fall."
+
+His wife gave him an old rotten rope. Jackal and his wife first ate
+ravenously of the meat, then gradually let the rope down. Lion seized it
+and struggled up. When he neared the brink Jackal gave the rope a jerk.
+It broke and down Lion began to roll--rolled the whole way down, and
+finally lay at the foot near the river.
+
+Jackal began to beat a dry hide that lay there as he howled, cried, and
+shouted: "Wife, why did you give me such a bad rope that caused Uncle
+Lion to fall?"
+
+Lion heard the row and roared, "Jackal, stop beating your wife. I will
+hurt you if you don't cease. Help me to climb up."
+
+"Uncle Lion, I will give you a rope." Whispering again to his wife,
+"Give me one of the old, thin hide ropes," and shouting aloud again,
+"Give me a strong, buffalo rope, wife, that will not break again with
+Lion."
+
+Jackal gave out the rope, and when Lion had nearly reached the top, he
+cut the rope through. Snap! and Lion began to roll to the bottom. Jackal
+again beat on the hide and shouted, "Wife, why did you give me such a
+rotten rope? Didn't I tell you to give me a strong one?" Lion roared,
+"Jackal, stop beating your wife at once. Help me instantly or you will
+be sorry."
+
+"Wife," Jackal said aloud, "give me now the strongest rope you have,"
+and aside to her, "Give me the worst rope of the lot."
+
+Jackal again let down a rope, but just as Lion reached the top, Jackal
+gave a strong tug and broke the rope. Poor old Lion rolled down the side
+of the hill and lay there roaring from pain. He had been fatally hurt.
+
+Jackal inquired, "Uncle Lion, have you hurt yourself? Have you much
+pain? Wait a while, I am coming directly to help you." Jackal and his
+wife slowly walked away.
+
+
+LION AND JACKAL
+
+
+The Lion and the Jackal agreed to hunt on shares, for the purpose of
+laying in a stock of meat for the winter months for their families.
+
+As the Lion was by far the more expert hunter of the two, the Jackal
+suggested that he (himself) should be employed in transporting the game
+to their dens, and that Mrs. Jackal and the little Jackals should
+prepare and dry the meat, adding that they would take care that Mrs.
+Lion and her family should not want.
+
+This was agreed to by the Lion, and the hunt commenced.
+
+After a very successful hunt, which lasted for some time, the Lion
+returned to see his family, and also to enjoy, as he thought, a
+plentiful supply of his spoil; when, to his utter surprise, he found
+Mrs. Lion and all the young Lions on the point of death from sheer
+hunger, and in a mangy state. The Jackal, it appeared, had only given
+them a few entrails of the game, and in such limited quantities as
+barely to keep them alive; always telling them that they (i. e., the
+Lion and himself) had been most unsuccessful in their hunting; while his
+own family was reveling in abundance, and each member of it was sleek
+and fat.
+
+This was too much for the Lion to bear. He immediately started off in a
+terrible fury, vowing certain death to the Jackal and all his family,
+wherever he should meet them. The Jackal was more or less prepared for a
+storm, and had taken the precaution to remove all his belongings to the
+top of a krantz (i. e., a cliff), accessible only by a most difficult
+and circuitous path, which he alone knew.
+
+When the Lion saw him on the krantz, the Jackal immediately greeted him
+by calling out, "Good morning, Uncle Lion."
+
+"How dare you call me uncle, you impudent scoundrel," roared out the
+Lion, in a voice of thunder, "after the way in which you have behaved to
+my family?"
+
+"Oh, Uncle! How shall I explain matters? That beast of a wife of mine!"
+Whack, whack was heard, as he beat with a stick on dry hide, which was a
+mere pretence for Mrs. Jackal's back; while that lady was preinstructed
+to scream whenever he operated on the hide, which she did with a
+vengeance, joined by the little Jackals, who set up a most doleful
+chorus. "That wretch!" said the Jackal. "It is all her doing. I shall
+kill her straight off," and away he again belabored the hide, while his
+wife and children uttered such a dismal howl that the Lion begged of him
+to leave off flogging his wife. After cooling down a little, he invited
+Uncle Lion to come up and have something to eat. The Lion, after several
+ineffectual attempts to scale the precipice, had to give it up.
+
+The Jackal, always ready for emergencies, suggested that a reim should
+be lowered to haul up his uncle. This was agreed to, and when the Lion
+was drawn about halfway up by the whole family of Jackals, the reim was
+cleverly cut, and down went the Lion with a tremendous crash which hurt
+him very much. Upon this, the Jackal again performed upon the hide with
+tremendous force, for their daring to give him such a rotten reim, and
+Mrs. Jackal and the little ones responded with some fearful screams and
+yells. He then called loudly out to his wife for a strong buffalo reim
+which would support any weight. This again was lowered and fastened to
+the Lion, when all hands pulled away at their uncle; and, just when he
+had reached so far that he could look over the precipice into the pots
+to see all the fat meat cooking, and all the biltongs hanging out to
+dry, the reim was again cut, and the poor Lion fell with such force that
+he was fairly stunned for some time. After the Lion had recovered his
+senses, the Jackal, in a most sympathizing tone, suggested that he was
+afraid that it was of no use to attempt to haul him up onto the
+precipice, and recommended, instead, that a nice fat piece of eland's
+breast be roasted and dropped into the Lion's mouth. The Lion, half
+famished with hunger, and much bruised, readily accepted the offer, and
+sat eagerly awaiting the fat morsel. In the mean time, the Jackal had a
+round stone made red-hot, and wrapped a quantity of inside fat, or suet,
+round it, to make it appear like a ball of fat. When the Lion saw it
+held out, he opened his capacious mouth to the utmost extent, and the
+wily Jackal cleverly dropped the hot ball right into it, which ran
+through the poor old beast, killing him on the spot.
+
+It need hardly be told that there was great rejoicing on the precipice
+that night.
+
+
+THE HUNT OF LION AND JACKAL
+
+
+Lion and Jackal, it is said, were one day lying in wait for Eland. Lion
+shot (with a bow) and missed, but Jackal hit and sang out, "Hah! hah!"
+
+Lion said, "No, you did not shoot anything. It was I who hit."
+
+Jackal answered, "Yea, my father, thou hast hit."
+
+Then they went home in order to return when the eland was dead, and cut
+it up. Jackal, however, turned back, unknown to Lion, hit his nose so
+that the blood ran on the spoor of the eland, and followed their track
+thus, in order to cheat Lion. When he had gone some distance, he
+returned by another way to the dead eland, and creeping into its
+carcass, cut out all the fat.
+
+Meanwhile Lion followed the blood-stained spoor of Jackal, thinking
+that it was eland blood, and only when he had gone some distance did he
+find out that he had been deceived. He then returned on Jackal's spoor,
+and reached the dead eland, where, finding Jackal in its carcass, he
+seized him by his tail and drew him out with a swing.
+
+Lion upbraided Jackal with these words: "Why do you cheat me?"
+
+Jackal answered: "No, my father, I do not cheat you; you may know it, I
+think. I prepared this fat for you, father."
+
+Lion said: "Then take the fat and carry it to your mother" (the
+lioness); and he gave him the lungs to take to his own wife and
+children.
+
+When Jackal arrived, he did not give the fat to Lion's wife, but to his
+own wife and children; he gave, however, the lungs to Lion's wife, and
+he pelted Lion's little children with the lungs, saying:
+
+    "You children of the big-pawed one!
+    You big-pawed ones!"
+
+He said to Lioness, "I go to help my father" (the lion); but he went far
+away with his wife and children.
+
+
+STORY OF LION AND LITTLE JACKAL
+
+
+Little Jackal one day went out hunting, when he met Lion. Lion proposed
+that they should hunt together, on condition that if a small antelope
+was killed it was to be Little Jackal's, and if a large one was killed
+it was to be Lion's. Little Jackal agreed to this.
+
+The first animal killed was a large eland. Lion was very glad, and said
+to Little Jackal: "I will continue hunting while you go to my house and
+call my children to carry the meat home."
+
+Little Jackal replied: "Yes, I agree to that."
+
+Lion went away to hunt. When he had gone, Little Jackal went to his own
+house and called his own children to carry away the meat. He said: "Lion
+takes me for a fool if he thinks I will call his children while my own
+are dying with hunger."
+
+So Little Jackal's children carried the meat to their home on the top of
+a high rock, where the only way to get to their house was by means of a
+rope.
+
+Lion caught nothing more, and after a time he went home and asked his
+wife where the meat was. She told him there was no meat. He said: "Did
+not Little Jackal bring a message to my children to carry meat?"
+
+His wife replied: "No, he was not here. We are still dying with hunger."
+
+Lion then went to Little Jackal's house, but he could not get up the
+rock to it. So he sat down by the water, waiting. After a time Little
+Jackal went to get some water. He was close to the water when he saw
+Lion. He at once ran away, and Lion ran after him. He ran into a hole
+under a tree, but Lion caught his tail before he got far in. He said to
+him: "That is not my tail you have hold of; it is a root of the tree. If
+you do not believe me, take a stone and strike it, and see if any blood
+comes."
+
+Lion let go the tail, and went for a stone to prove what it was. While
+he was gone for the stone, Little Jackal went far into the hole. When
+Lion returned he could not be found. Lion lay down by the hole and
+waited. After a long time Little Jackal wanted to come out. He went to
+the entrance and looked round, but he could not see Lion. To make sure,
+he said: "Ho, I see you, my master, although you are in hiding."
+
+Lion did not move from the place where he lay concealed. Then Little
+Jackal went out, and Lion pursued him, but he got away.
+
+Lion watched for him, and one day, when Little Jackal was out hunting,
+he came upon him in a place where he could not escape. Lion was just
+about to spring upon him, when Little Jackal said softly: "Be still, do
+you not see that bushbuck on the other side of the rock? I am glad you
+have come to help me. Just remain here while I run round and drive him
+toward you."
+
+Lion did so, and Little Jackal made his escape.
+
+At another time there was a meeting of the animals, and Lion was the
+chief at the meeting. Little Jackal wanted to attend, but there was a
+law made that no one should be present unless he had horns. So Little
+Jackal took wax out of a nest of bees, and made horns for himself with
+it. He fastened the horns on his head, and went to the meeting. Lion did
+not know him on account of the horns. But he sat near the fire and went
+to sleep, when the horns melted.
+
+Lion looked at him and saw who it was. He immediately tried to catch
+him, but Little Jackal was quick in springing away. He ran under an
+overhanging rock and sang out: "Help! help! this rock is falling upon
+me!"
+
+Lion went for a pole to prop up the rock that he might get at Little
+Jackal. While he was away, Little Jackal escaped.
+
+After that they became companions again, and went hunting another time.
+They killed an ox. Lion said: "I will watch it while you carry the
+pieces away."
+
+Lion gave him the breast, and said: "Take this to my wife."
+
+Little Jackal took it to his own wife. When he returned, Lion gave him a
+shin, and said: "Take this to your wife."
+
+Little Jackal took the shin to Lion's house. Lion's wife said: "I cannot
+take this because it should not come here."
+
+Little Jackal thereupon struck Lion's wife in the face, and went back to
+the place where the ox was killed. Lion gave him a large piece of meat
+and said: "Take this to my wife."
+
+Little Jackal took it to his own wife. This continued till the ox was
+finished. Then they both went home. When Lion arrived at his house he
+found there was weeping in his family.
+
+His wife said: "Is it you who sent Little Jackal to beat me and my
+children, and is it you who sent this shin? Did I ever eat a shin?"
+
+When Lion heard this he was very angry and at once went to Little
+Jackal's house. When he reached the rock, Little Jackal looked down and
+said: "Who are you, and what is your name, and whose son are you, and
+where are you from, and where are you going to, and whom do you want,
+and what do you want him for?"
+
+Lion replied: "I have merely come to see you. I wish you to let down the
+rope."
+
+Little Jackal let down a rope made of mouse skins, and when Lion climbed
+a little way up, the rope broke, and he fell and was hurt. He then went
+home.
+
+
+THE LIONESS AND THE OSTRICH
+
+
+It is said, once a lioness roared, and the ostrich also roared. The
+lioness went toward the place where the ostrich was. They met. The
+lioness said to the ostrich, "Please to roar." The ostrich roared. Then
+the lioness roared. The voices were equal. The lioness said to the
+ostrich, "You are my match."
+
+Then the lioness said to the ostrich, "Let us hunt game together." They
+saw eland and made toward it. The lioness caught only one; the ostrich
+killed a great many by striking them with the claw which was on his leg;
+but the lioness killed only one. When they had met after the hunting
+they went to the game, and the lioness saw that the ostrich had killed a
+great deal.
+
+Now, the lioness also had young cubs. They went to the shade to rest
+themselves. The lioness said to the ostrich, "Get up and rip open; let
+us eat." Said the ostrich, "Go and rip open; I shall eat the blood." The
+lioness stood up and ripped open, and ate with the cubs. And when she
+had eaten, the ostrich got up and ate the blood. They went to sleep.
+
+The cubs played about. While they were playing, they went to the
+ostrich, who was asleep. When he went to sleep he also opened his mouth.
+The young lions saw that the ostrich had no teeth. They went to their
+mother and said, "This fellow, who says he is your equal, has no teeth;
+he is insulting you." Then the lioness went to wake the ostrich, and
+said, "Get up, let us fight"; and they fought. And the ostrich said, "Go
+to that side of the ant-hill, and I will go to this side of it." The
+ostrich struck the ant-hill, and sent it toward the lioness. But the
+second time he struck the lioness in a vulnerable spot, near the liver,
+and killed her.
+
+
+CROCODILE'S TREASON
+
+
+Crocodile was, in the days when animals still could talk, the
+acknowledged foreman of all water creatures and if one should judge from
+appearances one would say that he still is. But in those days it was his
+especial duty to have a general care of all water animals, and when one
+year it was exceedingly dry, and the water of the river where they had
+lived dried up and became scarce, he was forced to make a plan to trek
+over to another river a short distance from there.
+
+He first sent Otter out to spy. He stayed away two days and brought back
+a report that there was still good water in the other river, real
+sea-cow holes, that not even a drought of several years could dry up.
+
+After he had ascertained this, Crocodile called to his side Tortoise and
+Alligator.
+
+"Look here," said he, "I need you two to-night to carry a report to
+Lion. So then get ready; the veldt is dry, and you will probably have to
+travel for a few days without any water. We must make peace with Lion
+and his subjects, otherwise we utterly perish this year. And he must
+help us to trek over to the other river, especially past the Boer's farm
+that lies in between, and to travel unmolested by any of the animals of
+the veldt, so long as the trek lasts. A fish on land is sometimes a very
+helpless thing, as you all know." The two had it mighty hard in the
+burning sun, and on the dry veldt, but eventually they reached Lion and
+handed him the treaty.
+
+"What is going on now?" thought Lion to himself, when he had read it. "I
+must consult Jackal first," said he. But to the commissioners he gave
+back an answer that he would be the following evening with his advisers
+at the appointed place, at the big vaarland willow tree, at the farther
+end of the hole of water, where Crocodile had his headquarters.
+
+When Tortoise and Alligator came back, Crocodile was exceedingly
+pleased with himself at the turn the case had taken.
+
+He allowed Otter and a few others to be present and ordered them on that
+evening to have ready plenty of fish and other eatables for their guests
+under the vaarland willow.
+
+That evening as it grew dark Lion appeared with Wolf, Jackal, Baboon,
+and a few other important animals, at the appointed place, and they were
+received in the most open-hearted manner by Crocodile and the other
+water creatures.
+
+Crocodile was so glad at the meeting of the animals that he now and then
+let fall a great tear of joy that disappeared into the sand. After the
+other animals had done well by the fish, Crocodile laid bare to them the
+condition of affairs and opened up his plan. He wanted only peace among
+all animals; for they not only destroyed one another, but the Boer, too,
+would in time destroy them all.
+
+The Boer had already stationed at the source of the river no less than
+three steam pumps to irrigate his land, and the water was becoming
+scarcer every day. More than this, he took advantage of their
+unfortunate position by making them sit in the shallow water and then,
+one after the other, bringing about their death. As Lion was, on this
+account, inclined to make peace, it was to his glory to take this
+opportunity and give his hand to these peace-making water creatures, and
+carry out their part of the contract, namely, escort them from the
+dried-up water, past the Boer's farm and to the long sea-cow pools.
+
+"And what benefit shall we receive from it?" asked Jackal.
+
+"Well," answered Crocodile, "the peace made is of great benefit to both
+sides. We will not exterminate each other. If you desire to come and
+drink water, you can do so with an easy mind, and not be the least bit
+nervous that I, or any one of us will seize you by the nose; and so also
+with all the other animals. And from your side we are to be freed from
+Elephant, who has the habit, whenever he gets the opportunity, of
+tossing us with his trunk up into some open and narrow fork of a tree
+and there allowing us to become biltong."
+
+Lion and Jackal stepped aside to consult with one another, and then Lion
+wanted to know what form of security he would have that Crocodile would
+keep to his part of the contract.
+
+"I stake my word of honor," was the prompt answer from Crocodile, and he
+let drop a few more long tears of honesty into the sand.
+
+Baboon then said it was all square and honest as far as he could see
+into the case. He thought it was nonsense to attempt to dig pitfalls for
+one another; because he personally was well aware that his race would
+benefit somewhat from this contract of peace and friendship. And more
+than this, they must consider that use must be made of the fast
+disappearing water, for even in the best of times it was an unpleasant
+thing to be always carrying your life about in your hands. He would,
+however, like to suggest to the King that it would be well to have
+everything put down in writing, so that there would be nothing to regret
+in case it was needed.
+
+Jackal did not want to listen to the agreement. He could not see that it
+would benefit the animals of the veldt. But Wolf, who had fully
+satisfied himself with the fish, was in an exceptionally peace-loving
+mood, and he advised Lion again to close the agreement.
+
+After Lion had listened to all his advisers, and also the pleading tones
+of Crocodile's followers, he held forth in a speech in which he said
+that he was inclined to enter into the agreement, seeing that it was
+clear that Crocodile and his subjects were in a very tight place.
+
+There and then a document was drawn up, and it was resolved, before
+midnight, to begin the trek. Crocodile's messengers swam in all
+directions to summon together the water animals for the trek.
+
+Frogs croaked and crickets chirped in the long water grass. It was not
+long before all the animals had assembled at the vaarland willow. In the
+meantime Lion had sent out a few despatch riders to his subjects to
+raise a commando for an escort, and long ere midnight these also were at
+the vaarland willow in the moonlight.
+
+The trek then was regulated by Lion and Jackal. Jackal was to take the
+lead to act as spy, and when he was able to draw Lion to one side, he
+said to him:
+
+"See here, I do not trust this affair one bit, and I want to tell you
+straight out, I am going to make tracks! I will spy for you until you
+reach the sea-cow pool, but I am not going to be the one to await your
+arrival there."
+
+Elephant had to act as advance guard because he could walk so softly and
+could hear and smell so well. Then came Lion with one division of the
+animals, then Crocodile's trek with a flank protection of both sides,
+and Wolf received orders to bring up the rear.
+
+Meanwhile, while all this was being arranged, Crocodile was smoothly
+preparing his treason. He called Yellow Snake to one side and said to
+him: "It is to our advantage to have these animals, who go among us
+every day, and who will continue to do so, fall into the hands of the
+Boer. Listen, now! You remain behind unnoticed, and when you hear me
+shout you will know that we have arrived safely at the sea-cow pool.
+Then you must harass the Boer's dogs as much as you can, and the rest
+will look out for themselves."
+
+Thereupon the trek moved on. It was necessary to go very slowly as many
+of the water animals were not accustomed to the journey on land; but
+they trekked past the Boer's farm in safety, and toward break of day
+they were all safely at the sea-cow pool. There most of the water
+animals disappeared suddenly into the deep water, and Crocodile also
+began to make preparations to follow their example. With tearful eyes he
+said to Lion that he was, oh, so thankful for the help, that, from pure
+relief and joy, he must first give vent to his feelings by a few
+screams. Thereupon he suited his words to actions so that even the
+mountains echoed, and then thanked Lion on behalf of his subjects, and
+purposely continued with a long speech, dwelling on all the benefits
+both sides would derive from the agreement of peace.
+
+Lion was just about to say good day and take his departure, when the
+first shot fell, and with it Elephant and a few other animals.
+
+"I told you all so!" shouted Jackal from the other side of the sea-cow
+pool. "Why did you allow yourselves to be misled by a few Crocodile
+tears?"
+
+Crocodile had disappeared long ago into the water. All one saw was just
+a lot of bubbles; and on the banks there was an actual war against the
+animals. It simply crackled the way the Boers shot them.
+
+But most of them, fortunately, came out of it alive.
+
+Shortly after, they say, Crocodile received his well-earned reward, when
+he met a driver with a load of dynamite. And even now when the Elephant
+gets the chance he pitches them up into the highest forks of the trees.
+
+
+THE STORY OF A DAM
+
+
+There was a great drought in the land; and Lion called together a number
+of animals so that they might devise a plan for retaining water when the
+rains fell.
+
+The animals which attended at Lion's summons were Baboon, Leopard,
+Hyena, Jackal, Hare, and Mountain Tortoise.
+
+It was agreed that they should scratch a large hole in some suitable
+place to hold water; and the next day they all began to work, with the
+exception of Jackal, who continually hovered about in that locality, and
+was overheard to mutter that he was not going to scratch his nails off
+in making water holes.
+
+When the dam was finished the rains fell, and it was soon filled with
+water, to the great delight of those who had worked so hard at it. The
+first one, however, to come and drink there, was Jackal, who not only
+drank, but filled his clay pot with water, and then proceeded to swim
+in the rest of the water, making it as muddy and dirty as he could.
+
+This was brought to the knowledge of Lion, who was very angry and
+ordered Baboon to guard the water the next day, armed with a huge
+knobkirrie. Baboon was concealed in a bush close to the water; but
+Jackal soon became aware of his presence there, and guessed its cause.
+Knowing the fondness of baboons for honey, Jackal at once hit upon a
+plan, and marching to and fro, every now and then dipped his fingers
+into his clay pot, and licked them with an expression of intense relish,
+saying, in a low voice to himself, "I don't want any of their dirty
+water when I have a pot full of delicious honey." This was too much for
+poor Baboon, whose mouth began to water. He soon began to beg Jackal to
+give him a little honey, as he had been watching for several hours, and
+was very hungry and tired.
+
+After taking no notice of Baboon at first, Jackal looked round, and
+said, in a patronizing manner, that he pitied such an unfortunate
+creature, and would give him some honey on certain conditions, viz.,
+that Baboon should give up his knobkirrie and allow himself to be bound
+by Jackal. He foolishly agreed; and was soon tied in such a manner that
+he could not move hand or foot.
+
+Jackal now proceeded to drink of the water, to fill his pot, and to swim
+in the sight of Baboon, from time to time telling him what a foolish
+fellow he had been to be so easily duped, and that he (Jackal) had no
+honey or anything else to give him, excepting a good blow on the head
+every now and then with his own knobkirrie.
+
+The animals soon appeared and found poor Baboon in this sorry plight,
+looking the picture of misery. Lion was so exasperated that he caused
+Baboon to be severely punished, and to be denounced as a fool.
+
+Tortoise hereupon stepped forward, and offered his services for the
+capture of Jackal. It was at first thought that he was merely joking;
+but when he explained in what manner he proposed to catch him, his plan
+was considered so feasible that his offer was accepted. He proposed
+that a thick coating of "bijenwerk" (a kind of sticky black substance
+found on beehives) should be spread all over him, and that he should
+then go and stand at the entrance of the dam, on the water level, so
+that Jackal might tread upon him and stick fast. This was accordingly
+done and Tortoise posted there.
+
+The next day, when Jackal came, he approached the water very cautiously,
+and wondered to find no one there. He then ventured to the entrance of
+the water, and remarked how kind they had been in placing there a large
+black stepping-stone for him. As soon, however, as he trod upon the
+supposed stone, he stuck fast, and saw that he had been tricked; for
+Tortoise now put his head out and began to move. Jackal's hind feet
+being still free he threatened to smash Tortoise with them if he did not
+let him go. Tortoise merely answered, "Do as you like." Jackal thereupon
+made a violent jump, and found, with horror, that his hind feet were now
+also fast. "Tortoise," said he, "I have still my mouth and teeth left,
+and will eat you alive if you do not let me go." "Do as you like,"
+Tortoise again replied. Jackal, in his endeavors to free himself, at
+last made a desperate bite at Tortoise, and found himself fixed, both
+head and feet. Tortoise, feeling proud of his successful capture, now
+marched quietly up to the top of the bank with Jackal on his back, so
+that he could easily be seen by the animals as they came to the water.
+
+They were indeed astonished to find how cleverly the crafty Jackal had
+been caught; and Tortoise was much praised, while the unhappy Baboon was
+again reminded of his misconduct when set to guard the water.
+
+Jackal was at once condemned to death by Lion; and Hyena was to execute
+the sentence. Jackal pleaded hard for mercy, but finding this useless,
+he made a last request to Lion (always, as he said, so fair and just in
+his dealings) that he should not have to suffer a lingering death.
+
+Lion inquired of him in what manner he wished to die; and he asked that
+his tail might be shaved and rubbed with a little fat, and that Hyena
+might then swing him round twice and dash his brains out upon a stone.
+This, being considered sufficiently fair by Lion, was ordered by him to
+be carried out in his presence.
+
+When Jackal's tail had been shaved and greased, Hyena caught hold of him
+with great force, and before he had fairly lifted him from the ground,
+the cunning Jackal had slipped away from Hyena's grasp, and was running
+for his life, pursued by all the animals.
+
+Lion was the foremost pursuer, and after a great chase Jackal got under
+an overhanging precipice, and, standing on his hind legs with his
+shoulders pressed against the rock, called loudly to Lion to help him,
+as the rock was falling, and would crush them both. Lion put his
+shoulders to the rock, and exerted himself to the utmost. After some
+little time Jackal proposed that he should creep slowly out, and fetch a
+large pole to prop up the rock, so that Lion could get out and save his
+life. Jackal did creep out, and left Lion there to starve and die.
+
+
+THE DANCE FOR WATER OR RABBIT'S TRIUMPH
+
+
+There was a frightful drought. The rivers after a while dried up and
+even the springs gave no water.
+
+The animals wandered around seeking drink, but to no avail. Nowhere was
+water to be found.
+
+A great gathering of animals was held: Lion, Tiger, Wolf, Jackal,
+Elephant, all of them came together. What was to be done? That was the
+question. One had this plan, and another had that; but no plan seemed of
+value.
+
+Finally one of them suggested: "Come, let all of us go to the dry river
+bed and dance; in that way we can tread out the water."
+
+Good! Everyone was satisfied and ready to begin instantly, excepting
+Rabbit, who said, "I will not go and dance. All of you are mad to
+attempt to get water from the ground by dancing."
+
+The other animals danced and danced, and ultimately danced the water to
+the surface. How glad they were. Everyone drank as much as he could, but
+Rabbit did not dance with them. So it was decided that Rabbit should
+have no water.
+
+He laughed at them: "I will nevertheless drink some of your water."
+
+That evening he proceeded leisurely to the river bed where the dance had
+been, and drank as much as he wanted. The following morning the animals
+saw the footprints of Rabbit in the ground, and Rabbit shouted to them:
+"Aha! I did have some of the water, and it was most refreshing and
+tasted fine."
+
+Quickly all the animals were called together. What were they to do? How
+were they to get Rabbit in their hands? All had some means to propose;
+the one suggested this, and the other that.
+
+Finally old Tortoise moved slowly forward, foot by foot: "I will catch
+Rabbit."
+
+"You? How? What do you think of yourself?" shouted the others in
+unison.
+
+"Rub my shell with pitch,[1] and I will go to the edge of the water and
+lie down. I will then resemble a stone, so that when Rabbit steps on me
+his feet will stick fast."
+
+"Yes! Yes! That's good."
+
+And in a one, two, three, Tortoise's shell was covered with pitch, and
+foot by foot he moved away to the river. At the edge, close to the
+water, he lay down and drew his head into his shell.
+
+Rabbit during the evening came to get a drink. "Ha!" he chuckled
+sarcastically, "they are, after all, quite decent. Here they have placed
+a stone, so now I need not unnecessarily wet my feet."
+
+Rabbit trod with his left foot on the stone, and there it stuck.
+Tortoise then put his head out. "Ha! old Tortoise! And it's you, is it,
+that's holding me. But here I still have another foot. I'll give you a
+good clout." Rabbit gave Tortoise what he said he would with his right
+fore foot, hard and straight; and there his foot remained.
+
+"I have yet a hind foot, and with it I'll kick you." Rabbit drove his
+hind foot down. This also rested on Tortoise where it struck.
+
+"But still another foot remains, and now I'll tread you." He stamped his
+foot down, but it stuck like the others.
+
+He used his head to hammer Tortoise, and his tail as a whip, but both
+met the same fate as his feet, so there he was tight and fast down to
+the pitch.
+
+Tortoise now slowly turned himself round and foot by foot started for
+the other animals, with Rabbit on his back.
+
+"Ha! ha! ha! Rabbit! How does it look now? Insolence does not pay after
+all," shouted the animals.
+
+Now advice was sought. What should they do with Rabbit? He certainly
+must die. But how? One said, "Behead him"; another, "Some severe
+penalty."
+
+"Rabbit, how are we to kill you?"
+
+"It does not affect me," Rabbit said. "Only a shameful death please do
+not pronounce."
+
+"And what is that?" they all shouted.
+
+"To take me by my tail and dash my head against a stone; that I pray and
+beseech you don't do."
+
+"No, but just so you'll die. That is decided."
+
+It was decided Rabbit should die by taking him by his tail and dashing
+his head to pieces against some stone. But who is to do it?
+
+Lion, because he is the most powerful one.
+
+Good! Lion should do it. He stood up, walked to the front, and poor
+Rabbit was brought to him. Rabbit pleaded and beseeched that he couldn't
+die such a miserable death.
+
+Lion took Rabbit firmly by the tail and swung him around. The white skin
+slipped off from Rabbit, and there Lion stood with the white bit of skin
+and hair in his paw. Rabbit was free.
+
+FOOTNOTES:
+
+[1] Black beeswax.
+
+
+JACKAL AND MONKEY
+
+
+Every evening Jackal went to the Boer's kraal. He crept through the
+sliding door and stole a fat young lamb. This, clever Jackal did several
+times in succession. Boer set a wip[2] for him at the door. Jackal went
+again and zip--there he was caught around the body by the noose. He
+swung and swayed high in the air and couldn't touch ground. The day
+began to dawn and Jackal became uneasy.
+
+On a stone kopje, Monkey sat. When it became light he could see the
+whole affair, and descended hastily for the purpose of mocking Jackal.
+He went and sat on the wall. "Ha, ha, good morning. So there you are
+hanging now, eventually caught."
+
+"What? I caught? I am simply swinging for my pleasure; it is enjoyable."
+
+"You fibber. You are caught in the wip."
+
+"If you but realized how nice it was to swing and sway like this, you
+wouldn't hesitate. Come, try it a little. You feel so healthy and strong
+for the day, and you never tire afterwards."
+
+"No, I won't. You are caught."
+
+After a while Jackal convinced Monkey. He sprang from the kraal wall,
+and freeing Jackal, adjusted the noose around his own body. Jackal
+quickly let go and began to laugh, as Monkey was now swinging high in
+the air.
+
+"Ha, ha, ha," he laughed. "Now Monkey is in the wip."
+
+"Jackal, free me," he screamed.
+
+"There, Boer is coming," shouted Jackal.
+
+"Jackal, free me of this, or I'll break your playthings."
+
+"No, there Boer is coming with his gun; you rest a while in the noose."
+
+"Jackal, quickly make me free."
+
+"No, here's Boer already, and he's got his gun. Good morning." And with
+these parting words he ran away as fast as he could. Boer came and saw
+Monkey in the wip.
+
+"So, so, Monkey, now you are caught. You are the fellow who has been
+stealing my lambs, hey?"
+
+"No, Boer, no," screamed Monkey, "not I, but Jackal."
+
+"No, I know you; you aren't too good for that."
+
+"No, Boer, no, not I, but Jackal," Monkey stammered.
+
+"Oh, I know you. Just wait a little," and Boer, raising his gun, aimed
+and shot poor Monkey dead.
+
+FOOTNOTES:
+
+[2] _Wip_: A Dutch word for springle, consisting of a bent green stick,
+to which a noose is attached at one end; the trap is delicately adjusted
+by a cross stick, which when trod on releases the bent bough, pulling
+the noose quickly around the animal and into the air.
+
+
+LION'S SHARE
+
+
+Lion and Jackal went together a-hunting. They shot with arrows. Lion
+shot first, but his arrow fell short of its aim; but Jackal hit the
+game, and joyfully cried out, "It has hit."
+
+Lion looked at him with his two large eyes; Jackal, however, did not
+lose his countenance, but said, "No, uncle, I mean to say that you have
+hit." Then they followed the game, and Jackal passed the arrow of Lion
+without drawing the latter's attention to it. When they arrived at a
+crossway, Jackal said: "Dear uncle, you are old and tired; stay here."
+Jackal went then on a wrong track, beat his nose, and, in returning, let
+the blood drop from it like traces of game. "I could not find anything,"
+he said, "but I met with traces of blood. You had better go yourself to
+look for it. In the meantime I shall go this other way."
+
+Jackal soon found the killed animal, crept inside of it, and devoured
+the best portion; but his tail remained outside, and when Lion arrived,
+he got hold of it, pulled Jackal out, and threw him on the ground with
+these words: "You rascal!"
+
+Jackal rose quickly again, complained of the rough handling, and asked,
+"What have I now done, dear uncle? I was busy cutting out the best
+part."
+
+"Now let us go and fetch our wives," said Lion, but Jackal entreated his
+dear uncle to remain at the place because he was old. Jackal then went
+away, taking with him two portions of the flesh, one for his own wife,
+but the best part for the wife of Lion. When Jackal arrived with the
+flesh, the children of Lion, seeing him, began to jump, and clapping
+their hands, cried out: "There comes cousin with flesh!" Jackal threw,
+grumbling, the worst portion to them, and said, "There, you brood of the
+big-eyed one!" Then he went to his own house and told his wife
+immediately to break up the house, and to go where the killed game was.
+Lioness wished to do the same, but he forbade her, and said that Lion
+would himself come to fetch her.
+
+When Jackal, with his wife and children, arrived in the neighborhood of
+the killed animal, he ran into a thorn bush, scratched his face so that
+it bled, and thus made his appearance before Lion, to whom he said, "Ah!
+what a wife you have got. Look here, how she scratched my face when I
+told her that she should come with us. You must fetch her yourself; I
+cannot bring her." Lion went home very angry. Then Jackal said, "Quick,
+let us build a tower." They heaped stone upon stone, stone upon stone,
+stone upon stone; and when it was high enough, everything was carried to
+the top of it. When Jackal saw Lion approaching with his wife and
+children, he cried out to him:
+
+"Uncle, whilst you were away we have built a tower, in order to be
+better able to see game."
+
+"All right," said Lion; "but let me come up to you."
+
+"Certainly, dear uncle; but how will you manage to come up? We must let
+down a thong for you."
+
+Lion tied the thong around his body and Jackal began drawing him up, but
+when nearly to the top Jackal cried to Lion, "My, uncle, how heavy you
+are!" Then, unseen by Lion, he cut the thong. Lion fell to the ground,
+while Jackal began loudly and angrily to scold his wife, and then said,
+"Go, wife, fetch me a new thong"--"an old one," he said aside to her.
+
+Lion again tied himself to the thong, and, just as he was near the top,
+Jackal cut the thong as before; Lion fell heavily to the bottom,
+groaning aloud, as he had been seriously hurt.
+
+"No," said Jackal, "that will never do: you must, however, manage to
+come up high enough so that you may get a mouthful at least." Then aloud
+he ordered his wife to prepare a good piece, but aside he told her to
+make a stone hot, and to cover it with fat. Then he drew Lion up once
+more, and complaining how heavy he was to hold, told him to open his
+mouth, and thereupon threw the hot stone down his throat. Lion fell to
+the ground and lay there pleading for water, while Jackal climbed down
+and made his escape.
+
+
+JACKAL'S BRIDE
+
+
+Jackal, it is said, married Hyena, and carried off a cow belonging to
+the ants, to slaughter her for the wedding; and when he had slaughtered
+her, he put the cowskin over his bride; and when he had fixed a pole (on
+which to hang the flesh), he placed on the top of the pole (which was
+forked) the hearth for the cooking, in order to cook upon it all sorts
+of delicious food. There came also Lion, and wished to go up. Jackal,
+therefore, asked his little daughter for a thong with which he could
+pull Lion up; and he began to pull him up; and when his face came near
+to the cooking-pot, he cut the thong in two, so that Lion tumbled down.
+Then Jackal upbraided his little daughter with these words: "Why do you
+give me such an old thong?" And he added, "Give me a fresh thong." She
+gave him a new thong, and he pulled Lion up again, and when his face
+came near the pot, which stood on the fire, he said, "open your mouth."
+Then he put into his mouth a hot piece of quartz which had been boiled
+together with the fat, and the stone went down, burning his throat. Thus
+died Lion.
+
+There came also the ants running after the cow, and when Jackal saw them
+he fled. Then they beat the bride in her brookaross dress. Hyena,
+believing that it was Jackal, said:
+
+"You tawny rogue! have you not played at beating long enough? Have you
+no more loving game than this?"
+
+But when she had bitten a hole through the cowskin, she saw that they
+were other people; then she fled, falling here and there, yet made her
+escape.
+
+
+THE STORY OF HARE
+
+
+Once upon a time the animals made a kraal and put some fat in it. They
+agreed that one of their number should remain to be the keeper of the
+gate. The first one that was appointed was the coney (imbila). He agreed
+to take charge, and all the others went away. In a short time the coney
+fell asleep, when the inkalimeva (a fabulous animal) went in and ate all
+the fat. After doing this, he threw a little stone at the coney.
+
+The coney started up and cried out: "The fat belonging to all the
+animals has been eaten by the inkalimeva."
+
+It repeated this cry several times, calling out very loudly. The animals
+at a distance heard it, they ran to the kraal, and when they saw that
+the fat was gone they killed the coney.
+
+They put fat in the kraal a second time, and appointed the muishond
+(ingaga) to keep the gate. The muishond consented, and the animals went
+away as before. After a little time the inkalimeva came to the kraal,
+bringing some honey with it. It invited the keeper of the gate to eat
+honey, and while the muishond was enjoying himself the inkalimeva went
+in and stole all the fat. It threw a stone at the muishond, which caused
+him to look up.
+
+The muishond cried out: "The fat belonging to all the animals has been
+eaten by the inkalimeva."
+
+As soon as the animals heard the cry, they ran to the kraal and killed
+the muishond.
+
+They put fat in the kraal a third time, and appointed the duiker
+(impunzi) to be the keeper of the gate. The duiker agreed, and the
+others went away. In a short time the inkalimeva made its appearance. It
+proposed to the duiker that they should play hide and look for. The
+duiker agreed to this. Then the inkalimeva hid itself, and the duiker
+looked for it till he was so tired that he lay down and went to sleep.
+When the duiker was asleep, the inkalimeva ate up all the fat.
+
+Then it threw a stone at the duiker, which caused him to jump up and cry
+out: "The fat belonging to all the animals has been eaten by the
+inkalimeva."
+
+The animals, when they heard the cry, ran to the kraal and killed the
+duiker.
+
+They put fat in the kraal the fourth time, and appointed the bluebuck
+(inputi) to be the keeper of the gate. When the animals went away, the
+inkalimeva came as before.
+
+It said: "What are you doing by yourself?"
+
+The bluebuck answered: "I am watching the fat belonging to all the
+animals."
+
+The inkalimeva said: "I will be your companion. Come, let us scratch
+each other's heads."
+
+The bluebuck agreed to this. The inkalimeva sat down and scratched the
+head of the other till he went to sleep. Then it arose and ate all the
+fat. When it had finished, it threw a stone at the bluebuck and awakened
+him.
+
+The bluebuck saw what had happened and cried out: "The fat belonging to
+all the animals has been eaten by the inkalimeva."
+
+Then the animals ran up and killed the bluebuck also.
+
+They put fat in the kraal the fifth time, and appointed the porcupine
+(incanda) to be the keeper of the gate. The animals went away, and the
+inkalimeva came as before.
+
+It said to the porcupine, "Let us run a race against each other."
+
+It let the porcupine beat in this race.
+
+Then it said, "I did not think you could run so fast, but let us try
+again." They ran again, and it allowed the porcupine to beat the second
+time. They ran till the porcupine was so tired that he said, "Let us
+rest now."
+
+They sat down to rest, and the porcupine went to sleep. Then the
+inkalimeva rose up and ate all the fat. When it had finished eating, it
+threw a stone at the porcupine, which caused him to jump up.
+
+He called out with a loud voice, "The fat belonging to all the animals
+has been eaten by the inkalimeva."
+
+Then the animals came running up and put the porcupine to death.
+
+They put fat in the kraal the sixth time, and selected the hare
+(umvundla) to be the keeper of the gate. At first the hare would not
+consent.
+
+He said, "The coney is dead, and the muishond is dead, and the duiker is
+dead, and the bluebuck is dead, and the porcupine is dead, and you will
+kill me also."
+
+They promised him that they would not kill him, and after a good deal of
+persuasion he at last agreed to keep the gate. When the animals were
+gone he laid himself down, but he only pretended to be asleep.
+
+In a short time the inkalimeva went in, and was just going to take the
+fat when the hare cried out: "Let the fat alone."
+
+The inkalimeva said, "Please let me have this little bit only."
+
+The hare answered, mocking, "Please let me have this little bit only."
+
+After that they became companions. The hare proposed that they should
+fasten each other's tail, and the inkalimeva agreed. The inkalimeva
+fastened the tail of the hare first.
+
+The hare said, "Don't tie my tail so tight."
+
+Then the hare fastened the tail of the inkalimeva.
+
+The inkalimeva said, "Don't tie my tail so tight," but the hare made no
+answer. After tying the tail of the inkalimeva very fast, the hare took
+his club and killed it. The hare took the tail of the inkalimeva and ate
+it, all except a little piece which he hid in the fence.
+
+Then he called out, "The fat belonging to all the animals has been eaten
+by the inkalimeva."
+
+The animals came running back, and when they saw that the inkalimeva was
+dead they rejoiced greatly. They asked the hare for the tail, which
+should be kept for the chief.
+
+The hare replied, "The one I killed had no tail."
+
+They said, "How can an inkalimeva be without a tail?"
+
+They began to search, and at length they found a piece of the tail in
+the fence. They told the chief that the hare had eaten the tail.
+
+He said, "Bring him to me!"
+
+All the animals ran after the hare, but he fled, and they could not
+catch him. The hare ran into a hole, at the mouth of which the animals
+set a snare, and then went away. The hare remained in the hole for many
+days, but at length he managed to get out without being caught.
+
+He went to a place where he found a bushbuck (imbabala) building a hut.
+There was a pot with meat in it on the fire.
+
+He said to the bushbuck, "Can I take this little piece of meat?"
+
+The bushbuck answered, "You must not do it."
+
+But he took the meat and ate it all. Afterwards he whistled in a
+particular manner, and there fell a storm of hail which killed the
+bushbuck. Then he took the skin of the bushbuck, and made for himself a
+mantle.
+
+After this the hare went into the forest to procure some weapons to
+fight with. While he was cutting a stick the monkeys threw leaves upon
+him. He called to them to come down and beat him. They came down, but he
+killed them all with his weapons.
+
+
+THE WHITE MAN AND SNAKE
+
+
+A white man, it is said, met Snake upon whom a large stone had fallen
+and covered her so that she could not rise. The White Man lifted the
+stone off Snake, but when he had done so, she wanted to bite him. The
+White Man said, "Stop! let us both go first to some wise people." They
+went to Hyena, and the White Man asked him, "Is it right that Snake
+should want to bite me, when I helped her as she lay under a stone and
+could not rise?"
+
+Hyena (who thought he would get his share of the White Man's body) said,
+"If you were bitten what would it matter?"
+
+Then Snake wanted to bite him, but the White Man said again, "Wait a
+little, and let us go to other wise people, that I may hear whether this
+is right."
+
+They went and met Jackal. The White Man said to Jackal, "Is it right
+for Snake to want to bite me, when I lifted up the stone which lay upon
+her?"
+
+Jackal replied, "I do not believe that Snake could be covered by a stone
+so she could not rise. Unless I saw it with my two eyes, I would not
+believe it. Therefore, come let us go and see the place where you say it
+happened whether it can be true."
+
+They went, and arrived at the place where it had happened. Jackal said,
+"Snake, lie down, and let thyself be covered."
+
+Snake did so, and the White Man covered her with the stone; but although
+she exerted herself very much, she could not rise. Then the White Man
+wanted again to release Snake, but Jackal interfered, and said, "Do not
+lift the stone. She wanted to bite you, therefore she may rise by
+herself."
+
+Then they both went away and left Snake under the stone.
+
+
+ANOTHER VERSION OF THE SAME FABLE
+
+
+A Dutchman was walking by himself and saw Snake lying under a large
+stone. Snake implored his help; but when she had become free she said,
+"Now I shall eat you."
+
+The Man answered, "That is not right. Let us first go to Hare."
+
+When Hare had heard the affair, he said, "It is right."
+
+"No," said the Man, "let us ask Hyena."
+
+Hyena declared the same, saying, "It is right."
+
+"Now let us ask Jackal," said the Man in his despair.
+
+Jackal answered very slowly and considerately, doubting the whole
+affair, and demanding to see first the place, and whether the Man was
+able to lift the stone. Snake lay down, and the Man, to prove the truth
+of his account, put the stone again over her.
+
+When she was fast, Jackal said, "Now let her lie there."
+
+
+CLOUD-EATING
+
+
+Jackal and Hyena were together, it is said, when a white cloud rose.
+Jackal descended upon it, and ate of the cloud as if it were fat.
+
+When he wanted to come down, he said to Hyena, "My sister, as I am going
+to divide with thee, catch me well." So she caught him, and broke his
+fall. Then she also went up and ate there, high up on the top of the
+cloud.
+
+When she was satisfied, she said, "My greyish brother, now catch me
+well." The greyish rogue said to his friend, "My sister, I shall catch
+thee well. Come therefore down."
+
+He held up his hands, and she came down from the cloud, and when she was
+near, Jackal cried out (painfully jumping to one side), "My sister, do
+not take it ill. Oh me! Oh me! A thorn has pricked me and sticks in me."
+Thus she fell down from above, and was sadly hurt.
+
+Since that day, it is said that Hyena's hind feet have been shorter and
+smaller than the front ones.
+
+
+LION'S ILLNESS
+
+
+Lion, it is said, was ill, and they all went to see him in his
+suffering. But Jackal did not go, because the traces of the people who
+went to see him did not turn back. Thereupon, he was accused by Hyena,
+who said, "Though I go to look, yet Jackal does not want to come and
+look at the man's sufferings."
+
+Then Lion let Hyena go, in order that she might catch Jackal; and she
+did so, and brought him.
+
+Lion asked Jackal: "Why did you not come here to see me?"
+
+Jackal said, "Oh, no! when I heard that my uncle was so very ill, I went
+to the witch (doctor) to consult him, whether and what medicine would be
+good for my uncle against the pain. The doctor said to me, 'Go and tell
+your uncle to take hold of Hyena and draw off her skin, and put it on
+while it is still warm. Then he will recover.' Hyena is one who does not
+care for my uncle's sufferings."
+
+Lion followed his advice, got hold of Hyena, drew the skin over her
+ears, whilst she howled with all her might, and put it on.
+
+
+JACKAL, DOVE, AND HERON
+
+
+Jackal, it is said, came once to Dove, who lived on the top of a rock,
+and said, "Give me one of your little ones."
+
+Dove answered, "I shall not do anything of the kind."
+
+Jackal said, "Give me it at once! Otherwise, I shall fly up to you."
+Then she threw one down to him.
+
+He came back another day and demanded another little one, and she gave
+it to him. After Jackal had gone, Heron came, and asked, "Dove, why do
+you cry?"
+
+Dove answered him, "Jackal has taken away my little ones; it is for this
+that I cry." He asked her, "In what manner did he take them?" She
+answered him, "When he asked me I refused him; but when he said, 'I
+shall at once fly up, therefore give me it,' I threw it down to him."
+
+Heron said, "Are you such a fool as to give your young ones to Jackal,
+who cannot fly?" Then, with the admonition to give no more, he went
+away.
+
+Jackal came again, and said, "Dove, give me a little one." Dove refused,
+and told him that Heron had told her that he could not fly up. Jackal
+said, "I shall catch him."
+
+So when Heron came to the banks of the water, Jackal asked him: "Brother
+Heron, when the wind comes from this side, how will you stand?" He
+turned his neck towards him and said, "I stand thus, bending my neck on
+one side." Jackal asked him again, "When a storm comes and when it
+rains, how do you stand?" He said to him: "I stand thus, indeed, bending
+my neck down."
+
+Then Jackal beat him on his neck, and broke his neck in the middle.
+
+Since that day Heron's neck is bent.
+
+
+COCK AND JACKAL
+
+
+Cock, it is said, was once overtaken by Jackal, and caught. Cock said to
+Jackal, "Please, pray first (before you kill me), as the white man
+does."
+
+Jackal asked, "In what manner does he pray? Tell me."
+
+"He folds his hands in praying," said Cock. Jackal folded his hands and
+prayed. Then Cock spoke again: "You ought not to look about you as you
+do. You had better shut your eyes." He did so; and Cock flew away,
+upbraiding at the same time Jackal with these words, "You rogue! do you
+also pray?"
+
+There sat Jackal, speechless, because he had been outdone.
+
+
+ELEPHANT AND TORTOISE
+
+
+Two powers, Elephant and Rain, had a dispute. Elephant said, "If you say
+that you nourish me, in what way is it that you say so?" Rain answered,
+"If you say that I do not nourish you, when I go away, will you not
+die?" And Rain then departed.
+
+Elephant said, "Vulture! cast lots to make rain for me."
+
+Vulture said, "I will not cast lots."
+
+Then Elephant said to Crow, "Cast lots!" who answered, "Give the things
+with which I may cast lots." Crow cast lots and rain fell. It rained at
+the lagoons, but they dried up, and only one lagoon remained.
+
+Elephant went a-hunting. There was, however, Tortoise, to whom Elephant
+said, "Tortoise, remain at the water!" Thus Tortoise was left behind
+when Elephant went a-hunting.
+
+There came Giraffe, and said to Tortoise, "Give me water!" Tortoise
+answered, "The water belongs to Elephant."
+
+There came Zebra, who said to Tortoise, "Give me water!" Tortoise
+answered, "The water belongs to Elephant."
+
+There came Gemsbok, and said to Tortoise, "Give me water!" Tortoise
+answered, "The water belongs to Elephant."
+
+There came Wildebeest, and said, "Give me water!" Tortoise said, "The
+water belongs to Elephant."
+
+There came Roodebok, and said to Tortoise, "Give me water!" Tortoise
+answered, "The water belongs to Elephant."
+
+There came Springbok, and said to Tortoise, "Give me water!" Tortoise
+said, "The water belongs to Elephant."
+
+There came Jackal, and said to Tortoise, "Give me water!" Tortoise said,
+"The water belongs to Elephant."
+
+There came Lion, and said, "Little Tortoise, give me water!" When little
+Tortoise was about to say something, Lion got hold of him and beat him;
+Lion drank of the water, and since then the animals drink water.
+
+When Elephant came back from the hunting, he said, "Little Tortoise, is
+there water?" Tortoise answered, "The animals have drunk the water."
+Elephant asked, "Little Tortoise, shall I chew you or swallow you down?"
+Little Tortoise said, "Swallow me, if you please!" and Elephant
+swallowed him whole.
+
+After Elephant had swallowed Little Tortoise, and he had entered his
+body, he tore off his liver, heart, and kidneys. Elephant said, "Little
+Tortoise, you kill me."
+
+So Elephant died; but little Tortoise came out of his dead body, and
+went wherever he liked.
+
+
+ANOTHER VERSION OF THE SAME FABLE
+
+
+Giraffe and Tortoise, they say, met one day. Giraffe said to Tortoise,
+"At once I could trample you to death." Tortoise, being afraid, remained
+silent. Then Giraffe said, "At once I could swallow you." Tortoise said,
+in answer to this, "Well, I just belong to the family of those whom it
+has always been customary to swallow." Then Giraffe swallowed Tortoise;
+but when the latter was being gulped down, he stuck in Giraffe's throat,
+and as the latter could not get it down, he was choked to death.
+
+When Giraffe was dead, Tortoise crawled out and went to Crab (who is
+considered as the mother of Tortoise), and told her what had happened.
+Then Crab said:
+
+    "The little Crab! I could sprinkle it under its arm with Boochoo,[3]
+    The crooked-legged little one, I could sprinkle under its arm."
+
+Tortoise answered its mother and said:
+
+    "Have you not always sprinkled me,
+    That you want to sprinkle me now?"
+
+Then they went and fed for a whole year on the remains of Giraffe.
+
+FOOTNOTES:
+
+[3] (In token of approval, according to a Hottentot custom.)
+
+
+TORTOISES HUNTING OSTRICHES
+
+
+One day, it is said, the Tortoises held a council how they might hunt
+Ostriches, and they said, "Let us, on both sides, stand in rows near
+each other, and let one go to hunt the Ostriches, so that they must flee
+along through the midst of us." They did so, and as they were many, the
+Ostriches were obliged to run along through the midst of them. During
+this they did not move, but, remaining always in the same places, called
+each to the other, "Are you there?" and each one answered, "I am here."
+The Ostriches hearing this, ran so tremendously that they quite
+exhausted their strength, and fell down. Then the Tortoises assembled
+by-and-by at the place where the Ostriches had fallen, and devoured
+them.
+
+
+THE JUDGMENT OF BABOON
+
+
+One day, it is said, the following story happened:
+
+Mouse had torn the clothes of Itkler (the tailor), who then went to
+Baboon, and accused Mouse with these words:
+
+"In this manner I come to thee: Mouse has torn my clothes, but will not
+know anything of it, and accuses Cat; Cat protests likewise her
+innocence, and says, 'Dog must have done it'; but Dog denies it also,
+and declares Wood has done it; and Wood throws the blame on Fire, and
+says, 'Fire did it'; Fire says, 'I have not, Water did it'; Water says,
+'Elephant tore the clothes'; and Elephant says, 'Ant tore them.' Thus a
+dispute has arisen among them. Therefore, I, Itkler, come to thee with
+this proposition: Assemble the people and try them in order that I may
+get satisfaction."
+
+Thus he spake, and Baboon assembled them for trial. Then they made the
+same excuses which had been mentioned by Itkler, each one putting the
+blame upon the other.
+
+So Baboon did not see any other way of punishing them, save through
+making them punish each other; he therefore said,
+
+"Mouse, give Itkler satisfaction."
+
+Mouse, however, pleaded not guilty. But Baboon said, "Cat, bite Mouse."
+She did so.
+
+He then put the same question to Cat, and when she exculpated herself,
+Baboon called to Dog, "Here, bite Cat."
+
+In this manner Baboon questioned them all, one after the other, but they
+each denied the charge. Then he addressed the following words to them,
+and said,
+
+              "Wood, beat Dog.
+              Fire, burn Wood.
+              Water, quench Fire.
+              Elephant, drink Water.
+    Ant, bite Elephant in his most tender parts."
+
+They did so, and since that day they cannot any longer agree with each
+other.
+
+Ant enters into Elephant's most tender parts and bites him.
+
+              Elephant swallows Water.
+              Water quenches Fire.
+              Fire consumes Wood.
+              Wood beats Dog.
+              Dog bites Cat.
+              And Cat bites Mouse.
+
+Through this judgment Itkler got satisfaction and addressed Baboon in
+the following manner:
+
+"Yes! Now I am content, since I have received satisfaction, and with all
+my heart I thank thee, Baboon, because thou hast exercised justice on my
+behalf and given me redress."
+
+Then Baboon said, "From to-day I will not any longer be called Jan, but
+Baboon shall be my name."
+
+Since that time Baboon walks on all fours, having probably lost the
+privilege of walking erect through this foolish judgment.
+
+
+LION AND BABOON
+
+
+Baboon, it is said, once worked bamboos, sitting on the edge of a
+precipice, and Lion stole upon him. Baboon, however, had fixed some
+round, glistening, eye-like plates on the back of his head. When,
+therefore, Lion crept upon him, he thought, when Baboon was looking at
+him, that he sat with his back towards him, and crept with all his might
+upon him. When, however, Baboon turned his back towards him, Lion
+thought that he was seen, and hid himself. Thus, when Baboon looked at
+him, he crept upon him.[4] When he was near him Baboon looked up, and
+Lion continued to creep upon him. Baboon said (aside), "Whilst I am
+looking at him he steals upon me, whilst my hollow eyes are on him."
+
+When at last Lion sprung at him, he lay (quickly) down upon his face,
+and Lion jumped over him, falling down the precipice, and was dashed to
+pieces.
+
+FOOTNOTES:
+
+[4] Whilst Baboon did this, Lion came close upon him.
+
+
+THE ZEBRA STALLION
+
+
+The Baboons, it is said, used to disturb the Zebra Mares in drinking.
+But one of the Mares became the mother of a foal. The others then helped
+her to suckle (the young stallion), that he might soon grow up.
+
+When he was grown up and they were in want of water, he brought them to
+the water. The Baboons, seeing this, came, as they formerly were used to
+do, into their way, and kept them from the water.
+
+While the Mares stood thus, the Stallion stepped forward, and spoke to
+one of the Baboons, "Thou gum-eater's child!"
+
+The Baboon said to the Stallion, "Please open thy mouth, that I may see
+what thou livest on." The Stallion opened his mouth, and it was milky.
+
+Then the Stallion said to the Baboon, "Please open thy mouth also, that
+I may see." The Baboon did so, and there was some gum in it. But the
+Baboon quickly licked some milk off the Stallion's tongue. The Stallion
+on this became angry, took the Baboon by his shoulders, and pressed him
+upon a hot, flat rock. Since that day the Baboon has a bald place on his
+back.
+
+The Baboon said, lamenting, "I, my mother's child, I, the gum-eater, am
+outdone by this milk-eater!"
+
+
+WHEN LION COULD FLY
+
+
+Lion, it is said, used once to fly, and at that time nothing could live
+before him. As he was unwilling that the bones of what he caught should
+be broken into pieces, he made a pair of White Crows watch the bones,
+leaving them behind at the kraal whilst he went a-hunting. But one day
+Great Frog came there, broke the bones in pieces, and said, "Why can men
+and animals live no longer?" And he added these words, "When he comes,
+tell him that I live at yonder pool; if he wishes to see me, he must
+come there."
+
+Lion, lying in wait (for game), wanted to fly up, but found he could not
+fly. Then he got angry, thinking that at the kraal something was wrong,
+and returned home. When he arrived he asked, "What have you done that I
+cannot fly?" Then they answered and said, "Some one came here, broke the
+bones into pieces, and said, 'If he want me, he may look for me at
+yonder pool!'" Lion went, and arrived while Frog was sitting at the
+water's edge, and he tried to creep stealthily upon him. When he was
+about to get hold of him, Frog said, "Ho!" and, diving, went to the
+other side of the pool, and sat there. Lion pursued him; but as he could
+not catch him he returned home.
+
+From that day, it is said, Lion walked on his feet, and also began to
+creep upon (his game); and the White Crows became entirely dumb since
+the day that they said, "Nothing can be said of that matter."
+
+
+LION WHO THOUGHT HIMSELF WISER THAN HIS MOTHER
+
+
+It is said that when Lion and Gurikhoisip (the Only man), together with
+Baboon, Buffalo, and other friends, were playing one day at a certain
+game, there was a thunderstorm and rain at Aroxaams. Lion and
+Gurikhoisip began to quarrel. "I shall run to the rain-field," said
+Lion. Gurikhoisip said also, "I shall run to the rain-field." As neither
+would concede this to the other, they separated (angrily). After they
+had parted, Lion went to tell his Mother those things which they had
+both said.
+
+His Mother said to him, "My son! that Man whose head is in a line with
+his shoulders and breast, who has pinching weapons, who keeps white
+dogs, who goes about wearing the tuft of a tiger's tail, beware of him!"
+Lion, however, said, "Why need I be on my guard against those whom I
+know?" Lioness answered, "My Son, take care of him who has pinching
+weapons!" But Lion would not follow his Mother's advice, and the same
+morning, when it was still pitch dark, he went to Aroxaams, and laid
+himself in ambush. Gurikhoisip went also that morning to the same place.
+When he had arrived he let his dogs drink, and then bathe. After they
+had finished they wallowed. Then also Man drank; and, when he had done
+drinking, Lion came out of the bush. Dogs surrounded him as his Mother
+had foretold, and he was speared by Gurikhoisip. Just as he became aware
+that he was speared, the Dogs drew him down again. In this manner he
+grew faint. While he was in this state, Gurikhoisip said to the Dogs,
+"Let him alone now, that he may go and be taught by his Mother." So the
+Dogs let him go. They left him, and went home as he lay there. The same
+night he walked towards home, but whilst he was on the way his strength
+failed him, and he lamented:
+
+    "Mother! take me up!
+    Grandmother! take me up! Oh me! Alas!"
+
+At the dawn of day his Mother heard his wailing, and said--
+
+"My Son, this is the thing which I have told thee:
+
+    "'Beware of the one who has pinching weapons,
+    Who wears a tuft of tiger's tail,
+    Of him who has white dogs!
+    Alas! thou son of her who is short-eared,
+    Thou, my short-eared child!
+    Son of her who eats raw flesh,
+    Thou flesh-devourer;
+    Son of her whose nostrils are red from the prey,
+    Thou with blood-stained nostrils!
+    Son of her who drinks pit-water,
+    Thou water-drinker!'"
+
+
+LION WHO TOOK A WOMAN'S SHAPE
+
+
+Some Women, it is said, went out to seek roots and herbs and other wild
+food. On their way home they sat down and said, "Let us taste the food
+of the field." Now they found that the food picked by one of them was
+sweet, while that of the others was bitter. The latter said to each
+other, "Look here! this Woman's herbs are sweet." Then they said to the
+owner of the sweet food, "Throw it away and seek for other." So she
+threw away the food, and went to gather more. When she had collected a
+sufficient supply, she returned to join the other Women, but could not
+find them. She went therefore down to the river, where Hare sat lading
+water, and said to him, "Hare, give me some water that I may drink." But
+he replied, "This is the cup out of which my uncle (Lion) and I alone
+may drink."
+
+She asked again: "Hare, draw water for me that I may drink." But Hare
+made the same reply. Then she snatched the cup from him and drank, but
+he ran home to tell his uncle of the outrage which had been committed.
+
+The Woman meanwhile replaced the cup and went away. After she had
+departed Lion came down, and, seeing her in the distance, pursued her on
+the road. When she turned round and saw him coming, she sang in the
+following manner:
+
+    "My mother, she would not let me seek herbs,
+    Herbs of the field, food from the field. Hoo!"
+
+When Lion at last came up with the Woman, they hunted each other round a
+shrub. She wore many beads and arm-rings, and Lion said, "Let me put
+them on!" So she lent them to him, but he afterwards refused to return
+them to her.
+
+They then hunted each other again round the shrub, till Lion fell down,
+and the Woman jumped upon him, and kept him there. Lion (uttering a form
+of conjuration) said:
+
+    "My Aunt! it is morning, and time to rise;
+    Pray, rise from me!"
+
+She then rose from him, and they hunted again after each other round the
+shrub, till the Woman fell down, and Lion jumped upon her. She then
+addressed him:
+
+    "My Uncle! it is morning, and time to rise;
+    Pray, rise from me!"
+
+He rose, of course, and they hunted each other again, till Lion fell a
+second time. When she jumped upon him he said:
+
+    "My Aunt! it is morning, and time to rise;
+    Pray, rise from me!"
+
+They rose again and hunted after each other. The Woman at last fell
+down. But this time when she repeated the above conjuration, Lion said:
+
+"Hè Kha! Is it morning, and time to rise?"
+
+He then ate her, taking care, however, to leave her skin whole, which he
+put on, together with her dress and ornaments, so that he looked quite
+like a woman, and then went home to her kraal.
+
+When this counterfeit woman arrived, her little sister, crying, said,
+"My sister, pour some milk out for me." She answered, "I shall not pour
+you out any." Then the Child addressed their Mother: "Mama, do pour out
+some for me." The Mother of the kraal said, "Go to your sister, and let
+her give it to you!" The little Child said again to her sister, "Please,
+pour out for me!" She, however, repeated her refusal, saying, "I will
+not do it." Then the Mother of the kraal said to the little One, "I
+refused to let her (the elder sister) seek herbs in the field, and I do
+not know what may have happened; go therefore to Hare, and ask him to
+pour out for you."
+
+So then Hare gave her some milk; but her elder sister said, "Come and
+share it with me." The little Child then went to her sister with her
+bamboo (cup), and they both sucked the milk out of it. Whilst they were
+doing this, some milk was spilt on the little one's hand, and the elder
+sister licked it up with her tongue, the roughness of which drew blood;
+this, too, the Woman licked up.
+
+The little Child complained to her Mother: "Mama, sister pricks holes in
+me and sucks the blood." The Mother said, "With what Lion's nature your
+sister went the way that I forbade her, and returned, I do not know."
+
+Now the Cows arrived, and the elder sister cleansed the pails in order
+to milk them. But when she approached the Cows with a thong (in order to
+tie their fore-legs), they all refused to be milked by her.
+
+Hare said, "Why do not you stand before the Cow?" She replied, "Hare,
+call your brother, and do you two stand before the Cow." Her husband
+said, "What has come over her that the Cows refuse her? These are the
+same Cows she always milks." The Mother (of the kraal) said, "What has
+happened this evening? These are Cows which she always milks without
+assistance. What can have affected her that she comes home as a woman
+with a Lion's nature?"
+
+The elder daughter then said to her Mother, "I shall not milk the
+Cows." With these words she sat down. The Mother said therefore to Hare,
+"Bring me the bamboos, that I may milk. I do not know what has come over
+the girl."
+
+So the Mother herself milked the cows, and when she had done so, Hare
+brought the bamboos to the young wife's house, where her husband was,
+but she (the wife) did not give him (her husband) anything to eat. But
+when at night time she fell asleep, they saw some of the Lion's hair,
+which was hanging out where he had slipped on the Woman's skin, and they
+cried, "Verily! this is quite another being. It is for this reason that
+the Cows refused to be milked."
+
+Then the people of the kraal began to break up the hut in which Lion lay
+asleep. When they took off the mats, they said (conjuring them), "If
+thou art favourably inclined to me, O Mat, give the sound 'sawa'"
+(meaning, making no noise).
+
+To the poles (on which the hut rested) they said, "If thou art
+favourably inclined to me, O Pole, thou must give the sound 'gara.'"
+
+They addressed also the bamboos and the bed-skins in a similar manner.
+
+Thus gradually and noiselessly they removed the hut and all its
+contents. Then they took bunches of grass, put them over the Lion, and
+lighting them, said, "If thou art favourably inclined to me, O Fire,
+thou must flare up, 'boo boo,' before thou comest to the heart."
+
+So the Fire flared up when it came towards the heart, and the heart of
+the Woman jumped upon the ground. The Mother (of the kraal) picked it
+up, and put it into a calabash.
+
+Lion, from his place in the fire, said to the Mother (of the kraal),
+"How nicely I have eaten your daughter." The Woman answered, "You have
+also now a comfortable place!"
+
+Now the Woman took the first milk of as many Cows as had calves, and put
+it into the calabash where her daughter's heart was; the calabash
+increased in size, and in proportion to this the girl grew again inside
+it.
+
+One day, when the Mother (of the kraal) went out to fetch wood, she said
+to Hare, "By the time that I come back you must have everything nice
+and clean." But during her Mother's absence, the girl crept out of the
+calabash, and put the hut in good order, as she had been used to do in
+former days, and said to Hare, "When Mother comes back and asks, 'Who
+has done these things?' you must say, 'I, Hare, did them.'" After she
+had done all, she hid herself on the stage.
+
+When the Mother of the kraal came home, she said, "Hare, who has done
+these things? They look just as they used when my daughter did them."
+Hare said, "I did the things." But the Mother would not believe it, and
+looked at the calabash. Seeing it was empty, she searched the stage and
+found her daughter. Then she embraced and kissed her, and from that day
+the girl stayed with her Mother, and did everything as she was wont in
+former times; but she now remained unmarried.
+
+
+WHY HAS JACKAL A LONG BLACK STRIPE ON HIS BACK?
+
+
+The Sun, it is said, was one day on earth, and the men who were
+travelling saw him sitting by the wayside, but passed him without
+notice. Jackal, however, who came after them, and saw him also sitting,
+went to him and said, "Such a fine little child is left behind by the
+men." He then took Sun up, and put it into his awa-skin (on his back).
+When it burnt him, he said, "Get down," and shook himself; but Sun stuck
+fast to his back, and burnt Jackal's back black from that day.
+
+
+HORSE CURSED BY SUN
+
+
+It is said that once Sun was on earth, and caught Horse to ride it. But
+it was unable to bear his weight, and therefore Ox took the place of
+Horse, and carried Sun on its back. Since that time Horse is cursed in
+these words, because it could not carry Sun's weight:
+
+    "From to-day thou shalt have a (certain) time of dying.
+    This is thy curse, that thou hast a (certain) time of dying.
+    And day and night shalt thou eat,
+    But the desire of thy heart shall not be at rest,
+    Though thou grazest till morning and again until sunset.
+    Behold, this is the judgment which I pass upon thee," said Sun.
+
+Since that day Horse's (certain) time of dying commenced.
+
+
+LION'S DEFEAT
+
+
+The wild animals, it is said, were once assembled at Lion's. When Lion
+was asleep, Jackal persuaded Little Fox to twist a rope of ostrich
+sinews, in order to play Lion a trick. They took ostrich sinews, twisted
+them, and fastened the rope to Lion's tail, and the other end of the
+rope they tied to a shrub. When Lion awoke, and saw that he was tied up,
+he became angry, and called the animals together. When they had
+assembled, Lion said (using this form of conjuration)--
+
+    "What child of his mother and father's love,
+    Whose mother and father's love has tied me?"
+
+Then answered the animal to whom the question was first put--
+
+    "I, child of my mother and father's love,
+    I, mother and father's love, I have not done it."
+
+All answered the same; but when he asked Little Fox, Little Fox said--
+
+    "I, child of my mother and father's love,
+    I, mother and father's love, have tied thee!"
+
+Then Lion tore the rope made of sinews, and ran after Little Fox. But
+Jackal said:
+
+    "My boy, thou son of lean Mrs. Fox, thou wilt never be caught."
+
+Truly Lion was thus beaten in running by Little Fox.
+
+
+THE ORIGIN OF DEATH
+
+
+The Moon, it is said, sent once an Insect to Men, saying, "Go thou to
+Men, and tell them, 'As I die, and dying live, so ye shall also die, and
+dying live.'" The Insect started with the message, but whilst on his way
+was overtaken by the Hare, who asked: "On what errand art thou bound?"
+The Insect answered: "I am sent by the Moon to Men, to tell them that as
+she dies, and dying lives, they also shall die, and dying live." The
+Hare said, "As thou art an awkward runner, let me go" (to take the
+message). With these words he ran off, and when he reached Men, he said,
+"I am sent by the Moon to tell you, 'As I die, and dying perish, in the
+same manner ye shall also die and come wholly to an end.'" Then the Hare
+returned to the Moon, and told her what he had said to Men. The Moon
+reproached him angrily, saying, "Darest thou tell the people a thing
+which I have not said?" With these words she took up a piece of wood,
+and struck him on the nose. Since that day the Hare's nose is slit.
+
+
+ANOTHER VERSION OF THE SAME FABLE
+
+
+The Moon dies, and rises to life again. The Moon said to the Hare, "Go
+thou to Men, and tell them, 'Like as I die and rise to life again, so
+you also shall die and rise to life again.'" The Hare went to the Men,
+and said, "Like as I die and do not rise to life again, so you shall
+also die, and not rise to life again." When he returned the Moon asked
+"What hast thou said?" "I have told them, 'Like as I die and do not rise
+to life again, so you shall also die and not rise to life again.'"
+"What," said the Moon, "hast thou said that?" And she took a stick and
+beat the Hare on his mouth, which was slit by the blow. The Hare fled,
+and is still fleeing.
+
+
+A THIRD VERSION OF THE SAME FABLE
+
+
+The Moon, on one occasion, sent the Hare to the earth to inform Men that
+as she (the Moon) died away and rose again, so mankind should die and
+rise again. Instead, however, of delivering this message as given, the
+Hare, either out of forgetfulness or malice, told mankind that as the
+Moon rose and died away, so Man should die and rise no more. The Hare,
+having returned to the Moon, was questioned as to the message delivered,
+and the Moon, having heard the true state of the case, became so enraged
+with him that she took up a hatchet to split his head; falling short,
+however, of that, the hatchet fell upon the upper lip of the Hare, and
+cut it severely. Hence it is that we see the "Hare-lip." The Hare, being
+duly incensed at having received such treatment, raised his claws, and
+scratched the Moon's face; and the dark spots which we now see on the
+surface of the Moon are the scars which she received on that occasion.
+
+
+A FOURTH VERSION OF THE SAME FABLE
+
+
+The Moon, they say, wished to send a message to Men, and the Hare said
+that he would take it. "Run, then," said the Moon, "and tell Men that as
+I die and am renewed, so shall they also be renewed." But the Hare
+deceived Men, and said, "As I die and perish, so shall you also."
+
+
+A ZULU VERSION OF THE LEGEND OF THE "ORIGIN OF DEATH"
+
+
+God (Unknlunkuln) arose from beneath (the seat of the spiritual world,
+according to the Zulu idea), and created in the beginning men, animals,
+and all things. He then sent for the Chameleon, and said, "Go,
+Chameleon, and tell Men that they shall not die." The Chameleon went,
+but it walked slowly, and loitered on the way, eating of a shrub called
+Bukwebezane.
+
+When it had been away some time, God sent the Salamander after it,
+ordering him to make haste and tell Men that they should die. The
+Salamander went on his way with this message, outran the Chameleon, and,
+arriving first where the Men were, told them that they must die.
+
+
+LITERATURE
+
+
+    Geschiedenis van
+      Zuid Afrika              Geo. McCall Theal
+
+    Kafir Folk-lore            Geo. McCall Theal   1882
+
+    African Native
+      Literature               S. W. Koelle        1854
+
+    South African
+      Folk-lore Journal
+      Hottentot Fables
+      and Tales                W. H. I. Bleek      1864
+
+    An expedition of
+      Discovery into
+      the Interior of
+      Africa                   James Alexander     1838
+
+    South Africa a
+      Century Ago              Anna Barnard        1901
+
+    An account of travels
+      into the interior of
+      South Africa             John Barrow         1802
+
+    Travels in South
+      Africa                   John Campbell       1816
+
+    The Childhood of Man       Leo Frobenius       1909
+
+    Travels and Adventure
+      in Eastern Africa        Nathaniel Isaacs    1836
+
+    Narrative of Discovery
+      and Adventure
+      in Africa                Jameson, etc.       1830
+
+    Voyage dans L'intérieur
+      de l'Afrique             F. Le Vaillant      1796
+
+    Missionary Travels
+      and Researches in
+      South Africa             D. Livingstone      1858
+
+    Scenes in Africa           Capt. Marryat       1851
+
+    Missionary Labors
+      and Scenes in
+      South Africa             R. Moffat           1845
+
+    A New Gazetteer
+      of the Asia,
+      Africa, etc.,
+      Continents               J. Morse            1802
+
+    South African Native       S. A. Native Races
+      Races                    Committee           1909
+
+    Researches into
+      the Physical
+      History of
+      Mankind                  J. C. Prichard      1841
+
+    Memorials of
+      South Africa             B. Shaw             1841
+
+    Wanderings and
+      Adventures in
+      the Interior of
+      South Africa             A. Stedman          1835
+
+    Notes on the
+      Bushmen                  E. & D. Bleek       1909
+
+    Africa                     K. Johnston         1878
+
+    A Voyage to the
+      Cape of Good
+      Hope                     A. Sparrmann        1785
+
+    Travels in South
+      Africa                   Henry Lichtenstein  1800
+
+    The Dwarfs of
+      Mount Atlas              R. G. Haliburton    1891
+
+    The Native Races
+      of South Africa          G. W. Stow          1905
+
+    Description du
+      Cap de Bonne
+      Esperance                Pierre Kolbe        1741
+
+    Specimens of Dialects      John Clarke         1849
+

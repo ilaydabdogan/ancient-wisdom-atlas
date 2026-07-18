@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_60165
+  work_id: native_american.navaho_legends.matthews_gutenberg
+  title: Navaho Legends
+  source_url: https://www.gutenberg.org/ebooks/60165
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/project-gutenberg/60165-navaho-legends-matthews.txt
+    checksum:
+      algorithm: sha256
+      value: 45c332f0e8d69b5cdd26ad79cc7c871efd5ca24676502b2ba3deea01f2b95672
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/60165-navaho-legends-matthews.md
+    checksum:
+      algorithm: sha256
+      value: 831658c76472a5a51d32b74ac47a2dce02fd9468d39c72cd1939197268fdca0a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+    checksum:
+      algorithm: sha256
+      value: 13f9c0aa6b9dd5c9c08bcb0ee0bfda1ec5924aecf0fb876df334eaf5daf8f79c
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.navaho_legends.matthews_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Dine creation and ceremonial narratives belong to a living religion; some
+      chantway material is traditionally restricted in season and audience. Present
+      with provenance framing and respect for Dine perspectives on ceremonial knowledge.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

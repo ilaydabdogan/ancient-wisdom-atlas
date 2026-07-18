@@ -2,14 +2,14 @@
 queue_id: auto_ingestion_queue
 title: Auto Ingestion Queue
 created_on: '2026-04-27'
-updated_on: '2026-04-28'
+updated_on: '2026-07-17'
 notes: 'Queue for low-risk, rights-cleared corpus ingestion. The automation is intentionally
   conservative: only items whose rights fields explicitly allow public-domain full-text
   and training use should be auto-promoted into texts/. Use small limits for direct
   Project Gutenberg downloads; for high-volume acquisition, use Gutenberg mirrors
   or offline catalogs instead of the main website.
 
-'
+  '
 items:
 - id: greek.odyssey.butler_gutenberg
   status: ingested
@@ -1474,3 +1474,4892 @@ items:
   canonical_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
   manifest_path: manifests/project-gutenberg/28497-myths-of-the-norsemen-guerber.yml
   extraction_dir: extractions/norse/project-gutenberg/myths-of-the-norsemen-guerber
+- id: mesopotamian.gilgamesh.epic_thompson_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: thompson-1928-gilgamesh
+  slug: epic-of-gilgamish-thompson
+  title: The Epic of Gilgamish
+  alternate_titles:
+  - Epic of Gilgamesh
+  - Gilgamesh Epic
+  text_status: complete
+  tradition: mesopotamian
+  tradition_cluster: mesopotamian
+  culture: ancient_mesopotamian_epic_later_translation
+  region: mesopotamia
+  source_language: Akkadian
+  text_language: English
+  date_range: second-to-first millennium BCE Akkadian epic; 1928 public-domain English
+    verse translation
+  source_type: text
+  edition: 'R. Campbell Thompson, The Epic of Gilgamish: A New Translation from a
+    Collation of the Cuneiform Tablets in the British Museum, rendered literally into
+    English hexameters (Luzac & Co., London, 1928); Internet Archive scan with OCR
+    plain text'
+  translator: R. Campbell Thompson
+  editor: ''
+  publication_year: 1928
+  publisher: Luzac & Co.
+  source_url: https://archive.org/details/thompson-1928-gilgamesh
+  download_url: https://archive.org/download/thompson-1928-gilgamesh/Thompson_1928_Gilgamesh_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1928 (pre-1930), so US public domain since 2024. Hosted file
+      is OCR text of a Google Books library scan; expect OCR noise and scan-frontmatter
+      that will need cleanup during conversion.
+  tags:
+  - gilgamesh
+  - epic
+  - flood
+  - immortality_quest
+  - friendship
+  - underworld
+  motifs:
+  - hero_descent
+  - quest_for_immortality
+  - deluge
+  - wild_man_civilized
+  - grief_transformation
+  - plant_of_life
+  figures:
+  - Gilgamesh
+  - Enkidu
+  - Utnapishtim
+  - Ishtar
+  - Humbaba
+  why_it_matters: Covers the full twelve-tablet Gilgamesh epic planned as first500.001-012;
+    the currently ingested Jastrow-Clay volume has only the Old Babylonian Yale/Pennsylvania
+    tablets, so this completes the flood narrative, Humbaba, Ishtar, and Utnapishtim
+    episodes.
+  raw_path: imports/raw/internet-archive/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.md
+- id: mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '9914'
+  slug: babylonian-legends-of-creation
+  title: The Babylonian Legends of the Creation
+  alternate_titles:
+  - Enuma Elish
+  - The Seven Tablets of Creation
+  - The Fight between Bel and the Dragon
+  text_status: complete
+  tradition: mesopotamian
+  tradition_cluster: mesopotamian
+  culture: ancient_mesopotamian_myth_later_translation
+  region: mesopotamia
+  source_language: Akkadian
+  text_language: English
+  date_range: second millennium BCE Babylonian creation epic; 1921 public-domain English
+    translation and commentary
+  source_type: text
+  edition: 'British Museum booklet (1921) presenting L. W. King''s translations of
+    the Seven Tablets of Creation from Nineveh; Project Gutenberg plain-text eBook
+    #9914'
+  translator: L. W. King
+  editor: E. A. Wallis Budge
+  publication_year: 1921
+  publisher: British Museum / Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/9914
+  download_url: https://www.gutenberg.org/ebooks/9914.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - enuma_elish
+  - creation_myth
+  - marduk
+  - tiamat
+  - cosmogony
+  - divine_combat
+  motifs:
+  - primordial_waters
+  - chaoskampf
+  - creation_from_body_of_slain
+  - divine_kingship
+  - naming_and_word_power
+  figures:
+  - Marduk
+  - Tiamat
+  - Ea
+  - Apsu
+  - Kingu
+  why_it_matters: Supplies the Enuma Elish creation epic planned as first500.013-019,
+    covering the Tiamat combat, creation of cosmos and humankind, and the fifty names
+    of Marduk.
+  raw_path: imports/raw/project-gutenberg/9914-babylonian-legends-of-creation.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/9914-babylonian-legends-of-creation.md
+  canonical_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  manifest_path: manifests/project-gutenberg/9914-babylonian-legends-of-creation.yml
+  extraction_dir: extractions/mesopotamian/project-gutenberg/babylonian-legends-of-creation
+- id: mesopotamian.rogers.cuneiform_parallels_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: cuneiformparalle00rogeuoft
+  slug: cuneiform-parallels-rogers
+  title: Cuneiform Parallels to the Old Testament
+  alternate_titles:
+  - Cuneiform Parallels
+  text_status: complete
+  tradition: mesopotamian
+  tradition_cluster: mesopotamian
+  culture: ancient_mesopotamian_anthology_later_translation
+  region: mesopotamia
+  source_language: Akkadian
+  text_language: English
+  date_range: third-to-first millennium BCE Akkadian sources; 1912 public-domain English
+    translation anthology
+  source_type: text
+  edition: Robert William Rogers, Cuneiform Parallels to the Old Testament (Eaton
+    & Mains, New York, 1912); Internet Archive scan with OCR plain text
+  translator: Robert William Rogers
+  editor: ''
+  publication_year: 1912
+  publisher: Eaton & Mains
+  source_url: https://archive.org/details/cuneiformparalle00rogeuoft
+  download_url: https://archive.org/download/cuneiformparalle00rogeuoft/cuneiformparalle00rogeuoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1912, US public domain. Hosted file is OCR text of a library
+      scan; includes transliterations alongside translations, so conversion should
+      target the English translation sections.
+  tags:
+  - creation_myth
+  - deluge
+  - descent_of_ishtar
+  - adapa
+  - etana
+  - anthology
+  motifs:
+  - deluge
+  - underworld_descent
+  - lost_immortality
+  - ascent_to_heaven
+  - divine_law
+  figures:
+  - Ishtar
+  - Adapa
+  - Etana
+  - Utnapishtim
+  - Hammurabi
+  why_it_matters: Best public-domain anthology of Akkadian religious texts; supplies
+    the Descent of Ishtar (Akkadian counterpart to the planned Descent of Inanna,
+    first500.023), Atrahasis-related deluge fragments (first500.020-022), plus Adapa
+    and Etana for comparative motif work.
+  raw_path: imports/raw/internet-archive/cuneiformparalle00rogeuoft-cuneiform-parallels-rogers.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cuneiformparalle00rogeuoft-cuneiform-parallels-rogers.md
+- id: egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: theegyptianheave01budgiala
+  slug: egyptian-heaven-and-hell-v1-am-tuat
+  title: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  alternate_titles:
+  - Book of Am-Tuat
+  - Amduat
+  - Book of That Which Is in the Underworld
+  text_status: complete
+  tradition: egyptian
+  tradition_cluster: egyptian
+  culture: ancient_egyptian_funerary_later_translation
+  region: nile_valley
+  source_language: Egyptian
+  text_language: English
+  date_range: New Kingdom funerary composition; 1905 public-domain English translation
+  source_type: text
+  edition: E. A. Wallis Budge, The Egyptian Heaven and Hell, Vol. I, The Book of the
+    Am-Tuat (Kegan Paul, Trench, Truebner & Co., London, 1905); Internet Archive scan
+    with OCR plain text
+  translator: E. A. Wallis Budge
+  editor: ''
+  publication_year: 1905
+  publisher: Kegan Paul, Trench, Truebner & Co.
+  source_url: https://archive.org/details/theegyptianheave01budgiala
+  download_url: https://archive.org/download/theegyptianheave01budgiala/theegyptianheave01budgiala_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1905, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English translation and hour-by-hour descriptions
+      remain readable and should be extracted during conversion.
+  tags:
+  - amduat
+  - duat
+  - solar_barque
+  - night_journey
+  - underworld_geography
+  - funerary_text
+  motifs:
+  - night_sea_journey
+  - hourly_transformation
+  - serpent_adversary
+  - solar_rebirth
+  - guide_of_souls
+  figures:
+  - Ra
+  - Osiris
+  - Apep
+  - Isis
+  why_it_matters: Supplies the twelve hours of the Amduat planned as first500.038-049,
+    the hour-by-hour night journey of the sun god through the underworld toward dawn
+    rebirth - central to the atlas's descent-and-return motif family.
+  raw_path: imports/raw/internet-archive/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.md
+- id: egyptian.legends_of_gods.budge_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '9411'
+  slug: legends-of-the-gods-budge
+  title: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  alternate_titles:
+  - Legends of the Gods
+  - Legends of the Egyptian Gods
+  text_status: complete
+  tradition: egyptian
+  tradition_cluster: egyptian
+  culture: ancient_egyptian_myth_later_translation
+  region: nile_valley
+  source_language: Egyptian
+  text_language: English
+  date_range: Middle Kingdom to Ptolemaic Egyptian sources; 1912 public-domain English
+    translation
+  source_type: text
+  edition: 'E. A. Wallis Budge, Legends of the Gods (Kegan Paul, Trench, Truebner
+    & Co., London, 1912); Project Gutenberg plain-text eBook #9411'
+  translator: E. A. Wallis Budge
+  editor: ''
+  publication_year: 1912
+  publisher: Kegan Paul, Trench, Truebner & Co. / Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/9411
+  download_url: https://www.gutenberg.org/ebooks/9411.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - isis_and_ra
+  - secret_name
+  - destruction_of_mankind
+  - horus_legends
+  - egyptian_myth
+  motifs:
+  - hidden_name_power
+  - serpent_poison_and_cure
+  - divine_wrath_and_mercy
+  - magical_speech
+  figures:
+  - Ra
+  - Isis
+  - Horus
+  - Hathor
+  - Thoth
+  why_it_matters: Contains the Legend of Ra and Isis (the secret-name tale planned
+    as first500.050) plus the Destruction of Mankind and Horus legends, key sources
+    for name-magic and divine-wrath motifs.
+  raw_path: imports/raw/project-gutenberg/9411-legends-of-the-gods-budge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/9411-legends-of-the-gods-budge.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  manifest_path: manifests/project-gutenberg/9411-legends-of-the-gods-budge.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/legends-of-the-gods-budge
+- id: egyptian.literature_ancient_egyptians.budge_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '15932'
+  slug: literature-of-ancient-egyptians-budge
+  title: The Literature of the Ancient Egyptians
+  alternate_titles:
+  - Literature of the Ancient Egyptians
+  text_status: complete
+  tradition: egyptian
+  tradition_cluster: egyptian
+  culture: ancient_egyptian_anthology_later_translation
+  region: nile_valley
+  source_language: Egyptian
+  text_language: English
+  date_range: Old Kingdom to Late Period Egyptian sources; 1914 public-domain English
+    survey with translations
+  source_type: text
+  edition: 'E. A. Wallis Budge, The Literature of the Ancient Egyptians (J. M. Dent
+    & Sons, London, 1914); Project Gutenberg plain-text eBook #15932'
+  translator: E. A. Wallis Budge
+  editor: ''
+  publication_year: 1914
+  publisher: J. M. Dent & Sons / Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/15932
+  download_url: https://www.gutenberg.org/ebooks/15932.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - pyramid_texts
+  - coffin_texts
+  - wisdom_literature
+  - tales
+  - hymns
+  - anthology
+  motifs:
+  - ascension_of_the_dead
+  - judgment_of_souls
+  - shipwreck_and_return
+  - wisdom_instruction
+  figures:
+  - Unas
+  - Osiris
+  - Ra
+  - Ptah-hetep
+  why_it_matters: Best available public-domain coverage of the Pyramid Texts and Coffin
+    Texts excerpts planned as first500.026-029 (no complete pre-1930 English translation
+    of either corpus exists), plus tales, hymns, and wisdom instructions.
+  raw_path: imports/raw/project-gutenberg/15932-literature-of-ancient-egyptians-budge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/15932-literature-of-ancient-egyptians-budge.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  manifest_path: manifests/project-gutenberg/15932-literature-of-ancient-egyptians-budge.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge
+- id: sufi.rumi.masnavi_whinfield_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: in.ernet.dli.2015.65659
+  slug: masnavi-whinfield
+  title: 'Masnavi i Ma''navi: Teachings of Rumi'
+  alternate_titles:
+  - Masnavi
+  - Mesnevi
+  - The Spiritual Couplets of Maulana Jalalu-'d-Din Muhammad Rumi
+  text_status: complete
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_translation
+  region: iran_anatolia
+  source_language: Persian
+  text_language: English
+  date_range: 13th-century Persian source text; 1898 public-domain abridged English
+    translation of all six books
+  source_type: text
+  edition: E. H. Whinfield, Masnavi i Ma'navi, the Spiritual Couplets of Maulana Jalalu-'d-Din
+    Muhammad Rumi, translated and abridged (2nd ed., Kegan Paul, Trench, Truebner
+    & Co., London, 1898); Internet Archive (Digital Library of India) scan with OCR
+    plain text
+  translator: E. H. Whinfield
+  editor: ''
+  publication_year: 1898
+  publisher: Kegan Paul, Trench, Truebner & Co.
+  source_url: https://archive.org/details/in.ernet.dli.2015.65659
+  download_url: https://archive.org/download/in.ernet.dli.2015.65659/2015.65659.Teachings-Of-Rumi-The-Masnavi_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Whinfield's translation was published 1887/1898 (pre-1930), US public domain;
+      the scanned printing is a straight reprint that adds no new copyright. OCR quality
+      verified as good. Abridged translation - selections from all six books with
+      linking prose summaries.
+  tags:
+  - masnavi
+  - rumi
+  - sufi_poetry
+  - spiritual_couplets
+  - mystical_teaching
+  motifs:
+  - reed_flute_separation
+  - divine_love
+  - annihilation_of_self
+  - teaching_story
+  - veil_and_unveiling
+  figures:
+  - Rumi
+  - Husam al-Din
+  - Shams-i Tabriz
+  why_it_matters: Extends Masnavi coverage from Book 1 (already ingested in the Redhouse
+    translation) to all six books planned as first500.401-406, in the standard public-domain
+    abridged translation.
+  raw_path: imports/raw/internet-archive/in.ernet.dli.2015.65659-masnavi-whinfield.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/in.ernet.dli.2015.65659-masnavi-whinfield.md
+- id: sufi.attar.bird_parliament_fitzgerald_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: BirdParliamentEnglishFareeduddinAttaarFitzgerald
+  slug: bird-parliament-attar-fitzgerald
+  title: Bird Parliament
+  alternate_titles:
+  - The Conference of the Birds
+  - Mantiq ut-Tayr
+  - The Speech of the Birds
+  text_status: complete
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_verse_translation
+  region: iran
+  source_language: Persian
+  text_language: English
+  date_range: 12th-century Persian allegorical epic; 1889 public-domain English verse
+    translation (posthumously published)
+  source_type: text
+  edition: Edward FitzGerald's verse translation of Attar's Mantiq ut-Tayr, first
+    published posthumously in Letters and Literary Remains of Edward FitzGerald (Macmillan,
+    1889); Internet Archive plain-text transcription
+  translator: Edward FitzGerald
+  editor: ''
+  publication_year: 1889
+  publisher: Macmillan
+  source_url: https://archive.org/details/BirdParliamentEnglishFareeduddinAttaarFitzgerald
+  download_url: https://archive.org/download/BirdParliamentEnglishFareeduddinAttaarFitzgerald/bird-parliament-english%20Fareeduddin%20Attar%20Fitzgerald_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: FitzGerald's translation published 1889, US public domain. The hosted item
+      is a 2015 re-typesetting of the public-domain translation text (verbatim reproduction,
+      no new copyrightable translation content); the same item also contains a separate
+      Persian-text file which should be ignored.
+  tags:
+  - conference_of_the_birds
+  - attar
+  - simurgh
+  - allegorical_journey
+  - sufi_poetry
+  motifs:
+  - quest_through_seven_valleys
+  - many_become_one
+  - divine_mirror
+  - annihilation_of_self
+  - guide_of_souls
+  figures:
+  - Attar
+  - Hoopoe
+  - Simurgh
+  why_it_matters: Supplies the Conference of the Birds planned as first500.415, the
+    great Sufi allegory of the soul's journey - thirty birds discovering they are
+    themselves the Simurgh they sought.
+  raw_path: imports/raw/internet-archive/BirdParliamentEnglishFareeduddinAttaarFitzgerald-bird-parliament-attar-fitzgerald.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/BirdParliamentEnglishFareeduddinAttaarFitzgerald-bird-parliament-attar-fitzgerald.md
+- id: zoroastrian.avesta.vendidad_darmesteter_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: zendavesta01darm
+  slug: zend-avesta-part-1-vendidad
+  title: 'The Zend-Avesta, Part I: The Vendidad'
+  alternate_titles:
+  - Vendidad
+  - Videvdad
+  - Sacred Books of the East Volume 4
+  text_status: complete
+  tradition: zoroastrian
+  tradition_cluster: persian
+  culture: ancient_iranian_scripture_later_translation
+  region: iran
+  source_language: Avestan
+  text_language: English
+  date_range: first millennium BCE Avestan scripture; 1880 public-domain English translation
+  source_type: text
+  edition: James Darmesteter, The Zend-Avesta, Part I, The Vendidad (Sacred Books
+    of the East, Vol. 4, Clarendon Press, Oxford, 1880); Internet Archive scan with
+    OCR plain text
+  translator: James Darmesteter
+  editor: F. Max Mueller
+  publication_year: 1880
+  publisher: Clarendon Press
+  source_url: https://archive.org/details/zendavesta01darm
+  download_url: https://archive.org/download/zendavesta01darm/zendavesta01darm_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  tags:
+  - avesta
+  - vendidad
+  - zoroastrianism
+  - purity_law
+  - ahura_mazda
+  - angra_mainyu
+  motifs:
+  - cosmic_dualism
+  - primordial_paradise_lost
+  - purity_and_pollution
+  - deluge_variant
+  - dog_as_soul_guide
+  figures:
+  - Ahura Mazda
+  - Zarathushtra
+  - Angra Mainyu
+  - Yima
+  why_it_matters: Core Zoroastrian scripture with the Yima/Vara flood-shelter myth,
+    the creation of the sixteen lands, and the fate of the soul after death; opens
+    the currently empty Zoroastrian side of the Persian cluster.
+  raw_path: imports/raw/internet-archive/zendavesta01darm-zend-avesta-part-1-vendidad.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/zendavesta01darm-zend-avesta-part-1-vendidad.md
+- id: zoroastrian.avesta.yasts_darmesteter_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: zendavesta02darm
+  slug: zend-avesta-part-2-yasts
+  title: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  alternate_titles:
+  - Yashts
+  - Sacred Books of the East Volume 23
+  text_status: complete
+  tradition: zoroastrian
+  tradition_cluster: persian
+  culture: ancient_iranian_scripture_later_translation
+  region: iran
+  source_language: Avestan
+  text_language: English
+  date_range: first millennium BCE Avestan hymns; 1883 public-domain English translation
+  source_type: text
+  edition: James Darmesteter, The Zend-Avesta, Part II, The Sirozahs, Yasts, and Nyayis
+    (Sacred Books of the East, Vol. 23, Clarendon Press, Oxford, 1883); Internet Archive
+    scan with OCR plain text
+  translator: James Darmesteter
+  editor: F. Max Mueller
+  publication_year: 1883
+  publisher: Clarendon Press
+  source_url: https://archive.org/details/zendavesta02darm
+  download_url: https://archive.org/download/zendavesta02darm/zendavesta02darm_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1883, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  tags:
+  - avesta
+  - yashts
+  - zoroastrianism
+  - hymns
+  - anahita
+  - mithra
+  motifs:
+  - divine_glory_khvarenah
+  - dragon_slaying
+  - star_and_rain_combat
+  - fravashi_ancestral_spirits
+  figures:
+  - Mithra
+  - Anahita
+  - Tishtrya
+  - Verethraghna
+  - Zarathushtra
+  why_it_matters: The great hymns to Mithra, Anahita, Tishtrya, and the fravashis
+    - the richest mythological layer of the Avesta, with dragon-combat and divine-glory
+    motifs that bridge to Vedic and later Persian epic material.
+  raw_path: imports/raw/internet-archive/zendavesta02darm-zend-avesta-part-2-yasts.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/zendavesta02darm-zend-avesta-part-2-yasts.md
+- id: zoroastrian.avesta.yasna_gathas_mills_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: zendavesta03darm
+  slug: zend-avesta-part-3-yasna-gathas
+  title: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous
+    Fragments'
+  alternate_titles:
+  - Yasna
+  - Gathas
+  - Sacred Books of the East Volume 31
+  text_status: complete
+  tradition: zoroastrian
+  tradition_cluster: persian
+  culture: ancient_iranian_scripture_later_translation
+  region: iran
+  source_language: Avestan
+  text_language: English
+  date_range: second-to-first millennium BCE Avestan liturgy including the Gathas
+    of Zarathushtra; 1887 public-domain English translation
+  source_type: text
+  edition: L. H. Mills, The Zend-Avesta, Part III, The Yasna, Visparad, Afrinagan,
+    Gahs, and Miscellaneous Fragments (Sacred Books of the East, Vol. 31, Clarendon
+    Press, Oxford, 1887); Internet Archive scan with OCR plain text
+  translator: L. H. Mills
+  editor: F. Max Mueller
+  publication_year: 1887
+  publisher: Clarendon Press
+  source_url: https://archive.org/details/zendavesta03darm
+  download_url: https://archive.org/download/zendavesta03darm/zendavesta03darm_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1887, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  tags:
+  - avesta
+  - yasna
+  - gathas
+  - zoroastrianism
+  - liturgy
+  - zarathushtra
+  motifs:
+  - prophet_dialogue_with_god
+  - cosmic_dualism
+  - fire_as_divine_presence
+  - moral_choice
+  figures:
+  - Zarathushtra
+  - Ahura Mazda
+  - Vohu Manah
+  why_it_matters: Contains the Gathas, the oldest stratum of the Avesta attributed
+    to Zarathushtra himself - first-person visionary dialogue with the divine, directly
+    relevant to the atlas's experiential-encounter research question.
+  raw_path: imports/raw/internet-archive/zendavesta03darm-zend-avesta-part-3-yasna-gathas.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/zendavesta03darm-zend-avesta-part-3-yasna-gathas.md
+- id: zoroastrian.pahlavi.bundahis_west_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: pahlavitexts01west
+  slug: pahlavi-texts-part-1-bundahis
+  title: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  alternate_titles:
+  - Bundahishn
+  - Bahman Yasht
+  - Sacred Books of the East Volume 5
+  text_status: complete
+  tradition: zoroastrian
+  tradition_cluster: persian
+  culture: middle_persian_scripture_later_translation
+  region: iran
+  source_language: Middle Persian (Pahlavi)
+  text_language: English
+  date_range: Sasanian-to-early-Islamic Middle Persian compilations; 1880 public-domain
+    English translation
+  source_type: text
+  edition: E. W. West, Pahlavi Texts, Part I, The Bundahis, Bahman Yast, and Shayast
+    la-Shayast (Sacred Books of the East, Vol. 5, Clarendon Press, Oxford, 1880);
+    Internet Archive scan with OCR plain text
+  translator: E. W. West
+  editor: F. Max Mueller
+  publication_year: 1880
+  publisher: Clarendon Press
+  source_url: https://archive.org/details/pahlavitexts01west
+  download_url: https://archive.org/download/pahlavitexts01west/pahlavitexts01west_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  tags:
+  - bundahishn
+  - zoroastrianism
+  - creation_myth
+  - apocalypse
+  - cosmology
+  - pahlavi
+  motifs:
+  - primal_creation
+  - cosmic_dualism
+  - apocalyptic_vision
+  - renovation_of_world
+  - first_human_couple
+  figures:
+  - Ohrmazd
+  - Ahriman
+  - Gayomard
+  - Zarathushtra
+  why_it_matters: The Bundahishn is the fullest Zoroastrian creation-and-cosmology
+    account and the Bahman Yasht its apocalyptic vision - completing the creation,
+    combat, and end-times motif arc for the Persian cluster.
+  raw_path: imports/raw/internet-archive/pahlavitexts01west-pahlavi-texts-part-1-bundahis.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/pahlavitexts01west-pahlavi-texts-part-1-bundahis.md
+- id: greek.argonautica.seaton_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '830'
+  slug: argonautica-seaton
+  title: The Argonautica
+  alternate_titles:
+  - Argonautica
+  - The Argonautica of Apollonius Rhodius
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek_roman
+  culture: hellenistic_greek_epic_later_translation
+  region: aegean_mediterranean_black_sea
+  source_language: Ancient Greek
+  text_language: English
+  date_range: 3rd century BCE Hellenistic epic; 1912 public-domain English prose translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #830'
+  translator: R. C. Seaton
+  editor: ''
+  publication_year: 1912
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/830
+  download_url: https://www.gutenberg.org/ebooks/830.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Seaton's
+      1912 translation predates 1930. Use outside the USA requires jurisdiction-specific
+      review.
+  tags:
+  - argonautica
+  - apollonius_rhodius
+  - jason
+  - golden_fleece
+  - sea_voyage
+  - quest
+  motifs:
+  - quest
+  - sea_journey
+  - divine_aid
+  - sorceress_helper
+  - trial_and_ordeal
+  - return
+  figures:
+  - Jason
+  - Medea
+  - Orpheus
+  - Athena
+  - Aphrodite
+  why_it_matters: Completes the wave-A Greek epic set (first-500 plan items for Argonautica
+    Books 1-4) with the great quest epic of the Golden Fleece, rich in voyage, ordeal,
+    divine intervention, and helper-sorceress motifs that parallel other hero journeys.
+  raw_path: imports/raw/project-gutenberg/830-argonautica-seaton.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/830-argonautica-seaton.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  manifest_path: manifests/project-gutenberg/830-argonautica-seaton.yml
+  extraction_dir: extractions/greek/project-gutenberg/argonautica-seaton
+- id: biblical.job.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8018'
+  slug: job-kjv
+  title: 'The Bible, King James Version, Book 18: Job'
+  alternate_titles:
+  - Book of Job
+  - Job
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: ancient_israelite_wisdom_literature
+  region: ancient_near_east_levant
+  source_language: Biblical Hebrew
+  text_language: English
+  date_range: Iron Age to Second Temple wisdom text; 1611/1769 public-domain English
+    translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8018 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8018
+  download_url: https://www.gutenberg.org/ebooks/8018.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - hebrew_bible
+  - job
+  - theodicy
+  - wisdom_literature
+  - whirlwind_theophany
+  motifs:
+  - divine_testing
+  - suffering_and_meaning
+  - theophany
+  - cosmic_order
+  - restoration
+  figures:
+  - Job
+  - YHWH
+  - Satan_the_accuser
+  - Elihu
+  why_it_matters: Wave-A plan item; the Hebrew Bible's deepest confrontation with
+    unexplained suffering, culminating in the whirlwind theophany, a key comparative
+    anchor for direct-encounter and cosmic-vision motifs.
+  raw_path: imports/raw/project-gutenberg/8018-job-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8018-job-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  manifest_path: manifests/project-gutenberg/8018-job-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/job-kjv
+- id: biblical.psalms.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8019'
+  slug: psalms-kjv
+  title: 'The Bible, King James Version, Book 19: Psalms'
+  alternate_titles:
+  - Book of Psalms
+  - Psalter
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: ancient_israelite_liturgical_poetry
+  region: ancient_near_east_levant
+  source_language: Biblical Hebrew
+  text_language: English
+  date_range: Iron Age to Second Temple devotional poetry; 1611/1769 public-domain
+    English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8019 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8019
+  download_url: https://www.gutenberg.org/ebooks/8019.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - hebrew_bible
+  - psalms
+  - devotional_poetry
+  - lament
+  - praise
+  motifs:
+  - lament_and_mourning
+  - praise_and_thanksgiving
+  - divine_refuge
+  - depths_and_ascent
+  - sacred_kingship
+  figures:
+  - David
+  - YHWH
+  why_it_matters: Wave-A plan item; the central devotional corpus of the Hebrew Bible,
+    dense with lament, ascent-from-the-depths, refuge, and praise motifs that recur
+    across the Atlas's experiential material.
+  raw_path: imports/raw/project-gutenberg/8019-psalms-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8019-psalms-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/psalms-kjv.md
+  manifest_path: manifests/project-gutenberg/8019-psalms-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/psalms-kjv
+- id: biblical.isaiah.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8023'
+  slug: isaiah-kjv
+  title: 'The Bible, King James Version, Book 23: Isaiah'
+  alternate_titles:
+  - Book of Isaiah
+  - Isaiah
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: ancient_israelite_prophetic_literature
+  region: ancient_near_east_levant
+  source_language: Biblical Hebrew
+  text_language: English
+  date_range: 8th-6th century BCE prophetic collection; 1611/1769 public-domain English
+    translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8023 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8023
+  download_url: https://www.gutenberg.org/ebooks/8023.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - hebrew_bible
+  - isaiah
+  - prophecy
+  - throne_vision
+  - messianic_hope
+  motifs:
+  - prophetic_call
+  - throne_vision
+  - purification_by_fire
+  - judgment_and_restoration
+  - new_creation
+  figures:
+  - Isaiah
+  - YHWH
+  - seraphim
+  why_it_matters: Wave-A plan item; contains the seraphim throne vision of chapter
+    6 and the new-heavens/new-earth imagery, foundational for call-vision and cosmic-renewal
+    motifs.
+  raw_path: imports/raw/project-gutenberg/8023-isaiah-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8023-isaiah-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  manifest_path: manifests/project-gutenberg/8023-isaiah-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/isaiah-kjv
+- id: biblical.ezekiel.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8026'
+  slug: ezekiel-kjv
+  title: 'The Bible, King James Version, Book 26: Ezekiel'
+  alternate_titles:
+  - Book of Ezekiel
+  - Ezekiel
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: ancient_israelite_prophetic_literature
+  region: ancient_near_east_babylonia
+  source_language: Biblical Hebrew
+  text_language: English
+  date_range: 6th century BCE exilic prophecy; 1611/1769 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8026 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8026
+  download_url: https://www.gutenberg.org/ebooks/8026.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - hebrew_bible
+  - ezekiel
+  - merkabah
+  - chariot_vision
+  - exile
+  motifs:
+  - visionary_transport
+  - chariot_throne_vision
+  - dry_bones_resurrection
+  - prophetic_embodiment
+  - restored_temple
+  figures:
+  - Ezekiel
+  - YHWH
+  - cherubim
+  why_it_matters: Wave-A plan item; the chariot-throne vision that seeded the entire
+    merkabah mystical tradition, plus the valley of dry bones - core visionary-experience
+    source material for the consciousness-bridge question.
+  raw_path: imports/raw/project-gutenberg/8026-ezekiel-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8026-ezekiel-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  manifest_path: manifests/project-gutenberg/8026-ezekiel-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/ezekiel-kjv
+- id: biblical.daniel.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8027'
+  slug: daniel-kjv
+  title: 'The Bible, King James Version, Book 27: Daniel'
+  alternate_titles:
+  - Book of Daniel
+  - Daniel
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: second_temple_jewish_apocalyptic
+  region: ancient_near_east_babylonia
+  source_language: Biblical Hebrew and Aramaic
+  text_language: English
+  date_range: 2nd century BCE apocalyptic with earlier court tales; 1611/1769 public-domain
+    English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8027 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8027
+  download_url: https://www.gutenberg.org/ebooks/8027.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - hebrew_bible
+  - daniel
+  - apocalyptic
+  - dream_interpretation
+  - visions
+  motifs:
+  - dream_interpretation
+  - apocalyptic_vision
+  - divine_deliverance
+  - beast_empires
+  - son_of_man
+  figures:
+  - Daniel
+  - Nebuchadnezzar
+  - Gabriel
+  - Ancient_of_Days
+  why_it_matters: Wave-A plan item; the Hebrew Bible's principal dream-interpretation
+    and apocalyptic-vision book, bridging court-sage dream lore and later visionary
+    apocalyptic literature.
+  raw_path: imports/raw/project-gutenberg/8027-daniel-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8027-daniel-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/daniel-kjv.md
+  manifest_path: manifests/project-gutenberg/8027-daniel-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/daniel-kjv
+- id: biblical.revelation.kjv_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8066'
+  slug: revelation-kjv
+  title: 'The Bible, King James Version, Book 66: Revelation'
+  alternate_titles:
+  - Revelation of John
+  - Apocalypse of John
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: early_christian_apocalyptic
+  region: roman_asia_minor
+  source_language: Koine Greek
+  text_language: English
+  date_range: late 1st century CE apocalypse; 1611/1769 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8066 (KJV per-book edition)'
+  translator: King James Version translators
+  editor: ''
+  publication_year: 1611
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8066
+  download_url: https://www.gutenberg.org/ebooks/8066.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  tags:
+  - new_testament
+  - revelation
+  - apocalypse
+  - visionary_journey
+  - cosmic_battle
+  motifs:
+  - heavenly_ascent
+  - throne_vision
+  - cosmic_battle
+  - new_creation
+  - sacred_marriage
+  figures:
+  - John_of_Patmos
+  - the_Lamb
+  - Michael
+  - the_dragon
+  why_it_matters: Wave-A plan item; the fullest sustained first-person visionary ascent
+    in the New Testament, indispensable for throne-vision, cosmic-combat, and world-renewal
+    motif comparison.
+  raw_path: imports/raw/project-gutenberg/8066-revelation-kjv.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8066-revelation-kjv.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/revelation-kjv.md
+  manifest_path: manifests/project-gutenberg/8066-revelation-kjv.yml
+  extraction_dir: extractions/biblical/project-gutenberg/revelation-kjv
+- id: biblical.wisdom_of_solomon.douay_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8325'
+  slug: wisdom-of-solomon-douay
+  title: 'The Bible, Douay-Rheims, Book 25: Wisdom'
+  alternate_titles:
+  - Wisdom of Solomon
+  - Book of Wisdom
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: hellenistic_jewish_wisdom_literature
+  region: hellenistic_egypt_alexandria
+  source_language: Koine Greek
+  text_language: English
+  date_range: 1st century BCE Hellenistic Jewish wisdom text; 1752 Challoner revision
+    of public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8325 (Douay-Rheims, Challoner revision)'
+  translator: Douay-Rheims translators, revised by Richard Challoner
+  editor: Richard Challoner
+  publication_year: 1752
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8325
+  download_url: https://www.gutenberg.org/ebooks/8325.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Douay-Rheims Challoner revision (1752) is public domain everywhere; Project
+      Gutenberg catalog records public-domain status in the USA.
+  tags:
+  - apocrypha
+  - deuterocanon
+  - wisdom_of_solomon
+  - sophia
+  - immortality
+  motifs:
+  - personified_wisdom
+  - immortality_of_soul
+  - divine_justice
+  - wisdom_as_bride
+  figures:
+  - Solomon
+  - Sophia_Wisdom
+  why_it_matters: Wave-A plan item (Wisdom of Solomon); Hellenistic Judaism's fullest
+    portrait of personified Wisdom, a hinge text between Hebrew wisdom literature
+    and later gnostic Sophia speculation.
+  raw_path: imports/raw/project-gutenberg/8325-wisdom-of-solomon-douay.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8325-wisdom-of-solomon-douay.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  manifest_path: manifests/project-gutenberg/8325-wisdom-of-solomon-douay.yml
+  extraction_dir: extractions/biblical/project-gutenberg/wisdom-of-solomon-douay
+- id: biblical.sirach.douay_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '8326'
+  slug: sirach-ecclesiasticus-douay
+  title: 'The Bible, Douay-Rheims, Book 26: Ecclesiasticus'
+  alternate_titles:
+  - Sirach
+  - Wisdom of Ben Sira
+  - Ecclesiasticus
+  text_status: complete
+  tradition: biblical
+  tradition_cluster: jewish_christian
+  culture: second_temple_jewish_wisdom_literature
+  region: ancient_near_east_levant
+  source_language: Hebrew via Koine Greek
+  text_language: English
+  date_range: early 2nd century BCE wisdom text; 1752 Challoner revision of public-domain
+    English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #8326 (Douay-Rheims, Challoner revision)'
+  translator: Douay-Rheims translators, revised by Richard Challoner
+  editor: Richard Challoner
+  publication_year: 1752
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/8326
+  download_url: https://www.gutenberg.org/ebooks/8326.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Douay-Rheims Challoner revision (1752) is public domain everywhere; Project
+      Gutenberg catalog records public-domain status in the USA.
+  tags:
+  - apocrypha
+  - deuterocanon
+  - sirach
+  - ben_sira
+  - wisdom_instruction
+  motifs:
+  - personified_wisdom
+  - fear_of_the_lord
+  - practical_wisdom
+  - praise_of_ancestors
+  figures:
+  - Ben_Sira
+  - Sophia_Wisdom
+  why_it_matters: Wave-A plan item (Sirach); the largest surviving Second Temple wisdom
+    collection, pairing practical instruction with hymns to personified Wisdom for
+    cross-tradition wisdom-motif comparison.
+  raw_path: imports/raw/project-gutenberg/8326-sirach-ecclesiasticus-douay.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/8326-sirach-ecclesiasticus-douay.md
+  canonical_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  manifest_path: manifests/project-gutenberg/8326-sirach-ecclesiasticus-douay.yml
+  extraction_dir: extractions/biblical/project-gutenberg/sirach-ecclesiasticus-douay
+- id: jewish.1_enoch.charles_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '77935'
+  slug: book-of-enoch-charles
+  title: The Book of Enoch
+  alternate_titles:
+  - 1 Enoch
+  - Ethiopic Enoch
+  text_status: complete
+  tradition: jewish_pseudepigrapha
+  tradition_cluster: jewish_christian
+  culture: second_temple_jewish_apocalyptic
+  region: ancient_near_east_levant
+  source_language: Geez (Ethiopic), from Aramaic and Hebrew originals
+  text_language: English
+  date_range: 3rd century BCE - 1st century CE apocalyptic corpus; 1917 public-domain
+    English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #77935 (R. H. Charles translation,
+    SPCK 1917)'
+  translator: R. H. Charles
+  editor: ''
+  publication_year: 1917
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/77935
+  download_url: https://www.gutenberg.org/ebooks/77935.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Charles's 1917 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - 1_enoch
+  - pseudepigrapha
+  - watchers
+  - heavenly_ascent
+  - apocalyptic
+  motifs:
+  - heavenly_ascent
+  - fallen_angels
+  - cosmic_tour
+  - final_judgment
+  - son_of_man
+  figures:
+  - Enoch
+  - the_Watchers
+  - Azazel
+  - Michael
+  why_it_matters: Wave-A plan item; the foundational Jewish ascent apocalypse - Enoch's
+    guided tours of heaven and cosmos are primary comparanda for visionary-journey
+    and otherworld-cartography motifs.
+  raw_path: imports/raw/project-gutenberg/77935-book-of-enoch-charles.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/77935-book-of-enoch-charles.md
+  canonical_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  manifest_path: manifests/project-gutenberg/77935-book-of-enoch-charles.yml
+  extraction_dir: extractions/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles
+- id: jewish.jubilees.charles_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: cu31924060029984
+  slug: book-of-jubilees-charles
+  title: The Book of Jubilees, or, The Little Genesis
+  alternate_titles:
+  - Jubilees
+  - Little Genesis
+  text_status: complete
+  tradition: jewish_pseudepigrapha
+  tradition_cluster: jewish_christian
+  culture: second_temple_jewish_rewritten_scripture
+  region: ancient_near_east_levant
+  source_language: Geez (Ethiopic), from Hebrew original
+  text_language: English
+  date_range: 2nd century BCE rewritten Genesis-Exodus; 1902 public-domain English
+    translation
+  source_type: text
+  edition: Cornell University Library scan of R. H. Charles translation (A. & C. Black,
+    London, 1902); OCR plain text
+  translator: R. H. Charles
+  editor: ''
+  publication_year: 1902
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924060029984
+  download_url: https://archive.org/download/cu31924060029984/cu31924060029984_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/cu31924060029984
+    full_text: allowed
+    training_use: allowed
+    notes: Item page states no known copyright restrictions in the United States;
+      1902 publication predates 1930. OCR text requires cleanup of scholarly apparatus
+      and footnotes during conversion.
+  tags:
+  - jubilees
+  - pseudepigrapha
+  - rewritten_bible
+  - calendar
+  - angelology
+  motifs:
+  - angelic_revelation
+  - sacred_calendar
+  - covenant
+  - primeval_history_retold
+  figures:
+  - Moses
+  - Angel_of_the_Presence
+  - Mastema
+  - Enoch
+  why_it_matters: Wave-A plan item; angel-dictated retelling of Genesis-Exodus that
+    shows how Second Temple Judaism reworked primeval myth, with rich angelology and
+    calendar mysticism.
+  raw_path: imports/raw/internet-archive/cu31924060029984-book-of-jubilees-charles.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cu31924060029984-book-of-jubilees-charles.md
+- id: christian.apocryphal_gospels.wake_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '6516'
+  slug: suppressed-gospels-epistles-wake
+  title: The suppressed Gospels and Epistles of the original New Testament of Jesus
+    the Christ, Complete
+  alternate_titles:
+  - Apocryphal New Testament
+  - Suppressed Gospels and Epistles
+  text_status: complete
+  tradition: christian_apocrypha
+  tradition_cluster: jewish_christian
+  culture: early_christian_apocryphal_literature
+  region: eastern_mediterranean
+  source_language: Koine Greek and Latin
+  text_language: English
+  date_range: 2nd-5th century CE apocrypha; English translations by William Wake (1693)
+    and collaborators, reprinted 19th century
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #6516 (complete edition, Volumes 1-9)'
+  translator: William Wake
+  editor: ''
+  publication_year: 1820
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/6516
+  download_url: https://www.gutenberg.org/ebooks/6516.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Wake's translations date to 1693 and circulated in 19th-century apocryphal
+      New Testament collections; unquestionably public domain. Project Gutenberg catalog
+      records public-domain status in the USA.
+  tags:
+  - apocryphal_gospels
+  - infancy_gospels
+  - gospel_of_nicodemus
+  - protevangelion
+  - harrowing_of_hell
+  motifs:
+  - miraculous_birth
+  - child_prodigy_miracles
+  - descent_to_underworld
+  - hidden_teaching
+  figures:
+  - Jesus
+  - Mary
+  - Nicodemus
+  - Pilate
+  why_it_matters: Covers the plan's apocryphal-gospels gap with the classic public-domain
+    collection, including the Protevangelion, infancy gospels, and the Gospel of Nicodemus
+    with the harrowing of hell - a major underworld-descent narrative.
+  raw_path: imports/raw/project-gutenberg/6516-suppressed-gospels-epistles-wake.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/6516-suppressed-gospels-epistles-wake.md
+  canonical_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  manifest_path: manifests/project-gutenberg/6516-suppressed-gospels-epistles-wake.yml
+  extraction_dir: extractions/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake
+- id: gnostic.pistis_sophia.horner_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '76266'
+  slug: pistis-sophia-horner
+  title: Pistis Sophia
+  alternate_titles:
+  - Askew Codex
+  text_status: complete
+  tradition: gnostic
+  tradition_cluster: jewish_christian
+  culture: late_antique_egyptian_gnostic_christianity
+  region: roman_egypt
+  source_language: Coptic
+  text_language: English
+  date_range: 3rd-4th century CE gnostic treatise; 1924 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #76266 (George Horner literal translation
+    from the Coptic, with introduction by F. Legge, 1924)'
+  translator: G. Horner
+  editor: ''
+  publication_year: 1924
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/76266
+  download_url: https://www.gutenberg.org/ebooks/76266.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Horner's 1924 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - pistis_sophia
+  - gnosticism
+  - sophia
+  - aeons
+  - post_resurrection_teaching
+  motifs:
+  - fall_and_redemption_of_sophia
+  - ascent_through_aeons
+  - repentance_hymns
+  - initiatory_teaching
+  - light_and_darkness
+  figures:
+  - Jesus
+  - Pistis_Sophia
+  - Mary_Magdalene
+  - John
+  why_it_matters: The most extensive surviving gnostic treatise, mapping Sophia's
+    fall and ascent through the aeons in dialogue form - essential for gnostic cosmology,
+    initiation, and light-mysticism motifs.
+  raw_path: imports/raw/project-gutenberg/76266-pistis-sophia-horner.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/76266-pistis-sophia-horner.md
+  canonical_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  manifest_path: manifests/project-gutenberg/76266-pistis-sophia-horner.yml
+  extraction_dir: extractions/gnostic/project-gutenberg/pistis-sophia-horner
+- id: hermetic.corpus_hermeticum.mead_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: thricegreatesth02meadgoog
+  slug: thrice-greatest-hermes-vol2-mead
+  title: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  alternate_titles:
+  - Corpus Hermeticum
+  - The Poemandres
+  text_status: complete
+  tradition: hermetic
+  tradition_cluster: jewish_christian
+  culture: greco_egyptian_hermetism
+  region: roman_egypt
+  source_language: Koine Greek
+  text_language: English
+  date_range: 1st-3rd century CE Hermetic treatises; 1906 public-domain English translation
+  source_type: text
+  edition: Google Books scan of G. R. S. Mead, Thrice-Greatest Hermes, Volume II (Theosophical
+    Publishing Society, London, 1906); OCR plain text
+  translator: G. R. S. Mead
+  editor: ''
+  publication_year: 1906
+  publisher: Internet Archive
+  source_url: https://archive.org/details/thricegreatesth02meadgoog
+  download_url: https://archive.org/download/thricegreatesth02meadgoog/thricegreatesth02meadgoog_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/thricegreatesth02meadgoog
+    full_text: allowed
+    training_use: allowed
+    notes: 1906 publication predates 1930 and is public domain in the USA; Google
+      scan header notes the book has entered the public domain. OCR text requires
+      cleanup of commentary and apparatus during conversion.
+  tags:
+  - corpus_hermeticum
+  - hermes_trismegistus
+  - poemandres
+  - gnosis
+  - rebirth
+  motifs:
+  - visionary_instruction
+  - divine_mind
+  - ascent_of_soul
+  - spiritual_rebirth
+  - as_above_so_below
+  figures:
+  - Hermes_Trismegistus
+  - Poemandres
+  - Tat
+  - Asclepius
+  why_it_matters: The core Hermetic sermons including the Poemandres vision and the
+    Secret Sermon on rebirth - primary sources for Greco-Egyptian visionary gnosis
+    and soul-ascent teaching in the plan's hermetic gap.
+  raw_path: imports/raw/internet-archive/thricegreatesth02meadgoog-thrice-greatest-hermes-vol2-mead.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/thricegreatesth02meadgoog-thrice-greatest-hermes-vol2-mead.md
+- id: norse.prose_edda.anderson_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '18947'
+  slug: younger-edda-anderson
+  title: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  alternate_titles:
+  - Prose Edda
+  - Snorra Edda
+  text_status: complete
+  tradition: norse
+  tradition_cluster: norse_celtic
+  culture: medieval_icelandic_mythography
+  region: iceland_scandinavia
+  source_language: Old Norse
+  text_language: English
+  date_range: 13th century CE Icelandic prose mythography; 1880 public-domain English
+    translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #18947 (Rasmus B. Anderson translation:
+    Foreword, Gylfaginning, and selections from Skaldskaparmal)'
+  translator: Rasmus Björn Anderson
+  editor: ''
+  publication_year: 1880
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/18947
+  download_url: https://www.gutenberg.org/ebooks/18947.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Anderson's 1880 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status. Covers Gylfaginning
+      fully but only extracts of Skaldskaparmal; Hattatal is not included.
+  tags:
+  - prose_edda
+  - snorri_sturluson
+  - gylfaginning
+  - norse_cosmology
+  - ragnarok
+  motifs:
+  - creation_from_primordial_being
+  - world_tree
+  - divine_questioning_contest
+  - ragnarok
+  - rebirth_of_world
+  figures:
+  - Odin
+  - Thor
+  - Loki
+  - Gylfi
+  - Baldr
+  why_it_matters: Wave-B plan items (Prose Edda Prologue, Gylfaginning, Skaldskaparmal);
+    the systematic medieval account of Norse cosmology from Ginnungagap to Ragnarok,
+    complementing the already-ingested Poetic Edda.
+  raw_path: imports/raw/project-gutenberg/18947-younger-edda-anderson.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/18947-younger-edda-anderson.md
+  canonical_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  manifest_path: manifests/project-gutenberg/18947-younger-edda-anderson.yml
+  extraction_dir: extractions/norse/project-gutenberg/younger-edda-anderson
+- id: norse.volsunga_saga.morris_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '1152'
+  slug: volsunga-saga-morris-magnusson
+  title: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  alternate_titles:
+  - Volsunga Saga
+  - Saga of the Volsungs
+  text_status: complete
+  tradition: norse
+  tradition_cluster: norse_celtic
+  culture: medieval_icelandic_legendary_saga
+  region: iceland_scandinavia
+  source_language: Old Norse
+  text_language: English
+  date_range: 13th century CE legendary saga; 1888 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #1152 (Eiríkr Magnússon and William
+    Morris translation)'
+  translator: Eiríkr Magnússon and William Morris
+  editor: ''
+  publication_year: 1888
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/1152
+  download_url: https://www.gutenberg.org/ebooks/1152.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The Magnusson-Morris translation (1888) predates 1930 and is public domain
+      in the USA; Project Gutenberg catalog records public-domain status.
+  tags:
+  - volsunga_saga
+  - sigurd
+  - dragon_slaying
+  - cursed_treasure
+  - valkyrie
+  motifs:
+  - dragon_slaying
+  - cursed_gold
+  - sleeping_maiden_awakened
+  - shapeshifting
+  - doomed_love
+  figures:
+  - Sigurd
+  - Brynhild
+  - Fafnir
+  - Regin
+  - Gudrun
+  why_it_matters: The prose saga of the Sigurd cycle whose heroic lays anchor the
+    Poetic Edda already in the corpus; adds dragon-slayer, cursed-treasure, and valkyrie-awakening
+    motifs in continuous narrative form.
+  raw_path: imports/raw/project-gutenberg/1152-volsunga-saga-morris-magnusson.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/1152-volsunga-saga-morris-magnusson.md
+  canonical_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  manifest_path: manifests/project-gutenberg/1152-volsunga-saga-morris-magnusson.yml
+  extraction_dir: extractions/norse/project-gutenberg/volsunga-saga-morris-magnusson
+- id: germanic.beowulf.gummere_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '16328'
+  slug: beowulf-gummere
+  title: 'Beowulf: An Anglo-Saxon Epic Poem'
+  alternate_titles:
+  - Beowulf
+  text_status: complete
+  tradition: germanic
+  tradition_cluster: norse_celtic
+  culture: anglo_saxon_heroic_epic
+  region: england_scandinavia
+  source_language: Old English
+  text_language: English
+  date_range: ca. 8th-11th century CE Old English epic; 1910 public-domain English
+    verse translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #16328 (Francis B. Gummere translation)'
+  translator: Francis B. Gummere
+  editor: ''
+  publication_year: 1910
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/16328
+  download_url: https://www.gutenberg.org/ebooks/16328.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Gummere's 1910 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - beowulf
+  - anglo_saxon
+  - monster_slaying
+  - dragon
+  - heroic_death
+  motifs:
+  - monster_slaying
+  - descent_into_mere
+  - dragon_and_hoard
+  - heroic_death
+  - funeral_rites
+  figures:
+  - Beowulf
+  - Grendel
+  - Grendels_mother
+  - Hrothgar
+  - Wiglaf
+  why_it_matters: The great Germanic epic bridging Norse and Christian worlds; the
+    descent into Grendel's mere and the dragon fight are canonical monster-combat
+    and underwater-descent comparanda for the norse/germanic cluster.
+  raw_path: imports/raw/project-gutenberg/16328-beowulf-gummere.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/16328-beowulf-gummere.md
+  canonical_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  manifest_path: manifests/project-gutenberg/16328-beowulf-gummere.yml
+  extraction_dir: extractions/germanic/project-gutenberg/beowulf-gummere
+- id: germanic.nibelungenlied.needler_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '7321'
+  slug: nibelungenlied-needler
+  title: The Nibelungenlied
+  alternate_titles:
+  - Song of the Nibelungs
+  text_status: complete
+  tradition: germanic
+  tradition_cluster: norse_celtic
+  culture: middle_high_german_heroic_epic
+  region: central_europe_rhineland_danube
+  source_language: Middle High German
+  text_language: English
+  date_range: ca. 1200 CE Middle High German epic; 1904 public-domain English verse
+    translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #7321 (George Henry Needler translation)'
+  translator: G. H. Needler
+  editor: ''
+  publication_year: 1904
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/7321
+  download_url: https://www.gutenberg.org/ebooks/7321.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Needler's 1904 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - nibelungenlied
+  - siegfried
+  - kriemhild
+  - cursed_treasure
+  - revenge
+  motifs:
+  - dragon_slayer_invulnerability
+  - cursed_gold
+  - betrayal_and_revenge
+  - prophetic_dream
+  - doomed_court
+  figures:
+  - Siegfried
+  - Kriemhild
+  - Brunhild
+  - Hagen
+  - Gunther
+  why_it_matters: The German counterpart to the Volsung cycle, letting the Atlas compare
+    how the same Sigurd/Siegfried material transforms between Norse mythic and courtly
+    German settings - treasure-curse and revenge motifs in full.
+  raw_path: imports/raw/project-gutenberg/7321-nibelungenlied-needler.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/7321-nibelungenlied-needler.md
+  canonical_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  manifest_path: manifests/project-gutenberg/7321-nibelungenlied-needler.yml
+  extraction_dir: extractions/germanic/project-gutenberg/nibelungenlied-needler
+- id: germanic.grimm_household_tales.hunt_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '5314'
+  slug: grimm-household-tales-hunt
+  title: Household Tales by Brothers Grimm
+  alternate_titles:
+  - Grimms' Fairy Tales
+  - Kinder- und Hausmarchen
+  text_status: complete
+  tradition: germanic
+  tradition_cluster: european_folk
+  culture: german_oral_folk_tradition_19th_century_collection
+  region: central_europe_germany
+  source_language: German
+  text_language: English
+  date_range: oral folk tales collected 1812-1857; 1884 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #5314 (Margaret Hunt translation)'
+  translator: Margaret Hunt (Mrs. Alfred William Hunt)
+  editor: ''
+  publication_year: 1884
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/5314
+  download_url: https://www.gutenberg.org/ebooks/5314.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Hunt's 1884 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - grimm
+  - fairy_tales
+  - folk_tales
+  - marchen
+  - oral_tradition
+  motifs:
+  - transformation
+  - forest_as_otherworld
+  - magical_helper
+  - youngest_child_triumph
+  - death_and_return
+  figures:
+  - Brothers_Grimm
+  why_it_matters: The reference collection of European folk narrative in a scholarly
+    public-domain translation; supplies hundreds of tale-type instances of transformation,
+    otherworld-forest, and magical-helper motifs for the folk cluster.
+  raw_path: imports/raw/project-gutenberg/5314-grimm-household-tales-hunt.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/5314-grimm-household-tales-hunt.md
+  canonical_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  manifest_path: manifests/project-gutenberg/5314-grimm-household-tales-hunt.yml
+  extraction_dir: extractions/germanic/project-gutenberg/grimm-household-tales-hunt
+- id: celtic_irish.voyage_of_bran.meyer_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: voyageofbransono01scuoft
+  slug: voyage-of-bran-meyer
+  title: The Voyage of Bran, Son of Febal, to the Land of the Living
+  alternate_titles:
+  - Imram Brain
+  text_status: complete
+  tradition: celtic_irish
+  tradition_cluster: norse_celtic
+  culture: early_medieval_irish_voyage_literature
+  region: ireland
+  source_language: Old Irish
+  text_language: English
+  date_range: 7th-8th century CE Old Irish voyage tale; 1895 public-domain English
+    translation
+  source_type: text
+  edition: Volume 1 of Kuno Meyer's edition and translation with Alfred Nutt's essay
+    on the Happy Otherworld (David Nutt, London, 1895); OCR plain text
+  translator: Kuno Meyer
+  editor: Alfred Nutt
+  publication_year: 1895
+  publisher: Internet Archive
+  source_url: https://archive.org/details/voyageofbransono01scuoft
+  download_url: https://archive.org/download/voyageofbransono01scuoft/voyageofbransono01scuoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/voyageofbransono01scuoft
+    full_text: allowed
+    training_use: allowed
+    notes: 1895 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup; Old Irish facing text and scholarly essay should be separated
+      from the translation during conversion.
+  tags:
+  - voyage_of_bran
+  - immram
+  - otherworld_voyage
+  - land_of_women
+  - manannan
+  motifs:
+  - otherworld_voyage
+  - supernatural_summons
+  - timeless_paradise_isle
+  - return_taboo
+  - time_distortion
+  figures:
+  - Bran_mac_Febail
+  - Manannan_mac_Lir
+  why_it_matters: The archetypal Irish otherworld-voyage tale - a woman of the sid
+    summons Bran across the sea to the Land of Women, and returning voyagers crumble
+    to ash when they touch Ireland; core material for otherworld-time-distortion motifs.
+  raw_path: imports/raw/internet-archive/voyageofbransono01scuoft-voyage-of-bran-meyer.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/voyageofbransono01scuoft-voyage-of-bran-meyer.md
+- id: slavic.russian_fairy_tales.ralston_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '22373'
+  slug: russian-fairy-tales-ralston
+  title: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  alternate_titles:
+  - Russian Folk-Tales
+  text_status: complete
+  tradition: slavic
+  tradition_cluster: european_folk
+  culture: russian_oral_folk_tradition_19th_century_collection
+  region: eastern_europe_russia
+  source_language: Russian
+  text_language: English
+  date_range: oral folk tales from Afanasyev and other collections; 1873 public-domain
+    English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #22373 (W. R. S. Ralston translation
+    and commentary)'
+  translator: William Ralston Shedden Ralston
+  editor: ''
+  publication_year: 1873
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/22373
+  download_url: https://www.gutenberg.org/ebooks/22373.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Ralston's 1873 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - russian_folklore
+  - baba_yaga
+  - koshchei
+  - firebird
+  - slavic
+  motifs:
+  - witch_of_the_forest
+  - death_hidden_in_egg
+  - water_of_life_and_death
+  - animal_helpers
+  - underworld_journey
+  figures:
+  - Baba_Yaga
+  - Koshchei_the_Deathless
+  - Ivan_Tsarevich
+  why_it_matters: Opens the Slavic folk cluster with Ralston's scholarly collection
+    drawn largely from Afanasyev - Baba Yaga, Koshchei's external soul, and the waters
+    of life and death are prime comparative motifs for death-and-rebirth themes.
+  raw_path: imports/raw/project-gutenberg/22373-russian-fairy-tales-ralston.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/22373-russian-fairy-tales-ralston.md
+  canonical_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  manifest_path: manifests/project-gutenberg/22373-russian-fairy-tales-ralston.yml
+  extraction_dir: extractions/slavic/project-gutenberg/russian-fairy-tales-ralston
+- id: slavic.myths_folk_tales.curtin_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '50011'
+  slug: myths-folk-tales-russians-slavs-magyars-curtin
+  title: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  alternate_titles:
+  - Myths and Folk-tales of the Russians
+  text_status: complete
+  tradition: slavic
+  tradition_cluster: european_folk
+  culture: slavic_and_magyar_oral_folk_tradition_19th_century_collection
+  region: eastern_central_europe
+  source_language: Russian, Czech, and Hungarian
+  text_language: English
+  date_range: oral folk tales collected 19th century; 1890 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #50011 (Jeremiah Curtin collection,
+    Little, Brown 1890)'
+  translator: Jeremiah Curtin
+  editor: ''
+  publication_year: 1890
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/50011
+  download_url: https://www.gutenberg.org/ebooks/50011.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Curtin's 1890 collection predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  tags:
+  - slavic_folklore
+  - magyar_folklore
+  - folk_tales
+  - shapeshifting
+  - quest
+  motifs:
+  - shapeshifting
+  - glass_mountain
+  - grateful_animals
+  - quest_to_otherworld
+  - youngest_son_hero
+  figures:
+  - Jeremiah_Curtin
+  why_it_matters: Broadens Slavic coverage beyond Russia to Czech and Magyar traditions
+    from a single comparative collector, enabling within-cluster comparison of shared
+    tale types and otherworld-quest motifs.
+  raw_path: imports/raw/project-gutenberg/50011-myths-folk-tales-russians-slavs-magyars-curtin.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/50011-myths-folk-tales-russians-slavs-magyars-curtin.md
+  canonical_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  manifest_path: manifests/project-gutenberg/50011-myths-folk-tales-russians-slavs-magyars-curtin.yml
+  extraction_dir: extractions/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin
+- id: slavic.epic_songs_of_russia.hapgood_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: epicsongsofrussi00hapguoft
+  slug: epic-songs-of-russia-hapgood
+  title: The Epic Songs of Russia
+  alternate_titles:
+  - Byliny
+  - Russian Epic Songs
+  text_status: complete
+  tradition: slavic
+  tradition_cluster: european_folk
+  culture: russian_oral_epic_tradition
+  region: eastern_europe_russia
+  source_language: Russian
+  text_language: English
+  date_range: medieval oral epics (byliny) recorded 18th-19th century; 1886 public-domain
+    English translation
+  source_type: text
+  edition: University of Toronto scan of Isabel Florence Hapgood's translation with
+    introductory note by Francis J. Child (Scribner's, New York, 1886); OCR plain
+    text
+  translator: Isabel Florence Hapgood
+  editor: ''
+  publication_year: 1886
+  publisher: Internet Archive
+  source_url: https://archive.org/details/epicsongsofrussi00hapguoft
+  download_url: https://archive.org/download/epicsongsofrussi00hapguoft/epicsongsofrussi00hapguoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/epicsongsofrussi00hapguoft
+    full_text: allowed
+    training_use: allowed
+    notes: 1886 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup during conversion.
+  tags:
+  - byliny
+  - bogatyr
+  - ilya_muromets
+  - kiev_cycle
+  - oral_epic
+  motifs:
+  - miraculous_healing_of_hero
+  - superhuman_strength
+  - dragon_combat
+  - singer_hero_visits_otherworld
+  - guarding_the_frontier
+  figures:
+  - Ilya_Muromets
+  - Dobrynya_Nikitich
+  - Sadko
+  - Svyatogor
+  - Vladimir_of_Kiev
+  why_it_matters: The classic English rendering of the Russian byliny - crippled Ilya
+    healed by pilgrims, Sadko's descent to the Sea King - adding a Slavic oral-epic
+    layer (not just fairy tales) with healing, dragon-combat, and underwater-otherworld
+    motifs.
+  raw_path: imports/raw/internet-archive/epicsongsofrussi00hapguoft-epic-songs-of-russia-hapgood.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/epicsongsofrussi00hapguoft-epic-songs-of-russia-hapgood.md
+- id: baltic.hero_of_esthonia.kirby_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '19438'
+  slug: hero-of-esthonia-kirby
+  title: The Hero of Esthonia and Other Studies in the Romantic Literature of That
+    Country
+  alternate_titles:
+  - Kalevipoeg
+  - The Hero of Estonia
+  text_status: complete
+  tradition: estonian
+  tradition_cluster: european_folk
+  culture: estonian_oral_epic_19th_century_compilation
+  region: baltic_estonia
+  source_language: Estonian
+  text_language: English
+  date_range: oral tradition compiled as Kalevipoeg 1857-1861; 1895 public-domain
+    English prose retelling and studies
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #19438 (W. F. Kirby, two-volume work
+    in one file, John C. Nimmo, London, 1895)'
+  translator: W. F. Kirby
+  editor: ''
+  publication_year: 1895
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/19438
+  download_url: https://www.gutenberg.org/ebooks/19438.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Kirby's 1895 work predates 1930 and is public domain in the USA; Project
+      Gutenberg catalog records public-domain status. Prose summary-translation of
+      the Kalevipoeg with Estonian folk-tale studies, by the translator of the corpus's
+      Kalevala.
+  tags:
+  - kalevipoeg
+  - estonian_folklore
+  - baltic
+  - national_epic
+  - underworld_journey
+  motifs:
+  - giant_hero
+  - journey_to_worlds_end
+  - underworld_descent
+  - cursed_weapon
+  - hero_bound_at_gates_of_hell
+  figures:
+  - Kalevipoeg
+  - Sarvik
+  - Olev
+  why_it_matters: Companion epic to the already-ingested Kalevala from the same translator,
+    extending the Finnic-Baltic cluster - Kalevipoeg's voyages to the world's end
+    and descents to Porgu (the underworld) parallel Vainamoinen's journeys.
+  raw_path: imports/raw/project-gutenberg/19438-hero-of-esthonia-kirby.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/19438-hero-of-esthonia-kirby.md
+  canonical_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  manifest_path: manifests/project-gutenberg/19438-hero-of-esthonia-kirby.yml
+  extraction_dir: extractions/estonian/project-gutenberg/hero-of-esthonia-kirby
+- id: hindu.rigveda.griffith_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes
+  slug: hymns-of-the-rigveda-griffith
+  title: The Hymns of the Rigveda, Complete 2 Volumes
+  alternate_titles:
+  - Rig Veda
+  - Rigveda Samhita
+  - Hymns of the Rig Veda
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: vedic_sanskrit_later_translation
+  region: south_asia
+  source_language: Vedic Sanskrit
+  text_language: English
+  date_range: Vedic hymns c. 1500-1000 BCE; Griffith English verse translation 1889-1892,
+    revised Benares edition 1920
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the two-volume Griffith translation
+  translator: Ralph T. H. Griffith
+  editor: ''
+  publication_year: 1920
+  publisher: Internet Archive
+  source_url: https://archive.org/details/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes
+  download_url: https://archive.org/download/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes/Hymns%20of%20the%20Rigveda%2C%20English%20Translation%20of%20the%20Rigveda%2C%20Complete%202%20Volumes_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Griffith died 1906; translation first published 1889-1892 and revised edition
+      published 1920, all pre-1930 so US public domain. OCR text from scan; needs
+      cleanup pass (page headers, diacritics) before extraction.
+  tags:
+  - rigveda
+  - veda
+  - hymns
+  - agni
+  - indra
+  - soma
+  - vedic_ritual
+  motifs:
+  - creation
+  - cosmic_order
+  - sacred_fire
+  - divine_praise
+  - sacrifice
+  - dawn
+  figures:
+  - Agni
+  - Indra
+  - Soma
+  - Varuna
+  - Ushas
+  why_it_matters: Covers the ten Rigveda mandala units in the wave-A plan; the oldest
+    stratum of Indian religious poetry, foundational for creation, fire, soma-vision,
+    and cosmic-order motifs across the Atlas.
+  raw_path: imports/raw/internet-archive/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.md
+- id: hindu.upanishads.sbe01.muller_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: upanishads01ml
+  slug: upanishads-part-1-muller
+  title: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  alternate_titles:
+  - Chandogya Upanishad
+  - Kena Upanishad
+  - Aitareya Upanishad
+  - Kaushitaki Upanishad
+  - Isha Upanishad
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: upanishadic_sanskrit_later_translation
+  region: south_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: Upanishads c. 800-300 BCE; Max Muller translation published 1879
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Clarendon Press 1879 first
+    edition
+  translator: F. Max Muller
+  editor: F. Max Muller
+  publication_year: 1879
+  publisher: Internet Archive
+  source_url: https://archive.org/details/upanishads01ml
+  download_url: https://archive.org/download/upanishads01ml/upanishads01ml_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1879, unambiguously US public domain. OCR renders Muller's italic
+      transliteration imperfectly (e.g. Khandogya for Chandogya); cleanup pass needed.
+  tags:
+  - upanishads
+  - vedanta
+  - chandogya
+  - kena
+  - aitareya
+  - kaushitaki
+  - isha
+  motifs:
+  - self_realization
+  - unity_of_being
+  - inner_light
+  - teacher_student_transmission
+  - sacred_syllable
+  figures:
+  - Uddalaka
+  - Shvetaketu
+  - Prajapati
+  - Indra
+  why_it_matters: Supplies four wave-A Upanishads missing from the ingested Paramananda
+    selection (Chandogya, Aitareya, Kaushitaki, plus a second Kena/Isha witness),
+    including tat tvam asi and the doctrine of the inner self.
+  raw_path: imports/raw/internet-archive/upanishads01ml-upanishads-part-1-muller.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/upanishads01ml-upanishads-part-1-muller.md
+- id: hindu.upanishads.sbe15.muller_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: p2upanishads00mluoft
+  slug: upanishads-part-2-muller
+  title: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  alternate_titles:
+  - Katha Upanishad
+  - Mundaka Upanishad
+  - Taittiriya Upanishad
+  - Brihadaranyaka Upanishad
+  - Shvetashvatara Upanishad
+  - Prashna Upanishad
+  - Maitrayana Upanishad
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: upanishadic_sanskrit_later_translation
+  region: south_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: Upanishads c. 800-200 BCE; Max Muller translation published 1884
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Clarendon Press 1884 first
+    edition
+  translator: F. Max Muller
+  editor: F. Max Muller
+  publication_year: 1884
+  publisher: Internet Archive
+  source_url: https://archive.org/details/p2upanishads00mluoft
+  download_url: https://archive.org/download/p2upanishads00mluoft/p2upanishads00mluoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1884, US public domain. OCR of diacritic-heavy transliteration
+      needs cleanup before extraction.
+  tags:
+  - upanishads
+  - vedanta
+  - katha
+  - mundaka
+  - brihadaranyaka
+  - shvetashvatara
+  - prashna
+  motifs:
+  - death_dialogue
+  - two_birds_one_tree
+  - self_realization
+  - hero_descent
+  - breath_and_spirit
+  - liberation
+  figures:
+  - Nachiketas
+  - Yama
+  - Yajnavalkya
+  - Maitreyi
+  why_it_matters: Completes the wave-A Upanishad set (Mundaka, Taittiriya, Brihadaranyaka,
+    Shvetashvatara, Prashna, Maitrayana) including the Nachiketas death-initiation
+    dialogue central to the consciousness-bridge research question.
+  raw_path: imports/raw/internet-archive/p2upanishads00mluoft-upanishads-part-2-muller.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/p2upanishads00mluoft-upanishads-part-2-muller.md
+- id: hindu.yoga_sutras.johnston_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '2526'
+  slug: yoga-sutras-patanjali-johnston
+  title: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  alternate_titles:
+  - Yoga Sutras
+  - Patanjali Yoga Sutras
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: classical_indian_philosophy_later_translation
+  region: south_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: sutras c. 200 BCE-400 CE; Johnston interpretive translation 1912
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #2526'
+  translator: Charles Johnston
+  editor: ''
+  publication_year: 1912
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/2526
+  download_url: https://www.gutenberg.org/ebooks/2526.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Johnston was a Theosophist;
+      his commentary is interpretive and should be kept distinct from the sutra text
+      during extraction.
+  tags:
+  - yoga
+  - patanjali
+  - samadhi
+  - meditation
+  - eight_limbs
+  motifs:
+  - stilling_the_mind
+  - concentration
+  - liberation
+  - witness_consciousness
+  - powers_and_temptation
+  figures:
+  - Patanjali
+  why_it_matters: The wave-A systematic manual of meditative states; primary source
+    for concentration, absorption, and altered-state taxonomy compared across traditions.
+  raw_path: imports/raw/project-gutenberg/2526-yoga-sutras-patanjali-johnston.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/2526-yoga-sutras-patanjali-johnston.md
+  canonical_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  manifest_path: manifests/project-gutenberg/2526-yoga-sutras-patanjali-johnston.yml
+  extraction_dir: extractions/hindu/project-gutenberg/yoga-sutras-patanjali-johnston
+- id: hindu.samkhya_karika.davies_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: 11542006bsb
+  slug: sankhya-karika-davies
+  title: 'Hindu Philosophy: The Sankhya Karika of Iswara Krishna'
+  alternate_titles:
+  - Samkhya Karika
+  - Sankhya Karika
+  text_status: complete
+  tradition: hindu
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: classical_indian_philosophy_later_translation
+  region: south_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: karikas c. 350 CE; Davies English exposition and translation 1881
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Trubner's Oriental Series
+    1881 edition (Bavarian State Library scan)
+  translator: John Davies
+  editor: ''
+  publication_year: 1881
+  publisher: Internet Archive
+  source_url: https://archive.org/details/11542006bsb
+  download_url: https://archive.org/download/11542006bsb/11542006bsb_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1881, US public domain. Volume interleaves karika verses with
+      Davies's exposition; extraction should separate verse text from commentary.
+  tags:
+  - samkhya
+  - prakriti
+  - purusha
+  - gunas
+  - dualism
+  motifs:
+  - spirit_matter_duality
+  - enumeration_of_principles
+  - liberation
+  - witness_consciousness
+  figures:
+  - Ishvara Krishna
+  - Kapila
+  why_it_matters: The wave-A Samkhya root text; its purusha/prakriti analysis underpins
+    the Yoga Sutras and gives the Atlas the classic Indian map of consciousness versus
+    matter.
+  raw_path: imports/raw/internet-archive/11542006bsb-sankhya-karika-davies.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/11542006bsb-sankhya-karika-davies.md
+- id: jain.jaina_sutras.sbe22.jacobi_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: jainasutrasparti029233mbp
+  slug: jaina-sutras-part-1-jacobi
+  title: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books
+    of the East, Vol. 22)'
+  alternate_titles:
+  - Acaranga Sutra
+  - Akaranga Sutra
+  - Kalpa Sutra
+  text_status: complete
+  tradition: jain
+  tradition_cluster: hindu_jain_indian_philosophical
+  culture: jain_prakrit_later_translation
+  region: south_asia
+  source_language: Ardhamagadhi Prakrit
+  text_language: English
+  date_range: canonical Jain sutras c. 400 BCE-100 CE; Jacobi translation published
+    1884
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 22 (scan of later reprint of the 1884 Clarendon edition)
+  translator: Hermann Jacobi
+  editor: F. Max Muller
+  publication_year: 1884
+  publisher: Internet Archive
+  source_url: https://archive.org/details/jainasutrasparti029233mbp
+  download_url: https://archive.org/download/jainasutrasparti029233mbp/jainasutrasparti029233mbp_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Jacobi's translation published 1884, US public domain. Scan is of a reprint;
+      strip library stamps and reprint front matter. Underlying text unchanged from
+      1884 edition.
+  tags:
+  - jain
+  - acaranga
+  - kalpa_sutra
+  - ahimsa
+  - mahavira
+  - asceticism
+  motifs:
+  - nonviolence
+  - renunciation
+  - austerity
+  - liberation
+  - birth_of_the_hero
+  figures:
+  - Mahavira
+  - Parshva
+  why_it_matters: Covers both wave-A Jain plan items (Acaranga and Kalpa Sutra) in
+    one volume; primary sources for ahimsa ethics and the life of Mahavira, filling
+    the currently empty Jain tradition.
+  raw_path: imports/raw/internet-archive/jainasutrasparti029233mbp-jaina-sutras-part-1-jacobi.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/jainasutrasparti029233mbp-jaina-sutras-part-1-jacobi.md
+- id: buddhist.sutta_nipata.sbe10.fausboll_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: mlbd.dhammapadasuttni0000fmax
+  slug: sutta-nipata-fausboll
+  title: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  alternate_titles:
+  - Sutta Nipata
+  - Discourse Collection
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: pali_buddhist_later_translation
+  region: south_asia
+  source_language: Pali
+  text_language: English
+  date_range: early Buddhist verse suttas c. 400-250 BCE; Fausboll translation published
+    1881
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 10 (Motilal Banarsidass reprint scan of the 1881 Clarendon edition)
+  translator: V. Fausboll
+  editor: F. Max Muller
+  publication_year: 1881
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mlbd.dhammapadasuttni0000fmax
+  download_url: https://archive.org/download/mlbd.dhammapadasuttni0000fmax/mlbd.dhammapadasuttni0000fmax_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Fausboll's translation published 1881, US public domain. Scan is a modern
+      MLBD reprint; strip ISBN/reprint front matter. Volume also contains the Dhammapada
+      (already ingested from PG 2017) - extract only the Sutta-Nipata part.
+  tags:
+  - sutta_nipata
+  - pali_canon
+  - khuddaka_nikaya
+  - rhinoceros_sutta
+  - atthaka_vagga
+  motifs:
+  - solitary_wanderer
+  - crossing_the_flood
+  - non_attachment
+  - sage_ideal
+  - dialogue_with_seekers
+  figures:
+  - Buddha
+  - Mara
+  - Bavari
+  why_it_matters: Covers all five wave-A Sutta Nipata vagga units; among the oldest
+    strata of Buddhist teaching, with the muni ideal and crossing-the-flood imagery
+    key to contemplative-state comparison.
+  raw_path: imports/raw/internet-archive/mlbd.dhammapadasuttni0000fmax-sutta-nipata-fausboll.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/mlbd.dhammapadasuttni0000fmax-sutta-nipata-fausboll.md
+- id: buddhist.lotus_sutra.sbe21.kern_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: saddharmapundar00cambuoft
+  slug: saddharma-pundarika-kern
+  title: The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the
+    East, Vol. 21)
+  alternate_titles:
+  - Lotus Sutra
+  - Saddharma Pundarika Sutra
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: mahayana_sanskrit_later_translation
+  region: south_asia_east_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: Mahayana sutra c. 100 BCE-200 CE; Kern translation published 1884
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1884 Clarendon Press
+    first edition
+  translator: H. Kern
+  editor: F. Max Muller
+  publication_year: 1884
+  publisher: Internet Archive
+  source_url: https://archive.org/details/saddharmapundar00cambuoft
+  download_url: https://archive.org/download/saddharmapundar00cambuoft/saddharmapundar00cambuoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1884, US public domain. Original edition scan; OCR cleanup needed
+      for diacritics.
+  tags:
+  - lotus_sutra
+  - mahayana
+  - skillful_means
+  - parables
+  - buddha_nature
+  motifs:
+  - burning_house
+  - prodigal_son
+  - rain_of_dharma
+  - hidden_jewel
+  - cosmic_revelation
+  figures:
+  - Buddha
+  - Avalokiteshvara
+  - Shariputra
+  - Prabhutaratna
+  why_it_matters: Covers the wave-A Lotus Sutra chapter units; the central Mahayana
+    revelation text whose parables (burning house, hidden jewel) anchor skillful-means
+    and universal-awakening motifs.
+  raw_path: imports/raw/internet-archive/saddharmapundar00cambuoft-saddharma-pundarika-kern.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/saddharmapundar00cambuoft-saddharma-pundarika-kern.md
+- id: buddhist.mahayana_texts.sbe49.cowell_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: buddhistmahayana0049vari
+  slug: buddhist-mahayana-texts-sbe49
+  title: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  alternate_titles:
+  - Buddhacarita
+  - Larger Sukhavati-vyuha
+  - Smaller Sukhavati-vyuha
+  - Diamond Sutra (Vagrakkhedika)
+  - Heart Sutra (Pragna-paramita-hridaya)
+  - Amitayur-dhyana Sutra
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: mahayana_sanskrit_later_translation
+  region: south_asia_east_asia
+  source_language: Sanskrit
+  text_language: English
+  date_range: Mahayana sutras c. 100-400 CE; translations published 1894
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1894 Clarendon Press
+    edition (2023 open scan)
+  translator: E. B. Cowell, F. Max Muller, J. Takakusu
+  editor: F. Max Muller
+  publication_year: 1894
+  publisher: Internet Archive
+  source_url: https://archive.org/details/buddhistmahayana0049vari
+  download_url: https://archive.org/download/buddhistmahayana0049vari/buddhistmahayana0049vari_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1894, US public domain. One volume containing Buddhacarita, both
+      Sukhavati-vyuhas, Diamond Sutra, both Heart Sutras, and Amitayur-dhyana; each
+      can be extracted as its own work unit.
+  tags:
+  - mahayana
+  - diamond_sutra
+  - heart_sutra
+  - pure_land
+  - buddhacarita
+  - emptiness
+  motifs:
+  - emptiness
+  - paradise_vision
+  - meditative_visualization
+  - life_of_the_founder
+  - form_is_emptiness
+  figures:
+  - Buddha
+  - Amitabha
+  - Subhuti
+  - Avalokiteshvara
+  why_it_matters: Single rights-clean volume delivering the Diamond and Heart Sutras
+    plus the Pure Land visualization sutras - core sources for emptiness doctrine
+    and structured visionary meditation.
+  raw_path: imports/raw/internet-archive/buddhistmahayana0049vari-buddhist-mahayana-texts-sbe49.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/buddhistmahayana0049vari-buddhist-mahayana-texts-sbe49.md
+- id: buddhist.diamond_sutra.gemmell_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '64623'
+  slug: diamond-sutra-gemmell
+  title: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  alternate_titles:
+  - Diamond Sutra
+  - Vajracchedika Prajnaparamita Sutra
+  text_status: complete
+  tradition: buddhist
+  tradition_cluster: buddhist
+  culture: mahayana_chinese_recension_later_translation
+  region: east_asia
+  source_language: Chinese
+  text_language: English
+  date_range: sutra c. 100-300 CE, Kumarajiva Chinese recension c. 400 CE; Gemmell
+    translation 1912
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #64623'
+  translator: William Gemmell
+  editor: ''
+  publication_year: 1912
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/64623
+  download_url: https://www.gutenberg.org/ebooks/64623.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Translated from the
+      Chinese (Kumarajiva) recension, complementing the Sanskrit-based SBE 49 version.
+  tags:
+  - diamond_sutra
+  - prajnaparamita
+  - mahayana
+  - zen
+  - emptiness
+  motifs:
+  - emptiness
+  - non_abiding_mind
+  - gift_of_teaching
+  - dream_bubble_lightning
+  figures:
+  - Buddha
+  - Subhuti
+  why_it_matters: Clean plain-text edition of the Chan/Zen-central Diamond Sutra;
+    its dream-bubble-lightning closing verse is a prime cross-tradition impermanence
+    motif.
+  raw_path: imports/raw/project-gutenberg/64623-diamond-sutra-gemmell.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/64623-diamond-sutra-gemmell.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  manifest_path: manifests/project-gutenberg/64623-diamond-sutra-gemmell.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/diamond-sutra-gemmell
+- id: shinto.nihongi.volume_1.aston_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: nihongi1asto
+  slug: nihongi-volume-1-aston
+  title: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    1'
+  alternate_titles:
+  - Nihongi
+  - Nihon Shoki
+  text_status: complete
+  tradition: shinto
+  tradition_cluster: shinto_japanese
+  culture: classical_japanese_chronicle_later_translation
+  region: japan
+  source_language: Classical Chinese and Old Japanese
+  text_language: English
+  date_range: chronicle compiled 720 CE; Aston translation published 1896
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1896 Japan Society supplement
+    edition
+  translator: W. G. Aston
+  editor: ''
+  publication_year: 1896
+  publisher: Internet Archive
+  source_url: https://archive.org/details/nihongi1asto
+  download_url: https://archive.org/download/nihongi1asto/nihongi1asto_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1896, US public domain. OCR of first pages is noisy (cover art);
+      body text is clean enough for conversion with a trimming pass.
+  tags:
+  - nihongi
+  - nihon_shoki
+  - shinto
+  - kami
+  - japanese_mythology
+  - age_of_the_gods
+  motifs:
+  - creation
+  - primordial_pair
+  - descent_from_heaven
+  - underworld_visit
+  - sun_deity_concealment
+  figures:
+  - Izanagi
+  - Izanami
+  - Amaterasu
+  - Susanoo
+  - Ninigi
+  why_it_matters: Volume 1 contains the Age of the Gods books - the fullest early
+    Shinto cosmogony (Izanagi and Izanami, Amaterasu and the rock cave), the closest
+    substitute while no automatable Kojiki source exists.
+  raw_path: imports/raw/internet-archive/nihongi1asto-nihongi-volume-1-aston.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/nihongi1asto-nihongi-volume-1-aston.md
+- id: shinto.nihongi.volume_2.aston_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: nihongi2asto
+  slug: nihongi-volume-2-aston
+  title: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    2'
+  alternate_titles:
+  - Nihongi
+  - Nihon Shoki
+  text_status: complete
+  tradition: shinto
+  tradition_cluster: shinto_japanese
+  culture: classical_japanese_chronicle_later_translation
+  region: japan
+  source_language: Classical Chinese and Old Japanese
+  text_language: English
+  date_range: chronicle compiled 720 CE; Aston translation published 1896
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1896 Japan Society supplement
+    edition
+  translator: W. G. Aston
+  editor: ''
+  publication_year: 1896
+  publisher: Internet Archive
+  source_url: https://archive.org/details/nihongi2asto
+  download_url: https://archive.org/download/nihongi2asto/nihongi2asto_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1896, US public domain. Front-matter OCR is noisy; body text
+      usable after trimming.
+  tags:
+  - nihongi
+  - nihon_shoki
+  - shinto
+  - imperial_chronicle
+  - kami
+  motifs:
+  - divine_kingship
+  - omens_and_dreams
+  - oracle
+  - founding_of_order
+  figures:
+  - Jimmu
+  - Jingu
+  - Yamato_Takeru
+  why_it_matters: Completes the Nihongi with legendary emperors, oracles, and dream
+    divination narratives linking kami action to human history.
+  raw_path: imports/raw/internet-archive/nihongi2asto-nihongi-volume-2-aston.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/nihongi2asto-nihongi-volume-2-aston.md
+- id: chinese.i_ching.sbe16.legge_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: mlbd.sacredbooksofeas0000fmax.vol.16
+  slug: i-ching-legge
+  title: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  alternate_titles:
+  - I Ching
+  - Yi King
+  - Book of Changes
+  text_status: complete
+  tradition: confucian
+  tradition_cluster: daoist_confucian_chinese
+  culture: ancient_chinese_divination_classic_later_translation
+  region: china
+  source_language: Classical Chinese
+  text_language: English
+  date_range: core text c. 800 BCE with later commentarial layers; Legge translation
+    published 1882
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 16 (Motilal Banarsidass reprint scan of the 1882 Clarendon edition)
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1882
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mlbd.sacredbooksofeas0000fmax.vol.16
+  download_url: https://archive.org/download/mlbd.sacredbooksofeas0000fmax.vol.16/mlbd.sacredbooksofeas0000fmax.vol.16_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Legge's translation published 1882, US public domain. Scan is a modern
+      MLBD reprint; strip ISBN/reprint front matter before conversion.
+  tags:
+  - i_ching
+  - yi_king
+  - divination
+  - hexagrams
+  - yin_yang
+  - change
+  motifs:
+  - cosmic_polarity
+  - cyclical_change
+  - oracle
+  - correspondence_heaven_earth
+  figures:
+  - King Wen
+  - Duke of Zhou
+  - Confucius
+  why_it_matters: The foundational Chinese divination classic; its synchronistic oracle
+    logic and yin-yang cosmology are directly relevant to the Atlas's pattern-correspondence
+    research thread.
+  raw_path: imports/raw/internet-archive/mlbd.sacredbooksofeas0000fmax.vol.16-i-ching-legge.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/mlbd.sacredbooksofeas0000fmax.vol.16-i-ching-legge.md
+- id: polynesian.maori.polynesian_mythology.grey_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: polynesianmythol00greyuoft
+  slug: polynesian-mythology-grey
+  title: Polynesian Mythology and Ancient Traditional History of the New Zealand Race
+  alternate_titles:
+  - Polynesian Mythology
+  - Nga Mahi a Nga Tupuna
+  text_status: complete
+  tradition: maori
+  tradition_cluster: oceanian_polynesian
+  culture: maori_oral_traditions_colonial_collection
+  region: aotearoa_new_zealand
+  source_language: Maori
+  text_language: English
+  date_range: oral traditions of long standing; collected and translated 1845-1855,
+    published 1855
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1855 John Murray first
+    edition
+  translator: George Grey
+  editor: George Grey
+  publication_year: 1855
+  publisher: Internet Archive
+  source_url: https://archive.org/details/polynesianmythol00greyuoft
+  download_url: https://archive.org/download/polynesianmythol00greyuoft/polynesianmythol00greyuoft_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1855, US public domain. Cultural sensitivity - Maori narratives
+      recorded by a colonial governor from tohunga and chiefs; these remain living
+      taonga (treasured) traditions for iwi. Present with provenance framing and colonial-collection
+      caveats, not as a neutral canonical edition.
+  tags:
+  - maori
+  - polynesian
+  - rangi_and_papa
+  - maui
+  - tawhaki
+  - creation
+  motifs:
+  - sky_father_earth_mother
+  - separation_of_heaven_and_earth
+  - trickster_fire_theft
+  - fishing_up_land
+  - quest_for_immortality
+  figures:
+  - Rangi
+  - Papa
+  - Maui
+  - Tane
+  - Tawhaki
+  why_it_matters: The primary published source for the wave-C Maori creation cycle
+    (Rangi and Papa) and the Maui cycle; foundational Oceanic cosmogony for the separation-of-heaven-and-earth
+    motif family.
+  raw_path: imports/raw/internet-archive/polynesianmythol00greyuoft-polynesian-mythology-grey.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/polynesianmythol00greyuoft-polynesian-mythology-grey.md
+- id: polynesian.hawaiian_folk_tales.thrum_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '18450'
+  slug: hawaiian-folk-tales-thrum
+  title: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  alternate_titles:
+  - Hawaiian Folk Tales
+  text_status: complete
+  tradition: hawaiian
+  tradition_cluster: oceanian_polynesian
+  culture: hawaiian_oral_traditions_colonial_era_collection
+  region: hawaii
+  source_language: Hawaiian
+  text_language: English
+  date_range: oral traditions of long standing; collection published 1907
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #18450'
+  translator: various (including native Hawaiian contributors)
+  editor: Thomas G. Thrum
+  publication_year: 1907
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/18450
+  download_url: https://www.gutenberg.org/ebooks/18450.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Native Hawaiian mo'olelo compiled in the immediate post-annexation era, partly
+      by outsider writers; treat as historical witnesses to living traditions and
+      note contributor provenance per tale.
+  tags:
+  - hawaiian
+  - polynesian
+  - pele
+  - menehune
+  - legends
+  motifs:
+  - volcano_goddess
+  - hidden_helpers
+  - shark_guardian
+  - spirit_journey
+  figures:
+  - Pele
+  - Hiiaka
+  - Maui
+  - Kamapuaa
+  why_it_matters: Fills the Hawaiian gap in the wave-C plan (alongside the still-missing
+    Kumulipo) with Pele, Maui, and menehune narratives central to Polynesian volcanic
+    and trickster motif families.
+  raw_path: imports/raw/project-gutenberg/18450-hawaiian-folk-tales-thrum.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/18450-hawaiian-folk-tales-thrum.md
+  canonical_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  manifest_path: manifests/project-gutenberg/18450-hawaiian-folk-tales-thrum.yml
+  extraction_dir: extractions/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum
+- id: african.west_african_folk_tales.barker_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '66923'
+  slug: west-african-folk-tales-barker
+  title: West African Folk-Tales
+  alternate_titles:
+  - Anansi Stories
+  text_status: complete
+  tradition: akan
+  tradition_cluster: african
+  culture: akan_gold_coast_oral_traditions_colonial_collection
+  region: west_africa_ghana
+  source_language: Akan (Twi) and other Gold Coast languages
+  text_language: English
+  date_range: oral traditions of long standing; collection published 1917
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #66923'
+  translator: W. H. Barker and Cecilia Sinclair
+  editor: W. H. Barker
+  publication_year: 1917
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/66923
+  download_url: https://www.gutenberg.org/ebooks/66923.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Akan/Ashanti tales collected by colonial-era educators and retold for English
+      readers; Anansi remains a living tradition, and the retellings may smooth or
+      moralize original tellings.
+  tags:
+  - anansi
+  - akan
+  - ashanti
+  - trickster
+  - spider
+  - west_africa
+  motifs:
+  - trickster_boundary
+  - how_stories_came
+  - wisdom_pot
+  - sky_god_bargain
+  - cleverness_over_strength
+  figures:
+  - Anansi
+  - Nyame
+  - Anansewa
+  why_it_matters: Directly covers the wave-C Anansi cycle plan items (how Anansi got
+    the stories, the pot of wisdom, the sky god bargain) from the Gold Coast homeland
+    of the tradition.
+  raw_path: imports/raw/project-gutenberg/66923-west-african-folk-tales-barker.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/66923-west-african-folk-tales-barker.md
+  canonical_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  manifest_path: manifests/project-gutenberg/66923-west-african-folk-tales-barker.yml
+  extraction_dir: extractions/akan/project-gutenberg/west-african-folk-tales-barker
+- id: african_diaspora.jamaica_anansi_stories.beckwith_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '72735'
+  slug: jamaica-anansi-stories-beckwith
+  title: Jamaica Anansi Stories
+  alternate_titles:
+  - Anancy Stories
+  text_status: complete
+  tradition: afro_caribbean
+  tradition_cluster: african
+  culture: jamaican_afro_caribbean_oral_traditions_ethnographic_collection
+  region: caribbean_jamaica
+  source_language: Jamaican Creole and English
+  text_language: English
+  date_range: oral traditions of long standing; field collection published 1924
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #72735'
+  translator: ''
+  editor: Martha Warren Beckwith
+  publication_year: 1924
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/72735
+  download_url: https://www.gutenberg.org/ebooks/72735.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - verbatim ethnographic transcriptions from named Jamaican tellers in Creole;
+      dialect spellings reflect 1920s transcription conventions and should be presented
+      respectfully with teller attribution preserved.
+  tags:
+  - anansi
+  - jamaica
+  - afro_caribbean
+  - trickster
+  - diaspora
+  motifs:
+  - trickster_boundary
+  - death_outwitted
+  - song_within_tale
+  - survival_through_wit
+  figures:
+  - Anansi
+  - Tacoma
+  - Death
+  why_it_matters: Shows the Anansi cycle carried across the Middle Passage and transformed
+    in the Caribbean - a documented case of motif migration and survival that complements
+    the Gold Coast collection.
+  raw_path: imports/raw/project-gutenberg/72735-jamaica-anansi-stories-beckwith.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/72735-jamaica-anansi-stories-beckwith.md
+  canonical_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  manifest_path: manifests/project-gutenberg/72735-jamaica-anansi-stories-beckwith.yml
+  extraction_dir: extractions/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith
+- id: african.yoruba_speaking_peoples.ellis_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: yorubaspeakingp01elligoog
+  slug: yoruba-speaking-peoples-ellis
+  title: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion,
+    Manners, Customs, Laws, Language, Etc.'
+  alternate_titles:
+  - Yoruba-Speaking Peoples
+  text_status: complete
+  tradition: yoruba
+  tradition_cluster: african
+  culture: yoruba_religion_colonial_ethnography
+  region: west_africa_nigeria_benin
+  source_language: Yoruba
+  text_language: English
+  date_range: living tradition of long standing; ethnography published 1894
+  source_type: ethnographic_study
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1894 Chapman and Hall
+    edition (Google scan)
+  translator: ''
+  editor: A. B. Ellis
+  publication_year: 1894
+  publisher: Internet Archive
+  source_url: https://archive.org/details/yorubaspeakingp01elligoog
+  download_url: https://archive.org/download/yorubaspeakingp01elligoog/yorubaspeakingp01elligoog_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1894, US public domain. Cultural sensitivity - a colonial military
+      officer's ethnography of a living religion, with period biases and errors; it
+      documents orisha worship, Ifa divination, and proverbs secondhand. No public-domain
+      English translation of the Ifa Odu corpus itself exists - this is an imperfect
+      documentary proxy, and its interpretive framing must not be extracted as Yoruba
+      self-description.
+  tags:
+  - yoruba
+  - orisha
+  - ifa
+  - divination
+  - proverbs
+  - west_africa
+  motifs:
+  - divination
+  - pantheon_hierarchy
+  - destiny_and_choice
+  - proverb_wisdom
+  figures:
+  - Olorun
+  - Ifa
+  - Orunmila
+  - Shango
+  - Eshu
+  why_it_matters: Closest rights-clear documentary source for the wave-C Ifa material;
+    records the odu system, orisha figures, and Yoruba proverb corpus a century before
+    modern translations, with limitations honestly flagged.
+  raw_path: imports/raw/internet-archive/yorubaspeakingp01elligoog-yoruba-speaking-peoples-ellis.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/yorubaspeakingp01elligoog-yoruba-speaking-peoples-ellis.md
+- id: mesoamerican.rig_veda_americanus.brinton_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '14993'
+  slug: rig-veda-americanus-brinton
+  title: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
+  alternate_titles:
+  - Rig Veda Americanus
+  - Sacred Songs of the Ancient Mexicans
+  text_status: complete
+  tradition: nahua
+  tradition_cluster: mesoamerican
+  culture: aztec_nahuatl_hymns_later_translation
+  region: mesoamerica_mexico
+  source_language: Classical Nahuatl
+  text_language: English
+  date_range: pre-conquest hymns recorded 16th century (Sahagun manuscripts); Brinton
+    edition and translation 1890
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #14993'
+  translator: Daniel G. Brinton
+  editor: Daniel G. Brinton
+  publication_year: 1890
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/14993
+  download_url: https://www.gutenberg.org/ebooks/14993.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Brinton's translations
+      of these archaic hymns are pioneering but conjectural in places; includes original
+      Nahuatl text, which is valuable for the corpus.
+  tags:
+  - nahua
+  - aztec
+  - hymns
+  - huitzilopochtli
+  - tlaloc
+  - nahuatl
+  motifs:
+  - divine_praise
+  - rain_invocation
+  - war_god_birth
+  - flower_and_song
+  figures:
+  - Huitzilopochtli
+  - Tlaloc
+  - Xochiquetzal
+  - Quetzalcoatl
+  why_it_matters: The only public-domain English rendering of the twenty ancient Nahuatl
+    ritual hymns - primary liturgical poetry supporting the wave-C Nahua myth units
+    (Huitzilopochtli, Tlalocan) rather than retellings.
+  raw_path: imports/raw/project-gutenberg/14993-rig-veda-americanus-brinton.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/14993-rig-veda-americanus-brinton.md
+  canonical_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  manifest_path: manifests/project-gutenberg/14993-rig-veda-americanus-brinton.yml
+  extraction_dir: extractions/nahua/project-gutenberg/rig-veda-americanus-brinton
+- id: mesoamerican.maya_chronicles.brinton_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '20205'
+  slug: maya-chronicles-brinton
+  title: The Maya Chronicles
+  alternate_titles:
+  - Books of Chilan Balam (chronicle portions)
+  text_status: complete
+  tradition: maya
+  tradition_cluster: mesoamerican
+  culture: yucatec_maya_colonial_manuscripts_later_translation
+  region: mesoamerica_yucatan
+  source_language: Yucatec Maya
+  text_language: English
+  date_range: colonial-era Maya manuscripts 16th-18th centuries preserving earlier
+    traditions; Brinton edition 1882
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #20205'
+  translator: Daniel G. Brinton
+  editor: Daniel G. Brinton
+  publication_year: 1882
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/20205
+  download_url: https://www.gutenberg.org/ebooks/20205.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Contains Maya-language
+      texts with Brinton's translations of katun chronicles from the Books of Chilan
+      Balam; his readings predate modern Maya epigraphy and need scholarly caveats.
+  tags:
+  - maya
+  - chilan_balam
+  - katun
+  - chronicles
+  - yucatan
+  motifs:
+  - cyclical_time
+  - prophecy
+  - migration_narrative
+  - fall_of_cities
+  figures:
+  - Kukulcan
+  - Hunac_Ceel
+  why_it_matters: Extends Maya coverage beyond the ingested Popol Vuh with Yucatec
+    katun-count chronicles - primary sources for Mesoamerican cyclical time and prophecy
+    motifs.
+  raw_path: imports/raw/project-gutenberg/20205-maya-chronicles-brinton.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/20205-maya-chronicles-brinton.md
+  canonical_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  manifest_path: manifests/project-gutenberg/20205-maya-chronicles-brinton.yml
+  extraction_dir: extractions/maya/project-gutenberg/maya-chronicles-brinton
+- id: mesoamerican.myths_of_mexico_peru.spence_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '53080'
+  slug: myths-of-mexico-peru-spence
+  title: The Myths of Mexico & Peru
+  alternate_titles:
+  - Myths of Mexico and Peru
+  text_status: complete
+  tradition: nahua_maya_inca
+  tradition_cluster: mesoamerican
+  culture: mesoamerican_andean_myth_later_retelling
+  region: mesoamerica_andes
+  source_language: Nahuatl, Yucatec Maya, Quechua (via Spanish chronicles)
+  text_language: English
+  date_range: pre-conquest traditions via 16th-17th century chronicles; Spence synthesis
+    published 1913
+  source_type: retelling
+  edition: 'Project Gutenberg plain-text eBook #53080'
+  translator: ''
+  editor: Lewis Spence
+  publication_year: 1913
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/53080
+  download_url: https://www.gutenberg.org/ebooks/53080.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Secondary retelling
+      synthesized from Spanish chronicles, like the already-ingested Spence Popol
+      Vuh; mark extractions as later synthesis, not primary text.
+  tags:
+  - aztec
+  - maya
+  - inca
+  - five_suns
+  - quetzalcoatl
+  - mictlan
+  motifs:
+  - world_ages
+  - dying_and_returning_god
+  - underworld_journey
+  - sun_creation
+  - flood
+  figures:
+  - Quetzalcoatl
+  - Tezcatlipoca
+  - Mictlantecuhtli
+  - Viracocha
+  - Manco_Capac
+  why_it_matters: Covers the wave-C Nahua myth units (Five Suns, Quetzalcoatl and
+    Tollan, journey to Mictlan, Tlalocan) plus Inca cosmogony in one accessible public-domain
+    volume where no direct primary translation exists.
+  raw_path: imports/raw/project-gutenberg/53080-myths-of-mexico-peru-spence.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/53080-myths-of-mexico-peru-spence.md
+  canonical_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  manifest_path: manifests/project-gutenberg/53080-myths-of-mexico-peru-spence.yml
+  extraction_dir: extractions/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence
+- id: andean.rites_and_laws_of_the_yncas.markham_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: narrativesofrite00markiala
+  slug: rites-and-laws-of-the-yncas-markham
+  title: Narratives of the Rites and Laws of the Yncas
+  alternate_titles:
+  - Rites and Laws of the Yncas
+  - Fables and Rites of the Incas
+  text_status: complete
+  tradition: inca
+  tradition_cluster: andean
+  culture: inca_quechua_via_spanish_chronicles_later_translation
+  region: andes_peru
+  source_language: Spanish (recording Quechua traditions)
+  text_language: English
+  date_range: 16th-17th century chronicles (Molina c. 1575, Salcamayhua c. 1620) of
+    pre-conquest traditions; Markham translation 1873
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1873 Hakluyt Society
+    edition
+  translator: Clements R. Markham
+  editor: Clements R. Markham
+  publication_year: 1873
+  publisher: Internet Archive
+  source_url: https://archive.org/details/narrativesofrite00markiala
+  download_url: https://archive.org/download/narrativesofrite00markiala/narrativesofrite00markiala_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1873, US public domain. Chronicles were written by/for Spanish
+      missionaries and Christianized Andean authors; prayers and myths pass through
+      a colonial filter that extraction notes should flag.
+  tags:
+  - inca
+  - quechua
+  - viracocha
+  - prayers
+  - andean_ritual
+  - huacas
+  motifs:
+  - creator_god_invocation
+  - origin_from_cave_and_lake
+  - sacred_landscape
+  - calendar_ritual
+  figures:
+  - Viracocha
+  - Manco_Capac
+  - Inti
+  why_it_matters: Primary-source Inca prayers to Viracocha and origin narratives (Molina
+    and Salcamayhua) - the strongest public-domain window into Andean religion beyond
+    later retellings.
+  raw_path: imports/raw/internet-archive/narrativesofrite00markiala-rites-and-laws-of-the-yncas-markham.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/narrativesofrite00markiala-rites-and-laws-of-the-yncas-markham.md
+- id: native_american.navaho_legends.matthews_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '60165'
+  slug: navaho-legends-matthews
+  title: Navaho Legends
+  alternate_titles:
+  - Navajo Legends
+  text_status: complete
+  tradition: navajo
+  tradition_cluster: native_north_american
+  culture: dine_oral_traditions_ethnographic_collection
+  region: north_america_southwest
+  source_language: Navajo (Dine bizaad)
+  text_language: English
+  date_range: living oral tradition; recorded 1880s-1890s, published 1897
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #60165'
+  translator: Washington Matthews
+  editor: Washington Matthews
+  publication_year: 1897
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/60165
+  download_url: https://www.gutenberg.org/ebooks/60165.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Dine creation and ceremonial narratives belong to a living religion; some
+      chantway material is traditionally restricted in season and audience. Present
+      with provenance framing and respect for Dine perspectives on ceremonial knowledge.
+  tags:
+  - navajo
+  - dine
+  - creation
+  - emergence
+  - changing_woman
+  - hero_twins
+  motifs:
+  - emergence_through_worlds
+  - hero_twins_journey
+  - monster_slaying
+  - sun_father_visit
+  - restoration_of_order
+  figures:
+  - Changing_Woman
+  - Monster_Slayer
+  - Born_for_Water
+  - Sun_Bearer
+  - First_Man
+  why_it_matters: The classic recorded Dine emergence narrative and hero-twins cycle
+    - a keystone North American parallel for underworld ascent, twin heroes, and cosmic
+    restoration motifs.
+  raw_path: imports/raw/project-gutenberg/60165-navaho-legends-matthews.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/60165-navaho-legends-matthews.md
+  canonical_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  manifest_path: manifests/project-gutenberg/60165-navaho-legends-matthews.yml
+  extraction_dir: extractions/navajo/project-gutenberg/navaho-legends-matthews
+- id: native_american.zuni_folk_tales.cushing_gutenberg
+  status: ingested
+  priority: medium
+  source: project_gutenberg
+  source_id: '54682'
+  slug: zuni-folk-tales-cushing
+  title: Zuni Folk Tales
+  alternate_titles:
+  - Zuni Folk Tales
+  text_status: complete
+  tradition: zuni
+  tradition_cluster: native_north_american
+  culture: zuni_oral_traditions_ethnographic_collection
+  region: north_america_southwest
+  source_language: Zuni (Shiwi'ma)
+  text_language: English
+  date_range: living oral tradition; recorded 1879-1884, collection published 1901
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #54682'
+  translator: Frank Hamilton Cushing
+  editor: ''
+  publication_year: 1901
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/54682
+  download_url: https://www.gutenberg.org/ebooks/54682.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Cushing's participant-observer methods at Zuni are historically controversial,
+      and A:shiwi tradition remains living and partly restricted; frame as one ethnographer's
+      literary renderings, not authorized Zuni publication.
+  tags:
+  - zuni
+  - pueblo
+  - folk_tales
+  - kachina
+  - southwest
+  motifs:
+  - animal_helpers
+  - trickster_boundary
+  - underworld_origin
+  - transformation
+  - reciprocity_with_spirits
+  figures:
+  - Ahaiyuta
+  - Coyote
+  - Corn_Maidens
+  why_it_matters: Major Pueblo narrative corpus for the wave-C plan - origin, corn-maiden,
+    and trickster tales that complete the Southwest triangle with the Navajo and Hopi
+    collections.
+  raw_path: imports/raw/project-gutenberg/54682-zuni-folk-tales-cushing.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/54682-zuni-folk-tales-cushing.md
+  canonical_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  manifest_path: manifests/project-gutenberg/54682-zuni-folk-tales-cushing.yml
+  extraction_dir: extractions/zuni/project-gutenberg/zuni-folk-tales-cushing
+- id: native_american.traditions_of_the_hopi.voth_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: traditionshopi00vothgoog
+  slug: traditions-of-the-hopi-voth
+  title: The Traditions of the Hopi
+  alternate_titles:
+  - Hopi Traditions
+  text_status: complete
+  tradition: hopi
+  tradition_cluster: native_north_american
+  culture: hopi_oral_traditions_ethnographic_collection
+  region: north_america_southwest
+  source_language: Hopi
+  text_language: English
+  date_range: living oral tradition; recorded c. 1893-1904, published 1905
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1905 Field Columbian
+    Museum edition (Google scan)
+  translator: H. R. Voth
+  editor: ''
+  publication_year: 1905
+  publisher: Internet Archive
+  source_url: https://archive.org/details/traditionshopi00vothgoog
+  download_url: https://archive.org/download/traditionshopi00vothgoog/traditionshopi00vothgoog_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1905, US public domain. Significant cultural sensitivity - Voth,
+      a missionary, documented Hopi narratives and ceremonies in ways the Hopi have
+      long objected to, including material considered esoteric. Handle with explicit
+      provenance caveats; prefer non-ceremonial narrative tales for extraction and
+      flag contested material.
+  tags:
+  - hopi
+  - pueblo
+  - emergence
+  - katsina
+  - southwest
+  motifs:
+  - emergence_through_worlds
+  - migration_narrative
+  - flood
+  - reciprocity_with_spirits
+  figures:
+  - Spider_Woman
+  - Maasaw
+  - Hero_Twins
+  why_it_matters: The fullest early record of Hopi emergence and migration narratives
+    for the wave-C plan; must be used with unusually strong sensitivity framing given
+    the collection's contested history.
+  raw_path: imports/raw/internet-archive/traditionshopi00vothgoog-traditions-of-the-hopi-voth.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/traditionshopi00vothgoog-traditions-of-the-hopi-voth.md
+- id: australian.australian_legendary_tales.parker_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '3833'
+  slug: australian-legendary-tales-parker
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  alternate_titles:
+  - Australian Legendary Tales
+  text_status: complete
+  tradition: australian_aboriginal
+  tradition_cluster: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+  region: australia_new_south_wales
+  source_language: Yuwaalaraay (Euahlayi) oral tradition mediated through English
+  text_language: English
+  date_range: living Dreaming oral tradition; recorded 1890s, published 1896
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #3833'
+  translator: K. Langloh Parker
+  editor: K. Langloh Parker
+  publication_year: 1896
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/3833
+  download_url: https://www.gutenberg.org/ebooks/3833.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Colonial recording context
+      - Parker was a settler pastoralist who recorded Yuwaalaraay (Euahlayi) narratives
+      from Aboriginal people living on her station; the Dreaming remains a living
+      religious tradition, some knowledge is gender- or initiation-restricted, and
+      the collection's framing (including its period title) reflects 1890s colonial
+      attitudes. Frame as mediated settler recordings, not authorized community publication.
+  tags:
+  - australian_aboriginal
+  - dreamtime
+  - dreaming
+  - yuwaalaraay
+  - animal_origin_tales
+  - byamee
+  motifs:
+  - cosmic_origin
+  - animal_helper
+  - trickster_boundary
+  - shapeshifter
+  - culture_hero
+  figures:
+  - Byamee
+  - Bahloo_the_moon
+  - Yhi_the_sun
+  - Goolahwilleel
+  why_it_matters: The earliest substantial English collection of Australian Aboriginal
+    Dreaming narratives - a maximally isolated lineage where motif recurrence (sky
+    All-Father, origin transformations, flood, trickster) cannot be explained by contact
+    with the Eurasian corpus.
+  raw_path: imports/raw/project-gutenberg/3833-australian-legendary-tales-parker.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/3833-australian-legendary-tales-parker.md
+  canonical_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  manifest_path: manifests/project-gutenberg/3833-australian-legendary-tales-parker.yml
+  extraction_dir: extractions/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker
+- id: australian.more_australian_legendary_tales.parker_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: cu31924029909086
+  slug: more-australian-legendary-tales-parker
+  title: More Australian Legendary Tales
+  alternate_titles:
+  - More Australian Legendary Tales
+  text_status: complete
+  tradition: australian_aboriginal
+  tradition_cluster: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+  region: australia_new_south_wales
+  source_language: Yuwaalaraay (Euahlayi) oral tradition mediated through English
+  text_language: English
+  date_range: living Dreaming oral tradition; recorded 1890s, published 1898
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1898 David Nutt edition
+    (Cornell University scan)
+  translator: K. Langloh Parker
+  editor: K. Langloh Parker
+  publication_year: 1898
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924029909086
+  download_url: https://archive.org/download/cu31924029909086/cu31924029909086_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898, US public domain. Same colonial recording context as Parker's
+      1896 volume - settler-recorded Yuwaalaraay Dreaming narratives from a living
+      restricted-knowledge tradition; handle with provenance framing. OCR text includes
+      library front matter to strip.
+  tags:
+  - australian_aboriginal
+  - dreamtime
+  - dreaming
+  - yuwaalaraay
+  - animal_origin_tales
+  - star_lore
+  motifs:
+  - cosmic_origin
+  - animal_helper
+  - trickster_boundary
+  - shapeshifter
+  - seasonal_cycle
+  figures:
+  - Byamee
+  - Wurrunnah
+  - Meamei_the_Pleiades
+  why_it_matters: Companion volume completing Parker's Yuwaalaraay corpus, adding
+    star-origin (Pleiades), fire-theft, and flood narratives central to cross-lineage
+    motif comparison with zero plausible Eurasian contact.
+  raw_path: imports/raw/internet-archive/cu31924029909086-more-australian-legendary-tales-parker.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cu31924029909086-more-australian-legendary-tales-parker.md
+- id: australian.euahlayi_tribe.parker_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '3819'
+  slug: euahlayi-tribe-parker
+  title: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  alternate_titles:
+  - The Euahlayi Tribe
+  text_status: complete
+  tradition: australian_aboriginal
+  tradition_cluster: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_ethnography
+  region: australia_new_south_wales
+  source_language: Yuwaalaraay (Euahlayi) oral tradition mediated through English
+  text_language: English
+  date_range: living Dreaming oral tradition; recorded 1890s-1900s, published 1905
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #3819'
+  translator: K. Langloh Parker
+  editor: K. Langloh Parker
+  publication_year: 1905
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/3819
+  download_url: https://www.gutenberg.org/ebooks/3819.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Colonial recording context
+      - settler ethnography of a living tradition, including All-Father (Byamee) religion
+      and initiation material that is traditionally restricted; Andrew Lang's introduction
+      imposes period comparative-religion theory. Prefer narrative chapters and flag
+      ceremonial material.
+  tags:
+  - australian_aboriginal
+  - euahlayi
+  - byamee
+  - all_father
+  - initiation
+  - totemism
+  motifs:
+  - sky_father
+  - initiation
+  - dream_journey
+  - reciprocity_with_spirits
+  - cosmic_origin
+  figures:
+  - Byamee
+  - Birrahgnooloo
+  - Wirreenun_shamans
+  why_it_matters: Parker's mature ethnographic account of Euahlayi religion - the
+    sky All-Father, dream-spirits, and initiation complex - key evidence in the historical
+    debate over whether high-god and soul-journey motifs arise independently in isolated
+    lineages.
+  raw_path: imports/raw/project-gutenberg/3819-euahlayi-tribe-parker.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/3819-euahlayi-tribe-parker.md
+  canonical_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  manifest_path: manifests/project-gutenberg/3819-euahlayi-tribe-parker.yml
+  extraction_dir: extractions/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker
+- id: arctic_inuit.eskimo_folk_tales.rasmussen_worster_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '28932'
+  slug: eskimo-folk-tales-rasmussen-worster
+  title: Eskimo Folk-Tales
+  alternate_titles:
+  - Eskimo Folk-Tales
+  text_status: complete
+  tradition: inuit
+  tradition_cluster: arctic_inuit
+  culture: greenlandic_inuit_oral_traditions_explorer_collection
+  region: arctic_greenland
+  source_language: Kalaallisut (Greenlandic Inuit)
+  text_language: English
+  date_range: living oral tradition; collected on Rasmussen's expeditions, English
+    translation published 1921
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #28932'
+  translator: W. Worster
+  editor: Knud Rasmussen
+  publication_year: 1921
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/28932
+  download_url: https://www.gutenberg.org/ebooks/28932.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Recording context -
+      Rasmussen was part-Greenlandic and collected in the language, which makes this
+      one of the less-mediated Arctic collections, but the English text is still a
+      double translation (Greenlandic to Danish to English) of narratives from a living
+      Inuit tradition.
+  tags:
+  - inuit
+  - greenland
+  - eskimo_folk_tales
+  - shamanism
+  - arctic
+  - spirit_journey
+  motifs:
+  - shamanic_journey
+  - animal_helper
+  - shapeshifter
+  - underworld_trial
+  - reciprocity_with_spirits
+  figures:
+  - angakoq_shamans
+  - Qalaganguase
+  - raven
+  - sea_spirits
+  why_it_matters: Core Arctic lineage corpus collected by a part-Inuit ethnographer
+    - shaman spirit-flights, animal transformation, and sea-spirit reciprocity from
+    a tradition isolated from the Eurasian core, prime material for independent-recurrence
+    tests.
+  raw_path: imports/raw/project-gutenberg/28932-eskimo-folk-tales-rasmussen-worster.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/28932-eskimo-folk-tales-rasmussen-worster.md
+  canonical_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  manifest_path: manifests/project-gutenberg/28932-eskimo-folk-tales-rasmussen-worster.yml
+  extraction_dir: extractions/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster
+- id: arctic_inuit.central_eskimo.boas_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '42084'
+  slug: central-eskimo-boas
+  title: The Central Eskimo
+  alternate_titles:
+  - The Central Eskimo
+  text_status: complete
+  tradition: inuit
+  tradition_cluster: arctic_inuit
+  culture: baffin_island_inuit_oral_traditions_ethnographic_collection
+  region: arctic_canada_baffin_island
+  source_language: Inuktitut
+  text_language: English
+  date_range: living oral tradition; fieldwork 1883-1884, published 1888 (Bureau of
+    Ethnology Sixth Annual Report)
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #42084'
+  translator: Franz Boas
+  editor: Franz Boas
+  publication_year: 1888
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/42084
+  download_url: https://www.gutenberg.org/ebooks/42084.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (Bureau of Ethnology), public domain. Recording
+      context - early ethnography of a living Inuit tradition; the Sedna narrative
+      and angakoq material remain religiously significant to Inuit communities. Much
+      of the volume is ethnographic description - extract the myth and tale chapters.
+  tags:
+  - inuit
+  - baffin_island
+  - sedna
+  - boas
+  - arctic
+  - bureau_of_ethnology
+  motifs:
+  - sea_mother
+  - dismemberment_origin
+  - shamanic_journey
+  - underworld_trial
+  - seasonal_cycle
+  figures:
+  - Sedna
+  - angakoq_shamans
+  - Sun_and_Moon
+  why_it_matters: Contains the classic recorded Sedna sea-mother myth - dismemberment
+    origin of sea animals, shamanic descent to appease her - a keystone isolated-lineage
+    parallel for descent, dismemberment, and master-of-animals motifs.
+  raw_path: imports/raw/project-gutenberg/42084-central-eskimo-boas.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/42084-central-eskimo-boas.md
+  canonical_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  manifest_path: manifests/project-gutenberg/42084-central-eskimo-boas.yml
+  extraction_dir: extractions/inuit/project-gutenberg/central-eskimo-boas
+- id: arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: talestraditionso01rink
+  slug: tales-and-traditions-of-the-eskimo-rink
+  title: Tales and Traditions of the Eskimo
+  alternate_titles:
+  - Tales and Traditions of the Eskimo
+  text_status: complete
+  tradition: inuit
+  tradition_cluster: arctic_inuit
+  culture: greenlandic_inuit_oral_traditions_colonial_collection
+  region: arctic_greenland
+  source_language: Kalaallisut (Greenlandic Inuit)
+  text_language: English
+  date_range: living oral tradition; collected 1850s-1860s, English edition published
+    1875
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1875 Blackwood edition
+  translator: Henry Rink
+  editor: Robert Brown
+  publication_year: 1875
+  publisher: Internet Archive
+  source_url: https://archive.org/details/talestraditionso01rink
+  download_url: https://archive.org/download/talestraditionso01rink/talestraditionso01rink_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1875, US public domain. Recording context - Rink was a Danish
+      colonial administrator in Greenland, but the tales were largely written down
+      and illustrated by Greenlanders themselves (including Aron of Kangeq) in Rink's
+      pioneering native-language collecting program; still a colonial-era mediated
+      publication of a living tradition.
+  tags:
+  - inuit
+  - greenland
+  - rink
+  - folk_tales
+  - arctic
+  - kayak_culture
+  motifs:
+  - orphan_hero
+  - shamanic_journey
+  - shapeshifter
+  - revenge_cycle
+  - reciprocity_with_spirits
+  figures:
+  - Kagsagsuk
+  - Kivioq
+  - angakoq_shamans
+  why_it_matters: The largest early Inuit tale corpus (about 150 tales), sourced substantially
+    from Greenlandic writers - orphan-hero, wandering-hero (Kivioq), and spirit-journey
+    cycles for deep comparison within and beyond the Arctic lineage.
+  raw_path: imports/raw/internet-archive/talestraditionso01rink-tales-and-traditions-of-the-eskimo-rink.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/talestraditionso01rink-tales-and-traditions-of-the-eskimo-rink.md
+- id: siberian.koryak_texts.bogoras_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: koryaktextswald05bogorich
+  slug: koryak-texts-bogoras
+  title: Koryak Texts
+  alternate_titles:
+  - Koryak Texts
+  text_status: complete
+  tradition: siberian
+  tradition_cluster: siberian_paleoasiatic
+  culture: koryak_oral_traditions_verbatim_ethnographic_record
+  region: siberia_kamchatka
+  source_language: Koryak
+  text_language: English
+  date_range: living oral tradition; recorded 1900-1901 (Jesup North Pacific Expedition),
+    published 1917
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of Publications of the American
+    Ethnological Society Vol. V, 1917
+  translator: Waldemar Bogoras
+  editor: Franz Boas
+  publication_year: 1917
+  publisher: Internet Archive
+  source_url: https://archive.org/details/koryaktextswald05bogorich
+  download_url: https://archive.org/download/koryaktextswald05bogorich/koryaktextswald05bogorich_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1917, US public domain. Recording context - Bogoras recorded
+      these texts verbatim from named Koryak narrators during the Jesup Expedition;
+      interlinear Koryak with facing English translation makes this unusually faithful,
+      but it remains an outsider-published record of a living tradition. OCR of the
+      Koryak-language portions is noisy - use the English translations.
+  tags:
+  - koryak
+  - siberia
+  - kamchatka
+  - raven_cycle
+  - jesup_expedition
+  - shamanism
+  motifs:
+  - raven_creator
+  - trickster_boundary
+  - shapeshifter
+  - shamanic_journey
+  - marriage_test
+  figures:
+  - Big_Raven_Quikinnaqu
+  - Ememqut
+  - Miti
+  why_it_matters: Verbatim-recorded Koryak Raven-cycle texts - the Siberian side of
+    the Raven complex shared with Northwest Coast America, critical for distinguishing
+    circumpolar diffusion from independent recurrence in the atlas's isolation analysis.
+  raw_path: imports/raw/internet-archive/koryaktextswald05bogorich-koryak-texts-bogoras.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/koryaktextswald05bogorich-koryak-texts-bogoras.md
+- id: siberian.tales_of_yukaghir_lamut.bogoras_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: talesofyukaghirl0000bogo
+  slug: tales-of-yukaghir-lamut-bogoras
+  title: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  alternate_titles:
+  - Tales of Yukaghir, Lamut, and Russanized Natives of Eastern Siberia
+  text_status: complete
+  tradition: siberian
+  tradition_cluster: siberian_paleoasiatic
+  culture: yukaghir_lamut_oral_traditions_ethnographic_collection
+  region: siberia_kolyma
+  source_language: Yukaghir, Even (Lamut), and Kolyma Russian dialect
+  text_language: English
+  date_range: living oral traditions; recorded 1895-1897 and 1900-1901, published
+    1918 (Anthropological Papers of the AMNH Vol. XX Part I)
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 American Museum
+    of Natural History edition
+  translator: Waldemar Bogoras
+  editor: ''
+  publication_year: 1918
+  publisher: Internet Archive
+  source_url: https://archive.org/details/talesofyukaghirl0000bogo
+  download_url: https://archive.org/download/talesofyukaghirl0000bogo/talesofyukaghirl0000bogo_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1918, US public domain. Recording context - collected by Bogoras
+      during Siberian exile and the Jesup Expedition from small, now critically endangered
+      language communities; the Russianized-native tales show Russian contact influence
+      and should be flagged separately from the Yukaghir and Lamut material when making
+      isolation claims.
+  tags:
+  - yukaghir
+  - lamut
+  - even
+  - siberia
+  - kolyma
+  - shamanism
+  motifs:
+  - shamanic_journey
+  - animal_helper
+  - cannibal_ogre
+  - shapeshifter
+  - cosmic_origin
+  figures:
+  - shamans
+  - sea_spirit
+  - mythical_old_woman
+  why_it_matters: Rare recorded Yukaghir and Even oral texts - shaman transformation,
+    sea-spirit, and creation tales from tiny isolated Siberian lineages, with internal
+    contrast material (Russianized tales) that helps calibrate what contact influence
+    looks like.
+  raw_path: imports/raw/internet-archive/talesofyukaghirl0000bogo-tales-of-yukaghir-lamut-bogoras.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/talesofyukaghirl0000bogo-tales-of-yukaghir-lamut-bogoras.md
+- id: siberian_mongol.journey_in_southern_siberia.curtin_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: cu31924028465320
+  slug: journey-in-southern-siberia-curtin
+  title: A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths
+  alternate_titles:
+  - A Journey in Southern Siberia
+  text_status: complete
+  tradition: buryat_mongol
+  tradition_cluster: siberian_mongol
+  culture: buryat_oral_traditions_traveler_collection
+  region: siberia_lake_baikal
+  source_language: Buryat Mongol
+  text_language: English
+  date_range: living oral tradition; recorded 1900, published 1909
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1909 Little, Brown edition
+    (Cornell University scan)
+  translator: Jeremiah Curtin
+  editor: ''
+  publication_year: 1909
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924028465320
+  download_url: https://archive.org/download/cu31924028465320/cu31924028465320_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1909, US public domain. Recording context - Curtin collected
+      Buryat myths near Lake Baikal in 1900 through interpreters; the volume mixes
+      travelogue with recorded narratives, and Buryat shamanic religion is a living
+      tradition. Extract the myth and epic chapters (including the Gesir cycle) and
+      skip the travel narrative.
+  tags:
+  - buryat
+  - mongol
+  - siberia
+  - gesir
+  - shamanism
+  - epic
+  motifs:
+  - sky_father
+  - hero_quest
+  - shamanic_journey
+  - monster_slaying
+  - cosmic_origin
+  figures:
+  - Gesir_Bogdo
+  - Eskin_Tengri
+  - burkans
+  why_it_matters: The main pre-1930 English record of Buryat Mongol oral myth, including
+    a recorded Gesir (Gesar) epic cycle - covers both the Siberian and steppe lineage
+    targets with actual field-collected narratives rather than literary retellings.
+  raw_path: imports/raw/internet-archive/cu31924028465320-journey-in-southern-siberia-curtin.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cu31924028465320-journey-in-southern-siberia-curtin.md
+- id: african.nursery_tales_zulus.callaway_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: nurserytalestrad00call_0
+  slug: nursery-tales-traditions-histories-zulus-callaway
+  title: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words
+  alternate_titles:
+  - Nursery Tales, Traditions, and Histories of the Zulus
+  text_status: complete
+  tradition: zulu
+  tradition_cluster: bantu_southern_african
+  culture: zulu_oral_traditions_missionary_collection
+  region: southern_africa_natal
+  source_language: Zulu (isiZulu)
+  text_language: English
+  date_range: living oral tradition; recorded 1850s-1860s, published 1868
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1868 Springvale/Trubner
+    edition
+  translator: Henry Callaway
+  editor: Henry Callaway
+  publication_year: 1868
+  publisher: Internet Archive
+  source_url: https://archive.org/details/nurserytalestrad00call_0
+  download_url: https://archive.org/download/nurserytalestrad00call_0/nurserytalestrad00call_0_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1868, US public domain. Recording context - Callaway was a missionary,
+      but he recorded narratives in Zulu from named narrators and printed the Zulu
+      text with facing English translation, making this one of the most faithful 19th-century
+      African collections; still a colonial-era publication of a living tradition.
+      Use the English columns; Zulu-language OCR is noisy.
+  tags:
+  - zulu
+  - bantu
+  - southern_africa
+  - uthlakanyana
+  - folk_tales
+  - own_words
+  motifs:
+  - trickster_boundary
+  - cannibal_ogre
+  - swallowing_monster
+  - culture_hero
+  - animal_helper
+  figures:
+  - Uthlakanyana
+  - Usikulumi
+  - amazimu_cannibals
+  why_it_matters: Foundational verbatim Zulu corpus - trickster Uthlakanyana, swallowing-monster,
+    and cannibal-ogre cycles recorded in the narrators' own words, the strongest evidence
+    base for Bantu-lineage motif recurrence independent of Eurasian sources.
+  raw_path: imports/raw/internet-archive/nurserytalestrad00call_0-nursery-tales-traditions-histories-zulus-callaway.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/nurserytalestrad00call_0-nursery-tales-traditions-histories-zulus-callaway.md
+- id: african.south_african_folk_tales.honey_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '38339'
+  slug: south-african-folk-tales-honey
+  title: South-African Folk-Tales
+  alternate_titles:
+  - South African Folk-Tales
+  text_status: complete
+  tradition: khoisan_south_african
+  tradition_cluster: khoisan_southern_african
+  culture: khoikhoi_san_oral_traditions_colonial_compilation
+  region: southern_africa_cape
+  source_language: Khoikhoi and San oral traditions mediated through English
+  text_language: English
+  date_range: living and recently extinct oral traditions; compiled from 19th-century
+    sources, published 1910
+  source_type: oral_tradition_collection
+  edition: 'Project Gutenberg plain-text eBook #38339'
+  translator: James A. Honey
+  editor: James A. Honey
+  publication_year: 1910
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/38339
+  download_url: https://www.gutenberg.org/ebooks/38339.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Recording context -
+      a compilation drawing on earlier colonial collections (Bleek and others); mixes
+      Khoikhoi and San animal tales with some Boer and European-influenced stories,
+      so individual tales must be provenance-checked before being used in isolation
+      arguments.
+  tags:
+  - khoikhoi
+  - san
+  - south_africa
+  - animal_tales
+  - jackal
+  - mantis
+  motifs:
+  - trickster_boundary
+  - animal_helper
+  - origin_of_death
+  - shapeshifter
+  figures:
+  - Jackal
+  - Lion
+  - Mantis
+  - Hare_and_Moon
+  why_it_matters: Accessible Khoikhoi and San animal-tale corpus including the moon-and-hare
+    origin-of-death myth - a signature isolated-lineage motif parallel - though mixed
+    provenance requires per-tale screening.
+  raw_path: imports/raw/project-gutenberg/38339-south-african-folk-tales-honey.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/38339-south-african-folk-tales-honey.md
+  canonical_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  manifest_path: manifests/project-gutenberg/38339-south-african-folk-tales-honey.yml
+  extraction_dir: extractions/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey
+- id: african.specimens_of_bushman_folklore.bleek_lloyd_archive
+  status: converted
+  priority: high
+  source: internet_archive
+  source_id: specimensofbushm00blee
+  slug: specimens-of-bushman-folklore-bleek-lloyd
+  title: Specimens of Bushman Folklore
+  alternate_titles:
+  - Specimens of Bushman Folklore
+  text_status: complete
+  tradition: san
+  tradition_cluster: khoisan_southern_african
+  culture: xam_san_oral_traditions_verbatim_colonial_record
+  region: southern_africa_cape
+  source_language: "|Xam (San)"
+  text_language: English
+  date_range: oral tradition of the now-extinct |Xam language community; recorded
+    1870s, published 1911
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1911 George Allen edition
+  translator: W. H. I. Bleek and Lucy C. Lloyd
+  editor: Lucy C. Lloyd
+  publication_year: 1911
+  publisher: Internet Archive
+  source_url: https://archive.org/details/specimensofbushm00blee
+  download_url: https://archive.org/download/specimensofbushm00blee/specimensofbushm00blee_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1911, US public domain. Serious ethical recording context - the
+      |Xam narrators (including ||Kabbo and Han-kasso) were prisoners and ex-prisoners
+      of the Cape Colony living in the Bleek household; the |Xam language and community
+      were subsequently destroyed, making this near-verbatim bilingual record both
+      irreplaceable and inseparable from colonial violence. Present with full provenance
+      and narrator attribution. Use English columns; |Xam orthography OCR is unusable.
+  tags:
+  - san
+  - bushman
+  - xam
+  - mantis
+  - star_lore
+  - first_people
+  motifs:
+  - cosmic_origin
+  - trickster_boundary
+  - shapeshifter
+  - star_origin
+  - origin_of_death
+  figures:
+  - Kaggen_Mantis
+  - Kabbo
+  - the_Moon
+  - the_early_race
+  why_it_matters: The single most valuable San text in existence - near-verbatim |Xam
+    narratives (Mantis creator-trickster, star and moon origins, the early race) from
+    one of the deepest-diverging human lineages, with no plausible Eurasian narrative
+    contact.
+  raw_path: imports/raw/internet-archive/specimensofbushm00blee-specimens-of-bushman-folklore-bleek-lloyd.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/specimensofbushm00blee-specimens-of-bushman-folklore-bleek-lloyd.md
+- id: melanesian.the_melanesians.codrington_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: b21936171
+  slug: the-melanesians-codrington
+  title: 'The Melanesians: Studies in Their Anthropology and Folk-Lore'
+  alternate_titles:
+  - The Melanesians
+  text_status: selected
+  tradition: melanesian
+  tradition_cluster: melanesian
+  culture: melanesian_oral_traditions_missionary_ethnography
+  region: melanesia_solomon_islands_vanuatu
+  source_language: Mota and other Melanesian languages mediated through English
+  text_language: English
+  date_range: living oral traditions; recorded 1860s-1880s, published 1891
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1891 Clarendon Press
+    edition (Wellcome Library scan)
+  translator: R. H. Codrington
+  editor: R. H. Codrington
+  publication_year: 1891
+  publisher: Internet Archive
+  source_url: https://archive.org/details/b21936171
+  download_url: https://archive.org/download/b21936171/b21936171_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1891, US public domain. Recording context - Codrington was an
+      Anglican missionary with 25 years in Melanesia and strong language competence;
+      the myth and folklore chapters include narratives from named islands, but the
+      whole is missionary ethnography of living traditions. Extract the stories and
+      mythology chapters; mana and ghost material remains religiously significant.
+  tags:
+  - melanesia
+  - mana
+  - qat
+  - banks_islands
+  - spirits
+  - folk_tales
+  motifs:
+  - culture_hero
+  - trickster_boundary
+  - cosmic_origin
+  - origin_of_death
+  - swallowing_monster
+  figures:
+  - Qat
+  - Marawa_the_spider
+  - Tagaro
+  why_it_matters: The classic Melanesian source - Qat creation cycle, origin-of-death,
+    and mana concept from an island lineage far outside the Eurasian corpus, complementing
+    the already-queued Polynesian lane.
+  raw_path: imports/raw/internet-archive/b21936171-the-melanesians-codrington.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/b21936171-the-melanesians-codrington.md
+- id: central_asian.gessar_khan.zeitlin_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: gessarkhan0000unse
+  slug: gessar-khan-zeitlin
+  title: Gessar Khan
+  alternate_titles:
+  - Gessar Khan
+  - Geser
+  - Gesar
+  text_status: complete
+  tradition: mongol
+  tradition_cluster: central_asian_steppe
+  culture: mongolian_gesar_epic_literary_retelling
+  region: central_asia_mongolia_tibet
+  source_language: Mongolian (via I. J. Schmidt's German translation of the 1716 Beijing
+    xylograph)
+  text_language: English
+  date_range: epic tradition attested from the 18th-century Mongolian xylograph; English
+    retelling published 1927
+  source_type: text
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1927 George H. Doran
+    edition, New York
+  translator: Ida Zeitlin
+  editor: ''
+  publication_year: 1927
+  publisher: Internet Archive
+  source_url: https://archive.org/details/gessarkhan0000unse
+  download_url: https://archive.org/download/gessarkhan0000unse/gessarkhan0000unse_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1927 in the US, public domain. Mediation caveat - this is a literary
+      English retelling based on Schmidt's 1839 German translation of the Mongolian
+      Geser xylograph, not a field-recorded oral text; treat as reception of the epic,
+      two removes from performance. The Geser/Gesar tradition also remains a living
+      sacred epic in Tibet and Mongolia.
+  tags:
+  - gesar
+  - geser
+  - mongol
+  - epic
+  - steppe
+  - heaven_sent_king
+  motifs:
+  - divine_king_descent
+  - hero_quest
+  - monster_slaying
+  - trickster_boundary
+  - restoration_of_order
+  figures:
+  - Gessar_Khan
+  - Khormuzda
+  - Rogmo_Goa
+  why_it_matters: The only pre-1930 English rendering of the Mongolian Geser epic
+    - a heaven-sent king who purges the world of demons - filling the steppe lineage
+    lane, with explicit flags that it is a literary retelling rather than recorded
+    performance.
+  raw_path: imports/raw/internet-archive/gessarkhan0000unse-gessar-khan-zeitlin.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/gessarkhan0000unse-gessar-khan-zeitlin.md
+- id: south_american.animism_folklore_guiana_indians.roth_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: cu31924104074665
+  slug: animism-folklore-guiana-indians-roth
+  title: An Inquiry into the Animism and Folk-Lore of the Guiana Indians
+  alternate_titles:
+  - Animism and Folk-Lore of the Guiana Indians
+  text_status: complete
+  tradition: guiana_amerindian
+  tradition_cluster: south_american_lowland
+  culture: warrau_carib_arawak_oral_traditions_ethnographic_collection
+  region: south_america_guianas
+  source_language: Warrau (Warao), Carib, and Arawak oral traditions mediated through
+    English
+  text_language: English
+  date_range: living oral traditions; compiled and recorded up to 1913, published
+    1915 (Bureau of American Ethnology 30th Annual Report)
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1915 Government Printing
+    Office edition (Cornell University scan)
+  translator: Walter E. Roth
+  editor: ''
+  publication_year: 1915
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924104074665
+  download_url: https://archive.org/download/cu31924104074665/cu31924104074665_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (Bureau of American Ethnology), public domain.
+      Recording context - Roth was a colonial official in British Guiana; the volume
+      systematically presents numbered Warrau, Carib, and Arawak narratives with source
+      attribution, but within a colonial administrative frame and period animism theory.
+  tags:
+  - guiana
+  - warao
+  - carib
+  - arawak
+  - amazonia
+  - bush_spirits
+  motifs:
+  - shamanic_journey
+  - animal_helper
+  - shapeshifter
+  - sky_rope
+  - origin_of_death
+  figures:
+  - Haburi
+  - Kanaima
+  - bush_spirits
+  why_it_matters: The richest pre-1930 English corpus of lowland South American oral
+    narrative - over 300 numbered Warrau, Carib, and Arawak tales beyond the already-queued
+    Andean lane, key for testing motif recurrence in a lineage isolated from Eurasia.
+  raw_path: imports/raw/internet-archive/cu31924104074665-animism-folklore-guiana-indians-roth.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cu31924104074665-animism-folklore-guiana-indians-roth.md
+- id: south_american.legends_myths_british_guiana.brett_archive
+  status: converted
+  priority: medium
+  source: internet_archive
+  source_id: cu31924020443218
+  slug: legends-myths-british-guiana-brett
+  title: Legends and Myths of the Aboriginal Indians of British Guiana
+  alternate_titles:
+  - Legends and Myths of the Aboriginal Indians of British Guiana
+  text_status: complete
+  tradition: guiana_amerindian
+  tradition_cluster: south_american_lowland
+  culture: guiana_amerindian_oral_traditions_missionary_verse_retelling
+  region: south_america_guianas
+  source_language: Arawak, Carib, and Warrau oral traditions mediated through English
+  text_language: English
+  date_range: living oral traditions; collected mid-19th century, published 1880
+  source_type: oral_tradition_collection
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1880 William Wells Gardner
+    edition (Cornell University scan)
+  translator: William Henry Brett
+  editor: ''
+  publication_year: 1880
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924020443218
+  download_url: https://archive.org/download/cu31924020443218/cu31924020443218_djvu.txt
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1880, US public domain. Heavy mediation caveat - Brett was a
+      missionary who rendered the legends he collected into English verse; narrative
+      content is valuable but form and diction are entirely his. Cross-check motifs
+      against Roth's more literal 1915 corpus before relying on details.
+  tags:
+  - guiana
+  - arawak
+  - carib
+  - warao
+  - amazonia
+  - missionary_collection
+  motifs:
+  - culture_hero
+  - flood
+  - sky_rope
+  - trickster_boundary
+  - origin_of_fire
+  figures:
+  - Amalivaca
+  - Haburi
+  - Makonaima
+  why_it_matters: Early Guiana legend collection including Makonaima creation and
+    flood narratives; used as a cross-check against Roth, with explicit flags for
+    Brett's verse retelling and missionary framing.
+  raw_path: imports/raw/internet-archive/cu31924020443218-legends-myths-british-guiana-brett.txt
+  pipeline:
+    raw_fetched_on: '2026-07-17'
+    converted_on: '2026-07-17'
+  converted_path: imports/converted/project-gutenberg/cu31924020443218-legends-myths-british-guiana-brett.md
