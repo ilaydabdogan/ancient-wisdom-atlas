@@ -14,6 +14,7 @@ SITE_DIR = File.join(ROOT, "site")
 NAV = [
   ["Home", "index.html"],
   ["Findings", "findings/index.html"],
+  ["Letters", "letters/index.html"],
   ["Lab", "lab/index.html"],
   ["Currents", "currents/index.html"],
   ["Explorer", "explorer/index.html"],
@@ -93,6 +94,8 @@ def output_for_repo_path(path)
   case path
   when %r{\Atexts/(.+)\.md\z}
     ["texts", "#{slugify(Regexp.last_match(1))}.html"].join("/")
+  when %r{\Aletters/(.+)\.md\z}
+    ["letters", "#{slugify(Regexp.last_match(1))}.html"].join("/")
   when %r{\Apatterns/(.+)\.md\z}
     ["patterns", "#{slugify(Regexp.last_match(1))}.html"].join("/")
   when %r{\Acomparisons/(.+)\.md\z}
@@ -5077,6 +5080,7 @@ build_step("currents") { build_currents }
 build_step("agent files") { build_agent_files(texts, motif_index) }
 build_step("explorer") { build_explorer(motif_index, patterns) }
 build_step("texts") { build_texts(texts) }
+build_step("letters") { build_markdown_collection(title: "Letters from the Editor", subtitle: "What we realize as the Atlas grows \u2014 written for anyone, backed by evidence.", records: records_for_markdown("letters/**/*.md"), index_output: "letters/index.html", item_type: "letter", reading: true) }
 build_step("patterns") { build_patterns(patterns) }
 build_step("comparisons") { build_comparisons(comparisons) }
 build_step("motifs") { build_motifs(motif_index, taxonomy_child_motif_ids(normalization, proposed_new_groups)) }
