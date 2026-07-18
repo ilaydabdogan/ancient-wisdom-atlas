@@ -51,3 +51,19 @@ ever spoke: that we are not, at bottom, conquerors. We are couriers.
 *Every claim in this letter can be traced to its evidence in the Lab and
 followed down to the exact passages, which you are warmly invited to
 read — and doubt.*
+
+---
+
+*Postscript, later the same week.* The Atlas has since tripled, and I
+re-asked the question against the grown evidence — because a letter that
+fears re-asking is not worth writing. The exchange–knowledge circuit
+tripled with it: fifty-one traditions and a hundred and two texts in one
+direction, forty-seven and eighty-nine in the other, and the bond
+re-formed independently among the isolated peoples. But precision
+demands a correction: on the full corpus, the single most widespread
+relation is now knowledge bound to journey (fifty-four traditions), with
+exchange-and-knowledge just behind. Twin circuits, one engine. And a new
+bond rose into the top rank as the isolated lineages entered: exchange
+bound to sacrifice, in thirty-six traditions — as if the texts were
+insisting on the point: the gift and the offering are one act. The
+courier thesis stands; the ledger is fuller.
